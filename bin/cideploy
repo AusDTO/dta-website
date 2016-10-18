@@ -1,0 +1,58 @@
+#!/usr/bin/env bash
+
+# Exit immediately if there is an error
+set -e
+
+# cause a pipeline (for example, curl -s http://sipb.mit.edu/ | grep foo) to produce a failure return code if any command errors not just the last command of the pipeline.
+set -o pipefail
+
+# echo out each line of the shell as it executes
+set -x
+
+# takes care of pushing a release out
+# will push whatever is in your current directory
+# @appname - the name of the AI to create
+push2ai() {
+  declare appname="$1"
+  # Push the app
+  cf push "$1"  \
+    -n "$1"     \
+    -m 64M      \
+    -k 256M
+}
+
+# deploy per branch
+#
+deploy() {
+  declare branch="$1"
+  if [[ $branch = 'master' ]]
+  then
+    space="staging"
+    appname="dto-gov-au"
+  else
+    space="development"
+    appname="${branch}-dto-gov-au"
+  fi
+
+  echo "deploying the ${branch} branch to ${space} / ${appname}"
+  # set the PWS target space to staging
+  cf target -o DTO -s ${space}
+  push2ai "${appname}"
+}
+
+# main script function
+#
+main() {
+  readonly GITBRANCH="${GIT_BRANCH#*/}"
+
+  case "${GITBRANCH}" in
+    production)
+      echo "Not deploying the production branch."
+      ;;
+    *)
+      deploy "${GITBRANCH}"
+      ;;
+  esac
+}
+
+main $@

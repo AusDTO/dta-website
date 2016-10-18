@@ -1,0 +1,21 @@
+---
+layout: default
+localnav: digital-service-standard
+issue_collector: true
+---
+<div class="row">
+<aside class="sidebar-left col-md-3">	
+	<div class="local-nav">
+		<h1 class="block__title">Menu</h1>
+		{% include local-nav.html %}
+	</div>
+</aside>
+ 
+<div class="main-content col-md-9 col-lg-offset-1 col-lg-8" role="main">
+	<h1 class="page-title">{{ page.title }}</h1>
+	{% if page.lede %}
+	<div class="lede">{{ page.lede}}</div>
+	{% endif %}
+	{{ content }}
+</div>
+</div>

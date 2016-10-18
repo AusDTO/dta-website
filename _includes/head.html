@@ -1,0 +1,42 @@
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="shortcut icon" type="image/x-icon" href="/images/icons/favicon.ico">
+	<title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+	<meta name="description" content="{% if page.searchexcerpt %}{{ page.searchexcerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+	<meta name="creator" content="Digital Transformation Office">
+	{% if page.author %}<meta name="author" content="{{page.author}}">{% endif %}
+	<meta name="type" content="Text">
+	<meta name="modified" content="{{ page.date | date: "%b %-d, %Y" }}">
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+	<link rel="stylesheet" type="text/css" href="https://gov-au-ui-kit.apps.staging.digital.gov.au/latest/ui-kit.min.css"/>
+	<script type="text/javascript" src="https://gov-au-ui-kit.apps.staging.digital.gov.au/latest/ui-kit.min.js"></script>
+
+	<noscript>TODO</noscript>
+	<meta name="google-site-verification" content="zdp1kz_y6Nr9aAaS_WT1j2B4OB8GNHKrK-nV1Jrfw3g" />
+	{% if page.knowledge_schema %}
+	<!-- Schema for Google knowledge graph -->
+	<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Digital Transformation Office",
+  "url" : "https://www.dto.gov.au",
+  "logo": "http://www.dto.gov.au/images/dto-snippet-logo.png",
+  "sameAs" : [
+    "https://twitter.com/DTO",
+    "https://www.linkedin.com/company/digital-transformation-office",
+    "https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A",
+    "http://www.slideshare.net/DTO-slides"
+  ],
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://dto.gov.au/search/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{% endif %}
+</head>

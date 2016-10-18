@@ -1,0 +1,62 @@
+<ul class="menu">
+
+	{% assign localnav = layout.localnav %}
+	{% if page.localnav %}
+		{% assign localnav = page.localnav %}
+	{% endif %}
+
+	{%if localnav %}
+
+		{% if localnav == 'authentification-frameworks'  %}
+			{% for item in site.data.authentification-frameworks_localnav %}
+				{% include localnav-markup.html %}
+			{% endfor %}
+		{% endif %}
+
+		{% if localnav == 'common-website-elements'  %}
+			{% for item in site.data.common-website-elements_localnav %}
+				{% include localnav-markup.html %}
+			{% endfor %}
+		{% endif %}
+
+		{% if localnav == 'budget'  %}
+			{% for item in site.data.budget_localnav %}
+				{% include localnav-markup.html %}
+			{% endfor %}
+		{% endif %}
+
+		{% if localnav == 'digital-service-standard'  %}
+			{% for item in site.data.digital-service-standard_localnav %}
+				{% include localnav-markup.html %}
+			{% endfor %}
+		{% endif %}
+
+		{% if localnav == 'our-work'  %}
+			{% for item in site.data.our-work_localnav %}
+				{% include localnav-markup.html %}
+			{% endfor %}
+		{% endif %}
+
+	    {% if localnav == 'annual-report'  %}
+	        {% for item in site.data.annual-report_localnav %}
+	            {% include localnav-markup.html %}
+	        {% endfor %}
+        {% endif %}
+
+		{% if localnav == 'digital-service-standard-criteria'  %}
+			{% for item in site.data.digital-service-standard-criteria_localnav %}
+				{% include localnav-markup.html %}
+			{% endfor %}
+
+			<div class="extended-menu">
+			{% for item in site.data.digital-service-standard-hidden_localnav %}
+				{% include localnav-markup.html %}
+		  {% endfor %}
+			</div>
+
+			<a href="#" id="show_more">Show more</a>
+			<a href="#" id="show_less">Show less</a>
+
+		{% endif %}
+	{% endif %}
+</ul>

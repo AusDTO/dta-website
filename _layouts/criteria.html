@@ -1,0 +1,23 @@
+---
+layout: default
+localnav: digital-service-standard-criteria
+---
+<div class="row">
+<aside class="sidebar-left col-md-3">	
+	<div class="local-nav">
+		<h1 class="block__title">Menu</h1>
+		{% include local-nav.html %}
+	</div>
+</aside>
+ 
+<div class="main-content col-md-9 col-lg-offset-1 col-lg-8" role="main">
+	{% if page.criteria-number  %}
+	<div class="criteria-heading">
+	<h1 class="page-title-criteria"><span class="{{page.criteria-number}}">{{page.criteria-number}}</span>{{ page.title }}</h1>
+	<p class="criteria-subtitle">{{ page.lede }}</p>
+	</div>
+	{% else %}
+	{% endif %}
+	{{ content }}
+</div>
+</div>

@@ -1,0 +1,40 @@
+{% assign class = 'leaf' %}
+{% if page.url == item.url  %}
+	{% assign class = 'active' %}
+{% endif %}
+
+<li class="{{ class }}"><a href="{{ item.url }}">{{ item.title }}</a>
+	
+	{% if item.children  %}
+		<ul class="menu child">
+			{% for item in item.children %}
+			
+				{% assign class = 'leaf' %}
+				{% if page.url == item.url %}
+					{% assign class = 'active' %}
+				{% endif %}
+			
+				<li class="{{ class }}{% if page.url contains item.url %} active-trail{% endif %}"><a href="{{ item.url }}">{{ item.title }}</a>
+				
+				{% if item.grandchildren  %}
+					<ul class="menu grandchild">
+						{% for item in item.grandchildren %}
+			
+							{% assign class = 'leaf' %}
+							{% if page.url == item.url %}
+								{% assign class = 'active' %}
+							{% endif %}
+			
+							<li class="{{ class }}"><a href="{{ item.url }}">{{ item.title }}</a></li>
+				
+						{% endfor %}
+					</ul>
+				{% endif %}
+				
+				</li>
+				
+			{% endfor %}
+		</ul>
+	{% endif %}
+	
+</li>

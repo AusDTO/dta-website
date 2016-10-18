@@ -1,0 +1,9 @@
+- title: "Common website elements"
+  url: "/standard/design-guides/common-website-elements/"
+  children:
+    - title: "Caretaker conventions"
+      url: "/standard/design-guides/common-website-elements/caretaker-conventions/"
+    - title: "Files list (Harradine report)"
+      url: "/standard/design-guides/common-website-elements/files-list-harradine-report/"
+    - title: "Ministerial content"
+      url: "/standard/design-guides/common-website-elements/ministerial-content/"
