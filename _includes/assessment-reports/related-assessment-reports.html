@@ -1,0 +1,18 @@
+{% assign report-counter = 0 %}
+
+{% for report in site.assessment-reports %}
+  {% if report.title == page.title and report.assessment-stage != page.assessment-stage%}
+   {% assign report-counter = report-counter | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+{% if report-counter > 0 %}
+  <div class="related-assessment-reports">
+  <h2>Other assessment reports for {{page.title}}</h2>
+  {% for report in site.assessment-reports %}
+    {% if report.title == page.title and report.assessment-stage != page.assessment-stage%}
+     <a href="{{report.url}}">{{ report.assessment-stage }} assessment - {{report.date | date: '%B %d, %Y'}}</a>
+    {% endif %}
+  {% endfor %}
+  </div>
+{% endif %}

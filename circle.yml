@@ -1,0 +1,22 @@
+---
+
+dependencies:
+  pre:
+    - curl -v -L -f -o cf-cli_amd64.deb 'https://cli.run.pivotal.io/stable?release=debian64&source=github'
+    - sudo dpkg -i cf-cli_amd64.deb
+    - cf -v
+
+test:
+  override:
+    - bin/cibuild
+    - bin/citest
+
+deployment:
+  staging:
+    branch: master
+    owner: AusDTO
+    commands:
+      - cf api https://api.system.staging.digital.gov.au
+      - cf auth $CF_STAGING_USER $CF_STAGING_PASSWORD
+      - cf target -o dto -s dtoweb
+      - cf push

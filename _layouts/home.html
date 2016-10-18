@@ -1,0 +1,35 @@
+---
+---
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+	<body class="home">
+
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KR7JDF&gtm_auth=u33r6p2YRnra7vI2BU13sA&gtm_preview=env-2&gtm_cookies_win=x"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl+'&gtm_auth=u33r6p2YRnra7vI2BU13sA&gtm_preview=env-2&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KR7JDF');</script>
+  <!-- End Google Tag Manager -->
+  <nav class="skip-to">
+      <a href="#content">Skip to main content</a>
+      <a href="#nav">Skip to section navigation</a>
+  </nav>
+
+		{% include header.html %}
+
+		<div class="page-content">
+			<a id="main-content" tabindex="-1"></a>
+
+        	{{ content }}
+
+      	</div>
+
+	  	{% include footer.html %}
+
+	</body>
+
+</html>
