@@ -4,9 +4,10 @@ title: Blog comment and moderation policy
 breadcrumb: Blog comment and moderation policy
 permalink: /blog/blog-moderation-guidelines/
 ---
+
 Thanks for visiting! We welcome your participation and contribution on [our blog](/blog/).
 
-##Basic rules
+## Basic rules
 
 We do ask that you observe some basic guidelines:
 
@@ -19,23 +20,23 @@ We do ask that you observe some basic guidelines:
 
 We moderate all comments to ensure they comply with these guidelines. 
 
-##Here's a brief outline of how we evaluate your comments
+## Here's a brief outline of how we evaluate your comments
 
-###Has the comment clearly come from a ‘real person’?
+### Has the comment clearly come from a ‘real person’?
 
 If your comment is published under a name that’s clearly false, or looks like spam, it will not be published.
 
-###Are you asking for information or detail relating to another DTO product?
+### Are you asking for information or detail relating to another DTO product?
 
 We'll pass the query on and ensure it is dealt with as quickly as possible. If you provide an email address with your comment we'll update you directly on progress.
 
-###Does the comment raise an issue with a tool or transaction? Or is it reporting a bug or performance problem?
+### Does the comment raise an issue with a tool or transaction? Or is it reporting a bug or performance problem?
 
 We will alert the team responsible for fixing the issue and let you know this has been done.
 
-###Is the comment on topic, helpful and constructive?
+### Is the comment on topic, helpful and constructive?
 
 If your comment doesn't fit the topic of the blogpost, don't post it, you should instead [contact the Digital Transformation Office team](/contact/) who will help you with your query.
 
-###If your comment doesn't meet the guidelines
+### If your comment doesn't meet the guidelines
 Any comments that don’t meet these guidelines may not be published.
