@@ -1,0 +1,79 @@
+//crtieria list
+.dss-criteria-page-list {
+	ol {
+		font-size:4.3em;
+		font-weight:bold;
+		padding-left:0;
+		list-style-type:none;
+		counter-reset:standard-counter;
+		li {
+			border-top:1px solid $light-grey;
+			padding-top:25px;
+			padding-bottom:20px;
+			min-height:115px;
+			font-size:17px;
+			vertical-align:top;
+			position:relative;
+			padding-left:88px;
+			@media screen and (max-width: $tablet-minwidth) {
+				font-size:15px;
+			}
+			h3 {
+  			margin-top:0;
+  			font-size:23px;
+  			a {
+    			font-weight:600;
+  			}
+			}
+			&:before {
+				content:counter(standard-counter,decimal);
+				counter-increment:standard-counter;
+				display:inline-block;
+				float:left;
+				padding-top:0;
+				line-height:1;
+				text-align:center;
+				width:77px;
+				font-weight:700;
+				font-size:56px;
+				position:absolute;
+				left:0;
+				@media screen and (max-width: $tablet-minwidth) {
+					font-size:48px;
+				}
+			}
+			p {
+				
+			}
+			.related-guides {
+				p {
+					margin-bottom:3px;
+					color:$dark-grey;
+					font-size:15px;
+				}
+				a {
+					display:block;
+					font-size:15px;
+				}
+			}
+		}
+	}
+}
+
+//changes to dss criteria list
+.dss-criteria-page-list {
+  clear:both;
+  li {
+    clear:both;
+    div {
+      margin-bottom:20px;
+    }
+    h3 {
+      margin-top:0;
+    }
+    .border-left {
+      border-left:2px solid $light-grey;
+    }
+  }
+}
+            

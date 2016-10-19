@@ -1,6 +1,29 @@
 @charset 'utf-8';
 
+
+//colours
+$light-grey:#d6d7d6;		//use for borders (not accessible on $background-grey)
+$mid-grey:#676767;			//use for subheadings and menu titles (accessible on $background-grey)
+$dark-grey:#333;			//use for headings (accessible on $background-grey)
+$background-grey:#f4f4f4;	//general background grey
+$dto-blue: #015a96;			//(accessible on $background-grey)
+$dto-light-blue: #31afee;	//(accessible on black and white)
+$govau-background-grey: #f0f3f5;
+$focus-border: #80bdfb; 	//use for border on focused elements
+$govau-purple: #c72572;
+$govau-red: #D7002F;
+
+
+
 $gov-ui-kit-image-base-url: 'https://gov-au-ui-kit.apps.staging.digital.gov.au/latest/img/';
 
 @import 'dto-ui-kit/assets/sass/ui-kit';
-@import 'design-guide';
+
+//== Media queries breakpoints
+//$screen-sm-min: $tablet-minwidth;
+
+// Import partials from `partials'
+@import
+  "partials/criteria-page-header",
+  "partials/dss-criteria-list"
+;
