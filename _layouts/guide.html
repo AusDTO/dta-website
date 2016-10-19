@@ -1,0 +1,32 @@
+---
+layout: default
+phase: Alpha
+issue_collector: true
+---
+
+<div class="back-to-guides"><a href="/standard/design-guides/">Back to guides</a></div>
+
+<aside class="sidebar">
+	{% if page.localnav %}
+	<h2 class="block__title">Also in the guide</h2>
+	{% include local-nav.html %}
+	{% endif %}
+	{% if page.type == subguide %}
+	<h2 class="block__title">Related guides</h2>
+	{% include related-guides.html %}
+	{% else %}
+
+	{% endif %}
+</aside>
+
+<div class="row">
+<div class="col-md-9 col-lg-8 main-content" role="main">
+	<h1 class="page-title">{{ page.title }}</h1>
+	{% if page.lede %}
+	<div class="lede">{{ page.lede}}</div>
+	{% endif %}
+	{{ content }}
+</div>
+
+
+</div>

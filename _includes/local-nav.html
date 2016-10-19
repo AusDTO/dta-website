@@ -4,21 +4,30 @@
 {% endif %}
 
 {% if localnav %}
+<aside class="sidebar">
+    <nav class="local-nav" aria-label="main navigation">
+        <h1 class="is-visuallyhidden">Menu</h1>
+        <ul>
+            {% if localnav == 'digital-service-standard' %}
+                {% assign items = site.data.digital-service-standard_localnav %}
+            {% elsif localnav == 'digital-service-standard-criteria' %}
+                {% assign items = site.data.digital-service-standard-criteria_localnav %}
+            {% elsif localnav == 'authentification-frameworks' %}
+                {% assign items = site.data.authentification-frameworks_localnav %}
+            {% elsif localnav == 'common-website-elements' %}
+                {% assign items = site.data.common-website-elements_localnav %}
+            {% elsif localnav == 'budget' %}
+                {% assign items = site.data.budget_localnav %}
+            {% elsif localnav == 'our-work' %}
+                {% assign items = site.data.our-work_localnav %}
+            {% endif %}
 
-<nav class="local-nav" aria-label="main navigation">
-    <h1 class="is-visuallyhidden">Menu</h1>
-    <ul>
-        {% if localnav == 'digital-service-standard' %}
-            {% for item in site.data.digital-service-standard_localnav %}
+            {% for item in items %}
                 {% include localnav-markup.html %}
             {% endfor %}
+        </ul>
+    </nav>
+</aside>
 
-        {% elsif localnav == 'digital-service-standard-criteria' %}
-            {% for item in site.data.digital-service-standard-criteria_localnav %}
-                {% include localnav-markup.html %}
-            {% endfor %}
-        {% endif %}
-    </ul>
-</nav>
 {% endif %}
 
