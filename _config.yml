@@ -48,3 +48,11 @@ assets:
   sources:
     - _assets/scss
     - _assets/vendor
+    - _assets/img
+
+defaults:
+  -
+    scope:
+      path: "" # empty string means all files
+    values:
+      layout: "default"

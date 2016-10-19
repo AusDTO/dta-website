@@ -5,43 +5,32 @@ title: Latest blog posts
 searchexcerpt: Read the latest blog posts from the Digital Transformation Agency.
 permalink: /blog/
 ---
-<h1>Latest blog posts</h1>
+<h1>Blog</h1>
+<h2>Latest blog posts</h2>
 
-<div class="latest-blogposts">
-  <div class="row">
-	{% for post in site.categories['blog'] limit:3 %}
-	  <div class="col-sm-4">
-		  {% include latest-blogposts.html %}
-	  </div>
-	{% endfor %}
-  </div>
-  <div class="row">
-	{% for post in site.categories['blog'] limit:2 offset:3 %}
-	  <div class="col-sm-4">
-		  {% include latest-blogposts.html %}
-	  </div>
-	{% endfor %}
-	<div class="col-sm-4">
-	<h2 class="other-blogposts-title"><span>Other blog posts</span></h2>
-	<ul class="other-blogposts">
-	{% for post in site.categories['blog'] limit:3 offset:5 %}
-			<li>{% include other-blogposts.html %}</li>
-	{% endfor %}
-	</ul>
-	<a class="see-all" href="/blog/all-posts/">See all blog posts</a>
-	</div>
-  </div>
+<ul class="list-horizontal">
+    {% for post in site.categories['blog'] limit:5 %}
+    {% if post.tags contains 'dto-news' %}
+    <li>
+        {% include blog-teaser.html %}
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+<div>
+    <a class="see-more" href="/blog/all-posts/">See more</a>
 </div>
 
 <h2>DTO Blogs</h2>
-<ul class="specialised-blog-list">
+<ul class="list-small">
   <li>
-  <h2><a href="/blog/gov-au/">GOV.AU blog</a></h2>
-  <p>Read the latest news about the development of the GOV.AU project.</p>
+    <a href="/blog/gov-au/">GOV.AU blog</a>
+    <p>Read the latest news about the development of the GOV.AU project.</p>
   </li>
   <li>
-  <h2><a href="/blog/dto-news/">DTO News</a></h2>
-  <p>Keep up-to-date with the latest news from the Digital Transformation Office.</p>
+    <a href="/blog/dto-news/">DTO News</a>
+    <p>Keep up-to-date with the latest news from the Digital Transformation Office.</p>
   </li>
 </ul>
 
