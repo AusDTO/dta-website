@@ -1,0 +1,14 @@
+{% assign pages = site.teams | sort:"weight"  %}
+
+{% for team in pages %}
+<details>
+	<summary class="contact-accordion {{team.title | slugify}}">{{team.title}}</summary>
+	<div class="details-container">
+	{{team.content}}
+	{% for email in team.contact-email %}	
+		<a href="mailto:{{ email }}?subject={% if team.email-subject %}{{team.email-subject | replace: ' ', '%20'}}{% else %}{{team.title | replace: ' ', '%20'}}{% endif %}">{{ email }}</a>
+		{% unless forloop.last %} | {% endunless %}
+	{% endfor %}
+	</div>
+</details>  	  
+{% endfor %}
