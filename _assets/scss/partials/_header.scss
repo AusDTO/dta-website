@@ -1,0 +1,22 @@
+.govau {
+  &--header {
+    padding-bottom: 0.5em;
+    padding-top: 0.7em;
+    .logo-image {
+      border-bottom: none;
+      float: left;
+      width: 100px;
+
+      &:hover,
+      &:focus {
+        background-color: transparent;
+      }
+      + .logo {
+        position: relative;
+        top: 20px;
+        margin-left: $tiny-spacing;
+      }
+    }
+
+  }
+}

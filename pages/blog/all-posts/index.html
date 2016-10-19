@@ -4,11 +4,10 @@ breadcrumb: All blog posts
 title: All blog posts
 permalink: /blog/all-posts/
 ---
-<div class="blog-list row">
-<div class="col-md-9 col-lg-8 main-content" role="main">
-  <h1 class="page-heading">All blog posts</h1>
+<div class="blog-list">
+    <h1>All blog posts</h1>
 
-  <ul class="post-list">
+    <ul class="list-horizontal">
     {% for post in site.categories['blog'] %}
       <li>
 	      {% include blog-teaser.html %}    
@@ -27,7 +26,6 @@ permalink: /blog/all-posts/
 	</div>
 	
 </aside>
-</div>
 
 <!-- disqus comment count script -->
 <script id="dsq-count-scr" src="https://ausdto.disqus.com/count.js" async></script>

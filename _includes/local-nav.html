@@ -32,16 +32,12 @@
 		<!--</ul>-->
 	<!--</nav>-->
 
-	{% assign class = 'leaf' %}
-	{% if page.url == item.url  %}
-		{% assign class = 'is-active' %}
-	{% endif %}
 	<nav class="local-nav" aria-label="main navigation">
 		<h1 class="is-visuallyhidden">Menu</h1>
 		<ul>
 	{% for item in site.data.digital-service-standard_localnav %}
 			<li>
-				<a href="{{ item.url }}" class="{{ class }}">{{ item.title }}</a>
+				<a href="{{ item.url }}" class="is-active">{{ item.title }}</a>
 
 			{% if item.children  %}
 			<ul>

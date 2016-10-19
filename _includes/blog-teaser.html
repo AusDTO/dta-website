@@ -1,38 +1,26 @@
-<!--
-{% assign staff-list = false %}
-{% for excerpt in site.staff %}
-	{% if post.author contains excerpt.title %}
-		<img alt="decorative" src="{{ excerpt.profile-image }}">
-		{% assign staff-list = true %}
-	{% endif %}
-{% endfor %}
+<article>
+	<h3>
+		<a href="{{post.url}}">{{post.title}}</a>
+	</h3>
 
-{% if staff-list != true %}
-	<img alt="decorative" src="{{ post.profile }}">
-{% endif %}
--->
-
-<h3>
-	<a class="archive_list_article_link" href='{{post.url}}'>{{post.title}}</a>
-</h3>
-<div class="post-details">
-	<span class="post-author">{{ post.author }} — </span>
-	<span class="post-date">{{ post.date | date: "%-d %b %Y" }}</span>
-</div>
-
-<!--
-<div class="post-info">
-	<div class="read-time">{{ post.read-time }} minute read – </div>
-	<div class="comment-count">
-		<a href="{{ site.url }}{{ post.url }}#disqus_thread">0 Comments</a>
+	<div class="meta">
+		<time datetime="{{ post.date }}">{{ post.date | date: "%-d %b %Y" }}</time>
+		<span class="post-author">{{ post.author }}</span>
 	</div>
-</div>
--->
 
 {% if post.searchexcerpt %}
-	<div class="summary">{{ post.searchexcerpt }}</div>
+	<p>{{ post.searchexcerpt }}</p>
 {% else %}
-	<div class="summary">{{ post.content | strip_html | truncatewords:50}}</div>
+	<p>{{ post.content | strip_html | truncatewords:50}}</p>
 {% endif %}
+	<!--<a href="{{post.url}}">Read more</a>-->
+</article>
 
-<a href="{{post.url}}">Read more</a>
+<!--<h3>-->
+	<!--<a class="archive_list_article_link" href='{{post.url}}'>{{post.title}}</a>-->
+<!--</h3>-->
+<!--<div class="post-details">-->
+	<!--<span class="post-author">{{ post.author }} — </span>-->
+	<!--<span class="post-date">{{ post.date | date: "%-d %b %Y" }}</span>-->
+<!--</div>-->
+
