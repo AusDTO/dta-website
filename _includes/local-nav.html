@@ -1,9 +1,9 @@
 {% assign localnav = layout.localnav %}
 {% if page.localnav %}
-{% assign localnav = page.localnav %}
+    {% assign localnav = page.localnav %}
 {% endif %}
 
-{% if localnav %}
+{% if localnav or page.layout == 'guide' %}
 <aside class="sidebar">
     <nav class="local-nav" aria-label="main navigation">
         <h1 class="is-visuallyhidden">Menu</h1>
@@ -25,6 +25,10 @@
             {% for item in items %}
                 {% include localnav-markup.html %}
             {% endfor %}
+
+            {% if page.layout == 'guide' %}
+            {% include related-guides.html %}
+            {% endif %}
         </ul>
     </nav>
 </aside>

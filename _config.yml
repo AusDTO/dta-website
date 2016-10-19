@@ -28,9 +28,11 @@ uikit_base_url: https://gov-au-ui-kit.apps.staging.digital.gov.au/latest/
 empty-array: []
 
 collections:
+  assessment-reports:
+    output: true
   projects:
     output: true
-  assessment-reports:
+  teams:
     output: true
 
 # Build settings

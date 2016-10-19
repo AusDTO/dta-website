@@ -1,0 +1,80 @@
+
+<div class="project-phase">
+{% if project.phase != "mobilisation" %}
+<span class="{{ project.phase }}">{{ project.phase }}</span>
+{% endif %}
+</div>
+
+
+<div class="left">
+	<a href="{{ project.department-site }}">
+		<img alt="{{ project.department }} logo" src="{{ project.department-logo }}">
+	</a>
+</div>
+
+<div class="right">
+
+	<h4>{{ project.static-title }}</h4>
+	<p class="subtitle">{{ project.subtitle }}</p>
+
+	{% if project.summary  %}
+	<p class="summary">{{ project.summary }}</p>
+	{% endif %}
+
+	{% if project.links  %}
+		<ul class="project-links">
+			{% for link in project.links %}
+				<li><a href="{{ link.url }}">{{ link.label }}</a></li>
+			{% endfor %}
+		</ul>
+	{% endif %}
+
+	{% if project.alpha_assessment  %}
+		<a href="{{ project.alpha_assessment }}">Alpha assessment - {{ project.subtitle }}</a>
+	{% endif %}
+
+	{% if project.beta_assessment  %}
+		<a href="{{ project.beta_assessment }}">Beta assessment - {{ project.subtitle }}</a>
+	{% endif %}
+
+	{% if project.alpha_assessment_date  %}
+		<p>Alpha assessment expected in {{ project.alpha_assessment_date }}.</p>
+	{% endif %}
+
+	{% if project.start_date  %}
+		<p>Project starts {{ project.start_date }}.</p>
+	{% endif %}
+
+	{% if project.discovery_start_date  %}
+		<p>Discovery expected to commence in {{ project.discovery_start_date }}.</p>
+	{% endif %}
+
+	{% if project.alpha_start_date  %}
+		<p>Alpha expected in {{ project.alpha_start_date }}.</p>
+	{% endif %}
+
+	{% if project.alpha_end_date  %}
+		<p>Alpha to be completed by {{ project.alpha_end_date }}.</p>
+	{% endif %}
+
+	{% if project.beta_start_date  %}
+		<p>Public Beta expected in {{ project.beta_start_date }}.</p>
+	{% endif %}
+
+	{% if project.beta_public_date  %}
+		<p>Public beta available {{ project.beta_public_date }}.</p>
+	{% endif %}
+
+	{% if project.live_start_date  %}
+		<p>Live service expected to commence in {{ project.beta_start_date }}.</p>
+	{% endif %}
+
+	{% if project.end_date  %}
+		<p>Public beta available {{ project.end_date }}.</p>
+	{% endif %}
+
+	{% if project.beta_delivered_date  %}
+		<p>Public Beta delivered in {{ project.beta_delivered_date }}.</p>
+	{% endif %}
+
+</div>
