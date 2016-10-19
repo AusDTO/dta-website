@@ -24,6 +24,9 @@ $gov-ui-kit-image-base-url: 'https://gov-au-ui-kit.apps.staging.digital.gov.au/l
 
 // Import partials from `partials'
 @import
+  "partials/blog-share-links",
+  "partials/blog-subscribe",
+  "partials/breadcrumb",
   "partials/criteria-page-header",
   "partials/dss-criteria-list"
 ;

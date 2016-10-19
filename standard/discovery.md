@@ -7,16 +7,15 @@ weight: 10
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k3DNy06Ddvg" frameborder="0" allowfullscreen></iframe>
 
-
-
-<details class="transcript-accordion">
-<summary>Read transcript - What is discovery? - 3:53 min</summary>
-<div class="details-container" markdown="1">
-
-{% include transcripts/transcript-discovery.md %}
-
-</div> 
+<details open data-label="content-accordion-1-example" aria-expanded="false">
+  <summary>Read transcript - What is discovery? - 3:53 min</summary>
+  <div class="accordion-panel" markdown="1">
+    
+    {% include transcripts/transcript-discovery.md %}
+    
+  </div>
 </details>
+
 
 The purpose of the Discovery process is to help the team get a deep understanding of the problems they are setting out to address in the service delivery by understanding:
 
