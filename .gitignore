@@ -1,4 +1,6 @@
 _site
 .sass-cache
+.asset-cache
 .jekyll-metadata
+dta-website.iml
 .idea
