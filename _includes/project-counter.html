@@ -1,0 +1,60 @@
+{% assign mobilisation-counter = 0 %}
+{% assign discovery-counter = 0 %}
+{% assign alpha-counter = 0 %}
+{% assign beta-counter = 0 %}
+{% assign live-counter = 0 %}
+
+{% for number in site.projects %}
+
+{% if number.phase contains 'mobilisation' %}
+{% assign mobilisation-counter = mobilisation-counter | plus: 1 %}
+{% endif %}
+
+{% if number.phase contains 'discovery' %}
+{% assign discovery-counter = discovery-counter | plus: 1 %}
+{% endif %}
+
+{% if number.phase contains 'alpha' %}
+{% assign alpha-counter = alpha-counter | plus: 1 %}
+{% endif %}
+
+{% if number.phase contains 'beta' %}
+{% assign beta-counter = beta-counter | plus: 1 %}
+{% endif %}
+
+{% if number.phase contains 'live' %}
+{% assign live-counter = live-counter | plus: 1 %}
+{% endif %}
+
+{% endfor %}
+
+<div class="project-phase-counter">
+
+{% comment %}
+	<div class="project-phase-column">
+	<h3 class="mobilisation">Mobilisation</h3>
+	<div class="count">{{mobilisation-counter}}</div>
+	</div>
+{% endcomment %}
+
+<div class="project-phase-column">
+<h3 class="discovery">Discovery</h3>
+<div class="count">{{discovery-counter}}</div>
+</div>
+
+<div class="project-phase-column">
+<h3 class="alpha">Alpha</h3>
+<div class="count">{{alpha-counter}}</div>
+</div>
+
+<div class="project-phase-column">
+<h3 class="beta">Beta</h3>
+<div class="count">{{beta-counter}}</div>
+</div>
+
+<div class="project-phase-column">
+<h3 class="live">Live</h3>
+<div class="count">{{live-counter}}</div>
+</div>
+
+</div>
