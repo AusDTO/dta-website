@@ -10,4 +10,4 @@ set -x
 
 bundle check || bundle install
 
-bundle exec jekyll serve --watch --incremental  --limit_posts 1
+bundle exec jekyll serve --watch --incremental --limit_posts 1

@@ -1,40 +1,46 @@
-{% assign class = 'leaf' %}
-{% if page.url == item.url  %}
-	{% assign class = 'active' %}
-{% endif %}
+<li>
+	<a href="{{ item.url }}" class="is-active">{{ item.title }}</a>
 
-<li class="{{ class }}"><a href="{{ item.url }}">{{ item.title }}</a>
-	
-	{% if item.children  %}
-		<ul class="menu child">
-			{% for item in item.children %}
-			
-				{% assign class = 'leaf' %}
+	{% if item.children %}
+	<ul>
+		{% for item in item.children %}
+
+		{% assign class = '' %}
+		{% if page.url == item.url %}
+		{% assign class = 'is-current is-active' %}
+		{% elsif page.url contains item.url %}
+		{% assign class = 'is-active' %}
+		{% endif %}
+
+		<li>
+			<a href="{{ item.url }}" class="{{ class }}">
+				{{ item.title }}
+			</a>
+
+			{% if item.grandchildren %}
+			<ul>
+				{% for item in item.grandchildren %}
+
+				{% assign class = '' %}
 				{% if page.url == item.url %}
-					{% assign class = 'active' %}
+				{% assign class = 'is-current is-active' %}
+				{% elsif page.url contains item.url %}
+				{% assign class = 'is-active' %}
 				{% endif %}
-			
-				<li class="{{ class }}{% if page.url contains item.url %} active-trail{% endif %}"><a href="{{ item.url }}">{{ item.title }}</a>
-				
-				{% if item.grandchildren  %}
-					<ul class="menu grandchild">
-						{% for item in item.grandchildren %}
-			
-							{% assign class = 'leaf' %}
-							{% if page.url == item.url %}
-								{% assign class = 'active' %}
-							{% endif %}
-			
-							<li class="{{ class }}"><a href="{{ item.url }}">{{ item.title }}</a></li>
-				
-						{% endfor %}
-					</ul>
-				{% endif %}
-				
+
+				<li>
+					<a class="{{ class }}" href="{{ item.url }}">
+						{{ item.title }}
+					</a>
 				</li>
-				
-			{% endfor %}
-		</ul>
+				{% endfor %}
+			</ul>
+			{% endif %}
+
+		</li>
+
+		{% endfor %}
+	</ul>
 	{% endif %}
-	
+
 </li>
