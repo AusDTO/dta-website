@@ -1,0 +1,23 @@
+<ul class="menu">
+	
+{% for tag in page.topic_group %}
+
+  {% for post in site.pages reversed %}
+
+    {% if post.topic_group contains tag %}
+    	<!-- Omits current page from list -->
+	    {% if post.url == page.url %}
+	    	{% else %}
+	    	<!-- Omits any content with type: subguide from list -->
+	    	{% if post.type == subguide %}
+	    	<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    	{% else %}
+	      {% endif %}
+	      {% endif %}
+    {% endif %}
+
+  {% endfor %}
+
+{% endfor %}
+	
+</ul>
