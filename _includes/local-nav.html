@@ -1,89 +1,24 @@
 {% assign localnav = layout.localnav %}
 {% if page.localnav %}
-	{% assign localnav = page.localnav %}
+{% assign localnav = page.localnav %}
 {% endif %}
 
-{% if localnav == 'digital-service-standard' %}
+{% if localnav %}
 
-	<!--<nav class="local-nav local-nav-demo" aria-label="main navigation">-->
-		<!--<h1 class="is-visuallyhidden">Menu</h1>-->
-		<!--<ul>-->
-			<!--<li>-->
-				<!--<a href="#" class="is-active">Department of Communications and the Arts</a>-->
-				<!--<ul>-->
-					<!--<li>-->
-						<!--<a href="#" class="is-active">People and structure</a>-->
-						<!--<ul>-->
-							<!--<li><a href="#">Division name</a></li>-->
-							<!--<li>-->
-								<!--<a href="#" class="is-active">Division name</a>-->
-								<!--<ul>-->
-									<!--<li><a href="#" class="is-active is-current">Branch name</a></li>-->
-									<!--<li><a href="#">Branch name</a></li>-->
-								<!--</ul>-->
-							<!--</li>-->
-							<!--<li><a href="#">Division name</a></li>-->
-						<!--</ul>-->
-					<!--</li>-->
-					<!--<li><a href="#">Portfolio</a></li>-->
-					<!--<li><span class="placeholder-link">A placeholder item</span></li>-->
-				<!--</ul>-->
-			<!--</li>-->
-		<!--</ul>-->
-	<!--</nav>-->
+<nav class="local-nav" aria-label="main navigation">
+    <h1 class="is-visuallyhidden">Menu</h1>
+    <ul>
+        {% if localnav == 'digital-service-standard' %}
+            {% for item in site.data.digital-service-standard_localnav %}
+                {% include localnav-markup.html %}
+            {% endfor %}
 
-	<nav class="local-nav" aria-label="main navigation">
-		<h1 class="is-visuallyhidden">Menu</h1>
-		<ul>
-	{% for item in site.data.digital-service-standard_localnav %}
-			<li>
-				<a href="{{ item.url }}" class="is-active">{{ item.title }}</a>
-
-			{% if item.children  %}
-			<ul>
-				{% for item in item.children %}
-
-				{% assign class = '' %}
-				{% if page.url == item.url %}
-					{% assign class = 'is-current is-active' %}
-				{% elsif page.url contains item.url %}
-					{% assign class = 'is-active' %}
-				{% endif %}
-
-				<li>
-					<a href="{{ item.url }}" class="{{ class }}">
-						{{ item.title }}
-					</a>
-
-					{% if item.grandchildren  %}
-					<ul>
-						{% for item in item.grandchildren %}
-
-							{% assign class = '' %}
-							{% if page.url == item.url %}
-								{% assign class = 'is-current is-active' %}
-							{% elsif page.url contains item.url %}
-								{% assign class = 'is-active' %}
-							{% endif %}
-
-						<li>
-							<a class="{{ class }}" href="{{ item.url }}">
-								{{ item.title }}
-							</a>
-						</li>
-						{% endfor %}
-					</ul>
-					{% endif %}
-
-				</li>
-
-				{% endfor %}
-			</ul>
-			{% endif %}
-
-		</li>
-
-	{% endfor %}
-
+        {% elsif localnav == 'digital-service-standard-criteria' %}
+            {% for item in site.data.digital-service-standard-criteria_localnav %}
+                {% include localnav-markup.html %}
+            {% endfor %}
+        {% endif %}
+    </ul>
+</nav>
 {% endif %}
 
