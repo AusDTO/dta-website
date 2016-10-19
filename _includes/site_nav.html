@@ -1,0 +1,43 @@
+<nav id="nav" class="local-nav" aria-label="main navigation">
+  <ul>
+    <li>
+      <a href="/">Home</a>
+    </li>
+
+    {% assign pages = site.pages | where: "layout", "page" %}
+    {% for page in pages %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+    {% endfor %}
+
+    <li>
+      <a href="/styleguide.html">Styleguide</a>
+
+      <ul class="collections">
+      {% for collection in site.collections %}
+      {% capture label %}{{ collection.label }}{% endcapture %}
+
+        {% if label == "posts" %}
+          {% continue %}
+        {% endif %}
+
+        <li>
+          <a href="/{{ label }}">{{ label | capitalize }}</a>
+        </li>
+      {% endfor %}
+      </ul>
+
+      <ul>
+      {% for section in site.data.data-sections %}
+        {% unless section.referenceNumber contains '.' %}
+        <li>
+          <a href="/sections/{{ section.header | slugify }}.html">{{ section.header }}</a>
+        </li>
+        {% endunless %}
+      {% endfor %}
+      </ul>
+      
+    </li>
+  </ul>
+</nav>

@@ -1,62 +1,93 @@
-<ul class="menu">
+{% assign localnav = layout.localnav %}
+{% if page.localnav %}
+	{% assign localnav = page.localnav %}
+{% endif %}
 
-	{% assign localnav = layout.localnav %}
-	{% if page.localnav %}
-		{% assign localnav = page.localnav %}
+{% if localnav == 'digital-service-standard' %}
+
+	<!--<nav class="local-nav local-nav-demo" aria-label="main navigation">-->
+		<!--<h1 class="is-visuallyhidden">Menu</h1>-->
+		<!--<ul>-->
+			<!--<li>-->
+				<!--<a href="#" class="is-active">Department of Communications and the Arts</a>-->
+				<!--<ul>-->
+					<!--<li>-->
+						<!--<a href="#" class="is-active">People and structure</a>-->
+						<!--<ul>-->
+							<!--<li><a href="#">Division name</a></li>-->
+							<!--<li>-->
+								<!--<a href="#" class="is-active">Division name</a>-->
+								<!--<ul>-->
+									<!--<li><a href="#" class="is-active is-current">Branch name</a></li>-->
+									<!--<li><a href="#">Branch name</a></li>-->
+								<!--</ul>-->
+							<!--</li>-->
+							<!--<li><a href="#">Division name</a></li>-->
+						<!--</ul>-->
+					<!--</li>-->
+					<!--<li><a href="#">Portfolio</a></li>-->
+					<!--<li><span class="placeholder-link">A placeholder item</span></li>-->
+				<!--</ul>-->
+			<!--</li>-->
+		<!--</ul>-->
+	<!--</nav>-->
+
+	{% assign class = 'leaf' %}
+	{% if page.url == item.url  %}
+		{% assign class = 'is-active' %}
 	{% endif %}
+	<nav class="local-nav" aria-label="main navigation">
+		<h1 class="is-visuallyhidden">Menu</h1>
+		<ul>
+	{% for item in site.data.digital-service-standard_localnav %}
+			<li>
+				<a href="{{ item.url }}" class="{{ class }}">{{ item.title }}</a>
 
-	{%if localnav %}
+			{% if item.children  %}
+			<ul>
+				{% for item in item.children %}
 
-		{% if localnav == 'authentification-frameworks'  %}
-			{% for item in site.data.authentification-frameworks_localnav %}
-				{% include localnav-markup.html %}
-			{% endfor %}
-		{% endif %}
+				{% assign class = '' %}
+				{% if page.url == item.url %}
+					{% assign class = 'is-current is-active' %}
+				{% elsif page.url contains item.url %}
+					{% assign class = 'is-active' %}
+				{% endif %}
 
-		{% if localnav == 'common-website-elements'  %}
-			{% for item in site.data.common-website-elements_localnav %}
-				{% include localnav-markup.html %}
-			{% endfor %}
-		{% endif %}
+				<li>
+					<a href="{{ item.url }}" class="{{ class }}">
+						{{ item.title }}
+					</a>
 
-		{% if localnav == 'budget'  %}
-			{% for item in site.data.budget_localnav %}
-				{% include localnav-markup.html %}
-			{% endfor %}
-		{% endif %}
+					{% if item.grandchildren  %}
+					<ul>
+						{% for item in item.grandchildren %}
 
-		{% if localnav == 'digital-service-standard'  %}
-			{% for item in site.data.digital-service-standard_localnav %}
-				{% include localnav-markup.html %}
-			{% endfor %}
-		{% endif %}
+							{% assign class = '' %}
+							{% if page.url == item.url %}
+								{% assign class = 'is-current is-active' %}
+							{% elsif page.url contains item.url %}
+								{% assign class = 'is-active' %}
+							{% endif %}
 
-		{% if localnav == 'our-work'  %}
-			{% for item in site.data.our-work_localnav %}
-				{% include localnav-markup.html %}
-			{% endfor %}
-		{% endif %}
+						<li>
+							<a class="{{ class }}" href="{{ item.url }}">
+								{{ item.title }}
+							</a>
+						</li>
+						{% endfor %}
+					</ul>
+					{% endif %}
 
-	    {% if localnav == 'annual-report'  %}
-	        {% for item in site.data.annual-report_localnav %}
-	            {% include localnav-markup.html %}
-	        {% endfor %}
-        {% endif %}
+				</li>
 
-		{% if localnav == 'digital-service-standard-criteria'  %}
-			{% for item in site.data.digital-service-standard-criteria_localnav %}
-				{% include localnav-markup.html %}
-			{% endfor %}
+				{% endfor %}
+			</ul>
+			{% endif %}
 
-			<div class="extended-menu">
-			{% for item in site.data.digital-service-standard-hidden_localnav %}
-				{% include localnav-markup.html %}
-		  {% endfor %}
-			</div>
+		</li>
 
-			<a href="#" id="show_more">Show more</a>
-			<a href="#" id="show_less">Show less</a>
+	{% endfor %}
 
-		{% endif %}
-	{% endif %}
-</ul>
+{% endif %}
+

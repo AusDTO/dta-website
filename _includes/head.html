@@ -11,11 +11,16 @@
 	<meta name="modified" content="{{ page.date | date: "%b %-d, %Y" }}">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-	<link rel="stylesheet" type="text/css" href="https://gov-au-ui-kit.apps.staging.digital.gov.au/latest/ui-kit.min.css"/>
-	<script type="text/javascript" src="https://gov-au-ui-kit.apps.staging.digital.gov.au/latest/ui-kit.min.js"></script>
+	{% css main %}
+
+	{% css syntax.dark %}
+
+	{% include uikit_scripts.html %}
+
+	{% include google_fonts.html %}
+	{% include google_analytics.html %}
 
 	<noscript>TODO</noscript>
-	<meta name="google-site-verification" content="zdp1kz_y6Nr9aAaS_WT1j2B4OB8GNHKrK-nV1Jrfw3g" />
 	{% if page.knowledge_schema %}
 	<!-- Schema for Google knowledge graph -->
 	<script type="application/ld+json">
