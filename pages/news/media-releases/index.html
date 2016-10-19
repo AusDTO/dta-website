@@ -1,0 +1,19 @@
+---
+layout: default
+breadcrumb: Media releases
+title: Media releases
+permalink: /news/media-releases/
+---
+<h1 class="page-heading">{{page.title}}</h1>
+<ul class="short-post-list">
+    {% for post in site.categories['media-release'] %}
+    <li>
+        <h3>
+            <a class="archive_list_article_link" href='{{post.url}}'>{{post.title}}</a>
+        </h3>
+        <div class="post-details">
+            <span class="post-date">{{ post.date | date: "%-d %b %Y" }}</span>
+        </div>
+    </li>
+    {% endfor %}
+</ul>

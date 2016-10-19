@@ -1,0 +1,18 @@
+{% for excerpt in site.staff %}
+
+{% if excerpt.title contains page.author %}
+<div class="excerpt">
+	<img alt="decorative" src="{{ excerpt.profile-image }}">
+	<p>{{excerpt.profile-excerpt}}</p>
+	
+	{% if excerpt.twitter-handle %}
+	<div class="staff-connect">
+		<a href="https://twitter.com/@{{ excerpt.twitter-handle }}" class="twitter">@{{ excerpt.twitter-handle }}</a>
+	</div>
+	{% endif %}
+</div>	
+	{% else %}
+	
+{% endif %}
+
+{% endfor %}

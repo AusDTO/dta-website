@@ -1,3 +1,4 @@
+
 ## Transcript - What is discovery
 
 ### Why do we do a Discovery stage?

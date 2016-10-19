@@ -1,0 +1,43 @@
+---
+layout: default
+breadcrumb: News
+title: News
+searchexcerpt: Information for the Media from the Digital Transformation Office.
+permalink: /news/
+---
+<h1 class="page-heading">News</h1>
+
+<h2>Latest media releases</h2>
+<ul class="post-list short">
+    {% for post in site.categories['media-release'] limit:3 %}
+    <li>
+        <h3>
+            <a class="archive_list_article_link" href='{{post.url}}'>{{post.title}}</a>
+        </h3>
+        <div class="post-details">
+            <span class="post-date">{{ post.date | date: "%-d %b %Y" }}</span>
+        </div>
+    </li>
+    {% endfor %}
+</ul>
+<a class="see-all" href="/news/media-releases">See all media releases</a>
+
+<h2>Latest DTO news</h2>
+<ul class="post-list">
+    {% assign news = site.empty-array %}
+    {% for post in site.posts %}
+        {% if post.categories contains 'blog' and post.tags contains 'dto-news'%}
+            {% assign news = news | push: post %}
+        {% elsif post.categories contains 'news' and post.categories contains 'dto-news' %}
+            {% assign news = news | push: post %}
+        {% endif %}
+    {% endfor %}
+
+    {% for post in news limit:3 %}
+    <li>
+        {% include blog-teaser.html %}
+    </li>
+    {% endfor %}
+</ul>
+<a class="see-all" href="/news/dto-news">See all DTO news</a>
+

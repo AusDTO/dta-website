@@ -8,7 +8,7 @@ permalink: "/"
 
 <section class="hero">
     <div class="wrapper">
-      <span class="site-title">Digital Transformation Agency</span>
+      <span class="site-title">Working on things that matter.</span>
       <p class="tagline">Simpler, clearer, faster public services.</p>
     </div>
   </section>
