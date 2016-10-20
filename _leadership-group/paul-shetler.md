@@ -1,7 +1,7 @@
 ---
 title: Paul Shetler
 position: Chief Digital Officer
-image: images/angus_taylor.jpg
+image: images/paul-shetler.jpg
 ---
 
 Information about Paul
