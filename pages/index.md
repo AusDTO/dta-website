@@ -24,7 +24,7 @@ permalink: "/"
     <li>
       <article>
         <h3>
-          <a href="#">{{page.title}}</a>
+          <a href="{{page.url}}">{{page.title}}</a>
         </h3>
         <p>{{page.homepage-snippet}}</p>
       </article>
@@ -54,7 +54,7 @@ permalink: "/"
 </figure>
   <article>
     <h3>
-      <a href="#">{{post.title}}</a>
+      <a href="{{post.url}}">{{post.title}}</a>
     </h3>
 
     <div class="meta">
@@ -73,7 +73,7 @@ permalink: "/"
 
 </ul>
 
-<a class="see-more" href="/news/">See more blog posts</a>
+<a class="see-more" href="/news/">See more news</a>
 
 </section>
 <div class="homepage-footer">
