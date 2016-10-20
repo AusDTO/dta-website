@@ -19,7 +19,8 @@ permalink: "/"
   <ul class="list-vertical--thirds">
 
   {% for page in site.pages %}
-  {% if page.url contains 'what-we-do' %}
+
+  {% if page.display-homepage %}
     <li>
       <article>
         <h3>
@@ -38,28 +39,33 @@ permalink: "/"
 
 <h2 class="home-heading">News and media</h2>
 
-<ul class="list-vertical--fourths">
+<ul class="list-vertical--fourths no-border">
 
 {% for post in site.posts limit:8 %}
 
 <li>
+
+<figure>
+  {% if post.thumbnail %}
+  <a href="{{post.url}}"><img class="blog-thumbnail" src="{{ post.thumbnail }}"></a>
+  {% else %}
+  <a href="{{post.url}}"><img class="blog-thumbnail" src="/images/blog-thumbnails/blog-thumbnail-placeholder.png"></a>
+  {% endif %}
+</figure>
   <article>
     <h3>
       <a href="#">{{post.title}}</a>
     </h3>
 
     <div class="meta">
-      <time datetime="2016-05-08 00:00">08 May 2016</time> Author
+      <time datetime="{{post.date}}">{{ post.date | date: "%-d %b %Y" }}</time>
+      {% if post.category contains 'media-release' %}
+      Media Release
+      {% else %}
+      {{post.author}}
+      {% endif %}
     </div>
   </article>
-
-  <figure>
-    {% if post.thumbnail %}
-    <a href="{{post.url}}"><img class="blog-thumbnail" src="{{ post.thumbnail }}"></a>
-    {% else %}
-    <a href="{{post.url}}"><img class="blog-thumbnail" src="/images/blog-thumbnails/blog-thumbnail-placeholder.png"></a>
-    {% endif %}
-  </figure>
 
 </li>
 
@@ -70,43 +76,46 @@ permalink: "/"
 <a class="see-more" href="/news/">See more blog posts</a>
 
 </section>
+<div class="homepage-footer">
 
-<section class="leadership">
-  <h2 class="home-heading">Leadership</h2>
+  <section class="leadership">
+    <h2 class="home-heading">Leadership</h2>
+    <ul class="list-horizontal">
 
-<ul class="list-horizontal">
+    {% for leader in site.leadership-group %}
 
-{% for leader in site.leadership-group %}
+      <li>
+        <figure>
+          <img src="{{ leader.image }}" alt="Image of {{leader.title}}">
+        </figure>
+        <article>
+          <h3>
+            {{leader.title}}
+          </h3>
+          <div class="meta">
+            {{leader.position}}
+          </div>
+          <p>{{leader.content}}</p>
 
-  <li>
-    <figure>
-      <img src="{{ leader.image }}" alt="Image of {{leader.title}}">
-    </figure>
-    <article>
-      <h3>
-        {{leader.title}}
-      </h3>
-      <div class="meta">
-        {{leader.position}}
-      </div>
-      <p>{{leader.content}}</p>
+        </article>
+      </li>
 
-    </article>
-  </li>
+      {% endfor %}
 
-  {% endfor %}
+    </ul>
+  </section>
 
-</ul>
-</section>
+  <section class="social-media">
+    <h2 class="home-heading">Social media</h2>
+    <ul class="social-media-links">
+    	<li><a class="twitter" href="https://twitter.com/DTO">Twitter</a></li>
+    	<li><a class="facebook" href="https://www.facebook.com/DigitalTransformationOffice">Facebook</a></li>
+    	<li><a class="linkedin" href="https://www.linkedin.com/company/digital-transformation-office">LinkedIn</a></li>
+    	<li><a class="youtube" href="https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A">YouTube</a></li>
+    	<li><a class="slideshare" href="http://www.slideshare.net/DTO-slides">Slideshare</a></li>
+    </ul>
+  </section>
 
-<section class="social media">
-<h2 class="home-heading">Social media</h2>
-<div class="social-media-links">
-	<a class="twitter" href="https://twitter.com/DTO">Twitter</a>
-	<a class="facebook" href="https://www.facebook.com/DigitalTransformationOffice">Facebook</a>
-	<a class="linkedin" href="https://www.linkedin.com/company/digital-transformation-office">LinkedIn</a>
-	<a class="youtube" href="https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A">YouTube</a>
-	<a class="slideshare" href="http://www.slideshare.net/DTO-slides">Slideshare</a>
 </div>
 
 </article>
