@@ -16,9 +16,8 @@
 title: Digital Transformation Agency
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Driving the digital transformation of government information and services,
+  making them simpler, clearer, faster.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dta.apps.staging.digital.gov.au" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: "/:categories/:title/"
