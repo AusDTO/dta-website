@@ -5,10 +5,103 @@
 layout: home
 permalink: "/"
 ---
+<main>
+<article id="content" class="content-listing" tabindex="-1">
 
-<section class="hero">
-    <div class="wrapper">
-      <span class="site-title">Working on things that matter.</span>
-      <p class="tagline">Simpler, clearer, faster public services.</p>
+<section class="about-dta">
+<h2>Digital Transformation Agency</h2>
+
+<p class="abstract">The role of the Digital Transformation Office is to work with the Public Service to make government digital services simpler, clearer and more user focused. We administer the Digital Service Standard and GOV.AU.</p>
+</section>
+
+<section class="what-we-do">
+  <ul class="list-vertical--thirds">
+
+  {% for page in site.pages %}
+  {% if page.url contains 'what-we-do' %}
+    <li>
+      <article>
+        <h3>
+          <a href="#">{{page.title}}</a>
+        </h3>
+        <p>{{page.homepage-snippet}}</p>
+      </article>
+    </li>
+    {% endif %}
+    {% endfor %}
+
+  </ul>
+</section>
+
+<section class="news-media">
+
+<h2>News and media</h2>
+
+<ul class="list-vertical--fourths">
+
+
+{% for post in site.posts limit:8 %}
+
+<li>
+  <article>
+    <h3>
+      <a href="#">{{post.title}}</a>
+    </h3>
+
+    <div class="meta">
+      <time datetime="2016-05-08 00:00">08 May 2016</time> Author
     </div>
-  </section>
+  </article>
+
+  <figure>
+    {% if post.thumbnail %}
+    <a href="{{post.url}}"><img class="blog-thumbnail" src="{{ post.thumbnail }}"></a>
+    {% else %}
+    <a href="{{post.url}}"><img class="blog-thumbnail" src="/images/blog-thumbnails/blog-thumbnail-placeholder.png"></a>
+    {% endif %}
+  </figure>
+
+</li>
+
+{% endfor %}
+
+</ul>
+
+<a class="see-more" href="/blog/">See more blog posts</a>
+
+</section>
+
+<section class="leadership">
+  <h2>Leadership</h2>
+<ul class="list-horizontal">
+
+{% for leader in site.leadership-group %}
+
+  <li>
+    <figure>
+      <img src="{{leader.image}}" alt="Image of {{leader.title}}">
+    </figure>
+    <article>
+      <h3>
+        {{leader.title}}
+      </h3>
+      <div class="meta">
+        {{leader.position}}
+      </div>
+      <p>{{leader.content}}</p>
+
+    </article>
+  </li>
+
+  {% endfor %}
+
+</ul>
+</section>
+
+<section class="social media">
+<h2>Social media</h2>
+social media links here
+</section>
+
+</article>
+</main>
