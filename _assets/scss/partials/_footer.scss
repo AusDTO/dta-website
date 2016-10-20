@@ -1,0 +1,7 @@
+.footer-top {
+  .blog-subscribe {
+    @include media($tablet) {
+      @include span-columns(3 of 12);
+    }
+  }
+}
