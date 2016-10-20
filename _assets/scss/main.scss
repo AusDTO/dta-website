@@ -1,7 +1,8 @@
 @charset 'utf-8';
 
+$gov-ui-kit-image-base-url: 'https://gov-au-ui-kit.apps.staging.digital.gov.au/latest/img/';
 
-//colours
+// Custom colours.
 $light-grey:#d6d7d6;		//use for borders (not accessible on $background-grey)
 $mid-grey:#676767;			//use for subheadings and menu titles (accessible on $background-grey)
 $dark-grey:#333;			//use for headings (accessible on $background-grey)
@@ -13,23 +14,16 @@ $focus-border: #80bdfb; 	//use for border on focused elements
 $govau-purple: #c72572;
 $govau-red: #D7002F;
 
-
-
-$gov-ui-kit-image-base-url: 'https://gov-au-ui-kit.apps.staging.digital.gov.au/latest/img/';
-
 @import 'dto-ui-kit/assets/sass/ui-kit';
 
 //== Media queries breakpoints
 //$screen-sm-min: $tablet-minwidth;
 
 // Import partials from `partials'
-@import
-  "partials/blog-share-links",
-  "partials/blog-subscribe",
-  "partials/breadcrumb",
-  "partials/criteria-page-header",
-  "partials/dss-criteria-list",
-  "partials/header",
-  "partials/our-work-page"
-
-;
+@import 'partials/blog-share-links';
+@import 'partials/blog-subscribe';
+@import 'partials/breadcrumb';
+@import 'partials/criteria-page-header';
+@import 'partials/dss-criteria-list';
+@import 'partials/header';
+@import 'partials/our-work-page';
