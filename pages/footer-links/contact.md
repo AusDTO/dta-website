@@ -3,10 +3,9 @@ layout: basic
 title: Contact us
 permalink: /contact/
 breadcrumb: Contact us
-redirect_from: /contact-us
-redirect_from: /contact-us/
-redirect_from: /engage
-redirect_from: /engage/
+redirect_from: 
+  - /contact-us/
+  - /engage/
 searchexcerpt: You can contact us about events, speaking opportunities or send requests directly to one of our teams. 
 ---
 <div class="social-media-links-contact">
