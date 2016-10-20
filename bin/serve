@@ -10,4 +10,8 @@ set -x
 
 bundle check || bundle install
 
+bundle exec jekyll clean
+
+bundle exec jekyll doctor
+
 bundle exec jekyll serve --watch --incremental --limit_posts 1
