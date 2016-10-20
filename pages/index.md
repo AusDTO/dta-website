@@ -6,7 +6,7 @@ layout: home
 permalink: "/"
 ---
 <main>
-<article id="content" class="content-listing" tabindex="-1">
+<article id="content" class="content-listing">
 
 <section class="about-dta">
 <h1>Digital Transformation Agency</h1>
