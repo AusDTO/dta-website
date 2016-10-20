@@ -3,23 +3,32 @@
 $gov-ui-kit-image-base-url: 'https://gov-au-ui-kit.apps.staging.digital.gov.au/latest/img/';
 
 // Custom colours.
-$light-grey:#d6d7d6;		//use for borders (not accessible on $background-grey)
-$mid-grey:#676767;			//use for subheadings and menu titles (accessible on $background-grey)
-$dark-grey:#333;			//use for headings (accessible on $background-grey)
-$background-grey:#f4f4f4;	//general background grey
-$dto-blue: #015a96;			//(accessible on $background-grey)
-$dto-light-blue: #31afee;	//(accessible on black and white)
-$govau-background-grey: #f0f3f5;
-$focus-border: #80bdfb; 	//use for border on focused elements
-$govau-purple: #c72572;
-$govau-red: #D7002F;
 
+$dto-light-grey: #d6d7d6;
+// Use for borders -- not accessible on $background-grey
+
+$dto-mid-grey: #676767;
+// Use for subheadings and menu titles -- accessible on $background-grey
+
+$dto-dark-grey: #414042;
+// Use for headings -- accessible on $background-grey
+
+$dto-background-grey: #f4f4f4;
+// General background grey
+
+$dto-blue: #015a96;
+// Accessible on $background-grey
+
+$dto-blue--light: #22a0cb;
+
+$dto-light-blue: #31afee;	// Accessible on black and white
+
+$dto-red: #d7002f;
+
+// Imports UI-Kit: https://github.com/AusDTO/gov-au-ui-kit
 @import 'dto-ui-kit/assets/sass/ui-kit';
 
-//== Media queries breakpoints
-//$screen-sm-min: $tablet-minwidth;
-
-// Import partials from `partials'
+// Import partials from `partials`
 @import 'partials/blog-share-links';
 @import 'partials/blog-subscribe';
 @import 'partials/breadcrumb';
