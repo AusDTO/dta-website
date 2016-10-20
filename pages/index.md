@@ -9,12 +9,13 @@ permalink: "/"
 <article id="content" class="content-listing" tabindex="-1">
 
 <section class="about-dta">
-<h2>Digital Transformation Agency</h2>
+<h1>Digital Transformation Agency</h1>
 
 <p class="abstract">The role of the Digital Transformation Office is to work with the Public Service to make government digital services simpler, clearer and more user focused. We administer the Digital Service Standard and GOV.AU.</p>
 </section>
 
 <section class="what-we-do">
+<h2 class="home-heading">What we're involved in</h2>
   <ul class="list-vertical--thirds">
 
   {% for page in site.pages %}
@@ -35,10 +36,9 @@ permalink: "/"
 
 <section class="news-media">
 
-<h2>News and media</h2>
+<h2 class="home-heading">News and media</h2>
 
 <ul class="list-vertical--fourths">
-
 
 {% for post in site.posts limit:8 %}
 
@@ -67,19 +67,19 @@ permalink: "/"
 
 </ul>
 
-<a class="see-more" href="/blog/">See more blog posts</a>
+<a class="see-more" href="/news/">See more blog posts</a>
 
 </section>
 
 <section class="leadership">
-  <h2>Leadership</h2>
+  <h2 class="home-heading">Leadership</h2>
 <ul class="list-horizontal">
 
 {% for leader in site.leadership-group %}
 
   <li>
     <figure>
-      <img src="{{leader.image}}" alt="Image of {{leader.title}}">
+      <img src="{{ leader.image }}" alt="Image of {{leader.title}}">
     </figure>
     <article>
       <h3>
@@ -99,8 +99,14 @@ permalink: "/"
 </section>
 
 <section class="social media">
-<h2>Social media</h2>
-social media links here
+<h2 class="home-heading">Social media</h2>
+<div class="social-media-links">
+	<a class="twitter" href="https://twitter.com/DTO">Twitter</a>
+	<a class="facebook" href="https://www.facebook.com/DigitalTransformationOffice">Facebook</a>
+	<a class="linkedin" href="https://www.linkedin.com/company/digital-transformation-office">LinkedIn</a>
+	<a class="youtube" href="https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A">YouTube</a>
+	<a class="slideshare" href="http://www.slideshare.net/DTO-slides">Slideshare</a>
+</div>
 </section>
 
 </article>
