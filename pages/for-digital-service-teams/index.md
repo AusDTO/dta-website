@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: basic
 title: "For digital service teams"
 permalink: /for-digital-service-teams/
 ---
