@@ -6,11 +6,12 @@
       margin: 0 auto;
       border-bottom: none;
       display: block;
-      width: 150px;
+      width: 320px;
 
       @include media($tablet) {
         float: left;
         margin: 0;
+        width: 405px;
       }
 
       &:hover,
