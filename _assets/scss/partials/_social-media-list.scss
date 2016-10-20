@@ -1,6 +1,12 @@
 .social-media-links {
 	display: block;
 	overflow: hidden;
+	padding-left: 0;
+	list-style: none;
+
+	li {
+		margin-bottom: $small-spacing;
+	}
 
 	.email,
 	.slideshare,
