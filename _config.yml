@@ -36,6 +36,8 @@ collections:
     output: true
   teams:
     output: true
+  leadership-group:
+    output: true
 
 # Build settings
 markdown: kramdown
