@@ -2,7 +2,7 @@
 layout: basic
 title: Freedom of Information (FOI)
 permalink: /corporate/freedom-of-information/
-redirect-from:
+redirect_from:
   - /freedom-of-information/
 breadcrumb: Freedom of Information
 ---
