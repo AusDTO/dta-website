@@ -6,12 +6,11 @@
       margin: 0 auto;
       border-bottom: none;
       display: block;
-      width: 320px;
+      width: 300px;
 
       @include media($tablet) {
         float: left;
         margin: 0;
-        width: 405px;
       }
 
       &:hover,
@@ -38,14 +37,35 @@
       }
     }
 
-    .global-navigation {
-      margin-top: $base-spacing;
-      margin-bottom: 0;
-      padding-left: 0; // Possible UI-Kit issue to investigate.
+    nav {
+      @include media($mobile) {
+        @include span-columns(8 of 8);
 
-      & li {
-        margin-right: $medium-spacing; // UI-Kit sets this to $tiny-spacing.
-        margin-bottom: $small-spacing;
+        margin-top: $base-spacing * 2;
+      }
+
+      @include media($tablet) {
+        @include span-columns(12 of 12);
+
+        margin-top: $base-spacing;
+      }
+
+      @include media($desktop) {
+        @include span-columns(11 of 16);
+        @include shift(5);
+        
+        position: absolute;
+        top: $base-spacing;
+      }
+
+      .global-navigation {
+        margin-bottom: 0;
+        padding-left: 0; // Possible UI-Kit issue to investigate.
+
+        & li {
+          margin-right: $medium-spacing; // UI-Kit sets this to $tiny-spacing.
+          margin-bottom: $small-spacing;
+        }
       }
     }
   }
