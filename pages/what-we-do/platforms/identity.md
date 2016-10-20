@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Identity"
-permalink: /what-we-do/platforms/govau/
+permalink: /what-we-do/platforms/identity/
 ---
 
 Content todo
