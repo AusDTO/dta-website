@@ -1,22 +1,51 @@
 .govau {
   &--header {
-    padding-bottom: 0.5em;
-    padding-top: 0.7em;
+    padding-top: $base-spacing;
+
     .logo-image {
+      margin: 0 auto;
       border-bottom: none;
-      float: left;
-      width: 100px;
+      display: block;
+      width: 150px;
+
+      @include media($tablet) {
+        float: left;
+        margin: 0;
+      }
 
       &:hover,
       &:focus {
         background-color: transparent;
       }
+
       + .logo {
-        position: relative;
-        top: 20px;
-        margin-left: $tiny-spacing;
+        display: inline-block;
+        margin: $medium-spacing auto 0 auto;
+        text-align: center;
+
+        // The following can be culled once UI-Kit => 1.8 is released.
+        text-transform: none;
+        letter-spacing: 0;
+        font-weight: normal;
+
+        @include media($tablet) {
+          position: relative;
+          top: $base-spacing;
+          margin: 0 0 0 $medium-spacing;
+          text-align: left;
+        }
       }
     }
 
+    .global-navigation {
+      margin-top: $base-spacing;
+      margin-bottom: 0;
+      padding-left: 0; // Possible UI-Kit issue to investigate.
+
+      & li {
+        margin-right: $medium-spacing; // UI-Kit sets this to $tiny-spacing.
+        margin-bottom: $small-spacing;
+      }
+    }
   }
 }
