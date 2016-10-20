@@ -12,7 +12,7 @@
 			margin-top:0;
 			margin-bottom:11px;
 			font-size:17px;
-			color:$mid-grey;
+			color: $dta-mid-grey;
 			line-height:1.5;
 			padding:8px 0 0;
 			font-family:"OpenSansBold",Arial,Helvetica Neue,Helvetica,sans-serif;
@@ -33,7 +33,7 @@
 			}
 			&.facebook:before, &.twitter:before, &.linkedin:before, &.email:before {
 				font-family:FontAwesome;
-				color:$mid-grey;
+				color: $dta-mid-grey;
 				font-size:22px;	
 				padding-right:18px;
 			}
