@@ -1,0 +1,132 @@
+.our-work > p {
+  margin-bottom: 31px;
+  padding-right: 17%;
+}
+
+.our-work .lede {
+  margin-top: 15px;
+}
+
+ol.priorities {
+  padding-top: 0px;
+  padding-bottom: 20px;
+  list-style-type:none;
+  counter-reset:standard-counter;
+  padding-left:0;
+
+  li {
+    font-size: 21px;
+    padding: 15px 0 5px;
+    padding-left:40px;
+
+    a {
+      font-weight: 600;
+      line-height: 1.3;
+    }
+
+    &:before {
+  	  content: counter(standard-counter, decimal);
+  	  counter-increment:standard-counter;
+  	  display:inline-block;
+  	  font-weight:600;
+  	  position:absolute;
+  	  left:0;
+  	  width:40px;
+  	  text-align:center;
+  	  font-size:23px;
+  	  line-height:1.4;
+    }
+
+    h2 {
+      font-size: 23px;
+      margin: 0 0 5px;
+    }
+  }
+}
+
+.priorities li,
+  .priority header,
+  .priority .project-list .right,
+  .links li {
+
+  a {
+	  display:block;
+  }
+
+}
+
+.priority .project-list {
+  padding-top: 40px;
+}
+
+.priority {
+  padding-bottom: 20px;
+
+
+  header {
+    .intro {
+      font-size: 27px;
+      padding-right: 17%;
+    }
+
+    a {
+      display: inline-block;
+      margin-right: 35px;
+      font-size: 18px;
+    }
+
+    a.big-button {
+      margin-top:0
+    }
+  }
+
+  ul.timeline {
+    padding: 40px 0 30px 10px;
+
+    > li {
+      padding: 0 0 40px 30px;
+      list-style: none;
+      border-left: #ccc 5px solid;
+      margin-bottom: 0px;
+
+      &:last-of-type {
+        border-left-color: transparent;
+        padding-bottom: 0px;
+      }
+
+      h2 {
+        margin: 0 0 5px;
+        font-size: 24px;
+        line-height:1.15;
+      }
+
+      a {
+        font-size: 17px;
+        margin-left: 50px;
+      }
+
+      &:before {
+        content: "";
+
+        background:#fff;
+        border: 5px solid $dark-grey;
+        border-radius: 1.2em;
+
+        height: 25px;
+        width: 25px;
+        display: inline-block;
+        float: left;
+
+        margin-left: -45px;
+        margin-top: 0;
+      }
+    }
+  }
+
+  ul.links {
+    padding-left: 0;
+    > li {
+      list-style: none;
+    }
+  }
+}
