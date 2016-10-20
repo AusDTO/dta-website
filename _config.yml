@@ -25,6 +25,8 @@ permalink: "/:categories/:title/"
 
 uikit_base_url: https://gov-au-ui-kit.apps.staging.digital.gov.au/latest/
 
+# Because there is no way to instantiate an empty array, and we need to merge two 
+# collections together -- this is used on the News page layout.
 empty-array: []
 
 collections:
@@ -37,14 +39,17 @@ collections:
 
 # Build settings
 markdown: kramdown
-theme: minima
+
 gems:
   - jekyll-feed
   - jekyll-assets
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - bin
+  - circle.yml
 
 assets:
   sources:
