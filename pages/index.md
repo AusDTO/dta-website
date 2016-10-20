@@ -11,7 +11,7 @@ permalink: "/"
 <section class="about-dta">
 <h1>Digital Transformation Agency</h1>
 
-<p class="abstract">The role of the Digital Transformation Office is to work with the Public Service to make government digital services simpler, clearer and more user focused. We administer the Digital Service Standard and GOV.AU.</p>
+<p class="abstract">The role of the Digital Transformation Agency is to work with the Public Service to make government digital services simpler, clearer and more user focused. We administer the <a href="/standard/">Digital Service Standard</a> and GOV.AU.</p>
 </section>
 
 <section class="what-we-do">
