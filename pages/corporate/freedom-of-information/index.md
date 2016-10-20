@@ -1,7 +1,9 @@
 ---
 layout: basic
 title: Freedom of Information (FOI)
-permalink: /freedom-of-information/
+permalink: /corporate/freedom-of-information/
+redirect-from:
+  - /freedom-of-information/
 breadcrumb: Freedom of Information
 ---
 <div class="lede">Under the <em>Freedom of Information Act 1982</em>, anyone can seek access to documents held by the Digital Transformation Office (DTO).</div>
@@ -33,7 +35,6 @@ Under [section 8 of the *Freedom of Information Act 1982*](https://www.legislati
 
 * [Information Publication Scheme Agency Plan](/freedom-of-information/information-publications-scheme-agency-plan/)
 * [Who we are](/about/)
-  * [Key people](/about/#key-people)
   * [Enterprise Agreement (PDF, 36 pages, 13.3MB)](/files/dto-enterprise-agreement-signed.pdf)
 * [What we do](/our-work/)
   * [Functions of the DTO (PDF, 1 page, 537kb)](/files/dto-order-establishing.pdf)
