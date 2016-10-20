@@ -53,7 +53,7 @@
       @include media($desktop) {
         @include span-columns(11 of 16);
         @include shift(5);
-        
+
         position: absolute;
         top: $base-spacing;
       }

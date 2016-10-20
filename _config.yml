@@ -65,3 +65,25 @@ defaults:
       path: "" # empty string means all files
     values:
       layout: "default"
+
+# Config for htt://prose.io editor.
+prose:
+#  rooturl: ''
+  siteurl: 'http://dta.apps.staging.digital.gov.au/'
+  ignore:
+    - _config.yml
+    - /manifest.yml
+    - /circle.yml
+    - /_assets
+    - /_data
+    - /_layouts
+    - /_includes
+    - /_plugins
+    - /_posts
+    - /_assets
+    - /bin
+    - /Gemfile
+    - /Gemfile.lock
+    - /.ruby-version
+    - /.gitignore
+    - /feed.xml
