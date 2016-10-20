@@ -1,0 +1,62 @@
+.social-media-links {
+	display: block;
+	overflow: hidden;
+	padding-left: 0;
+	list-style: none;
+
+	li {
+		margin-bottom: $small-spacing;
+	}
+
+	.email,
+	.slideshare,
+	.twitter,
+	.linkedin,
+	.youtube,
+	.facebook,
+	.github {
+		margin-right: $small-spacing;
+		text-decoration: none;
+
+		&:before {
+			font-family: FontAwesome;
+			font-size: rem(22);
+			margin-right: $tiny-spacing;
+		}
+	}
+	.email {
+		&:before {
+			content: '\f003';
+		}
+	}
+	.twitter {
+		&:before {
+			content: '\f099';
+		}
+	}
+	.linkedin {
+		&:before {
+			content: '\f0e1';
+		}
+	}
+	.youtube {
+		&:before {
+			content: '\f16a';
+		}
+	}
+	.slideshare {
+		&:before {
+			content: '\f1e7';
+		}
+	}
+	.facebook {
+		&:before {
+			content: '\f09a';
+		}
+	}
+	.github {
+		&:before {
+			content: '\f09b';
+		}
+	}
+}
