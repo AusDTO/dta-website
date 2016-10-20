@@ -9,13 +9,12 @@ permalink: "/"
 <article id="content" class="content-listing" tabindex="-1">
 
 <section class="about-dta">
-<h2>Digital Transformation Agency</h2>
+<h1>Digital Transformation Agency</h1>
 
 <p class="abstract">The role of the Digital Transformation Office is to work with the Public Service to make government digital services simpler, clearer and more user focused. We administer the Digital Service Standard and GOV.AU.</p>
 </section>
 
 <section class="what-we-do">
-
 <h2 class="home-heading">What we're involved in</h2>
   <ul class="list-vertical--thirds">
 
@@ -75,11 +74,13 @@ permalink: "/"
 <section class="leadership">
   <h2 class="home-heading">Leadership</h2>
 
+<ul class="list-horizontal">
+
 {% for leader in site.leadership-group %}
 
   <li>
     <figure>
-      <img src="{{leader.image}}" alt="Image of {{leader.title}}">
+      <img src="{{ leader.image }}" alt="Image of {{leader.title}}">
     </figure>
     <article>
       <h3>
@@ -107,8 +108,6 @@ permalink: "/"
 	<a class="youtube" href="https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A">YouTube</a>
 	<a class="slideshare" href="http://www.slideshare.net/DTO-slides">Slideshare</a>
 </div>
-
-</section>
 
 </article>
 </main>
