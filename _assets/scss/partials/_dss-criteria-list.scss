@@ -7,7 +7,7 @@
 		list-style-type:none;
 		counter-reset:standard-counter;
 		li {
-			border-top:1px solid $dto-light-grey;
+			border-top:1px solid $dta-light-grey;
 			padding-top:25px;
 			padding-bottom:20px;
 			min-height:115px;
@@ -48,7 +48,7 @@
 			.related-guides {
 				p {
 					margin-bottom:3px;
-					color: $dto-dark-grey;
+					color: $dta-dark-grey;
 					font-size:15px;
 				}
 				a {
@@ -72,7 +72,7 @@
       margin-top:0;
     }
     .border-left {
-      border-left:2px solid $dto-light-grey;
+      border-left:2px solid $dta-light-grey;
     }
   }
 }

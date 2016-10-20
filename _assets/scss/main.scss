@@ -4,26 +4,26 @@ $gov-ui-kit-image-base-url: 'https://gov-au-ui-kit.apps.staging.digital.gov.au/l
 
 // Custom colours.
 
-$dto-light-grey: #d6d7d6;
+$dta-light-grey: #d6d7d6;
 // Use for borders -- not accessible on $background-grey
 
-$dto-mid-grey: #676767;
+$dta-mid-grey: #676767;
 // Use for subheadings and menu titles -- accessible on $background-grey
 
-$dto-dark-grey: #414042;
+$dta-dark-grey: #414042;
 // Use for headings -- accessible on $background-grey
 
-$dto-background-grey: #f4f4f4;
+$dta-background-grey: #f4f4f4;
 // General background grey
 
-$dto-blue: #015a96;
+$dta-blue: #015a96;
 // Accessible on $background-grey
 
-$dto-blue--light: #22a0cb;
+$dta-blue--light: #22a0cb;
 
-$dto-blue--lightest: #c9e9f0;
+$dta-blue--lightest: #c9e9f0;
 
-$dto-red: #d7002f;
+$dta-red: #d7002f;
 
 // Imports UI-Kit: https://github.com/AusDTO/gov-au-ui-kit
 @import 'dto-ui-kit/assets/sass/ui-kit';
