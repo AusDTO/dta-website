@@ -17,6 +17,8 @@ GEM
     fastimage (2.0.0)
       addressable (~> 2)
     ffi (1.9.14)
+    font-awesome-sass (4.6.2)
+      sass (>= 3.2)
     forwardable-extended (2.6.0)
     html-proofer (3.3.0)
       activesupport (>= 4.2, < 6.0)
@@ -89,6 +91,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  font-awesome-sass
   html-proofer
   jekyll (= 3.3.0)
   jekyll-assets

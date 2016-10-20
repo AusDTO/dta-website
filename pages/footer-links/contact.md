@@ -3,12 +3,12 @@ layout: basic
 title: Contact us
 permalink: /contact/
 breadcrumb: Contact us
-redirect_from: 
+redirect_from:
   - /contact-us/
   - /engage/
-searchexcerpt: You can contact us about events, speaking opportunities or send requests directly to one of our teams. 
+searchexcerpt: You can contact us about events, speaking opportunities or send requests directly to one of our teams.
 ---
-<div class="social-media-links-contact">
+<div class="social-media-links">
 	<a class="twitter" href="https://twitter.com/DTO">Twitter</a>
 	<a class="facebook" href="https://www.facebook.com/DigitalTransformationOffice">Facebook</a>
 	<a class="linkedin" href="https://www.linkedin.com/company/digital-transformation-office">LinkedIn</a>
@@ -77,7 +77,7 @@ Digital Transformation Agency<br/>
 PO Box 457<br/>
 Canberra City ACT 2601
 
-## Our locations 
+## Our locations
 
 ### Canberra Office
 
