@@ -19,4 +19,9 @@ deployment:
       - cf api https://api.system.staging.digital.gov.au
       - cf auth $CF_STAGING_USER $CF_STAGING_PASSWORD
       - cf target -o dto -s dtoweb
-      - cf push
+      - cf unmap-route dta-blue apps.staging.digital.gov.au -n dta
+      - cf push dta-blue
+      - cf map-route dta-blue apps.staging.digital.gov.au -n dta
+      - cf unmap-route dta-green apps.staging.digital.gov.au -n dta
+      - cf push dta-green
+      - cf map-route dta-green apps.staging.digital.gov.au -n dta
