@@ -17,3 +17,6 @@ bundle check || bundle install
 curl -v -L -o cf-cli_amd64.deb 'https://cli.run.pivotal.io/stable?release=debian64&version=6.18.1&source=github-rel'
 sudo dpkg -i cf-cli_amd64.deb
 cf -v
+
+sudo apt-get update
+sudo apt-get install -qy apache2-utils
