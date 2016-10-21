@@ -11,7 +11,7 @@ set -o pipefail
 basicauth() {
   if [[ -n ${CF_BASIC_AUTH_PASSWORD+x} ]]
   then
-    htpasswd -cb site/Staticfile.auth $CF_BASIC_AUTH_USERNAME $CF_BASIC_AUTH_PASSWORD
+    htpasswd -cb _site/Staticfile.auth $CF_BASIC_AUTH_USERNAME $CF_BASIC_AUTH_PASSWORD
   else
     echo "Not setting a password."
   fi
