@@ -5,6 +5,7 @@ permalink: /corporate/foi/
 redirect_from:
   - /freedom-of-information/
 breadcrumb: Freedom of Information
+localnav: corporate
 ---
 <div class="lede">Under the <em>Freedom of Information Act 1982</em>, anyone can seek access to documents held by the Digital Transformation Agency (DTA).</div>
 

@@ -4,6 +4,7 @@ title: Corporate information
 permalink: /corporate/
 published: true
 breadcrumb: Corporate information
+localnav: corporate
 ---
 
 # Corporate information
