@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Corporate info
+title: Corporate information
 permalink: /corporate/
 published: true
+breadcrumb: Corporate information
 ---
 
-
-Content todo
-
-Test edit from prose.io
+# Corporate information
 
 <ul class="list-small">
 
@@ -16,10 +14,10 @@ Test edit from prose.io
     <a href="/corporate/contracts/">Contracts</a>
   </li>
   <li>
-    <a href="/corporate/freedom-of-information/">Freeom of Information (FOI)</a>
+    <a href="/corporate/foi/">Freedom of Information (FOI)</a>
   </li>
   <li>
     <a href="/corporate/jobs/">Jobs</a>
   </li>
-  
+
 </ul>
