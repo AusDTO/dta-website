@@ -68,8 +68,8 @@ defaults:
 
 # Config for htt://prose.io editor.
 prose:
-  rooturl: '_posts'
-  siteurl: 'https://dta.apps.staging.digital.gov.au/'
+  rooturl: ''
+  siteurl: 'https://***REMOVED***:***REMOVED***@dta.apps.staging.digital.gov.au/'
   media: 'images/blog-content'
   ignore:
     - _config.yml
@@ -80,7 +80,6 @@ prose:
     - /_layouts
     - /_includes
     - /_plugins
-    - /_posts
     - /_assets
     - /bin
     - /Gemfile
