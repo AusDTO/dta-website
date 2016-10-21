@@ -68,8 +68,9 @@ defaults:
 
 # Config for htt://prose.io editor.
 prose:
-#  rooturl: ''
-  siteurl: 'http://dta.apps.staging.digital.gov.au/'
+  rooturl: '_posts'
+  siteurl: 'https://dta.apps.staging.digital.gov.au/'
+  media: 'images/blog-content'
   ignore:
     - _config.yml
     - /manifest.yml
@@ -88,51 +89,51 @@ prose:
     - /.gitignore
     - /feed.xml
 metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "select"
-          label: "Layout"
-          placeholder: "Select Layout"
-          options:
-            - name: "Blog"
-              value: "blog"
-            - name: "News"
-              value: "news"
-            - name: "Media release"
-              value: "media-release"
-       - name: "category"
-        field:
-          element: "select"
-          label: "Category"
-          placeholder: "Select Category"
-          options:
-            - name: "Blog"
-              value: "blog"
-            - name: "DTO News"
-              value: "[news, dto-news]"
-            - name: "Media release"
-              value: "[news, media-release]"
-      - name: "author"
-        field:
-          element: "select"
-          label: "Author"
-          placeholder: "Select Author"
-          options:
-            - name: "Paul Shetler"
-              value: "Paul Shetler"
-            - name: "Leisa Reichelt"
-              value: "Leisa Reichelt"
-            - name: "Matthew Landauer"
-              value: "Matthew Landauer"
-            - name: "Dan Searle"
-              value: "Dan Searle"
-            - name: "Jacqui van Teulingen"
-              value: "Jacqui van Teulingen"
-            - name: "Jordan Hatch"
-              value: "Jordan Hatch"
-    _staff:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "staff"
+  _posts:
+    - name: "layout"
+      field:
+        element: "select"
+        label: "Layout"
+        placeholder: "Select Layout"
+        options:
+          - name: "Blog"
+          value: "blog"
+          - name: "News"
+            value: "news"
+          - name: "Media release"
+            value: "media-release"
+     - name: "category"
+      field:
+        element: "select"
+        label: "Category"
+        placeholder: "Select Category"
+        options:
+          - name: "Blog"
+            value: "blog"
+          - name: "DTO News"
+            value: "[news, dto-news]"
+          - name: "Media release"
+            value: "[news, media-release]"
+    - name: "author"
+      field:
+        element: "select"
+        label: "Author"
+        placeholder: "Select Author"
+        options:
+          - name: "Paul Shetler"
+            value: "Paul Shetler"
+          - name: "Leisa Reichelt"
+            value: "Leisa Reichelt"
+          - name: "Matthew Landauer"
+            value: "Matthew Landauer"
+          - name: "Dan Searle"
+            value: "Dan Searle"
+          - name: "Jacqui van Teulingen"
+            value: "Jacqui van Teulingen"
+          - name: "Jordan Hatch"
+            value: "Jordan Hatch"
+  _staff:
+    - name: "layout"
+      field:
+        element: "hidden"
+        value: "staff"
