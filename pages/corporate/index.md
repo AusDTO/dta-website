@@ -1,11 +1,14 @@
 ---
 layout: default
-title: "Corporate info"
+title: Corporate info
 permalink: /corporate/
+published: true
 ---
 
 
 Content todo
+
+Test edit from prose.io
 
 <ul class="list-small">
 
@@ -20,6 +23,3 @@ Content todo
   </li>
   
 </ul>
-
-
-
