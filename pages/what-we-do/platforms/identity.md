@@ -8,6 +8,8 @@ Content todo
 
 ## Identity
 
+We're making it easier for people to prove who they are when using government services online.
+
 Users should only need to establish their identity once when using different government services online. We're building an alpha (protoype) of a service to verify the identity of individuals to a level that means they can access government services.
 
 We have completed an extensive discovery process to understand the full digital trust management landscape in Australia. The research aimed to:
