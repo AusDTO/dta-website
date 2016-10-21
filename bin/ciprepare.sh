@@ -9,11 +9,16 @@ set -o pipefail
 # echo out each line of the shell as it executes
 set -x
 
-## install all the needed ruby gems
+# install all the needed ruby gems
 gem install --conservative bundler
 bundle check || bundle install
 
-## install the cloud foundry cli tool
+# install the cloud foundry cli tool
 curl -v -L -o cf-cli_amd64.deb 'https://cli.run.pivotal.io/stable?release=debian64&version=6.18.1&source=github-rel'
 sudo dpkg -i cf-cli_amd64.deb
 cf -v
+
+# htpasswd is needed when setting up basicauth
+sudo apt-get update
+sudo apt-get install -qy apache2-utils
+
