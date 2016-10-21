@@ -39,7 +39,7 @@ main() {
       cf auth $CF_STAGING_USER $CF_STAGING_PASSWORD
       cf target -o $CF_STAGING_ORG
       cf target -s $CF_STAGING_SPACE
-      cf push $appname
+      cf push
       ;;
   esac
 
