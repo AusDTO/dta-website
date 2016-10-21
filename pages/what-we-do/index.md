@@ -4,10 +4,7 @@ title: "What we do"
 permalink: /what-we-do/
 ---
 
-
-Content to do
-
-**DRAFT ONLY - AWAITING CONFIRMATION OF OFFICIAL DESCRIPTION** Test
+**DRAFT ONLY - AWAITING CONFIRMATION OF OFFICIAL DESCRIPTION**
 
 The Digital Transformation Agency (DTA) has been established to implement wide scale change in digital capability across government departments, benefiting the public and other users of government services.  The DTA is an executive agency and is part of the Prime Minister’s portfolio.
 
