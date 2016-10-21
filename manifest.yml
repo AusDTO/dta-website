@@ -1,5 +1,5 @@
 ---
-name: dta
+
 path: _site/
 instances: 1
 memory: 64M

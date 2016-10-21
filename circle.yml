@@ -1,27 +1,19 @@
 ---
+machine:
+  ruby:
+    version: 2.3.1
 
 dependencies:
-  pre:
-    - curl -v -L -f -o cf-cli_amd64.deb 'https://cli.run.pivotal.io/stable?release=debian64&source=github'
-    - sudo dpkg -i cf-cli_amd64.deb
-    - cf -v
+  override:
+    - bin/ciprepare.sh
 
 test:
   override:
-    - bin/cibuild
-    - bin/citest
+    - bin/cibuild.sh
+    - bin/citest.sh
 
 deployment:
-  staging:
-    branch: master
-    owner: AusDTO
+  all:
+    branch: /.*/
     commands:
-      - cf api https://api.system.staging.digital.gov.au
-      - cf auth $CF_STAGING_USER $CF_STAGING_PASSWORD
-      - cf target -o dto -s dtoweb
-      - cf unmap-route dta-blue apps.staging.digital.gov.au -n dta
-      - cf push dta-blue
-      - cf map-route dta-blue apps.staging.digital.gov.au -n dta
-      - cf unmap-route dta-green apps.staging.digital.gov.au -n dta
-      - cf push dta-green
-      - cf map-route dta-green apps.staging.digital.gov.au -n dta
+      - bin/cideploy.sh
