@@ -8,7 +8,7 @@ homepage-snippet: Some test content here
 
 Content to do
 
-** Digital Marketplace
+## Digital Marketplace
 
 We're transforming how government buys digital services, and making it easier for businesses to work with us - take a look at our Digital Marketplace beta.
 
