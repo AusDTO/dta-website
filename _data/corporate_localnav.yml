@@ -1,0 +1,18 @@
+- title: "Corporate information"
+  url: "/corporate/"
+  children:
+    - title: "Contracts"
+      url: "/corporate/contracts/"
+    - title: "Freedom of Information"
+      url: "/corporate/foi/"
+      grandchildren:
+        - title: "Disclosure log"
+          url: "/corporate/foi/disclosure-log/"
+        - title: "Information Publications Scheme Agency Plan"
+          url: "/corporate/foi/information-publications-scheme-agency-plan/"
+        - title: "Our reports to Parliament"
+          url: "/corporate/foi/our-reports-to-parliament/"
+        - title: "Have your say"
+          url: "/corporate/foi/have-your-say/"
+    - title: "Jobs"
+      url: "/corporate/jobs/"

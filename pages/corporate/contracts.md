@@ -5,6 +5,7 @@ permalink: /corporate/contracts/
 redirect_from: /contracts/
 breadcrumb: List of contracts
 lede: Senate Order for Department and Agency lists of contracts.
+localnav: corporate
 ---
 
 This is a list of contracts entered into by the Digital Transformation Office, with a consideration to the value of $100,000 or more, that have:
@@ -34,7 +35,7 @@ Applying average salary and on-costs to the number of hours spent by staff acros
 
 ## Why we publish this information
 
-On 20 June 2001, the Senate agreed to an Order requiring each Minister to table a letter advising that a list of contracts in respect of each entity administered by that Minister has been placed on the Internet, with access to the list through the entity home page. 
+On 20 June 2001, the Senate agreed to an Order requiring each Minister to table a letter advising that a list of contracts in respect of each entity administered by that Minister has been placed on the Internet, with access to the list through the entity home page.
 
 The letter must be tabled no later than two calendar months after the end of the calendar and financial years.
 

@@ -20,6 +20,8 @@
                 {% assign items = site.data.budget_localnav %}
             {% elsif localnav == 'our-work' %}
                 {% assign items = site.data.our-work_localnav %}
+            {% elsif localnav == 'corporate' %}
+                {% assign items = site.data.corporate_localnav %}
             {% endif %}
 
             {% for item in items %}
@@ -34,4 +36,3 @@
 </aside>
 
 {% endif %}
-
