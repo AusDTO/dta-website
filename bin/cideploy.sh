@@ -33,8 +33,8 @@ main() {
       cf target -s $CF_PROD_SPACE
       cf push -f manifest-production.yml
       ;;
-    *)
-      appname="${CIRCLE_PROJECT_REPONAME}-${GITBRANCH}"
+    develop)
+      appname="dta"
       cf api $CF_STAGING_API
       cf auth $CF_STAGING_USER $CF_STAGING_PASSWORD
       cf target -o $CF_STAGING_ORG
