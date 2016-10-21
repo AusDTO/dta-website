@@ -1,12 +1,11 @@
 ---
-layout: default
-title: "Marketplace"
+layout: basic
+title: "Digital Marketplace"
 permalink: /what-we-do/marketplace/
+redirect_from: /our-work/marketplace/
 display-homepage: true
 homepage-snippet: Some test content here
 ---
-
-## Digital Marketplace
 
 We're transforming how government buys digital services, and making it easier for businesses to work with us - take a look at our [Digital Marketplace beta](https://www.gov.au/marketplace).
 
