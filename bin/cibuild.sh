@@ -9,14 +9,4 @@ set -o pipefail
 # echo out each line of the shell as it executes
 set -x
 
-# Setup Ruby
-# curl -s -o use-ruby https://repository-cloudbees.forge.cloudbees.com/distributions/ci-addons/ruby/use-ruby
-# RUBY_VERSION=$(cat .ruby-version) . ./use-ruby
-gem install --conservative bundler
-bundle install
-
-# Run jekyll hyde
-bundle exec jekyll hyde
-
-# Run jekyll build
 bundle exec jekyll build
