@@ -87,6 +87,8 @@ prose:
     - /.ruby-version
     - /.gitignore
     - /feed.xml
+    - /Staticfile
+    - /Staticfile.auth
   metadata:
     _posts:
       - name: "layout"
