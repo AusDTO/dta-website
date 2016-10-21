@@ -1,0 +1,17 @@
+.address-grid {
+  overflow: auto;
+  padding-left: 0;
+
+  li {
+    list-style: none;
+    @include media($tablet) {
+      width: 50%;
+      float: left;
+    }
+
+    h4 {
+      margin-top: 0;
+    }
+  }
+
+}
