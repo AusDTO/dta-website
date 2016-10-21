@@ -1,14 +1,16 @@
 ---
 layout: basic
 title: Information Publications Scheme (IPS) Agency Plan
-permalink: /freedom-of-information/information-publications-scheme-agency-plan/
+permalink: /corporate/foi/information-publications-scheme-agency-plan/
+redirect_from:
+  - /freedom-of-information/information-publications-scheme-agency-plan/
 breadcrumb: Information Publications Scheme Agency Plan
 ---
-## Introduction 
+## Introduction
 The *Freedom of Information Act 1982* requires us to publish certain information on our website. This plan sets out how we will publish that information, and how we will ensure the information is:
 
 * accurate and up-to-date
-* machine-readable 
+* machine-readable
 * easy for users to access and understand, and
 * provided in a format that is accessible.
 
