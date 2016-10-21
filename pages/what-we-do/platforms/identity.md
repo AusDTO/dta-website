@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Identity"
+title: "Digital identity"
 permalink: /what-we-do/platforms/identity/
+redirect_from: /our-work/identity/
 ---
 
 Content todo
