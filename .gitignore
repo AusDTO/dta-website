@@ -4,3 +4,5 @@ _site
 .jekyll-metadata
 dta-website.iml
 .idea
+.DS_Store
+
