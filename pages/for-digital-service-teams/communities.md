@@ -16,6 +16,4 @@ We're also documenting our best practice for building digital services in the [D
 
 ## Links
 
-<ul class="links">
-  <li><a href="{{ site.baseurl }}/contact">Contact the communities team</a></li>
-</ul>
+* [Contact the communities team]({{ site.baseurl }}/contact)
