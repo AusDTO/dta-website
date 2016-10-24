@@ -1,49 +1,42 @@
 ---
-layout: default
+layout: base
 breadcrumb: Blog
 title: Latest blog posts
 searchexcerpt: Read the latest blog posts from the Digital Transformation Agency.
 permalink: /blog/
 ---
-<h1>Blog</h1>
-<h2>Latest blog posts</h2>
 
-<ul class="list-horizontal">
-    {% for post in site.categories['blog'] limit:5 %}
-    {% if post.tags contains 'dto-news' %}
-    <li>
-        {% include blog-teaser.html %}
-    </li>
-    {% endif %}
-    {% endfor %}
-</ul>
+<article  id="content" class="content-main">
 
-<div>
-    <a class="see-more" href="/blog/all-posts/">See more</a>
-</div>
+    <h1>Blog</h1>
+    <h2>Latest blog posts</h2>
 
-<h2>DTO Blogs</h2>
-<ul class="list-small">
-  <li>
-    <a href="/blog/gov-au/">GOV.AU blog</a>
-    <p>Read the latest news about the development of the GOV.AU project.</p>
-  </li>
-  <li>
-    <a href="/blog/dto-news/">DTO News</a>
-    <p>Keep up-to-date with the latest news from the Digital Transformation Office.</p>
-  </li>
-</ul>
+    <ul class="list-horizontal">
+        {% for post in site.categories['blog'] limit:5 %}
+        {% if post.tags contains 'dto-news' %}
+        <li>
+            {% include blog-teaser.html %}
+        </li>
+        {% endif %}
+        {% endfor %}
+    </ul>
 
+    <div>
+        <a class="see-more" href="/blog/all-posts/">See more</a>
+    </div>
 
-<aside>
-	{% include subscribe.html %}
-	
-	<div class="moderation-policy">
-	  	<h2>Join the conversation</h2> 
-	  	<a href="/blog/blog-moderation-guidelines/">Read our comment moderation guidelines</a>
-	</div>
-	
-</aside>
+    <h2>DTO Blogs</h2>
+    <ul class="list-small">
+      <li>
+        <a href="/blog/gov-au/">GOV.AU blog</a>
+        <p>Read the latest news about the development of the GOV.AU project.</p>
+      </li>
+      <li>
+        <a href="/blog/dto-news/">DTO News</a>
+        <p>Keep up-to-date with the latest news from the Digital Transformation Office.</p>
+      </li>
+    </ul>
+</article>
 
 <!-- disqus comment count script -->
 <script id="dsq-count-scr" src="https://ausdto.disqus.com/count.js" async></script>
@@ -51,3 +44,15 @@ permalink: /blog/
 <!-- mailchimp subscribe init scripts -->
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
 <script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+
+
+<aside class="sidebar">
+    {% include subscribe.html %}
+
+    <div class="moderation-policy">
+        <h2>Join the conversation</h2>
+        <a href="/blog/blog-moderation-guidelines/">Read our comment moderation guidelines</a>
+    </div>
+
+</aside>
+

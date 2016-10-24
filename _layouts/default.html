@@ -1,39 +1,8 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+---
+layout: base
+---
+<article  id="content" class="content-main">
 
-  {% include head.html %}
+  {{ content }}
 
-  <body>
-
-    {% include header.html %}
-
-    {% include breadcrumb.html%}
-
-    <!--<main role="main">-->
-    <div role="main">
-      <!--<div class="hero-med">-->
-        <!--<div class="wrapper">-->
-          <!--<h1>{{page.title}}</h1>-->
-          <!--{% if page.description %}-->
-          <!--<p>{{ page.description }}</p>-->
-          <!--{% endif %}-->
-        <!--</div>-->
-      <!--</div>-->
-
-      <main>
-
-        {% include local-nav.html %}
-
-        <article id="content" class="content-main">
-
-          {{ content }}
-
-        </article>
-        
-      </main>
-    </div>
-
-    {% include footer.html %}
-
-  </body>
-</html>
+</article>
