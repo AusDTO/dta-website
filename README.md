@@ -5,20 +5,22 @@
 
 ## Hacking on Content
 
-Create a branch from the `development` branch.
-To test that branch out you can push to cloud.gov.au before commiting to git. Remember to delete unused apps.
+Create a branch from the `development` branch.  
+To test that branch out you can push to cloud.gov.au before commiting to git.  
+Remember to delete unused apps.
 
 `cf push branchname` # assumes you are logged into the staging platform.
 
 Submit a PR to the `development` branch.  
 The development branch is continuously deployed to https://dta.apps.staging.digital.gov.au/
+The master branch is continuously deployed to https://www.digital.gov.au/
 
 When ready for a production deploy:
 
-`git checkout master`
-`⁠git pul`
-`git merge --no-ff develop`
-`git push origin master`
+* `git checkout master`
+* `⁠git pul`
+* `git merge --no-ff develop`
+* `git push origin master`
 
 ## cloud.gov.au details
 
@@ -35,6 +37,8 @@ When ready for a production deploy:
 * **org**: dta
 * **space**: website
 * **circle user**: dtacircleci
+* has a cloudfront distribution under the parent DTO AWS account
+* uses AWS Route53 for dns under the parent DTO AWS account
 
 ## Setting up CircleCI
 
