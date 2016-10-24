@@ -51,6 +51,9 @@ exclude:
   - vendor
   - bin
   - circle.yml
+  - README.md
+  - manifest*.yml
+  - todo.md
 
 assets:
   sources:
@@ -58,11 +61,11 @@ assets:
     - _assets/vendor
     - _assets/img
   compress:
-    css: true
+    css: false
     js: false
   cache: .asset-cache
-  prefix: "/cdn"
-  digest: true
+  prefix: "/"
+  digest: false
 
 
 defaults:
@@ -80,6 +83,8 @@ prose:
   ignore:
     - _config.yml
     - /manifest.yml
+    - /manifest-production.yml
+    - /manifest-develop.yml
     - /circle.yml
     - /_assets
     - /_data
@@ -95,6 +100,7 @@ prose:
     - /feed.xml
     - /Staticfile
     - /Staticfile.auth
+    - README.md
   metadata:
     _posts:
       - name: "layout"
