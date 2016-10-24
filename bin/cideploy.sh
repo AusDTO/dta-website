@@ -27,14 +27,14 @@ main() {
   case "${GITBRANCH}" in
     master)
       cf api $CF_PROD_API
-      cf auth $CF_PROD_USER $CF_PROD_PASSWORD
+      cf auth $CF_USER $CF_PASSWORD
       cf target -o $CF_ORG
       cf target -s $CF_SPACE
       cf push -f manifest-production.yml
       ;;
     develop)
       cf api $CF_STAGING_API
-      cf auth $CF_STAGING_USER $CF_STAGING_PASSWORD
+      cf auth $CF_USER $CF_PASSWORD
       cf target -o $CF_ORG
       cf target -s $CF_SPACE
       cf push -f manifest-develop.yml
