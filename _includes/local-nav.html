@@ -22,6 +22,8 @@
                 {% assign items = site.data.our-work_localnav %}
             {% elsif localnav == 'corporate' %}
                 {% assign items = site.data.corporate_localnav %}
+            {% elsif localnav == 'who-we-are' %}
+                {% assign items = site.data.who_we_are_localnav %}
             {% endif %}
 
             {% for item in items %}
