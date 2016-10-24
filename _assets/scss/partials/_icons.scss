@@ -1,0 +1,43 @@
+//TO DO - refactor this out once thes icons are include in UI Kit
+$dta-image-base-url: '../images/' !default;
+
+@function image-url-dta($url) {
+  @return url('#{$dta-image-base-url}#{$url}');
+}
+
+@mixin inline-background-image-dta($img) {
+  background-image: image-url-dta('icons/' + $img + '.svg');
+
+  @include ie-lte(8) {
+    background-image: image-url('icons/' + $img + '.png');
+  }
+}
+
+// Social media icons
+%facebook {
+  @include inline-background-image-dta('facebook');
+}
+
+%twitter {
+  @include inline-background-image-dta('twitter');
+}
+
+%email {
+  @include inline-background-image-dta('email');
+}
+
+%linkedin {
+  @include inline-background-image-dta('linkedin');
+}
+
+%slideshare {
+  @include inline-background-image-dta('slideshare');
+}
+
+%youtube {
+  @include inline-background-image-dta('youtube');
+}
+
+%github {
+  @include inline-background-image-dta('github');
+}

@@ -21,7 +21,7 @@ The agency will be responsible for the ICT policy and ICT procurement functions,
     <a href="/what-we-do/platforms/">Platforms</a>
   </li>
   <li>
-    <a href="/what-we-do/policy/">Platforms</a>
+    <a href="/what-we-do/policy/">Policy</a>
   </li>
   <li>
     <a href="/what-we-do/marketplace/">Marketplace</a>

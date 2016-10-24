@@ -9,9 +9,9 @@ permalink: "/"
 <article id="content" class="content-listing">
 
 <section class="about-dta">
-<h1>Digital Transformation Agency</h1>
+  <h1>Digital Transformation Agency</h1>
 
-<p class="abstract">The role of the Digital Transformation Agency is to work with the Public Service to make government digital services simpler, clearer and more user focused. We administer the <a href="/standard/">Digital Service Standard</a> and GOV.AU.</p>
+  <p class="abstract">The Digital Transformation Agency exists to make it easy for people to deal with government, by helping government transform services to be simple, clear and fast.</p>
 </section>
 
 <section class="what-we-do">
