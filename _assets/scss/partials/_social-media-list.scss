@@ -19,39 +19,45 @@
 		text-decoration: none;
 
 		&:before {
-			font-family: FontAwesome;
-			font-size: rem(22);
-			margin-right: $tiny-spacing;
+
+		background-position: center center;
+		background-repeat: no-repeat;
+    background-size: 100% auto;
+		content: ' ';
+    display: inline-block;
+		height: $medium-spacing;
+		margin-right: $tiny-spacing;
+		width: $medium-spacing;
 		}
 	}
 	.email {
 		&:before {
-			content: '\f003';
+			@extend %email;
 		}
 	}
 	.twitter {
 		&:before {
-			content: '\f099';
+			@extend %twitter;
 		}
 	}
 	.linkedin {
 		&:before {
-			content: '\f0e1';
+			@extend %linkedin;
 		}
 	}
 	.youtube {
 		&:before {
-			content: '\f16a';
+			@extend %youtube;
 		}
 	}
 	.slideshare {
 		&:before {
-			content: '\f1e7';
+			@extend %slideshare;
 		}
 	}
 	.facebook {
 		&:before {
-			content: '\f09a';
+			@extend %facebook;
 		}
 	}
 	.github {
