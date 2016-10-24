@@ -11,7 +11,7 @@ set -x
 
 # install all the needed ruby gems
 gem install --conservative bundler
-bundle check || bundle install
+bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
 
 # install the cloud foundry cli tool
 curl -v -L -o cf-cli_amd64.deb 'https://cli.run.pivotal.io/stable?release=debian64&version=6.18.1&source=github-rel'
