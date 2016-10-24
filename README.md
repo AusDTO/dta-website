@@ -11,14 +11,14 @@ Remember to delete unused apps.
 
 `cf push branchname` # assumes you are logged into the staging platform.
 
-Submit a PR to the `development` branch.  
-The development branch is continuously deployed to https://dta.apps.staging.digital.gov.au/
+Submit a PR to the `develop` branch.  
+The develop branch is continuously deployed to https://dta.apps.staging.digital.gov.au/
 The master branch is continuously deployed to https://www.digital.gov.au/
 
 When ready for a production deploy:
 
 * `git checkout master`
-* `⁠git pul`
+* `⁠git pull`
 * `git merge --no-ff develop`
 * `git push origin master`
 
