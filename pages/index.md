@@ -18,19 +18,16 @@ permalink: "/"
 <h2 class="home-heading">What we're involved in</h2>
   <ul class="list-vertical--thirds">
 
-  {% for page in site.pages %}
-
-  {% if page.display-homepage %}
+  {% for item in site.data.homepage_items %}
     <li>
       <article>
         <h3>
-          <a href="{{page.url}}">{{page.title}}</a>
+          <a href="{{item.url}}">{{item.title}}</a>
         </h3>
-        <p>{{page.homepage-snippet}}</p>
+        <p>{{item.description}}</p>
       </article>
     </li>
-    {% endif %}
-    {% endfor %}
+  {% endfor %}
 
   </ul>
 </section>
