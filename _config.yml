@@ -58,11 +58,11 @@ assets:
     - _assets/vendor
     - _assets/img
   compress:
-      css: true
-      js: false
-    cache: .asset-cache
-    prefix: "/cdn"
-    digest: true
+    css: true
+    js: false
+  cache: .asset-cache
+  prefix: "/cdn"
+  digest: true
 
 
 defaults:
