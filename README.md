@@ -21,4 +21,3 @@ CF_SPACE
 CF_BASIC_AUTH_USERNAME  [optional]
 CF_BASIC_AUTH_PASSWORD  [optional]
 ```
-
