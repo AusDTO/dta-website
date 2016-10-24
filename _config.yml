@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Digital Transformation Agency
-email: your-email@domain.com
+email: web.team@digital.gov.au
 description: > # this means to ignore newlines until "baseurl:"
   Driving the digital transformation of government information and services,
   making them simpler, clearer, faster.
@@ -43,7 +43,6 @@ markdown: kramdown
 
 gems:
   - jekyll-assets
-  - jekyll-feed
   - jekyll-redirect-from
 
 exclude:
@@ -58,6 +57,13 @@ assets:
     - _assets/scss
     - _assets/vendor
     - _assets/img
+  compress:
+      css: true
+      js: false
+    cache: .asset-cache
+    prefix: "/cdn"
+    digest: true
+
 
 defaults:
   -
