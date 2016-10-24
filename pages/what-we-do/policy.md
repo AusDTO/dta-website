@@ -9,6 +9,8 @@ homepage-snippet: Some test content here
 
 Content todo 
 
+NOTE the DSS below has been copied from dto.gov.au/our-work/standard/
+
 ## Digital Service Standard
 
 <p class="lede">
@@ -28,9 +30,15 @@ The Standard applies to <a href="{{ site.baseurl }}/standard/scope-of-standard/"
 There are <a href="{{ site.baseurl }}/standard/meeting-standard/">assessments</a> at the Alpha, Beta and Live stages.
 </p>
 
-<h2>Links</h2>
-<ul class="links">
-  <li><a href="https://digitalservicestandardaus.tumblr.com/">Digital Service Standard things</a> - Examples of what you need to build simpler, clearer, faster digital services</li>
-  <li>Contact: <a href="mailto:standard@digital.gov.au">standard@digital.gov.au</a></li>
+## Links
+
+<ul class="list-small">
+    <li>
+        <a href="https://digitalservicestandardaus.tumblr.com/">Digital Service Standard things</a>
+        <p>Examples of what you need to build simpler, clearer, faster digital services</p>
+    </li>
+    <li>
+        <a href="mailto:standard@digital.gov.au">Contact: standard@digital.gov.au</a>
+    </li>
 </ul>
 
