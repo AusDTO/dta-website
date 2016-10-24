@@ -18,16 +18,16 @@ The agency will be responsible for the ICT policy and ICT procurement functions,
     <a href="/what-we-do/budget/">Budget initiatives</a>
   </li>
   <li>
-    <a href="/what-we-do/platforms/">Platforms</a>
-  </li>
-  <li>
-    <a href="/what-we-do/policy/">Policy</a>
+    <a href="/what-we-do/exemplars/">Exemplars</a>
   </li>
   <li>
     <a href="/what-we-do/marketplace/">Marketplace</a>
   </li>
   <li>
-    <a href="/what-we-do/exemplars/">Exemplars</a>
+    <a href="/what-we-do/platforms/">Platforms</a>
+  </li>
+  <li>
+    <a href="/what-we-do/policy/">Policy</a>
   </li>  
 
 </ul>
