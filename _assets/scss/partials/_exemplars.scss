@@ -1,0 +1,142 @@
+.project-phase-counter {
+	display:block;
+	margin-bottom:3em;
+	overflow:hidden;
+	.project-phase-column {
+		width:25%;
+		padding-left:10px;
+		float:left;
+		@media screen and (max-width: $tablet-minwidth) {
+			width:100%;
+			padding-left:0;
+		}
+		&:first-child {
+			padding-left:0;
+		}
+		.discovery, .alpha, .beta, .live {
+			color:#fff;
+			font-weight:700;
+			font-size:20px;
+			padding:8px;
+			text-align:center;
+			margin-top:0;
+		}
+		.discovery {
+			background-color:$discovery;
+		}
+		.alpha {
+			background-color:$alpha;
+		}
+		.beta {
+			background-color:$beta;
+		}
+		.live {
+			background-color:$live;
+		}
+		.count {
+			font-weight:700;
+			font-size:80px;
+			text-align:center;
+		}
+		.description {
+			font-size:15px;
+		}
+	}
+}
+
+h3.programme {
+	color: $dta-blue;
+	text-transform: uppercase;
+	font-size: 33px;
+	margin-top: 1em;
+	@media screen and (max-width: $tablet-minwidth) {
+		font-size: 26px;
+	}
+}
+
+ul {
+	&.project-list {
+		list-style-type:none;
+		padding-left:0;
+		&.dtp {
+			margin-bottom: 66px;		
+			@media screen and (max-width: $tablet-minwidth) {
+				margin-bottom: 33px;
+			}
+		}
+		> li {
+			&:before {
+				display:none;
+			}
+			border-top:1px solid $dta-light-grey;
+			overflow:hidden;
+			margin-bottom:2em;
+			padding-bottom:2.5em;
+			padding: 0 33px;
+			@media screen and (max-width: $tablet-minwidth) {
+				padding: 0 10px;
+			}
+			.project-phase {
+				text-transform:capitalize;
+				color:#fff;
+				margin-bottom:2em;
+				.discovery, .alpha, .beta, .live {
+					padding:7px 12px;
+					font-size:20px;
+					font-weight:700;
+					display:inline-block;
+				}
+				.discovery {
+					background-color:$discovery;
+				}
+				.alpha {
+					background-color:$alpha;
+				}
+				.beta {
+					background-color:$beta;
+				}
+				.live {
+					background-color:$live;
+				}
+			}
+			.left {
+				img {
+				max-width:260px;
+				height:auto;
+				}
+			}
+			.right {
+				h4 {
+					line-height: 1.333;
+					font-size: 34px;
+					margin-top:5px;
+					@media screen and (max-width: $desktop-minwidth) {
+						font-weight:700;
+						margin-top:25px;
+						font-size:30px;
+					}
+				}
+				p {
+					font-size: 19px;
+					color:$dta-mid-grey;
+					margin-top: 20px;
+					line-height: 1.333;						
+								
+					&.subtitle {
+						font-weight:700;	
+						font-size: 25px;				
+						margin-top: 0;
+					}				
+				}
+			}	
+		}
+	}
+}
+
+ul.project-links {
+	padding-left: 0;
+	
+	li {
+		list-style: none;
+	}
+}

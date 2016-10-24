@@ -25,6 +25,14 @@ $dta-blue--lightest: #c9e9f0;
 
 $dta-red: #d7002f;
 
+//development phase colours
+//not to be used for text. Only to be used as background with white text - minumium 20px and bold
+$discovery: #912b87;
+$alpha: #c52a72;
+$beta: #ef6a30;
+$live: #859949;
+
+
 // Imports UI-Kit: https://github.com/AusDTO/gov-au-ui-kit
 @import 'dto-ui-kit/assets/sass/ui-kit';
 
@@ -36,6 +44,7 @@ $dta-red: #d7002f;
 @import 'partials/contact';
 @import 'partials/criteria-page-header';
 @import 'partials/dss-criteria-list';
+@import 'partials/exemplars';
 @import 'partials/header';
 @import 'partials/footer';
 @import 'partials/typography';
@@ -43,3 +52,4 @@ $dta-red: #d7002f;
 @import 'partials/homepage';
 @import 'partials/icons';
 @import 'partials/social-media-list';
+

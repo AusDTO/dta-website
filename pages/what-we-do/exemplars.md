@@ -25,10 +25,6 @@ homepage-snippet: Some test content here
     {% endfor %}
   </ul>
 
-  <section class="links">
-    <h2>Links</h2>
-    <ul class="links">
-      <li><a href="{{ site.baseurl }}/contact">Contact the programme team</a></li>
-    </ul>
-  </section>
-  
+## Links
+- [Contact the programme team]({{ site.baseurl }}/contact)
+
