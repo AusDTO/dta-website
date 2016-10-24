@@ -8,6 +8,12 @@
 		margin-bottom: $small-spacing;
 	}
 
+	h2 {
+		display: inline;
+		// temporary padding fix, clean up when disqus and other styling of posts is fixed
+		padding-right: 50px;
+	}
+
 	.email,
 	.slideshare,
 	.twitter,
