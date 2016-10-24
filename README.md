@@ -38,6 +38,8 @@ When ready for a production deploy:
 * **space**: website
 * **circle user**: dtacircleci
 * has a cloudfront distribution under the parent DTO AWS account
+* cloudfront is logging to an S3 bucket in the parent DTO AWS account
+  * `dta-site-cdn-logs`
 * uses AWS Route53 for dns under the parent DTO AWS account
 
 ## Setting up CircleCI
