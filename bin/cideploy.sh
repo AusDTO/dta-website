@@ -22,10 +22,10 @@ basicauth() {
 main() {
   readonly GITBRANCH="${CIRCLE_BRANCH}"
 
-  basicauth
 
   case "${GITBRANCH}" in
     master)
+      basicauth
       cf api $CF_PROD_API
       cf auth $CF_USER $CF_PASSWORD
       cf target -o $CF_ORG
@@ -33,6 +33,7 @@ main() {
       cf push -f manifest-production.yml
       ;;
     develop)
+      basicauth
       cf api $CF_STAGING_API
       cf auth $CF_USER $CF_PASSWORD
       cf target -o $CF_ORG
@@ -44,7 +45,6 @@ main() {
       exit 0
       ;;
   esac
-
 }
 
 main $@
