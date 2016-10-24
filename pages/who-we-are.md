@@ -5,7 +5,6 @@ permalink: /who-we-are/
 redirect_from:
   - /about/
   - /about-us/
-breadcrumb: Who we are
 searchexcerpt: Our mission is to lead the transformation of government services to deliver a better experience for Australians.
 ---
 The Digital Transformation Office (DTO) was established as an executive agency in July 2015 and is part of the Prime Minister’s portfolio.
