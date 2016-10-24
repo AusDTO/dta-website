@@ -5,11 +5,10 @@ memory: 64M
 disk_quota: 256M
 instances: 1
 buildpack: staticfile_buildpack
-#no-hostname: true
-host: dta-site
+no-hostname: true
+domains:
+ - www.digital.gov.au
+ - prod-pcf-pcf-elb-1876193122.ap-southeast-2.elb.amazonaws.com
 applications:
 - name: dta-site-blue
 - name: dta-site-green
-
-#domains:
-# - digital.gov.au
