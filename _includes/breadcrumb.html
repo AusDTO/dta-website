@@ -84,7 +84,12 @@
         {% endfor %}
 
     {% endfor %}
-                <li>{{ page.title }}</li>
+
+    {% assign label = page.title %}
+    {% if page.breadcrumb %}
+        {% assign label = page.breadcrumb %}
+    {% endif %}
+                <li>{{ label }}</li>
             </ul>
         </div>
     </nav>
