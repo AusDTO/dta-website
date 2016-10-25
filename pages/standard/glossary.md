@@ -2,7 +2,6 @@
 layout: standard
 title: Glossary
 permalink: /standard/glossary/
-breadcrumb: Glossary
 weight: 90
 phase: 'Alpha'
 searchexcerpt: A list of terms and definitions. This glossary will grow as guidance evolves.

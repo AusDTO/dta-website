@@ -2,7 +2,6 @@
 layout: standard
 title: Assessment reports
 permalink: /standard/assessments/
-breadcrumb: Assessment reports
 ---
 
 {% javascript assessment-tabs %}

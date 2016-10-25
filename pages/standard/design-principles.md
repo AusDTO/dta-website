@@ -2,7 +2,6 @@
 layout: standard
 title: Design principles
 permalink: /standard/design-principles/
-breadcrumb: Design principles
 lede: Guiding principles to design better services
 phase: 'Alpha'
 redirect_from: /standard/principles-digital-service-design
