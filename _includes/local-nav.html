@@ -3,7 +3,7 @@
     {% assign localnav = page.localnav %}
 {% endif %}
 
-{% if localnav or page.layout == 'guide' %}
+{% if localnav and page.layout != 'guide' %}
 <aside class="sidebar">
     <nav class="local-nav" aria-label="main navigation">
         <h1 class="is-visuallyhidden">Menu</h1>
@@ -12,10 +12,6 @@
                 {% assign items = site.data.digital-service-standard_localnav %}
             {% elsif localnav == 'digital-service-standard-criteria' %}
                 {% assign items = site.data.digital-service-standard-criteria_localnav %}
-            {% elsif localnav == 'authentification-frameworks' %}
-                {% assign items = site.data.authentification-frameworks_localnav %}
-            {% elsif localnav == 'common-website-elements' %}
-                {% assign items = site.data.common-website-elements_localnav %}
             {% elsif localnav == 'budget' %}
                 {% assign items = site.data.budget_localnav %}
             {% elsif localnav == 'our-work' %}
@@ -29,11 +25,8 @@
             {% for item in items %}
                 {% include localnav-markup.html %}
             {% endfor %}
-
-            {% if page.layout == 'guide' %}
-            {% include related-guides.html %}
-            {% endif %}
         </ul>
+
     </nav>
 </aside>
 
