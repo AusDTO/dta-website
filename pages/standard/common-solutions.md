@@ -2,7 +2,6 @@
 layout: standard
 title: Common solutions
 permalink: /standard/common-solutions/
-breadcrumb: Common solutions
 lede: Using common solutions to design better services
 weight: 70
 redirect_from: /standard/common-government-solutions/

@@ -3,7 +3,6 @@ layout: standard
 title: Measuring service performance
 lede: How to measure and monitor digital services
 permalink: /standard/measuring-performance/
-breadcrumb: Measuring service performance
 ---
 
 It’s essential to measure and monitor how your service is performing so you can make sure it continues to meet user needs in a cost-effective and efficient way.

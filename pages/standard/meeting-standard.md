@@ -2,7 +2,6 @@
 layout: standard
 title: Meeting the Standard
 permalink: /standard/meeting-standard/
-breadcrumb: Meeting the Standard
 lede: How services are assessed
 ---
 All services within the [scope of the Digital Service Standard](/standard/scope-of-standard/) (the Standard) are assessed against the Standard.
