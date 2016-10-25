@@ -1,4 +1,4 @@
-//crtieria list
+//criteria list
 .dss-criteria-page-list {
 	ol {
 		font-size:4.3em;
@@ -74,5 +74,25 @@
       border-left:2px solid $dta-light-grey;
     }
   }
+}
+
+.dss-glossary {
+	@include outer-container;
+	.letter {
+		@include fill-parent();
+		@include row(table);
+		border-bottom: 1px solid #eee;
+		margin-bottom: 8px;
+	}
+	.term {
+		@include span-columns(3);
+		@include pad();
+	}
+	.definition {
+		@include span-columns(9);
+		@include reset-display;
+		@include pad();
+
+	}
 }
             
