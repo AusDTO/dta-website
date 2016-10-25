@@ -10,6 +10,14 @@
     padding-right: 6px;
     font-size: 14px;
     padding-left: 2em;
+  }
+}
 
+.guides-links {
+  li {
+    list-style: none;
+  }
+  a.is-current {
+    font-weight: bold;
   }
 }
