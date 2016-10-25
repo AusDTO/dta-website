@@ -2,9 +2,8 @@
 layout: standard
 title: Service design and delivery process
 permalink: /standard/service-design-and-delivery-process/
-breadcrumb: Service design and delivery process
 weight: 40
-lede: Focussing on users’ experience to design and deliver better solutions
+lede: "Focussing on users’ experience to design and deliver better solutions"
 ---
 We will design public services for Australians in user-centered and iterative ways. This helps teams to start small and learn fast, and to create services that can be delivered quickly and to save money by reducing service failure.
 

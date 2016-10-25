@@ -2,7 +2,6 @@
 layout: standard
 title: Staged assessment process
 permalink: /standard/meeting-standard/staged-assessment-process/
-breadcrumb: Staged assessment process
 ---
 All services within the [scope of the Digital Service Standard](/standard/scope-of-standard/) (the Standard) will be assessed against the Standard. Depending on the service, this will follow either the staged assessment process or the [in-flight assessment process](/standard/meeting-standard/#inflight).
 

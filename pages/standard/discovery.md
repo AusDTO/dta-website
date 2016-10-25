@@ -2,7 +2,6 @@
 layout: standard
 title: Discovery
 permalink: /standard/service-design-and-delivery-process/discovery/
-breadcrumb: Discovery
 weight: 10
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k3DNy06Ddvg" frameborder="0" allowfullscreen></iframe>

@@ -37,6 +37,7 @@ $live: #859949;
 @import 'dto-ui-kit/assets/sass/ui-kit';
 
 // Import partials from `partials`
+@import 'partials/assessment-reports';
 @import 'partials/blog-share-links';
 @import 'partials/blog-subscribe';
 @import 'partials/breadcrumb';
@@ -45,6 +46,7 @@ $live: #859949;
 @import 'partials/criteria-page-header';
 @import 'partials/dss-criteria-list';
 @import 'partials/exemplars';
+@import 'partials/guides';
 @import 'partials/header';
 @import 'partials/footer';
 @import 'partials/typography';
