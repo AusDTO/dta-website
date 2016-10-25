@@ -1,0 +1,15 @@
+
+.back-to-guides {
+  padding-bottom: 20px;
+  a {
+    text-decoration: none;
+    background-image: url(image-path('arrow-left.svg'));
+    background-repeat: no-repeat;
+    background-position: 0 center;
+    background-size: 2em auto;
+    padding-right: 6px;
+    font-size: 14px;
+    padding-left: 2em;
+
+  }
+}
