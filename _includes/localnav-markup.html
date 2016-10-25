@@ -1,5 +1,12 @@
 <li>
-	<a href="{{ item.url }}" class="is-active">{{ item.title }}</a>
+	{% assign class = '' %}
+	{% if page.url == item.url %}
+		{% assign class = 'is-current is-active' %}
+	{% elsif page.url contains item.url %}
+		{% assign class = 'is-active' %}
+	{% endif %}
+
+	<a href="{{ item.url }}" class="{{ class }}">{{ item.title }}</a>
 
 	{% if item.children %}
 	<ul>
