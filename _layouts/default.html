@@ -2,7 +2,15 @@
 layout: base
 ---
 <article  id="content" class="content-main">
+  {% if page.phase %}
+    {% assign phase = page.phase %}
+  {% elsif layout.phase %}
+    {% assign phase = layout.phase %}
+  {% endif %}
+
+  {% if phase %}
+    <p>This content is currently in <span class="badge--{{ phase | downcase }}">{{ phase }}</span></p>
+  {% endif %}
 
   {{ content }}
-
 </article>
