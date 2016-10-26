@@ -11,7 +11,7 @@ topic_group:
 topic:
 - Website design
 ---
-This guide provides advice on how to write content for users of services in [scope of the Digital Service Standard](/standard/scope-of-standard/). It may also be helpful for internal communication channels, such as an intranet, however it is written with external service content in mind.
+This guide provides advice on how to write content for users of services in [scope of the Digital Service Standard](/for-digital-service-teams/standard/scope-of-standard/). It may also be helpful for internal communication channels, such as an intranet, however it is written with external service content in mind.
 
 ## Why must I?
 
@@ -19,7 +19,7 @@ Digital services need clear and easy-to-understand content to help people find a
 
 While we recommend plain English as the default, this style is not going to work for every user. That’s why we suggest this rule of thumb: **make communication as simple as its users need**. One group of users may need similar information to another, but in much greater detail. In certain circumstances your user research may tell you that you need to write the same content twice: one version for a general audience and another for technical users.
 
-The Australian Government is committed to [making its websites more accessible](/standard/design-guides/making-content-accessible) through conformance with the World Wide Web Consortium’s (W3C) [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG20/) at AA level, and AAA level for certain websites.
+The Australian Government is committed to [making its websites more accessible](/for-digital-service-teams/standard/design-guides/making-content-accessible) through conformance with the World Wide Web Consortium’s (W3C) [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG20/) at AA level, and AAA level for certain websites.
 
 The standard style references for Australian Government are:
 
@@ -177,7 +177,7 @@ Don’t use a colon at the end of an item leading into a sub-list (if the list r
 
 | Write this  | Instead of this |
 | --- | --- |
-| Australian Government | Federal Government, or Commonwealth Government ([unless referring to the entity established by the Constitution](/standard/design-guides/branding#refercorrectly))  |
+| Australian Government | Federal Government, or Commonwealth Government ([unless referring to the entity established by the Constitution](/for-digital-service-teams/standard/design-guides/branding#refercorrectly))  |
 | state and territory, and local governments | State and Territory and Local Governments |
 | enough | adequate number of  |
 | total | aggregated |
@@ -328,7 +328,7 @@ Things to consider when writing content for CALD audiences:
 *   perceptions of social and support concepts
 *   differences in socioeconomic background.
 
-There is more information on writing for CALD audiences in the [designing inclusive services guide](/standard/design-guides/inclusive-services/).
+There is more information on writing for CALD audiences in the [designing inclusive services guide](/for-digital-service-teams/standard/design-guides/inclusive-services/).
 
 ##### Indigenous Australian audiences
 
@@ -344,7 +344,7 @@ Use correct terminology
 *   Don’t use ‘Australian Aborigine’ or the acronym ‘ATSI’
 *   ‘Indigenous’ is the preferred term when referring to a business entity or business function, for example Indigenous Specialist Officer, Indigenous Services Branch
 
-There is more information on writing for Indigenous Australian audiences in [designing inclusive services](/standard/design-guides/inclusive-services/).
+There is more information on writing for Indigenous Australian audiences in [designing inclusive services](/for-digital-service-teams/standard/design-guides/inclusive-services/).
 
 ### <a id="useminimal" name="useminimal"></a>Use minimal punctuation
 

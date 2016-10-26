@@ -12,7 +12,7 @@ published: false
 ---
 The purpose of this guide is to assist agencies to understand government language and terminology and the obligations they need to meet to deliver a digital service. It is also intended to provide support for agencies to help them acquire resources and skills they may lack.
 
-In the context of this guide, ‘building’ includes solution architecture as well as software configuration for commercial off-the-shelf (COTS) solutions and software development (bespoke). Guidance on [user-centred design](/standard/design-guides/user-centred-design/) is available in other guides.
+In the context of this guide, ‘building’ includes solution architecture as well as software configuration for commercial off-the-shelf (COTS) solutions and software development (bespoke). Guidance on [user-centred design](/for-digital-service-teams/standard/design-guides/user-centred-design/) is available in other guides.
 
 We recognise that many agencies already have expertise, resources and experience to build digital services far beyond what can be described here. As with other guides, you may only require a quick review of the top-level checklist items, rather than all of the linked detailed guidance.  
 
@@ -44,7 +44,7 @@ This checklist is not a comprehensive guide on how to build a digital service. H
 
 ### <a id="identify" name="identify"></a>Identify existing experience and capability
 
-[Agencies’ skills](/standard/design-guides/the-team/), experience and capability to build digital services vary across government. Understanding the current level of experience and capability is important to help you recognise when and where you may need expert help.
+[Agencies’ skills](/for-digital-service-teams/standard/design-guides/the-team/), experience and capability to build digital services vary across government. Understanding the current level of experience and capability is important to help you recognise when and where you may need expert help.
 
 ### <a id="reuse" name="reuse"></a>Reuse, buy, build (in that order)
 
@@ -52,7 +52,7 @@ There are many existing government capabilities and platforms that you can reuse
 
 If you need something not yet produced in government, open source or existing commercial off-the- shelf (COTS) products should suit your need. Certain [cloud computing service models](http://en.wikipedia.org/wiki/Cloud_computing#Service_models) can reduce the need for internal technical expertise in producing the required service.
 
-The Digital Transformation Office is coordinating the development of many [core platforms](/standard/common-government-solutions) for government. These core platforms should be used before building your own similar software solution.
+The Digital Transformation Office is coordinating the development of many [core platforms](/for-digital-service-teams/standard/common-government-solutions) for government. These core platforms should be used before building your own similar software solution.
 
 ### <a id="understand" name="understand"></a>Understand service obligations
 
@@ -74,7 +74,7 @@ We will be extending this guide and others with more detail on software developm
 
 ### <a id="useopen" name="useopen"></a>Use open standards
 
-Open standards enable you to leverage defined protocols, approaches and data or information interchange. There is more information available in the [using open standards guide](/standard/design-guides/open-standards/)
+Open standards enable you to leverage defined protocols, approaches and data or information interchange. There is more information available in the [using open standards guide](/for-digital-service-teams/standard/design-guides/open-standards/)
 
 ### <a id="select" name="select"></a>Select the right tools
 
@@ -96,7 +96,7 @@ Business analysts will need tools that help in the gathering and documenting of 
 
 ##### User experience
 
-Tools to support [usability testing](/standard/design-guides/usability-testing/) including generation of mock-ups, prototypes and capturing user-experience feedback should be used. Some government agencies have specialist user-testing facilities that may assist in engaging and testing with your user groups.
+Tools to support [usability testing](/for-digital-service-teams/standard/design-guides/usability-testing/) including generation of mock-ups, prototypes and capturing user-experience feedback should be used. Some government agencies have specialist user-testing facilities that may assist in engaging and testing with your user groups.
 
 ##### Design tools
 

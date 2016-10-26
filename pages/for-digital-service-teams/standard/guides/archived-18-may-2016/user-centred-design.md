@@ -38,16 +38,16 @@ A user-centred approach is supported by [_Ahead of the game: Blueprint for the r
 
 ### <a id="followdesign" name="followdesign"></a>Follow the design and delivery process
 
-Keep the user at the centre of the [service design and delivery process](/standard/service-design-and-delivery-process/): they are the subject matter experts on what’s easy to use and what isn’t. This means:
+Keep the user at the centre of the [service design and delivery process](/for-digital-service-teams/standard/service-design-and-delivery-process/): they are the subject matter experts on what’s easy to use and what isn’t. This means:
 
 *   making sure users are the focus throughout the design process
 *   listening and acting when you receive users’ input and feedback.
 
-Be transparent throughout the [design and delivery process](/standard/service-design-and-delivery-process/) by designing with users; continually testing and building concepts, ideas and prototypes from paper prototypes through to working code. We should accept when we have made a mistake (we’re only human) and re-iterate and test again so the service can be the best it can be for our users.
+Be transparent throughout the [design and delivery process](/for-digital-service-teams/standard/service-design-and-delivery-process/) by designing with users; continually testing and building concepts, ideas and prototypes from paper prototypes through to working code. We should accept when we have made a mistake (we’re only human) and re-iterate and test again so the service can be the best it can be for our users.
 
 ### <a id="conductuser" name="conductuser"></a>Conduct user research
 
-Conduct [user research](/standard/design-guides/user-research/) at the beginning and throughout the process to discover user needs, perspectives, natural systems, processes, motivations, attitudes, values and expectations to create a positive user experience.
+Conduct [user research](/for-digital-service-teams/standard/design-guides/user-research/) at the beginning and throughout the process to discover user needs, perspectives, natural systems, processes, motivations, attitudes, values and expectations to create a positive user experience.
 
 ### <a id="usabilitytesting" name="usabilitytesting"></a>Undertake usability testing
 
@@ -55,6 +55,6 @@ Undertake usability testing to benchmark and assess how user friendly a services
 
 ### <a id="sharefindings" name="sharefindings"></a>Share your findings
 
-Present and make your findings available to [the team](/standard/design-guides/the-team/). Document your processes, actions and results in a place that’s easily accessible. It’s likely that you’ll need to come back to them to recall what you discovered and to check how a particular theme or feature has developed over the course of the design iterations.
+Present and make your findings available to [the team](/for-digital-service-teams/standard/design-guides/the-team/). Document your processes, actions and results in a place that’s easily accessible. It’s likely that you’ll need to come back to them to recall what you discovered and to check how a particular theme or feature has developed over the course of the design iterations.
 
 **Last updated:** 26 June 2015

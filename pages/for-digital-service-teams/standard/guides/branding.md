@@ -123,7 +123,7 @@ Where the term ‘Commonwealth Government’ or ‘Federal Government’ was use
 
 The ‘Commonwealth of Australia’ is the legal entity established by the Constitution. It is sometimes referred to simply as ‘the Commonwealth’. You should only use ‘Commonwealth of Australia’ or ‘the Commonwealth’ to describe the entity established by the Constitution, such as in a legal context, or in a geographic sense.
 
-There is more guidance on [preferred terminology](/standard/design-guides/online-writing/#usepreferred) available.
+There is more guidance on [preferred terminology](/for-digital-service-teams/standard/design-guides/online-writing/#usepreferred) available.
 
 #### Amending old content
 

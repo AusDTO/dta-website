@@ -54,7 +54,7 @@ There are 6 open standard principles to follow when thinking about, choosing and
 
 The Digital Transformation Office will identify some compulsory open standards which will be established through the [National Standards Framework](http://www.finance.gov.au/policy-guides-procurement/national-standards-framework/) (NSF) process and explained in the Digital Service Design Guide. These standards will also be published on [GovShare](http://www.govshare.gov.au/).
 
-Where you have a choice of which standard to adopt, do a thorough assessment of existing standards and other cross-agency initiatives. Choose one that meets your needs that is consistent with the [Digital Service Standard requirements](/standard/) and submit it through the [NSF process](http://www.finance.gov.au/policy-guides-procurement/national-standards-framework/).
+Where you have a choice of which standard to adopt, do a thorough assessment of existing standards and other cross-agency initiatives. Choose one that meets your needs that is consistent with the [Digital Service Standard requirements](/for-digital-service-teams/standard/) and submit it through the [NSF process](http://www.finance.gov.au/policy-guides-procurement/national-standards-framework/).
 
 Initial guidance on data exchange open standards is available in the [Messaging Decision Support Tool](https://www.govshare.gov.au/item-details/?rid=53589) on GovShare. This work was approved for use by agencies by the Chief Information Officers Committee (CIOC) in December 2013.
 

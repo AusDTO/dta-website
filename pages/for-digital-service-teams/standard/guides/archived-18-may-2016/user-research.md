@@ -14,7 +14,7 @@ published: false
 ---
 Conducting user research is a key part of designing a good user experience. User research helps you to better understand your users: their needs, expectations, preferences and experiences. This enables you to objectively inform the design and delivery of services, as well as evaluate their success.
 
-Carry out user research during every stage of your project. Do it continuously through each stage; don’t leave it as something that happens at the beginning and end of [service design and delivery stages](/standard/service-design-and-delivery-process/).
+Carry out user research during every stage of your project. Do it continuously through each stage; don’t leave it as something that happens at the beginning and end of [service design and delivery stages](/for-digital-service-teams/standard/service-design-and-delivery-process/).
 
 Doing ongoing user research will help your team to:
 
@@ -22,19 +22,19 @@ Doing ongoing user research will help your team to:
 *   design products which are prioritised by user needs
 *   iterate products in response to user feedback
 *   design products that are valued by its users
-*   provide [inclusive services](/standard/design-guides/inclusive-services/) that are accessible to all users (meeting accessibility requirements).
+*   provide [inclusive services](/for-digital-service-teams/standard/design-guides/inclusive-services/) that are accessible to all users (meeting accessibility requirements).
 
 There are a many methods and techniques that can be used in user research. Selecting the right approach depends on:
 
 *   your research objectives
-*   the [design and delivery stage](/standard/service-design-and-delivery-process/) you’re in
+*   the [design and delivery stage](/for-digital-service-teams/standard/service-design-and-delivery-process/) you’re in
 *   available time, budget and people.
 
 ## Why must I?
 
-All best practice approaches to [user-centred design](/standard/design-guides/user-centred-design/) recommend gaining a deep understanding of users to design and deliver a good user experience. User research informs the early stages of design and development. This means regular iteration or continuous improvement, based on user research carried out throughout the [service design and delivery process](/standard/service-design-and-delivery-process/), ensures that users’ needs remain a key focus and are accurately reflected in in the final solution.
+All best practice approaches to [user-centred design](/for-digital-service-teams/standard/design-guides/user-centred-design/) recommend gaining a deep understanding of users to design and deliver a good user experience. User research informs the early stages of design and development. This means regular iteration or continuous improvement, based on user research carried out throughout the [service design and delivery process](/for-digital-service-teams/standard/service-design-and-delivery-process/), ensures that users’ needs remain a key focus and are accurately reflected in in the final solution.
 
-We want to deliver government services that are easy to find, simple to use, convenient and [accessible](/standard/design-guides/making-content-accessible/) for all in a safe and secure way. Having services that people actually want and use will, in turn, increase the value and efficiency of government service delivery.
+We want to deliver government services that are easy to find, simple to use, convenient and [accessible](/for-digital-service-teams/standard/design-guides/making-content-accessible/) for all in a safe and secure way. Having services that people actually want and use will, in turn, increase the value and efficiency of government service delivery.
 
 ## How do I?
 
@@ -65,7 +65,7 @@ If you have limited time and resources, even interviews with your own customer-f
 
 ### Conduct research
 
-As part of working out your approach, you need to identify your target user groups and their characteristics, and if you are planning to use face-to-face techniques, how you will recruit them.  Consider the diversity of your users, including differing abilities, Indigenous and culturally and linguistically diverse (CALD) backgrounds to ensure you design [inclusive services](/standard/design-guides/inclusive-services/).
+As part of working out your approach, you need to identify your target user groups and their characteristics, and if you are planning to use face-to-face techniques, how you will recruit them.  Consider the diversity of your users, including differing abilities, Indigenous and culturally and linguistically diverse (CALD) backgrounds to ensure you design [inclusive services](/for-digital-service-teams/standard/design-guides/inclusive-services/).
 
 You also need to work out where and when you are doing the research and who will actually conduct the research.
 

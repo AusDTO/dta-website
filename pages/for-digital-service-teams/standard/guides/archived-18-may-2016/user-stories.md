@@ -15,7 +15,7 @@ published: false
 ---
 User stories are an essential part of the agile toolkit. They’re a way of organising user requirements into manageable chunks that create tangible value, and can be discussed and prioritised independently.
 
-We used user stories to develop the [Alpha Digital Service Standard](/standard/).
+We used user stories to develop the [Alpha Digital Service Standard](/for-digital-service-teams/standard/).
 
 A user story is a brief statement that explains:
 
@@ -30,9 +30,9 @@ A user story is represented through a story card that has a title and a few line
 ## Research
 Stories can come from many places, but the most common sources are:
 
-* Story writing workshops: usually at the start of a project, [the team](/standard/design-guides/the-team/) will get together to develop [personas](/standard/design-guides/user-research/personas/), [user pathways](/standard/design-guides/user-research/user-pathways/) and [scenarios](/standard/design-guides/user-research/scenarios/).
-* [Interviews](/standard/design-guides/user-research/interviews/) with real users: ideally, you will set up a user panel which [the team](/standard/design-guides/the-team/) have ongoing access to.
-* User representatives in your [team](/standard/design-guides/the-team/): this may include the delivery manager or service / product owner.
+* Story writing workshops: usually at the start of a project, [the team](/for-digital-service-teams/standard/design-guides/the-team/) will get together to develop [personas](/for-digital-service-teams/standard/design-guides/user-research/personas/), [user pathways](/for-digital-service-teams/standard/design-guides/user-research/user-pathways/) and [scenarios](/for-digital-service-teams/standard/design-guides/user-research/scenarios/).
+* [Interviews](/for-digital-service-teams/standard/design-guides/user-research/interviews/) with real users: ideally, you will set up a user panel which [the team](/for-digital-service-teams/standard/design-guides/the-team/) have ongoing access to.
+* User representatives in your [team](/for-digital-service-teams/standard/design-guides/the-team/): this may include the delivery manager or service / product owner.
 * Observation: watching real users of your service.
 
 ## Create

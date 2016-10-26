@@ -14,7 +14,7 @@ People often start using a service and have to come back to it later, or switch 
 
 ## How you'll be assessed
 
-During [Discovery](/standard/service-design-and-delivery-process/discovery/) and Alpha you should have developed a good understanding of where users will go for the service you are building. You should understand what proportion of users rely on non-digital channels, wholly or in part, and have a plan for how you will address this in your build. 
+During [Discovery](/for-digital-service-teams/standard/service-design-and-delivery-process/discovery/) and Alpha you should have developed a good understanding of where users will go for the service you are building. You should understand what proportion of users rely on non-digital channels, wholly or in part, and have a plan for how you will address this in your build. 
 
 During Alpha you should show you understand:
 
@@ -29,7 +29,7 @@ During the Beta stage you will apply the knowledge gained in Alpha to design a s
 By the end of Beta and going live, you should:
 
 - detail the channels required to support all groups of users of the service  
-- understand the non-digital service channels and have a [plan to move users to the digital channel](/standard/13-encourage-use-of-the-digital-service/) where appropriate
+- understand the non-digital service channels and have a [plan to move users to the digital channel](/for-digital-service-teams/standard/13-encourage-use-of-the-digital-service/) where appropriate
 - have developed and tested the service so that a user can change channels without repeating themselves.
 
 **Last updated**: 6 May 2016

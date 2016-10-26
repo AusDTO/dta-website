@@ -38,21 +38,21 @@ User testing is an important part of the development and evaluation process, and
 
 ### <a id="identify" name="identify"></a>Determine approach
 
-As with any [user research](/standard/design-guides/user-research/), the methods you select depend on your research objectives and the available time, budget and resources you have. At the most basic level, a usability test session involves participants trying to complete typical tasks while observers watch, listen and takes notes.
+As with any [user research](/for-digital-service-teams/standard/design-guides/user-research/), the methods you select depend on your research objectives and the available time, budget and resources you have. At the most basic level, a usability test session involves participants trying to complete typical tasks while observers watch, listen and takes notes.
 
 More sophisticated usability testing will take advantage of technology to record session data, such as page visits, mouse clicks, eye movements, and facial expressions.
 
-Although it is common to test in a usability lab, it is not required. You can even test quickly and cheaply out in the field using [pop-up user research](/standard/design-guides/performance-testing#popup). With the right software, you can also do usability testing with the user in a different location which can be moderated or unmoderated.
+Although it is common to test in a usability lab, it is not required. You can even test quickly and cheaply out in the field using [pop-up user research](/for-digital-service-teams/standard/design-guides/performance-testing#popup). With the right software, you can also do usability testing with the user in a different location which can be moderated or unmoderated.
 
 To determine your usability testing approach:
 
 1.  **Develop a test plan** with your stakeholders outlining your objectives, the questions you’ll ask and the characteristics of the people who will be testing the design. As part of the plan, identify representative tasks based on likely scenarios or use cases and establish clear success criteria for each task. Success criteria can include successful task completion, number of errors, time spent on the task, user satisfaction and comfort ratings.
-2.  **Identify representative users** and recruit them, keeping in mind that different user groups may need to perform different tasks based on their likely usage patterns. Note you can usually uncover most of your usability problems with only [5 participants](http://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/). You should [include users with disability](/standard/design-guides/inclusive-services/) to ensure accessibility barriers are uncovered.
+2.  **Identify representative users** and recruit them, keeping in mind that different user groups may need to perform different tasks based on their likely usage patterns. Note you can usually uncover most of your usability problems with only [5 participants](http://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/). You should [include users with disability](/for-digital-service-teams/standard/design-guides/inclusive-services/) to ensure accessibility barriers are uncovered.
 3.  If available, use **usability testing recording software** to record how the user interacts with the interface (for example, on the computer screen) and their voice and facial expressions during testing. Software can also track mouse clicks, key strokes, and active and open windows.
 
 ### <a id="conduct" name="conduct"></a>Conduct research
 
-Gather your data through the methods you have selected. We will be adding more guidance on research methodology and planning as the Digital Service Design Guide develops. There is some initial guidance available that introduces some of the common [user research](/standard/design-guides/user-research/) methods.
+Gather your data through the methods you have selected. We will be adding more guidance on research methodology and planning as the Digital Service Design Guide develops. There is some initial guidance available that introduces some of the common [user research](/for-digital-service-teams/standard/design-guides/user-research/) methods.
 
 You should:
 

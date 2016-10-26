@@ -14,7 +14,7 @@ The moratorium applies to investments in service delivery capability made by Aus
 
 The moratorium does not apply to services owned by state, territory or local governments.
 
-Information and transactional services [within the scope of the Digital Service Standard](/standard/scope-of-standard/) (the Standard) are covered by the moratorium. However, if you can demonstrate that you are working to meet, or have met, the Standard you will receive an [automatic exemption](#automatic-exemption).
+Information and transactional services [within the scope of the Digital Service Standard](/for-digital-service-teams/standard/scope-of-standard/) (the Standard) are covered by the moratorium. However, if you can demonstrate that you are working to meet, or have met, the Standard you will receive an [automatic exemption](#automatic-exemption).
 
 Unless you have an exemption, you **cannot** make new investments in:
 
@@ -37,7 +37,7 @@ Some service delivery investments are exempt from the moratorium.
 <a name="automatic-exemption"></a>Your investment is **automatically exempt** if:
 
  - the investment has been agreed by the Cabinet or the Prime Minister
- - it is an information or transactional service and the service team can demonstrate they are applying the [Digital Service Standard](/standard/); for example, an assessment team is in place and the service is reporting its progress on the dashboard 
+ - it is an information or transactional service and the service team can demonstrate they are applying the [Digital Service Standard](/for-digital-service-teams/standard/); for example, an assessment team is in place and the service is reporting its progress on the dashboard 
  - emergency or critical unforeseen events require the investment (for example, natural disasters)
  - funding for the investment was provided before or through the 2015-16 Budget process.
 

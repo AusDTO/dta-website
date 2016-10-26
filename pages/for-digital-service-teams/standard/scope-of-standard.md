@@ -8,14 +8,14 @@ redirect_from:
 breadcrumb: Scope of the Standard
 
 ---
-The [Digital Service Standard](/standard/) (the Standard) applies to public facing Australian Government (federal) services owned by [non-corporate Commonwealth entities](http://www.finance.gov.au/resource-management/governance/#flipchart).
+The [Digital Service Standard](/for-digital-service-teams/standard/) (the Standard) applies to public facing Australian Government (federal) services owned by [non-corporate Commonwealth entities](http://www.finance.gov.au/resource-management/governance/#flipchart).
 
 The Standard applies to:
 
 * new and redesigned government services, [information](#information) and [transactional](#transactional)
 * all [high volume transactional services](#transactional) (for example, lodging a tax return online), existing or being designed/redesigned.
 
-Proposed work on new and redesigned services will be affected by the [moratorium on investment in Australian Government service delivery](/standard/moratorium/).
+Proposed work on new and redesigned services will be affected by the [moratorium on investment in Australian Government service delivery](/for-digital-service-teams/standard/moratorium/).
 
 ## <a id="transactional" name="transactional"></a>Transactional services
 

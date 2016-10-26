@@ -74,7 +74,7 @@ People are already using your services, giving you lots of data about their beha
 
 In making your data open, you are encouraging greater use of the data and helping users to innovate.
 
-Developers need to be able to use the data, to share it, and combine it with other data to use in their own applications, for example through [application programming interfaces](/standard/design-guides/api/) (APIs).
+Developers need to be able to use the data, to share it, and combine it with other data to use in their own applications, for example through [application programming interfaces](/for-digital-service-teams/standard/design-guides/api/) (APIs).
 
 As with all government digital services, you’ll need to understand the user need for the data you publish.
 

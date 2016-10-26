@@ -76,8 +76,8 @@ As you go live you should be able to show that you have created a robust secure 
 * have mitigated all known vulnerabilities in the solution.
 
 ## Guidance related to this criterion
-* [Identity assurance](/standard/design-guides/identity-assurance/)
-* [Secure services](/standard/design-guides/secure-services/)
+* [Identity assurance](/for-digital-service-teams/standard/design-guides/identity-assurance/)
+* [Secure services](/for-digital-service-teams/standard/design-guides/secure-services/)
 
 ## Further reading  
 * [Google Analytics and collection of IP addresses](https://support.google.com/analytics/answer/2763052?hl=en)

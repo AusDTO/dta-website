@@ -10,7 +10,7 @@ breadcrumb: 11. Measure performance
 
 ## Why it’s in the Standard
 
-Every service must aim for continuous improvement. Metrics are an important starting point for discussions about a service’s strengths and weaknesses. By [identifying and capturing the right metrics](/standard/measuring-performance/) - with the right tools - you can make sure all your decisions to improve the service are supported by data.
+Every service must aim for continuous improvement. Metrics are an important starting point for discussions about a service’s strengths and weaknesses. By [identifying and capturing the right metrics](/for-digital-service-teams/standard/measuring-performance/) - with the right tools - you can make sure all your decisions to improve the service are supported by data.
 
 ### Key performance indicators
 
@@ -38,7 +38,7 @@ The [Performance Dashboard](/our-work/performance/) collects service data and pr
 
 ## How you’ll be assessed
 
-You’ll have started early measurement activity during [Discovery](/standard/service-design-and-delivery-process/discovery/) with your user research dashboard. 
+You’ll have started early measurement activity during [Discovery](/for-digital-service-teams/standard/service-design-and-delivery-process/discovery/) with your user research dashboard. 
 
 You will need to consider how you’ll measure your service in more detail as you enter Alpha. By the end of Alpha you should have:
 
@@ -46,7 +46,7 @@ You will need to consider how you’ll measure your service in more detail as yo
 - collected baseline data for the service operation in all of its channels
 - estimated the number of people you expect to use the service
 - started creating a performance framework outlining your objectives and what metrics your team will use to demonstrate you meet them  
-- considered the metrics you will need to [measure the 4 KPIs](/standard/measuring-performance/) and where the data will come from.
+- considered the metrics you will need to [measure the 4 KPIs](/for-digital-service-teams/standard/measuring-performance/) and where the data will come from.
 
 By the end of Beta you will be able to show:
 
@@ -68,7 +68,7 @@ Your data should show:
 - cost per transaction is decreasing in line with service plans.
 
 ## Guidance related to this criterion
-[Measuring service performance](/standard/measuring-performance/)
+[Measuring service performance](/for-digital-service-teams/standard/measuring-performance/)
 
 ## Further reading  
 - [Usability.gov - Benefits of User-centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html) 

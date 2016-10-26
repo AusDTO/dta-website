@@ -8,7 +8,7 @@ breadcrumb: Assessment reports
 
 {% javascript assessment-tabs %}
 
-All services in the [scope of the Digital Service Standard](/standard/scope-of-standard/) are [assessed against the Standard](/standard/meeting-standard/).
+All services in the [scope of the Digital Service Standard](/for-digital-service-teams/standard/scope-of-standard/) are [assessed against the Standard](/for-digital-service-teams/standard/meeting-standard/).
 
 We publish assessment reports to increase the transparency of government and help other teams build simpler, better and faster services for all users.
 

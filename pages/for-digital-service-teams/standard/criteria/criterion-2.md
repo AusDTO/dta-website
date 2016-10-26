@@ -8,14 +8,14 @@ redirect_from: /standard/2-multi-disciplinary-team/
 breadcrumb: 2. Have a multi-disciplinary team
 ---
 ## Why it’s in the Standard
-Good government services are built quickly and iteratively, based on user needs. Your [digital delivery team](/standard/design-guides/the-team/) must be set up in the right way to do this. They need:
+Good government services are built quickly and iteratively, based on user needs. Your [digital delivery team](/for-digital-service-teams/standard/design-guides/the-team/) must be set up in the right way to do this. They need:
 
 * a broad mix of skills and roles from the start
 * quick decision-making processes and the ability to change and adapt as the service evolves
 * to be adequately resourced and empowered to deliver the product or service.
 
 ## How you'll be assessed
-This criterion applies through [all service design and delivery stages](/standard/service-design-and-delivery-process/). The composition of the team will change depending on the stage and need.
+This criterion applies through [all service design and delivery stages](/for-digital-service-teams/standard/service-design-and-delivery-process/). The composition of the team will change depending on the stage and need.
 You must be able to:
 
 * describe your digital delivery team - it should have, or easily get, the following roles, as relevant to your service
@@ -40,7 +40,7 @@ You must be able to:
 * explain your plan to transfer knowledge and skills from any external people who work with the team.
 
 ## Guidance related to this criterion
-* [The digital delivery team](/standard/design-guides/the-team/)
+* [The digital delivery team](/for-digital-service-teams/standard/design-guides/the-team/)
 * [DTO Guide to Discovery](https://ausdto.github.io/service-handbook/discovery/)
 * [DTO Guide to Alpha](http://ausdto.github.io/service-handbook/alpha/)
 

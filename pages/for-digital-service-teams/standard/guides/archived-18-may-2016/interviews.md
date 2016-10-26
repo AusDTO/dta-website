@@ -12,7 +12,7 @@ topic:
 - User research
 published: false
 ---
-Interviews are a way to connect with people and an opportunity to hear them describe their experiences in their own words. They can be used to find out what people want from a product or service. Interviews can also be a quick way to gather feedback or ideas about a [prototype](/standard/design-guides/user-research/prototyping/) before getting too far into design and development.
+Interviews are a way to connect with people and an opportunity to hear them describe their experiences in their own words. They can be used to find out what people want from a product or service. Interviews can also be a quick way to gather feedback or ideas about a [prototype](/for-digital-service-teams/standard/design-guides/user-research/prototyping/) before getting too far into design and development.
 
 An interview can be one on one or in a small group from a cross section of users or potential users with insight into the topic you’re exploring. They can be conducted in person, online or on the phone, depending on circumstances. Interviews can take anywhere from 1-2 hours depending on length and number of questions.
 

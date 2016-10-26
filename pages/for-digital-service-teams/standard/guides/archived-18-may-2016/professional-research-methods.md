@@ -12,7 +12,7 @@ topic:
 - User research
 published: false
 ---
-Many [user research activities](/standard/design-guides/user-research/) can be carried out by your team without a lot of prior experience or equipment. But when you need to find out something more specific or complex you may want to consider one or more of these professional techniques.
+Many [user research activities](/for-digital-service-teams/standard/design-guides/user-research/) can be carried out by your team without a lot of prior experience or equipment. But when you need to find out something more specific or complex you may want to consider one or more of these professional techniques.
 
 ## A/B testing (multivariate testing, live testing or bucket testing)
 

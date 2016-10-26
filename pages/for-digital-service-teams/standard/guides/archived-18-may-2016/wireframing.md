@@ -12,7 +12,7 @@ topic:
 - User research
 published: false
 ---
-Wireframes are two-dimensional representations of digital products, such as an app, website or software. Wireframes should be a low-fidelity illustration of what information will be communicated, where it will go, and the key interface elements. A good wireframe will provide a foundation for a high-fidelity [prototype](/standard/design-guides/user-research/prototyping/).
+Wireframes are two-dimensional representations of digital products, such as an app, website or software. Wireframes should be a low-fidelity illustration of what information will be communicated, where it will go, and the key interface elements. A good wireframe will provide a foundation for a high-fidelity [prototype](/for-digital-service-teams/standard/design-guides/user-research/prototyping/).
 
 Creating wireframes will help you to:
 
@@ -36,7 +36,7 @@ There should be three types of visual elements:
 
 * categories of information: strictly headings, no content
 * structure of information
-* key user interface elements and [common web elements](/standard/design-guides/common-website-elements/) (such as headers, footers and buttons).
+* key user interface elements and [common web elements](/for-digital-service-teams/standard/design-guides/common-website-elements/) (such as headers, footers and buttons).
 
 The content categories should give an idea of the type of information a content block will contain. If you already have some basic content written it can be as simple as using the existing headings and sub-headings.
 
@@ -54,6 +54,6 @@ Further guidance on creating [wireframe screens](http://www.usability.gov/how-to
 
 ## Test and improve
 
-Use a combination of [user research](/standard/design-guides/user-research/) techniques to test the wireframes. When sharing with users ask them to verbalise their thinking out loud. Take notes of what they say and what is pointed out. Keep improving the screens in response. Test with users as many times as you need to develop a refined wireframe before you proceed to [prototyping](/standard/design-guides/user-research/prototyping/).
+Use a combination of [user research](/for-digital-service-teams/standard/design-guides/user-research/) techniques to test the wireframes. When sharing with users ask them to verbalise their thinking out loud. Take notes of what they say and what is pointed out. Keep improving the screens in response. Test with users as many times as you need to develop a refined wireframe before you proceed to [prototyping](/for-digital-service-teams/standard/design-guides/user-research/prototyping/).
 
 **Last updated:** 20 July 2015

@@ -8,7 +8,7 @@ searchexcerpt: The Digital Service Standard ensures government build services th
 
 The Digital Service Standard ensures digital teams build government services that are simpler, clearer and faster for all users.
 
-[All services within the scope of the Digital Service Standard](/standard/scope-of-standard/) must work to meet the Standard. The Standard is now live and services will be assessed if design or redesign commences after 6 May 2016. You can check the [changes between the Live and Beta Standard](/standard/changes-to-standard/).
+[All services within the scope of the Digital Service Standard](/for-digital-service-teams/standard/scope-of-standard/) must work to meet the Standard. The Standard is now live and services will be assessed if design or redesign commences after 6 May 2016. You can check the [changes between the Live and Beta Standard](/for-digital-service-teams/standard/changes-to-standard/).
 
 
 <div class="dss-criteria-page-list">

@@ -31,7 +31,7 @@ During Beta and as you go live you should continue applying government solutions
 * addressing any common user needs in a way that is consistent with the rest of government.
 
 ## Guidance related to this criterion
-* [Common solutions](/standard/common-solutions/)
+* [Common solutions](/for-digital-service-teams/standard/common-solutions/)
 * [Australian Government ICT Policy Guides and Procurement](http://finance.gov.au/policy-guides-procurement/)
 
 ## Further reading  

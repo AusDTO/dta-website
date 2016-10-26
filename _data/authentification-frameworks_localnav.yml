@@ -1,9 +1,9 @@
 - title: "Authentication frameworks"
-  url: "/standard/design-guides/authentication-frameworks/"
+  url: "/for-digital-service-teams/standard/design-guides/authentication-frameworks/"
   children:
     - title: "National e-Authentication Framework"
-      url: "/standard/design-guides/authentication-frameworks/national-e-authentication-framework/"
+      url: "/for-digital-service-teams/standard/design-guides/authentication-frameworks/national-e-authentication-framework/"
     - title: "Gatekeeper Public Key Infrastructure Framework"
-      url: "/standard/design-guides/authentication-frameworks/gatekeeper-public-key-infrastructure-framework/"
+      url: "/for-digital-service-teams/standard/design-guides/authentication-frameworks/gatekeeper-public-key-infrastructure-framework/"
     - title: "Third Party Identity Services Assurance Framework"
-      url: "/standard/design-guides/authentication-frameworks/third-party-identity-services-assurance-framework/"
+      url: "/for-digital-service-teams/standard/design-guides/authentication-frameworks/third-party-identity-services-assurance-framework/"

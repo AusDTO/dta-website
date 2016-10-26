@@ -24,7 +24,7 @@ Provide participants with information upfront rather than leaving it to the last
 
 ## Invite the right people
 
-Do your research and make sure the [right people](/standard/design-guides/the-team/) are in the room. They should be people who are experts in the content, but also have the right level of authority to make the decisions that you require. Also make sure you’ve got the right representatives to actually solve problems and propose solutions.
+Do your research and make sure the [right people](/for-digital-service-teams/standard/design-guides/the-team/) are in the room. They should be people who are experts in the content, but also have the right level of authority to make the decisions that you require. Also make sure you’ve got the right representatives to actually solve problems and propose solutions.
 
 ## Take regular breaks
 

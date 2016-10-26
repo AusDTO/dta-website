@@ -11,7 +11,7 @@ topic:
 - Website design
 published: false
 ---
-The Online Content Requirements are information items that Australian Government agencies must publish on their websites, including information that is required to be published as part of the Information Publication Scheme (IPS) under the [_Freedom of Information Act 1982_](http://www.austlii.edu.au/au/legis/cth/consol_act/foia1982222/) (_FOI Act_). The [IPS requirements relevant to websites](/standard/design-guides/common-website-elements/foi-act-and-information-publication-scheme/) are discussed in a separate sub-guide.
+The Online Content Requirements are information items that Australian Government agencies must publish on their websites, including information that is required to be published as part of the Information Publication Scheme (IPS) under the [_Freedom of Information Act 1982_](http://www.austlii.edu.au/au/legis/cth/consol_act/foia1982222/) (_FOI Act_). The [IPS requirements relevant to websites](/for-digital-service-teams/standard/design-guides/common-website-elements/foi-act-and-information-publication-scheme/) are discussed in a separate sub-guide.
 
 The Online Content Requirements superseded the Online Information Service Obligations released in 2001\. The Online Information Service Obligations were originally published as part of the 2000 Government Online Strategy.
 
@@ -19,7 +19,7 @@ The Online Content Requirements superseded the Online Information Service Obliga
 
 ### Identify the agency
 
-Clearly identify the Australian Government agency or agencies responsible for managing the website on every page. Make sure you follow the [branding requirements](/standard/design-guides/branding/) and [refer correctly to the Australian Government](/standard/design-guides/branding/#refercorrectly).
+Clearly identify the Australian Government agency or agencies responsible for managing the website on every page. Make sure you follow the [branding requirements](/for-digital-service-teams/standard/design-guides/branding/) and [refer correctly to the Australian Government](/for-digital-service-teams/standard/design-guides/branding/#refercorrectly).
 
 ### Provide contact details
 
@@ -66,11 +66,11 @@ When deciding on a navigation scheme it is important that users can:
 
 It is helpful to provide a number of paths through a site to particular pieces of content, but it is necessary to ensure consistency in those paths.
 
-In addition, agencies need to ensure the [accessibility](/standard/design-guides/making-content-accessible) of the navigation scheme by:
+In addition, agencies need to ensure the [accessibility](/for-digital-service-teams/standard/design-guides/making-content-accessible) of the navigation scheme by:
 
 *   using textual equivalents to supplement graphics for navigation elements
 *   describing links accurately
-*   ensuring it can be understood by [users from culturally or linguistically diverse backgrounds](/standard/design-guides/inclusive-services#provide/).
+*   ensuring it can be understood by [users from culturally or linguistically diverse backgrounds](/for-digital-service-teams/standard/design-guides/inclusive-services#provide/).
 
 ## Additional requirements for primary websites of Australian Government agencies
 
@@ -86,7 +86,7 @@ Effective disclosure and reporting arrangements for grants administration is ess
 
 ### Make all forms digitally available
 
-Agencies are required to provide printable or online versions of forms for public use. These should be interactive forms designed as part of an [accessible digital service offering](/standard/design-guides/making-content-accessible/), but in some cases might be downloadable forms for offline lodgement.
+Agencies are required to provide printable or online versions of forms for public use. These should be interactive forms designed as part of an [accessible digital service offering](/for-digital-service-teams/standard/design-guides/making-content-accessible/), but in some cases might be downloadable forms for offline lodgement.
 
 If it is not possible for a form to be made available online, information about alternative ways of obtaining and completing the form must be provided.
 
@@ -115,7 +115,7 @@ When determining the most appropriate online format for specific forms consider:
 *   nature and size of the user group
 *   authentication and security requirements.
 
-Agencies also need to ensure the submission of online forms meets [security](/standard/design-guides/secure-services/), [accessibility](/standard/design-guides/making-content-accessible/) and [privacy requirements](/standard/design-guides/privacy/).
+Agencies also need to ensure the submission of online forms meets [security](/for-digital-service-teams/standard/design-guides/secure-services/), [accessibility](/for-digital-service-teams/standard/design-guides/making-content-accessible/) and [privacy requirements](/for-digital-service-teams/standard/design-guides/privacy/).
 
 When designing a form, or building a business case, you should consider the context of your intended users, including:
 
@@ -140,10 +140,10 @@ When developing an online form, or converting an offline form to an online forma
 
 ### Publish media releases and speeches
 
-Agencies are required to publish media releases and speeches and other public information such as public notices, warnings and advice. [Ministerial media releases](/standard/design-guides/common-website-elements/ministerial-content/) should be published on the agency-funded minister’s site which should be linked from the agency site. A ministerial media release or speech is one that relates to the portfolio responsibility of the minister and should not contain material of a party political nature.
+Agencies are required to publish media releases and speeches and other public information such as public notices, warnings and advice. [Ministerial media releases](/for-digital-service-teams/standard/design-guides/common-website-elements/ministerial-content/) should be published on the agency-funded minister’s site which should be linked from the agency site. A ministerial media release or speech is one that relates to the portfolio responsibility of the minister and should not contain material of a party political nature.
 
 ### Publish non-commercial agency publications
 
-[Reports and other agency publications](/standard/design-guides/common-website-elements/foi-act-and-information-publication-scheme/) must be made available on the agency's website unless it is published under a commercial arrangement.
+[Reports and other agency publications](/for-digital-service-teams/standard/design-guides/common-website-elements/foi-act-and-information-publication-scheme/) must be made available on the agency's website unless it is published under a commercial arrangement.
 
 **Last updated:** 22 July 2015

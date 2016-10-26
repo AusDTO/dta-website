@@ -9,9 +9,9 @@ weight: 50
 phase: 'Alpha'
 redirect_from: /design-guides/
 ---
-The guides are a growing collection of information to help Australian Government agencies meet the [Digital Service Standard](/standard/). The Digital Service Standard helps us to build services that are simpler, faster and easier for all users.
+The guides are a growing collection of information to help Australian Government agencies meet the [Digital Service Standard](/for-digital-service-teams/standard/). The Digital Service Standard helps us to build services that are simpler, faster and easier for all users.
 
-We are building [GOV.AU Guides](/standard/design-guides/gov-au-guides/), which will support the Digital Service Standard through common design patterns and a style guide. The GOV.AU Guides will help designers, developers, and content writers and editors to create and maintain a consistent user experience across government services.
+We are building [GOV.AU Guides](/for-digital-service-teams/standard/design-guides/gov-au-guides/), which will support the Digital Service Standard through common design patterns and a style guide. The GOV.AU Guides will help designers, developers, and content writers and editors to create and maintain a consistent user experience across government services.
 
 We have also started to write a [Service Handbook](https://ausdto.github.io/service-handbook/), which provides greater detail on the stages of the [service design and delivery process](https://www.dto.gov.au/standard/service-design-and-delivery-process/).
 
