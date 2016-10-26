@@ -1,0 +1,20 @@
+/* forces global nav to be open */
+body .header .nav-head-container .region-header {
+	max-height:none;
+}
+
+/* hides hamburger */
+body .header .mobile-nav {
+	display:none;
+}
+
+/* forces local nav to be open */
+body .wrapper .local-nav .menu {
+	height:auto;
+}
+
+/* forces accordions to be open */
+body .accordion-section-content {
+	height:auto;
+	padding:10px 20px 20px;
+}
