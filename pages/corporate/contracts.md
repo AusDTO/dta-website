@@ -8,7 +8,7 @@ lede: Senate Order for Department and Agency lists of contracts.
 localnav: corporate
 ---
 
-This is a list of contracts entered into by the Digital Transformation Office, with a consideration to the value of $100,000 or more, that have:
+This is a list of contracts entered into by the Digital Transformation Agency, with a consideration to the value of $100,000 or more, that have:
 
 * not been fully performed in the reporting period, or
 * were entered into during the reporting period.
@@ -17,13 +17,13 @@ This is a list of contracts entered into by the Digital Transformation Office, w
 
 ### Procurement Contracts
 
-Digital Transformation Office procurement contracts are available through the [AusTender Senate Order Report](https://www.tenders.gov.au/?event=public.senateOrder.list) located on the [AusTender](https://www.tenders.gov.au/) website.
+Digital Transformation Agency procurement contracts are available through the [AusTender Senate Order Report](https://www.tenders.gov.au/?event=public.senateOrder.list) located on the [AusTender](https://www.tenders.gov.au/) website.
 
 ### Non-Procurement Contracts
 
 #### Nil response
 
-The Digital Transformation Office reports a **nil response** for this period. No Non-Procurement Contracts were entered into by the Digital Transformation Office during the reporting period.
+The Digital Transformation Agency reports a **nil response** for this period. No Non-Procurement Contracts were entered into by the Digital Transformation Agency during the reporting period.
 
 #### Estimated cost of complying with this order
 

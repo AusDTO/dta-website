@@ -25,7 +25,7 @@ If you have any questions or would like further information, contact the Authent
 
 ## Related links
 
-Digital Transformation Office Design Guides:
+Digital Transformation Agency Design Guides:
 
 - [Secure services](/for-digital-service-teams/standard/design-guides/secure-services/)
 - [Privacy](/for-digital-service-teams/standard/design-guides/privacy/)

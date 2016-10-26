@@ -38,7 +38,7 @@ You should:
 - confirm that the benefits you have articulated can be realised with your various prototypes
 - confirm that your signals and metrics support benefits, value and cost tracking.
  
-Several of the teams in the Digital Transformation Office Digital Delivery Hub have had success using the [Digital Telepathy HEART framework](http://www.dtelepathy.com/ux-metrics/) as a starting point to considering benefits for their service.
+Several of the teams in the Digital Transformation Agency Digital Delivery Hub have had success using the [Digital Telepathy HEART framework](http://www.dtelepathy.com/ux-metrics/) as a starting point to considering benefits for their service.
 
 You will want to consider which web analytics tools you will use, metrics around transitional elements - for example, retirement of legacy systems and replacement of  manual processes - and how you use open data. 
 
