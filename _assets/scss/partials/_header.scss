@@ -1,3 +1,7 @@
+// This has been added because we need to break to the ‘mobile’ menu earlier
+// than what the current $tablet breakpoint offers (768px).
+$tablet-landscape: 1000px;
+
 .dto {
   &--header {
     @include linear-gradient(to top, #f4f6f8, $white, $fallback: #f4f6f8);
@@ -11,7 +15,7 @@
       margin: 0 auto ($base-spacing * 1.5) auto;
       border-bottom: none;
 
-      @include media($tablet) {
+      @include media($tablet-landscape) {
         @include span-columns(6 of 12);
       }
 
@@ -25,7 +29,25 @@
       }
     }
 
+    .site-search {
+      margin-bottom: $base-spacing;
+
+      @include media($mobile) {
+        @include span-columns(8 of 8);
+      }
+      @include media($tablet) {
+        @include span-columns(12 of 12);
+      }
+      @include media($desktop) {
+        @include span-columns(6 of 16);
+
+        margin-bottom: 0;
+        float: right;
+      }
+    }
+
     nav {
+      clear: both;
       background-color: $white;
 
       @include media($tablet) {
@@ -42,19 +64,20 @@
         padding: 0;
         list-style-type: none;
 
-        @include media($tablet) {
+        @include media($tablet-landscape) {
           display: inline-block;
           }
 
         li {
           margin-bottom: 0;
+          padding: 0;
           border-top: 2px solid $border-colour;
 
           &:hover {
             background-color: #f0f3f5;
           }
 
-          @include media($tablet) {
+          @include media($tablet-landscape) {
             display: inline-block;
             margin: 0 $tiny-spacing;
             border-top: none;
@@ -75,7 +98,7 @@
             font-weight: bold;
             color: $black;
 
-            @include media($tablet) {
+            @include media($tablet-landscape) {
               display: inline;
               margin: 0;
               padding: $small-spacing $small-spacing 18px $small-spacing;
