@@ -83,7 +83,7 @@ Both the assessors and the service team agree when the requirements of the stage
 
 This transition will also be documented by a brief report highlighting the achievements and learnings of the previous stage.
 
-If your service is a high volume transactional service, or you started designing/redesigning it after 6 May 2016, the Alpha, Beta and Live reports will be provided to the DTO for publishing. Services moving to public beta will also start reporting on the [Performance Dashboard](/our-work/performance/).
+If your service is a high volume transactional service, or you started designing/redesigning it after 6 May 2016, the Alpha, Beta and Live reports will be provided to the DTO for publishing. Services moving to public beta will also start reporting on the [Performance Dashboard](/what-we-do/platforms/performance/).
 
 ## Report publicly
 

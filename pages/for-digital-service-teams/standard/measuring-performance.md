@@ -44,7 +44,7 @@ You will want to consider which web analytics tools you will use, metrics around
 
 ## Publish on the Performance Dashboard
 
-Once your service moves to its public Beta stage, the performance of your service will be displayed publically on the [Performance Dashboard](/our-work/performance/). We will provide more information about how you can report on the dashboard soon.
+Once your service moves to its public Beta stage, the performance of your service will be displayed publically on the [Performance Dashboard](/what-we-do/platforms/performance/). We will provide more information about how you can report on the dashboard soon.
 
 ## Further reading 
 
