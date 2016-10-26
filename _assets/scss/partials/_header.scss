@@ -4,10 +4,10 @@ $tablet-landscape: 1000px;
 
 .dto {
   &--header {
-    @include linear-gradient(to top, #f4f6f8, $white, $fallback: #f4f6f8);
+    @include linear-gradient(to top, darken($non-white, 6%), $white, $fallback: darken($non-white, 6%));
 
     padding-top: $base-spacing;
-    border-bottom: 6px solid #dce9ef;
+    border-bottom: 6px solid $dta-light-grey;
 
     .logo-image {
       display: block;
@@ -74,7 +74,7 @@ $tablet-landscape: 1000px;
           border-top: 2px solid $border-colour;
 
           &:hover {
-            background-color: #f0f3f5;
+            background-color: $dta-blue--lightest;
           }
 
           @include media($tablet-landscape) {
@@ -108,7 +108,7 @@ $tablet-landscape: 1000px;
               &:hover,
               &:focus {
                 background-color: transparent;
-                border-bottom: 6px solid #00a1bb;
+                border-bottom: 6px solid $dta-blue--light;
               }
             }
           }
