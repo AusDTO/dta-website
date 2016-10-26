@@ -4,8 +4,6 @@ title: "Exemplars"
 lede: "We're working with government agencies to help transform services."
 permalink: /what-we-do/exemplars/
 redirect_from: /our-work/transformation/
-display-homepage: true
-homepage-snippet: Some test content here
 ---
 
 {% include project-counter.html %}

@@ -3,8 +3,6 @@ layout: standard
 title: Digital Service Standard
 permalink: /standard/
 searchexcerpt: The Digital Service Standard ensures government build services that are simpler, clearer and faster for all users.
-display-homepage: true
-homepage-snippet: The Digital Service Standard ensures government build services that are simpler, clearer and faster for all users.
 ---
 
 The Digital Service Standard ensures digital teams build government services that are simpler, clearer and faster for all users.
