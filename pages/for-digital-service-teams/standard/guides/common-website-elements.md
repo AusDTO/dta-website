@@ -15,7 +15,7 @@ There are common content items and site features that must be included on every 
 
 ## How do I?
 
-The Digital Transformation Office is currently consulting on how common government content and features can be adopted across Australian Government websites to make them easier for people to use.
+The Digital Transformation Agency is currently consulting on how common government content and features can be adopted across Australian Government websites to make them easier for people to use.
 
 Australian Government websites must:
 

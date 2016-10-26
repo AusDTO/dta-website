@@ -18,7 +18,7 @@ This glossary will grow as guidance evolves. If you have found a term that needs
     <h4 class="">Digital Transformation Coordinator</h4>
 </div>
 <div class="col-md-8 col-sm-12" style="padding-top:14px;">
-  <p>A Digital Transformation Coordinator is the person/s who coordinates the digital transformation agenda within a portfolio. This includes acting as the primary person for liaison between the Digital Transformation Office and the portfolio or agency.</p>
+  <p>A Digital Transformation Coordinator is the person/s who coordinates the digital transformation agenda within a portfolio. This includes acting as the primary person for liaison between the Digital Transformation Agency and the portfolio or agency.</p>
 </div>
 
 <div class="col-md-12 col-sm-12" style="border-bottom:1px solid #eee;margin-bottom:8px;">

@@ -14,7 +14,7 @@ Users of digital government services need to be able to sign in securely and con
 
 We are working across government and with the private sector to develop a Trusted Digital Identity Framework (the Framework) to support the Government’s Digital Transformation Agenda.
 
-In the coming months the Identity team in the Digital Transformation Office will undertake an intensive discovery program to better understand user needs in relation to the identity verification process to access government services. From this discovery process we will then undertake the design of an alpha solution. The Framework will be developed in parallel, setting the rules for the operation of digital identities.
+In the coming months the Identity team in the Digital Transformation Agency will undertake an intensive discovery program to better understand user needs in relation to the identity verification process to access government services. From this discovery process we will then undertake the design of an alpha solution. The Framework will be developed in parallel, setting the rules for the operation of digital identities.
 
 Existing Australian Government and state and territory identity policy frameworks will need to be accommodated under the Framework. At the Australian Government level these include:
 
