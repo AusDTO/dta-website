@@ -12,10 +12,10 @@ Content todo
     <a href="/for-digital-service-teams/communities">Communities</a>
   </li>
   <li>
-    <a href="/standard/design-guides/">Design Guides</a>
+    <a href="/for-digital-service-teams/standard/design-guides/">Design Guides</a>
   </li>
   <li>
-    <a href="/standard/">Standard</a>
+    <a href="/for-digital-service-teams/standard/">Standard</a>
   </li>
   
 </ul>

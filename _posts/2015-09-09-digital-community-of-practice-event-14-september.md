@@ -8,7 +8,7 @@ read-time: 1
 category: blog
 ---
 
-We showcased our work to date last Friday on the vision for government service delivery, [Digital Service Standard](/standard/) and the [Digital Service Design Guide](/standard/design-guides/). Over a 1000 viewers across the nation hooked into the live webcast. Many questions were raised in the session from our engaged audience (both within the room and online). Individuals were eager to understand how they can each make a difference and deliver better government services that are user focused. 
+We showcased our work to date last Friday on the vision for government service delivery, [Digital Service Standard](/for-digital-service-teams/standard/) and the [Digital Service Design Guide](/for-digital-service-teams/standard/design-guides/). Over a 1000 viewers across the nation hooked into the live webcast. Many questions were raised in the session from our engaged audience (both within the room and online). Individuals were eager to understand how they can each make a difference and deliver better government services that are user focused. 
 
 ![](/images/blog-banners/community-of-pracice.jpg)
 

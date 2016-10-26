@@ -7,9 +7,9 @@ profile: "/images/jacqui-van-teulingen-profile.png"
 read-time: 2
 category: blog
 ---
-We’ve been getting some great feedback from the initial guidance on [how to apply the Digital Service Standard](/standard/design-guides/). One of the important challenges that’s been raised is how to meet the needs of specialists who often have very different requirements from general users; for example, lawyers and accountants.
+We’ve been getting some great feedback from the initial guidance on [how to apply the Digital Service Standard](/for-digital-service-teams/standard/design-guides/). One of the important challenges that’s been raised is how to meet the needs of specialists who often have very different requirements from general users; for example, lawyers and accountants.
 
-In our guidance about [writing digital content](/standard/design-guides/online-writing/) we recommend using plain English and writing as simply as possible. This style is not going to work for every user, and that’s why we suggest this rule of thumb: make communication as simple as its users need. This applies to designing graphics, planning information architecture and other service design decisions.
+In our guidance about [writing digital content](/for-digital-service-teams/standard/design-guides/online-writing/) we recommend using plain English and writing as simply as possible. This style is not going to work for every user, and that’s why we suggest this rule of thumb: make communication as simple as its users need. This applies to designing graphics, planning information architecture and other service design decisions.
 
 This is why user research is so important. As you start talking with your users you’ll often discover significantly different needs. One group of users may need similar information to another, but in much greater detail. In certain circumstances your user research may tell you that you need to write the same content twice: one version for a general audience and another for technical users.
 
