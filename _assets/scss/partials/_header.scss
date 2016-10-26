@@ -1,70 +1,117 @@
-.govau {
+// This has been added because we need to break to the ‘mobile’ menu earlier
+// than what the current $tablet breakpoint offers (768px).
+$tablet-landscape: 1000px;
+
+.dto {
   &--header {
+    @include linear-gradient(to top, darken($non-white, 6%), $white, $fallback: darken($non-white, 6%));
+
     padding-top: $base-spacing;
+    border-bottom: 6px solid $dta-light-grey;
 
     .logo-image {
-      margin: 0 auto;
-      border-bottom: none;
       display: block;
-      width: 300px;
+      width: 320px;
+      margin: 0 auto ($base-spacing * 1.5) auto;
+      border-bottom: none;
 
-      @include media($tablet) {
-        float: left;
-        margin: 0;
+      @include media($tablet-landscape) {
+        @include span-columns(6 of 12);
+      }
+
+      @include media($desktop) {
+        @include span-columns(6 of 16);
       }
 
       &:hover,
       &:focus {
         background-color: transparent;
       }
+    }
 
-      + .logo {
-        display: inline-block;
-        margin: $medium-spacing auto 0 auto;
-        text-align: center;
+    .site-search {
+      margin-bottom: $base-spacing;
 
-        // The following can be culled once UI-Kit => 1.8 is released.
-        text-transform: none;
-        letter-spacing: 0;
-        font-weight: normal;
+      @include media($mobile) {
+        @include span-columns(8 of 8);
+      }
+      @include media($tablet) {
+        @include span-columns(12 of 12);
+      }
+      @include media($desktop) {
+        @include span-columns(6 of 16);
 
-        @include media($tablet) {
-          position: relative;
-          top: $base-spacing;
-          margin: 0 0 0 $medium-spacing;
-          text-align: left;
-        }
+        margin-bottom: 0;
+        float: right;
       }
     }
 
     nav {
-      @include media($mobile) {
-        @include span-columns(8 of 8);
-
-        margin-top: $base-spacing * 2;
-      }
+      clear: both;
+      background-color: $white;
 
       @include media($tablet) {
-        @include span-columns(12 of 12);
+        @include wrapper-padding;
+        @include outer-container;
 
-        margin-top: $base-spacing;
-      }
-
-      @include media($desktop) {
-        @include span-columns(11 of 16);
-        @include shift(5);
-
-        position: absolute;
-        top: $base-spacing;
+        margin-bottom: 1em;
+        background-color: transparent;
       }
 
       .global-navigation {
-        margin-bottom: 0;
-        padding-left: 0; // Possible UI-Kit issue to investigate.
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
 
-        & li {
-          margin-right: $medium-spacing; // UI-Kit sets this to $tiny-spacing.
-          margin-bottom: $small-spacing;
+        @include media($tablet-landscape) {
+          display: inline-block;
+          }
+
+        li {
+          margin-bottom: 0;
+          padding: 0;
+          border-top: 2px solid $border-colour;
+
+          &:hover {
+            background-color: $dta-blue--lightest;
+          }
+
+          @include media($tablet-landscape) {
+            display: inline-block;
+            margin: 0 $tiny-spacing;
+            border-top: none;
+
+            &:first-of-type {
+              margin-left: -($small-spacing);
+            }
+
+            &:hover {
+              background-color: transparent;
+            }
+          }
+
+          a {
+            display: block;
+            padding: $medium-spacing $gutter;
+            text-decoration: none;
+            font-weight: bold;
+            color: $black;
+
+            @include media($tablet-landscape) {
+              display: inline;
+              margin: 0;
+              padding: $small-spacing $small-spacing 18px $small-spacing;
+              border-top: none;
+              background-color: transparent;
+
+              &:hover,
+              &:focus {
+                background-color: transparent;
+                border-bottom: 6px solid $dta-blue--light;
+              }
+            }
+          }
         }
       }
     }
