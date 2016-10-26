@@ -41,3 +41,7 @@ $dta-image-base-url: '../images/' !default;
 %github {
   @include inline-background-image-dta('github');
 }
+
+%search--navy {
+  @include inline-background-image-dta('search--navy');
+}
