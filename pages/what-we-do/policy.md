@@ -3,8 +3,6 @@ layout: basic
 title: "Policy"
 permalink: /what-we-do/policy/
 redirect_from: "/our-work/standard/"
-display-homepage: true
-homepage-snippet: Some test content here
 ---
 
 Content todo 
