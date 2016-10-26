@@ -15,7 +15,7 @@ Assessing against the Standard ensures that we build high-quality government ser
 
 Services will go through an independent assessment process that is either:
 
-* <a id="dtoled"></a>a Digital Transformation Office (DTO) led assessment – for all new and redesigned transactional services that have / will have greater than 50,000 transactions per year (high volume)
+* <a id="dtoled"></a>a Digital Transformation Agency (DTA) led assessment – for all new and redesigned transactional services that have / will have greater than 50,000 transactions per year (high volume)
 * an agency self-assessment
   * for all new and redesigned transactional services that have / will have less than 50,000 transactions per year
   * any information service.
@@ -24,7 +24,7 @@ Services will go through an independent assessment process that is either:
 
 For high volume transactional services that were operating or started redesign before 6 May 2016 you can check how well your service is performing against the Standard by inviting the DTO to do a review by emailing [standard@digital.gov.au](mailto:standard@digital.gov.au).
 
-The DTO reviews of existing services will be similar to the [staged assessment process](/for-digital-service-teams/standard/meeting-standard/staged-assessment-process/). The DTO will arrange a team of experts to review your service against the Standard and give you recommendations on how you can make your service simpler, clearer and faster.
+The DTA reviews of existing services will be similar to the [staged assessment process](/for-digital-service-teams/standard/meeting-standard/staged-assessment-process/). The DTO will arrange a team of experts to review your service against the Standard and give you recommendations on how you can make your service simpler, clearer and faster.
 
 ## Assessment processes
 

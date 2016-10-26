@@ -57,7 +57,7 @@ We may have deleted some parts of the documents, under the exemptions in the FOI
   <tr>
     <td>153</td>
     <td>20/12/2015</td>
-    <td>A list of the sixteen federal government agencies that have submitted draft Digital Transformation Plans to the Digital Transformation Office (DTO). To access this information, please send a request in writing to <a href="mailto:foi@digital.gov.au">foi@digital.gov.au</a>.</td>
+    <td>A list of the sixteen federal government agencies that have submitted draft Digital Transformation Plans to the Digital Transformation Agency (DTA). To access this information, please send a request in writing to <a href="mailto:foi@digital.gov.au">foi@digital.gov.au</a>.</td>
   </tr>
   <tr>
     <td>154</td>
