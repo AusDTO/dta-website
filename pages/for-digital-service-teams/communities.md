@@ -12,7 +12,7 @@ We're creating communities of practice across government to collaborate on best 
  
 We've started with communities for service design and content, and in the future we will extend this to development, product and agile delivery.
 
-We're also documenting our best practice for building digital services in the [Design Guides]({{ site.baseurl }}/standard/design-guides/) and [Service Handbook](http://ausdto.github.io/service-handbook/).
+We're also documenting our best practice for building digital services in the [Design Guides]({{ site.baseurl }}/for-digital-service-teams/standard/design-guides/) and [Service Handbook](http://ausdto.github.io/service-handbook/).
 
 ## Links
 
