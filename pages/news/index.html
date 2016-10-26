@@ -1,8 +1,7 @@
 ---
 layout: default
-breadcrumb: News
 title: News
-searchexcerpt: Information for the Media from the Digital Transformation Office.
+searchexcerpt: News from the Digital Transformation Agency.
 permalink: /news/
 ---
 <h1 class="page-heading">News</h1>
@@ -22,13 +21,15 @@ permalink: /news/
 </ul>
 <a class="see-all" href="/news/media-releases">See all media releases</a>
 
-<h2>Latest DTO news</h2>
+<h2>Latest DTA news</h2>
 <ul class="post-list">
     {% assign news = site.empty-array %}
     {% for post in site.posts %}
-        {% if post.categories contains 'blog' and post.tags contains 'dto-news'%}
-            {% assign news = news | push: post %}
-        {% elsif post.categories contains 'news' and post.categories contains 'dto-news' %}
+        {% if post.categories contains 'blog' %}
+            {% if post.tags contains 'dto-news' or post.tags contains 'dta-news' %}
+                {% assign news = news | push: post %}
+            {% endif %}
+        {% elsif post.categories contains 'news' and post.categories contains 'dta-news' %}
             {% assign news = news | push: post %}
         {% endif %}
     {% endfor %}
@@ -39,5 +40,5 @@ permalink: /news/
     </li>
     {% endfor %}
 </ul>
-<a class="see-all" href="/news/dto-news">See all DTO news</a>
+<a class="see-all" href="/news/dta-news">See all DTA news</a>
 

@@ -1,16 +1,17 @@
 ---
 layout: default
 title: DTO News
-breadcrumb: DTO news
-permalink: /news/dto-news/
+permalink: /news/dta-news/
 ---
 <h1 class="page-heading">{{ page.title }}</h1>
 <ul class="post-list">
     {% assign news = site.empty-array %}
     {% for post in site.posts %}
-        {% if post.categories contains 'blog' and post.tags contains 'dto-news'%}
-            {% assign news = news | push: post %}
-    {% elsif post.categories contains 'news' and post.categories contains 'dto-news' %}
+        {% if post.categories contains 'blog' %}
+            {% if post.tags contains 'dto-news' or post.tags contains 'dta-news' %}
+                {% assign news = news | push: post %}
+            {% endif %}
+        {% elsif post.categories contains 'news' and post.categories contains 'dta-news' %}
             {% assign news = news | push: post %}
         {% endif %}
     {% endfor %}
