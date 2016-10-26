@@ -30,7 +30,7 @@ There will be other metrics your service needs to measure and monitor to underst
 
 ### Dashboard
 
-The [Performance Dashboard](/our-work/performance/) collects service data and presents it in a consistent and structured format. This is important so that you can:
+The [Performance Dashboard](/what-we-do/platforms/performance/) collects service data and presents it in a consistent and structured format. This is important so that you can:
 
 - make quick data-driven decisions about how to improve your service
 - compare data across multiple government services
