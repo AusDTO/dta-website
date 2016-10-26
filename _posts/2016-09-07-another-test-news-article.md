@@ -2,7 +2,7 @@
 layout: news
 title: Another test news article
 author: Test Author
-category: [news, dto-news]
+category: [news, dta-news]
 ---
 
 This is another test news article in the new format.
