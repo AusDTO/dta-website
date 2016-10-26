@@ -26,7 +26,7 @@ We’ve completed the Discovery phase as part of this project to help us streaml
 
 As an agency that delivers a digital service, our focus would normally be on technology to get us there. But by broadening our understanding of how to build digital services, the DTO has ensured we place our efforts squarely on the real users of the service.
 
-Following the DTO’s [Service Design and Delivery process](/standard/service-design-and-delivery-process/), our team spent five weeks in the Discovery phase where we’ve been developing a good understanding of our users, their needs and the service landscape. It’s the first criteria in the [Digital Service Standard](/standard/).
+Following the DTO’s [Service Design and Delivery process](/for-digital-service-teams/standard/service-design-and-delivery-process/), our team spent five weeks in the Discovery phase where we’ve been developing a good understanding of our users, their needs and the service landscape. It’s the first criteria in the [Digital Service Standard](/for-digital-service-teams/standard/).
 
 By partnering with the DTO and an external supplier, we’ve significantly benefited from the thoughtful, experienced and independent perspective they brought to the table – particularly on our interactions with users. The DTO provided expertise around the user experience – something that may not usually receive such focus in our area – and helped us see that some of our assumptions needed to be revisited. Our user researchers challenged our thinking and showed that what we  ‘thought’ was needed wasn’t always the case.
 

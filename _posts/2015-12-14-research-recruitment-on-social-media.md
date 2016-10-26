@@ -17,7 +17,7 @@ A few people were surprised when I sent a message on Twitter recently to recruit
 
 I thought it might be useful to explain why we occasionally use our social media channels to invite people to participate in user research and what processes we follow when we do this.
 
-We do user research in every sprint. It is a key part of how we make sure our services meet user needs and also meet the [Digital Service Standard](/standard/). This means we’re regularly recruiting participants to be involved in this user research.
+We do user research in every sprint. It is a key part of how we make sure our services meet user needs and also meet the [Digital Service Standard](/for-digital-service-teams/standard/). This means we’re regularly recruiting participants to be involved in this user research.
 
 Typically, we use a specialist agency to do the recruitment for us. We give them a brief about the kinds of people we want to talk to, they turn this into a ‘screener’, and then provide us with a list of people, their locations and when we can meet them.
 
