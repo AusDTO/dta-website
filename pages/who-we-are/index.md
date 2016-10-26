@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about-us/
 ---
-#Digital Transformation Agency#
-
 
 The Digital Transformation Agency (DTA) has been established to implement wide scale change in digital capability across government, to make it easy to deal with government.  The DTA is an executive agency.  The responsible minister for the DTA, is the Hon. Angus Taylor, MP, Minister for Cities and Digital Transformation.
 
