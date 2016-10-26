@@ -10,7 +10,7 @@ redirect_from:
 
 **TO BE APPROVED**
 
-The Digital Transformation Agency (DTA) has been established to implement wide scale change in digital capability across government departments, benefiting the public and other users of government services.  The DTA is an executive agency and is part of the Prime Minister’s portfolio.
+The Digital Transformation Agency (DTA) has been established to implement wide scale change in digital capability across government, to make it easy to deal with government.  The DTA is an executive agency.  The responsible minister for the DTA, is the Hon. Angus Taylor, MP, Minister for Cities and Digital Transformation.
 
 The Digital Transformation Agency performs the following key functions:
 
