@@ -7,7 +7,7 @@ profile: "/images/jacqui-van-teulingen-profile.png"
 read-time: 3
 category: blog
 ---
-A new approach to the design and delivery of digital services starts today with the release of the [alpha Digital Service Standard](/standard/changes-to-standard/). The standard establishes the criteria that all Australian digital government services must meet to ensure they are simpler, faster and easier to use.
+A new approach to the design and delivery of digital services starts today with the release of the [alpha Digital Service Standard](/for-digital-service-teams/standard/changes-to-standard/). The standard establishes the criteria that all Australian digital government services must meet to ensure they are simpler, faster and easier to use.
 
 Most people expect to be able to access government services and information anytime and from anywhere, using any internet-connected device. They expect services to be simple, seamless, fast and intuitive. Common standards for design and delivery of government services and information will make interacting and transacting with government easier for everyone. There are good examples of government digital services, but there is room for improvement. Inconsistent look, feel and function of services and information makes things confusing for users. The new standard underpins a 'digital by design' approach - designing with digital delivery as the focus and removing unnecessary hangovers from paper-based systems. Services will be built around user needs. The standard will be supported by a Digital Service Design Guide to provide practical guidance to agencies on how to meet the standard. The Guide will be developed with agencies and released progressively over the next few months.
 

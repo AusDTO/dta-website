@@ -31,7 +31,7 @@ It is important to understand the different ways social media is used before you
 *   **Communication** – getting your message out, or alerts, building a public narrative, setting the public record. For example, [Queensland Police Service’s disaster management (PDF 601 KB)](https://www.police.qld.gov.au/corporatedocs/reportsPublications/other/Documents/QPSSocialMediaCaseStudy.pdf), the [Australian Bureau of Statistics Census Spotlight](http://www.finance.gov.au/collaboration-services-skills/australian-government-ict-awards-program/excellence-in-egovernment-winners-finalist/).
 *   **Consultation** – getting public feedback on something. For example, public Sphere and legislative consultations like [Pittsburgh Open Data Legislation wiki](https://sites.google.com/site/pghopendataleg/draft-legislation-wiki).
 *   **Co-development and crowdsourcing** – developing something with or collecting information from citizens. For example, [Trove](http://trove.nla.gov.au/) and GovHack.
-*   **Service support** – directly supporting citizens online. For example, the [Department of Human Services connecting with clients via social media](/standard/design-guides/case-study-connecting-with-users-on-social-media/).
+*   **Service support** – directly supporting citizens online. For example, the [Department of Human Services connecting with clients via social media](/for-digital-service-teams/standard/design-guides/case-study-connecting-with-users-on-social-media/).
 
 A [short guide and resources for using social media](http://www.finance.gov.au/blog/2013/07/10/online-engagement-courses-%E2%80%93-final-report/) has been developed to provide advice to support the Australian Public Service.
 

@@ -19,20 +19,20 @@ The Digital Transformation Office is currently consulting on how common governme
 
 Australian Government websites must:
 
-*   manage [ministerial content](/standard/design-guides/common-website-elements/ministerial-content/)
+*   manage [ministerial content](/for-digital-service-teams/standard/design-guides/common-website-elements/ministerial-content/)
 *   meet the Online Content Requirements
     *   identify the agency
     *   provide contact details
     *   provide a website disclaimer
     *   use uniform navigation
 *   assess privacy impacts of cookies
-*   comply with the [Caretaker Conventions](/standard/design-guides/common-website-elements/caretaker-conventions/) during election periods
+*   comply with the [Caretaker Conventions](/for-digital-service-teams/standard/design-guides/common-website-elements/caretaker-conventions/) during election periods
 *   use correct metadata
     *   use appropriate content licensing
     *   provide a copyright notice
     *   use open licensing where possible.
 
-There are specific requirements for agencies about how to [refer correctly to the Australian Government in content](/standard/design-guides/branding#refercorrectly).
+There are specific requirements for agencies about how to [refer correctly to the Australian Government in content](/for-digital-service-teams/standard/design-guides/branding#refercorrectly).
 
 The primary websites of Australian Government agencies must also:
 
@@ -43,6 +43,6 @@ The primary websites of Australian Government agencies must also:
     *   publish non-commercial agency publications
 *   meet the requirements of the FOI Act and Information Publication Scheme including providing a disclosure log
 *   list contracts
-*   provide [files list (Harradine report)](/standard/design-guides/common-website-elements/files-list-harradine-report/).
+*   provide [files list (Harradine report)](/for-digital-service-teams/standard/design-guides/common-website-elements/files-list-harradine-report/).
 
 **Last updated:**  24 June 2016

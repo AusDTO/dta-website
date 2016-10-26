@@ -32,7 +32,7 @@ The Government has a commitment to deliver government services digitally from st
 
 ### <a id="determine" name="determine"></a>Determine skills required
 
-Agencies should identify the skills and experience required to deliver their digital services. Many of the skills needed to lead and deliver these services are relatively new to government and are highly sought after. More guidance is available on [the team](/standard/design-guides/the-team/).
+Agencies should identify the skills and experience required to deliver their digital services. Many of the skills needed to lead and deliver these services are relatively new to government and are highly sought after. More guidance is available on [the team](/for-digital-service-teams/standard/design-guides/the-team/).
 
 ### <a id="identify" name="identify"></a>Identify skills available in your agency
 

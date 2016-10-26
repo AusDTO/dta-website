@@ -13,14 +13,14 @@ Designing services in a user-centered way means that the services you deliver wi
 Designing using agile methods allows you to be more proactive and respond easily to change, both in technology and government policy. Services should be improved frequently; they will be cheaper and more accountable to users.
 
 ## How you’ll be assessed
-This criterion applies through all stages of the [service design and delivery process](/standard/service-design-and-delivery-process/). You should:
+This criterion applies through all stages of the [service design and delivery process](/for-digital-service-teams/standard/service-design-and-delivery-process/). You should:
 
 * work in an agile way, based on [agile values and principles](http://www.agilemanifesto.org/principles.html), and using agile tools and techniques
 * review and iterate your processes to be able to respond to feedback, continue to improve and adapt to change
 * be able to demonstrate how your team uses agile tools and techniques to communicate with each other to increase collaboration and transparency
 * be able to show that your governance is appropriate to the size and scale of your service, and that it is human-centred, based on clear and measurable goals, with a clear focus on managing change and risk in real time.
 
-During the [Discovery](/standard/service-design-and-delivery-process/discovery/) and Alpha stages you would have become comfortable with working collaboratively in very fast feedback loops that are guided by user research. During Alpha you should:
+During the [Discovery](/for-digital-service-teams/standard/service-design-and-delivery-process/discovery/) and Alpha stages you would have become comfortable with working collaboratively in very fast feedback loops that are guided by user research. During Alpha you should:
 
 * test hypotheses and underlying assumptions with several prototypes
 * follow a user-centred approach; include the user in all areas of the prototyping (design, iterations and so on)

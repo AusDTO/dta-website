@@ -13,7 +13,7 @@ topic:
 ---
 Agile development is about iterating quickly to deliver value to your users. In contrast to traditional development methodologies like [waterfall](https://en.wikipedia.org/wiki/Waterfall_model), agile development requires [continuous delivery](#continuousdelivery), improvement and feedback from users. The benefit is that teams can quickly adapt and align services with [user needs](#userstories) in rapidly changing environments.
 
-Agile practices don’t guarantee success: you can still fail, but failure should be treated as an opportunity to learn. The ideas of learning by doing, failing fast, and adapting and adjusting to changes are all core agile practices. The [agile team](/standard/design-guides/the-team/) should create and promote a culture that experiments and learns from failure. Don’t be afraid to assess, adjust and experiment with new ideas.
+Agile practices don’t guarantee success: you can still fail, but failure should be treated as an opportunity to learn. The ideas of learning by doing, failing fast, and adapting and adjusting to changes are all core agile practices. The [agile team](/for-digital-service-teams/standard/design-guides/the-team/) should create and promote a culture that experiments and learns from failure. Don’t be afraid to assess, adjust and experiment with new ideas.
 
 There are many agile tools, processes and methodologies, such as [scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) or [kanban](https://en.wikipedia.org/wiki/Kanban_(development)). But working in an agile way does not mean just using a certain tool. Agile is a [principle-based approach](http://agilemanifesto.org/principles.html) that requires a change in mindset with regard to how the project vision is created, right down to the way the team [prioritises work](#prioritising) and runs [daily meetings](#dailystandups).
 
@@ -25,7 +25,7 @@ We are working on making agile easier for agencies to use for service design. Yo
 
 ## Why must I?
 
-An agile approach is essential to producing high-quality services that both meet user needs and are of value to the user. Working agile helps [the team](/standard/design-guides/the-team/) to adapt quickly to user feedback, accurately estimate its speed and output, and encourages a culture that fails and recovers fast. That is, experimenting often and learning quickly from failures.
+An agile approach is essential to producing high-quality services that both meet user needs and are of value to the user. Working agile helps [the team](/for-digital-service-teams/standard/design-guides/the-team/) to adapt quickly to user feedback, accurately estimate its speed and output, and encourages a culture that fails and recovers fast. That is, experimenting often and learning quickly from failures.
 
 ## How do I?
 
@@ -117,7 +117,7 @@ User stories and supporting tasks, such as bugs, should be added to the backlog 
 
 Continuous delivery is an important agile concept. Whether you are a using a sprint-based methodology like scrum to deliver software through stages; or using kanban to manage the day-to-day workload of a service desk, you will still be progressing through continuous cycles of planning, testing and release.
 
-As you follow the [service design and delivery process](/standard/service-design-and-delivery-process/) the team will be regularly alternating between development work and verifying that work with users. Each sprint, or unit of work, will produce a product and deployable code that can be tested with users. The next iteration will build on the previous one getting you closer to the vision outlined in the [roadmap](#roadmap).
+As you follow the [service design and delivery process](/for-digital-service-teams/standard/service-design-and-delivery-process/) the team will be regularly alternating between development work and verifying that work with users. Each sprint, or unit of work, will produce a product and deployable code that can be tested with users. The next iteration will build on the previous one getting you closer to the vision outlined in the [roadmap](#roadmap).
 
 You should accelerate the feedback cycle: the smaller the feedback cycle (in days or weeks at most), the sooner you can act and readjust your course. The process begins with the agreement of acceptance criteria standards for each [user story](#userstories). You can either do this when you first write your user stories or later in the form of acceptance tests when you start development work.
 
@@ -137,7 +137,7 @@ Although testing is done both manually and through automation, the majority of y
 
 ### <a id="agilemeetings" name="agilemeetings"></a>Agile meetings
 
-Clear and frequent communication among [the team](/standard/design-guides/the-team/) is key to agile work. Regular focused meetings are part of this – in particular, brief daily team stand-ups. Other common reoccurring meetings include sprint planning and sprint reviews (in scrum), and retrospectives.
+Clear and frequent communication among [the team](/for-digital-service-teams/standard/design-guides/the-team/) is key to agile work. Regular focused meetings are part of this – in particular, brief daily team stand-ups. Other common reoccurring meetings include sprint planning and sprint reviews (in scrum), and retrospectives.
 
 #### <a id="dailystandups" name="dailystandups"></a>Daily stand-ups
 

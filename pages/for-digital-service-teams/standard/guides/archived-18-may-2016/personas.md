@@ -93,7 +93,7 @@ Completed descriptions of the personas should be no more than one page. Consider
 
 Ensure the personas are placed in a visible central location where they can be seen by all stakeholders.
 
-Once each persona is developed, consider developing [scenarios](/standard/design-guides/user-research/scenarios/) then performing a walkthrough to influence your stakeholders to create better services. It’s important to note that personas are not a substitute for user testing.
+Once each persona is developed, consider developing [scenarios](/for-digital-service-teams/standard/design-guides/user-research/scenarios/) then performing a walkthrough to influence your stakeholders to create better services. It’s important to note that personas are not a substitute for user testing.
 
 _This content has been adapted from [Usability.gov content on Personas](http://www.usability.gov/how-to-and-tools/methods/personas.html)._
 

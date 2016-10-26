@@ -14,7 +14,7 @@ Understanding how users discover and interact with information is a key step in 
 
 ## Why must I?
 
-Analytics play an important role in every stage of the [service design and delivery process](/standard/service-design-and-delivery-process). Analytics also help organisations to identify appropriate times to retire services due to inactivity or unsuccessful adoption.
+Analytics play an important role in every stage of the [service design and delivery process](/for-digital-service-teams/standard/service-design-and-delivery-process). Analytics also help organisations to identify appropriate times to retire services due to inactivity or unsuccessful adoption.
 
 ## How do I?
 

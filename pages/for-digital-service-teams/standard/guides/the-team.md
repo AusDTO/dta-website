@@ -10,13 +10,13 @@ topic_group:
 topic:
 - Building capability
 ---
-<a id="top" name="top"></a>This guide outlines the different skills required in a sustainable multi-disciplinary team to design, build, operate and iterate a digital service that is in the [scope of the Digital Service Standard](/standard/scope-of-standard/).
+<a id="top" name="top"></a>This guide outlines the different skills required in a sustainable multi-disciplinary team to design, build, operate and iterate a digital service that is in the [scope of the Digital Service Standard](/for-digital-service-teams/standard/scope-of-standard/).
 
 The team should be located together, work closely through a Discovery stage, and then deliver ongoing iterations of user-centred services.
 
 ## Who you need
 
-A digital delivery team needs the skills and capabilities to do everything required to deliver a service according to the [Digital Service Standard](/standard/). To do this you will require people in the following roles.
+A digital delivery team needs the skills and capabilities to do everything required to deliver a service according to the [Digital Service Standard](/for-digital-service-teams/standard/). To do this you will require people in the following roles.
 
 ### Service Manager
 _Responsible for the overall delivery and operation of the digital service._
@@ -37,7 +37,7 @@ Involvement: Across the entire project
 ### Delivery Manager
 _Enables agile teams to deliver high-quality services. They remove obstacles or blockers to progress; and facilitate project meetings._
 
-The Delivery Manager delivers products and services using [agile methodologies](/standard/design-guides/agile/), learning and iterating the product and processes frequently to meet users’ needs. They work with product managers to define the roadmap for products and services. They run the daily stand up and weekly team meetings, and make sure that the backlog and team spaces are up to date.
+The Delivery Manager delivers products and services using [agile methodologies](/for-digital-service-teams/standard/design-guides/agile/), learning and iterating the product and processes frequently to meet users’ needs. They work with product managers to define the roadmap for products and services. They run the daily stand up and weekly team meetings, and make sure that the backlog and team spaces are up to date.
 
 Involvement: Across the entire project
 
@@ -92,7 +92,7 @@ Developers build software in a team with a relentless focus on how it will be us
 Involvement: Across the Alpha and Beta stages
 
 ### Ethical Hacker
-_Ensures system [security](/standard/design-guides/secure-services/), identifies cyber security risks, applies risk treatments, detects and manages cyber security incidents._
+_Ensures system [security](/for-digital-service-teams/standard/design-guides/secure-services/), identifies cyber security risks, applies risk treatments, detects and manages cyber security incidents._
 
 The Ethical Hacker is not a full time allocated role to the team. They should be consulted during the Alpha stage to ensure best practice is followed when build begins in Beta, and during Beta the Ethical Hacker needs to be involved part time across the duration of the stage to help the team analyse and resolve security risks, and build secure code.
 

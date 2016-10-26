@@ -12,9 +12,9 @@ published: false
 ---
 The Australian Government is undertaking a long-term program of reviewing in-person interactions across government shopfronts and telephony channels. This is to support the transition to a digital channel for most individual and business dealings with government.
 
-By designing digital services that are consistent and simple to use, we will reduce the need for users to visit a shopfront or contact government by phone. The [Digital Service Standard](/standard/) will improve government information and services, encouraging users to choose digital in preference to other channels.
+By designing digital services that are consistent and simple to use, we will reduce the need for users to visit a shopfront or contact government by phone. The [Digital Service Standard](/for-digital-service-teams/standard/) will improve government information and services, encouraging users to choose digital in preference to other channels.
 
-Offline interactions are also a key part of providing [assisted digital](/standard/design-guides/assisted-digital/) support to users moving to digital interaction with government.
+Offline interactions are also a key part of providing [assisted digital](/for-digital-service-teams/standard/design-guides/assisted-digital/) support to users moving to digital interaction with government.
 
 ## Integrating services
 
@@ -23,7 +23,7 @@ The Digital Transformation Office (DTO) is working with agencies to review in-pe
 The DTO will support agencies to:
 
 *   improve the consistency and cohesiveness of digital information and services, including consolidating websites to a smaller number of user-focused sites
-*   identify where people struggle across all channels when interacting with government, and design digital services that overcome these issues using whole-of-government [analytics](/standard/design-guides/analytics-tools/) and [user research](/standard/design-guides/user-research/)
+*   identify where people struggle across all channels when interacting with government, and design digital services that overcome these issues using whole-of-government [analytics](/for-digital-service-teams/standard/design-guides/analytics-tools/) and [user research](/for-digital-service-teams/standard/design-guides/user-research/)
 *   ensure digital services are accessible and usable
 *   use latest technology to provide additional services such as progress tracking and reminders
 *   provide online and offline support to users to assist them to use a digital channel and continue to provide services where digital may not be appropriate

@@ -17,7 +17,7 @@ You will need to understand all aspects (end to end and across channels) of your
 Your user research needs to cover a wide range of users and show that you understand how different user scenarios may impact service design and delivery. You must include from the earliest stages users who may need assistance to interact digitally, or are unable to interact digitally at all.
 
 ## How you’ll be assessed
-During the [Discovery](/standard/service-design-and-delivery-process/discovery/) and Alpha stages the entire team should have spent a lot of time with end users and learned a lot about their needs. You should understand and be able to show evidence to demonstrate: 
+During the [Discovery](/for-digital-service-teams/standard/service-design-and-delivery-process/discovery/) and Alpha stages the entire team should have spent a lot of time with end users and learned a lot about their needs. You should understand and be able to show evidence to demonstrate: 
 
 * **Who are the users?** What about their motivations, triggers, contexts are significant for your service? How can you find them to invite them to participate in user research? You must include users with varying needs (such as needs arising from disability, cultural diversity, literacy and remoteness). Consider all the users in the service including end users, users in government who are delivering the service, and key intermediaries (professional and personal network)
 * **What is the real task(s) that people are trying to achieve** when they encounter your service. What is the ‘job’ people are trying to get done that your service is a part of? (You need to describe this in words that real end users would use, not using government terminology)
@@ -32,13 +32,13 @@ During the Beta stage your understanding of what your users value will have matu
 * **How you tested the system in the users’ context with a full range of users** (including users with varying needs). You can evidence this with artifacts of research, for example, video clips and outcomes from research analysis
 * **Are you prepared for ongoing user research?** Show how you plan to continue to test the system with users and the resources for this, for example through an ongoing research plan and budget
 * **What have you not solved yet?** What the significant design challenges are, for example through key insights, how have you approached them? How do you plan to continue to tackle them?
-* **How will you know if your design is working?** Make sure that research has fed into the [metrics you have developed](/standard/11-measure-performance/) to know that you continue to meet your user needs
+* **How will you know if your design is working?** Make sure that research has fed into the [metrics you have developed](/for-digital-service-teams/standard/11-measure-performance/) to know that you continue to meet your user needs
 
 By the time you are ready to go live you should:
 
 * Be able to show greater depth of knowledge for all the points above as well as
 * **Show how you are using data from real use** to understand which parts of the task users are finding difficult and how you are designing experiments to reduce friction and increase success for users
-* Know how you will [measure and monitor your service](/standard/11-measure-performance/) to ensure it is serving its users well
+* Know how you will [measure and monitor your service](/for-digital-service-teams/standard/11-measure-performance/) to ensure it is serving its users well
 
 ## Guidance related to this criterion
 

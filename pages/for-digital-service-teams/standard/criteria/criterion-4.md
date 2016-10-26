@@ -48,7 +48,7 @@ By the time you go live you should have in place:
 * evidence or artefacts that demonstrate you achieved the objective of the criteria for the Live stage.
 
 ## Guidance related to this criterion
-* [Common solutions](/standard/common-solutions/)
+* [Common solutions](/for-digital-service-teams/standard/common-solutions/)
 * [Australian Government ICT Policies, guide and procurement](http://www.finance.gov.au/policy-guides-procurement/whole-of-government-ict-policies/)
 
 ## Further reading  

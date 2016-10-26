@@ -12,7 +12,7 @@ topic:
 ---
 <a id="top" name="top"></a>A whole-of-government assisted digital strategy will ensure that assisted digital support is delivered consistently across government services and is a priority for all new and enhanced digital services.
 
-All agencies with [services in scope](/standard/scope-of-standard/) will need to outline their plan for providing digital assistance as part of their Digital Transformation Plan.
+All agencies with [services in scope](/for-digital-service-teams/standard/scope-of-standard/) will need to outline their plan for providing digital assistance as part of their Digital Transformation Plan.
 
 As this guide evolves it will outline the circumstances in which a person may require assistance with digital interactions and the ways that this may be provided.
 
@@ -38,7 +38,7 @@ Assisted digital services will focus primarily on 3 key groups:
 *   those who are almost there but need some assistance
 *   those who can’t get there and will need ongoing support.
 
-Every service will have different mixes of assisted digital users. During the [service design and delivery process](/standard/service-design-and-delivery-process/) you need to develop an understanding of how many of your current non-digital users need assisted digital support and learn what their needs are.
+Every service will have different mixes of assisted digital users. During the [service design and delivery process](/for-digital-service-teams/standard/service-design-and-delivery-process/) you need to develop an understanding of how many of your current non-digital users need assisted digital support and learn what their needs are.
 
 ### <a id="identifyAR" name="identifyAR"></a>Identify assistance required
 

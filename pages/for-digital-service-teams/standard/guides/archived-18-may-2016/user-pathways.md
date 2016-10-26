@@ -17,9 +17,9 @@ User pathways are a design tool used to visually document the logical step-by-st
 
 User pathways enable you to:
 
-*   develop a common understanding with stakeholders of the current [user experience](/standard/design-guides/user-research/) and interaction points before designing the future solution
-*   manage and map the change between current and future [user experience](/standard/design-guides/user-research/) from people, process and technology perspectives
-*   uncover issues early in the [design and delivery process](/standard/service-design-and-delivery-process/).
+*   develop a common understanding with stakeholders of the current [user experience](/for-digital-service-teams/standard/design-guides/user-research/) and interaction points before designing the future solution
+*   manage and map the change between current and future [user experience](/for-digital-service-teams/standard/design-guides/user-research/) from people, process and technology perspectives
+*   uncover issues early in the [design and delivery process](/for-digital-service-teams/standard/service-design-and-delivery-process/).
 
 ## Purpose
 
@@ -39,11 +39,11 @@ Typically user pathways are documents as flow charts, with different swimlanes f
 
 ## Test draft with stakeholders
 
-Gather stakeholders in a [workshop](/standard/design-guides/user-research/workshops/) to test the initial current state pathway. Be prepared to make amendments to the pathway right up to the end of the workshop.
+Gather stakeholders in a [workshop](/for-digital-service-teams/standard/design-guides/user-research/workshops/) to test the initial current state pathway. Be prepared to make amendments to the pathway right up to the end of the workshop.
 
 Keep the process steps at a consistent level of detail. Try not to get side tracked documenting the low-level actions unless you’re aiming for a very detailed pathway. Remember the focus of a user pathway is the user!
 
-After confirming the current state pathway is an accurate representation of the [user experience](/standard/design-guides/user-research/) as it exist, refocus your stakeholders onto the future user experience. Step through the pathway and identify where changes need to be made.
+After confirming the current state pathway is an accurate representation of the [user experience](/for-digital-service-teams/standard/design-guides/user-research/) as it exist, refocus your stakeholders onto the future user experience. Step through the pathway and identify where changes need to be made.
 
 As a group, compare the current to the future process and categorise the changes into people, process, policy/law and technology to start to articulate what needs to happen to deliver the future user experience. As you progress, capture any issues or risks that stakeholders identify and revisit afterwards.
 

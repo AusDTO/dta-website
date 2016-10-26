@@ -18,7 +18,7 @@ Our mission is to explore ways to present government information and services ba
 
 We wanted to test a hypothesis: that it’s possible to design an approach to structure information that is based around the user, and could potentially scale across government information and services.
 
-Since then, we’ve been hard at work undertaking a [Discovery](/blog/what-is-discovery/) and starting to build an Alpha prototype to demonstrate how this might work. In this quick timeframe our aim was not to create a working service to show you just yet - [that will happen in the Beta stage](/standard/service-design-and-delivery-process/) - but to create a prototype that tested our hypothesis.
+Since then, we’ve been hard at work undertaking a [Discovery](/blog/what-is-discovery/) and starting to build an Alpha prototype to demonstrate how this might work. In this quick timeframe our aim was not to create a working service to show you just yet - [that will happen in the Beta stage](/for-digital-service-teams/standard/service-design-and-delivery-process/) - but to create a prototype that tested our hypothesis.
 
 To explore our hypothesis, we looked at a range of common experiences that people have with government and the types of information and services they need. This included needs around tax, education, registering to vote, superannuation, registering a business, accessing benefits for older people, applying for permits to serve food and alcohol, importing goods to the country and more. We then focussed the prototype around two particular journeys, starting a business and the experience of coming to Australia to work.
 
@@ -53,4 +53,4 @@ Just as importantly, we’re working with a number of key stakeholders, includin
 
 ## Next steps
 
-We have more work to do - including an independent assessment to ensure we meet the [Digital Service Standard](/standard/) before we can move onto the next stage of development - the Beta. We’ll publish the results of that Alpha assessment early next year.
+We have more work to do - including an independent assessment to ensure we meet the [Digital Service Standard](/for-digital-service-teams/standard/) before we can move onto the next stage of development - the Beta. We’ll publish the results of that Alpha assessment early next year.

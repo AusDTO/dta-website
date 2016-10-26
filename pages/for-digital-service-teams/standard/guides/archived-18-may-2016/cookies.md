@@ -23,6 +23,6 @@ A privacy statement could be something like:
 >
 >_All cookies will be immediately lost when you end your internet session and shut down your computer. Our copy of your information will be automatically deleted 20 minutes after you last used the system. This information is only used to help you use our website systems more efficiently, for example by maintaining a record of what text size you prefer to view pages in, not to track your movements through the internet, or to record private information about you._
 
-Guidance on [Australian Government privacy requirements](/standard/design-guides/privacy/) is also available.
+Guidance on [Australian Government privacy requirements](/for-digital-service-teams/standard/design-guides/privacy/) is also available.
 
 **Last updated:** 21 July 2015

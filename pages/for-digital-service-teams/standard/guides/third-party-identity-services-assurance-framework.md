@@ -45,8 +45,8 @@ The Assurance Framework is underpinned by these Australian Government security f
 
 The Assurance Framework is also informed by these policy frameworks:
 
-- [National e-Authentication Framework](/standard/design-guides/authentication-frameworks/national-e-authentication-framework/)
-- [Gatekeeper Public Key Infrastructure (PKI) Framework](/standard/design-guides/authentication-frameworks/gatekeeper-public-key-infrastructure-framework/)
+- [National e-Authentication Framework](/for-digital-service-teams/standard/design-guides/authentication-frameworks/national-e-authentication-framework/)
+- [Gatekeeper Public Key Infrastructure (PKI) Framework](/for-digital-service-teams/standard/design-guides/authentication-frameworks/gatekeeper-public-key-infrastructure-framework/)
 - [National Identity Security Strategy](https://www.ag.gov.au/rightsandprotections/identitysecurity/pages/nationalidentitysecuritystrategy.aspx)
 - [National Identity Proofing Guidelines](https://www.ag.gov.au/RightsAndProtections/IdentitySecurity/Pages/Identity-security-guidelines-and-standards.aspx).
 

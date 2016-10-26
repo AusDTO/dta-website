@@ -15,11 +15,11 @@ Trust is essential to the government agencies that deliver services, and the use
 
 On 1 July 2015 the DTO took over responsibility for the following authentication frameworks from the Department of Finance:
 
-- [National e-Authentication Framework (NeAF)](/standard/design-guides/authentication-frameworks/national-e-authentication-framework/)
-- [Gatekeeper Public Key Infrastructure (PKI) Framework](/standard/design-guides/authentication-frameworks/gatekeeper-public-key-infrastructure-framework/)
-- [Third Party Identity Services Assurance Framework](/standard/design-guides/authentication-frameworks/third-party-identity-services-assurance-framework/)
+- [National e-Authentication Framework (NeAF)](/for-digital-service-teams/standard/design-guides/authentication-frameworks/national-e-authentication-framework/)
+- [Gatekeeper Public Key Infrastructure (PKI) Framework](/for-digital-service-teams/standard/design-guides/authentication-frameworks/gatekeeper-public-key-infrastructure-framework/)
+- [Third Party Identity Services Assurance Framework](/for-digital-service-teams/standard/design-guides/authentication-frameworks/third-party-identity-services-assurance-framework/)
 
-We are currently reviewing these frameworks for incorporation into the [Trusted Digital Identity Framework](/standard/design-guides/identity-assurance/).
+We are currently reviewing these frameworks for incorporation into the [Trusted Digital Identity Framework](/for-digital-service-teams/standard/design-guides/identity-assurance/).
 
 If you have any questions or would like further information, contact the Authentication Team: [authentication@dto.gov.au](mailto:authentication@dto.gov.au)
 
@@ -27,9 +27,9 @@ If you have any questions or would like further information, contact the Authent
 
 Digital Transformation Office Design Guides:
 
-- [Secure services](/standard/design-guides/secure-services/)
-- [Privacy](/standard/design-guides/privacy/)
-- [Identity assurance](/standard/design-guides/identity-assurance/)
+- [Secure services](/for-digital-service-teams/standard/design-guides/secure-services/)
+- [Privacy](/for-digital-service-teams/standard/design-guides/privacy/)
+- [Identity assurance](/for-digital-service-teams/standard/design-guides/identity-assurance/)
 
 Australian Government:
 

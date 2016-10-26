@@ -16,7 +16,7 @@ Your service must be accessible to users regardless of their digital confidence 
 
 ## How you'll be assessed
 
-During the [Discovery stage](/standard/service-design-and-delivery-process/discovery/) you will have developed a good understanding of how your users may access your service. To make sure everyone will be able to use your service you need to show:
+During the [Discovery stage](/for-digital-service-teams/standard/service-design-and-delivery-process/discovery/) you will have developed a good understanding of how your users may access your service. To make sure everyone will be able to use your service you need to show:
 
 - the type of environments users may access the service in, including with different browsers and desktop and mobile devices, and when connections are slower and there may be limited data; for example, through user stories
 - diversity in research recruitment and targeted users, including people from different cultural backgrounds and people with disability 
@@ -62,7 +62,7 @@ As you go live you will need to show:
 
 ## Guidance related to this criterion
 
-[Inclusive services](/standard/design-guides/inclusive-services/)
+[Inclusive services](/for-digital-service-teams/standard/design-guides/inclusive-services/)
 
 ## Further reading
 

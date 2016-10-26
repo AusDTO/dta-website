@@ -14,8 +14,8 @@ You are welcome to <a href="http://livestream.ssc.gov.au/dto/4september2015/">jo
 We’ll be discussing:
 
 * the vision for government service delivery 
-* the [Digital Service Standard](/standard/)
-* the [Digital Service Design Guide](/standard/design-guides/)
+* the [Digital Service Standard](/for-digital-service-teams/standard/)
+* the [Digital Service Design Guide](/for-digital-service-teams/standard/design-guides/)
 * how services will meet the standard.
 
 We are [webcasting this event](http://livestream.ssc.gov.au/dto/4september2015/) so come along and join us!

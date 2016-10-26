@@ -39,7 +39,7 @@ Gatekeeper documents:
 - [Compliance Audit Program (V2.1 - December 2015) DOCX (175 KB)](/files/authentication-framework/Gatekeeper-PKI-Framework-Compliance-Audit-Program-v2_1.docx)
 
 ## Gatekeeper legal evaluation panel
- The role of the members of the [Gatekeeper legal evaluation panel](/standard/design-guides/authentication-frameworks/gatekeeper-legal-evaluation-panel/) is to evaluate the legal documents for organisations applying for Gatekeeper Accreditation and Service Providers amending previously approved legal documents submit, as part of their documentation suite.
+ The role of the members of the [Gatekeeper legal evaluation panel](/for-digital-service-teams/standard/design-guides/authentication-frameworks/gatekeeper-legal-evaluation-panel/) is to evaluate the legal documents for organisations applying for Gatekeeper Accreditation and Service Providers amending previously approved legal documents submit, as part of their documentation suite.
  
 ## Gatekeeper accredited service providers
 

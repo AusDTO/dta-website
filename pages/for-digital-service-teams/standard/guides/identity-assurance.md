@@ -18,10 +18,10 @@ In the coming months the Identity team in the Digital Transformation Office will
 
 Existing Australian Government and state and territory identity policy frameworks will need to be accommodated under the Framework. At the Australian Government level these include:
 
-- [National e-Authentication Framework](/standard/design-guides/authentication-frameworks/national-e-authentication-framework/) - a better practice guide to the authentication of users and websites for agencies across all sectors of government
+- [National e-Authentication Framework](/for-digital-service-teams/standard/design-guides/authentication-frameworks/national-e-authentication-framework/) - a better practice guide to the authentication of users and websites for agencies across all sectors of government
 - [National identity Proofing Guidelines](https://www.ag.gov.au/RightsAndProtections/IdentitySecurity/Pages/Identity-security-guidelines-and-standards.aspx) - guidance for agencies for the identification of users
-- [Gatekeeper Public Key Infrastructure (PKI) Framework](/standard/design-guides/authentication-frameworks/gatekeeper-public-key-infrastructure-framework/) - governs the use of cryptographic technologies by the Australian Government to authenticate an identity, and the assessment of Gatekeeper accredited service providers
-- [Third Party Identity Services Assurance Framework](/standard/design-guides/authentication-frameworks/third-party-identity-services-assurance-framework/) - sets out 4 standard levels of assurance (LOA), and an accreditation process for commercial providers of digital identity services.
+- [Gatekeeper Public Key Infrastructure (PKI) Framework](/for-digital-service-teams/standard/design-guides/authentication-frameworks/gatekeeper-public-key-infrastructure-framework/) - governs the use of cryptographic technologies by the Australian Government to authenticate an identity, and the assessment of Gatekeeper accredited service providers
+- [Third Party Identity Services Assurance Framework](/for-digital-service-teams/standard/design-guides/authentication-frameworks/third-party-identity-services-assurance-framework/) - sets out 4 standard levels of assurance (LOA), and an accreditation process for commercial providers of digital identity services.
 
 The Trusted Digital Identity Framework will establish the overarching requirements, structure, governance arrangements and interoperable standards for a trusted Australian digital identity system to ensure it is scalable, secure, simple to use and fair.
 

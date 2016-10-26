@@ -12,7 +12,7 @@ published: false
 ![The NationalMap displaying the visualisation of the surface geology dataset.](/images/standard/nationalmap.png)
 *Caption: The NationalMap displaying the visualisation of the surface geology dataset.*
 
-The [NationalMap](http://www.nationalmap.gov.au) is a browser-based visualisation and access tool for open government data. Together with [data.gov.au](http://data.gov.au/) and [FIND](http://find.ga.gov.au) (the Australian Government's spatial data catalogue), it delivers on the Australian Government’s [open data](/standard/design-guides/open-data/) agenda, and provides access to the Open Data Network.
+The [NationalMap](http://www.nationalmap.gov.au) is a browser-based visualisation and access tool for open government data. Together with [data.gov.au](http://data.gov.au/) and [FIND](http://find.ga.gov.au) (the Australian Government's spatial data catalogue), it delivers on the Australian Government’s [open data](/for-digital-service-teams/standard/design-guides/open-data/) agenda, and provides access to the Open Data Network.
 
 The Open Data Network provides a ‘no wrong door’ approach to accessing openly available government data. This means users can enter the network at any node and reach the data they are looking for without needing to know who ‘owns’ that data.
 

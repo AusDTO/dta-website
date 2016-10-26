@@ -13,7 +13,7 @@ topic:
 Government as a platform means we:
 
 *   influence core common platforms and channels across government to improve consistency and efficiency
-*   enable systems and data to have [application programming interfaces](/standard/design-guides/api/) (API), where possible, to support flexible design of systems and, in many cases, public access and re-use
+*   enable systems and data to have [application programming interfaces](/for-digital-service-teams/standard/design-guides/api/) (API), where possible, to support flexible design of systems and, in many cases, public access and re-use
 *   present our individual portfolios and agendas as one government, supporting a whole-of-government user experience.
 
 ## Why must I?

@@ -12,13 +12,13 @@ breadcrumb: 13. Encourage everyone to use the digital service
 
 As we build simpler, clearer and faster government services the digital channel will become more convenient for users than non-digital channels like post, phone and shopfronts. Increased digital take-up will mean users can spend less time interacting with government. This will result in greater cost efficiencies for government. 
 
-Measuring digital take-up helps you to understand how well your service is being used. It’s one of the [4 mandatory KPIs](/standard/measuring-performance/) services must report on the [Performance Dashboard](/our-work/performance/).
+Measuring digital take-up helps you to understand how well your service is being used. It’s one of the [4 mandatory KPIs](/for-digital-service-teams/standard/measuring-performance/) services must report on the [Performance Dashboard](/our-work/performance/).
 
 We still need to help users who are unable to use digital channels and provide support to those who need it. But we want to ensure digital channels are used whenever possible and to scale back, or phase out, alternative channels when we can.
 
 ## How you’ll be assessed
 
-Your user research will give you a good understanding of where people want to access your service and their levels of digital skill. Through the [Discovery](/standard/service-design-and-delivery-process/discovery/) and Alpha stages you need to understand:
+Your user research will give you a good understanding of where people want to access your service and their levels of digital skill. Through the [Discovery](/for-digital-service-teams/standard/service-design-and-delivery-process/discovery/) and Alpha stages you need to understand:
 
 - the users’ journeys and how they interact with your service, digitally or otherwise
 - existing alternative channels and how users currently interact with them

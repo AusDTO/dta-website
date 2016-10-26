@@ -5,7 +5,7 @@ permalink: /for-digital-service-teams/standard/meeting-standard/
 redirect_from: /standard/meeting-standard/
 lede: How services are assessed
 ---
-All services within the [scope of the Digital Service Standard](/standard/scope-of-standard/) (the Standard) are assessed against the Standard.
+All services within the [scope of the Digital Service Standard](/for-digital-service-teams/standard/scope-of-standard/) (the Standard) are assessed against the Standard.
 
 Assessing against the Standard ensures that we build high-quality government services that meet user needs.
 
@@ -24,22 +24,22 @@ Services will go through an independent assessment process that is either:
 
 For high volume transactional services that were operating or started redesign before 6 May 2016 you can check how well your service is performing against the Standard by inviting the DTO to do a review by emailing [standard@digital.gov.au](mailto:standard@digital.gov.au).
 
-The DTO reviews of existing services will be similar to the [staged assessment process](/standard/meeting-standard/staged-assessment-process/). The DTO will arrange a team of experts to review your service against the Standard and give you recommendations on how you can make your service simpler, clearer and faster.
+The DTO reviews of existing services will be similar to the [staged assessment process](/for-digital-service-teams/standard/meeting-standard/staged-assessment-process/). The DTO will arrange a team of experts to review your service against the Standard and give you recommendations on how you can make your service simpler, clearer and faster.
 
 ## Assessment processes
 
-Your service will be assessed as it moves through the stages of the [service design and delivery process](/standard/service-design-and-delivery-process/). Depending on the kind of service this can happen as:
+Your service will be assessed as it moves through the stages of the [service design and delivery process](/for-digital-service-teams/standard/service-design-and-delivery-process/). Depending on the kind of service this can happen as:
 
 * [in-flight assessment](#inflight) - regular check-ins by a team of experts as you design and develop your service
-* [staged assessment](/standard/meeting-standard/staged-assessment-process/) - assessments at 3 points in the service design and delivery process.
+* [staged assessment](/for-digital-service-teams/standard/meeting-standard/staged-assessment-process/) - assessments at 3 points in the service design and delivery process.
 
 All DTO-led assessments on high volume transactional services will be in-flight assessments.
 
-For agency self-assessments on all other services, you may choose to use the [in-flight process](#inflight) or the [staged assessment process](/standard/meeting-standard/staged-assessment-process/).
+For agency self-assessments on all other services, you may choose to use the [in-flight process](#inflight) or the [staged assessment process](/for-digital-service-teams/standard/meeting-standard/staged-assessment-process/).
 
 ### Assessment changes during the service design and delivery stages
 
-As your service moves through the [service design and delivery process](/standard/service-design-and-delivery-process/) the assessments become more comprehensive:
+As your service moves through the [service design and delivery process](/for-digital-service-teams/standard/service-design-and-delivery-process/) the assessments become more comprehensive:
 
 1. By the end of **Alpha stage** the service must have passed criteria 1 to 3 of the Standard and show progress against other criteria.
 2. During the **Beta stage** the service must have passed all criteria of the Standard before you can release the product as a public beta.
@@ -49,7 +49,7 @@ If your service doesn’t meet the Standard it shouldn’t progress through the 
 
 ### Assessment team
 
-In-flight and staged assessments are conducted by a team that is independent of the [digital delivery team](/standard/design-guides/the-team/). The assessors are experts and practitioners in their field, and will usually be working on their own projects. This ensures that the knowledge and skills of the assessors are up to date.
+In-flight and staged assessments are conducted by a team that is independent of the [digital delivery team](/for-digital-service-teams/standard/design-guides/the-team/). The assessors are experts and practitioners in their field, and will usually be working on their own projects. This ensures that the knowledge and skills of the assessors are up to date.
 
 The assessing team will generally include 3 assessors (one of which is nominated as the lead assessor) who represent:
 
@@ -87,7 +87,7 @@ If your service is a high volume transactional service, or you started designing
 
 ## Report publicly
 
-At each of the 3 stages - Alpha, Beta, Live - the assessment team produces a report. We publish [assessment reports](/standard/assessments/) on the DTO website to:  
+At each of the 3 stages - Alpha, Beta, Live - the assessment team produces a report. We publish [assessment reports](/for-digital-service-teams/standard/assessments/) on the DTO website to:  
 
 * contribute to a government-wide repository of better practice
 * provide a resource for other teams redesigning or building services
