@@ -6,7 +6,7 @@ redirect_from: /standard/assessments/
 breadcrumb: Assessment reports
 ---
 
-{% javascript assessment-tabs %}
+
 
 All services in the [scope of the Digital Service Standard](/for-digital-service-teams/standard/scope-of-standard/) are [assessed against the Standard](/for-digital-service-teams/standard/meeting-standard/).
 
