@@ -4,7 +4,7 @@ title: Trusted Digital Identity Framework
 permalink: /budget/trusted-digital-identity-framework/
 breadcrumb: Trusted Digital Identity Framework
 localnav: budget
-lede: The Digital Transformation Office (DTO) will work across government and with the private sector to develop a Trusted Digital Identity Framework (the Framework) to support the Government’s Digital Transformation Agenda.
+lede: The Digital Transformation Agency (DTA) will work across government and with the private sector to develop a Trusted Digital Identity Framework (the Framework) to support the Government’s Digital Transformation Agenda.
 ---
 The Framework will establish a set of principles and standards for the use of accredited government and third-party digital identities to enable individuals and businesses to access services easier.
 

@@ -56,7 +56,7 @@ We publish assessment reports to increase the transparency of government and hel
 
     <div role="tabpanel" class="tab-pane" id="dta-assessed">
       <h2 class="assessment-list-header"><span class="inner">DTA-led assessment reports</span></h2>
-      {% include assessment-reports/assessment-reports-list-dto-assessed.html %}
+      {% include assessment-reports/assessment-reports-list-dta-assessed.html %}
     </div>
 
     <div role="tabpanel" class="tab-pane" id="agency-assessed">
