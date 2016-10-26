@@ -3,7 +3,7 @@ layout: default
 title: "What we do"
 permalink: /what-we-do/
 ---
-DTA - what we do
+#What we do#
 
 The Digital Transformation Agency has a whole-of-government remit and our responsibilities include:   
 
@@ -22,6 +22,8 @@ The Digital Transformation Agency has a whole-of-government remit and our respon
 
 
 - providing advice to the Minister on whole-of-government and shared ICT digital service delivery proposals.
+
+
 
 
 
