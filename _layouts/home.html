@@ -1,29 +1,100 @@
 ---
+layout: base
 ---
-<!DOCTYPE html>
-<html class="no-js">
-	{% include head.html %}
-	<body class="home">
-		{% include google-tag-manager.html %}
-  <nav class="skip-to">
-      <a href="#content">Skip to main content</a>
-      <a href="#nav">Skip to section navigation</a>
-  </nav>
 
-		{% include header.html %}
+<article id="content" class="content-listing">
 
-		<div class="page-content">
-			<a id="main-content" tabindex="-1"></a>
+  <section class="about-dta">
+    <h1>Digital Transformation Agency</h1>
+    <p class="abstract">The Digital Transformation Agency exists to make it easy for people to deal with government, by helping government transform services to be simple, clear and fast.</p>
+  </section>
 
-        	{{ content }}
+  <section class="what-we-do">
+    <h2 class="home-heading">What we're involved in</h2>
+    <ul class="list-vertical--thirds">
 
-      	</div>
+    {% for item in site.data.homepage_items %}
+    <li>
+      <article>
+        <h3>
+          <a href="{{ item.url }}">{{ item.title }}</a>
+        </h3>
+        <p>{{ item.description }}</p>
+      </article>
+    </li>
+    {% endfor %}
+    </ul>
+  </section>
 
-	  	{% include footer.html %}
+  <section class="news-media">
+    <h2 class="home-heading">News and media</h2>
+    <ul class="list-vertical--fourths no-border">
 
-  		{% include javascript.html %}
+      {% for post in site.posts limit:8 %}
+      <li>
+        <figure>
+          {% if post.thumbnail %}
+          <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ post.thumbnail }}"></a>
+          {% else %}
+          <a href="{{ post.url }}"><img class="blog-thumbnail" src="/images/blog-thumbnails/blog-thumbnail-placeholder.png"></a>
+          {% endif %}
+        </figure>
+        <article>
+          <h3>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </h3>
+          <div class="meta">
+            <time datetime="{{ post.date }}">{{ post.date | date: "%-d %b %Y" }}</time>
+            {% if post.category contains 'media-release' %}
+            <span>Media Release</span>
+            {% else %}
+            {{ post.author }}
+            {% endif %}
+          </div>
+        </article>
+      </li>
+      {% endfor %}
+    </ul>
 
-		{% include uikit_scripts.html %}
-	</body>
+    <a class="see-more" href="/news/">See more news</a>
+  </section>
 
-</html>
+  <div class="homepage-footer">
+
+    <section class="leadership">
+      <h2 class="home-heading">Leadership</h2>
+      <ul class="list-horizontal">
+
+      {% for leader in site.leadership-group %}
+        <li>
+          <figure>
+            <img src="{{ leader.image }}" alt="Image of {{ leader.title }}">
+          </figure>
+          <article>
+            <h3>
+              {{ leader.title }}
+            </h3>
+            <div class="meta">
+              <span>{{ leader.position }}</span>
+            </div>
+            <p>{{ leader.content }}</p>
+
+          </article>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+
+    <section class="social-media">
+      <h2 class="home-heading">Social media</h2>
+      <ul class="social-media-links">
+        <li><a class="twitter" href="https://twitter.com/DTO">Twitter</a></li>
+        <li><a class="facebook" href="https://www.facebook.com/DigitalTransformationOffice">Facebook</a></li>
+        <li><a class="linkedin" href="https://www.linkedin.com/company/digital-transformation-office">LinkedIn</a></li>
+        <li><a class="youtube" href="https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A">YouTube</a></li>
+        <li><a class="slideshare" href="http://www.slideshare.net/DTO-slides">Slideshare</a></li>
+      </ul>
+    </section>
+
+  </div> <!-- /homepage-footer -->
+</article>
