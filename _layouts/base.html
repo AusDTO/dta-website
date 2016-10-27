@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body {% if page.url == "/" %} class="home"{% endif%}>
 
     {% include google-tag-manager.html %}
 
@@ -14,11 +14,15 @@
 
     {% include header.html %}
 
+    {% unless page.url == "/" %}
     {% include breadcrumb.html %}
+    {% endunless %}
 
     <main role="main">
 
+      {% unless page.url == "/" %}
       {% include local-nav.html %}
+      {% endunless %}
 
       {{ content }}
 
