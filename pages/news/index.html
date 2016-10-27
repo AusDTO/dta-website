@@ -6,20 +6,22 @@ permalink: /news/
 ---
 <h1 class="page-heading">News</h1>
 
+{% if site.categories['media-release'] | size > 0 %}
 <h2>Latest media releases</h2>
-<ul class="post-list short">
-    {% for post in site.categories['media-release'] limit:3 %}
-    <li>
-        <h3>
-            <a class="archive_list_article_link" href='{{post.url}}'>{{post.title}}</a>
-        </h3>
-        <div class="post-details">
-            <span class="post-date">{{ post.date | date: "%-d %b %Y" }}</span>
-        </div>
-    </li>
-    {% endfor %}
-</ul>
-<a class="see-all" href="/news/media-releases">See all media releases</a>
+    <ul class="post-list short">
+        {% for post in site.categories['media-release'] limit:3 %}
+        <li>
+            <h3>
+                <a class="archive_list_article_link" href='{{post.url}}'>{{post.title}}</a>
+            </h3>
+            <div class="post-details">
+                <span class="post-date">{{ post.date | date: "%-d %b %Y" }}</span>
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
+    <a class="see-all" href="/news/media-releases">See all media releases</a>
+{% endif %}
 
 <h2>Latest DTA news</h2>
 <ul class="post-list">
