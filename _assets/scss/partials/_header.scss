@@ -30,10 +30,12 @@ $tablet-landscape: 1000px;
     }
 
     .site-search {
-      margin-bottom: $base-spacing;
+      margin: $base-spacing 0;
 
       @include media($mobile) {
         @include span-columns(8 of 8);
+
+        margin-top: $tiny-spacing;
       }
       @include media($tablet) {
         @include span-columns(12 of 12);
@@ -41,6 +43,7 @@ $tablet-landscape: 1000px;
       @include media($desktop) {
         @include span-columns(6 of 16);
 
+        margin-top: $base-spacing * 1.5;
         margin-bottom: 0;
         float: right;
       }
