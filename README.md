@@ -5,7 +5,7 @@
 
 ## Hacking on Content
 
-Create a branch from the `development` branch.  
+Create a branch from the `develop` branch.  
 To test that branch out you can push to cloud.gov.au before commiting to git.  
 Remember to delete unused apps.
 
