@@ -1,8 +1,7 @@
 ---
-layout: home
+layout: base
 permalink: "/"
 ---
-<main>
 <article id="content" class="content-listing">
 
 <section class="about-dta">
@@ -111,6 +110,4 @@ permalink: "/"
   </section>
 
 </div>
-
 </article>
-</main>
