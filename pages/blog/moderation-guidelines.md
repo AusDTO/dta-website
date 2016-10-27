@@ -26,7 +26,7 @@ We moderate all comments to ensure they comply with these guidelines.
 
 If your comment is published under a name that’s clearly false, or looks like spam, it will not be published.
 
-### Are you asking for information or detail relating to another DTO product?
+### Are you asking for information or detail relating to another DTA product?
 
 We'll pass the query on and ensure it is dealt with as quickly as possible. If you provide an email address with your comment we'll update you directly on progress.
 

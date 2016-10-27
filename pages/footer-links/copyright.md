@@ -13,4 +13,4 @@ The details of the [relevant licence conditions](http://creativecommons.org/lice
 
 ## Attribution
 
-The DTO acknowledges the UK Government Digital Service for the materials that have been adapted from the [UK Government Service Design Manual](https://www.gov.uk/service-manual). Anyone using this material should note that it includes public sector information licenced under the [UK Open Government Licence v2.0 and v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+The DTA acknowledges the UK Government Digital Service for the materials that have been adapted from the [UK Government Service Design Manual](https://www.gov.uk/service-manual). Anyone using this material should note that it includes public sector information licenced under the [UK Open Government Licence v2.0 and v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).

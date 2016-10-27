@@ -13,7 +13,7 @@ We do not automatically collect personal information about you when you visit th
 
 ## Scope
 
-This statement applies to the dto.gov.au website managed by the Digital Transformation Office (DTO).
+This statement applies to the digital.gov.au website managed by the Digital Transformation Agency (DTA).
 
 ## Personal information
 
@@ -55,9 +55,9 @@ By using this website, you consent to the processing of data about you for the p
 
 To provide our news we use MailChimp, which provides online tools that can be used to create, send, and manage emails. MailChimp may collect personal information, such as distribution lists which contain email addresses, and other information relating to those email addresses. For further information about the type of personal information MailChimp collects, refer to the [MailChimp Privacy Policy](http://mailchimp.com/legal/privacy/).
 
-The DTO will only use this information to:
+The DTA will only use this information to:
 
-* create, send and manage emails relating to the work of the DTO
+* create, send and manage emails relating to the work of the DTA
 * measure email campaign performance
 * improve the features for specific segments of customers
 * evaluate your use of our website
@@ -73,13 +73,13 @@ MailChimp is based in the United States of America (USA) and the information col
 * Australian Privacy Principle 8.1 contained in Schedule 1 of the [Privacy Act](http://mailchimp.com/legal/terms/) will not apply.
 * You understand and acknowledge that MailChimp is not subject to the Privacy Act 1988 (Cth) and you will not be able to seek redress under the Privacy Act 1988 (Cth) but will need to seek redress under the laws of the USA.
 
-You can opt out of our mailing list if you choose the ‘unsubscribe’ service provided by MailChimp in every email, or contact DTO. You can also disable or refuse cookies or disable Flash player; however, you may not be able to use the services provided by MailChimp if cookies are disabled. [Contact MailChimp](http://mailchimp.com/contact/).
+You can opt out of our mailing list if you choose the ‘unsubscribe’ service provided by MailChimp in every email, or contact DTA. You can also disable or refuse cookies or disable Flash player; however, you may not be able to use the services provided by MailChimp if cookies are disabled. [Contact MailChimp](http://mailchimp.com/contact/).
 
 MailChimp has the endorsement of TRUSTe's Privacy Seal, which means this privacy policy has been reviewed by [TRUSTe](https://www.truste.com/) for compliance with their [program requirements](https://www.truste.com/privacy-certification-standards/) including transparency, accountability, and choice related to the collection and use of your personal information. TRUSTe is an independent third party that operates a globally-recognised privacy trustmark.
 
 ## Our obligations
 
-The DTO website is bound by the [Privacy Act 1988](https://www.legislation.gov.au/Series/C2004A03712) (Cth), including the [Australian Privacy Principles](https://www.legislation.gov.au/Series/C2004A03712).
+The DTA website is bound by the [Privacy Act 1988](https://www.legislation.gov.au/Series/C2004A03712) (Cth), including the [Australian Privacy Principles](https://www.legislation.gov.au/Series/C2004A03712).
 
 We also follow the [Guidelines for Federal and ACT government websites](https://www.oaic.gov.au/agencies-and-organisations/guides/) issued by the Office of the Australian Information Commissioner.
 

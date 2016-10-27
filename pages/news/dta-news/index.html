@@ -1,0 +1,24 @@
+---
+layout: default
+title: DTA News
+permalink: /news/dta-news/
+---
+<h1 class="page-heading">{{ page.title }}</h1>
+<ul class="post-list">
+    {% assign news = site.empty-array %}
+    {% for post in site.posts %}
+        {% if post.categories contains 'blog' %}
+            {% if post.tags contains 'dto-news' or post.tags contains 'dta-news' %}
+                {% assign news = news | push: post %}
+            {% endif %}
+        {% elsif post.categories contains 'news' and post.categories contains 'dta-news' %}
+            {% assign news = news | push: post %}
+        {% endif %}
+    {% endfor %}
+
+    {% for post in news %}
+    <li>
+        {% include blog-teaser.html %}
+    </li>
+    {% endfor %}
+</ul>

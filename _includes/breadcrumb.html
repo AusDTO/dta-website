@@ -21,7 +21,7 @@
 {% elsif page.layout == 'media-release' %}
     {% capture lis%}
             <li><a href="/news/">News</a></li>
-            <li><a href="/news/media-release/">Media releases</a></li>
+            <li><a href="/news/media-releases/">Media releases</a></li>
     {% endcapture %}
 {% elsif page.layout == 'news' %}
     {% capture lis%}
@@ -84,7 +84,12 @@
         {% endfor %}
 
     {% endfor %}
-                <li>{{ page.title }}</li>
+
+    {% assign label = page.title %}
+    {% if page.breadcrumb %}
+        {% assign label = page.breadcrumb %}
+    {% endif %}
+                <li>{{ label }}</li>
             </ul>
         </div>
     </nav>

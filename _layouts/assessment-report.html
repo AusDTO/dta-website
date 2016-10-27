@@ -1,90 +1,75 @@
 ---
 layout: default
+localnav: digital-service-standard
 ---
-<div class="row">
-<aside class="sidebar-left col-md-3">
-	<div class="local-nav">
-		<h1 class="block__title">Menu</h1>
-		<ul class="menu">
-		{% for item in site.data.digital-service-standard_localnav %}
-	    	{% include localnav-markup.html %}
-		{% endfor %}
-		</ul>
-	</div>
-</aside>
 
-<div class="col-md-9 col-lg-offset-1 col-lg-8 main-content" role="main">
-	<h1 class="page-title">{{ page.title }} - {{ page.assessment-stage }} assessment</h1>
+<h1 class="page-title">{{ page.title }} &mdash; {{ page.assessment-stage }} assessment</h1>
 
-	{% if page.report-excerpt %}
-	<p>{{ page.report-excerpt}}</p>
-	{% endif %}
+{% if page.report-excerpt %}
+<p>{{ page.report-excerpt }}</p>
+{% endif %}
 
-	<div class="callout">
-		<ul class="assessment-metadata">
-		{% if page.department %}
-		<li><span>Department/Agency:</span> {{ page.department}}</li>
-		{% endif %}
+<div class="callout">
+  <ul class="assessment-metadata">
+  {% if page.department %}
+    <li><span>Department/Agency:</span> {{ page.department }}</li>
+  {% endif %}
 
-		{% if page.date %}
-		<li><span>Date of Assessment:</span> {{ page.date | date: '%B %d, %Y'}}</li>
-		{% endif %}
+  {% if page.date %}
+    <li><span>Date of Assessment:</span> {{ page.date | date: '%B %d, %Y' }}</li>
+  {% endif %}
 
-		{% if page.self-assessment == true %}
-		<li><span>Assessment type:</span> Self-assessed</li>
-		{% else %}
-		<li><span>Assessment type:</span> Digital Transformation Office-led </li>
-		{% endif %}
+  {% if page.self-assessment == true %}
+    <li><span>Assessment type:</span> Self-assessed</li>
+  {% else %}
+    <li><span>Assessment type:</span> Digital Transformation Agency-led</li>
+  {% endif %}
 
-		{% if page.assessment-stage %}
-		<li><span>Assessment stage:</span> {{ page.assessment-stage}}</li>
-		{% endif %}
+  {% if page.assessment-stage %}
+    <li><span>Assessment stage:</span> {{ page.assessment-stage }}</li>
+  {% endif %}
 
-		{% if page.result %}
-		<li><span>Result of Assessment:</span> {{ page.result}}</li>
-		{% endif %}
+  {% if page.result %}
+    <li><span>Result of Assessment:</span> {{ page.result }}</li>
+  {% endif %}
 
-		{% if page.lead-assessor %}
-		<li><span>Lead Assessor:</span> {{ page.lead-assessor}}</li>
-		{% endif %}
+  {% if page.lead-assessor %}
+    <li><span>Lead Assessor:</span> {{ page.lead-assessor }}</li>
+  {% endif %}
 
-		{% if page.service-manager %}
-		<li><span>Service Manager:</span> {{ page.service-manager }}</li>
-		{% endif %}
-		</ul>
+  {% if page.service-manager %}
+    <li><span>Service Manager:</span> {{ page.service-manager }}</li>
+  {% endif %}
+</ul>
 
-		</ul>
+  {% include assessment-reports/related-assessment-reports.html %}
 
-		{% include assessment-reports/related-assessment-reports.html %}
+</div>
 
-	</div>
-
-	{{ content }}
+{{ content }}
 
 <h2>Digital Service Standard Scorecard</h2>
-<table class="scorecard-table">
-	<thead>
-		<tr><th>Criteria</th><th>Result</th></tr>
-	</thead>
-	<tbody>
-		<tr><td>1</td><td>{{ page.criteria-1-result }}</td></tr>
-		<tr><td>2</td><td>{{ page.criteria-2-result }}</td></tr>
-		<tr><td>3</td><td>{{ page.criteria-3-result }}</td></tr>
-		<tr><td>4</td><td>{{ page.criteria-4-result }}</td></tr>
-		<tr><td>5</td><td>{{ page.criteria-5-result }}</td></tr>
-		<tr><td>6</td><td>{{ page.criteria-6-result }}</td></tr>
-		<tr><td>7</td><td>{{ page.criteria-7-result }}</td></tr>
-		<tr><td>8</td><td>{{ page.criteria-8-result }}</td></tr>
-		<tr><td>9</td><td>{{ page.criteria-9-result }}</td></tr>
-		<tr><td>10</td><td>{{ page.criteria-10-result }}</td></tr>
-		<tr><td>11</td><td>{{ page.criteria-11-result }}</td></tr>
-		<tr><td>12</td><td>{{ page.criteria-12-result }}</td></tr>
-		<tr><td>13</td><td>{{ page.criteria-13-result }}</td></tr>
-		{% if page.criteria-14-result %}
-		<tr><td>14</td><td>{{ page.criteria-14-result }}</td></tr>
-		{% endif %}
-	</tbody>
+<table class="content-table">
+  <caption>Assessment result for each criteria</caption>
+  <thead>
+    <tr><th scope="col">Criteria</th><th scope="col">Result</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>{{ page.criteria-1-result }}</td></tr>
+    <tr><td>2</td><td>{{ page.criteria-2-result }}</td></tr>
+    <tr><td>3</td><td>{{ page.criteria-3-result }}</td></tr>
+    <tr><td>4</td><td>{{ page.criteria-4-result }}</td></tr>
+    <tr><td>5</td><td>{{ page.criteria-5-result }}</td></tr>
+    <tr><td>6</td><td>{{ page.criteria-6-result }}</td></tr>
+    <tr><td>7</td><td>{{ page.criteria-7-result }}</td></tr>
+    <tr><td>8</td><td>{{ page.criteria-8-result }}</td></tr>
+    <tr><td>9</td><td>{{ page.criteria-9-result }}</td></tr>
+    <tr><td>10</td><td>{{ page.criteria-10-result }}</td></tr>
+    <tr><td>11</td><td>{{ page.criteria-11-result }}</td></tr>
+    <tr><td>12</td><td>{{ page.criteria-12-result }}</td></tr>
+    <tr><td>13</td><td>{{ page.criteria-13-result }}</td></tr>
+    {% if page.criteria-14-result %}
+    <tr><td>14</td><td>{{ page.criteria-14-result }}</td></tr>
+    {% endif %}
+  </tbody>
 </table>
-<caption>Table: Assessment result for each criteria</caption>
-</div>
-</div>

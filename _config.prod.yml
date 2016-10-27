@@ -24,6 +24,8 @@ permalink: "/:categories/:title/"
 
 uikit_base_url: "https://gov-au-ui-kit.apps.platform.digital.gov.au/latest/"
 
+google_tag_manager: GTM-KR7JDF #TODO this is dto.gov.au
+
 # Because there is no way to instantiate an empty array, and we need to merge two filtered
 # collections together -- this is used on the News page layout.
 empty-array: []

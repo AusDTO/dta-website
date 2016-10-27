@@ -29,7 +29,7 @@ As part of the programme:
 * business suppliers of software and hardware will be able to join the directory easily
 * government buyers will be able to easily search for services, identify suitable suppliers and procure the best value for money option for the project
 
-We’ll follow user-centred design and work through a [four-stage Discovery/Alpha/Beta/Live process](/standard/service-design-and-delivery-process/) to design, build and deliver a way for suppliers of technology and digital services to be matched with buyers across government. Of course, like all our work here, we’ll start small and continue to deliver valuable iterations over time based on user feedback.
+We’ll follow user-centred design and work through a [four-stage Discovery/Alpha/Beta/Live process](/for-digital-service-teams/standard/service-design-and-delivery-process/) to design, build and deliver a way for suppliers of technology and digital services to be matched with buyers across government. Of course, like all our work here, we’ll start small and continue to deliver valuable iterations over time based on user feedback.
 
 We’ll learn from procurement reform happening elsewhere in Australia and right across the world, and we’ll work closely with the local digital community as we deliver this important reform.
 
