@@ -2,11 +2,21 @@
 layout: default
 ---
 <header>
-    <h1>{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</p>
+  <h1>{{ page.title }}</h1>
+  <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</p>
 </header>
-<article class="post-content">
-    <div class="post-intro">{{ page.searchexcerpt }}</div>
-    {{ content }}
-    <p><em>For media enquiries, email us at <a href="mailto:media@digital.gov.au">media@digital.gov.au</a>.</em></p>
-</article>
+
+<div class="abstract">
+  {{ page.searchexcerpt | markdownify }}
+</div>
+
+<section class="post-body">
+  {{ content }}
+</section>
+
+
+<footer>
+  <p>
+    <em>For media enquiries, email us at <a href="mailto:media@digital.gov.au">media@digital.gov.au</a>.</em>
+  </p>
+</footer>
