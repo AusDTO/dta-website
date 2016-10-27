@@ -18,6 +18,13 @@
   {% include google_fonts.html %}
 
   <noscript>{% css no-script %}</noscript>
+
+  <script>
+  (function (h) {
+    h.className = h.className.replace('no-js', 'js')
+  })(document.documentElement)
+  </script>
+
   {% if page.knowledge_schema %}
   <!-- Schema for Google knowledge graph -->
   <script type="application/ld+json">
