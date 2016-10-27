@@ -2,13 +2,21 @@
 layout: default
 localnav: digital-service-standard-criteria
 ---
-{% if page.criteria-number  %}
+
+{% if page.criteria-number %}
 <div class="criteria-heading">
-    <h1 class="page-title-criteria"><span class="{{page.criteria-number}}">{{page.criteria-number}}</span>{{ page.title
-        }}</h1>
-    <p class="criteria-subtitle">{{ page.lede }}</p>
+  <h1 class="page-title-criteria">
+    <span class="{{ page.criteria-number }}">
+      {{ page.criteria-number }}
+    </span>
+    {{ page.title }}
+  </h1>
+  <p class="criteria-subtitle">{{ page.lede }}</p>
 </div>
 {% endif %}
+
 {{ content }}
+
+<!-- Umm...? -->
 </div>
 </div>
