@@ -4,10 +4,10 @@ $tablet-landscape: 1000px;
 
 .dto {
   &--header {
-    @include linear-gradient(to top, darken($non-white, 6%), $white, $fallback: darken($non-white, 6%));
+    @include linear-gradient(to top, $non-white, $white, $fallback: $non-white);
 
     padding-top: $base-spacing;
-    border-bottom: 6px solid $dta-light-grey;
+    border-bottom: 6px solid #dceaef;
 
     .logo-image {
       display: block;
