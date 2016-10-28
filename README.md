@@ -8,9 +8,11 @@
 Create a branch from the `develop` branch.  
 
 To test that branch out you can push to cloud.gov.au before commiting to git.
+
 `cf push branchname` # assumes you are logged into the staging platform.
 
 Remember to delete unused apps:
+
 `cf delete branchname`
 
 When your change is ready, submit a PR to the `develop` branch.
