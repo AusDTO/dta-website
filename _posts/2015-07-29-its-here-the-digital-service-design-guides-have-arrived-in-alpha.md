@@ -9,7 +9,7 @@ category: blog
 ---
 We’re setting the bar high: we want government to deliver awesome digital services.
 
-To help agencies redesign their services, we’re releasing alpha versions of our [Digital Service Design Guides](/for-digital-service-teams/standard/design-guides/). These give government agencies advice on how to deliver services that live up to the expectations set by the [Digital Service Standard](/for-digital-service-teams/standard/).
+To help agencies redesign their services, we’re releasing alpha versions of our [Digital Service Design Guides](/standard/design-guides/). These give government agencies advice on how to deliver services that live up to the expectations set by the [Digital Service Standard](/standard/).
 
 We want these Design Guides to be as helpful as they can be, so we want to hear what you think of them. Based on your feedback, we’ll keep honing our guidance so we can better help agencies deliver the high quality experiences that users deserve.
 

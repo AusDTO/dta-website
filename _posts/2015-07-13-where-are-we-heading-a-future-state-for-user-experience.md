@@ -38,7 +38,7 @@ We identified that some of the functionality required to support this future sta
 - the whole of [government analytics](/blog/building-better-services-with-analytics/) and user research,
 - the continued role of overarching websites like [australia.gov.au](http://australia.gov.au/) and [business.gov.au](http://business.gov.au/) to provide a concierge service.
 
-As we get feedback on the prototype and it is tested and defined we’ll map out the plan for how to transition to a future state. Once finalised it will be added to the [Digital Service Design Guide](/for-digital-service-teams/standard/design-guides/) to support agencies in future planning.
+As we get feedback on the prototype and it is tested and defined we’ll map out the plan for how to transition to a future state. Once finalised it will be added to the [Digital Service Design Guide](/standard/design-guides/) to support agencies in future planning.
 
 ## What do you think?
 
