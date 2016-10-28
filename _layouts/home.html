@@ -34,9 +34,9 @@ layout: base
       <li>
         <figure>
           {% if post.thumbnail %}
-          <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ post.thumbnail }}"></a>
+          <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ post.thumbnail }}" alt="Open"></a>
           {% else %}
-          <a href="{{ post.url }}"><img class="blog-thumbnail" src="/images/blog-thumbnails/blog-thumbnail-placeholder.png"></a>
+          <a href="{{ post.url }}"><img class="blog-thumbnail" src="/images/blog-thumbnails/blog-thumbnail-placeholder.png" alt="Open"></a>
           {% endif %}
         </figure>
         <article>
