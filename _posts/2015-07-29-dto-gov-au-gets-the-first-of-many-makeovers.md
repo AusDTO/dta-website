@@ -11,7 +11,7 @@ Have you noticed things are different around here?
 
 We’ve tidied up the layout of our site, used simple icons for easy navigation and made it more compatible with Internet Explorer.
 
-We’ve also added links to our [Digital Service Design Guides](/for-digital-service-teams/standard/design-guides/) &mdash; a growing collection of information to help Australian Government agencies meet the [Digital Service Standard](/for-digital-service-teams/standard/).
+We’ve also added links to our [Digital Service Design Guides](/standard/design-guides/) &mdash; a growing collection of information to help Australian Government agencies meet the [Digital Service Standard](/standard/).
 
 **But we know it can be better.**
 
