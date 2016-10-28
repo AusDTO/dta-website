@@ -16,29 +16,29 @@ We publish assessment reports to increase the transparency of government and hel
   <!-- Nav tabs -->
   <nav class="inline-tab-nav">
     <h3>View by:</h3>
-    <ul>
-      <li>
-        <a href="#all" class="is-current">
+    <ul role="tablist">
+      <li role="presentation">
+        <a href="#all" class="is-current" aria-controls="all" role="tab">
           <span class="is-visuallyhidden">Show </span>All reports
         </a>
       </li>
-      <li>
-        <a href="#dta-assessed">
+      <li role="presentation">
+        <a href="#dta-assessed" aria-controls="dto-assessed" role="tab">
           <span class="is-visuallyhidden">Show only </span>DTA&ndash;led assessments
         </a>
       </li>
-      <li>
-        <a href="#agency-assessed">
+      <li role="presentation">
+        <a href="#agency-assessed" aria-controls="agency-assessed" role="tab">
           <span class="is-visuallyhidden">Show only </span>Self assessments
         </a>
       </li>
-      <li>
-         <a href="#alpha-assessments">
+      <li role="presentation">
+         <a href="#alpha-assessments" aria-controls="alpha" role="tab">
            <span class="is-visuallyhidden">Show only </span>Alpha assessments
          </a>
       </li>
-      <li>
-        <a href="#beta-assessments">
+      <li role="presentation">
+        <a href="#beta-assessments" aria-controls="beta" role="tab">
           <span class="is-visuallyhidden">Show only </span>Beta assessments
         </a>
       </li>
