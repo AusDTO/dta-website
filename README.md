@@ -6,16 +6,18 @@
 ## Hacking on Content
 
 Create a branch from the `develop` branch.  
-To test that branch out you can push to cloud.gov.au before commiting to git.  
-Remember to delete unused apps.
 
+To test that branch out you can push to cloud.gov.au before commiting to git.
 `cf push branchname` # assumes you are logged into the staging platform.
 
-Submit a PR to the `develop` branch.  
+Remember to delete unused apps:
+`cf delete branchname`
+
+When your change is ready, submit a PR to the `develop` branch.
 The develop branch is continuously deployed to https://dta.apps.staging.digital.gov.au/
 The master branch is continuously deployed to https://www.digital.gov.au/
 
-When ready for a production deploy:
+When ready for a production deploy, merge the `develop` branch to `master`. You can do this through Github [with a PR](https://github.com/AusDTO/dta-website/compare/master...develop) or from the command line:
 
 * `git checkout master`
 * `⁠git pull`
