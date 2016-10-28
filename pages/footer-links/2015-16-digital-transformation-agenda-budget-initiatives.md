@@ -19,7 +19,7 @@ The Government is also committed to making it quicker and more affordable for bu
 The Agenda will also support the implementation of Streamlining Business Registration announced in the [Growing Jobs and Small Business package](http://www.budget.gov.au/2015-16/content/glossy/sml_bus/html/sml_bus-04.htm). This will simplify the process of registering a business.
 
 ## The Digital Service Standard
-The [Digital Service Standard](/for-digital-service-teams/standard/) will establish a consistent digital-by-design approach to government service delivery. It will apply to all government agencies to make services simpler and easier to use.
+The [Digital Service Standard](/standard/) will establish a consistent digital-by-design approach to government service delivery. It will apply to all government agencies to make services simpler and easier to use.
 
 ## Trusted Digital Identity Framework
 The [Trusted Digital Identity Framework](/budget/trusted-digital-identity-framework/) will provide individuals and businesses with easier ways to access government services through the use of government or private digital identities.

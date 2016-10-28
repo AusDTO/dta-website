@@ -7,7 +7,7 @@ profile: "/images/the-user-research-team-profile.png"
 read-time: 4
 category: blog
 ---
-The first design principle of the [Digital Service Standard](/for-digital-service-teams/standard/) is “users first”. To support this we are working to better understand what users really need, expect, prefer and actually experience when interacting with government.
+The first design principle of the [Digital Service Standard](/standard/) is “users first”. To support this we are working to better understand what users really need, expect, prefer and actually experience when interacting with government.
 
 There is no whole of government approach to understanding users. We are going to change that. Today there is a mountain of agency specific research but these results are often not shared and don’t take a whole of government view. The DTO has been collecting this research, analysing it and identifying key insights about user needs to share with the people designing and delivering government services.
 
