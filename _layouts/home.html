@@ -9,23 +9,6 @@ layout: base
     <p class="abstract">The Digital Transformation Agency exists to make it easy for people to deal with government, by helping government transform services to be simple, clear and fast.</p>
   </header>
 
-  <section class="what-we-do">
-    <h2 class="home-heading">What we&rsquo;re involved in</h2>
-    <ul class="list-vertical--thirds">
-
-    {% for item in site.data.homepage_items %}
-    <li>
-      <article>
-        <h3>
-          <a href="{{ item.url }}">{{ item.title }}</a>
-        </h3>
-        <p>{{ item.description }}</p>
-      </article>
-    </li>
-    {% endfor %}
-    </ul>
-  </section>
-
   <section class="news-media">
     <h2 class="home-heading">News and media</h2>
     <ul class="list-vertical--fourths no-border">
@@ -57,6 +40,23 @@ layout: base
     </ul>
 
     <a class="see-more" href="/news/">See more news</a>
+  </section>
+
+  <section class="what-we-do">
+    <h2 class="home-heading">What we&rsquo;re involved in</h2>
+    <ul class="list-vertical--thirds">
+
+    {% for item in site.data.homepage_items %}
+    <li>
+      <article>
+        <h3>
+          <a href="{{ item.url }}">{{ item.title }}</a>
+        </h3>
+        <p>{{ item.description }}</p>
+      </article>
+    </li>
+    {% endfor %}
+    </ul>
   </section>
 
   <div class="homepage-footer">
