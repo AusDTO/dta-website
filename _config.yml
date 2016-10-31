@@ -40,7 +40,7 @@ collections:
   leadership-group:
     output: true
   staff:
-    output: true
+    output: false
 
 # Build settings
 markdown: kramdown
