@@ -7,7 +7,7 @@ job-title: Chief Digital Officer
 twitter-handle: paul_shetler
 banner-image: /images/staff/paul-shetler-banner.jpg
 profile-image: /images/paul-shetler-profile.jpg
-profile-excerpt: Paul Shetler is the Chief Digital Officer of the Digital Transformation Office.
+profile-excerpt: Paul Shetler is the Chief Digital Officer of the Digital Transformation Agency.
 show-blogs: true
 weight: 1
 ---
