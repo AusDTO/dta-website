@@ -1,5 +1,4 @@
 ---
-layout: staff
 title: Rebekah Ramsay
 breadcrumb: Rebekah Ramsay
 job-title: Head of Strategic Digital Recruitment

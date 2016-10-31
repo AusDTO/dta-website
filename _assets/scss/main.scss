@@ -37,7 +37,9 @@ $live: #859949;
 @import 'dto-ui-kit/assets/sass/ui-kit';
 
 // Import partials from `partials`
+@import 'partials/typography';
 @import 'partials/assessment-reports';
+@import 'partials/blog';
 @import 'partials/blog-share-links';
 @import 'partials/blog-subscribe';
 @import 'partials/breadcrumb';
@@ -49,7 +51,6 @@ $live: #859949;
 @import 'partials/guides';
 @import 'partials/header';
 @import 'partials/footer';
-@import 'partials/typography';
 @import 'partials/our-work-page';
 @import 'partials/homepage';
 @import 'partials/icons';

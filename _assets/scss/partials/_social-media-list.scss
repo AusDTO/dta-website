@@ -1,4 +1,7 @@
 .social-media-links {
+	@include clearfix;
+
+	margin-top: $base-spacing;
 	display: block;
 	overflow: hidden;
 	padding-left: 0;

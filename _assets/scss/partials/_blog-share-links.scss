@@ -1,54 +1,57 @@
-.post {
-	.social-links {
-		margin-bottom:35px;
-		margin-top:45px;
-		//@media screen and (max-width: $mobile-screen) {
-		//TODO
-		@media screen and (max-width: $tablet-minwidth) {
-			margin-bottom:35px;
-			margin-top:25px;
-		}
-		h2 {
-			margin-top:0;
-			margin-bottom:11px;
-			font-size:17px;
-			color: $dta-mid-grey;
-			line-height:1.5;
-			padding:8px 0 0;
-			font-family:"OpenSansBold",Arial,Helvetica Neue,Helvetica,sans-serif;
-			display:inline;
-			padding-right:20px;
-			@media screen and (max-width: $tablet-minwidth) {
-				display:block;
-			}
-		}
-		a {
-			font-size:0;
-			text-decoration:none; 
-			&:focus {
-				&.facebook:before, &.twitter:before, &.linkedin:before, &.email:before {
-					color:#fff;
-					background-color: #000;
-				}
-			}
-			&.facebook:before, &.twitter:before, &.linkedin:before, &.email:before {
-				font-family:FontAwesome;
-				color: $dta-mid-grey;
-				font-size:22px;	
-				padding-right:18px;
-			}
-			&.facebook:before {
-				content:'\f09a';
-			}
-			&.twitter:before {
-				content:'\f099';
-			}
-			&.linkedin:before {
-				content:'\f0e1';
-			}
-			&.email:before {
-				content:'\f003';
-			}
-		}
-	}
-}
+// Commented all this out since it's from the old site, and doesn't seem to have any impact.
+
+// .post {
+// 	.social-links {
+// 		clear: both;
+// 		margin-bottom:35px;
+// 		margin-top:45px;
+// 		//@media screen and (max-width: $mobile-screen) {
+// 		//TODO
+// 		@media screen and (max-width: $tablet-minwidth) {
+// 			margin-bottom:35px;
+// 			margin-top:25px;
+// 		}
+// 		h2 {
+// 			margin-top:0;
+// 			margin-bottom:11px;
+// 			font-size:17px;
+// 			color: $dta-mid-grey;
+// 			line-height:1.5;
+// 			padding:8px 0 0;
+// 			font-family:"OpenSansBold",Arial,Helvetica Neue,Helvetica,sans-serif;
+// 			display:inline;
+// 			padding-right:20px;
+// 			@media screen and (max-width: $tablet-minwidth) {
+// 				display:block;
+// 			}
+// 		}
+// 		a {
+// 			font-size:0;
+// 			text-decoration:none;
+// 			&:focus {
+// 				&.facebook:before, &.twitter:before, &.linkedin:before, &.email:before {
+// 					color:#fff;
+// 					background-color: #000;
+// 				}
+// 			}
+// 			&.facebook:before, &.twitter:before, &.linkedin:before, &.email:before {
+// 				font-family:FontAwesome;
+// 				color: $dta-mid-grey;
+// 				font-size:22px;
+// 				padding-right:18px;
+// 			}
+// 			&.facebook:before {
+// 				content:'\f09a';
+// 			}
+// 			&.twitter:before {
+// 				content:'\f099';
+// 			}
+// 			&.linkedin:before {
+// 				content:'\f0e1';
+// 			}
+// 			&.email:before {
+// 				content:'\f003';
+// 			}
+// 		}
+// 	}
+// }
