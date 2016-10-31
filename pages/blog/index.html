@@ -26,9 +26,6 @@ permalink: /blog/
         <h3>
           <a href="{{ post.url }}">{{ post.title }}</a>
         </h3>
-        {% if post.content %}
-        <p>{{ post.content | strip_html | truncatewords:50 }}</p>
-        {% endif %}
         <div class="meta">
           <time datetime="{{ post.date }}">{{ post.date | date: "%-d %b %Y" }}</time>
           {{ post.author }}
