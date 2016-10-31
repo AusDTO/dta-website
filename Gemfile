@@ -16,3 +16,4 @@ end
 
 gem 'html-proofer'
 gem 'font-awesome-sass'
+gem 'uglifier'
