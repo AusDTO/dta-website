@@ -1,5 +1,4 @@
 ---
-layout: staff
 title: Jose Del Rio
 breadcrumb: Jose Del Rio
 job-title: Head of Policy

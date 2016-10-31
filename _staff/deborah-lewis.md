@@ -1,5 +1,4 @@
 ---
-layout: staff
 title: Deborah Lewis
 breadcrumb: Deborah Lewis
 job-title: Chief Operating Officer

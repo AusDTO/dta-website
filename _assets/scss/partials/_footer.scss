@@ -1,7 +1,40 @@
 .footer-top {
+  nav {
+    ul {
+      margin-bottom: $base-spacing * 1.5;
+    }
+  }
+
   .blog-subscribe {
     @include media($tablet) {
       @include span-columns(3 of 12);
     }
+
+    .email {
+      margin-bottom: $small-spacing;
+    }
+  }
+}
+
+.footer-logo {
+  margin-bottom: $base-spacing * 2;
+
+  img {
+    display: block;
+    margin: 0 auto;
+
+    @include media($tablet) {
+      margin: 0;
+    }
+  }
+}
+
+.footer-links {
+  margin: 0 auto;
+  text-align: center;
+
+  @include media($tablet) {
+    margin: 0;
+    text-align: left;
   }
 }

@@ -1,5 +1,4 @@
 ---
-layout: staff
 title: Dan Searle
 breadcrumb: Dan Searle
 job-title: Head of Strategy

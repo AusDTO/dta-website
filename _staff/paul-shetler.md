@@ -1,14 +1,13 @@
 ---
-layout: staff
 title: Paul Shetler
 permalink: /about/paul-shetler/
 breadcrumb: Paul Shetler
 breadcrumb_type: staff
-job-title: Chief Executive Officer
+job-title: Chief Digital Officer
 twitter-handle: paul_shetler
 banner-image: /images/staff/paul-shetler-banner.jpg
 profile-image: /images/paul-shetler-profile.jpg
-profile-excerpt: Paul Shetler is the CEO of the Digital Transformation Office.
+profile-excerpt: Paul Shetler is the Chief Digital Officer of the Digital Transformation Office.
 show-blogs: true
 weight: 1
 ---
@@ -24,5 +23,3 @@ While working at the UK’s Government Digital Service, he helped develop a suit
 Before that, he was Chief Digital Officer at the UK Ministry of Justice, where he helped deliver four of those 25 exemplar services.
 
 Paul was appointed Chief Executive Officer of the Digital Transformation Office in July 2015.
-
-

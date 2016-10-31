@@ -1,5 +1,4 @@
 ---
-layout: staff
 title: Matthew Landauer
 breadcrumb: Matthew Landauer
 job-title: Head of Product
