@@ -37,6 +37,10 @@
   }
 }
 
+.post-moderation-policy {
+  margin-bottom: $base-spacing;
+}
+
 .blog-aside {
   #mc_embed_signup {
     @include button-colours($button-bg-colour, $button-bg-colour--hover, $button-bg-colour--active, $button-text-colour);
@@ -48,8 +52,7 @@
     }
   }
 
-  a,
-  .moderation-policy {
+  a {
     @include link-colours($non-black, $light-aqua, $non-black);
   }
 }
