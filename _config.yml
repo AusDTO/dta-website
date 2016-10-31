@@ -67,6 +67,8 @@ prose:
   media: 'images/blog-content'
   ignore:
     - _config.yml
+    - _config-production.yml
+    - _config-develop.yml
     - /manifest.yml
     - /manifest-production.yml
     - /manifest-develop.yml
