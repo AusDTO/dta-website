@@ -1,5 +1,4 @@
 ---
-layout: staff
 title: Lindsay Holmwood
 breadcrumb: Lindsay Holmwood
 job-title: Head of Development

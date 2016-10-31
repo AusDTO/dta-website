@@ -1,5 +1,4 @@
 ---
-layout: staff
 title: Radi Kovacevic
 breadcrumb: Radi Kovacevic
 job-title: Acting Head of GOV.AU

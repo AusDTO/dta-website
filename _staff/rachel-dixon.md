@@ -1,5 +1,4 @@
 ---
-layout: staff
 title: Rachel Dixon
 breadcrumb: Rachel Dixon
 job-title: Head of Identity
