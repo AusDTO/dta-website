@@ -1,5 +1,5 @@
 # This config file should be chained with _config.yml to overwrite the
 # configuration for the staging site.
-# e.g. bundle exec jekyll serve --config _config.yml,_config.staging.yml
+# e.g. bundle exec jekyll serve --config _config.yml,_config-develop.yml
 
 url: "https://dta.apps.staging.digital.gov.au" # the base hostname & protocol for your site, e.g. http://example.com

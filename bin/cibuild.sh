@@ -15,11 +15,11 @@ main() {
   case "${GITBRANCH}" in
     master)
       echo "Building with production jekyll config"
-      JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config.prod.yml
+      JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config-production.yml
       ;;
     develop)
-      echo "Building with staging jekyll config"
-      JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config.staging.yml
+      echo "Building with development/staging jekyll config"
+      JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config-develop.yml
       ;;
     *)
       echo "Building with normal jekyll config"
