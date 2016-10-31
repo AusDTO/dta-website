@@ -1,0 +1,24 @@
+---
+layout: basic
+title: DTA News
+permalink: /blog/dta-news/
+---
+{% assign count = 0 %}
+{% for post in site.categories['blog'] %}
+  {% if post.tags contains 'dta-news' %}
+    {% assign count = count + 1 %}
+  {% endif %}
+{% endfor %}
+{% if count >0 %}
+<ul class="list-horizontal">
+  {% for post in site.categories['blog'] %}
+    {% if post.tags contains 'dta-news' %}
+  <li>
+      {% include blog-teaser.html %}
+  </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+{% else %}
+<p>There are no DTA news posts</p>
+{% endif %}
