@@ -8,14 +8,14 @@
   <meta property="og:locale" content="en_AU" />
   <meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:type" content="Website" />
-  <meta property="og:image" content="{{ site.url }}/images/icons/dta-unfurl.png" />
+  <meta property="og:image" content="{{ site.url }}{% asset_path dta-unfurl %}" />
   <meta property="og:url" content="{{ site.url }}" />
   <meta property="og:description" content="{% if page.searchexcerpt %}{{ page.searchexcerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:description" content="{% if page.searchexcerpt %}{{ page.searchexcerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
   <meta name="twitter:title" content="{{ page.title }}" />
   <meta name="twitter:site" content="@DTO" />
-  <meta name="twitter:image" content="{{ site.url }}/images/icons/dta-unfurl.png" />
+  <meta name="twitter:image" content="{{ site.url }}{% asset_path dta-unfurl %}" />
 
   <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
