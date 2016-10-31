@@ -1,5 +1,4 @@
 ---
-layout: staff
 title: Paul Shetler
 permalink: /about/paul-shetler/
 breadcrumb: Paul Shetler

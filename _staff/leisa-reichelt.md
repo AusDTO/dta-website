@@ -1,5 +1,4 @@
 ---
-layout: staff
 title: Leisa Reichelt
 breadcrumb: Leisa Reichelt
 job-title: Head of Service Design and Professional Communities
