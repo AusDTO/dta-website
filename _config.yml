@@ -35,6 +35,8 @@ gems:
   - jekyll-redirect-from
 
 exclude:
+  - .asset-cache
+  - _config-*.yml
   - Gemfile
   - Gemfile.lock
   - vendor
@@ -42,15 +44,22 @@ exclude:
   - circle.yml
   - README.md
   - manifest*.yml
-  - todo.md
 
 assets:
+  assets:
+    - "*.png"
+    - "*.jpg"
+    - "bundle.css"
   sources:
     - _assets/scss
     - _assets/vendor
     - _assets/img
+    - _assets/img/staff
+    - images/blog-content
+    - images/blog-thumbnails
   cache: .asset-cache
   prefix: "/cdn"
+  digest: true
 
 
 defaults:
@@ -67,6 +76,8 @@ prose:
   media: 'images/blog-content'
   ignore:
     - _config.yml
+    - _config-production.yml
+    - _config-develop.yml
     - /manifest.yml
     - /manifest-production.yml
     - /manifest-develop.yml
