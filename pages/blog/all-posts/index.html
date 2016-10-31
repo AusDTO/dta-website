@@ -1,17 +1,12 @@
 ---
-layout: default
+layout: basic
 title: All blog posts
 permalink: /blog/all-posts/
 ---
-<div class="blog-list">
-    <h1>All blog posts</h1>
-
-    <ul class="list-horizontal">
-    {% for post in site.categories['blog'] %}
-      <li>
-	      {% include blog-teaser.html %}    
-      </li>
-    {% endfor %}
-  </ul>
-
-</div>
+<ul class="list-horizontal">
+{% for post in site.categories['blog'] %}
+  <li>
+    {% include blog-teaser.html %}
+  </li>
+{% endfor %}
+</ul>

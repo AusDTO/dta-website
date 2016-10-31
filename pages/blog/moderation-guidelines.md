@@ -1,7 +1,6 @@
 ---
 layout: basic
 title: Blog comment and moderation policy
-breadcrumb: Blog comment and moderation policy
 permalink: /blog/blog-moderation-guidelines/
 ---
 
