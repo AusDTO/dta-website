@@ -2,4 +2,4 @@
 # configuration for production.
 # e.g. bundle exec jekyll serve --config _config.yml,_config.prod.yml
 
-url: "https://www.digital.gov.au" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.dta.gov.au" # the base hostname & protocol for your site, e.g. http://example.com
