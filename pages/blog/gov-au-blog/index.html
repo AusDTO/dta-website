@@ -1,39 +1,15 @@
 ---
-layout: default
-breadcrumb: GOV.AU Blog
+layout: basic
 title: GOV.AU Blog
 permalink: /blog/gov-au/
 ---
-<div class="blog-list row">
-<div class="col-md-9 col-lg-8 main-content" role="main">
-  <h1 class="page-heading">GOV.AU Blog</h1>
+<ul class="list-horizontal">
+  {% for post in site.categories['blog'] %}
+    {% if post.tags contains 'gov.au'  %}
+  <li>
+      {% include blog-teaser.html %}
+  </li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
-  <ul class="post-list">
-      {% for post in site.categories['blog'] %}
-        {% if post.tags contains 'gov.au'  %}
-        <li>
-	      {% include blog-teaser.html %}  
-        </li>
-        {% endif %}
-    {% endfor %}
-  </ul>
-
-</div>
-
-<aside class="col-md-3 col-lg-offset-1 sidebar-right">
-	{% include subscribe.html %}
-	
-	<div class="moderation-policy">
-	  	<h2>Join the conversation</h2> 
-	  	<a href="/blog/blog-moderation-guidelines/">Read our comment moderation guidelines</a>
-	</div>
-	
-</aside>
-</div>
-
-<!-- disqus comment count script -->
-<script id="dsq-count-scr" src="https://ausdto.disqus.com/count.js" async></script>
-
-<!-- mailchimp subscribe init scripts -->
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
-<script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>

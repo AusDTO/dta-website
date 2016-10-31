@@ -1,35 +1,12 @@
 ---
-layout: default
+layout: basic
 title: All blog posts
 permalink: /blog/all-posts/
 ---
-<div class="blog-list">
-    <h1>All blog posts</h1>
-
-    <ul class="list-horizontal">
-    {% for post in site.categories['blog'] %}
-      <li>
-	      {% include blog-teaser.html %}    
-      </li>
-    {% endfor %}
-  </ul>
-
-</div>
-
-<!-- disqus comment count script -->
-<script id="dsq-count-scr" src="https://ausdto.disqus.com/count.js" async></script>
-
-<!-- mailchimp subscribe init scripts -->
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
-<script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-
-<aside class="sidebar">
-    {% include subscribe.html %}
-
-    <div class="moderation-policy">
-        <h2>Join the conversation</h2>
-        <a href="/blog/blog-moderation-guidelines/">Read our comment moderation guidelines</a>
-    </div>
-
-</aside>
-
+<ul class="list-horizontal">
+{% for post in site.categories['blog'] %}
+  <li>
+    {% include blog-teaser.html %}
+  </li>
+{% endfor %}
+</ul>
