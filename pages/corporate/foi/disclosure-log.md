@@ -47,17 +47,17 @@ We may have deleted some parts of the documents, under the exemptions in the FOI
   <tr>
     <td>151</td>
     <td>25/09/2015</td>
-    <td>Information related to the Digital Transformation Agency's use of govCMS. To access this information, please send a request in writing to <a href="mailto:foi@digital.gov.au">foi@digital.gov.au</a>.</td>
+    <td>Information related to the Digital Transformation Office's use of govCMS. To access this information, please send a request in writing to <a href="mailto:foi@digital.gov.au">foi@digital.gov.au</a>.</td>
   </tr>
   <tr>
     <td>152</td>
     <td>10/11/2015</td>
-    <td>Documents relating to communications within the Digital Transformation Agency on the service known as Slack. Partial access granted. For a copy of this information, please send a request in writing to <a href="mailto:foi@digital.gov.au">foi@digital.gov.au</a>.</td>
+    <td>Documents relating to communications within the Digital Transformation Office on the service known as Slack. Partial access granted. For a copy of this information, please send a request in writing to <a href="mailto:foi@digital.gov.au">foi@digital.gov.au</a>.</td>
   </tr>
   <tr>
     <td>153</td>
     <td>20/12/2015</td>
-    <td>A list of the sixteen federal government agencies that have submitted draft Digital Transformation Plans to the Digital Transformation Agency (DTA). To access this information, please send a request in writing to <a href="mailto:foi@digital.gov.au">foi@digital.gov.au</a>.</td>
+    <td>A list of the sixteen federal government agencies that have submitted draft Digital Transformation Plans to the Digital Transformation Office(DTO). To access this information, please send a request in writing to <a href="mailto:foi@digital.gov.au">foi@digital.gov.au</a>.</td>
   </tr>
   <tr>
     <td>154</td>
