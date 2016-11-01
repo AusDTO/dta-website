@@ -7,8 +7,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: "/:categories/:title/"
 
-uikit_base_url: "https://gov-au-ui-kit.apps.staging.digital.gov.au/latest/"
-
 google_tag_manager: GTM-KR7JDF #TODO this is dto.gov.au
 
 # Because there is no way to instantiate an empty array, and we need to merge two filtered
@@ -53,14 +51,12 @@ assets:
   sources:
     - _assets/scss
     - _assets/vendor
-    - _assets/img
-    - _assets/img/staff
     - images/blog-content
     - images/blog-thumbnails
+    - images/leadership-group
+
   cache: .asset-cache
   prefix: "/cdn"
-  digest: true
-
 
 defaults:
   -
