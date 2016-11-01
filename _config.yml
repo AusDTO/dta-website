@@ -54,13 +54,12 @@ assets:
     - _assets/scss
     - _assets/vendor
     - _assets/img
-    - _assets/img/staff
     - images/blog-content
     - images/blog-thumbnails
+    - images/leadership-group
+
   cache: .asset-cache
   prefix: "/cdn"
-  digest: true
-
 
 defaults:
   -
