@@ -56,7 +56,7 @@ assets:
     - images/leadership-group
 
   cache: .asset-cache
-  prefix: "/cdn"
+  prefix: "/"
 
 defaults:
   -
