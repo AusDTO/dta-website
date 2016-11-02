@@ -1,8 +1,8 @@
 ---
 layout: basic
 title: Trusted Digital Identity Framework
-permalink: /budget/trusted-digital-identity-framework/
-breadcrumb: Trusted Digital Identity Framework
+permalink: /what-we-do/budget/trusted-digital-identity-framework/
+redirect_from: /budget/trusted-digital-identity-framework/
 localnav: budget
 lede: The Digital Transformation Agency (DTA) will work across government and with the private sector to develop a Trusted Digital Identity Framework (the Framework) to support the Government’s Digital Transformation Agenda.
 ---
