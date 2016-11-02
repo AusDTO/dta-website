@@ -1,7 +1,7 @@
 ---
 title: The Hon Angus Taylor MP
 position: Assistant Minister for Cities and Digital Transformation
-image: images/angus-taylor.jpg
+image: angus-taylor
 ---
 
 [Read more about Angus Taylor](http://ministers.dpmc.gov.au/taylor)

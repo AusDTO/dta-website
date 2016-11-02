@@ -4,12 +4,12 @@ title: Event - A Practical Approach to Accessibility in Service Design
 author: Jo Hill
 category: blog
 tag: dto-news
-hero-image: /images/blog-content/accessibility-in-service-design-blog.jpg
-thumbnail: /images/blog-thumbnails/accessibility-in-service-design-thumbnail.jpg
+hero-image: accessibility-in-service-design-blog
+thumbnail: accessibility-in-service-design-thumbnail
 searchexcerpt:  
 ---
 
-![Jo presenting in front of a crowd at the DTO]({{site.url}}{{page.hero-image}})
+![Jo presenting in front of a crowd at the DTO]({{site.url}}{{page.hero-image | asset_path }})
 
 *Caption: Jo Hill presenting research findings.*
 

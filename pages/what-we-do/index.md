@@ -23,6 +23,9 @@ The Digital Transformation Agency has a whole-of-government remit and our respon
     <a href="/what-we-do/budget/">Budget initiatives</a>
   </li>
   <li>
+    <a href="/what-we-do/communities/">Communities</a>
+  </li>
+  <li>
     <a href="/what-we-do/exemplars/">Exemplars</a>
   </li>
   <li>

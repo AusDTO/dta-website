@@ -4,12 +4,12 @@ title: DTO launches a new standard of reporting
 author: Mariam Ibraheim
 category: blog
 tag: dto-news
-hero-image: /images/blog-content/new-standard-of-reporting-content.png
-thumbnail: /images/blog-thumbnails/new-standard-of-reporting-thumb.jpg
+hero-image: new-standard-of-reporting-content
+thumbnail: new-standard-of-reporting-thumb
 searchexcerpt: "It is well known that the DTO is in partnership with government departments to challenge and where necessary, change the the way we report on government services. To do that, we’ve launched a new Performance Dashboard to make it even easier to find out how government services are performing explains Mariam Ibraheim."
 ---
 
-![Performance dashboard displayed on different devices]({{site.url}}{{page.hero-image}})
+![Performance dashboard displayed on different devices]({{site.url}}{{page.hero-image | asset_path}})
 
 *Caption: The performance dashboard displayed on different devices*
 

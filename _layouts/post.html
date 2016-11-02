@@ -1,41 +1,41 @@
 ---
-layout: default
+layout: base
 breadcrumb_type: post
 ---
+<article  id="content" class="content-main">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">
+      {{ page.author }} &mdash; {{ page.date | date: "%b %-d, %Y" }}
+    </p>
+  </header>
 
-<header class="post-header">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <p class="post-meta">
-    {{ page.author }} &mdash; {{ page.date | date: "%b %-d, %Y" }}
-  </p>
-</header>
+  <div class="abstract">
+    {{ page.searchexcerpt | markdownify }}
+  </div>
 
-<div class="abstract">
-  {{ page.searchexcerpt | markdownify }}
-</div>
+  <section class="post-body">
+    {{ content }}
+  </section>
 
-<section class="post-body">
-	{{ content }}
-</section>
+  {% include blog-author-excerpt.html %}
 
-{% include blog-author-excerpt.html %}
+  {% include social-links.html %}
 
-{% include social-links.html %}
+  <section class="post-moderation-policy">
+    <h2>Want to join the conversation?</h2>
+    <a href="/blog/blog-moderation-guidelines/">Read our comment moderation guidelines</a>
+  </section>
 
-<section class="moderation-policy">
-  <h2>Want to join the conversation?</h2>
-  <a href="/blog/blog-moderation-guidelines/">Read our comment moderation guidelines</a>
-</section>
+  <section id="disqus_thread">
+    {% javascript disqus-init %}
+    <noscript>Please enable JavaScript to view the comments</noscript>
+  </section>
+</article>
 
-<section id="disqus_thread">
-  {% javascript disqus-init %}
-  <noscript>Please enable JavaScript to view the comments</noscript>
-</section>
-
-<aside class="">
+<aside class="sidebar blog-aside">
   {% include subscribe.html %}
+  <!-- mailchimp subscribe init scripts -->
+  <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+  <script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 </aside>
-
-<!-- mailchimp subscribe init scripts -->
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
-<script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>

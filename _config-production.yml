@@ -1,0 +1,5 @@
+# This prod config file should be chained with _config.yml to overwrite the
+# configuration for production.
+# e.g. bundle exec jekyll serve --config _config.yml,_config-production.yml
+
+url: "https://www.dta.gov.au" # the base hostname & protocol for your site, e.g. http://example.com

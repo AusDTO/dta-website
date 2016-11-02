@@ -1,7 +1,6 @@
 ---
 layout: basic
 title: Blog comment and moderation policy
-breadcrumb: Blog comment and moderation policy
 permalink: /blog/blog-moderation-guidelines/
 ---
 
@@ -36,7 +35,7 @@ We will alert the team responsible for fixing the issue and let you know this ha
 
 ### Is the comment on topic, helpful and constructive?
 
-If your comment doesn't fit the topic of the blogpost, don't post it, you should instead [contact the Digital Transformation Office team](/contact/) who will help you with your query.
+If your comment doesn't fit the topic of the blog post, don't post it, you should instead [contact the Digital Transformation Agency team](/contact/) who will help you with your query.
 
 ### If your comment doesn't meet the guidelines
 Any comments that don’t meet these guidelines may not be published.

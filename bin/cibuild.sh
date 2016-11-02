@@ -12,18 +12,18 @@ set -x
 main() {
   readonly GITBRANCH="${CIRCLE_BRANCH}"
 
-
   case "${GITBRANCH}" in
     master)
       echo "Building with production jekyll config"
-      bundle exec jekyll build --config _config.prod.yml
+      JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config-production.yml
       ;;
     develop)
-      echo "Building with development jekyll config"
-      bundle exec jekyll build
+      echo "Building with development/staging jekyll config"
+      JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config-develop.yml
       ;;
     *)
-      echo "Not building site"
+      echo "Building with normal jekyll config"
+      bundle exec jekyll build
       exit 0
       ;;
   esac

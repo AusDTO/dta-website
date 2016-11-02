@@ -8,51 +8,66 @@ permalink: /blog/
 
 <article  id="content" class="content-main">
 
-    <h1>Blog</h1>
-    <h2>Latest blog posts</h2>
+  <h1>Blog</h1>
+  <h2>Latest blog posts</h2>
 
-    <ul class="list-horizontal">
-        {% for post in site.categories['blog'] limit:5 %}
-        {% if post.tags contains 'dto-news' %}
-        <li>
-            {% include blog-teaser.html %}
-        </li>
+  <ul class="list-vertical no-border">
+
+    {% for post in site.categories['blog'] limit:4 %}
+    <li>
+      <figure>
+        {% if post.thumbnail %}
+        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ post.thumbnail | asset_path }}" alt="Open"></a>
+        {% else %}
+        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{% asset_path blog-thumbnail-placeholder %}" alt="Open"></a>
         {% endif %}
-        {% endfor %}
-    </ul>
+      </figure>
+      <article>
+        <h3>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+        <div class="meta">
+          <time datetime="{{ post.date }}">{{ post.date | date: "%-d %b %Y" }}</time>
+          {{ post.author }}
+        </div>
+      </article>
+    </li>
+    {% endfor %}
+  </ul>
 
-    <div>
-        <a class="see-more" href="/blog/all-posts/">See more</a>
-    </div>
+  <a class="see-more" href="/blog/all-posts/">See all blog posts</a>
 
-    <h2>DTO Blogs</h2>
-    <ul class="list-small">
-      <li>
-        <a href="/blog/gov-au/">GOV.AU blog</a>
-        <p>Read the latest news about the development of the GOV.AU project.</p>
-      </li>
-      <li>
-        <a href="/blog/dto-news/">DTO News</a>
-        <p>Keep up-to-date with the latest news from the Digital Transformation Office.</p>
-      </li>
-    </ul>
+  <h2>DTA Blogs</h2>
+  <ul class="list-small">
+    <li>
+      <a href="/blog/gov-au/">GOV.AU blog</a>
+      <p>Read the latest news about the development of the GOV.AU project.</p>
+    </li>
+    <li>
+      <a href="/blog/dta-news/">DTA News</a>
+      <p>Keep up-to-date with the latest news from the Digital Transformation Agency.</p>
+    </li>
+    <li>
+      <a href="/blog/dto-news/">DTO News</a>
+      <p>Keep up-to-date with the latest news from the Digital Transformation Office.</p>
+    </li>
+  </ul>
+
 </article>
 
 <!-- disqus comment count script -->
 <script id="dsq-count-scr" src="https://ausdto.disqus.com/count.js" async></script>
 
-<!-- mailchimp subscribe init scripts -->
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
-<script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<aside class="sidebar blog-aside">
+  {% include subscribe.html %}
+
+  <!-- mailchimp subscribe init scripts -->
+  <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+  <script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 
 
-<aside class="sidebar">
-    {% include subscribe.html %}
-
-    <div class="moderation-policy">
-        <h2>Join the conversation</h2>
-        <a href="/blog/blog-moderation-guidelines/">Read our comment moderation guidelines</a>
-    </div>
-
+  <div class="moderation-policy">
+    <h2>Join the conversation</h2>
+    <a href="/blog/blog-moderation-guidelines/">Read our comment moderation guidelines</a>
+  </div>
 </aside>
-

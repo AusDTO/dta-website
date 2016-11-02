@@ -1,0 +1,58 @@
+// Custom styling for the blog page.
+//
+// Arguably some of these styles should not be necessary if UI-Kit targeted
+// these elements differently.
+
+.post-header {
+  h1,
+  p,
+  img {
+    max-width: none !important;
+  }
+}
+
+.post-body {
+  margin-bottom: $base-spacing;
+  padding-bottom: $base-spacing;
+  border-bottom: 1px dotted $border-colour;
+}
+
+.post-author-bio {
+  margin-bottom: $base-spacing;
+  padding-top: $small-spacing;
+  padding-bottom: $base-spacing * 2;
+  border-bottom: 1px solid $border-colour;
+
+  img {
+    float: left;
+    height: 64px;
+    width: 64px;
+    border-radius: 32px;
+    margin-right: $medium-spacing;
+    margin-bottom: $base-spacing;
+  }
+
+  p {
+    max-width: none !important;
+  }
+}
+
+.post-moderation-policy {
+  margin-bottom: $base-spacing;
+}
+
+.blog-aside {
+  #mc_embed_signup {
+    @include button-colours($button-bg-colour, $button-bg-colour--hover, $button-bg-colour--active, $button-text-colour);
+
+    margin-bottom: $base-spacing;
+
+    .email {
+      margin-bottom: $small-spacing;
+    }
+  }
+
+  a {
+    @include link-colours($non-black, $light-aqua, $non-black);
+  }
+}

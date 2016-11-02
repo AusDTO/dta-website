@@ -46,7 +46,7 @@
 
 //VARS
 //=================
-$site-search-border:                          solid 1px; //none;
+$site-search-border:                          solid 2px $border-colour; //none;
 $site-search-font-colour:                     $navy;
 $site-search-label-colour:                    $non-white; //Only seen with no JS
 $site-search-background-colour:               $non-white;

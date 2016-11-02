@@ -29,7 +29,7 @@ Our work with the Department of Immigration and Border Protection on the citizen
 
 Booking or rescheduling an appointment for a citizenship test can be time-consuming and inconvenient for both users and the Department. Citizenship Test appointments and identity verification require attendance in person and are currently scheduled by the Department. Both the Department and clients would gain time and administrative savings if clients were able to independently book or reschedule suitable appointment times online.
 
-The team did user research to understand the experiences people have on the journey to become an Australian citizen. We identified several pain points in the process and focused on improving the most prominent issue identified - the rescheduling of appointments. We developed our Alpha prototype based on what we learnt and [we recently got the green light on our first assessment](/blog/the-first-alpha-passes-its-service-assessment/) against the [Digital Service Standard](/for-digital-service-teams/standard/) to progress to Beta.
+The team did user research to understand the experiences people have on the journey to become an Australian citizen. We identified several pain points in the process and focused on improving the most prominent issue identified - the rescheduling of appointments. We developed our Alpha prototype based on what we learnt and [we recently got the green light on our first assessment](/blog/the-first-alpha-passes-its-service-assessment/) against the [Digital Service Standard](/standard/) to progress to Beta.
 
 We are also working with the Department of Immigration and Border Protection to simplify import processes. This project is now in its Alpha stage with the Beta expected to be available to the public in April 2016.
 
@@ -83,6 +83,6 @@ Each Hub brings together service delivery staff from agencies, DTO teams and dig
 
 We’ve also appointed a Digital Transformation Advisor to support and lead each team, to make sure we stay on track and relentlessly focus on delivery.
 
-[Together, we’re using a method](/for-digital-service-teams/standard/service-design-and-delivery-process/) that agencies will be able to share, repeat and scale-up within their own organisations. The Hubs are key to creating an environment that supports rapid iteration and acceleration of the pace of transformation. They create a supportive learning environment for staff and allow the DTO to demonstrate by doing, helping to build service delivery capability across the public service. 
+[Together, we’re using a method](/standard/service-design-and-delivery-process/) that agencies will be able to share, repeat and scale-up within their own organisations. The Hubs are key to creating an environment that supports rapid iteration and acceleration of the pace of transformation. They create a supportive learning environment for staff and allow the DTO to demonstrate by doing, helping to build service delivery capability across the public service. 
 
 ‘Showing the thing’ is part of our weekly ritual, and our teams hold weekly showcases to share their learnings. Our most recent showcase attracted more than 50 attendees from across the Australian and ACT public service! We’re looking forward to keeping you up-to-date with our progress as we move along, so stay tuned.

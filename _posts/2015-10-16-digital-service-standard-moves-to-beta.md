@@ -7,13 +7,13 @@ profile: "/images/jacqui-van-teulingen-profile.png"
 read-time: 3
 category: blog
 ---
-Yesterday, the [Digital Service Standard](/for-digital-service-teams/standard/) moved to beta.
+Yesterday, the [Digital Service Standard](/standard/) moved to beta.
 
 We [launched the alpha Digital Service Standard](/blog/release-of-the-alpha-digital-service-standard/) in April and have been [listening to your feedback](/blog/updates-to-the-scope-of-the-digital-service-standard/).
 
 We’ve worked to make the Standard easier to understand. Our updates include:
 
-- a new [service design and delivery process](/for-digital-service-teams/standard/service-design-and-delivery-process/) to help guide the development of services
+- a new [service design and delivery process](/standard/service-design-and-delivery-process/) to help guide the development of services
 - articulation of user, service and government context
 - the requirement to measure and report metrics appropriate to the service as well as those already established as the key performance indicators
 - using responsive design so services can be accessed on the devices that users need
