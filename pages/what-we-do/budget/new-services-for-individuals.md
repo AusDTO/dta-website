@@ -1,8 +1,8 @@
 ---
 layout: basic
 title: New services for individuals
-permalink: /budget/new-services-for-individuals/
-breadcrumb: New services for individuals
+permalink: /what-we-do/budget/new-services-for-individuals/
+redirect_from: /budget/new-services-for-individuals/
 localnav: budget
 lede: The Government is committed to continuing to improve and expand the myGov service.
 ---
