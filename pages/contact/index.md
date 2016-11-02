@@ -42,7 +42,7 @@ Our offices are at:
 
 If you're a business interested in the Digital Marketplace, you can [get in contact using our form]({{ site.baseurl }}/contact/marketplace/).
 
-For other questions regarding the Digital Marketplace, please send an email to [digitalmarketplace@digital.gov.au](mailto:digitalmarketplace@digital.gov.au)
+For other questions regarding the Digital Marketplace, please send an email to [marketplace@digital.gov.au](mailto:marketplace@digital.gov.au)
 
 
 ### Events and media
