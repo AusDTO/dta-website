@@ -5,8 +5,9 @@ permalink: /what-we-do/marketplace/
 redirect_from: /our-work/marketplace/
 localnav: what-we-do
 ---
-
-We're transforming how government buys digital services, and making it easier for businesses to work with us - take a look at our [Digital Marketplace beta](https://www.gov.au/marketplace).
+<div class="lede">
+    We're transforming how government buys digital services, and making it easier for businesses to work with us - take a look at our [Digital Marketplace beta](https://www.gov.au/marketplace).
+</div>
 
 One of our key missions is removing barriers to make it easier for businesses of all sizes to access government ICT contracts and supporting government to become better digital and technology buyers, in particular through the digital marketplace.
 
