@@ -2,6 +2,7 @@
 layout: basic
 title: "What we do"
 permalink: /what-we-do/
+localnav: what-we-do
 ---
 
 The Digital Transformation Agency has a whole-of-government remit and our responsibilities include:   
@@ -15,30 +16,4 @@ The Digital Transformation Agency has a whole-of-government remit and our respon
 - managing a whole-of-government ICT program management office which will oversee all significant ICT and digital investments; and
 
 - providing advice to the Minister on whole-of-government and shared ICT digital service delivery proposals.
-
-
-<ul class="list-small">
-
-  <li>
-    <a href="/what-we-do/budget/">Budget initiatives</a>
-  </li>
-  <li>
-    <a href="/what-we-do/communities/">Communities</a>
-  </li>
-  <li>
-    <a href="/what-we-do/exemplars/">Exemplars</a>
-  </li>
-  <li>
-    <a href="/what-we-do/marketplace/">Marketplace</a>
-  </li>
-  <li>
-    <a href="/what-we-do/platforms/">Platforms</a>
-  </li>
-  <li>
-    <a href="/what-we-do/policy/">Policy</a>
-  </li>  
-
-</ul>
-
-
 

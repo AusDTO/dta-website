@@ -1,13 +1,11 @@
 ---
 layout: basic
 title: "Policy"
+lede: "We provide strategic and policy leadership on whole-of-government and shared information and communications technology and digital service delivery, including ICT procurement policy"
 permalink: /what-we-do/policy/
-redirect_from: "/our-work/standard/"
+redirect_from: /our-work/standard/
+localnav: what-we-do
 ---
-<p class="lede">
-We provide strategic and policy leadership on whole-of-government and shared information and communications technology and digital service delivery, including ICT procurement policy
-</p>
-
 
 ## Digital Service Standard
 

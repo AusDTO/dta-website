@@ -3,6 +3,7 @@ layout: basic
 title: "Digital Marketplace"
 permalink: /what-we-do/marketplace/
 redirect_from: /our-work/marketplace/
+localnav: what-we-do
 ---
 
 We're transforming how government buys digital services, and making it easier for businesses to work with us - take a look at our [Digital Marketplace beta](https://www.gov.au/marketplace).
