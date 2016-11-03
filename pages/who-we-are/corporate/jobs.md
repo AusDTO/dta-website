@@ -1,9 +1,10 @@
 ---
 layout: basic
 title: Jobs
-permalink: /jobs/
+permalink: /who-we-are/corporate/jobs/
 redirect_from:
   - /careers/
+  - /jobs/
 searchexcerpt: We are always on the lookout for talented developers, user researchers, digital leaders and designers.
 ---
 We’re making Australian Government services simpler, clearer and faster. Making life a little easier for a huge number of Australians, every day.

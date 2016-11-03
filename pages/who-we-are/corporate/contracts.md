@@ -1,7 +1,8 @@
 ---
 layout: basic
 title: List of contracts
-permalink: /contracts/
+permalink: /who-we-are/corporate/contracts/
+redirect_from: /contracts/
 lede: Senate Order for Department and Agency lists of contracts.
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: basic
 title: Information Publications Scheme (IPS) Agency Plan
-permalink: /freedom-of-information/information-publications-scheme-agency-plan/ 
+permalink: /who-we-are/corporate/freedom-of-information/information-publications-scheme-agency-plan/
+redirect_from: /freedom-of-information/information-publications-scheme-agency-plan/
 breadcrumb: Information Publications Scheme Agency Plan
 ---
 ## Introduction
