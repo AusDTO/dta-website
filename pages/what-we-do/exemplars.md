@@ -4,6 +4,7 @@ title: "Exemplars"
 lede: "We're working with government agencies to help transform services."
 permalink: /what-we-do/exemplars/
 redirect_from: /our-work/transformation/
+localnav: what-we-do
 ---
 
 {% include project-counter.html %}
@@ -24,5 +25,6 @@ redirect_from: /our-work/transformation/
   </ul>
 
 ## Links
+
 - [Contact the programme team]({{ site.baseurl }}/contact)
 

@@ -4,6 +4,7 @@ title: "cloud.gov.au"
 lede: "We're creating a new platform to make delivering and operating digital services easier."
 permalink: /what-we-do/platforms/cloud/
 redirect_from: /our-work/cloud/
+localnav: what-we-do
 ---
 
 cloud.gov.au is a faster, safer, standard way to change web apps without impacting users. It makes it easier for government to release, monitor and grow user-facing digital services, freeing up teams to focus on writing code that meets user needs.

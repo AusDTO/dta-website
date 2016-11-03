@@ -2,9 +2,8 @@
 layout: basic
 title: "Platforms"
 permalink: /what-we-do/platforms/
+localnav: what-we-do
 ---
-
-Content todo
 
 <ul class="list-small">
 
