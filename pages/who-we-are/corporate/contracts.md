@@ -1,11 +1,9 @@
 ---
 layout: basic
 title: List of contracts
-permalink: /corporate/contracts/
+permalink: /who-we-are/corporate/contracts/
 redirect_from: /contracts/
-breadcrumb: List of contracts
 lede: Senate Order for Department and Agency lists of contracts.
-localnav: corporate
 ---
 
 This is a list of contracts entered into by the Digital Transformation Agency, with a consideration to the value of $100,000 or more, that have:

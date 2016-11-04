@@ -1,11 +1,9 @@
 ---
 layout: basic
 title: Freedom of Information (FOI)
-permalink: /corporate/foi/
-redirect_from:
-  - /freedom-of-information/
+permalink: /who-we-are/corporate/freedom-of-information/
+redirect_from: /freedom-of-information/
 breadcrumb: Freedom of Information
-localnav: corporate
 ---
 <div class="lede">Under the <em>Freedom of Information Act 1982</em>, anyone can seek access to documents held by the Digital Transformation Agency (DTA).</div>
 
@@ -32,12 +30,12 @@ You can find more information about FOI on the website for the [Office of the Au
 
 Under [section 8 of the *Freedom of Information Act 1982*](https://www.legislation.gov.au/Details/C2016C00745/Html/Text#_Toc455577354), we must publish certain information on our website. This is called the Information Publication Scheme. We have sorted the information into categories that other government departments use, for consistency and ease of access.
 
-* [Information Publication Scheme Agency Plan](/corporate/foi/information-publications-scheme-agency-plan/)
+* [Information Publication Scheme Agency Plan](/who-we-are/corporate/freedom-of-information/information-publications-scheme-agency-plan/)
 * [Who we are](/who-we-are/)
   * [Enterprise Agreement (PDF, 36 pages, 13.3MB)](/files/dto-enterprise-agreement-signed.pdf)
 * [What we do](/what-we-do/)
   * [Functions of the DTO (PDF, 1 page, 537kb)](/files/dto-order-establishing.pdf)
-* [Our reports to Parliament](/corporate/foi/our-reports-to-parliament/)
-  * [List of contracts](/corporate/contracts/)
-* [Disclosure log](/corporate/foi/disclosure-log/)
-* [Have your say](/corporate/foi/have-your-say/)
+* [Our reports to Parliament](/who-we-are/corporate/freedom-of-information/our-reports-to-parliament/)
+  * [List of contracts](/contracts/)
+* [Disclosure log](/who-we-are/corporate/freedom-of-information/disclosure-log/)
+* [Have your say](/who-we-are/corporate/freedom-of-information/have-your-say/)

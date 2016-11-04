@@ -1,11 +1,10 @@
 ---
 layout: basic
 title: FOI Disclosure log
-permalink: /corporate/foi/disclosure-log/
+permalink: /who-we-are/corporate/freedom-of-information/disclosure-log/
 redirect_from:
   - /freedom-of-information/disclosure-log/
 breadcrumb: Disclosure log
-localnav: corporate
 ---
 We publish a disclosure log on our website to meet the requirements of the *Freedom of Information Act 1982*. Our disclosure log lists information that we have given out in response to an FOI request.
 

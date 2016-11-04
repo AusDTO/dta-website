@@ -3,5 +3,12 @@
   children:
     - title: "Leadership"
       url: "/who-we-are/leadership/"
-    - title: "Organisation structure"
-      url: "/who-we-are/structure/"
+    - title: "Corporate information"
+      url: "/who-we-are/corporate/"
+      grandchildren:
+        - title: "Freedom of information"
+          url: "/who-we-are/corporate/freedom-of-information/"
+        - title: "Jobs"
+          url: "/who-we-are/corporate/jobs/"
+        - title: "List of contracts"
+          url: "/who-we-are/corporate/contracts/"

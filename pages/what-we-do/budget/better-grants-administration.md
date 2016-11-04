@@ -1,8 +1,8 @@
 ---
 layout: basic
 title: Better grants administration
-permalink: /budget/better-grants-administration/
-breadcrumb: Better grants administration
+permalink: /what-we-do/budget/better-grants-administration/
+redirect_from: /budget/better-grants-administration/
 localnav: budget
 lede: The 2015-16 Budget provides funding of $106.7m over four years to establish a simpler and more efficient whole-of-government grants administration process.
 ---

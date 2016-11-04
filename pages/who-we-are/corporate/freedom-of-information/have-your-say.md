@@ -1,11 +1,8 @@
 ---
 layout: basic
 title: Have your say
-permalink: /corporate/foi/have-your-say/
-redirect_from:
-  - /freedom-of-information/have-your-say/
-breadcrumb: Have your say
-localnav: corporate
+permalink: /who-we-are/corporate/freedom-of-information/have-your-say/
+redirect_from: /freedom-of-information/have-your-say/
 ---
 When we hold formal consultations to inform our work, you'll be able to find out all about them here.
 

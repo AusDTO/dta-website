@@ -1,13 +1,11 @@
 ---
 layout: basic
 title: "Policy"
+lede: "We provide strategic and policy leadership on whole-of-government and shared information and communications technology and digital service delivery, including ICT procurement policy"
 permalink: /what-we-do/policy/
-redirect_from: "/our-work/standard/"
+redirect_from: /our-work/standard/
+localnav: what-we-do
 ---
-
-Content todo 
-
-NOTE the DSS below has been copied from dto.gov.au/our-work/standard/
 
 ## Digital Service Standard
 
@@ -28,7 +26,7 @@ The Standard applies to <a href="{{ site.baseurl }}/standard/scope-of-standard/"
 There are <a href="{{ site.baseurl }}/standard/meeting-standard/">assessments</a> at the Alpha, Beta and Live stages.
 </p>
 
-## Links
+### Links
 
 <ul class="list-small">
     <li>

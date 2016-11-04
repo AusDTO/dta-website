@@ -2,14 +2,13 @@
 layout: basic
 title: "Platforms"
 permalink: /what-we-do/platforms/
+localnav: what-we-do
 ---
-
-Content todo
 
 <ul class="list-small">
 
   <li>
-    <a href="/what-we-do/platforms/cloud/">Cloud</a>
+    <a href="/what-we-do/platforms/cloud/">cloud.gov.au</a>
   </li>
   <li>
     <a href="/what-we-do/platforms/govau/">GOV.AU</a>

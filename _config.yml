@@ -31,6 +31,7 @@ markdown: kramdown
 gems:
   - jekyll-assets
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 exclude:
   - .asset-cache
@@ -68,7 +69,7 @@ defaults:
 # Config for htt://prose.io editor.
 prose:
   rooturl: ''
-  siteurl: 'https://***REMOVED***:***REMOVED***@dta.apps.staging.digital.gov.au/'
+  siteurl: 'https://dta.apps.staging.digital.gov.au/'
   media: 'images/blog-content'
   ignore:
     - _config.yml
@@ -119,6 +120,18 @@ prose:
               value: "[news, dto-news]"
             - name: "Media release"
               value: "[news, media-release]"
+      - name: "tag"
+        field:
+          element: "select"
+          label: "Tag"
+          placeholder: "Select Tag"
+          options:
+            - name: "GOV.AU"
+              value: "govau"
+            - name: "Marketplace"
+              value: "Marketplace"
+            - name: "DTA News"
+              value: "dta-news"
       - name: "author"
         field:
           element: "select"

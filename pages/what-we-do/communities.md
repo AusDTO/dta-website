@@ -4,6 +4,7 @@ title: "Digital communities of practice"
 lede: "We're creating communities of digital practitioners across government, and sharing our best practice together."
 permalink: /what-we-do/communities/
 redirect_from: /our-work/communities/
+localnav: what-we-do
 ---
 
 <a href="http://ausdto.github.io/service-handbook/" class="big-button">Read the Service Handbook</a>

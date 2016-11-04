@@ -3,7 +3,8 @@ layout: basic
 title: "GOV.AU"
 lede: "We're making it simpler, clearer and faster for people to access government services and information."
 permalink: /what-we-do/platforms/govau/
-redirect_from: "/our-work/gov-au/"
+redirect_from: /our-work/gov-au/
+localnav: what-we-do
 ---
 
 <a href="https://www.gov.au/alpha" class="big-button">See the prototype</a>

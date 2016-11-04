@@ -1,24 +1,24 @@
 ---
 layout: basic
-title: DTA News
-permalink: /news/dta-news/
-searchexcerpt: News from the Digital Transformation Agency.
+title: All news
+permalink: /news/all/
+searchexcerpt: All the news from the Digital Transformation Agency.
 ---
 <ul class="list-horizontal">
     {% assign news = site.empty-array %}
     {% for post in site.posts %}
         {% if post.categories contains 'blog' %}
-            {% if post.tags contains 'dto-news' or post.tags contains 'dta-news' %}
+            {% if post.tags contains 'dta-news' %}
                 {% assign news = news | push: post %}
             {% endif %}
-        {% elsif post.categories contains 'news' and post.categories contains 'dta-news' %}
+        {% elsif post.categories contains 'news' %}
             {% assign news = news | push: post %}
         {% endif %}
     {% endfor %}
 
     {% for post in news %}
     <li>
-        {% include blog-teaser.html %}
+        {% include post-list-item.html %}
     </li>
     {% endfor %}
 </ul>

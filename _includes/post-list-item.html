@@ -1,0 +1,29 @@
+
+{% assign url = post.url %}
+{% if post.external-url %}
+{% assign url = post.external-url%}
+{% endif %}
+
+<figure>
+
+{% if post.thumbnail %}
+  <a href="{{ url }}">
+    <img src="{{ post.thumbnail | asset_path }}" alt="Open" />
+  </a>
+{% endif %}
+</figure>
+<article>
+  <h3>
+    <a href="{{ url }}">{{ post.title }}</a>
+  </h3>
+  <div class="meta">
+    <time datetime="{{ post.date }}">{{ post.date | date: "%-d %b %Y" }}</time>
+    <span>{{ post.author }}</span>
+  </div>
+
+{% if post.searchexcerpt %}
+  <p>{{ post.searchexcerpt }}</p>
+{% else %}
+  <p>{{ post.content | strip_html | truncatewords:50}}</p>
+{% endif %}
+</article>
