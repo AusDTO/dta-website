@@ -25,6 +25,7 @@ main() {
 
   case "${GITBRANCH}" in
     master)
+      basicauth
       cf api $CF_PROD_API
       cf auth $CF_USER $CF_PASSWORD
       cf target -o $CF_ORG
