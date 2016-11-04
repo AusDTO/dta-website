@@ -1,13 +1,20 @@
+
+{% assign url = post.url %}
+{% if post.external-url %}
+{% assign url = post.external-url%}
+{% endif %}
+
 <figure>
+
 {% if post.thumbnail %}
-  <a href="{{post.url}}">
+  <a href="{{ url }}">
     <img src="{{ post.thumbnail | asset_path }}" alt="Open" />
   </a>
 {% endif %}
 </figure>
 <article>
   <h3>
-    <a href="{{ post.url }}">{{ post.title }}</a>
+    <a href="{{ url }}">{{ post.title }}</a>
   </h3>
   <div class="meta">
     <time datetime="{{ post.date }}">{{ post.date | date: "%-d %b %Y" }}</time>
