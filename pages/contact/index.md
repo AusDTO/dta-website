@@ -47,7 +47,7 @@ For other questions regarding the Digital Marketplace, please send an email to [
 
 ### Events and media
 
-If you'd like someone from DTA to speak at an event, please complete our [speaking request form](https://script.google.com/a/macros/digital.gov.au/s/AKfycbyERn4wgFLo208la7GaYBWNGZn8qz1_LXbHXwVZrsFtUmdqGFQ/exec?form=events).
+If you'd like someone from DTA to speak at an event, please send an email to [events@digital.gov.au](mailto:events@digital.gov.au).
 
 If you are a journalist and have a media enquiry, please send an email to [media@digital.gov.au](mailto:media@digital.gov.au).
 
