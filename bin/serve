@@ -1,17 +1,5 @@
-#!/usr/bin/env bash
+if [ -n $FAST_BUILDS ]; then
+  export FAST_BUILDS=true;
+fi
 
-# Exit immediately if there is an error
-set -e
-
-export FAST_BUILDS=true;
-
-# echo out each line of the shell as it executes
-set -x
-
-bundle check || bundle install
-
-bundle exec jekyll clean
-
-bundle exec jekyll doctor
-
-bundle exec jekyll serve --watch --incremental --limit_posts 1
+bundle exec jekyll serve --watch --limit_posts 1
