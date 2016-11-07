@@ -16,20 +16,20 @@ If you’re from a government agency and the topic you’re interested in isn’
 </p>
 
 
-### Where we're located
+## Where we're located
 
 Our offices are at:
 
 <ul class="address-grid">
   <li>
-    <h4>Canberra</h4>
+    <h3>Canberra</h3>
 
     50 Marcus Clarke Street<br/>
     Canberra<br/>
     ACT 2601
   </li>
   <li>
-    <h4>Sydney</h4>
+    <h3>Sydney</h3>
 
     241 Commonwealth Street<br/>
     Surry Hills<br/>
@@ -38,36 +38,36 @@ Our offices are at:
 </ul>
 
 
-### Digital Marketplace
+## Digital Marketplace
 
 If you're a business interested in the Digital Marketplace, you can [get in contact using our form]({{ site.baseurl }}/contact/marketplace/).
 
 For other questions regarding the Digital Marketplace, please send an email to [marketplace@digital.gov.au](mailto:marketplace@digital.gov.au)
 
 
-### Events and media
+## Events and media
 
 If you'd like someone from DTA to speak at an event, please send an email to [events@digital.gov.au](mailto:events@digital.gov.au).
 
 If you are a journalist and have a media enquiry, please send an email to [media@digital.gov.au](mailto:media@digital.gov.au).
 
 
-### Digital Service Standard
+## Digital Service Standard
 
 For enquiries about the Digital Service Standard and service assessments, please send an email to [standard@digital.gov.au](mailto:standard@digital.gov.au).
 
 
-### Policy and governance
+## Policy and governance
 
 For any other policy and governance enquiries, please send an email to [policy@digital.gov.au](mailto:policy@digital.gov.au).
 
 
-### Identity
+## Identity
 
 For enquiries about the Identity programme, please send an email to [identity@digital.gov.au](mailto:identity@digital.gov.au).
 
 
-### Our mailing address
+## Our mailing address
 
 Digital Transformation Agency<br/>
 PO Box 457<br/>
