@@ -8,7 +8,7 @@
 
 {% if post.thumbnail %}
   <a href="{{ url }}">
-    <img src="{{ post.thumbnail | asset_path }}" alt="Open" />
+    <img src="{{ post.thumbnail | asset_path }}" alt="{{ post.title }}" />
   </a>
 {% endif %}
 </figure>
