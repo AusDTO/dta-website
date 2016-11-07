@@ -29,7 +29,8 @@
           <li><a href="/privacy-statement/">Privacy</a></li>
           <li><a href="/disclaimer/">Disclaimer</a></li>
         </ul>
-        
+        {% assign current = page.url | downcase | split: '/' %}
+
         {% if current[1] == 'blog' %}
         {% else %}
         <div id="mc_embed_signup" class="blog-subscribe">
