@@ -1,14 +1,14 @@
-# GOV.AU UI-Kit
+# Getting started
 
 ![CircleCI build status](https://circleci.com/gh/AusDTO/gov-au-ui-kit.svg?style=shield) ![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg) ![Current Release](https://img.shields.io/github/release/AusDTO/gov-au-ui-kit.svg?maxAge=2592000)
 
 ## What is this?
 
-UI Kit is 3 things:
+UI-Kit is 2 things:
 
 1. a draft design guide to build an accessible standardised look and feel for GOV.AU projects: [gov-au-ui-kit.apps.staging.digital.gov.au](http://gov-au-ui-kit.apps.staging.digital.gov.au/)
-2. common-use [HTML templates](/examples)
-3. a lean and frugal CSS & JS framework (found in `assets/`) that you can
+ common-use [HTML templates](/examples)
+2. a lean and frugal CSS & JS framework (found in `assets/`) that you can
 include in your project:
 
 **Link to precompiled minified files**
@@ -135,7 +135,7 @@ Some of the key libraries we use are:
 
 - Contribute to our <a href="https://github.com/AusDTO/gov-au-ui-kit/issues" rel="external">GitHub issue register</a> by logging new issues and joining the discussion.
 - Contribute to this repository. Please see [CONTRIBUTING.md](CONTRIBUTING.md), [Contributor Code of Conduct](code_of_conduct.md) and [our code Conventions](conventions.md), (also see <a href="http://getbem.com/" rel="external">Block Element Modifier</a>), first.
-- Contact us via the DTO slack in `#govau-guide`.
+- Contact us via the DTO slack in `#guides-uikit`.
 
 ## Project goal
 
