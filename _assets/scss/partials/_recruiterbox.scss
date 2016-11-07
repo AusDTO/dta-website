@@ -1,0 +1,15 @@
+.recruitment-form {
+	.rbox-widget {
+		.rbox-checkbox-label {
+			padding-left: $base-spacing;
+		}
+		input[type="checkbox"] {
+			position: relative;
+			cursor: pointer;
+			left: -$small-spacing;
+			height: auto;
+			width: auto;
+
+		}
+	}
+}
