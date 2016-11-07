@@ -2,6 +2,17 @@
 // than what the current $tablet breakpoint offers (768px).
 $tablet-landscape: 1000px;
 
+.lt-ie9 .dto--header .logo-image {
+  width: 523;
+  height: 130px;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='images/logo_dta_inline.png',
+    sizingMethod='cover');
+  margin-bottom: $base-spacing;
+}
+
 .dto {
   &--header {
     @include linear-gradient(to top, $non-white, $white, $fallback: $non-white);
@@ -9,10 +20,9 @@ $tablet-landscape: 1000px;
     border-bottom: 6px solid #dceaef;
 
     .logo-image {
-      background-image: url('images/logo_dta_inline.png');
-      background-image: url('images/logo_dta_inline.svg');
+      background: url('images/logo_dta_inline.svg');
 
-      background-size: 100% 100%;
+      background-size: 100%;
       background-repeat: no-repeat;
       width: 80%;
       height: 130px;
