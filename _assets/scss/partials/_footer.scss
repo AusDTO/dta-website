@@ -1,3 +1,8 @@
+footer {
+    @include ie-clearfix;
+}
+
+
 .footer-top {
   nav {
     ul {

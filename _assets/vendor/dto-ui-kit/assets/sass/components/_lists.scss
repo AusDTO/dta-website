@@ -117,7 +117,8 @@ Style guide: List styles.4 Highlighted word style
 */
 
 %base-list {
-  @include clearfix;
+  //@include clearfix;
+  @include ie-clearfix;
 
   margin-top: $base-spacing * 1.4; // Revisit.
   padding: 0;
@@ -345,9 +346,13 @@ Style guide: List styles.4 Highlighted word style
       border-top: none;
       padding-top: 0;
     }
+    @include ie-lte(8) {
+      border-top: none;
+      padding-top: 0;
+    }
   }
 
-  > li {
+  li {
     @include media($tablet) {
       @include span-columns(6 of 12);
       @include omega(2n);
@@ -356,11 +361,18 @@ Style guide: List styles.4 Highlighted word style
       @include omega-reset(2n);
       @include span-columns(3 of 12);
       @include omega(4n);
-
-      @include ie-lte(8) {
-        width: 21%;
-      }
     }
+  }
+  .slvzr-nth-child404n41 {
+    //FIXME workout how slvzr adds this class?
+    margin-right: 0 !important;
+  }
+}
+
+.lt-ie9 .list-vertical--fourths li {
+  height: 400px;
+  li {
+    height: auto;
   }
 }
 
