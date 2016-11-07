@@ -80,10 +80,9 @@ layout: base
               {{ leader.title }}
             </h3>
             <div class="meta">
-              <span>{{ leader.position }}</span>
+              <p>{{ leader.position }}</p>
+              {{ leader.content }}
             </div>
-            <p>{{ leader.content }}</p>
-
           </article>
         </li>
         {% endfor %}
