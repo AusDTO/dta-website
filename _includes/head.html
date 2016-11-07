@@ -29,13 +29,16 @@
   <meta name="modified" content="{{ page.date | date: "%b %-d, %Y" }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
+  {% include google_fonts.html %}
   {% css main %}
 
   {% css syntax.dark %}
 
-  {% include google_fonts.html %}
-
   <noscript>{% css no-script %}</noscript>
+
+  <!--[if lt IE 9]><script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js'></script><![endif]-->
+  <!--[if lt IE 8]><style>body{margin:0; font-family:sans-serif;}.ua-notification {display: block;padding: 0.8em;text-align: center;background-color: #f9c642;color: #313131;font-size: rem(17); margin-top:0;}</style><![endif]-->
 
   <script>
   (function (h) {
