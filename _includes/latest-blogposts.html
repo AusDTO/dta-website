@@ -5,7 +5,7 @@
 	{% else %}
 		{% assign img_src = "/images/blog-thumbnails/blog-thumbnail-placeholder.png" %}
 	{% endif %}
-	<a href="{{post.url}}"><img class="blog-thumbnail" alt="Open" src="{{ img_src }}"></a>
+	<a href="{{post.url}}"><img class="blog-thumbnail" alt="{{ post.title }}" src="{{ img_src }}"></a>
 <h3>
 	<a class="archive_list_article_link" href='{{post.url}}'>{{post.title}}</a>
 </h3>
