@@ -6,21 +6,36 @@ $tablet-landscape: 1000px;
   &--header {
     @include linear-gradient(to top, $non-white, $white, $fallback: $non-white);
 
-    padding-top: $base-spacing;
     border-bottom: 6px solid #dceaef;
 
     .logo-image {
+      background-image: url('images/logo_dta_inline.png');
+      background-image: url('images/logo_dta_inline.svg');
+
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      width: 80%;
+      height: 130px;
       display: block;
-      width: 320px;
-      margin: 0 auto ($base-spacing * 1.5) auto;
-      border-bottom: none;
+      margin: 0 auto $base-spacing auto;
+
+      background-color: transparent;
+      border: 0;
+      overflow: hidden;
+      text-indent: -9999px;
+
+      @include media($mobile-only) {
+        margin-bottom: 0;
+      }
 
       @include media($tablet-landscape) {
-        @include span-columns(6 of 12);
+        @include span-columns(4 of 12);
       }
 
       @include media($desktop) {
         @include span-columns(6 of 16);
+
+        height: 150px;
       }
 
       &:hover,
@@ -35,7 +50,7 @@ $tablet-landscape: 1000px;
       @include media($mobile) {
         @include span-columns(8 of 8);
 
-        margin-top: $tiny-spacing;
+        margin-top: 0;
       }
       @include media($tablet) {
         @include span-columns(12 of 12);
@@ -43,7 +58,7 @@ $tablet-landscape: 1000px;
       @include media($desktop) {
         @include span-columns(6 of 16);
 
-        margin-top: $base-spacing * 1.5;
+        margin-top: $base-spacing * 2.5;
         margin-bottom: 0;
         float: right;
       }
