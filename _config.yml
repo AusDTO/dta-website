@@ -94,6 +94,8 @@ prose:
     - /Staticfile
     - /Staticfile.auth
     - README.md
+    - Rakefile
+    
   metadata:
     _posts:
       - name: "layout"
