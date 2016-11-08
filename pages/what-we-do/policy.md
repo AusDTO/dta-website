@@ -9,9 +9,11 @@ localnav: what-we-do
 
 ## Digital Service Standard
 
-<p class="lede">
-   We've established the criteria that Australian Government digital services need to meet to be simpler, clearer and faster.
-</p>
+<div class="lede">
+  <p>
+    We've established the criteria that Australian Government digital services need to meet to be simpler, clearer and faster.
+  </p>
+</div>
 
 <a href="{{ site.baseurl }}/standard/" class="big-button">See the 13 criteria</a>
 <a href="{{ site.baseurl }}/standard/assessments/">Read the assessment reports</a>
@@ -37,4 +39,3 @@ There are <a href="{{ site.baseurl }}/standard/meeting-standard/">assessments</a
         <a href="mailto:standard@digital.gov.au">Contact: standard@digital.gov.au</a>
     </li>
 </ul>
-
