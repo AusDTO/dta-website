@@ -1,5 +1,163 @@
 # This config file should be chained with _config.yml to overwrite the
 # configuration for the staging site.
 # e.g. bundle exec jekyll serve --config _config.yml,_config-develop.yml
-
+title: Digital Transformation Agency
+email: web.team@digital.gov.au
+description: > # this means to ignore newlines until "baseurl:"
+  Driving the digital transformation of government information and services,
+  making them simpler, clearer, faster.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dta.apps.staging.digital.gov.au" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: "/:categories/:title/"
+
+google_tag_manager: GTM-KR7JDF
+
+# Because there is no way to instantiate an empty array, and we need to merge two filtered
+# collections together -- this is used on the News page layout.
+empty-array: []
+
+collections:
+  assessment-reports:
+    output: true
+  projects:
+    output: true
+  teams:
+    output: true
+  leadership-group:
+    output: true
+  staff:
+    output: false
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jekyll-assets
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+exclude:
+  - .asset-cache
+  - _config-*.yml
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - bin
+  - circle.yml
+  - README.md
+  - manifest*.yml
+
+assets:
+  assets:
+    - "*.png"
+    - "*.jpg"
+    - "bundle.css"
+  sources:
+    - _assets/scss
+    - _assets/vendor
+    - images/blog-content
+    - images/blog-thumbnails
+    - images/leadership-group
+
+  cache: .asset-cache
+  prefix: "/"
+
+defaults:
+  -
+    scope:
+      path: "" # empty string means all files
+    values:
+      layout: "default"
+
+# Config for htt://prose.io editor.
+prose:
+  rooturl: ''
+  siteurl: 'https://dta.apps.staging.digital.gov.au/'
+  media: 'images/blog-content'
+  ignore:
+    - _config.yml
+    - _config-production.yml
+    - _config-develop.yml
+    - /manifest.yml
+    - /manifest-production.yml
+    - /manifest-develop.yml
+    - /circle.yml
+    - /_assets
+    - /_data
+    - /_layouts
+    - /_includes
+    - /_plugins
+    - /_assets
+    - /bin
+    - /Gemfile
+    - /Gemfile.lock
+    - /.ruby-version
+    - /.gitignore
+    - /feed.xml
+    - /Staticfile
+    - /Staticfile.auth
+    - README.md
+    - Rakefile
+
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "select"
+          label: "Layout"
+          placeholder: "Select Layout"
+          options:
+            - name: "Blog"
+              value: "blog"
+            - name: "News"
+              value: "news"
+            - name: "Media release"
+              value: "media-release"
+      - name: "category"
+        field:
+          element: "select"
+          label: "Category"
+          placeholder: "Select Category"
+          options:
+            - name: "Blog"
+              value: "blog"
+            - name: "DTO News"
+              value: "[news, dto-news]"
+            - name: "Media release"
+              value: "[news, media-release]"
+      - name: "tag"
+        field:
+          element: "select"
+          label: "Tag"
+          placeholder: "Select Tag"
+          options:
+            - name: "GOV.AU"
+              value: "govau"
+            - name: "Marketplace"
+              value: "Marketplace"
+            - name: "DTA News"
+              value: "dta-news"
+      - name: "author"
+        field:
+          element: "select"
+          label: "Author"
+          placeholder: "Select Author"
+          options:
+            - name: "Paul Shetler"
+              value: "Paul Shetler"
+            - name: "Leisa Reichelt"
+              value: "Leisa Reichelt"
+            - name: "Matthew Landauer"
+              value: "Matthew Landauer"
+            - name: "Dan Searle"
+              value: "Dan Searle"
+            - name: "Jacqui van Teulingen"
+              value: "Jacqui van Teulingen"
+            - name: "Jordan Hatch"
+              value: "Jordan Hatch"
+    _staff:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "staff"
+
