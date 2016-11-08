@@ -36,15 +36,21 @@ $tablet-landscape: 1000px;
 
       @include media($mobile-only) {
         margin-bottom: 0;
+        max-width: 500px;
       }
 
+      @include media($tablet) {
+        max-width: 500px;
+      }
+      
       @include media($tablet-landscape) {
         @include span-columns(4 of 12);
+        max-width: 500px;
       }
 
       @include media($desktop) {
         @include span-columns(6 of 16);
-
+        max-width: 500px;
         height: 150px;
       }
 
