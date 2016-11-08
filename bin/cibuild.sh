@@ -19,7 +19,7 @@ main() {
       ;;
     develop)
       echo "Building with development/staging jekyll config"
-      JEKYLL_ENV=production bundle exec jekyll build --config _config-develop.yml
+      JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config-develop.yml
       ;;
     *)
       echo "Building with normal jekyll config"
