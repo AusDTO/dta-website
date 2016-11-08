@@ -4,4 +4,4 @@ position: Chief Executive Officer
 image: nerida
 ---
 
-[Read more about Nerida O'Loughlin](/who-we-are/leadership/)
+[Read more about Nerida O'Loughlin](/who-we-are/leadership/#nerida-oloughlin---interim-ceo)

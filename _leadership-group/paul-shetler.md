@@ -4,4 +4,4 @@ position: Chief Digital Officer
 image: paul-shetler
 ---
 
-[Read more about Paul Shetler](/who-we-are/leadership/)
+[Read more about Paul Shetler](/who-we-are/leadership/#paul-shetler---chief-digital-officer)
