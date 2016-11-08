@@ -10,7 +10,6 @@
           <li><a href="/standard/design-guides/">Design guides</a></li>
           <li><a href="/blog/">Blog</a></li>
           <li><a href="/news/">News</a></li>
-          <li><a href="/news/media-releases">Media releases</a></li>
           <li><a href="https://github.com/AusDTO" class="github">github.com/AusDTO</a></li>
         </ul>
         <ul>
@@ -30,7 +29,8 @@
           <li><a href="/privacy-statement/">Privacy</a></li>
           <li><a href="/disclaimer/">Disclaimer</a></li>
         </ul>
-        
+        {% assign current = page.url | downcase | split: '/' %}
+
         {% if current[1] == 'blog' %}
         {% else %}
         <div id="mc_embed_signup" class="blog-subscribe">
@@ -50,7 +50,8 @@
               </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 
               <div style="position: absolute; left: -5000px;">
-                <input type="text" name="b_81bbb1d15242b2224ee11e3fe_427c57f270" tabindex="-1" value="">
+                 <label for="thing" class="element-invisible">Put in the thing</label>
+                 <input type="text" id="thing" name="b_81bbb1d15242b2224ee11e3fe_427c57f270" tabindex="-1" value="">
               </div>
             </div>
           </form>

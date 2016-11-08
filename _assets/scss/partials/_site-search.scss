@@ -82,7 +82,7 @@ $site-search-outline--focus:                  $light-aqua;
   .site-search-border {
     // Provides an option for a border around the search-box and a place to put the clearfix that doesn't interfere with other elements.
     // This CSS is not on the form or .site-search parent because the label should not be included
-    @include clearfix;
+    @include ie-clearfix;
 
     border: $site-search-border;
     border-radius: $base-border-radius;

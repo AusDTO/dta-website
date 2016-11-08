@@ -14,17 +14,22 @@ layout: base
     <ul class="list-vertical--fourths no-border">
 
       {% for post in site.posts limit:8 %}
+      {% assign url = post.url %}
+      {% if post.external-url %}
+        {% assign url = post.external-url%}
+      {% endif %}
+
       <li>
         <figure>
           {% if post.thumbnail %}
-          <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ post.thumbnail | asset_path }}" alt="Open"></a>
+          <a href="{{ url }}"><img class="blog-thumbnail" src="{{ post.thumbnail | asset_path }}" alt="{{ post.title }}"></a>
           {% else %}
-          <a href="{{ post.url }}"><img class="blog-thumbnail" src="{% asset_path blog-thumbnail-placeholder %}" alt="Open"></a>
+          <a href="{{ url }}"><img class="blog-thumbnail" src="{% asset_path blog-thumbnail-placeholder %}" alt="{{ post.title }}"></a>
           {% endif %}
         </figure>
         <article>
           <h3>
-            <a href="{{ post.url }}">{{ post.title }}</a>
+            <a href="{{ url }}">{{ post.title }}</a>
           </h3>
           <div class="meta">
             <time datetime="{{ post.date }}">{{ post.date | date: "%-d %b %Y" }}</time>
@@ -75,10 +80,9 @@ layout: base
               {{ leader.title }}
             </h3>
             <div class="meta">
-              <span>{{ leader.position }}</span>
+              <p>{{ leader.position }}</p>
+              {{ leader.content }}
             </div>
-            <p>{{ leader.content }}</p>
-
           </article>
         </li>
         {% endfor %}
