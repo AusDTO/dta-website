@@ -17,4 +17,6 @@ We're also documenting our best practice for building digital services in the [D
 
 ## Links
 
-* [Contact the communities team]({{ site.baseurl }}/contact)
+* [Join the content design community](https://docs.google.com/a/digital.gov.au/forms/d/1FDc92Hb2VXa0DBf03CCOXK2ih5SfF7aNFrFscj7W09s/edit?usp=sharing)
+* [Join the service design community](http://goo.gl/forms/5Yqe7he9qx)
+
