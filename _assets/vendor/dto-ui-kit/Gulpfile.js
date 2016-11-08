@@ -16,7 +16,8 @@ var gulp = require('gulp'),
     svg2png = require('gulp-svg2png'),
     webpack = require('webpack-stream'),
     zip = require('gulp-zip'),
-    imagemin = require('gulp-imagemin')
+    imagemin = require('gulp-imagemin'),
+    handlebars = require('gulp-compile-handlebars')
     ;
 
 var paths = {
@@ -26,7 +27,7 @@ var paths = {
     scssTemplatesDir: './assets/sass/components/templates',
     kssScssDir: './kss-builder/kss-assets/*.scss',
     kssCssDir: './kss-builder/kss-assets',
-    examples: './examples/*.html',
+    examples: './examples/*.hbs',
     examplePartialsDir: './examples/partials',
     kssBuilderDir: './kss-builder/**/*.*',
     images: './assets/img/**/*.+(png|svg|jpg)',
@@ -197,38 +198,37 @@ gulp.task('styleguide.data', function () {
   var fs = require('fs');
   var source = 'assets/sass';
   var outputFile = 'data-sections.json';
-  var customFields = ['tags'];
+  var customFields = ['tags', 'collection'];
+  var output = [];
   var data;
 
+  // From: http://kss-node.github.io/kss-node/api/master/module-kss.html
+  // - The traverse() function reads all the source directories and calls parse()
+  // - The parse() function finds the KSS comments in the provided text, creates a
+  //   JSON object containing all the parsed data and passes it the new KssStyleGuide(data)
+  //   constructor to create a style guide object.
   kss.traverse(source, {'custom': customFields}).then(function(styleData) {
     data = JSON.parse(JSON.stringify(styleData.data.sections));
 
-    var output = [];
-    for (var i = 0; i < data.length; i++ ) {
-      var section = data[i];
-
-      if (section.depth === 1) {
-        console.log("section " + section.header + " ref " + section.referenceNumber);
-        for (var j =i+1 ; j < data.length; j++ ) {
-          //console.log("ref " + data[j].referenceNumber);
-          if (data[j].referenceNumber.startsWith(section.referenceNumber + ".")) {
-            console.log("child section " + data[j].header);
-            if (section.children) {
-              section.children.push(data[j]);
-            }
-            else {
-              section.children = [data[j]];
-            }
-          }
-        }
-        output.push(section);
+    data.map(section => {
+      if ( section.depth === 1 ) {
+          section.children = []
+          output.push(section)
+          console.log('section', section.referenceNumber, section.header);
+      } else {
+          let node = output.find(parentSection => {
+            return parentSection.referenceNumber.startsWith(section.referenceNumber.split('.')[0])
+          })
+          node.children.push(section)
+          console.log('child section', section.referenceNumber, section.header);
       }
-    }
+    })
 
     fs.writeFile(outputFile, JSON.stringify(output), (err) => {
       if (err) throw err;
       console.log(outputFile, 'saved successfully')
     });
+
   });
 });
 
