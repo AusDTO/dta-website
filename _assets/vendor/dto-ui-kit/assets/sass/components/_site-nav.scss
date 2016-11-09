@@ -32,6 +32,12 @@ $site-nav-toggle-width: 40%;
   }
 }
 
+.nav-collapse {
+  li {
+    width: initial !important;
+  }
+}
+
 .site-nav__wrapper {
   margin-bottom: $tiny-spacing;
 
@@ -47,7 +53,7 @@ $site-nav-toggle-width: 40%;
 
     @include media($tablet) {
       display: flex;
-      justify-content: space-between;
+      justify-content: flex-start;
       border-top: none;
 
       @include ie-lte(9) {
