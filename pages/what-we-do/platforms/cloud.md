@@ -9,7 +9,7 @@ localnav: what-we-do
 
 cloud.gov.au is a faster, safer, standard way to change web apps without impacting users. It makes it easier for government to release, monitor and grow user-facing digital services, freeing up teams to focus on writing code that meets user needs.
 
-As of October 2016, cloud.gov.au has 37 apps in production, and 225 apps in development across the [exemplar](/what-we-do/exemplars/) and [platforms](/what-we-do/platforms/) programmes of work.. 
+As of October 2016, cloud.gov.au has 37 apps in production, and 225 apps in development across the [exemplar](/what-we-do/exemplars/) and [platforms](/what-we-do/platforms/) programs of work.. 
 
 DTA services running on cloud.gov.au include the [Digital Marketplace](/what-we-do/marketplace/), the [Performance Dashboard](/what-we-do/platforms/performance/), and the australia.gov.au [Media Release Service](https://media.australia.gov.au).
 
