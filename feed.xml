@@ -1,7 +1,7 @@
 ---
 layout: null
-permalink: /feed/
-redirect_from: /feed.xml/
+permalink: /feed.xml
+redirect_from: /feed/
 exclude_from_search: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
