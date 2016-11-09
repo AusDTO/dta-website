@@ -1,18 +1,25 @@
-{% for excerpt in site.staff %}
+{% if page.author-excerpt %}
+  <section class="post-author-bio">
+    <p>{{ page.author-excerpt }}</p>
+  </section>
+{% else %}
+  {% for excerpt in site.staff %}
 
-{% if excerpt.title contains page.author %}
-<section class="post-author-bio">
-  <img alt="Image of {{ page.author }}" src="{{ excerpt.profile-image }}">
-  <p>{{ excerpt.profile-excerpt }}</p>
+  {% if excerpt.title contains page.author %}
+  <section class="post-author-bio">
+    <img alt="Image of {{ page.author }}" src="{{ excerpt.profile-image }}">
+    <p>{{ excerpt.profile-excerpt }}</p>
 
-  {% if excerpt.twitter-handle %}
-  <div class="author--twitter">
-    <a href="https://twitter.com/@{{ excerpt.twitter-handle }}" class="twitter">@{{ excerpt.twitter-handle }}</a>
-  </div>
+    {% if excerpt.twitter-handle %}
+    <div class="author--twitter">
+      <a href="https://twitter.com/@{{ excerpt.twitter-handle }}" class="twitter">@{{ excerpt.twitter-handle }}</a>
+    </div>
+    {% endif %}
+  </section>
+    {% else %}
+
   {% endif %}
-</section>
-  {% else %}
+
+  {% endfor %}
 
 {% endif %}
-
-{% endfor %}
