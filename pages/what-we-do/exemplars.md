@@ -26,5 +26,5 @@ localnav: what-we-do
 
 ## Links
 
-- [Contact the programme team]({{ site.baseurl }}/contact)
+- [Contact the program team]({{ site.baseurl }}/contact)
 
