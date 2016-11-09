@@ -64,7 +64,7 @@ For any other policy and governance enquiries, please send an email to [policy@d
 
 ## Identity
 
-For enquiries about the Identity programme, please send an email to [identity@digital.gov.au](mailto:identity@digital.gov.au).
+For enquiries about the Identity program, please send an email to [identity@digital.gov.au](mailto:identity@digital.gov.au).
 
 
 ## Our mailing address
