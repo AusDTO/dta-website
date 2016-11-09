@@ -1,97 +1,107 @@
 {% if page.layout == 'post' %}
-    {% capture lis%}
-                <li><a href="/blog/">Blog</a></li>
-    {% endcapture %}
+  {% capture lis%}
+    {% if page.category contains 'blog' %}
+<li><a href="/blog/">Blog</a></li>
+    {% else %}
+<li><a href="/news/">News</a></li>
+    {% endif %}
+    {% if page.tags %}
+      {% if page.tags[0] == 'gov.au' %}
+<li><a href="/blog/gov-au/">GOV.AU blog</a></li>
+      {% elsif page.tags[0] == 'dto-news' %}
+<li><a href="/blog/dto-news/">DTO News</a></li>
+      {% endif %}
+    {% endif %}
+  {% endcapture %}
 {% elsif page.layout == 'gov-au-post' %}
-    {% capture lis%}
-                <li><a href="/blog/">Blog</a></li>
-                <li><a href="/blog/gov-au/">GOV.AU blog</a></li>
-    {% endcapture %}
+  {% capture lis%}
+<li><a href="/blog/">Blog</a></li>
+<li><a href="/blog/gov-au/">GOV.AU blog</a></li>
+  {% endcapture %}
 {% elsif page.layout == 'tech-post' %}
-    {% capture lis%}
-            <li><a href="/blog/">Blog</a></li>
-            <li><a href="/blog/technology/">Technology blog</a></li>
-    {% endcapture %}
+  {% capture lis%}
+<li><a href="/blog/">Blog</a></li>
+<li><a href="/blog/technology/">Technology blog</a></li>
+  {% endcapture %}
 {% elsif page.layout == 'service-design-post' %}
-    {% capture lis%}
-            <li><a href="/blog/">Blog</a></li>
-            <li><a href="/blog/service-design/">Service design blog</a></li>
-    {% endcapture %}
+  {% capture lis%}
+<li><a href="/blog/">Blog</a></li>
+<li><a href="/blog/service-design/">Service design blog</a></li>
+  {% endcapture %}
 {% elsif page.layout == 'media-release' %}
-    {% capture lis%}
-            <li><a href="/news/">News</a></li>
-            <li><a href="/news/media-releases/">Media releases</a></li>
-    {% endcapture %}
+  {% capture lis%}
+<li><a href="/news/">News</a></li>
+<li><a href="/news/media-releases/">Media releases</a></li>
+  {% endcapture %}
 {% elsif page.layout == 'news' %}
-    {% capture lis%}
-            <li><a href="/news/">News</a></li>
-            <li><a href="/news/dta-news/">DTA news</a></li>
-    {% endcapture %}
+  {% capture lis%}
+<li><a href="/news/">News</a></li>
+<li><a href="/news/dta-news/">DTA news</a></li>
+  {% endcapture %}
 {% endif %}
 
 {% if lis %}
 
 <div class="global-breadcrumb">
-    <nav class="breadcrumbs" aria-label="breadcrumb">
-        <div class="wrapper">
-            <ul>
-                <li><a href="{{ site.baseurl }}/">Home</a></li>
-                {{ lis }}
-                <li>{{ page.title}}</li>
-            </ul>
+  <nav class="breadcrumbs" aria-label="breadcrumb">
+    <div class="wrapper">
+      <ul>
+        <li><a href="{{ site.baseurl }}/">Home</a></li>
+        {{ lis }}
+        <li>{{ page.title}}</li>
+      </ul>
 
-        </div>
-    </nav>
+    </div>
+  </nav>
 </div>
 {% elsif page.breadcrumb_type == !nil and page.author == !nil %}
 <div class="global-breadcrumb">
-    <nav class="breadcrumbs" aria-label="breadcrumb">
-        <div class="wrapper">
-            <ul>
+  <nav class="breadcrumbs" aria-label="breadcrumb">
+    <div class="wrapper">
+      <ul>
 
-                <li><a href="{{ site.baseurl }}/">Home</a></li>
-    {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %}
-    {% assign splitted_url_parts = page_url_without_index_html | split: '/' %}
+        <li><a href="{{ site.baseurl }}/">Home</a></li>
+  {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %}
+  {% assign splitted_url_parts = page_url_without_index_html | split: '/' %}
 
-    {% capture forLoopMaxInt %}{{ splitted_url_parts.size | minus:2 }}{% endcapture %}
+  {% capture forLoopMaxInt %}{{ splitted_url_parts.size | minus:2 }}{% endcapture %}
 
-    {% for i in (1..forLoopMaxInt) %}
+  {% for i in (1..forLoopMaxInt) %}
 
-        {% capture current_breadcrumb_url %}{{next_prepender}}/{{ splitted_url_parts[i] }}/index.html{% endcapture %}
-        {% capture current_breadcrumb_md_url %}{{next_prepender}}/{{ splitted_url_parts[i] }}/{% endcapture %}
-        {% capture next_prepender %}{{next_prepender}}/{{ splitted_url_parts[i] }}{% endcapture %}
+    {% capture current_breadcrumb_url %}{{next_prepender}}/{{ splitted_url_parts[i] }}/index.html{% endcapture %}
+    {% capture current_breadcrumb_md_url %}{{next_prepender}}/{{ splitted_url_parts[i] }}/{% endcapture %}
+    {% capture next_prepender %}{{next_prepender}}/{{ splitted_url_parts[i] }}{% endcapture %}
 
-        {% for breadcrumb_page in site.pages %}
-            {% if current_breadcrumb_url == breadcrumb_page.url or current_breadcrumb_md_url == breadcrumb_page.url  %}
-                {% assign label = breadcrumb_page.title %}
-                {% if breadcrumb_page.breadcrumb %}
-                    {% assign label = breadcrumb_page.breadcrumb %}
-                {% endif %}
-                {% if forloop.last %}
+    {% for breadcrumb_page in site.pages %}
+      {% if current_breadcrumb_url == breadcrumb_page.url or current_breadcrumb_md_url == breadcrumb_page.url %}
+        {% assign label = breadcrumb_page.title %}
+        {% if breadcrumb_page.breadcrumb %}
+          {% assign label = breadcrumb_page.breadcrumb %}
+        {% endif %}
+        {% if forloop.last %}
 
-                <li>{{ label }}</li>
-                {%else %}
+        <li>{{ label }}</li>
+        {%else %}
 
-                <li >
-                    {% capture breadcrumb_page_page_url_without_index_html %}{{ breadcrumb_page.url | remove: "index.html" }}{% endcapture %}
-                    <a href="{{ site.baseurl }}{{breadcrumb_page_page_url_without_index_html}}">{{label}}</a>
-                </li>
+        <li>
+          {% capture breadcrumb_page_page_url_without_index_html %}{{ breadcrumb_page.url | remove: "index.html" }}{% endcapture %}
+          <a href="{{ site.baseurl }}{{breadcrumb_page_page_url_without_index_html}}">{{label}}</a>
+        </li>
 
 
-                {% endif %}
-            {% endif %}
-        {% endfor %}
-
+        {% endif %}
+      {% endif %}
     {% endfor %}
 
-    {% assign label = page.title %}
-    {% if page.breadcrumb %}
-        {% assign label = page.breadcrumb %}
-    {% endif %}
-                <li>{{ label }}</li>
-            </ul>
-        </div>
-    </nav>
+  {% endfor %}
+
+  {% assign label = page.title %}
+  {% if page.breadcrumb %}
+    {% assign label = page.breadcrumb %}
+  {% endif %}
+        <li>{{ label }}</li>
+      </ul>
+    </div>
+  </nav>
 </div>
 {% endif %}
-
