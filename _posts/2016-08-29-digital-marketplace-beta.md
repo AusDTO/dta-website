@@ -3,7 +3,7 @@ layout: post
 title: Digital Marketplace goes to Beta
 author: Catherine Thompson
 category: blog
-tag: [dto-news, gov.au]
+tag: [dto-news, marketplace]
 hero-image: marketplace-hero
 thumbnail: marketplace-thumb
 searchexcerpt: 
