@@ -3,6 +3,7 @@
   padding-bottom: $tiny-spacing;
 }
 
+// Test to check if this can be removed post uikit 1.9.1/1.10.
 .about-dta {
   .abstract {
     max-width: 25 * $base-spacing;
@@ -26,31 +27,28 @@
   }
 }
 
+// Shouldn't be necessary due to uikit's _grid-settings L#98 -- test after uikit 1.9.1/1.10.
 main {
     @include ie-clearfix;
 }
 
-.lt-ie9 .content-main{
+// Test why the ie mixin doesn't suffice and that we have to use selectivizr's classes.
+.lt-ie9 .content-main {
   width: 70%;
   float: left;
 }
-
 
 .homepage-footer {
   @include outer-container;
   @include ie-clearfix;
 
   .leadership {
-    //@include span-columns(12 of 12);
-
     @include media($tablet) {
       @include span-columns(6 of 12);
     }
   }
 
   .social-media {
-    //@include span-columns(12 of 12);
-
     @include media($tablet) {
       @include span-columns(6 of 12);
     }

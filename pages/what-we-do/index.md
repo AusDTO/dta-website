@@ -2,6 +2,7 @@
 layout: basic
 title: "What we do"
 permalink: /what-we-do/
+redirect_from: /our-work/
 localnav: what-we-do
 ---
 

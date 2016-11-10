@@ -1,153 +1,67 @@
-// This has been added because we need to break to the ‘mobile’ menu earlier
-// than what the current $tablet breakpoint offers (768px).
-$tablet-landscape: 1000px;
 
-.lt-ie9 .dto--header .logo-image {
-  width: 523;
-  height: 130px;
-  background-color: transparent;
-  background-repeat: no-repeat;
-  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
-    src='images/logo_dta_inline.png',
-    sizingMethod='cover');
-  margin-bottom: $base-spacing;
-}
+.page-header {
+  a.logo {
+    width: 523px;
+    height: 130px;
+  }
+  &__logo {
+    background: url('images/logo_dta_inline.png');
 
-.dto {
-  &--header {
-    @include linear-gradient(to top, $non-white, $white, $fallback: $non-white);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 523px;
+    height: 130px;
+    display: block;
+    margin: 0 auto $base-spacing auto;
 
-    border-bottom: 6px solid #dceaef;
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    text-indent: -9999px;
 
-    .logo-image {
-      background: url('images/logo_dta_inline.svg');
+    @include media($mobile-only) {
+      margin-bottom: 0;
+      max-width: 500px;
+    }
 
-      background-size: 100%;
-      background-repeat: no-repeat;
-      width: 80%;
-      height: 130px;
-      display: block;
-      margin: 0 auto $base-spacing auto;
+    @include media($tablet) {
+      max-width: 45%;
+      float: left;
+    }
 
+    @include media($desktop) {
+      max-width: 500px;
+      height: 150px;
+    }
+
+    &:hover,
+    &:focus {
       background-color: transparent;
-      border: 0;
-      overflow: hidden;
-      text-indent: -9999px;
-
-      @include media($mobile-only) {
-        margin-bottom: 0;
-        max-width: 500px;
-      }
-
-      @include media($tablet) {
-        max-width: 500px;
-      }
-      
-      @include media($tablet-landscape) {
-        @include span-columns(4 of 12);
-        max-width: 500px;
-      }
-
-      @include media($desktop) {
-        @include span-columns(6 of 16);
-        max-width: 500px;
-        height: 150px;
-      }
-
-      &:hover,
-      &:focus {
-        background-color: transparent;
-      }
     }
+  }
 
-    .site-search {
-      margin: $base-spacing 0;
-
-      @include media($mobile) {
-        @include span-columns(8 of 8);
-
-        margin-top: 0;
-      }
-      @include media($tablet) {
-        @include span-columns(12 of 12);
-      }
-      @include media($desktop) {
-        @include span-columns(6 of 16);
-
-        margin-top: $base-spacing * 2.5;
-        margin-bottom: 0;
-        float: right;
-      }
+  .site-search {
+    @include media($mobile) {
+      width: 100%;
+      float: none;
+      margin-top: 0;
     }
+    @include media($tablet) {
+      float: right;
+      max-width: 40%;
+      margin-top: $base-spacing;
+    }
+    @include media($desktop) {
+      max-width: 450px;
+      margin-top: $base-spacing * 2;
+    }
+  }
 
-    nav {
-      clear: both;
-      background-color: $white;
+  .site-nav {
+    clear: left;
 
-      @include media($tablet) {
-        @include wrapper-padding;
-        @include outer-container;
-
-        margin-bottom: 1em;
-        background-color: transparent;
-      }
-
-      .global-navigation {
-        width: 100%;
-        margin: 0;
-        padding: 0;
-        list-style-type: none;
-
-        @include media($tablet-landscape) {
-          display: inline-block;
-          }
-
-        li {
-          margin-bottom: 0;
-          padding: 0;
-          border-top: 2px solid $border-colour;
-
-          &:hover {
-            background-color: $dta-blue--lightest;
-          }
-
-          @include media($tablet-landscape) {
-            display: inline-block;
-            margin: 0 $tiny-spacing;
-            border-top: none;
-
-            &:first-of-type {
-              margin-left: -($small-spacing);
-            }
-
-            &:hover {
-              background-color: transparent;
-            }
-          }
-
-          a {
-            display: block;
-            padding: $medium-spacing $gutter;
-            text-decoration: none;
-            font-weight: bold;
-            color: $black;
-
-            @include media($tablet-landscape) {
-              display: inline;
-              margin: 0;
-              padding: $small-spacing $small-spacing 18px $small-spacing;
-              border-top: none;
-              background-color: transparent;
-
-              &:hover,
-              &:focus {
-                background-color: transparent;
-                border-bottom: 6px solid $dta-blue--light;
-              }
-            }
-          }
-        }
-      }
+    @include ie-lte(9) {
+      @include ie-clearfix;
     }
   }
 }

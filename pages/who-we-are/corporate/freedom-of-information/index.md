@@ -5,7 +5,10 @@ permalink: /who-we-are/corporate/freedom-of-information/
 redirect_from: /freedom-of-information/
 breadcrumb: Freedom of Information
 ---
-<div class="lede">Under the <em>Freedom of Information Act 1982</em>, anyone can seek access to documents held by the Digital Transformation Agency (DTA).</div>
+
+<div class="lede">
+    <p>Under the <em>Freedom of Information Act 1982</em>, anyone can seek access to documents held by the Digital Transformation Agency (DTA).</p>
+</div>
 
 ### How to request access to documents
 
