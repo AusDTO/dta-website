@@ -1,10 +1,17 @@
 <header class="dto--header" role="banner">
   <section class="page-header">
     <div class="wrapper">
-      <div class="page-header__logo">
-        <a href="/" class="logo">Home</a>
-      </div>
-
+      {% if page.url == "/" %}
+        <div class="page-header__logo">
+          Digital Transformation Agency logo
+        </div>
+      {% else %}
+      <a href="/" class="logo">
+        <div class="page-header__logo">
+          Digital Transition Agency homepage
+        </div>
+      </a>
+      {% endif %}
       <div class="site-search">
         <form id="search" class="" action="/search/" role="search" method="get">
           <label for="site-search-text">Search dta.gov.au</label>
