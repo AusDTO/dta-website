@@ -75,11 +75,11 @@ $site-nav-toggle-width: 40%;
     }
 
     @include media($mobile) {
+      padding-left: $gutter / 2;
       padding-right: $gutter / 2;
     }
 
     @include media($tablet) {
-      padding-left: $gutter / 2;
       float: left;
       text-align: center;
     }
@@ -90,7 +90,9 @@ $site-nav-toggle-width: 40%;
     }
 
     &:first-child {
-      padding-left: 0;
+      @include media($tablet) {
+        padding-left: 0;
+      }
     }
 
     &:last-child {
