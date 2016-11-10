@@ -38,6 +38,14 @@ main {
   float: left;
 }
 
+// FIX from treb
+.lt-ie9 .list-vertical--fourths,
+.lt-ie9 .list-vertical--thirds,
+.lt-ie9 .homepage-footer {
+  @include ie-clearfix; //FIXME! Blurg. Report to UI-Kit
+}
+
+
 .homepage-footer {
   @include outer-container;
   @include ie-clearfix;
