@@ -11,4 +11,5 @@ gem 'therubyracer'
 gem 'html-proofer'
 gem 'font-awesome-sass'
 gem 'uglifier'
+gem 'rake'
 

@@ -2,7 +2,6 @@
 
 require 'net/http'
 require 'fileutils'
-require 'zip'
 
 task :default => :ui_kit_update
 
