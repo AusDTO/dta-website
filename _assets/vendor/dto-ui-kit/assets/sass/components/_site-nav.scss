@@ -75,11 +75,11 @@ $site-nav-toggle-width: 40%;
     }
 
     @include media($mobile) {
-      padding-left: $gutter / 2;
       padding-right: $gutter / 2;
     }
 
     @include media($tablet) {
+      padding-left: $gutter / 2;
       float: left;
       text-align: center;
     }
