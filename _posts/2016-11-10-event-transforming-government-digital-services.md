@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Event - Transforming government digital services - in conversation with Hillary Hartley on the US experience"
+title: "Event: Transforming government digital services - in conversation with Hillary Hartley on the US experience"
 author: Helen Copley
 category: blog
 tag: dta-news
