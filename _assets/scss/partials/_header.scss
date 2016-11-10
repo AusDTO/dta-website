@@ -1,21 +1,15 @@
-.lt-ie9 .page-header .page-header__logo {
-  width: 523;
-  height: 130px;
-  background-color: transparent;
-  background-repeat: no-repeat;
-  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
-    src='images/logo_dta_inline.png',
-    sizingMethod='cover');
-  margin-bottom: $base-spacing;
-}
 
 .page-header {
+  a.logo {
+    width: 523px;
+    height: 130px;
+  }
   &__logo {
-    background: url('images/logo_dta_inline.svg');
+    background: url('images/logo_dta_inline.png');
 
     background-size: 100%;
     background-repeat: no-repeat;
-    width: 80%;
+    width: 523px;
     height: 130px;
     display: block;
     margin: 0 auto $base-spacing auto;
