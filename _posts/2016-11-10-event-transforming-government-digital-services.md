@@ -17,8 +17,6 @@ Hillary and Paul’s experience in digital transformation spans three countries.
 
 [18F](https://18f.gsa.gov/) helps US federal agencies build, buy, and share modern digital services to improve the user experience of government. The DTA focus is on making it easier for users to deal with government.
 
-**This event is for staff of federal, state and local government agencies. Please register using your gov.au or edu.au email address.**
-
 - **When**: Monday, 14 November
 - **Where**: MC50 Theatre, 50 Marcus Clarke Street, Canberra 
 - **How to attend**: [Register on Eventbrite](https://dtaand18f.eventbrite.com.au)
