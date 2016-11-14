@@ -21,7 +21,8 @@ module Jekyll
             'fields' => {
                 'title' => 10,
                 'categories' => 20,
-                'tags' => 20,
+                'tags' => 10,
+                'author' => 10,
                 'body' => 1
             },
             'js_dir' => 'search-engine'
@@ -222,13 +223,19 @@ module Jekyll
           tags = site.data['tags']
           title, url = extract_title_and_url(site)
           author = site.data['author']
-          searchexcerpt = site.data['searchexcerpt']
+
           is_post = site.is_a?(Jekyll::Document)
           body = renderer.render(site)
 
+          #The searchexcerpt is shown under each result. In order of preference it is:
+          # 1. searchexcerpt from the page front matter
+          # 2. lede from the page front matter
+          # 3. First x words from the page content
+          searchexcerpt = site.data['searchexcerpt']
           unless searchexcerpt
-            # If a page doesn't have searchexcerpt in its front matter, get some
-            # words from the body.
+            searchexcerpt = site.data['lede']
+          end
+          unless searchexcerpt
             searchexcerpt = body.split[0...40].join(' ') + ' [...]'
           end
 
