@@ -79,6 +79,8 @@ module Jekyll
               "id" => i,
               "title" => entry.title,
               "url" => entry.url,
+              "author" => entry.author,
+              "searchexcerpt" => entry.searchexcerpt,
               "date" => entry.date,
               "categories" => entry.categories,
               "tags" => entry.tags,
@@ -219,10 +221,18 @@ module Jekyll
           categories = site.data['categories']
           tags = site.data['tags']
           title, url = extract_title_and_url(site)
+          author = site.data['author']
+          searchexcerpt = site.data['searchexcerpt']
           is_post = site.is_a?(Jekyll::Document)
           body = renderer.render(site)
 
-          SearchEntry.new(title, url, date, categories, tags, is_post, body, renderer)
+          unless searchexcerpt
+            # If a page doesn't have searchexcerpt in its front matter, get some
+            # words from the body.
+            searchexcerpt = body.split[0...40].join(' ') + ' [...]'
+          end
+
+          SearchEntry.new(title, url, author, searchexcerpt, date, categories, tags, is_post, body, renderer)
         else
           raise 'Not supported'
         end
@@ -233,10 +243,10 @@ module Jekyll
         [ data['title'], data['url'] ]
       end
 
-      attr_reader :title, :url, :date, :categories, :tags, :is_post, :body, :collection
+      attr_reader :title, :url, :author, :searchexcerpt, :date, :categories, :tags, :is_post, :body, :collection
 
-      def initialize(title, url, date, categories, tags, is_post, body, collection)
-        @title, @url, @date, @categories, @tags, @is_post, @body, @collection = title, url, date, categories, tags, is_post, body, collection
+      def initialize(title, url, author, searchexcerpt, date, categories, tags, is_post, body, collection)
+        @title, @url, @author, @searchexcerpt, @date, @categories, @tags, @is_post, @body, @collection = title, url, author, searchexcerpt, date, categories, tags, is_post, body, collection
       end
 
       def strip_index_suffix_from_url!
