@@ -1,0 +1,10 @@
+.dss-glossary {
+  h2 {
+    padding-bottom: $base-spacing;
+  }
+  dl{
+    padding-bottom: $base-spacing * 2;
+    border-bottom: 1px solid $border-soft-colour;
+  }
+
+}
