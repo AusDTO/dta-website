@@ -1,0 +1,20 @@
+.signup {
+
+  h2 {
+    margin-bottom: $tiny-spacing;
+  }
+
+  #mc_embed_signup {
+    margin-bottom: $medium-spacing;
+
+    .email {
+      padding: 0.6em;
+
+      @include media($tablet) {
+        @include span-columns(8 of 12);
+      }
+
+      margin-bottom: $small-spacing;
+    }
+  }
+}
