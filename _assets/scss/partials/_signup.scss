@@ -1,0 +1,29 @@
+.signup {
+  h2 {
+    margin-bottom: $tiny-spacing;
+  }
+}
+
+.footer-top nav li .signup {
+  h2 {
+    margin-bottom: $small-spacing;
+  }
+}
+
+#mc_embed_signup #mc-embedded-subscribe-form {
+  .mc-field-group {
+    padding-bottom: $medium-spacing;
+  }
+  input.mce_inline_error {
+    outline: 2px solid $red;
+    border-color: inherit;
+  }
+  div.mce_inline_error {
+    background-color: white;
+    color: $red;
+    padding: $tiny-spacing $tiny-spacing;
+  }
+  input.button {
+    margin-top: $tiny-spacing;
+  }
+}

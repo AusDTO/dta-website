@@ -37,7 +37,10 @@
   }
 }
 
-.post-moderation-policy {
+.moderation-policy {
+  h2 {
+    margin-bottom: $tiny-spacing;
+  }
   margin-bottom: $base-spacing;
 }
 
