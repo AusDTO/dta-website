@@ -23,10 +23,20 @@ title: "Sign up for blog updates"
         <label for="mce-LNAME">Last Name </label>
         <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
       </div>
-
       <div class="mc-field-group">
-        <label for="mce-MMERGE7">State or Territory </label>
-        <input type="text" value="" name="MMERGE7" class="" id="mce-MMERGE7">
+        <label for="mce-STATE">State or Territory </label>
+        <select name="STATE" class="" id="mce-STATE">
+          <option value=""></option>
+          <option value="ACT">ACT</option>
+          <option value="NSW">NSW</option>
+          <option value="NT">NT</option>
+          <option value="QLD">QLD</option>
+          <option value="SA">SA</option>
+          <option value="TAS">TAS</option>
+          <option value="VIC">VIC</option>
+          <option value="WA">WA</option>
+          <option value="Outside Australia">Outside Australia</option>
+        </select>
       </div>
 
       <div id="mce-responses" class="clear">
@@ -55,8 +65,8 @@ title: "Sign up for blog updates"
   ftypes[1] = 'text';
   fnames[2] = 'LNAME';
   ftypes[2] = 'text';
-  fnames[7] = 'MMERGE7';
-  ftypes[7] = 'text';
+  fnames[3] = 'STATE';
+  ftypes[3] = 'dropdown';
 }(jQuery));
 var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
