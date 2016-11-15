@@ -1,0 +1,13 @@
+.design-and-delivery-process {
+  ol.list-horizontal{
+    counter-reset:standard-counter;
+    li article h2 {
+      &:before {
+        content:counter(standard-counter,decimal) ".";
+        counter-increment:standard-counter;
+        display: inline-block;
+        width: $medium-spacing;
+      }
+    }
+  }
+}
