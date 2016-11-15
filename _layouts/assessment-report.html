@@ -10,37 +10,44 @@ localnav: digital-service-standard
 {% endif %}
 
 <div class="callout">
-  <ul class="assessment-metadata">
+  <dl>
   {% if page.department %}
-    <li><span>Department/Agency:</span> {{ page.department }}</li>
+    <dt>Department/Agency</dt>
+    <dd>{{ page.department }}</dd>
   {% endif %}
-
   {% if page.date %}
-    <li><span>Date of Assessment:</span> {{ page.date | date: '%B %d, %Y' }}</li>
+    <dt>Date of Assessment</dt>
+    <dd>{{ page.date | date: '%B %d, %Y' }}</dd>
   {% endif %}
 
   {% if page.self-assessment == true %}
-    <li><span>Assessment type:</span> Self-assessed</li>
+    <dt>Assessment type</dt>
+    <dd>Self-assessed</dd>
   {% else %}
-    <li><span>Assessment type:</span> Digital Transformation Agency-led</li>
+    <dt>Assessment type</dt>
+    <dd>Digital Transformation Agency-led</dd>
   {% endif %}
 
   {% if page.assessment-stage %}
-    <li><span>Assessment stage:</span> {{ page.assessment-stage }}</li>
+    <dt>Assessment stage</dt>
+    <dd>{{ page.assessment-stage }}</dd>
   {% endif %}
 
   {% if page.result %}
-    <li><span>Result of Assessment:</span> {{ page.result }}</li>
+    <dt>Result of Assessment</dt>
+    <dd>{{ page.result }}</dd>
   {% endif %}
 
   {% if page.lead-assessor %}
-    <li><span>Lead Assessor:</span> {{ page.lead-assessor }}</li>
+    <dt>Lead Assessor</dt>
+    <dd>{{ page.lead-assessor }}</dd>
   {% endif %}
 
   {% if page.service-manager %}
-    <li><span>Service Manager:</span> {{ page.service-manager }}</li>
+    <dt>Service Manager</dt>
+    <dd>{{ page.service-manager }}</dd>
   {% endif %}
-</ul>
+</dl>
 
   {% include assessment-reports/related-assessment-reports.html %}
 
