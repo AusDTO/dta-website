@@ -5,6 +5,7 @@ lede: "We provide strategic and policy leadership on whole-of-government and sha
 permalink: /what-we-do/policy/
 redirect_from: /our-work/standard/
 localnav: what-we-do
+tags: "digital service standard things"
 ---
 
 ## Digital Service Standard
