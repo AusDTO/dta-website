@@ -6,7 +6,7 @@
     </form>
 </div>
 
-<section id="search-results" style="display: none;">
+<section id="search-results" class="search-results" style="display: none;">
     <h2>Search results</h2>
     Sorted by relevance
     <div class="entries">
@@ -15,17 +15,23 @@
 
 {% raw %}
 <script id="search-results-template" type="text/mustache">
+  <ul class="list-horizontal">
   {{#entries}}
-    <article>
-      <h3>
-      <a href="{{url}}">{{title}}</a>
-      </h3>
-      <span class="url">https://www.dta.gov.au{{url}}</span>
-      {{#author}}<span>{{author}} &#8211;</span>{{/author}}
-      {{#date}}<time datetime="{{pubdate}}" pubdate>{{displaydate}}</time>{{/date}}
-      <p>{{searchexcerpt}}</p>
-    </article>
+    <li>
+      <article>
+        <h3>
+          <a href="{{ url }}">{{title}}</a>
+        </h3>
+        <a class="url" href="{{ url }}">https://www.dta.gov.au{{ url }}</a>
+        <div class="meta">
+          {{#date}}<time datetime="{{ pubdate }}">{{ displaydate }}</time>{{/date}}
+          {{#author}}<span rel="author">{{ author }}</span>{{/author}}
+        </div>
+        <p>{{ searchexcerpt }}</p>
+      </article>
+    </li>
   {{/entries}}
+  </ul>
 </script>
 {% endraw %}
 

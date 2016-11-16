@@ -167,3 +167,19 @@ $site-search-outline--focus:                  $light-aqua;
   z-index: 2; //For z-index on focus if JS
   text-indent: 1em;
 }
+
+//Search results page
+.search-results {
+  h3 {
+    margin-bottom: $tiny-spacing;
+  }
+
+  article {
+    .url {
+      font-size:15px;
+      margin-bottom: $tiny-spacing;
+      border-bottom: 0;
+    }
+  }
+}
+
