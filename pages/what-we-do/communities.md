@@ -7,7 +7,7 @@ redirect_from: /our-work/communities/
 localnav: what-we-do
 ---
 
-<a href="http://ausdto.github.io/service-handbook/" class="big-button">Read the Service Handbook</a>
+<a href="http://ausdto.github.io/service-handbook/" role="button">Read the Service Handbook</a>
     
 We're creating communities of practice across government to collaborate on best practice, showcase ongoing work, and create a space to solve common problems together. These communities are open to anybody in government to join.
  

@@ -15,9 +15,8 @@ localnav: what-we-do
   </p>
 </div>
 
-<a href="{{ site.baseurl }}/standard/" class="big-button">See the 13 criteria</a>
+<a href="{{ site.baseurl }}/standard/" role="button">See the 13 criteria</a>
 <a href="{{ site.baseurl }}/standard/assessments/">Read the assessment reports</a>
-
 
 <p>
 The 13 criteria of the Standard check that services have a strong understanding of user needs, adopted an agile approach to technology and delivery, and have the capability to support and iterate the service on an ongoing basis.
