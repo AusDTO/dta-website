@@ -5,8 +5,12 @@ author: Steven Berends
 author-excerpt: "Steven Berends is the Digital Marketplace content designer, based in Sydney."
 category: blog
 tag: marketplace
+hero-image: /images/blog-content/mp-roundtable-image06.jpg
 thumbnail: mp-roundtable-thumb
 ---
+
+![]({{site.url}}{{page.hero-image}})
+
 In the [Digital Service Standard](/standard/), ‘understanding user needs’ is the first criteria in the list. Arguably it’s the most important.
 
 During face-to-face meetings with buyers and sellers, we talk through their experiences and see how users respond to the site. We also use phone calls, hangouts and emails with people who are harder to reach. This approach gives us valuable insights [we’ve already used to iterate our Beta service](/blog/marketplace-shaped-by-user-needs/).
@@ -16,7 +20,7 @@ On 25 October we added a new approach. The first Digital Transformation Roundtab
 ## What are the top 5 priorities for the Marketplace in the next 6 months?
 
 ![Decorative image of top 5 priorities]({{site.url}}/images/blog-content/mp-roundtable-image01.jpg)
-*Caption: Question raised by Catherine Thompson from the Digital Transformation Agency.*
+*Question raised by Catherine Thompson from the Digital Transformation Agency.*
 
 The feedback indicated priorities should be:
 
@@ -39,7 +43,7 @@ Improving the visibility of deal flow is something we’re addressing through ou
 ## What are the rules cultural and capability issues that make it hard to deal with government?
 
 ![Decorative image of capability issues]({{site.url}}/images/blog-content/mp-roundtable-image08.jpg)
-*Caption: Question raised by Faye Liu from the Department of the Prime Minister and Cabinet*
+*Question raised by Faye Liu from the Department of the Prime Minister and Cabinet*
 
 Most of the feedback we received was about a lack of communication, in summary, that government:
 
@@ -53,7 +57,7 @@ The vision of the Digital Marketplace is an ‘environment that accommodates a l
 ## What emerging technologies can shape or revolutionise procurement — on or off the Marketplace?
 
 ![Decorative image of technology issues]({{site.url}}/images/blog-content/mp-roundtable-image07.jpg)
-*Caption: Question raised by Lindsay Holmwood from the Digital Transformation Agency.*
+*Question raised by Lindsay Holmwood from the Digital Transformation Agency.*
 
 The most surprising feedback received wasn’t the request for bleeding-edge technology to help us build the Digital Marketplace. It was far more human:
 
