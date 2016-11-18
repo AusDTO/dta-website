@@ -91,4 +91,4 @@ In response to this question, the day’s major themes reemerged:
 
 We also learned that education is critical. We need to ensure government buyers feel confident using more open and more collaborative approaches. We need sellers to feel confident in sharing ideas and helping solve government problems at an earlier stage. And we need to build this education into every experience in the Marketplace.
 
-So now we’ve feasted we’ll continue to build and iterate the Digital Marketplace, refreshed by new ideas and richer understanding of the needs of all our users.
+We’ll continue to build and iterate the Digital Marketplace, refreshed by new ideas and richer understanding of the needs of all our users.
