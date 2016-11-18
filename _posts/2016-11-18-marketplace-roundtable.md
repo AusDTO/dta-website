@@ -7,6 +7,7 @@ category: blog
 tag: marketplace
 hero-image: /images/blog-content/mp-roundtable-image06.jpg
 thumbnail: mp-roundtable-thumb
+published: true
 ---
 
 ![]({{site.url}}{{page.hero-image}})
@@ -20,6 +21,7 @@ On 25 October we added a new approach. The first Digital Transformation Roundtab
 ## What are the top 5 priorities for the Marketplace in the next 6 months?
 
 ![Decorative image of top 5 priorities]({{site.url}}/images/blog-content/mp-roundtable-image01.jpg)
+
 *Question raised by Catherine Thompson from the Digital Transformation Agency.*
 
 The feedback indicated priorities should be:
@@ -30,19 +32,20 @@ The feedback indicated priorities should be:
 - Allow for fresh ‘unsolicited’ ideas from sellers
 - Improve the visibility of deal flow
 
-The most common piece of feedback was that we need to open the Marketplace to new sellers. **Self-service seller onboarding** is our top priority. We want to expand the range of services available in the Digital Marketplace and give all sellers the chance to offer services to government. We will announce the release date for this feature soon.
+The most common piece of feedback was that we need to open the Marketplace to new sellers. Self-service seller onboarding is our top priority. We want to expand the range of services available in the Digital Marketplace and give all sellers the chance to offer services to government. We will announce the release date for this feature soon.
 
-Creating more opportunities for conversation between buyers and sellers is something we’re addressing through improving **seller case studies** and through our **ideation platform** which will include real life and online opportunities for buyers and sellers to share ideas.
+Creating more opportunities for conversation between buyers and sellers is something we’re addressing through improving seller case studies** and through our ideation platform which will include real life and online opportunities for buyers and sellers to share ideas.
 
-We’re also working on modernising contracts. We’ve recently released the **digital work** order feature that allows for contracts to be created in the Marketplace. The work order allows flexibility over the work and payment approach. In future, we’re also looking at bringing more of the payment steps online with **e-Invoicing** and **procure to pay**.
+We’re also working on modernising contracts. We’ve recently released the digital work order feature that allows for contracts to be created in the Marketplace. The work order allows flexibility over the work and payment approach. In future, we’re also looking at bringing more of the payment steps online with e-Invoicing and procure to pay.
 
-Allowing unsolicited ideas from sellers is [already an option](https://marketplace.service.gov.au/pitch) of our Digital Marketplace Beta release. Admittedly, this is currently only a basic capability, but it’s one we will expand with the creation of our **ideation platform**.
+Allowing unsolicited ideas from sellers is [already an option](https://marketplace.service.gov.au/pitch) of our Digital Marketplace Beta release. Admittedly, this is currently only a basic capability, but it’s one we will expand with the creation of our ideation platform.
 
-Improving the visibility of deal flow is something we’re addressing through our **metrics and dashboard** which will make Digital Marketplace interactions more transparent.
+Improving the visibility of deal flow is something we’re addressing through our metrics and dashboard which will make Digital Marketplace interactions more transparent.
 
 ## What are the rules cultural and capability issues that make it hard to deal with government?
 
 ![Decorative image of capability issues]({{site.url}}/images/blog-content/mp-roundtable-image08.jpg)
+
 *Question raised by Faye Liu from the Department of the Prime Minister and Cabinet*
 
 Most of the feedback we received was about a lack of communication, in summary, that government:
@@ -57,6 +60,7 @@ The vision of the Digital Marketplace is an ‘environment that accommodates a l
 ## What emerging technologies can shape or revolutionise procurement — on or off the Marketplace?
 
 ![Decorative image of technology issues]({{site.url}}/images/blog-content/mp-roundtable-image07.jpg)
+
 *Question raised by Lindsay Holmwood from the Digital Transformation Agency.*
 
 The most surprising feedback received wasn’t the request for bleeding-edge technology to help us build the Digital Marketplace. It was far more human:
@@ -77,6 +81,7 @@ Good question. How do we stop people reinventing the wheel across government? In
 ## What would an ideal procurement system look like and how would it meet the needs of government, business and national policy?
 
 ![Decorative image of procurement issues]({{site.url}}/images/blog-content/mp-roundtable-image09.jpg)
+
 *Question raised by Suzanne Roche from the Australian Information Industry Association*
 
 In response to this question, the day’s major themes reemerged:
