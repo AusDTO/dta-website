@@ -1,12 +1,16 @@
 ---
-published: false
-layout: blog
+layout: post
+title: "How the BOM put users’ needs first"
+author: 'Jenny Hunter'
 category: blog
 tag: ''
-author: ''
+hero-image: bom-app-content
+thumbnail: bom-app-thumb
 ---
 
-_This is a guest post by Jenny Hunter, Head of Digital, Bureau of Meteorology._
+**This is a guest post by Jenny Hunter, Head of Digital, Bureau of Meteorology.**
+
+![Screenshots of the Bureau of Meteorology Weather app]({{site.url}}{{page.hero-image | asset_path }})
 
 Can we have a weather app? This was a consistent cry from the community. Yet with many other weather apps already available, how would one from BOM be received? Should it be different? Sophisticated or simple? What did our users really want?
 
@@ -40,12 +44,9 @@ Having the app as the test case has clearly shown the benefit of this evidence-d
 
 We need to do more work to develop our assessment capability and we've just hired a Digital Accessibility Officer to guide us on accessibility.
 
-
 And for now we are quickly learning how to manage and address the overwhelming amount of feedback so we can continue to improve on what we’ve already delivered.
 
+## Links
 
-
-
- 
-TODO See launch video
-
+* [See launch video](https://www.youtube.com/watch?v=dPkVSjgLpA4)
+* [Get the BOM Weather App](http://www.bom.gov.au/app/?ref=marketing)
