@@ -15,7 +15,6 @@ To help you get a response as soon as possible, please send your enquiry to the 
 If you’re from a government agency and the topic you’re interested in isn’t listed here, your first point of contact should be your agency’s nominated Digital Transformation Coordinator (DTC).
 </p>
 
-
 ## Where we're located
 
 Our offices are at:
@@ -37,7 +36,6 @@ Our offices are at:
   </li>
 </ul>
 
-
 ## Digital Marketplace
 
 If you have any questions about the Digital Marketplace, or if you would like to register your interest in being a seller, please email [marketplace@digital.gov.au](mailto:marketplace@digital.gov.au)
@@ -48,21 +46,21 @@ If you'd like someone from DTA to speak at an event, please send an email to [ev
 
 If you are a journalist and have a media enquiry, please send an email to [media@digital.gov.au](mailto:media@digital.gov.au).
 
-
 ## Digital Service Standard
 
 For enquiries about the Digital Service Standard and service assessments, please send an email to [standard@digital.gov.au](mailto:standard@digital.gov.au).
-
 
 ## Policy and governance
 
 For any other policy and governance enquiries, please send an email to [policy@digital.gov.au](mailto:policy@digital.gov.au).
 
-
 ## Identity
 
 For enquiries about the Identity program, please send an email to [identity@digital.gov.au](mailto:identity@digital.gov.au).
 
+## Performance Dashboard
+
+For enquiries about the Performance Dashboard, please send an email to [performance-dashboard@digital.gov.au](mailto:performance-dashboard@digital.gov.au).
 
 ## Our mailing address
 
