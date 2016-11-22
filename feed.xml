@@ -5,7 +5,7 @@ redirect_from: /feed/
 exclude_from_search: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Digital Transformation Agency Blog posts</title>
     <description>{{ site.description | xml_escape }}</description>
@@ -17,7 +17,12 @@ exclude_from_search: true
     {% for post in site.categories['blog'] limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.searchexcerpt | markdownify | xml_escape }}{{ post.content | xml_escape }}</description>
+        {%if post.searchexcerpt %}
+        <description>{{ post.searchexcerpt | markdownify | strip_html | xml_escape }}</description>
+        {% else %}
+        <description>{{ post.content | markdownify | strip_html | truncatewords:50 | xml_escape }}</description>
+        {% endif %}
+        <content:encoded>{{ post.searchexcerpt | markdownify | xml_escape }}{{ post.content | xml_escape }}</content:encoded>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
