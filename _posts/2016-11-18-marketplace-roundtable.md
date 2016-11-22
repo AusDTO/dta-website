@@ -5,11 +5,11 @@ author: Steven Berends
 author-excerpt: "Steven Berends is the Digital Marketplace content designer, based in Sydney."
 category: blog
 tag: marketplace
-hero-image: /images/blog-content/mp-roundtable-image06.jpg
+hero-image: mp-roundtable-image06
 thumbnail: mp-roundtable-thumb
 ---
 
-![]({{site.url}}{{page.hero-image}})
+![Montage of images showing audience and presenters at the Digital Transformation Roundtable]({{site.url}}{{page.hero-image | asset_path }})
 
 In the [Digital Service Standard](/standard/), ‘understanding user needs’ is the first criteria in the list. Arguably it’s the most important.
 
