@@ -11,7 +11,7 @@ thumbnail: mp-roundtable-thumb
 
 ![Montage of images showing audience and presenters at the Digital Transformation Roundtable]({{site.url}}{{page.hero-image | asset_path }})
 
-In the [Digital Service Standard](/standard/), ‘understanding user needs’ is the first criteria in the list. Arguably it’s the most important.
+In the [Digital Service Standard]({{site.url}}/standard/), ‘understanding user needs’ is the first criteria in the list. Arguably it’s the most important.
 
 During face-to-face meetings with buyers and sellers, we talk through their experiences and see how users respond to the site. We also use phone calls, hangouts and emails with people who are harder to reach. This approach gives us valuable insights [we’ve already used to iterate our Beta service](/blog/marketplace-shaped-by-user-needs/).
 
