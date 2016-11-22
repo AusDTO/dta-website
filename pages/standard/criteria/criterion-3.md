@@ -34,12 +34,12 @@ During the Beta and through to the Live stage you would be working closely with 
 
 ## Guidance related to this criterion
 
-* [Service design and delivery process](https://www.dto.gov.au/standard/service-design-and-delivery-process/)
-* [DTO Guide to Discovery](https://ausdto.github.io/service-handbook/discovery/index.html)
-* [DTO Guide to Alpha](https://ausdto.github.io/service-handbook/alpha/)
+* [Service design and delivery process](/standard/service-design-and-delivery-process/)
+* [DTA Guide to Discovery](https://ausdto.github.io/service-handbook/discovery/index.html)
+* [DTA Guide to Alpha](https://ausdto.github.io/service-handbook/alpha/)
 * [The Agile Manifesto](http://www.agilemanifesto.org/)
 
-## Further reading  
+## Further reading
 
 * [18F - Method cards](https://methods.18f.gov/)
 * [18F - Is your team using ‘agilefall’?](https://18f.gsa.gov/2015/12/29/is-your-project-using-agilefall/)

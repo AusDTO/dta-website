@@ -22,13 +22,13 @@ You can choose between an [in-flight assessment](/standard/meeting-standard/#inf
 * new or being redesigned and has / will have less than 50,000 transactions per year (low volume) 
 * an information service.
 
-All [DTO-led assessments](/standard/meeting-standard/#dtoled) on high volume transactional services will be in-flight assessments.
+All [DTA-led assessments](/standard/meeting-standard/#dtaled) on high volume transactional services will be in-flight assessments.
 
 ## Plan for assessment
 
 It’s essential to embed the Standard in the way you work from the beginning. It will help you to build a better service from the start. Tools are available to help you track how your service meets the Standard in a progressive way.
 
-The DTO recommends that you share your progress against the Standard as part of your weekly showcase. Then when it comes time for an assessment you’ll have a good basis of artefacts and activities from which to draw upon to show how you meet the Standard.
+The DTA recommends that you share your progress against the Standard as part of your weekly showcase. Then when it comes time for an assessment you’ll have a good basis of artefacts and activities from which to draw upon to show how you meet the Standard.
 
 In preparing for an assessment, the service manager needs to be confident that they can show how the service meets the Standard. The service manager should be able to satisfactorily answer the questions asked by the assessment panel.
 
@@ -51,7 +51,7 @@ The service manager will need to provide the DTC with a pre-assessment brief. Th
 * a link to the service or prototype, including any information needed to access it; such as login details and dummy account data
 * a high-level technical architecture diagram of the service, if appropriate.
 
-The DTC should inform the DTO Standard team, by emailing [standard@digital.gov.au](mailto:standard@digital.gov.au), of the planned assessment. The DTO will track all assessments and ensure the self-assessment team has the support it needs to conduct the assessment and report its outcome.
+The DTC should inform the DTA Standard team, by emailing [standard@digital.gov.au](mailto:standard@digital.gov.au), of the planned assessment. The DTA will track all assessments and ensure the self-assessment team has the support it needs to conduct the assessment and report its outcome.
 
 ## Attend the assessment
 
@@ -71,18 +71,18 @@ Assessment conversations will generally follow a structure:
 
 ## Assessment report is published 
 
-The service manager and the DTC will receive the outcome of the assessment (pass or not pass) and a report summarising the assessment within a few working days. The report will include recommendations with concise feedback on the service. The DTC will provide a copy of the report to the DTO to publish in the [assessment reports](/standard/assessments/) section of the DTO site.
+The service manager and the DTC will receive the outcome of the assessment (pass or not pass) and a report summarising the assessment within a few working days. The report will include recommendations with concise feedback on the service. The DTC will provide a copy of the report to the DTA to publish in the [assessment reports](/standard/assessments/) section of the DTA site.
 
 ## Follow the recommendations
 
 There are 2 possible outcomes from an assessment: pass or not pass.
 
-Passing an assessment means the service team can continue to progress through the stages of the [service design and delivery process](https://www.dto.gov.au/standard/service-design-and-delivery-process/). For example, when a service passes a Beta assessment, the service can go public with Beta branding applied. When the service passes a Live assessment the Beta branding will be removed.
+Passing an assessment means the service team can continue to progress through the stages of the [service design and delivery process](/standard/service-design-and-delivery-process/). For example, when a service passes a Beta assessment, the service can go public with Beta branding applied. When the service passes a Live assessment the Beta branding will be removed.
 
 If a service does not pass an assessment the service should not progress beyond its current stage of development. To assist service teams, the assessment panel’s report will provide recommendations on the actions the service manager might undertake to ensure the service will meet the Standard.
 
 Depending on the stage of development, the service manager should arrange a re-assessment. The re-assessment is only required for those criteria that were not passed.
 
-If the service does not pass an assessment twice the DTC is encouraged to seek assistance from the DTO.
+If the service does not pass an assessment twice the DTC is encouraged to seek assistance from the DTA.
 
 **Last updated**: 5 May 2016

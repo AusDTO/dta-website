@@ -23,7 +23,7 @@ We publish assessment reports to increase the transparency of government and hel
         </a>
       </li>
       <li role="presentation">
-        <a href="#dta-assessed" aria-controls="dto-assessed" role="tab">
+        <a href="#dta-assessed" aria-controls="dta-assessed" role="tab">
           <span class="is-visuallyhidden">Show only </span>DTA&ndash;led assessments
         </a>
       </li>

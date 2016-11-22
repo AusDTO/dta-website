@@ -14,16 +14,16 @@ Assessing against the Standard ensures that we build high-quality government ser
 
 Services will go through an independent assessment process that is either:
 
-* <a id="dtoled"></a>a Digital Transformation Agency (DTA) led assessment – for all new and redesigned transactional services that have / will have greater than 50,000 transactions per year (high volume)
+* <a id="dtaled"></a>a Digital Transformation Agency (DTA) led assessment – for all new and redesigned transactional services that have / will have greater than 50,000 transactions per year (high volume)
 * an agency self-assessment
   * for all new and redesigned transactional services that have / will have less than 50,000 transactions per year
   * any information service.
 
 ### Existing services
 
-For high volume transactional services that were operating or started redesign before 6 May 2016 you can check how well your service is performing against the Standard by inviting the DTO to do a review by emailing [standard@digital.gov.au](mailto:standard@digital.gov.au).
+For high volume transactional services that were operating or started redesign before 6 May 2016 you can check how well your service is performing against the Standard by inviting the DTA to do a review by emailing [standard@digital.gov.au](mailto:standard@digital.gov.au).
 
-The DTA reviews of existing services will be similar to the [staged assessment process](/standard/meeting-standard/staged-assessment-process/). The DTO will arrange a team of experts to review your service against the Standard and give you recommendations on how you can make your service simpler, clearer and faster.
+The DTA reviews of existing services will be similar to the [staged assessment process](/standard/meeting-standard/staged-assessment-process/). The DTA will arrange a team of experts to review your service against the Standard and give you recommendations on how you can make your service simpler, clearer and faster.
 
 ## Assessment processes
 
@@ -32,7 +32,7 @@ Your service will be assessed as it moves through the stages of the [service des
 * [in-flight assessment](#inflight) - regular check-ins by a team of experts as you design and develop your service
 * [staged assessment](/standard/meeting-standard/staged-assessment-process/) - assessments at 3 points in the service design and delivery process.
 
-All DTO-led assessments on high volume transactional services will be in-flight assessments.
+All DTA-led assessments on high volume transactional services will be in-flight assessments.
 
 For agency self-assessments on all other services, you may choose to use the [in-flight process](#inflight) or the [staged assessment process](/standard/meeting-standard/staged-assessment-process/).
 
@@ -56,7 +56,7 @@ The assessing team will generally include 3 assessors (one of which is nominated
 * technology
 * agile delivery.
 
-You can contact the DTO Standard team by emailing [standard@digital.gov.au](mailto:standard@digital.gov.au) for help on setting up an assessment team. Assessment teams are assigned during the mobilisation / kick-off stage, before the service enters Discovery, so that assessors are involved as early as possible in the project.
+You can contact the DTA Standard team by emailing [standard@digital.gov.au](mailto:standard@digital.gov.au) for help on setting up an assessment team. Assessment teams are assigned during the mobilisation / kick-off stage, before the service enters Discovery, so that assessors are involved as early as possible in the project.
 
 ### <a id="inflight"></a>In-flight assessment process
 
@@ -82,11 +82,11 @@ Both the assessors and the service team agree when the requirements of the stage
 
 This transition will also be documented by a brief report highlighting the achievements and learnings of the previous stage.
 
-If your service is a high volume transactional service, or you started designing/redesigning it after 6 May 2016, the Alpha, Beta and Live reports will be provided to the DTO for publishing. Services moving to public beta will also start reporting on the [Performance Dashboard](/what-we-do/platforms/performance/).
+If your service is a high volume transactional service, or you started designing/redesigning it after 6 May 2016, the Alpha, Beta and Live reports will be provided to the DTA for publishing. Services moving to public beta will also start reporting on the [Performance Dashboard](/what-we-do/platforms/performance/).
 
 ## Report publicly
 
-At each of the 3 stages - Alpha, Beta, Live - the assessment team produces a report. We publish [assessment reports](/standard/assessments/) on the DTO website to:  
+At each of the 3 stages - Alpha, Beta, Live - the assessment team produces a report. We publish [assessment reports](/standard/assessments/) on the DTA website to:  
 
 * contribute to a government-wide repository of better practice
 * provide a resource for other teams redesigning or building services
@@ -110,6 +110,6 @@ You will also need to check:
 
 ## Further reading
 
-* DTO blog: [Moving to an agile ‘in-flight’ assessment model](/blog/in-flight-assessment-model/)
+* DTA blog: [Moving to an agile ‘in-flight’ assessment model](/blog/in-flight-assessment-model/)
 
 **Last updated:** 6 May 2016

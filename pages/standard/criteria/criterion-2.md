@@ -40,8 +40,8 @@ You must be able to:
 
 ## Guidance related to this criterion
 * [The digital delivery team](/standard/design-guides/the-team/)
-* [DTO Guide to Discovery](https://ausdto.github.io/service-handbook/discovery/)
-* [DTO Guide to Alpha](http://ausdto.github.io/service-handbook/alpha/)
+* [DTA Guide to Discovery](https://ausdto.github.io/service-handbook/discovery/)
+* [DTA Guide to Alpha](http://ausdto.github.io/service-handbook/alpha/)
 
 ## Further reading  
 
