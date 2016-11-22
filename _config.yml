@@ -51,6 +51,7 @@ assets:
     - "*.jpg"
     - "bundle.css"
   sources:
+    - _assets/img/posts
     - _assets/scss
     - _assets/vendor
     - images/blog-content
@@ -67,11 +68,11 @@ defaults:
     values:
       layout: "default"
 
-# Config for htt://prose.io editor.
+# Config for http://prose.io editor.
 prose:
   rooturl: ''
-  siteurl: 'https://dta.apps.staging.digital.gov.au/'
-  media: 'images/blog-content'
+  siteurl: 'https://www.dta.gov.au/'
+  media: '_assets/img/posts/'
   ignore:
     - _config.yml
     - _config-production.yml
@@ -101,16 +102,8 @@ prose:
     _posts:
       - name: "layout"
         field:
-          element: "select"
-          label: "Layout"
-          placeholder: "Select Layout"
-          options:
-            - name: "Blog"
-              value: "blog"
-            - name: "News"
-              value: "news"
-            - name: "Media release"
-              value: "media-release"
+          element: "hidden"
+          value: "post"
       - name: "category"
         field:
           element: "select"
@@ -119,8 +112,8 @@ prose:
           options:
             - name: "Blog"
               value: "blog"
-            - name: "DTO News"
-              value: "[news, dto-news]"
+            - name: "News"
+              value: "[news]"
             - name: "Media release"
               value: "[news, media-release]"
       - name: "tag"
