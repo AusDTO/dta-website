@@ -6,6 +6,7 @@ category: blog
 tag: ''
 hero-image: bom-app-content
 thumbnail: bom-app-thumb
+og-image: bom-app-content
 ---
 
 **This is a guest post by Jenny Hunter, Head of Digital, Bureau of Meteorology.**

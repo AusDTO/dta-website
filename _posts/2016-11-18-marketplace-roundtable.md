@@ -7,6 +7,7 @@ category: blog
 tag: marketplace
 hero-image: mp-roundtable-image06
 thumbnail: mp-roundtable-thumb
+og-image: mp-roundtable-image06
 ---
 
 ![Montage of images showing audience and presenters at the Digital Transformation Roundtable]({{site.url}}{{page.hero-image | asset_path }})
