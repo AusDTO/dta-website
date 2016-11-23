@@ -32,7 +32,7 @@ Using these insights, we designed a simple app with forecasts, warnings, current
 
 It's absolutely true to say we were nervous about how it would be received. Would 'simple' be good enough?  As it turned out, we experienced that rare delight of an outpouring of gratitude and many expressions of thanks for keeping it simple. We also got a healthy dose of enthusiastic requests for more features.
 
-Launched on 7 October 2017, take up has exceeded expectations with around 400,000 users downloading BOM Weather app in the first month. We received more than 4,000 pieces of feedback with the highest volume through the app feedback form, the app stores and social media.
+Launched on 7 October 2016, take up has exceeded expectations with around 400,000 users downloading BOM Weather app in the first month. We received more than 4,000 pieces of feedback with the highest volume through the app feedback form, the app stores and social media.
 
 In terms of user satisfaction, a measure set out in the Standard, it is rating 4 stars on Google Play and on the Apple Store.
 
