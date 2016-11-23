@@ -20,7 +20,7 @@
 {% endif %}
 {% assign social-description = page.content | markdownify | strip_html | strip_newlines | truncatewords:50 %}
 {% if page.searchexcerpt%}
-  {% assign social-description= page.searchexcerpt | strip_html | strip_newlines | truncate: 50 %}
+  {% assign social-description= page.searchexcerpt | strip_html | strip_newlines %}
 {% endif %}
 
 {% assign url= page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
@@ -32,7 +32,7 @@
   <meta property="og:description" content="{{ social-description }}" />
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:description" content="{{ social-description }}" />
+  <meta name="twitter:description" content="{{ social-description | truncate:160}}" />
   <meta name="twitter:site" content="@{{ site.twitter }}" />
   <meta name="twitter:image" content="{{ site.url }}{{ social-image | asset_path }}" />
   <meta name="description" content="{{ site.description }}">
