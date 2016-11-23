@@ -26,4 +26,4 @@ The Digital Transformation Agency performs the following key functions:
 
 You can [contact any of our project teams](/contact/), to find out more about their work.
 
-You can also keep up with us online through our [blog](/blog/), [Twitter](https://twitter.com/dto) or [mailing list](http://govspace.us10.list-manage.com/subscribe?u=18f172213d32ca205c7e524bd&id=172d06cc83).
+You can also keep up with us online through our [blog](/blog/), [Twitter](https://twitter.com/{{ site.twitter }}) or [mailing list](http://govspace.us10.list-manage.com/subscribe?u=18f172213d32ca205c7e524bd&id=172d06cc83).
