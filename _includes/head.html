@@ -4,29 +4,45 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/images/icons/favicon.ico">
 
-  <!-- Social/unfurl  http://ogp.me/ , https://dev.twitter.com/cards/types/summary-->
+{% if page.title %}
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta property="og:title" content="{{ page.title | xml_escape }}" />
+  <meta name="twitter:title" content="{{ page.title | xml_escape }}" />
+{% else %}
+  <title>{{ site.title }}</title>
+  <meta property="og:title" content="{{ site.title | xml_escape }}" />
+  <meta name="twitter:title" content="{{ site.title | xml_escape }}" />
+{% endif %}
+
+{% assign social-image = 'dta-unfurl' %}
+{% if page.og-image %}
+  {% assign social-image = page.og-image %}
+{% endif %}
+{% assign social-description = page.content | markdownify | strip_html | strip_newlines | truncatewords:50 %}
+{% if page.searchexcerpt%}
+  {% assign social-description= page.searchexcerpt | strip_html | strip_newlines | truncate: 50 %}
+{% endif %}
+
+{% assign url= page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
+
   <meta property="og:locale" content="en_AU" />
-  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta property="og:type" content="Website" />
-  <meta property="og:image" content="{{ site.url }}{% asset_path dta-unfurl %}" />
-  <meta property="og:url" content="{{ site.url }}" />
-  <meta property="og:description" content="{% if page.searchexcerpt %}{{ page.searchexcerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="{{ site.url }}{{ social-image | asset_path }}" />
+  <meta property="og:url" content="{{ url }}" />
+  <meta property="og:description" content="{{ social-description }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:description" content="{% if page.searchexcerpt %}{{ page.searchexcerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
-  <meta name="twitter:title" content="{{ page.title }}" />
-  <meta name="twitter:site" content="@DTO" />
-  <meta name="twitter:image" content="{{ site.url }}{% asset_path dta-unfurl %}" />
-
-  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-
-  <meta name="description" content="{% if page.searchexcerpt %}{{ page.searchexcerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:description" content="{{ social-description }}" />
+  <meta name="twitter:site" content="@{{ site.twitter }}" />
+  <meta name="twitter:image" content="{{ site.url }}{{ social-image | asset_path }}" />
+  <meta name="description" content="{{ site.description }}">
   <meta name="creator" content="Digital Transformation Agency">
 
   {% if page.author %}<meta name="author" content="{{ page.author}}">{% endif %}
 
   <meta name="type" content="Text">
   <meta name="modified" content="{{ page.date | date: "%b %-d, %Y" }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="canonical" href="{{ url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
   {% include google_fonts.html %}
