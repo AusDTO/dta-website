@@ -1,42 +1,22 @@
 {% if page.layout == 'post' %}
   {% capture lis%}
-    {% if page.category contains 'blog' %}
+  {% if page.category contains 'blog' %}
 <li><a href="/blog/">Blog</a></li>
-    {% else %}
-<li><a href="/news/">News</a></li>
-    {% endif %}
     {% if page.tags %}
       {% if page.tags[0] == 'gov.au' %}
-<li><a href="/blog/gov-au/">GOV.AU blog</a></li>
+<li><a href="/blog/gov-au/">GOV.AU Blog</a></li>
       {% elsif page.tags[0] == 'dto-news' %}
 <li><a href="/blog/dto-news/">DTO News</a></li>
       {% endif %}
     {% endif %}
-  {% endcapture %}
-{% elsif page.layout == 'gov-au-post' %}
-  {% capture lis%}
-<li><a href="/blog/">Blog</a></li>
-<li><a href="/blog/gov-au/">GOV.AU blog</a></li>
-  {% endcapture %}
-{% elsif page.layout == 'tech-post' %}
-  {% capture lis%}
-<li><a href="/blog/">Blog</a></li>
-<li><a href="/blog/technology/">Technology blog</a></li>
-  {% endcapture %}
-{% elsif page.layout == 'service-design-post' %}
-  {% capture lis%}
-<li><a href="/blog/">Blog</a></li>
-<li><a href="/blog/service-design/">Service design blog</a></li>
+  {% else %}
+<li><a href="/news/">News</a></li>
+  {% endif %}
   {% endcapture %}
 {% elsif page.layout == 'media-release' %}
   {% capture lis%}
 <li><a href="/news/">News</a></li>
 <li><a href="/news/media-releases/">Media releases</a></li>
-  {% endcapture %}
-{% elsif page.layout == 'news' %}
-  {% capture lis%}
-<li><a href="/news/">News</a></li>
-<li><a href="/news/dta-news/">DTA news</a></li>
   {% endcapture %}
 {% endif %}
 

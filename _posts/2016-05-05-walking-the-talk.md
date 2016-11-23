@@ -1,5 +1,5 @@
 ---
-layout: gov-au-post
+layout: post
 title: "Walking the talk: putting together the GOV.AU Content Style Guide"
 author: Libby Varcoe and Trisha Treanor
 category: blog

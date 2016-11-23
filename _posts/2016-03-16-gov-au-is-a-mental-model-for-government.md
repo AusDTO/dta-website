@@ -1,5 +1,5 @@
 ---
-layout: gov-au-post
+layout: post
 title: GOV.AU is a ‘mental model’ of government 
 author: Leisa Reichelt
 profile: "/images/leisa-reichelt-profile.jpg"

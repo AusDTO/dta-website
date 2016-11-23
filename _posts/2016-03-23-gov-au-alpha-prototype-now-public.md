@@ -1,5 +1,5 @@
 ---
-layout: gov-au-post
+layout: post
 title: The GOV.AU Alpha prototype is now public
 author: Leisa Reichelt
 profile: "/images/leisa-reichelt-profile.png"
