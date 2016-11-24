@@ -37,7 +37,7 @@
 
 {% if page.searchexcerpt %}
   {% assign description = page.searchexcerpt | markdownify | strip_html %}
-{% elsif page.url == "/" %} %}
+{% elsif page.url == "/" %}
   {% assign description = site.description %}
 {% endif %}
 {% if description %}
