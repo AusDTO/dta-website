@@ -88,7 +88,7 @@ The Digital Service Standard ensures digital teams build government services tha
 Contact the Digital Service Standard team: <a href="mailto:standard@digital.gov.au?subject=Feedback%20on%20the%20Standard">standard@digital.gov.au</a>.
 
 ## Tools
-[Digital Service Standard poster (PDF 83 KB)](/files/DTO_Digital-Service-Standard_CRITERIA-A4_August 2016.pdf)
+[Digital Service Standard poster (PDF 83 KB)](/files/DTO_Digital-Service-Standard_CRITERIA-A4_August%202016.pdf)
 
 [Digital Service Standard kanban poster (PDF 195 KB)](/files/DTO_DSS_KANBAN_POSTER_WCAG_Aug30_A0.pdf)
 
