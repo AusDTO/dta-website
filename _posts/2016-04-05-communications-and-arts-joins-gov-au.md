@@ -1,5 +1,5 @@
 ---
-layout: gov-au-post
+layout: post
 title: "Department of Communications and Arts joins GOV.AU"
 author: Kim Ulrick
 read-time: 2

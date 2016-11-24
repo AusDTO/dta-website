@@ -5,11 +5,10 @@ author: Catherine Thompson
 category: blog
 tag: [dto-news, marketplace]
 hero-image: marketplace-hero
+hero-image-alt: "Paul Shetler with Angus Taylor and Digital Marketplace Team"
 thumbnail: marketplace-thumb
 searchexcerpt: 
 ---
-
-![Paul Shetler with Angus Taylor and Digital Marketplace Team]({{site.url}}{{ page.hero-image | asset_path }})
 
 *Caption: Paul Shetler with Angus Taylor and Digital Marketplace Team*
 

@@ -1,5 +1,5 @@
 ---
-layout: gov-au-post
+layout: post
 title: Show ‘n tell (and listen) at the Dept of Comms & Arts
 author: Michael Hugill
 category: blog

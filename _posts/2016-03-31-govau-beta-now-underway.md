@@ -1,5 +1,5 @@
 ---
-layout: gov-au-post
+layout: post
 title: GOV.AU Beta now underway
 author: Radi Kovacevic
 read-time: 

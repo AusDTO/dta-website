@@ -5,6 +5,7 @@ author: Jo Hill
 category: blog
 tag: dto-news
 hero-image: accessibility-in-service-design-blog
+hero-image-alt: Jo Hill presenting in front of a crowd at the DTO
 thumbnail: accessibility-in-service-design-thumbnail
 searchexcerpt:  
 ---
