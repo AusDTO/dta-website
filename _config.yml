@@ -98,13 +98,29 @@ prose:
     - /Staticfile.auth
     - README.md
     - Rakefile
-    
+
   metadata:
     _posts:
       - name: "layout"
         field:
           element: "hidden"
           value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "hero-image"
+        field:
+          element: "text"
+          label: "Hero image (filename only)"
+      - name: "hero-image-alt"
+        field:
+          element: "text"
+          label: "Hero image alt text"
+      - name: "thumbnail"
+        field:
+          element: "text"
+          label: "Thumbnail image (filename only)"
       - name: "category"
         field:
           element: "select"
@@ -126,29 +142,6 @@ prose:
             - name: "GOV.AU"
               value: "govau"
             - name: "Marketplace"
-              value: "Marketplace"
+              value: "marketplace"
             - name: "DTA News"
               value: "dta-news"
-      - name: "author"
-        field:
-          element: "select"
-          label: "Author"
-          placeholder: "Select Author"
-          options:
-            - name: "Paul Shetler"
-              value: "Paul Shetler"
-            - name: "Leisa Reichelt"
-              value: "Leisa Reichelt"
-            - name: "Matthew Landauer"
-              value: "Matthew Landauer"
-            - name: "Dan Searle"
-              value: "Dan Searle"
-            - name: "Jacqui van Teulingen"
-              value: "Jacqui van Teulingen"
-            - name: "Jordan Hatch"
-              value: "Jordan Hatch"
-    _staff:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "staff"

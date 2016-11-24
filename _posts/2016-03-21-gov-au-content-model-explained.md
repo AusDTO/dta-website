@@ -1,5 +1,5 @@
 ---
-layout: gov-au-post
+layout: post
 title: GOV.AU’s content model explained 
 author: Leisa Reichelt
 profile: "/images/leisa-reichelt-profile.jpg"

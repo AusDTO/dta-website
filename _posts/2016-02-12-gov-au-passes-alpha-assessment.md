@@ -1,5 +1,5 @@
 ---
-layout: gov-au-post
+layout: post
 title: GOV.AU passes Alpha assessment
 author: Jacqui van Teulingen
 profile: "/images/jacqui-van-teulingen-profile.png"

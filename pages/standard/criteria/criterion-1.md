@@ -41,8 +41,8 @@ By the time you are ready to go live you should:
 
 ## Guidance related to this criterion
 
-* [DTO Guide to Discovery](https://ausdto.github.io/service-handbook/discovery/) 
-* [DTO Guide to Alpha](http://ausdto.github.io/service-handbook/alpha/)
+* [DTA Guide to Discovery](https://ausdto.github.io/service-handbook/discovery/) 
+* [DTA Guide to Alpha](http://ausdto.github.io/service-handbook/alpha/)
 
 ## Further reading
 

@@ -1,5 +1,5 @@
 ---
-layout: gov-au-post
+layout: post
 title: GOV.AU - The first 9 weeks
 author: Leisa Reichelt
 published: true

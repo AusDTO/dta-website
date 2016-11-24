@@ -11,7 +11,7 @@ The main changes are:
 - broadening the measurement requirements (updating 11)
 - removing a criterion (14) about users succeeding first time unaided.
 
-The [reasons for these changes to the Standard](/blog/standard-goes-live/) are discussed on the DTO blog.
+The [reasons for these changes to the Standard](/blog/standard-goes-live/) are discussed on the DTA blog.
 
 You can read the [changes between the Alpha and Beta version of the Digital Service Standard](https://github.com/AusDTO/Digital-Service-Standard/commit/34baa753039c6a) on GitHub.
 

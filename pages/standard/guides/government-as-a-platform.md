@@ -20,7 +20,7 @@ The Australian Government needs to continuously enhance service delivery that’
 
 ## How do I?
 
-The Digital Transformation Agency (DTO) will be providing guidance and support on government as a platform in the coming months to assist agencies in adopting this approach to service and information delivery. In the meantime, agencies are encouraged to continue publishing appropriate datasets on [data.gov.au](http://www.data.gov.au/).
+The Digital Transformation Agency (DTA) will be providing guidance and support on government as a platform in the coming months to assist agencies in adopting this approach to service and information delivery. In the meantime, agencies are encouraged to continue publishing appropriate datasets on [data.gov.au](http://www.data.gov.au/).
 
 Meanwhile, some useful reading on this concept is available:
 

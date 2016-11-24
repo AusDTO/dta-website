@@ -1,5 +1,5 @@
 ---
-layout: gov-au-post
+layout: post
 title: "govCMS and GOV.AU Beta: a joint approach to improving online service delivery"
 author: Paul Shetler and John Sheridan
 read-time: 2
