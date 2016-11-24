@@ -8,7 +8,6 @@ tag: marketplace
 hero-image: mp-roundtable-image06
 hero-image-alt: "Montage of images showing audience and presenters at the Digital Transformation Roundtable"
 thumbnail: mp-roundtable-thumb
-og-image: mp-roundtable-image06
 ---
 
 In the [Digital Service Standard]({{site.url}}/standard/), ‘understanding user needs’ is the first criteria in the list. Arguably it’s the most important.
