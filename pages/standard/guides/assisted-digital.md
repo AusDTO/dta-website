@@ -16,7 +16,7 @@ As this guide evolves it will outline the circumstances in which a person may re
 
 ## Why must I?
 
-[The Coalition’s Policy for E-Government and the Digital Economy (PDF 1.18 MB)](http://lpaweb-static.s3.amazonaws.com/Coalition%27s%20Policy%20for%20E-Government%20and%20the%20Digital%20Economy.pdf "Exiting DTO website") designates the Internet as the default way for government to interact with users, other than for defined exceptions. These defined exceptions may be an inability to interact digitally due to location, disability, language, or digital literacy.
+[The Coalition’s Policy for E-Government and the Digital Economy (PDF 1.18 MB)](http://lpaweb-static.s3.amazonaws.com/Coalition%27s%20Policy%20for%20E-Government%20and%20the%20Digital%20Economy.pdf "Exiting DTA website") designates the Internet as the default way for government to interact with users, other than for defined exceptions. These defined exceptions may be an inability to interact digitally due to location, disability, language, or digital literacy.
 
 ![Diagram showing the digital and assisted digital routes to a digital service]({{site.baseurl}}/images/standard/assist_dig_0.png)
 

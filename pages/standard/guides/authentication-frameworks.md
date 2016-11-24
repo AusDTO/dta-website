@@ -11,7 +11,7 @@ topic:
 ---
 Trust is essential to the government agencies that deliver services, and the users of these services. We need authentication frameworks, policies, standards and technologies that help establish and maintain the required levels of trust.
 
-On 1 July 2015 the DTO took over responsibility for the following authentication frameworks from the Department of Finance:
+On 1 July 2015 the DTA took over responsibility for the following authentication frameworks from the Department of Finance:
 
 - [National e-Authentication Framework (NeAF)](/standard/design-guides/authentication-frameworks/national-e-authentication-framework/)
 - [Gatekeeper Public Key Infrastructure (PKI) Framework](/standard/design-guides/authentication-frameworks/gatekeeper-public-key-infrastructure-framework/)
@@ -19,7 +19,7 @@ On 1 July 2015 the DTO took over responsibility for the following authentication
 
 We are currently reviewing these frameworks for incorporation into the [Trusted Digital Identity Framework](/standard/design-guides/identity-assurance/).
 
-If you have any questions or would like further information, contact the Authentication Team: [authentication@dto.gov.au](mailto:authentication@dto.gov.au)
+If you have any questions or would like further information, contact the Authentication Team: [authentication@dta.gov.au](mailto:authentication@dta.gov.au)
 
 ## Related links
 

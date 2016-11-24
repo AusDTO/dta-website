@@ -26,7 +26,7 @@ Gatekeeper accreditation covers the issuing of digital keys and certificates to 
 
 Providers are assessed by Information Security Registered Assessor Program (IRAP) assessors. The services are audited by IRAP assessors annually to ensure compliance with the Gatekeeper PKI Framework.
 
-If you are contracted by a service provider to undertake an IRAP assessment you can request a service provider’s list of approved documents by contacting [authentication@dto.gov.au](mailto:authentication@dto.gov.au)
+If you are contracted by a service provider to undertake an IRAP assessment you can request a service provider’s list of approved documents by contacting [authentication@dta.gov.au](mailto:authentication@dta.gov.au)
 
 Gatekeeper documents:
 

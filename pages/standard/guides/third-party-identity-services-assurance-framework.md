@@ -48,7 +48,7 @@ The Assurance Framework is also informed by these policy frameworks:
 - [National Identity Security Strategy](https://www.ag.gov.au/rightsandprotections/identitysecurity/pages/nationalidentitysecuritystrategy.aspx)
 - [National Identity Proofing Guidelines](https://www.ag.gov.au/RightsAndProtections/IdentitySecurity/Pages/Identity-security-guidelines-and-standards.aspx).
 
-If you are an Information Security Registered Assessor contracted by a service provider to undertake an IRAP assessment, you can request a service provider’s list of approved documents by contacting [authentication@dto.gov.au](mailto:authentication@dto.gov.au)
+If you are an Information Security Registered Assessor contracted by a service provider to undertake an IRAP assessment, you can request a service provider’s list of approved documents by contacting [authentication@dta.gov.au](mailto:authentication@dta.gov.au)
 
 ## Accredited service providers
 
