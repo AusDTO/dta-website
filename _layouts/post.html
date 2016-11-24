@@ -15,6 +15,9 @@ breadcrumb_type: post
   </div>
 
   <section class="post-body">
+    {% if page.hero-image-alt %}
+      <img src="{{site.url}}{{ page.hero-image | asset_path}}" alt="{{ page.hero-image-alt }}">
+    {% endif %}
     {{ content }}
   </section>
 
