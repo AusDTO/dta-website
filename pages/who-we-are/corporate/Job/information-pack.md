@@ -1,7 +1,7 @@
 ---
 layout: basic
 title: Jobs
-permalink: /who-we-are/corporate/jobs/
+permalink: /who-we-are/corporate/jobs/job-information-pack
 redirect_from:
   - /careers/
   - /jobs/
