@@ -31,9 +31,12 @@
     {% include footer.html %}
 
     <!--[if lt IE 9]>
-    <script async type="text/javascript" src="{% asset_path main-ie8.js %}"></script>
+    <script type="text/javascript" src="{% asset_path main-ie8.js %}"></script>
     <![endif]-->
 
+    <script type="text/javascript" src="{% asset_path ui-kit.js %}"></script>
+
     <script async type="text/javascript" src="{% asset_path main.js %}"></script>
+
   </body>
 </html>

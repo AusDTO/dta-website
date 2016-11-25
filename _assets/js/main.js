@@ -8,6 +8,4 @@
 //= require 'vendor/jquery.lunr.search'
 //= require search
 
-//= require 'vendor/ui-kit'
-
 //= require assessment-tabs
