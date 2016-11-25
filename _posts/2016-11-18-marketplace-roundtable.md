@@ -78,7 +78,7 @@ Good question. How do we stop people reinventing the wheel across government? In
 
 ## What would an ideal procurement system look like and how would it meet the needs of government, business and national policy?
 
-![Decorative image of procurement issues]({{site.url}}/images/blog-content/mp-roundtable-image09.jpg)
+![Decorative image of procurement issues]({{site.url}}{% asset_path mp-roundtable-image09 %})
 
 *Question raised by Suzanne Roche from the Australian Information Industry Association*
 
