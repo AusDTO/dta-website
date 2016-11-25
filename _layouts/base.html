@@ -24,19 +24,16 @@
     {% endunless %}
 
     <main role="main">
-
-      {% unless page.url == "/" %}
       {% include local-nav.html %}
-      {% endunless %}
-
       {{ content }}
-
     </main>
 
     {% include footer.html %}
 
-    {% include javascript.html %}
+    <!--[if lt IE 9]>
+    <script async type="text/javascript" src="{% asset_path main-ie8.js %}"></script>
+    <![endif]-->
 
-    {% include uikit_scripts.html %}
+    <script async type="text/javascript" src="{% asset_path main.js %}"></script>
   </body>
 </html>

@@ -18,7 +18,7 @@ On 25 October we added a new approach. The first Digital Transformation Roundtab
 
 ## What are the top 5 priorities for the Marketplace in the next 6 months?
 
-![Decorative image of top 5 priorities]({{site.url}}/images/blog-content/mp-roundtable-image01.jpg)
+![Decorative image of top 5 priorities]({{site.url}}{% asset_path mp-roundtable-image01 %})
 
 *Question raised by Catherine Thompson from the Digital Transformation Agency.*
 
@@ -42,7 +42,7 @@ Improving the visibility of deal flow is something we’re addressing through ou
 
 ## What are the rules cultural and capability issues that make it hard to deal with government?
 
-![Decorative image of capability issues]({{site.url}}/images/blog-content/mp-roundtable-image08.jpg)
+![Decorative image of capability issues]({{site.url}}{% asset_path mp-roundtable-image08 %})
 
 *Question raised by Faye Liu from the Department of the Prime Minister and Cabinet*
 
@@ -57,7 +57,7 @@ The vision of the Digital Marketplace is an ‘environment that accommodates a l
 
 ## What emerging technologies can shape or revolutionise procurement — on or off the Marketplace?
 
-![Decorative image of technology issues]({{site.url}}/images/blog-content/mp-roundtable-image07.jpg)
+![Decorative image of technology issues]({{site.url}}{% asset_path mp-roundtable-image07 %})
 
 *Question raised by Lindsay Holmwood from the Digital Transformation Agency.*
 
@@ -78,7 +78,7 @@ Good question. How do we stop people reinventing the wheel across government? In
 
 ## What would an ideal procurement system look like and how would it meet the needs of government, business and national policy?
 
-![Decorative image of procurement issues]({{site.url}}/images/blog-content/mp-roundtable-image09.jpg)
+![Decorative image of procurement issues]({{site.url}}{% asset_path mp-roundtable-image09 %})
 
 *Question raised by Suzanne Roche from the Australian Information Industry Association*
 
