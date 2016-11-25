@@ -53,6 +53,7 @@ assets:
     - "bundle.css"
   sources:
     - _assets/img/posts
+    - _assets/js/vendor
     - _assets/scss
     - _assets/vendor
     - images/blog-content
