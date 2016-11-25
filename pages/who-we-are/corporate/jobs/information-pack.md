@@ -1,7 +1,7 @@
 ---
 layout: basic
 title: Job Information Pack
-permalink: /who-we-are/corporate/jobs/job-information-pack
+permalink: /who-we-are/corporate/jobs/job-information-pack/
 searchexcerpt: We have put together some information to assist you in applying for vacancies with us as developers, user researchers, digital leaders and designers.
 ---
 ## Introduction
