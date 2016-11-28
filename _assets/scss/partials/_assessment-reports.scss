@@ -142,3 +142,30 @@ ul {
     display: block;
   }
 }
+
+.assessment-report {
+  dl.key-value {
+    @media screen and (min-width: $mobile-minwidth) {
+      margin-bottom: 0;
+      dt {
+        display: inline-block;
+        vertical-align: top;
+        font-weight: bold;
+        width: 40%;
+        margin: 0 0 $tiny-spacing 0;
+        &:last-child {
+          margin-bottom: 0;
+        }
+      }
+      dd {
+        display: inline-block;
+        width: 60%;
+        margin: 0 0 $tiny-spacing 0;
+        margin-bottom: $tiny-spacing;
+        &:last-child {
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
+}
