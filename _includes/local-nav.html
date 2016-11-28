@@ -18,6 +18,8 @@
                 {% assign items = site.data.what-we-do_localnav %}
             {% elsif localnav == 'who-we-are' %}
                 {% assign items = site.data.who_we_are_localnav %}
+            {% elsif localnav == 'annual-report-2015-16' %}
+                {% assign items = site.data.annual-report-2015-16_localnav %}
             {% endif %}
 
             {% for item in items %}

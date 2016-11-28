@@ -38,6 +38,7 @@ $live: #859949;
 
 // Import partials from `partials`
 @import 'partials/accordions';
+@import 'partials/annual-report';
 @import 'partials/assessment-reports';
 @import 'partials/buttons';
 @import 'partials/contact';
@@ -55,10 +56,13 @@ $live: #859949;
 @import 'partials/homepage';
 @import 'partials/icons';
 @import 'partials/latest-post-list';
+@import 'partials/page-group';
 @import 'partials/post';
 @import 'partials/post-share-links';
 @import 'partials/recruiterbox';
-@import 'partials/transformation-agenda';
 @import 'partials/signup';
 @import 'partials/site-search';
 @import 'partials/social-media-list';
+@import 'partials/tables';
+@import 'partials/transformation-agenda';
+@import 'partials/typography';

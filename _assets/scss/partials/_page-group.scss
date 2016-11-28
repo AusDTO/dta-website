@@ -1,0 +1,54 @@
+.page-group-title {
+  display: block;
+  font-size: rem(16);
+  font-weight: normal;
+  color: $grey;
+
+  @include media($tablet) {
+    font-size: rem(17);
+    padding-bottom: $base-spacing;
+  }
+}
+
+.back-to-top-link {
+  font-size: $small-font-size;
+  text-align: right;
+  margin-top: $base-spacing;
+  margin-bottom: $base-spacing;
+  max-width: 40rem;
+}
+
+.page-group-progress {
+  margin-top: $large-spacing;
+  border-top: solid 1px $light-grey;
+  max-width: 38em;
+
+  ul {
+    list-style: none;
+    margin-top: $small-spacing;
+    padding-left: 0;
+    li {
+      a:first-child {
+        font-weight: bold;
+      }
+    }
+  }
+  @include media($tablet) {
+    .previous {
+      float: left;
+      max-width: 13em;
+      text-align: left;
+    }
+    .next {
+      float: right;
+      max-width: 13em;
+      text-align: right;
+    }
+  }
+  @include media($desktop) {
+    .previous, .next {
+      max-width: 15em;
+    }
+  }
+  @include clearfix;
+}
