@@ -1,46 +1,50 @@
-# dta-website
+# Digital Transformation Agency's website
 
 [![CircleCI](https://circleci.com/gh/AusDTO/dta-website.svg?style=svg&circle-token=2bcec14fa84e7b927e3e048f8448bc3c4f91674d)](https://circleci.com/gh/AusDTO/dta-website)
 [![Stories in Ready](https://badge.waffle.io/AusDTO/dta-website.png?label=ready&title=Ready)](https://waffle.io/AusDTO/dta-website)
 
-## Development
+www.dta.gov.au is a [Jekyll website](http://jekyllrb.com/).
 
-### Setup
 
-DTA.GOV.AU is a [Jekyll website](http://jekyllrb.com/). You will need to have [rbenv](https://github.com/rbenv/rbenv) installed to manage Ruby and RubyGems.
+## Installation
 
-Setup dta.gov.au locally
+**Ensure you have the pre-requisites installed:**
 
-```
-git clone git@github.com:AusDTO/dta-website.git
-cd dta-website
-gem install bundler
-bundle install
-```
+- [Ruby 2.3.1](https://www.ruby-lang.org/en/documentation/installation/)
+- [rbenv](https://github.com/rbenv/rbenv)
+- [Bundler](http://bundler.io/)
 
-Launch dta.gov.au locally
+Run each of the following commands to get the site running locally:
 
-```
-bundle exec jekyll serve --watch
-```
+1. `git clone git@github.com:AusDTO/dta-website.git`
+2. `cd dta-website`
+3. `bundle install`
+4. `bundle exec jekyll serve`
 
 You should be able to see the site at: http://127.0.0.1:4000
 
-## Hacking on Content
+To increase the speed of jekyll builds, you can replace the last step with `bin/serve`. This will disable the search plugin and only render the latest post.
 
-Create a branch from the `develop` branch.  
+## Development Process
 
-To test that branch out you can push to cloud.gov.au before commiting to git.
+The `develop` branch is continuously deployed by circleCI to https://dta.apps.staging.digital.gov.au/
 
-`cf push branchname` # assumes you are logged into the staging platform.
+The `master` branch is continuously deployed by circleCI to https://www.dta.gov.au/
 
-Remember to delete unused apps:
+When starting a new change, create a branch from the `develop` branch.
+
+To test that branch out you can push to cloud.gov.au before commiting to git. Refer to the [cloud.gov.au documentation](http://docs.cloud.gov.au/) to setup `cf` if needed.
+
+Run each of the following commands to deploy your local site to cloud.gov.au:
+
+1. `bundle exec jekyll build`
+2. `cf push branchname` # assumes you are logged into the staging platform.
+
+Remember to delete unused apps when you are done:
 
 `cf delete branchname`
 
 When your change is ready, submit a PR to the `develop` branch.
-The develop branch is continuously deployed to https://dta.apps.staging.digital.gov.au/
-The master branch is continuously deployed to https://www.dta.gov.au/
 
 When ready for a production deploy, merge the `develop` branch to `master`. You can do this through Github [with a PR](https://github.com/AusDTO/dta-website/compare/master...develop) or from the command line:
 
