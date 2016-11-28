@@ -42,10 +42,10 @@ Chief Executive Officer
   Solutions are found on the go, through collaborative effort and user feedback. This approach enables teams to start small and learn fast. Critically, it reduces the risk of service failure.
   
   DTO’s service design and delivery process has four stages:
-   * Discovery: This stage involves mapping the broader service landscape, researching the real needs and problems faced by users, and understanding the policy intent and technology constraints.
-   * Alpha: During alpha, the team tests out a hypothesis by building prototypes in code, exploring different ways to meet the needs of users. User research is conducted to learn which of the approaches works best, and the solution continues to be iterated as more is learned.
-   * Beta: Using the successful prototype from stage 2, a Minimum Viable Product is built as an accessible and secure service. Members of the public trial the beta version alongside the existing service, and their feedback is used to improve the service.
-   * Live: The team and processes are put in place to continue operating and improving the service. Old services are phased out, and existing non-digital channels are consolidated.
+   1. **Discovery:** This stage involves mapping the broader service landscape, researching the real needs and problems faced by users, and understanding the policy intent and technology constraints.
+   2. **Alpha:** During alpha, the team tests out a hypothesis by building prototypes in code, exploring different ways to meet the needs of users. User research is conducted to learn which of the approaches works best, and the solution continues to be iterated as more is learned.
+   3. **Beta:** Using the successful prototype from stage 2, a Minimum Viable Product is built as an accessible and secure service. Members of the public trial the beta version alongside the existing service, and their feedback is used to improve the service.
+   4. **Live:** The team and processes are put in place to continue operating and improving the service. Old services are phased out, and existing non-digital channels are consolidated.
   
   Each stage of the process is strategically crafted to ensure feasibility and system capacity. The system is designed to allow users to engage in the process to give greater transparency to government processes and service provision.
   
