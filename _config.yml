@@ -45,6 +45,7 @@ exclude:
   - circle.yml
   - README.md
   - manifest*.yml
+  - ld_library_path
 
 assets:
   assets:
