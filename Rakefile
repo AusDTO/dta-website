@@ -43,3 +43,11 @@ task :ui_kit_update do
   file.write Net::HTTP.get(URI.parse(UIKIT_JS))
 
 end
+
+# When run on cf with the ruby buildpack, this will build
+# the jekyll site as part of the assets pipeline
+namespace :assets do
+  task :precompile do
+    puts `bundle exec jekyll build`
+  end
+end
