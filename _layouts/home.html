@@ -22,9 +22,9 @@ layout: base
       <li>
         <figure>
           {% if post.thumbnail %}
-          <a href="{{ url }}"><img class="blog-thumbnail" src="{{ post.thumbnail | asset_path }}" alt="{{ post.title }}"></a>
+          <a href="{{ url }}"><img class="blog-thumbnail" src="{{ post.thumbnail | asset_path }}" alt=""></a>
           {% else %}
-          <a href="{{ url }}"><img class="blog-thumbnail" src="{% asset_path blog-thumbnail-placeholder %}" alt="{{ post.title }}"></a>
+          <a href="{{ url }}"><img class="blog-thumbnail" src="{% asset_path blog-thumbnail-placeholder %}" alt=""></a>
           {% endif %}
         </figure>
         <article>

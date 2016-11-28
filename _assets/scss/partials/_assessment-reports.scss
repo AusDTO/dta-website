@@ -1,84 +1,84 @@
 /* standard callout at top of assessment reports */
 ul {
-	&.assessment-metadata {
-		list-style-type:none;
-		padding-left:0;
-		li {
-			margin-bottom:10px;
-			&:before {
-				display:none;
-			}
-			span {
-				font-weight:600;
-			}
-		}
-	}
+  &.assessment-metadata {
+    list-style-type: none;
+    padding-left: 0;
+    li {
+      margin-bottom: 10px;
+      &:before {
+        display: none;
+      }
+      span {
+        font-weight: 600;
+      }
+    }
+  }
 }
 
 .related-assessment-reports {
-  border-top:1px solid $dta-light-grey;
-  margin-top:30px;
-  padding:20px 0 30px;
+  border-top: 1px solid $dta-light-grey;
+  margin-top: 30px;
+  padding: 20px 0 30px;
   h2 {
-    font-size:17px
+    font-size: 17px
   }
   a {
-    margin-bottom:5px;
+    margin-bottom: 5px;
   }
 }
 
 //list of assessment reports
 .assessment-list-header {
-  height:0;
-  margin:40px 0 10px;
-  font-size:17px;
+  height: 0;
+  margin: 40px 0 10px;
+  font-size: 17px;
   .inner {
-    display:inline-block;
-    background-color:#fff;
-    top:-13px;
-    position:relative;
-    font-weight:600;
+    display: inline-block;
+    background-color: #fff;
+    top: -13px;
+    position: relative;
+    font-weight: 600;
   }
 }
 
 .assessment-list-header-v2 {
-  border-bottom:1px solid $dta-light-grey;
-  height:0;
-  margin:60px 0 10px;
-  font-size:17px;
-  text-align:center;
+  border-bottom: 1px solid $dta-light-grey;
+  height: 0;
+  margin: 60px 0 10px;
+  font-size: 17px;
+  text-align: center;
   .inner {
-    display:inline-block;
-    background-color:#fff;
-    top:-13px;
-    position:relative;
-    font-weight:600;
+    display: inline-block;
+    background-color: #fff;
+    top: -13px;
+    position: relative;
+    font-weight: 600;
   }
 }
 
 .assessment-report-list {
-  margin-top:40px;
-	list-style-type:none;
-	padding-left:0;
+  margin-top: 40px;
+  list-style-type: none;
+  padding-left: 0;
   li {
-    margin-bottom:20px;
-    padding-bottom:20px;
-    border-bottom:1px solid $dta-light-grey;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid $dta-light-grey;
   }
   .Beta, .Alpha, .Live {
-    float:left;
-    margin-right:13px;
-    min-width:65px;
-    padding:2px;
-    font-size:18px;
-    font-weight:600;
-    color:#fff;
-    text-align:center;
-    border-radius:6px;
-		@media (max-width: $mobile-minwidth) {
-			float:right;
-			padding:2px 5px;
-		}
+    float: left;
+    margin-right: 13px;
+    min-width: 65px;
+    padding: 2px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    @media (max-width: $mobile-minwidth) {
+      float: right;
+      padding: 2px 5px;
+    }
   }
   .Beta {
     background-color: $beta;
@@ -87,49 +87,47 @@ ul {
     background-color: $alpha;
   }
   a {
-    font-weight:600;
-    margin-right:6px;
-    font-size:18px;
-    text-decoration:none;
-		@media (max-width: $mobile-minwidth) {
-			display:block;
-			margin-bottom:8px;
-		}
+    font-weight: 600;
+    margin-right: 6px;
+    font-size: 18px;
+    text-decoration: none;
+    @media (max-width: $mobile-minwidth) {
+      display: block;
+      margin-bottom: 8px;
+    }
   }
   .assessed-by, .date {
-    color:$dta-mid-grey;
-    font-size:17px;
+    color: $dta-mid-grey;
+    font-size: 17px;
   }
 }
 
 //assessment sumamry paragraph
 .assessment-summary {
-  font-size:20px;
+  font-size: 20px;
   a {
-    text-decoration-style:dotted;
-    font-weight:600;
-    color:$dta-dark-grey;
+    text-decoration-style: dotted;
+    font-weight: 600;
+    color: $dta-dark-grey;
   }
 }
-
-
 
 //nav tabs
 .assessment-report-tabs {
 
-	@media (max-width: $mobile-minwidth) {
-		li {
-			float:none;
-			&.active a {
-				background-color:$dta-background-grey;
-				border-radius:0;
-				border:none;
-			}
-		}
-	}
+  @include media($mobile) {
+    li {
+      float: none;
+      &.active a {
+        background-color: $dta-background-grey;
+        border-radius: 0;
+        border: none;
+      }
+    }
+  }
 
   li a {
-    font-size:15px;
+    font-size: 15px;
   }
 }
 
@@ -140,5 +138,32 @@ ul {
   }
   > .active {
     display: block;
+  }
+}
+
+.assessment-report {
+  dl.key-value {
+    @include media($mobile) {
+      margin-bottom: 0;
+      dt {
+        display: inline-block;
+        vertical-align: top;
+        font-weight: bold;
+        width: 40%;
+        margin: 0 0 $tiny-spacing 0;
+        &:last-child {
+          margin-bottom: 0;
+        }
+      }
+      dd {
+        display: inline-block;
+        width: 60%;
+        margin: 0 0 $tiny-spacing 0;
+        margin-bottom: $tiny-spacing;
+        &:last-child {
+          margin-bottom: 0;
+        }
+      }
+    }
   }
 }
