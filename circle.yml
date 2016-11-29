@@ -16,7 +16,6 @@ test:
     - bin/cibuild.sh
     - bin/ciserve.sh:
           background: true
-    - sleep 5
     - bin/citest.sh
 
 deployment:

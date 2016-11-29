@@ -13,6 +13,12 @@ set -o pipefail
 # echo out each line of the shell as it executes
 set -x
 
+printf "Waiting for webserver to start"
+until $(curl --output /dev/null --silent --head --fail http://localhost:4000); do
+    printf '.'
+    sleep 5
+done
+
 #Run accessibility tests
 pa11y-ci --sitemap http://localhost:4000/sitemap.xml
 
