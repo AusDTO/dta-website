@@ -151,6 +151,7 @@ Table 3 Expenses for Outcome 1
 | **Program 1.1: The Digital Transformation Office** <br> Departmental expenses <br> Departmental appropriation<sup>2</sup> <br> Expenses not requiring appropriation in the budget year | <br><br>30,525<br>498	| <br><br>28,013<br>848	| <br><br>2,512<br>350 |
 | **Total for Program 1.1** |	31,023	| 28,861	| 2,862 |
 | **Total expenses for Outcome 1** | 31,023	| 28,861	| 2,862 |
+|  |  |  |  |
 |  |  **2014–15**	| **2015–16** |	 |
 | Average staffing level (number) |  0	| 37	|
 
