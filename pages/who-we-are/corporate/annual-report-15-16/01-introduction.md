@@ -6,7 +6,7 @@ permalink: /who-we-are/corporate/annual-report/annual-report-2015-16/1-introduct
 ## 01 Introduction and overview
 
 * [Chief Executive Officer’s review](#chief-executive-officers-review)
-* [About this report](#about-report)
+* [About this report](#about-this-report)
 * [Overview](#overview)
 
 ### Chief Executive Officer’s review
@@ -85,7 +85,7 @@ Paul Shetler<br>Chief Executive Officer
 
   The new in-flight model means that digital teams and assessors are better able to focus on the common goal of designing and delivering. The relationship between the assessors and the teams is now one of mentoring and influencing. This assists the assessors to help get the product on the right track, and reinforces the team members’ confidence that they are doing the right thing.
 
-## <a id="about-report" name="about-report"></a>About this report
+## About this report
 
 This annual report covers the performance, accountability and financial reporting of the Digital Transformation Office (DTO) for the financial year ending on 30 June 2016.
 
@@ -101,7 +101,7 @@ The report on the management and accountability of the DTO in 2015–16, along w
 
 A summary of the DTO’s financial performance is provided in Part 2, while the audited financial statements for 2015–16 are provided in Part 4.
 
-## <a id="overview" name="overview"></a>Overview
+## Overview
 
 The DTO was established to assist in designing a more user-friendly government. We are creating unified digital platforms that will make it easier for all Australians to access the government services and information they need, and leading a user-focused, whole-of-government approach to digital transformation that will make public services simpler, clearer and faster for all.
 
