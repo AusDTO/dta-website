@@ -5,11 +5,11 @@ permalink: /who-we-are/corporate/annual-report/annual-report-2015-16/1-introduct
 ---
 ## 01 Introduction and overview
 
-* [Chief Executive Officer’s review](#ceo-review)
+* [Chief Executive Officer’s review](#chief-executive-officers-review)
 * [About this report](#about-report)
 * [Overview](#overview)
 
-### <a id="ceo-review" name="ceo-review"></a>Chief Executive Officer’s review
+### Chief Executive Officer’s review
 
 What a busy and exciting year. The Digital Transformation Office (DTO) became an executive agency in July 2015, and I was appointed as its Chief Executive Officer that same month.
 
