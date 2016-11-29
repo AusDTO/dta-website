@@ -1,11 +1,12 @@
 {
   "defaults": {
     "hideElements":
-      ".skip-to, .is-visuallyhidden"
+      ".skip-to, .is-visuallyhidden, iframe"
   },
 
   "urls": [
     "http://localhost:4000/",
-    "http://localhost:4000/what-we-do/"
+    "http://localhost:4000/what-we-do/",
+    "http://localhost:4000/blog/how-the-bom-put-users-needs-first/"
   ]
 }
