@@ -110,50 +110,210 @@ Statistics
 
 At 30 June 2016, the DTO had 71 staff employed under the Public Service Act, as shown in Table 4.
 
-Table 4 Ongoing and non-ongoing active and inactive employees at 30 June 2016
-Ongoing
-
-Non-ongoing
-
-Total
-
-Full time
-
-Part time
-
-Full time
-
-Part time
-
-Male
-
-Female
-
-Male
-
-Female
-
-Male
-
-Female
-
-Male
-
-Female
-
-APS1	0	0	0	0	0	0	0	0	0
-APS2	0	0	0	0	0	0	0	0	0
-APS3	0	0	0	0	0	0	0	0	0
-APS4	1	0	0	0	1	1	0	0	3
-APS5	0	2	0	0	0	1	0	0	3
-APS6	6	1	1	0	0	4	0	0	12
-EL1	8	8	1	0	4	1	0	1	23
-EL2	5	2	0	2	9	4	0	1	23
-SES1	0	1	0	0	2	1	0	0	4
-SES2	0	1	0	0	1	0	0	0	2
-SES3	0	0	0	0	0	0	0	0	0
-CEO	1	0	0	0	0	0	0	0	1
-Total	21	15	2	2	17	12	0	2	71
+<table summary="Table 4 Ongoing and non-ongoing active and inactive employees at 30 June 2016">
+  <caption>
+  <strong>Table 4 </strong>Ongoing and non-ongoing active and inactive employees at 30 June 2016
+  </caption>
+  <colgroup>
+  <col />
+  <col />
+  <col />
+  <col />
+  <col />
+  <col />
+  <col />
+  <col />
+  <col />
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="5"><p>Ongoing</p></th>
+      <th colspan="4"><p>Non-ongoing</p></th>
+      <th><p>Total</p></th>
+    </tr>
+    <tr>
+      <th />
+      <th colspan="2"><p>Full time</p></th>
+      <th colspan="3"><p>Part time</p></th>
+      <th colspan="2"><p>Full time</p></th>
+      <th colspan="2"><p>Part time</p></th>
+      <th />
+    </tr>
+    <tr>
+      <th />
+      <th><p>Male</p></th>
+      <th colspan="2"><p>Female</p></th>
+      <th><p>Male</p></th>
+      <th><p>Female</p></th>
+      <th><p>Male</p></th>
+      <th><p>Female</p></th>
+      <th><p>Male</p></th>
+      <th><p>Female</p></th>
+      <th />
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>APS1</td>
+      <td>0</td>
+      <td colspan="2">0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td><strong>0</strong></td>
+    </tr>
+    <tr>
+      <td>APS2</td>
+      <td>0</td>
+      <td colspan="2">0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td><strong>0</strong></td>
+    </tr>
+    <tr>
+      <td>APS3</td>
+      <td>0</td>
+      <td colspan="2">0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td><strong>0</strong></td>
+    </tr>
+    <tr>
+      <td>APS4</td>
+      <td>1</td>
+      <td colspan="2">0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td><strong>3</strong></td>
+    </tr>
+    <tr>
+      <td>APS5</td>
+      <td>0</td>
+      <td colspan="2">2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td><strong>3</strong></td>
+    </tr>
+    <tr>
+      <td>APS6</td>
+      <td>6</td>
+      <td colspan="2">1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+      <td>0</td>
+      <td>0</td>
+      <td><strong>12</strong></td>
+    </tr>
+    <tr>
+      <td>EL1</td>
+      <td>8</td>
+      <td colspan="2">8</td>
+      <td>1</td>
+      <td>0</td>
+      <td>4</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td><strong>23</strong></td>
+    </tr>
+    <tr>
+      <td>EL2</td>
+      <td>5</td>
+      <td colspan="2">2</td>
+      <td>0</td>
+      <td>2</td>
+      <td>9</td>
+      <td>4</td>
+      <td>0</td>
+      <td>1</td>
+      <td><strong>23</strong></td>
+    </tr>
+    <tr>
+      <td>SES1</td>
+      <td>0</td>
+      <td colspan="2">1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td><strong>4</strong></td>
+    </tr>
+    <tr>
+      <td>SES2</td>
+      <td>0</td>
+      <td colspan="2">1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td><strong>2</strong></td>
+    </tr>
+    <tr>
+      <td>SES3</td>
+      <td>0</td>
+      <td colspan="2">0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td><strong>0</strong></td>
+    </tr>
+    <tr>
+      <td>CEO</td>
+      <td>1</td>
+      <td colspan="2">0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td><strong>1</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total</strong></td>
+      <td><strong>21</strong></td>
+      <td colspan="2"><strong>15</strong></td>
+      <td><strong>2</strong></td>
+      <td><strong>2</strong></td>
+      <td><strong>17</strong></td>
+      <td><strong>12</strong></td>
+      <td><strong>0</strong></td>
+      <td><strong>2</strong></td>
+      <td><strong>71</strong></td>
+    </tr>
+  </tbody>
+</table>
 APS = Australian Public Service, EL = Executive Level, CEO = Chief Executive Officer, SES = Senior Executive Service
 
 Notes: ‘Active’ employees are engaged in the workplace; ‘inactive’ employees are on paid or unpaid long-term leave. This table does not include employees in the Digital Transformation Office (DTO) on secondment. The DTO had no casual employees at 30 June 2016.
@@ -169,21 +329,70 @@ All non-SES employees are engaged under the DTO Determination 2015/01. Five SES 
 The DTO Determination 2015/01 is supplemented by the Australian Public Service Enterprise Award 2015 and relevant legislative instruments. The determination provides salary bands for APS and Executive Level employees across the DTO, as shown in Table 5. There is also the provision to remunerate APS staff for specific specialist skills through individual section 24(1) arrangements.
 
 Table 5 Salary ranges under DTO Determination 2015/01 at 30 June 2016
-Classification
-
-Minimum ($)
-
-Maximum ($)
-
-APS1	44,088	48,415
-APS2	49,602	54,978
-APS3	56,411	60,946
-APS4	63,229	68,335
-APS5	70,492	76,813
-APS6	77,731	91,291
-EL1	100,620	111,542
-EL2	116,729	138,369
-SES (all bands)1	165,360	321,480
+<table summary="Table 5 Salary ranges under DTO Determination 2015/01 at 30 June 2016">
+  <caption>
+  <strong>Table 5</strong> Salary ranges under DTO Determination 2015/01 at 30 June 2016
+  </caption>
+  <colgroup>
+  <col />
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th><p>Classification</p></th>
+      <th><p>Minimum ($)</p></th>
+      <th><p>Maximum ($)</p></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>APS1</td>
+      <td>44,088</td>
+      <td>48,415</td>
+    </tr>
+    <tr>
+      <td>APS2</td>
+      <td>49,602</td>
+      <td>54,978</td>
+    </tr>
+    <tr>
+      <td>APS3</td>
+      <td>56,411</td>
+      <td>60,946</td>
+    </tr>
+    <tr>
+      <td>APS4</td>
+      <td>63,229</td>
+      <td>68,335</td>
+    </tr>
+    <tr>
+      <td>APS5</td>
+      <td>70,492</td>
+      <td>76,813</td>
+    </tr>
+    <tr>
+      <td>APS6</td>
+      <td>77,731</td>
+      <td>91,291</td>
+    </tr>
+    <tr>
+      <td>EL1</td>
+      <td>100,620</td>
+      <td>111,542</td>
+    </tr>
+    <tr>
+      <td>EL2</td>
+      <td>116,729</td>
+      <td>138,369</td>
+    </tr>
+    <tr>
+      <td>SES (all bands)<sup>1</sup></td>
+      <td>165,360</td>
+      <td>321,480</td>
+    </tr>
+  </tbody>
+</table>
 APS = Australian Public Service, EL = Executive Level
 
 Individual arrangements established in line with individualised section 24(1) agreements.
@@ -265,15 +474,40 @@ Advertising and market research
 Under section 311A of the Commonwealth Electoral Act 1918, the DTO is required to report annually on its use of advertising and marketing services. During 2015–16, the DTO did not make any payments for advertising campaigns. The agency did make payments for market research services, as shown in Table 6.
 
 Table 6 Commissions paid to market research agencies in 2015–16 (including GST)
-Vendor
-
-Details
-
-Cost ($)
-
-Thinkplace	Market research on the future of identity	81,982.18
-Deloitte Access Economics	Market research on digital identity within Australia	79,580.99
-Total		161,563.17
+<table summary="Table 6 Commissions paid to market research agencies in 2015–16 (including GST)">
+  <caption>
+  Table 6 Commissions paid to market research agencies in 2015–16 (including GST)
+  </caption>
+  <colgroup>
+  <col />
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th><p>Vendor</p></th>
+      <th><p>Details</p></th>
+      <th><p>Cost ($)</p></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Thinkplace </td>
+      <td>Market research on the future of identity</td>
+      <td>81,982.18</td>
+    </tr>
+    <tr>
+      <td>Deloitte Access Economics</td>
+      <td>Market research on digital identity within Australia</td>
+      <td>79,580.99</td>
+    </tr>
+    <tr>
+      <td><strong>Total</strong></td>
+      <td />
+      <td><strong>161,563.17</strong></td>
+    </tr>
+  </tbody>
+</table>
 Environmental performance
 
 The following summary of the DTO’s environmental management activities and performance is provided in accordance with section 516A of the Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act), which requires Australian Government entities to report on:
