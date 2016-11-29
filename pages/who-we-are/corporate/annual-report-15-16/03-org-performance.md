@@ -111,11 +111,11 @@ A suite of DTO policies, procedures, guidelines and supporting documents is bein
 
 At 30 June 2016, the DTO had 71 staff employed under the Public Service Act, as shown in Table 4.
 
-<table summary="Table 4 Ongoing and non-ongoing active and inactive employees at 30 June 2016">
+<table border="1" summary="Table 4 Ongoing and non-ongoing active and inactive employees at 30 June 2016">
   <caption>
   <strong>Table 4 </strong>Ongoing and non-ongoing active and inactive employees at 30 June 2016
   </caption>
-  <colgroup>
+  <colgroup border="1" >
   <col />
   <col />
   <col />
@@ -129,7 +129,7 @@ At 30 June 2016, the DTO had 71 staff employed under the Public Service Act, as 
   <col />
   </colgroup>
   <thead>
-    <tr>
+    <tr border="1" >
       <th></th>
       <th colspan="5"><p>Ongoing</p></th>
       <th colspan="4"><p>Non-ongoing</p></th>
@@ -329,11 +329,11 @@ All non-SES employees are engaged under the DTO Determination 2015/01. Five SES 
 
 The DTO Determination 2015/01 is supplemented by the Australian Public Service Enterprise Award 2015 and relevant legislative instruments. The determination provides salary bands for APS and Executive Level employees across the DTO, as shown in Table 5. There is also the provision to remunerate APS staff for specific specialist skills through individual section 24(1) arrangements.
 
-<table summary="Table 5 Salary ranges under DTO Determination 2015/01 at 30 June 2016">
+<table border="1" summary="Table 5 Salary ranges under DTO Determination 2015/01 at 30 June 2016">
   <caption>
   <strong>Table 5</strong> Salary ranges under DTO Determination 2015/01 at 30 June 2016
   </caption>
-  <colgroup>
+  <colgroup border="1" >
   <col />
   <col />
   <col />
@@ -345,7 +345,7 @@ The DTO Determination 2015/01 is supplemented by the Australian Public Service E
       <th><p>Maximum ($)</p></th>
     </tr>
   </thead>
-  <tbody>
+  <tbody border="1" >
     <tr>
       <td>APS1</td>
       <td>44,088</td>
@@ -475,11 +475,11 @@ During 2015–16, two new consultancy contracts were entered into by the DTO, in
 
 Under section 311A of the Commonwealth Electoral Act 1918, the DTO is required to report annually on its use of advertising and marketing services. During 2015–16, the DTO did not make any payments for advertising campaigns. The agency did make payments for market research services, as shown in Table 6.
 
-<table summary="Table 6 Commissions paid to market research agencies in 2015–16 (including GST)">
+<table border="1" summary="Table 6 Commissions paid to market research agencies in 2015–16 (including GST)">
   <caption>
   Table 6 Commissions paid to market research agencies in 2015–16 (including GST)
   </caption>
-  <colgroup>
+  <colgroup border="1" >
   <col />
   <col />
   <col />
@@ -491,7 +491,7 @@ Under section 311A of the Commonwealth Electoral Act 1918, the DTO is required t
       <th><p>Cost ($)</p></th>
     </tr>
   </thead>
-  <tbody>
+  <tbody border="1" >
     <tr>
       <td>Thinkplace </td>
       <td>Market research on the future of identity</td>
