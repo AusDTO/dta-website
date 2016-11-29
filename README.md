@@ -5,7 +5,6 @@
 
 www.dta.gov.au is a [Jekyll website](http://jekyllrb.com/).
 
-
 ## Installation
 
 **Ensure you have the pre-requisites installed:**
@@ -27,22 +26,13 @@ To increase the speed of jekyll builds, you can replace the last step with `bin/
 
 ## Development Process
 
-The `develop` branch is continuously deployed by circleCI to https://dta.apps.staging.digital.gov.au/
+The default branch is `develop` which is continuously deployed by circleCI to https://dta.apps.staging.digital.gov.au/
 
-The `master` branch is continuously deployed by circleCI to https://www.dta.gov.au/
+The production branch is `master` which is continuously deployed by circleCI to https://www.dta.gov.au/
 
-When starting a new change, create a branch from the `develop` branch.
+When starting a new change, branch from `develop`.
 
-To test that branch out you can push to cloud.gov.au before commiting to git. Refer to the [cloud.gov.au documentation](http://docs.cloud.gov.au/) to setup `cf` if needed.
-
-Run each of the following commands to deploy your local site to cloud.gov.au:
-
-1. `bundle exec jekyll build`
-2. `cf push branchname` # assumes you are logged into the staging platform.
-
-Remember to delete unused apps when you are done:
-
-`cf delete branchname`
+[QA-Fire](https://qafire.apps.staging.digital.gov.au/4) is enabled for this project. Each pull-request will be deployed to a temporary staging site, click on 'Details' next to the QA-Fire status to view it. As long as the circleCI tests are passing, this staging site will be kept up to date with all commits to the branch.
 
 When your change is ready, submit a PR to the `develop` branch.
 
