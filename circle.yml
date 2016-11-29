@@ -15,7 +15,7 @@ test:
   override:
     - bin/cibuild.sh
     - bin/ciserve.sh
-        background: true
+          background: true
     - sleep 5
     - bin/citest.sh
 
