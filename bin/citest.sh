@@ -13,6 +13,8 @@ set -o pipefail
 # echo out each line of the shell as it executes
 set -x
 
+#Run accessibility tests
+pa11y-ci --sitemap http://localhost:4000/sitemap.xml
 
 # Run jekyll hyde
 # Note - this will clobber the sitemap.xml using the site.url, so we just use production's
