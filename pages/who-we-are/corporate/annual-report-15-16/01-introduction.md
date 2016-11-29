@@ -144,13 +144,13 @@ The DTO does not administer any legislation.
 
   The structure of the agency at 30 June 2016 is shown in Figure 1.
 
-  ![Image of DTO Organisation Chart]({{site.url}}{% asset_path org-chart %})
+  ![Image of DTO Organisation Chart]({% asset_path org-chart %})
   
   DTO Organisational Chart
   
 #### Executive management
 
-  ![Image of Paul Shettler]({{site.url}}{% asset_path DTO-Paul-130916-67 %})
+  ![Image of Paul Shettler]({% asset_path DTO-Paul-130916-67 %})
   
   **Chief Executive Officer**
   
@@ -162,7 +162,7 @@ The DTO does not administer any legislation.
 
   Before Paul took up his appointment, David Hazlehurst acted as the Interim CEO of the DTO. David subsequently moved to a deputy secretary position at the Department of Industry, Innovation and Science.
 
-  ![Image of Daniel Searle]({{site.url}}{% asset_path Dan-Searle-1-edit %})
+  ![Image of Daniel Searle]({% asset_path Dan-Searle-1-edit %})
   
   **Head of the Office of the Chief Executive Officer**
   
@@ -172,7 +172,7 @@ The DTO does not administer any legislation.
 
   Daniel holds an Executive MBA from Cass Business School. His previous roles include: Identity Advisor to GOV.UK Verify; Strategy and Delivery Advisor to the United Kingdom’s Home Secretary; and Private Secretary to the UK Border Agency Chief Executive. He has also held senior roles in asylum and immigration enforcement operations.
 
-  ![Image of Deborah Lewis]({{site.url}}{% asset_path DTO-Staff-Deb-2-edit %})
+  ![Image of Deborah Lewis]({% asset_path DTO-Staff-Deb-2-edit %})
    
    **Head of Business Operations/Chief Operating Officer**
    
@@ -182,7 +182,7 @@ The DTO does not administer any legislation.
 
   Deborah has a strong public sector background, having led divisions with hundreds of staff to embed significant culture and business change agendas. She has held positions across service delivery, policy and program, and corporate functions, in entities such as Austrade and the departments of Immigration; Climate Change and Energy Efficiency; and Resources, Energy and Tourism.
 
-  ![Image of Dan Pulham]({{site.url}}{% asset_path DTO090916-3 %})
+  ![Image of Dan Pulham]({% asset_path DTO090916-3 %})
   
   **Head of Delivery**
   
@@ -192,7 +192,7 @@ The DTO does not administer any legislation.
 
   During his time at Telstra Digital, Dan led a transformation program to rebuild Telstra’s MyAccount, delivered the Consumer Identity platform, and ran the portfolio process which managed change into Telstra’s MyAccount, E-Commerce, 24/7 and Identity platforms.
 
-  ![Image of Jose Del Rio]({{site.url}}{% asset_path DTO-Jose-130916-29 %})
+  ![Image of Jose Del Rio]({% asset_path DTO-Jose-130916-29 %})
   
   **Head of Digital Partnerships**
   
@@ -200,7 +200,7 @@ The DTO does not administer any legislation.
 
   Jose started the taskforce that led to the creation of the DTO. He has held a number of senior strategic and social policy roles at the Department of the Prime Minister and Cabinet. He has also led immigration processing, program and policy teams at the Department of Immigration and Border Protection and at Citizenship and Immigration Canada.
 
-  ![Image of Rachel Dixon]({{site.url}}{% asset_path DTO-Rachel-130916-25 %})
+  ![Image of Rachel Dixon]({% asset_path DTO-Rachel-130916-25 %})
   
   **Head of Identity**
   
@@ -210,7 +210,7 @@ The DTO does not administer any legislation.
 
   Rachel has held executive positions at Suncorp, Viocorp, thePlatform for Media, and Massive Interactive. She has also been a director of the Australian Centre for Advanced Computing and Communications, Choice (the Australian Consumers Association) and several small software companies. She co­founded FIBRE, a telecommunications company servicing the motion picture post-production and visual effects industry. She is a past director and chair of several other media, software and telecommunications companies, and a former senior executive with Film Australia and Film Victoria.
 
-  ![Image of Maria MacNamara]({{site.url}}{% asset_path DTO-Maria-130916-56-mod-v2 %})
+  ![Image of Maria MacNamara]({% asset_path DTO-Maria-130916-56-mod-v2 %})
   
   **Head of Strategy and Engagement**
   
@@ -218,7 +218,7 @@ The DTO does not administer any legislation.
 
   Prior to joining the DTO, Maria was responsible for marketing and business development at Swaab Attorneys. Maria also established a professional services start-up, after leading marketing and business development teams in Australia’s foremost legal and consulting firms. She co-founded the Awesome Women’s Project and the Ecosystem Leaders’ Lunch, and sits on the advisory boards delivering the Women in Fintech initiative at Stone & Chalk and The Spark Festival, Sydney.
 
-  ![Image of Catherine Thomson]({{site.url}}{% asset_path DTO130916-8 %})
+  ![Image of Catherine Thomson]({% asset_path DTO130916-8 %})
   
   **Head of Digital Marketplace**
   
@@ -228,7 +228,7 @@ The DTO does not administer any legislation.
 
   Most recently Head of Delivery for pioneering virtual reality start-up Zero Latency, Catherine has also been the Chief Procurement Officer of ANZ Banking Group and a director of Portland Group (now Infosys Portland). She writes for Procurement Leaders on issues at the nexus of technology, innovation and the supply chain.
 
-  ![Image of Radi Kovacevic]({{site.url}}{% asset_path DTO-Radi %})
+  ![Image of Radi Kovacevic]({% asset_path DTO-Radi %})
   
   **Head of GOV.AU**
   
