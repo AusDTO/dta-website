@@ -6,12 +6,12 @@ permalink: /who-we-are/corporate/annual-report/annual-report-2015-16/contents/
 ## Contents
 
 - [01 Introduction and overview](/who-we-are/corporate/annual-report/annual-report-2015-16/1-introduction/)
-   - [Chief Executive Officer’s review](/who-we-are/corporate/annual-report/annual-report-2015-16/1-introduction/#ceo-review/)
-   - [About this report](/who-we-are/corporate/annual-report/annual-report-2015-16/1-introduction/#about-report/)
-   - [Overview](/who-we-are/corporate/annual-report/annual-report-2015-16/1-introduction/#overview/)
+   - [Chief Executive Officer’s review](/who-we-are/corporate/annual-report/annual-report-2015-16/1-introduction/#ceo-review)
+   - [About this report](/who-we-are/corporate/annual-report/annual-report-2015-16/1-introduction/#about-report)
+   - [Overview](/who-we-are/corporate/annual-report/annual-report-2015-16/1-introduction/#overview)
 - [02 Report on program performance](/who-we-are/corporate/annual-report/annual-report-2015-16/2-program-performance/)
-   - [Annual performance statements](/who-we-are/corporate/annual-report/annual-report-2015-16/2-program-performance/#performance-statement/)
-   - [Report on financial performance](/who-we-are/corporate/annual-report/annual-report-2015-16/2-program-performance/#financial-performance/)
+   - [Annual performance statements](/who-we-are/corporate/annual-report/annual-report-2015-16/2-program-performance/#performance-statement)
+   - [Report on financial performance](/who-we-are/corporate/annual-report/annual-report-2015-16/2-program-performance/#financial-performance)
 - [03 Report on organisational performance](/who-we-are/corporate/annual-report/annual-report-2015-16/3-organisational-performance/)
    - Corporate governance
    - External scrutiny
