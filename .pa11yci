@@ -1,0 +1,11 @@
+{
+  "defaults": {
+    "hideElements":
+      ".skip-to, .is-visuallyhidden"
+  },
+
+  "urls": [
+    "http://localhost:4000/",
+    "http://localhost:4000/what-we-do/"
+  ]
+}
