@@ -1,3 +1,8 @@
+---
+layout: basic
+title: "Annual Report 2015-16: Contents"
+permalink: /who-we-are/corporate/annual-report/annual-report-2015-16/contents/
+---
 ## Contents
 
 - 01 Introduction and overview
