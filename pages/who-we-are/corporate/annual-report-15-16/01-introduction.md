@@ -31,9 +31,7 @@ For the next financial year, the DTO’s focus will shift from demonstrating the
 
 Australia has the opportunity to become a world leader in the provision of digital government. The DTO is the agency which can help government and agencies make this transformation. I would like to thank all the staff of the DTO for their dedication and the enthusiasm that they bring to their work; with their backing, I am confident that we can fulfil our mission.
 
-Paul Shetler
-
-Chief Executive Officer
+Paul Shetler<br>Chief Executive Officer
 
 ### Using agile methodologies
 
@@ -152,8 +150,7 @@ The DTO does not administer any legislation.
 
   ![Image of Paul Shettler]({% asset_path DTO-Paul-130916-67 %})
   
-  **Chief Executive Officer**
-  
+  **Chief Executive Officer**<br>  
   **Paul Shetler**
 
   Paul was appointed as the inaugural Chief Executive Officer (CEO) of the DTO in July 2015.
@@ -164,7 +161,7 @@ The DTO does not administer any legislation.
 
   ![Image of Daniel Searle]({% asset_path Dan-Searle-1-edit %})
   
-  **Head of the Office of the Chief Executive Officer**
+  **Head of the Office of the Chief Executive Officer**<br>
   
   **Daniel Searle**
 
@@ -174,8 +171,7 @@ The DTO does not administer any legislation.
 
   ![Image of Deborah Lewis]({% asset_path DTO-Staff-Deb-2-edit %})
    
-   **Head of Business Operations/Chief Operating Officer**
-   
+   **Head of Business Operations/Chief Operating Officer**<br>   
    **Deborah Lewis**
 
   Deborah is responsible for the financial operations of the DTO, including risk, compliance, human resources, procurement, IT and support for the CEO.
@@ -184,8 +180,7 @@ The DTO does not administer any legislation.
 
   ![Image of Dan Pulham]({% asset_path DTO090916-3 %})
   
-  **Head of Delivery**
-  
+  **Head of Delivery**<br>  
   **Dan Pulham**
 
   Dan joined the DTO in April 2016 having previously spent nine years at Telstra, the last five of those as a founding member of Telstra Digital.
@@ -194,16 +189,14 @@ The DTO does not administer any legislation.
 
   ![Image of Jose Del Rio]({% asset_path DTO-Jose-130916-29 %})
   
-  **Head of Digital Partnerships**
-  
+  **Head of Digital Partnerships**<br>  
   **Jose Del Rio**
 
   Jose started the taskforce that led to the creation of the DTO. He has held a number of senior strategic and social policy roles at the Department of the Prime Minister and Cabinet. He has also led immigration processing, program and policy teams at the Department of Immigration and Border Protection and at Citizenship and Immigration Canada.
 
   ![Image of Rachel Dixon]({% asset_path DTO-Rachel-130916-25 %})
   
-  **Head of Identity**
-  
+  **Head of Identity**<br>  
   **Rachel Dixon**
 
   Rachel’s professional background encompasses IT and telecommunications, and film, television and new media production.
@@ -212,16 +205,14 @@ The DTO does not administer any legislation.
 
   ![Image of Maria MacNamara]({% asset_path DTO-Maria-130916-56-mod-v2 %})
   
-  **Head of Strategy and Engagement**
-  
+  **Head of Strategy and Engagement**<br>  
   **Maria MacNamara**
 
   Prior to joining the DTO, Maria was responsible for marketing and business development at Swaab Attorneys. Maria also established a professional services start-up, after leading marketing and business development teams in Australia’s foremost legal and consulting firms. She co-founded the Awesome Women’s Project and the Ecosystem Leaders’ Lunch, and sits on the advisory boards delivering the Women in Fintech initiative at Stone & Chalk and The Spark Festival, Sydney.
 
   ![Image of Catherine Thomson]({% asset_path DTO130916-8 %})
   
-  **Head of Digital Marketplace**
-  
+  **Head of Digital Marketplace**<br>  
   **Catherine Thompson**
 
   Catherine is interested in enterprise cost-efficiency, operations and the procurement/supply chain, with a particular focus on the cultural change that supports innovation in those fields. Her experience has been deepened in senior leadership and consulting roles across the financial services, transport, petrochemicals, retail and health services sectors. She particularly enjoys start-ups and remediations.
@@ -230,8 +221,7 @@ The DTO does not administer any legislation.
 
   ![Image of Radi Kovacevic]({% asset_path DTO-Radi %})
   
-  **Head of GOV.AU**
-  
+  **Head of GOV.AU**<br>  
   **Radi Kovacevic (acting)**
 
   In his previous role, Radi was the Chief Information Officer for the Department of the Prime Minister and Cabinet, with responsibility for all digital services.
