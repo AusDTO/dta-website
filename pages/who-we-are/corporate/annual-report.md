@@ -2,7 +2,6 @@
 layout: basic
 permalink: /who-we-are/corporate/annual-report/
 redirect_from: /annual-report/2015-16/
-
 title: Annual Report 2015-16
 ---
 
@@ -16,10 +15,10 @@ The report was drafted in line with the Public Governance, Performance and Accou
 A full HTML version of the Digital Transformation Office 2015-16 Annual Report will be available soon. If you are having trouble accessing the content of this publication please contact [web.team@digital.gov.au](mailto:web.team@digital.gov.au)
 </p>
 
-- Introduction and overview
-- Report on program performance
-- Report on organisational performance
-- Financial statements
-- References
+- [Introduction and overview](/who-we-are/corporate/annual-report/annual-report-2015-16/1-introduction/)
+- [Report on program performance](/who-we-are/corporate/annual-report/annual-report-2015-16/2-program-performance/)
+- [Report on organisational performance](/who-we-are/corporate/annual-report/annual-report-2015-16/3-organisational-performance/)
+- [Financial statements](/who-we-are/corporate/annual-report/annual-report-2015-16/financial-statements/)
+- [References](/who-we-are/corporate/annual-report/annual-report-2015-16/references/)
 
 [Annual Report 2015-16 (PDF, 90 pages, 1.9MB)](/files/dto-annual-report-2015-16.pdf)
