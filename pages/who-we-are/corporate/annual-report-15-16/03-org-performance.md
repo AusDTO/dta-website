@@ -345,7 +345,7 @@ The DTO Determination 2015/01 is supplemented by the Australian Public Service E
       <th><p>Maximum ($)</p></th>
     </tr>
   </thead>
-  <tbody border="0.3" >
+  <tbody>
     <tr>
       <td>APS1</td>
       <td>44,088</td>
