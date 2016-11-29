@@ -16,6 +16,7 @@ A full HTML version of the Digital Transformation Office 2015-16 Annual Report w
 </p>
 
 - [Contents](/who-we-are/corporate/annual-report/annual-report-2015-16/contents/) 
+- [Cover and Letter of Trasmittal](/who-we-are/corporate/annual-report/annual-report-2015-16/cover-letter/)
 - [Introduction and overview](/who-we-are/corporate/annual-report/annual-report-2015-16/1-introduction/)
 - [Report on program performance](/who-we-are/corporate/annual-report/annual-report-2015-16/2-program-performance/)
 - [Report on organisational performance](/who-we-are/corporate/annual-report/annual-report-2015-16/3-organisational-performance/)
