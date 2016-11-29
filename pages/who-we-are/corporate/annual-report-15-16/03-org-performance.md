@@ -138,7 +138,7 @@ At 30 June 2016, the DTO had 71 staff employed under the Public Service Act, as 
     <tr>
       <th />
       <th colspan="2"><p>Full time</p></th>
-      <th colspan="3"><p>Part time</p></th>
+      <th colspan="2"><p>Part time</p></th>
       <th colspan="2"><p>Full time</p></th>
       <th colspan="2"><p>Part time</p></th>
       <th />
@@ -329,7 +329,6 @@ All non-SES employees are engaged under the DTO Determination 2015/01. Five SES 
 
 The DTO Determination 2015/01 is supplemented by the Australian Public Service Enterprise Award 2015 and relevant legislative instruments. The determination provides salary bands for APS and Executive Level employees across the DTO, as shown in Table 5. There is also the provision to remunerate APS staff for specific specialist skills through individual section 24(1) arrangements.
 
-Table 5 Salary ranges under DTO Determination 2015/01 at 30 June 2016
 <table summary="Table 5 Salary ranges under DTO Determination 2015/01 at 30 June 2016">
   <caption>
   <strong>Table 5</strong> Salary ranges under DTO Determination 2015/01 at 30 June 2016
@@ -476,7 +475,6 @@ During 2015–16, two new consultancy contracts were entered into by the DTO, in
 
 Under section 311A of the Commonwealth Electoral Act 1918, the DTO is required to report annually on its use of advertising and marketing services. During 2015–16, the DTO did not make any payments for advertising campaigns. The agency did make payments for market research services, as shown in Table 6.
 
-Table 6 Commissions paid to market research agencies in 2015–16 (including GST)
 <table summary="Table 6 Commissions paid to market research agencies in 2015–16 (including GST)">
   <caption>
   Table 6 Commissions paid to market research agencies in 2015–16 (including GST)
