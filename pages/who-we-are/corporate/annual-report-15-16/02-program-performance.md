@@ -6,10 +6,10 @@ localnav: annual-report
 ---
 Report on program performance
 
-- Annual performance statements
-- Report on financial performance
+- [Annual performance statements](#annual-performance)
+- [Report on financial performance](#financial-performance)
 
-## Annual performance statements
+## <a id="annual-performance" name="annual-performance"></a>Annual performance statements
 
 Statement of compliance by the accountable authority
 
@@ -122,7 +122,7 @@ The result was a split in key priorities, between the need to rapidly build tech
 
 Nonetheless, throughout 2015–16, the DTO built capacity across both technical and corporate areas. This has allowed the agency to set the foundations for key program and organisational capability that will be built on in the year ahead.
 
-## Report on financial performance
+## <a id="financial-performance" name="financial-performance"></a>Report on financial performance
 
 The DTO recorded an operating surplus of $1.92 million for 2015–16. At 30 June 2016, the DTO had net equity of $5.4 million, representing $13.3 million of assets offset by $7.9 million of liabilities. The assets balance primarily relates to appropriation receivable of $9.3 million, while the majority of liabilities relate to suppliers payable of $5.9 million.
 
