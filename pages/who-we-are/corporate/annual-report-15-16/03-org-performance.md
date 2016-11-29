@@ -156,7 +156,7 @@ At 30 June 2016, the DTO had 71 staff employed under the Public Service Act, as 
       <th />
     </tr>
   </thead>
-  <tbody border="1" >
+  <tbody border="0.3" >
     <tr>
       <td>APS1</td>
       <td>0</td>
@@ -345,7 +345,7 @@ The DTO Determination 2015/01 is supplemented by the Australian Public Service E
       <th><p>Maximum ($)</p></th>
     </tr>
   </thead>
-  <tbody border="1" >
+  <tbody border="0.3" >
     <tr>
       <td>APS1</td>
       <td>44,088</td>
@@ -491,7 +491,7 @@ Under section 311A of the Commonwealth Electoral Act 1918, the DTO is required t
       <th><p>Cost ($)</p></th>
     </tr>
   </thead>
-  <tbody border="1" >
+  <tbody border="0.3" >
     <tr>
       <td>Thinkplace </td>
       <td>Market research on the future of identity</td>
