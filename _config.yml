@@ -19,7 +19,7 @@ collections:
   assessment-reports:
     output: true
   projects:
-    output: true
+    output: false
   teams:
     output: true
   leadership-group:
