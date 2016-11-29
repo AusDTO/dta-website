@@ -137,7 +137,7 @@ At 30 June 2016, the DTO had 71 staff employed under the Public Service Act, as 
     </tr>
     <tr>
       <th />
-      <th colspan="2"><p>Full time</p></th>
+      <th colspan="3"><p>Full time</p></th>
       <th colspan="2"><p>Part time</p></th>
       <th colspan="2"><p>Full time</p></th>
       <th colspan="2"><p>Part time</p></th>
