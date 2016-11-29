@@ -39,7 +39,7 @@ task :ui_kit_update do
   #   end
   # end
   puts "Downloading #{UIKIT_JS}..."
-  file = File.new "_assets/vendor/ui-kit.js", 'wb+'
+  file = File.new "_assets/js/vendor/ui-kit.js", 'wb+'
   file.write Net::HTTP.get(URI.parse(UIKIT_JS))
 
 end
