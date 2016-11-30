@@ -2448,8 +2448,8 @@ Fair value measurements at the end of the reporting period
   </tbody>
 </table>
 
-DTO’s assets are held for operational purposes and not held for the purposes of deriving a profit.
-No revaluation has been performed in 2015–16 as all assets were transferred or purchased in the current year representing a proxy for fair value.
+   1. DTO’s assets are held for operational purposes and not held for the purposes of deriving a profit.
+   2. No revaluation has been performed in 2015–16 as all assets were transferred or purchased in the current year representing a proxy for fair value.
 #### 6. Other Information
 
 ##### 6.1 Restructuring
