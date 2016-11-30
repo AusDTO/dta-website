@@ -1989,7 +1989,7 @@ This section identifies the Digital Transformation Office funding structure.
   </tbody>
 </table>
 
-The current year Equity injection is shown exclusive of the Section 51 Permanent Quarantine, which has reduced contributed equity by $2.226 million.
+   1. The current year Equity injection is shown exclusive of the Section 51 Permanent Quarantine, which has reduced contributed equity by $2.226 million.
 
 **Note 3.1C: Disclosure by agent in relation to annual and special appropriations (‘recoverable GST exclusive’)**
 
@@ -2450,6 +2450,7 @@ Fair value measurements at the end of the reporting period
 
    1. DTO’s assets are held for operational purposes and not held for the purposes of deriving a profit.
    2. No revaluation has been performed in 2015–16 as all assets were transferred or purchased in the current year representing a proxy for fair value.
+   
 #### 6. Other Information
 
 ##### 6.1 Restructuring
