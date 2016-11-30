@@ -3,25 +3,18 @@ layout: basic
 title: "Financial statements"
 permalink: /who-we-are/corporate/annual-report/annual-report-2015-16/4-financial-statements/
 ---
-Financial statements
+## Financial statements
 
-Independent auditor’s report
+- [Independent auditor’s report](#independent-auditors-report)
+- [Statement by the Chief Executive Officer and Chief Financial Officer](#statement-by-the-chief-executive-officer-and-chief-financial-officer)
+- [Statement of comprehensive income](#statement-of-comprehensive-income)
+- [Statement of financial position](#statement-of-financial-position)
+- [Statement of changes in equity](#statement-of-changes-in-equity)
+- [Cash flow statement](#cash-flow-statement)
+- [Notes to and forming part of the financial statements](#notes-to-and-forming-part-of-the-financial-statements)
 
-Statement by the Chief Executive Officer 
-and Chief Financial Officer
-
-Statement of comprehensive income
-
-Statement of financial position
-
-Statement of changes in equity
-
-Cash flow statement
-
-Notes to and forming part of the financial statements
-
-Digital Transformation Office
-Independent auditor’s report
+### Digital Transformation Office
+### Independent auditor’s report
 
 Scanned independent auditors report page 1
 
@@ -30,31 +23,25 @@ Independent auditor’s report
 
 Scanned independent auditors report page 2
 
-Digital Transformation Office
-Statement by the Chief Executive Officer and Chief Financial Officer
+### Digital Transformation Office
+### Statement by the Chief Executive Officer and Chief Financial Officer
 
 In our opinion, the attached financial statements for the year ended 30 June 2016 comply with subsection 42(2) of the Public Governance, Performance and Accountability Act 2013 (PGPA Act), and are based on properly maintained financial records as per subsection 41(2) of the PGPA Act.
 
 In our opinion, at the date of this statement, there are reasonable grounds to believe that the Digital Transformation Office will be able to pay its debts as and when they fall due.
 
-Paul Shetler
-Chief Executive Officer
-15 September 2016
+Paul Shetler<br>Chief Executive Officer<br>15 September 2016
 
 Scanned signature of Paul Shetler
-Lisa Leverton
-Chief Financial Officer
-15 September 2016
+Lisa Leverton<br>Chief Financial Officer<br>15 September 2016
 
 Scanned signature of Lisa Leverton
-Digital Transformation Office
-Statement of comprehensive income
+### Digital Transformation Office
+### Statement of comprehensive income
 
 for the period ended 30 June 2016
 
-<table summary="Digital Transformation Office
-Statement of comprehensive income
-for the period ended 30 June 2016">
+<table summary="Digital Transformation Office Statement of comprehensive income for the period ended 30 June 2016">
   <colgroup>
   <col />
   <col />
@@ -198,8 +185,8 @@ Total departmental Revenue from Government for 2015–16 was $1.884 million (7%)
 
 The above statement should be read in conjunction with the accompanying notes.
 
-Digital Transformation Office
-Statement of financial position
+### Digital Transformation Office
+### Statement of financial position
 
 for the period ended 30 June 2016
 
@@ -390,7 +377,7 @@ for the period ended 30 June 2016
   </tbody>
 </table>
 
-Budget Variances Commentary
+#### Budget Variances Commentary
 
 Total departmental financial assets for 2015–16 were $10.310 million higher than the estimate published in the 2015–16 Portfolio Budget Statements. The increase is primarily attributable to the amount of unspent appropriation receivable due to Revenue from Government not being fully expended and a higher than expected accrued suppliers balance.
 
@@ -402,8 +389,8 @@ Total departmental provisions are higher than the estimate published in the 2015
 
 The above statement should be read in conjunction with the accompanying notes.
 
-Digital Transformation Office
-Statement of changes in equity
+### Digital Transformation Office
+### Statement of changes in equity
 
 for the period ended 30 June 2016
 
@@ -558,7 +545,8 @@ Restructuring of $1.992m reflects the transfer of functions from the Department 
 
 The above statement should be read in conjunction with the accompanying notes.
 
-Digital Transformation Office Statement of Changes in Equity
+### Digital Transformation Office 
+### Statement of Changes in Equity
 
 <table summary="Digital Transformation Office
 Statement of changes in equity
@@ -670,17 +658,17 @@ for the period ended 30 June 2016">
   </tbody>
 </table>
 
-Accounting Policy
+#### Accounting Policy
 
-Equity injections
+##### Equity injections
 
 Amounts appropriated which are designated as ‘equity injections’ for a year (less any formal reductions) and Departmental Capital Budgets (DCBs) are recognised directly in contributed equity in that year.
 
-Other Distributions to Owners
+##### Other Distributions to Owners
 
 The FRR require that distributions to owners be debited to contributed equity unless it is in the nature of a dividend.
 
-Budget Variances Commentary
+#### Budget Variances Commentary
 Departmental contributed equity for 2015–16 was $1.266 million (57%) higher than the estimate published in the 2015–16 Portfolio Budget Statements. This is attributable to $1.500 million of Departmental Capital Budgets received in Appropriation Act 3 2015–16 and $1.992 million of assets assumed as a result of machinery of Government, offset by the return of $2.226 million equity funding following a section 51 quarantine.
 
 Departmental retained earnings for 2015–16 were $2.203 million higher than the estimate published in the 
@@ -688,8 +676,8 @@ Departmental retained earnings for 2015–16 were $2.203 million higher than the
 
 The above statement should be read in conjunction with the accompanying notes.
 
-Digital Transformation Office
-Cash flow statement
+### Digital Transformation Office
+### Cash flow statement
 
 for the period ended 30 June 2016
 
@@ -875,7 +863,7 @@ for the period ended 30 June 2016">
   </tbody>
 </table>
 
-Budget Variances Commentary
+#### Budget Variances Commentary
 
 Departmental net cash from operating activities is $1.615 million higher than the estimate published 
 in the 2015–16 Portfolio Budget Statements. This is primarily attributable to the drawing of operating funding to purchase property, plant and equipment ($2.970 million) offset by Departmental Capital Budget funding of $1.500 million.
@@ -887,70 +875,46 @@ Departmental net cash from financing activities is $0.726 million (33%) lower th
 
 The above statement should be read in conjunction with the accompanying notes.
 
-Digital Transformation Office
-Notes to and forming part of the financial statements
+### Digital Transformation Office
+### Notes to and forming part of the financial statements
 
 for the period ended 30 June 2016
 
-Overview
+- [Overview](#overview)
+- [1. Departmental Financial Performance](#1-departmental-financial-performance)
+- [1.1. Expenses](#1-1-expenses)
+- [1.2. Own-Source Revenue and Gains](#1-2-own-source-revenue-and-gains)
+- [2. Departmental Financial Position](#-departmental-financial-position)
+- [2.1. Financial Assets](#2-1-financial-assets)
+- [2.2. Non-Financial Assets](#2-2-non-financial-assets)
+- [2.3. Payables](#2-3-payables)
+- [2.4. Other Provisions](#2-4-other-provisions)
+- [3. Funding](#3-funding)
+- [3.1. Appropriations](#3-1-appropriations)
+- [3.2. Cash Flow Reconciliation](#3-2-cash-flow-reconciliation)
+- [4. People and Relationships](#4-people-and-relationships)
+- [4.1. Employee Provisions](#4-1-employee-provisions)
+- [4.2. Senior Management Personnel Remuneration](#-2-senior-management-personnel-remuneration)
+- [5. Managing Uncertainties](#5-managing-uncertainties)
+- [5.1. Contingent Assets and Liabilities](#5-1-contingent-assets-and-liabilities)
+- [5.2. Financial Instruments](#5-2-financial-instrumenmts)
+- [5.3. Fair Value Measurement](#5-3-fair-value-measurement)
+- [6. Other Information](#6-other-information)
+- [6.1. Restructuring](#6-1-restructuring)
+- [6.2. Reporting of Outcomes](#6-2-reporting-of-outcomes)
 
-1. Departmental Financial Performance
 
-1.1. Expenses
+#### Overview
 
-1.2. Own-Source Revenue and Gains
+##### Objectives of the Entity
 
-2. Departmental Financial Position
-
-2.1. Financial Assets
-
-2.2. Non-Financial Assets
-
-2.3. Payables
-
-2.4. Other Provisions
-
-3. Funding
-
-3.1. Appropriations
-
-3.2. Cash Flow Reconciliation
-
-4. People and Relationships
-
-4.1. Employee Provisions
-
-4.2. Senior Management Personnel Remuneration
-
-5. Managing Uncertainties
-
-5.1. Contingent Assets and Liabilities
-
-5.2. Financial Instruments
-
-5.3. Fair Value Measurement
-
-6. Other Information
-
-6.1. Restructuring
-
-6.2. Reporting of Outcomes
-
-Digital Transformation Office
-Notes to and forming part of the financial statements
-
-for the period ended 30 June 2016
-
-Overview
-
-Objectives of the Entity
 The Digital Transformation Office (the DTO) is a not-for-profit Australian Government controlled Executive Agency established on 1 July 2015.
 
 The objective of the DTO is to transform government services so they are easy to find, simple to use and convenient to access in a secure way.
 
 The DTO is structured to meet one outcome as outlined below:
 
-Outcome 1: To improve the user experience for all Australians accessing government information and services by leading the design, development and continual enhancement of whole-of-government service delivery policies and standards, platforms and joined-up services.
+*Outcome 1:* To improve the user experience for all Australians accessing government information and services by leading the design, development and continual enhancement of whole-of-government service delivery policies and standards, platforms and joined-up services.
 
 In 2015–16 the DTO’s activities were identified under the following programme:
 
@@ -960,46 +924,48 @@ To support the Prime Minister in transforming government services to improve the
 
 The continued existence of the DTO in its present form and with its present programmes is dependent on Government policy and on continuing funding by Parliament for the DTO’s administration and programmes.
 
-Basis of preparation of the financial statements
-The financial statements are general purpose financial statements and are required by section 42 of the Public Governance, Performance and Accountability Act 2013.
+##### Basis of preparation of the financial statements
+
+The financial statements are general purpose financial statements and are required by section 42 of the *Public Governance, Performance and Accountability Act 2013*.
 
 The financial statements have been prepared in accordance with:
 
-Public Governance, Performance and Accountability (Financial Reporting) Rule 2015 (FRR) for reporting periods ending on or after 1 July 2015; and
-Australian Accounting Standards and Interpretations issued by the Australian Accounting Standards Board (AASB) that apply for the reporting period.
+   a. *Public Governance, Performance and Accountability (Financial Reporting) Rule 2015 (FRR)* for reporting periods ending on or after 1 July 2015; and
+   b. Australian Accounting Standards and Interpretations issued by the Australian Accounting Standards Board (AASB) that apply for the reporting period.
+   
 The financial statements have been prepared on an accrual basis and in accordance with the historical cost convention, except where certain assets and liabilities are recorded at fair value. Except where stated, no allowance is made for the effect of changing prices on the results or the financial position.
 
 The financial statements are presented in Australian dollars and values are rounded to the nearest thousand dollars unless otherwise specified.
 
-As the DTO was established as an Executive Agency on 1 July 2015, there will be no comparative 
-figures disclosed.
+As the DTO was established as an Executive Agency on 1 July 2015, there will be no comparative figures disclosed.
 
-New Australian accounting standards
+##### New Australian accounting standards
 
-Adoption of New Australian Accounting Standard requirements
+###### *_Adoption of New Australian Accounting Standard requirements_*
 
 No accounting standard has been adopted earlier than the application date as stated in the standard.
 
 Other new standards, revised standards, interpretations and amending standards that were issued prior to the sign-off date and are applicable to the current reporting period did not have a material financial impact, and are not expected to have a future material financial impact on the DTO.
 
-Future Australian Accounting Standard requirements
+##### *_Future Australian Accounting Standard requirements_*
 
 No new/revised/amending standards and/or interpretations issued by the AASB prior to the sign-off date are expected to have a future material impact on DTO’s financial statements which are applicable to the DTO for future reporting periods.
 
-Taxation
+##### Taxation
 The DTO is exempt from all forms of taxation except Fringe Benefits Tax (FBT) and Goods and Services Tax (GST).
 
-Events after the reporting period
+##### Events after the reporting period
 There are no known events occurring after the reporting period that could impact on the financial statements.
 
-Revenue from Government
+##### Revenue from Government
 Amounts appropriated for departmental appropriations for the year (adjusted for any formal additions 
 and reductions) are recognised as Revenue from Government when DTO gains control of the appropriation, except for certain amounts that relate to activities that are reciprocal in nature, in which case revenue is recognised only when it has been earned. Appropriations receivable are recognised at their nominal amounts.
 
-1. Departmental Financial Performance
+#### 1. Departmental Financial Performance
 
-This section analyses the financial performance of the Digital Transformation Office for the year ended 2016.
-1.1 Expenses
+**This section analyses the financial performance of the Digital Transformation Office for the year ended 2016.**
+
+##### 1.1 Expenses
 
 <table summary="1.1 Expenses">
   <colgroup>
@@ -1060,7 +1026,7 @@ This section analyses the financial performance of the Digital Transformation Of
   </tbody>
 </table>
 
-Accounting Policy
+###### Accounting Policy
 
 Accounting policies for employee related expenses is contained in the People and relationships section.
 
@@ -1183,9 +1149,9 @@ for the period ended 30 June 2016">
   </tbody>
 </table>
 
-Note: Commitments are GST inclusive where relevant.
+**Note: Commitments are GST inclusive where relevant.**
 
-Operating lease commitment - leases for office accommodation
+##### Operating lease commitment - leases for office accommodation
 
 Office accommodation lease payments are subject to periodic increases in accordance with the rent review provisions in the lease agreements.
 
@@ -1193,13 +1159,13 @@ The DTO has one lease that contains three, one year renewal options. The options
 
 The DTO has one MOU for the leasing of premises which has a provision requiring the premises to be restored to their original condition at the conclusion of the lease. The DTO has made a make good provision to reflect the present value of this obligation.
 
-Accounting Policy
+###### Accounting Policy
 
 Operating lease payments are expensed on a straight-line basis which is representative of the pattern of benefits derived from the leased assets.
 
 A distinction is made between finance leases and operating leases. Finance leases effectively transfer from the lessor to the lessee substantially all the risks and rewards incidental to ownership of leased assets. An operating lease is a lease that is not a finance lease. In operating leases, the lessor effectively retains substantially all such risks and benefits.
 
-1.2 Own-Source Revenue and Gains
+##### 1.2 Own-Source Revenue and Gains
 
 <table summary="Note 1.2A: Resources received free of charge">
   <colgroup>
@@ -1228,15 +1194,15 @@ A distinction is made between finance leases and operating leases. Finance lease
   </tbody>
 </table>
 
-Accounting Policy
+###### Accounting Policy
 
 Resources received free of charge are recognised as revenue when, and only when, a fair value can be reliably determined and the services would have been purchased if they had not been donated. Use of those resources is recognised as an expense. Resources received free of charge are recorded as either revenue or gains depending on their nature.
 
-2. Departmental Financial Position
+#### 2. Departmental Financial Position
 
 This section analyses the Digital Transformation Office’s assets used to generate financial performance and the operating liabilities incurred as a result. Employee related information is disclosed in the People and Relationships section.
 
-2.1 Financial Assets
+##### 2.1 Financial Assets
 
 <table summary="&quot;&quot;">
   <colgroup>
@@ -1355,7 +1321,7 @@ This section analyses the Digital Transformation Office’s assets used to gener
 
 Receivables have been assessed for impairment and no allowance has been made as at 30 June 2016.
 
-2.2 Non-Financial Assets
+##### 2.2 Non-Financial Assets
 
 <table summary="&quot;&quot;">
   <colgroup>
@@ -1494,20 +1460,21 @@ Receivables have been assessed for impairment and no allowance has been made as 
   </tbody>
 </table>
 
-Accounting policy
+###### Accounting policy
 
-Asset recognition threshold
+###### *_Asset recognition threshold_*
 
 Property, plant and equipment is the generic term that covers leasehold improvements and plant and equipment. Purchases of property, plant and equipment and intangibles are recognised initially at cost in the Statement of Financial Position, except for purchases costing less than $2,000, which are expensed in the year of acquisition.
 
 The initial cost of an asset includes an estimate of the cost of dismantling and removing the item and restoring the site on which it is located. This is particularly relevant to ‘make good’ provisions in property leases taken up by the DTO where there exists an obligation to restore the asset to its original condition. These costs are included in the value of the DTO’s leasehold improvements with a corresponding provision for the ‘make good’ recognised.
 
-Intangibles
+###### *_Intangibles_*
+
 The entity’s intangibles comprise of internally developed software for internal use. These assets are carried at cost less accumulated amortisation and accumulated impairment losses.
 
 Amortisation rates apply to intangibles and are based of the useful life of 2 to 3 years.
 
-Revaluations
+###### *_Revaluations_*
 
 Fair values for each class of asset are determined as shown below:
 
@@ -1534,7 +1501,7 @@ Fair values for each class of asset are determined as shown below:
   </tbody>
 </table>
 
-Depreciation
+###### *_Depreciation_*
 
 Depreciable property, plant and equipment assets are written-off to their estimated residual values over their estimated useful lives to the DTO using, in all cases, the straight-line method of depreciation.
 
@@ -1565,7 +1532,7 @@ Depreciation rates applying to each class of depreciable asset are based on the 
   </tbody>
 </table>
 
-Impairment
+###### *_Impairment_*
 
 All assets were assessed for impairment during 2016.
 
@@ -1573,7 +1540,7 @@ Where indications of impairment exist, the asset’s recoverable amount is estim
 
 A write-down of $957,000 was recognised in 2016 for Leasehold Improvements for the write-off of the South Tower of level 3 50 Marcus Clarke Street due to the termination of the lease.
 
-Derecognition
+###### *_Derecognition_*
 
 An item of property, plant and equipment is derecognised upon disposal or when no further future economic benefits are expected from its use or disposal.
 
@@ -1628,7 +1595,7 @@ An item of property, plant and equipment is derecognised upon disposal or when n
   </tbody>
 </table>
 
-2.3 Payables
+#### 2.3 Payables
 
 <table summary="Note 2.3A: Suppliers">
   <colgroup>
@@ -1734,13 +1701,13 @@ Settlement is usually made within 30 days.
   </tbody>
 </table>
 
-Accounting Policy
+###### Accounting Policy
 
 Supplier and other payables are recognised at amortised cost. Liabilities are recognised to the extent that the goods or services have been received (and irrespective of having been invoiced).
 
 Financial liabilities are recognised and derecognised upon ‘trade date’.
 
-2.4 Other Provisions
+##### 2.4 Other Provisions
 
 <table summary="Note 2.4A: Other provisions">
   <colgroup>
@@ -1842,15 +1809,15 @@ Financial liabilities are recognised and derecognised upon ‘trade date’.
 
 The entity currently has one MOU agreement for the leasing of premises which has a provision requiring the entity to restore the premises to their original condition at the conclusion of the lease.
 
-Accounting Policy
+###### Accounting Policy
 
 Provision for the restoration of leased premises (makegood) is based on future obligations relating to the underlying assets. The provision is disclosed at the present value of the obligation utilising the appropriate Government bond rate.
 
-3. Funding
+#### 3. Funding
 
 This section identifies the Digital Transformation Office funding structure.
 
-3.1 Appropriations
+##### 3.1 Appropriations
 
 <table summary="Note 3.1A: Annual appropriations (‘recoverable GST exclusive’)">
   <colgroup>
@@ -1969,11 +1936,12 @@ This section identifies the Digital Transformation Office funding structure.
   </tbody>
 </table>
 
-Shared Service Centre spends money from the Consolidated Revenue Fund (CRF) on behalf of DTO.
-The variance in departmental ordinary annual services is mainly attributable to undrawn current year appropriations due a higher than expected accrued expense balance.
-Departmental Capital Budgets are appropriated through Appropriation Acts (No. 1,3,5). They form part of ordinary annual services and are not separately identified in the Appropriation Acts.
-The current year Equity injection is shown exclusive of the Section 51 Permanent Quarantine, which has reduced contributed equity by $2.226 million.
-Note 3.1B: Unspent annual appropriations (‘recoverable GST exclusive’)
+   1. Shared Service Centre spends money from the Consolidated Revenue Fund (CRF) on behalf of DTO.
+   2. The variance in departmental ordinary annual services is mainly attributable to undrawn current year appropriations due a higher than expected accrued expense balance.
+   3. Departmental Capital Budgets are appropriated through Appropriation Acts (No. 1,3,5). They form part of ordinary annual services and are not separately identified in the Appropriation Acts.
+   4. The current year Equity injection is shown exclusive of the Section 51 Permanent Quarantine, which has reduced contributed equity by $2.226 million.
+
+**Note 3.1B: Unspent annual appropriations (‘recoverable GST exclusive’)**
 
 <table summary="Note 3.1B: Unspent annual appropriations (‘recoverable GST exclusive’) ">
   <colgroup>
@@ -2022,10 +1990,10 @@ Note 3.1B: Unspent annual appropriations (‘recoverable GST exclusive’)
 </table>
 
 The current year Equity injection is shown exclusive of the Section 51 Permanent Quarantine, which has reduced contributed equity by $2.226 million.
-Note 3.1C: Disclosure by agent in relation to annual and special appropriations (‘recoverable GST exclusive’)
 
-<table summary="Note 3.1C: Disclosure by agent in relation to annual and special appropriations
-  (‘recoverable GST exclusive’)">
+**Note 3.1C: Disclosure by agent in relation to annual and special appropriations (‘recoverable GST exclusive’)**
+
+<table summary="Note 3.1C: Disclosure by agent in relation to annual and special appropriations (‘recoverable GST exclusive’)">
   <colgroup>
   <col />
   <col />
@@ -2054,7 +2022,7 @@ Note 3.1C: Disclosure by agent in relation to annual and special appropriations 
 
 During 2015–16, the Shared Services Centre provided the DTO with Treasury services.
 
-3.2 Cash Flow Reconciliation
+##### 3.2 Cash Flow Reconciliation
 
 <table summary="&quot;&quot;">
   <colgroup>
@@ -2154,11 +2122,11 @@ During 2015–16, the Shared Services Centre provided the DTO with Treasury serv
   </tbody>
 </table>
 
-4. People and Relationships
+#### 4. People and Relationships
 
 This section describes a range of employment and post employment benefits provided to our people and our relationships with other key people.
 
-4.1 Employee Provisions
+##### 4.1 Employee Provisions
 
 <table summary="&quot;&quot;">
   <colgroup>
@@ -2207,17 +2175,17 @@ This section describes a range of employment and post employment benefits provid
   </tbody>
 </table>
 
-Accounting Policy
+##### Accounting Policy
 
 Liabilities for ‘short-term employee benefits’ (as defined in AASB 119 Employee Benefits) and termination benefits due within twelve months of the end of reporting period are measured at their nominal amounts.
 
-Leave
+###### *_Leave_*
 
 The liability for employee benefits includes provision for annual leave and long service leave. The leave liabilities are calculated on the basis of employees’ remuneration at the estimated salary rates that will be applied at the time the leave is taken, including the DTO’s employer superannuation contribution rates to the extent that the leave is likely to be taken during service rather than paid out on termination. The provision is disclosed at the present value of the obligation using the short hand method that utilises the appropriate Government bond rate.
 
 No provision has been made for sick leave as all sick leave is non-vesting and the average sick leave taken in future years by employees of the DTO is estimated to be less than the annual entitlement for sick leave.
 
-Superannuation
+###### *_Superannuation_*
 
 The DTO’s staff are members of the Commonwealth Superannuation Scheme (CSS), the Public Sector Superannuation Scheme (PSS), the PSS accumulation plan (PSSap) or another fund of their choice.
 
@@ -2229,7 +2197,7 @@ The DTO makes employer contributions to the employees’ superannuation scheme. 
 
 The liability for superannuation recognised as at 30 June represents outstanding contributions for the final fortnight of the year.
 
-4.2 Senior Management Personnel Remuneration
+##### 4.2 Senior Management Personnel Remuneration
 
 <table summary="&quot;&quot;">
   <colgroup>
@@ -2312,20 +2280,20 @@ The liability for superannuation recognised as at 30 June represents outstanding
 
 During the year, the total number of senior management personnel that were utilised and are included in the above table is 21. The additional positions reported relate to the short-term employment and secondment arrangements during 2015–16 to support the establishment and development of the DTO. As at 30 June 2016, the DTO has nine senior management positions.
 
-5. Managing Uncertainties
+#### 5. Managing Uncertainties
 
 This section analyses how the Digital Transformation Office manages financial risks within its operating environment.
 
-5.1 Contingent Assets and Liabilities
+##### 5.1 Contingent Assets and Liabilities
 
-Note 5.1A: Contingent assets and liabilities
+**Note 5.1A: Contingent assets and liabilities**
 
 The DTO is not aware of any material departmental quantifiable or unquantifiable contingent assets or liabilities as at the signing date that would require disclosure in the financial statements.
 
-Accounting Policy
+##### Accounting Policy
 Contingent liabilities and contingent assets are not recognised in the Statement of Financial Position but are reported in the relevant schedules and notes. They may arise from uncertainty as to the existence of a liability or asset, or represent an asset or liability in respect of which the amount cannot be reliably measured. Contingent assets are disclosed when settlement is probable but not virtually certain and contingent liabilities are disclosed when settlement is greater than remote.
 
-5.2 Financial Instruments
+##### 5.2 Financial Instruments
 
 <table summary="Note 5.2A: Categories of financial instruments">
   <colgroup>
@@ -2394,27 +2362,27 @@ Contingent liabilities and contingent assets are not recognised in the Statement
   </tbody>
 </table>
 
-Note 5.2B: Net gains or losses on financial assets
+**Note 5.2B: Net gains or losses on financial assets**
 
 The DTO has no gains or losses on financial instruments
 
-Note 5.2C: Fair value of financial instruments
+**Note 5.2C: Fair value of financial instruments**
 
 The fair value of financial instruments approximate their carrying amounts.
 
-Note 5.2D: Credit risk
+**Note 5.2D: Credit risk**
 
 The DTO is exposed to minimal credit risk as loans and receivables are comprised of cash and goods and services receivable with related entities. The maximum exposure to credit risk is the risk that arises from potential default of a debtor. This amount is equal to the total amount of these outstanding receivables, 2016: $0.786 million. The DTO has assessed the risk of the default on payment and has not allocated any funds to the impairment allowance account
 
-Note 5.2E: Liquidity risk
+**Note 5.2E: Liquidity risk**
 
 The DTO’s financial liabilities are suppliers payable. The exposure to liquidity risk is based on the notion that the DTO will encounter difficulty in meeting its obligations associated with financial liabilities. This is highly unlikely due to appropriation funding and mechanisms available to the DTO and internal policies and procedures put in place to ensure there are appropriate resources to meet its financial obligations.
 
-Note 5.2F: Market risk
+**Note 5.2F: Market risk**
 
 The DTO holds basic financial instruments that do not expose the DTO to interest risk, currency risk or other price risk.
 
-5.3 Fair Value Measurement
+##### 5.3 Fair Value Measurement
 
 The following tables provide an analysis of assets that are measured at fair value. The remaining assets and liabilities disclosed in the statement of financial position do not apply the fair value hierarchy.
 
@@ -2426,7 +2394,7 @@ Level 2: Inputs other than quoted prices included within Level 1 that are observ
 
 Level 3: Inputs for the asset or liability that are not based on observable market data (unobservable inputs).
 
-Note 5.3A: Fair value measurements, valuation techniques and inputs used
+**Note 5.3A: Fair value measurements, valuation techniques and inputs used**
 
 Fair value measurements at the end of the reporting period	
 <table summary="&quot;&quot;">
@@ -2482,13 +2450,13 @@ Fair value measurements at the end of the reporting period
 
 DTO’s assets are held for operational purposes and not held for the purposes of deriving a profit.
 No revaluation has been performed in 2015–16 as all assets were transferred or purchased in the current year representing a proxy for fair value.
-6. Other Information
+#### 6. Other Information
 
-6.1 Restructuring
+##### 6.1 Restructuring
 
-Note 6.1A: Departmental restructuring
+**Note 6.1A: Departmental restructuring**
 
-Restructuring
+###### Restructuring
 
 Net assets received from or relinquished to another Australian Government entity under a restructuring of administrative arrangements are adjusted at their book value directly against contributed equity.
 
@@ -2587,6 +2555,6 @@ As part of the Administrative Arrangement Orders issued by the Government on 21 
   </tbody>
 </table>
 
-6.2. Reporting of Outcomes
+##### 6.2. Reporting of Outcomes
 
 As the Digital Transformation Office has one Outcome, the Reporting of Outcomes is disclosed in the Statement of Comprehensive Income and Statement of Financial Position.
