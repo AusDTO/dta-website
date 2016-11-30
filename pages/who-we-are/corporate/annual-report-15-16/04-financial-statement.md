@@ -882,7 +882,7 @@ for the period ended 30 June 2016
 
 - [Overview](#overview)
 - [1. Departmental Financial Performance](#1-departmental-financial-performance)
-- [1.1. Expenses](#1-1-expenses)
+- [1.1. Expenses](#11-expenses)
 - [1.2. Own-Source Revenue and Gains](#1-2-own-source-revenue-and-gains)
 - [2. Departmental Financial Position](#-departmental-financial-position)
 - [2.1. Financial Assets](#2-1-financial-assets)
