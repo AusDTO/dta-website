@@ -897,7 +897,7 @@ for the period ended 30 June 2016
 - [4.2. Senior Management Personnel Remuneration](#42-senior-management-personnel-remuneration)
 - [5. Managing Uncertainties](#5-managing-uncertainties)
 - [5.1. Contingent Assets and Liabilities](#51-contingent-assets-and-liabilities)
-- [5.2. Financial Instruments](#52-financial-instrumenmts)
+- [5.2. Financial Instruments](#52-financial-instruments)
 - [5.3. Fair Value Measurement](#53-fair-value-measurement)
 - [6. Other Information](#6-other-information)
 - [6.1. Restructuring](#61-restructuring)
