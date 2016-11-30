@@ -941,7 +941,7 @@ As the DTO was established as an Executive Agency on 1 July 2015, there will be 
 
 ##### New Australian accounting standards
 
-_*Adoption of New Australian Accounting Standard requirements*_
+__*Adoption of New Australian Accounting Standard requirements*__
 
 No accounting standard has been adopted earlier than the application date as stated in the standard.
 
