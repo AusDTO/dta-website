@@ -931,6 +931,7 @@ The financial statements are general purpose financial statements and are requir
 The financial statements have been prepared in accordance with:
 
    a. *Public Governance, Performance and Accountability (Financial Reporting) Rule 2015 (FRR)* for reporting periods ending on or after 1 July 2015; and
+   
    b. Australian Accounting Standards and Interpretations issued by the Australian Accounting Standards Board (AASB) that apply for the reporting period.
    
 The financial statements have been prepared on an accrual basis and in accordance with the historical cost convention, except where certain assets and liabilities are recorded at fair value. Except where stated, no allowance is made for the effect of changing prices on the results or the financial position.
@@ -941,7 +942,7 @@ As the DTO was established as an Executive Agency on 1 July 2015, there will be 
 
 ##### New Australian accounting standards
 
-__*Adoption of New Australian Accounting Standard requirements*__
+_*Adoption of New Australian Accounting Standard requirements*_
 
 No accounting standard has been adopted earlier than the application date as stated in the standard.
 
