@@ -45,6 +45,8 @@ exclude:
   - circle.yml
   - README.md
   - manifest*.yml
+  - ld_library_path
+  - config.ru
 
 assets:
   assets:

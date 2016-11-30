@@ -13,3 +13,5 @@ gem 'font-awesome-sass'
 gem 'uglifier'
 gem 'rake'
 
+gem 'rack-jekyll'
+gem 'puma'

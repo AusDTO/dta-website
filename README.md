@@ -1,46 +1,40 @@
-# dta-website
+# Digital Transformation Agency's website
 
 [![CircleCI](https://circleci.com/gh/AusDTO/dta-website.svg?style=svg&circle-token=2bcec14fa84e7b927e3e048f8448bc3c4f91674d)](https://circleci.com/gh/AusDTO/dta-website)
 [![Stories in Ready](https://badge.waffle.io/AusDTO/dta-website.png?label=ready&title=Ready)](https://waffle.io/AusDTO/dta-website)
 
-## Development
+www.dta.gov.au is a [Jekyll website](http://jekyllrb.com/).
 
-### Setup
+## Installation
 
-DTA.GOV.AU is a [Jekyll website](http://jekyllrb.com/). You will need to have [rbenv](https://github.com/rbenv/rbenv) installed to manage Ruby and RubyGems.
+**Ensure you have the pre-requisites installed:**
 
-Setup dta.gov.au locally
+- [Ruby 2.3.1](https://www.ruby-lang.org/en/documentation/installation/)
+- [rbenv](https://github.com/rbenv/rbenv)
+- [Bundler](http://bundler.io/)
 
-```
-git clone git@github.com:AusDTO/dta-website.git
-cd dta-website
-gem install bundler
-bundle install
-```
+Run each of the following commands to get the site running locally:
 
-Launch dta.gov.au locally
-
-```
-bundle exec jekyll serve --watch
-```
+1. `git clone git@github.com:AusDTO/dta-website.git`
+2. `cd dta-website`
+3. `bundle install`
+4. `bundle exec jekyll serve`
 
 You should be able to see the site at: http://127.0.0.1:4000
 
-## Hacking on Content
+To increase the speed of jekyll builds, you can replace the last step with `bin/serve`. This will disable the search plugin and only render the latest post.
 
-Create a branch from the `develop` branch.  
+## Development Process
 
-To test that branch out you can push to cloud.gov.au before commiting to git.
+The default branch is `develop` which is continuously deployed by circleCI to https://dta.apps.staging.digital.gov.au/
 
-`cf push branchname` # assumes you are logged into the staging platform.
+The production branch is `master` which is continuously deployed by circleCI to https://www.dta.gov.au/
 
-Remember to delete unused apps:
+When starting a new change, branch from `develop`.
 
-`cf delete branchname`
+[QA-Fire](https://qafire.apps.staging.digital.gov.au/4) is enabled for this project. Each pull-request will be deployed to a temporary staging site, click on 'Details' next to the QA-Fire status to view it. As long as the circleCI tests are passing, this staging site will be kept up to date with all commits to the branch.
 
 When your change is ready, submit a PR to the `develop` branch.
-The develop branch is continuously deployed to https://dta.apps.staging.digital.gov.au/
-The master branch is continuously deployed to https://www.dta.gov.au/
 
 When ready for a production deploy, merge the `develop` branch to `master`. You can do this through Github [with a PR](https://github.com/AusDTO/dta-website/compare/master...develop) or from the command line:
 
