@@ -52,28 +52,145 @@ Statement of comprehensive income
 
 for the period ended 30 June 2016
 
-2016	Original budget
-Notes	$’000	$’000
-NET COST OF SERVICES			
-Expenses			
-Employee benefits	1.1A	11,547	17,276
-Suppliers	1.1B	15,509	11,365
-Depreciation and amortisation	2.2A	848	278
-Write-down and impairment of assets	2.2A	957	-
-Total expenses		28,861	28,919
-Own-source income			
-Own-source revenue			
-Resources received free of charge	1.2A	261	-
-Total own-source revenue		261	-
-Total own-source income		261	-
-Net cost of services		28,600	28,919
-Revenue from Government		30,525	28,641
-Surplus/(Deficit) attributable to the Australian Government	1,925	(278)
-OTHER COMPREHENSIVE INCOME			
-Items not subject to subsequent reclassification to net cost of services			
-Changes in asset revaluation surplus		-	-
-Total comprehensive income/(loss) attributable to the Australian Government		1,925	(278)
-Budget Variances Commentary
+<table summary="Digital Transformation Office
+Statement of comprehensive income
+for the period ended 30 June 2016">
+  <colgroup>
+  <col />
+  <col />
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th />
+      <th />
+      <th>2016</th>
+      <th>Original budget</th>
+    </tr>
+    <tr>
+      <th />
+      <th>Notes</th>
+      <th><strong>$’000</strong></th>
+      <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>NET COST OF SERVICES</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Expenses</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Employee benefits</td>
+      <td>1.1A</td>
+      <td><strong>11,547</strong></td>
+      <td>17,276</td>
+    </tr>
+    <tr>
+      <td>Suppliers</td>
+      <td>1.1B</td>
+      <td><strong>15,509</strong></td>
+      <td>11,365</td>
+    </tr>
+    <tr>
+      <td>Depreciation and amortisation</td>
+      <td>2.2A</td>
+      <td><strong>848</strong></td>
+      <td>278</td>
+    </tr>
+    <tr>
+      <td>Write-down and impairment of assets</td>
+      <td>2.2A</td>
+      <td><strong>957</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><em><strong>Total expenses</strong></em></td>
+      <td />
+      <td><strong>28,861</strong></td>
+      <td>28,919</td>
+    </tr>
+    <tr>
+      <td><strong>Own-source income</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Own-source revenue</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Resources received free of charge</td>
+      <td>1.2A</td>
+      <td><strong>261</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><em><strong>Total own-source revenue</strong></em></td>
+      <td></td>
+      <td><strong>261</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><em><strong>Total own-source income</strong></em></td>
+      <td></td>
+      <td><strong>261</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><em><strong>Net cost of services </strong></em></td>
+      <td></td>
+      <td><strong>28,600</strong></td>
+      <td>28,919</td>
+    </tr>
+    <tr>
+      <td>Revenue from Government</td>
+      <td></td>
+      <td><strong>30,525</strong></td>
+      <td>28,641</td>
+    </tr>
+    <tr>
+      <td colspan="2"><em><strong>Surplus/(Deficit) attributable to the Australian Government</strong></em></td>
+      <td><strong>1,925</strong></td>
+      <td>(278)</td>
+    </tr>
+    <tr>
+      <td><strong>OTHER COMPREHENSIVE INCOME</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Items not subject to subsequent reclassification to net cost of services</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Changes in asset revaluation surplus</td>
+      <td></td>
+      <td><strong>-</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><em><strong>Total comprehensive income/(loss) attributable to the Australian Government</strong></em></td>
+      <td></td>
+      <td><strong>1,925</strong></td>
+      <td>(278)</td>
+    </tr>
+  </tbody>
+</table>
 
 Total departmental expenses for 2015–16 were in line with the estimate published in the 2015–16 Portfolio Budget Statements. The variance for Employee benefits and Suppliers is attributable to a greater reliance on labour hire contractors due to a lower than expected ASL cap from what was originally budgeted.
 
@@ -86,35 +203,193 @@ Statement of financial position
 
 for the period ended 30 June 2016
 
-2016	Original budget
-Notes	$’000	$’000
-ASSETS			
-Financial assets			
-Cash		145	-
-Trade and other receivables	2.1A	10,451	286
-Total financial assets		10,596	286
-Non-financial assets			
-Plant and equipment	2.2A	527	1,948
-Leasehold improvements	2.2A	1,506	-
-Intangibles	2.2A	364	-
-Prepayments	2.2B	348	-
-Total non-financial assets		2,745	1,948
-Total assets		13,341	2,234
-LIABILITIES			
-Payables			
-Suppliers	2.3A	5,926	-
-Other payables	2.3B	100	-
-Total payables		6,026	-
-Provisions			
-Employee provisions	4.1A	1,573	880
-Make good provisions	2.4A	325	-
-Total provisions		1,898	880
-Total liabilities		7,924	880
-Net assets		5,417	1,354
-EQUITY			
-Contributed equity		3,492	2,226
-Retained surplus (Accumulated deficit)		1,925	(872)
-Total equity		5,417	1,354
+<table summary="&quot;&quot;">
+  <colgroup>
+  <col />
+  <col />
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th><strong>2016</strong></th>
+      <th>Original budget</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th><strong>Notes</strong></th>
+      <th><strong>$’000</strong></th>
+      <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>ASSETS</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Financial assets</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cash</td>
+      <td></td>
+      <td><strong>145</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Trade and other receivables</td>
+      <td>2.1A</td>
+      <td><strong>10,451</strong></td>
+      <td>286</td>
+    </tr>
+    <tr>
+      <td><em><strong>Total financial assets</strong></em></td>
+      <td></td>
+      <td><strong>10,596</strong></td>
+      <td>286</td>
+    </tr>
+    <tr>
+      <td><strong>Non-financial assets</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Plant and equipment</td>
+      <td>2.2A</td>
+      <td><strong>527</strong></td>
+      <td>1,948</td>
+    </tr>
+    <tr>
+      <td>Leasehold improvements</td>
+      <td>2.2A</td>
+      <td><strong>1,506</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Intangibles</td>
+      <td>2.2A</td>
+      <td><strong>364</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Prepayments</td>
+      <td>2.2B</td>
+      <td><strong>348</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><em><strong>Total non-financial assets</strong></em></td>
+      <td></td>
+      <td><strong>2,745</strong></td>
+      <td>1,948</td>
+    </tr>
+    <tr>
+      <td><strong>Total assets</strong></td>
+      <td></td>
+      <td><strong>13,341</strong></td>
+      <td>2,234</td>
+    </tr>
+    <tr>
+      <td><strong>LIABILITIES</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Payables</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Suppliers</td>
+      <td>2.3A</td>
+      <td><strong>5,926</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Other payables</td>
+      <td>2.3B</td>
+      <td><strong>100</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><em><strong>Total payables</strong></em></td>
+      <td></td>
+      <td><strong>6,026</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>Provisions</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Employee provisions</td>
+      <td>4.1A</td>
+      <td><strong>1,573</strong></td>
+      <td>880</td>
+    </tr>
+    <tr>
+      <td>Make good provisions</td>
+      <td>2.4A</td>
+      <td><strong>325</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><em><strong>Total provisions</strong></em></td>
+      <td></td>
+      <td><strong>1,898</strong></td>
+      <td>880</td>
+    </tr>
+    <tr>
+      <td><em><strong>Total liabilities</strong></em></td>
+      <td></td>
+      <td><strong>7,924</strong></td>
+      <td>880</td>
+    </tr>
+    <tr>
+      <td><em><strong>Net assets</strong></em></td>
+      <td></td>
+      <td><strong>5,417</strong></td>
+      <td>1,354</td>
+    </tr>
+    <tr>
+      <td><strong>EQUITY</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Contributed equity</td>
+      <td></td>
+      <td><strong>3,492</strong></td>
+      <td>2,226</td>
+    </tr>
+    <tr>
+      <td>Retained surplus (Accumulated deficit)</td>
+      <td></td>
+      <td><strong>1,925</strong></td>
+      <td>(872)</td>
+    </tr>
+    <tr>
+      <td><em><strong>Total equity</strong></em></td>
+      <td></td>
+      <td><strong>5,417</strong></td>
+      <td>1,354</td>
+    </tr>
+  </tbody>
+</table>
+
 Budget Variances Commentary
 
 Total departmental financial assets for 2015–16 were $10.310 million higher than the estimate published in the 2015–16 Portfolio Budget Statements. The increase is primarily attributable to the amount of unspent appropriation receivable due to Revenue from Government not being fully expended and a higher than expected accrued suppliers balance.
@@ -132,56 +407,269 @@ Statement of changes in equity
 
 for the period ended 30 June 2016
 
-2016	Original budget
-$’000	$’000
-CONTRIBUTED EQUITY		
-Opening balance		
-Balance carried forward from previous period	-	-
-Adjusted opening balance	-	-
-Transactions with owners		
-Distributions to owners		
-Returns of capital:		
-Return of Appropriation (equity injection)1	(2,226)	-
-Contributions by owners		
-Restructuring2	1,992	-
-Appropriation (equity injection)	2,226	2,226
-Departmental Capital Budget (DCB)	1,500	-
-Total transactions with owners	3,492	2,226
-Closing balance as at 30 June	3,492	2,226
-RETAINED EARNINGS		
-Opening balance		
-Balance carried forward from previous period	-	-
-Adjusted opening balance	-	-
-Comprehensive income		
-Restructuring	-	(594)
-Surplus (Deficit) for the period	1,925	(278)
-Total comprehensive income	1,925	(872)
-Closing balance as at 30 June	1,925	1,354
+<table summary="Digital Transformation Office
+Statement of changes in equity
+
+for the period ended 30 June 2016">
+  <colgroup>
+  <col />
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th><strong>2016</strong></th>
+      <th>Original budget</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th><strong>$’000</strong></th>
+      <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CONTRIBUTED EQUITY</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Opening balance</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Balance carried forward from previous period</td>
+      <td><strong>-</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>Adjusted opening balance</strong></td>
+      <td><strong>-</strong></td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Transactions with owners</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Distributions to owners</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Returns of capital:</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Return of Appropriation (equity injection)<sup>1</sup></td>
+      <td>(2,226)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>Contributions by owners</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Restructuring<sup>2</sup></td>
+      <td>1,992</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Appropriation (equity injection)</td>
+      <td>2,226</td>
+      <td>2,226</td>
+    </tr>
+    <tr>
+      <td>Departmental Capital Budget (DCB)</td>
+      <td>1,500</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><em><strong>Total transactions with owners</strong></em></td>
+      <td><strong>3,492</strong></td>
+      <td>2,226</td>
+    </tr>
+    <tr>
+      <td><em><strong>Closing balance as at 30 June</strong></em></td>
+      <td><strong>3,492</strong></td>
+      <td> 2,226 </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>RETAINED EARNINGS</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Opening balance</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Balance carried forward from previous period</td>
+      <td><strong>-</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>Adjusted opening balance</strong></td>
+      <td><strong>-</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>Comprehensive income</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Restructuring</td>
+      <td><strong>-</strong></td>
+      <td>(594)</td>
+    </tr>
+    <tr>
+      <td>Surplus (Deficit) for the period</td>
+      <td>1,925</td>
+      <td>(278)</td>
+    </tr>
+    <tr>
+      <td><em><strong>Total comprehensive income</strong></em></td>
+      <td><strong>1,925</strong></td>
+      <td>(872)</td>
+    </tr>
+    <tr>
+      <td><em><strong>Closing balance as at 30 June</strong></em></td>
+      <td><strong>1,925</strong></td>
+      <td> 1,354 </td>
+    </tr>
+  </tbody>
+</table>
+
 Return of appropriation under section 51 of PGPA Act reflects the return of $2.226m of unused funding for the development of the Grants Warehouse appropriated to the Digital Transformation Office in Appropriation Act 2 2015/16.
+
 Restructuring of $1.992m reflects the transfer of functions from the Department of Finance ($1.003m) and the transfer of plant and equipment to assist with the establishment of the Digital Transformation Office as its own Executive Agency from the Department of the Prime Minister and Cabinet ($0.989m).
+
 The above statement should be read in conjunction with the accompanying notes.
 
 Digital Transformation Office Statement of Changes in Equity
 
-2016	Original budget
-$’000	$’000
-TOTAL EQUITY		
-Opening balance		
-Balance carried forward from previous period	-	-
-Adjusted opening balance	-	-
-Comprehensive income		
-Surplus (Deficit) for the period	1,925	(278)
-Total comprehensive income	1,925	(278)
-Transactions with owners		
-Distributions to owners		
-Returns of capital:		
-Return of Appropriation (equity injection)	(2,226)	-
-Contributions by owners		
-Restructuring	1,992	(594)
-Appropriation (equity injection)	2,226	2,226
-Departmental Capital Budget (DCB)	1,500	-
-Total transactions with owners	3,492	1,632
-Closing balance as at 30 June	5,417	1,354
+<table summary="Digital Transformation Office
+Statement of changes in equity
+
+for the period ended 30 June 2016">
+  <colgroup>
+  <col />
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th><strong>2016</strong></th>
+      <th>Original budget</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th><strong>$’000</strong></th>
+      <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>TOTAL EQUITY</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Opening balance</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Balance carried forward from previous period</td>
+      <td><strong>-</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>Adjusted opening balance</strong></td>
+      <td><strong>-</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>Comprehensive income</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Surplus (Deficit) for the period</td>
+      <td><strong>1,925</strong></td>
+      <td>(278)</td>
+    </tr>
+    <tr>
+      <td><strong>Total comprehensive income</strong></td>
+      <td><strong>1,925</strong></td>
+      <td>(278)</td>
+    </tr>
+    <tr>
+      <td><strong>Transactions with owners</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Distributions to owners</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Returns of capital:</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Return of Appropriation (equity injection)</td>
+      <td><strong>(2,226)</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>Contributions by owners</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Restructuring</td>
+      <td><strong>1,992</strong></td>
+      <td>(594)</td>
+    </tr>
+    <tr>
+      <td>Appropriation (equity injection)</td>
+      <td><strong>2,226</strong></td>
+      <td>2,226</td>
+    </tr>
+    <tr>
+      <td>Departmental Capital Budget (DCB)</td>
+      <td><strong>1,500</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>Total transactions with owners</strong></td>
+      <td><strong>3,492</strong></td>
+      <td>1,632</td>
+    </tr>
+    <tr>
+      <td><strong>Closing balance as at 30 June</strong></td>
+      <td><strong>5,417</strong></td>
+      <td>1,354</td>
+    </tr>
+  </tbody>
+</table>
+
 Accounting Policy
 
 Equity injections
@@ -205,34 +693,188 @@ Cash flow statement
 
 for the period ended 30 June 2016
 
-2016	Original budget
-Notes	$’000	$’000
-OPERATING ACTIVITIES			
-Cash received			
-Net GST received		778	-
-Appropriations		21,259	28,355
-Total cash received		22,037	28,355
-Cash used			
-Employees		10,575	16,990
-Suppliers		9,847	11,365
-Total cash used		20,422	28,355
-Net cash from/(used by) operating activities	3.2	1,615	-
-INVESTING ACTIVITIES			
-Cash used			
-Purchase of property, plant and equipment		2,970	2,226
-Purchase of intangibles		-	-
-Total cash used		2,970	2,226
-Net cash from/(used by) investing activities		(2,970)	(2,226)
-FINANCING ACTIVITIES			
-Cash received			
-Contributed equity			
-Equity injections		-	2,226
-Departmental capital budget		1,500	-
-Total cash received		1,500	2,226
-Net cash from/(used by) financing activities		1,500	2,226
-Net increase/(decrease) in cash held		145	-
-Cash and cash equivalents at the beginning of the reporting period	-	-
-Cash and cash equivalents at the end of the reporting period	145	-
+<table summary="Digital Transformation Office
+Cash flow statement
+
+for the period ended 30 June 2016">
+  <colgroup>
+  <col />
+  <col />
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th><strong>2016</strong></th>
+      <th>Original budget</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th><strong>Notes</strong></th>
+      <th><strong>$’000</strong></th>
+      <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>OPERATING ACTIVITIES</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Cash received</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Net GST received</td>
+      <td></td>
+      <td><strong>778</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Appropriations</td>
+      <td></td>
+      <td><strong>21,259</strong></td>
+      <td>28,355</td>
+    </tr>
+    <tr>
+      <td><strong>Total cash received</strong></td>
+      <td></td>
+      <td><strong>22,037</strong></td>
+      <td>28,355</td>
+    </tr>
+    <tr>
+      <td><strong>Cash used</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Employees</td>
+      <td></td>
+      <td><strong>10,575</strong></td>
+      <td>16,990</td>
+    </tr>
+    <tr>
+      <td>Suppliers</td>
+      <td></td>
+      <td><strong>9,847</strong></td>
+      <td>11,365</td>
+    </tr>
+    <tr>
+      <td><strong>Total cash used</strong></td>
+      <td></td>
+      <td><strong>20,422</strong></td>
+      <td>28,355</td>
+    </tr>
+    <tr>
+      <td><em><strong>Net cash from/(used by) operating activities</strong></em></td>
+      <td>3.2</td>
+      <td><strong>1,615</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>INVESTING ACTIVITIES</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Cash used</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Purchase of property, plant and equipment</td>
+      <td></td>
+      <td><strong>2,970</strong></td>
+      <td>2,226</td>
+    </tr>
+    <tr>
+      <td>Purchase of intangibles</td>
+      <td></td>
+      <td><strong>-</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>Total cash used</strong></td>
+      <td></td>
+      <td><strong>2,970</strong></td>
+      <td>2,226</td>
+    </tr>
+    <tr>
+      <td><em><strong>Net cash from/(used by) investing activities</strong></em></td>
+      <td></td>
+      <td><strong>(2,970)</strong></td>
+      <td>(2,226)</td>
+    </tr>
+    <tr>
+      <td><strong>FINANCING ACTIVITIES</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Cash received</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Contributed equity</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Equity injections</td>
+      <td></td>
+      <td><strong>-</strong></td>
+      <td>2,226</td>
+    </tr>
+    <tr>
+      <td>Departmental capital budget</td>
+      <td></td>
+      <td><strong>1,500</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>Total cash received</strong></td>
+      <td></td>
+      <td><strong>1,500</strong></td>
+      <td>2,226</td>
+    </tr>
+    <tr>
+      <td><em><strong>Net cash from/(used by) financing activities</strong></em></td>
+      <td></td>
+      <td><strong>1,500</strong></td>
+      <td>2,226</td>
+    </tr>
+    <tr>
+      <td><em><strong>Net increase/(decrease) in cash held</strong></em></td>
+      <td></td>
+      <td><strong>145</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td colspan="2">Cash and cash equivalents at the beginning of the reporting period</td>
+      <td><strong>-</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td colspan="2"><em><strong>Cash and cash equivalents at the end of the reporting period</strong></em></td>
+      <td><strong>145</strong></td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
 Budget Variances Commentary
 
 Departmental net cash from operating activities is $1.615 million higher than the estimate published 
@@ -359,49 +1001,188 @@ and reductions) are recognised as Revenue from Government when DTO gains control
 This section analyses the financial performance of the Digital Transformation Office for the year ended 2016.
 1.1 Expenses
 
-2016
-$’000
-Note 1.1A: Employee benefits	
-Wages and salaries	4,961
-Superannuation	
-Defined contribution plans	620
-Defined benefit plans	245
-Leave and other entitlements	755
-Separation and redundancies	5
-Secondees	4,914
-Other	47
-Total employee benefits	11,547
+<table summary="1.1 Expenses">
+  <colgroup>
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th><strong>2016</strong></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th><strong>$’000</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Note 1.1A: Employee benefits</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wages and salaries</td>
+      <td><strong>4,961</strong></td>
+    </tr>
+    <tr>
+      <td>Superannuation</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Defined contribution plans</td>
+      <td><strong>620</strong></td>
+    </tr>
+    <tr>
+      <td>Defined benefit plans</td>
+      <td><strong>245</strong></td>
+    </tr>
+    <tr>
+      <td>Leave and other entitlements</td>
+      <td><strong>755</strong></td>
+    </tr>
+    <tr>
+      <td>Separation and redundancies</td>
+      <td><strong>5</strong></td>
+    </tr>
+    <tr>
+      <td>Secondees</td>
+      <td><strong>4,914</strong></td>
+    </tr>
+    <tr>
+      <td>Other</td>
+      <td><strong>47</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total employee benefits</strong></em></td>
+      <td><strong>11,547</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 Accounting Policy
 
 Accounting policies for employee related expenses is contained in the People and relationships section.
 
-2016
-$’000
-Note 1.1B: Suppliers	
-Goods and services supplied or rendered	
-Consultants, legal and contractors	9,424
-Equipment, repairs and maintenance	879
-General expenses	685
-Information technology and communication	2,163
-Travel	1,029
-Total goods and services supplied or rendered	14,180
-Goods supplied	739
-Services rendered	13,441
-Total goods and services supplied or rendered	14,180
-Other suppliers	
-Operating lease rentals in connection with	
-External parties	
-Minimum lease payments	1,261
-Workers compensation expenses	68
-Total other supplier expenses	1,329
-Total suppliers	15,509
-Leasing commitments	
-Commitments for minimum lease payments in relation to non-cancellable
-operating leases are payable as follows:	
-Within 1 year	1,242
-Between 1 to 5 years	3,003
-More than 5 years	-
-Total operating lease commitments	4,245
+<table summary="Digital Transformation Office
+Notes to and forming part of the financial statements
+
+for the period ended 30 June 2016">
+  <colgroup>
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th><strong>2016</strong></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th><strong>$’000</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Note 1.1B: Suppliers</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Goods and services supplied or rendered</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Consultants, legal and contractors</td>
+      <td><strong>9,424</strong></td>
+    </tr>
+    <tr>
+      <td>Equipment, repairs and maintenance</td>
+      <td><strong>879</strong></td>
+    </tr>
+    <tr>
+      <td>General expenses</td>
+      <td><strong>685</strong></td>
+    </tr>
+    <tr>
+      <td>Information technology and communication</td>
+      <td><strong>2,163</strong></td>
+    </tr>
+    <tr>
+      <td>Travel</td>
+      <td><strong>1,029</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total goods and services supplied or rendered</strong></td>
+      <td><strong>14,180</strong></td>
+    </tr>
+    <tr>
+      <td>Goods supplied</td>
+      <td><strong>739</strong></td>
+    </tr>
+    <tr>
+      <td>Services rendered</td>
+      <td><strong>13,441</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total goods and services supplied or rendered</strong></td>
+      <td><strong>14,180</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Other suppliers</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Operating lease rentals in connection with</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>External parties</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Minimum lease payments</td>
+      <td><strong>1,261</strong></td>
+    </tr>
+    <tr>
+      <td>Workers compensation expenses</td>
+      <td><strong>68</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total other supplier expenses</strong></td>
+      <td><strong>1,329</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total suppliers</strong></em></td>
+      <td><strong>15,509</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Leasing commitments</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Commitments for minimum lease payments in relation to non-cancellable<br />
+        operating leases are payable as follows:</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Within 1 year</td>
+      <td><strong>1,242</strong></td>
+    </tr>
+    <tr>
+      <td>Between 1 to 5 years</td>
+      <td><strong>3,003</strong></td>
+    </tr>
+    <tr>
+      <td>More than 5 years</td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total operating lease commitments</strong></em></td>
+      <td><strong>4,245</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 Note: Commitments are GST inclusive where relevant.
 
 Operating lease commitment - leases for office accommodation
@@ -420,10 +1201,33 @@ A distinction is made between finance leases and operating leases. Finance lease
 
 1.2 Own-Source Revenue and Gains
 
-Note 1.2A: Resources received free of charge	
-Audit fee	60
-Assets received free of charge	201
-Total resources received free of charge	261
+<table summary="Note 1.2A: Resources received free of charge">
+  <colgroup>
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th><strong>Note 1.2A: Resources received free of charge</strong></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Audit fee</td>
+      <td><strong>60</strong></td>
+    </tr>
+    <tr>
+      <td>Assets received free of charge</td>
+      <td><strong>201</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total resources received free of charge</strong></em></td>
+      <td><strong>261</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 Accounting Policy
 
 Resources received free of charge are recognised as revenue when, and only when, a fair value can be reliably determined and the services would have been purchased if they had not been donated. Use of those resources is recognised as an expense. Resources received free of charge are recorded as either revenue or gains depending on their nature.
@@ -434,54 +1238,262 @@ This section analyses the Digital Transformation Office’s assets used to gener
 
 2.1 Financial Assets
 
-2016
-$’000
-Note 2.1A: Trade and other receivables	
-Goods and services receivables	
-Goods and services	786
-Total goods and services receivables	786
-Appropriations receivables	
-Existing programs	9,266
-Total appropriations receivable	9,266
-Other receivables	
-Statutory receivables	399
-Total other receivables	399
-Total trade and other receivables	10,451
-Trade and other receivables expected to be recovered	
-No more than 12 months	10,451
-More than 12 months	-
-Total trade and other receivables	10,451
-Trade and other receivables aged as follows	
-Not overdue	10,451
-Overdue by	
-0 to 30 days	-
-31 to 60 days	-
-61 to 90 days	-
-More than 90 days	-
-Total receivables (gross)	10,451
+<table summary="&quot;&quot;">
+  <colgroup>
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th><strong>2016</strong></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th><strong>$’000</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Note 2.1A: Trade and other receivables</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Goods and services receivables</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Goods and services</td>
+      <td><strong>786</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total goods and services receivables</strong></td>
+      <td><strong>786</strong></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Appropriations receivables</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Existing programs</td>
+      <td><strong>9,266</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total appropriations receivable</strong></td>
+      <td><strong>9,266</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Other receivables</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Statutory receivables</td>
+      <td><strong>399</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total other receivables</strong></td>
+      <td><strong>399</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total trade and other receivables</strong></td>
+      <td><strong>10,451</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Trade and other receivables expected to be recovered</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>No more than 12 months</td>
+      <td><strong>10,451</strong></td>
+    </tr>
+    <tr>
+      <td>More than 12 months</td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total trade and other receivables</strong></td>
+      <td><strong>10,451</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Trade and other receivables aged as follows</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Not overdue</td>
+      <td><strong>10,451</strong></td>
+    </tr>
+    <tr>
+      <td>Overdue by</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td> 0 to 30 days</td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td> 31 to 60 days</td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td> 61 to 90 days</td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td> More than 90 days</td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total receivables (gross)</strong></td>
+      <td><strong>10,451</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 Receivables have been assessed for impairment and no allowance has been made as at 30 June 2016.
 
 2.2 Non-Financial Assets
 
-Note 2.2A: Reconciliation of the opening and closing balances of property, plant and equipment and intangibles
-Reconciliation of the opening and closing balances of property, plant and equipment and intangibles for 2016
-Leasehold improvements	Plant and equipment	Computer software internally developed	Total
-$’000	$’000	$’000	$’000
-As at 1 July 2015				
-Gross book value	-	-	-	-
-Accumulated depreciation/amortisation and impairment	-	-	-	-
-Total as at 1 July 2015	-	-	-	-
-Additions				
-Purchase	2,644	326	-	2,970
-Acquisition of entities or operations (including restructuring)	-	391	841	1,232
-Depreciation and amortisation	(181)	(190)	(477)	(848)
-Write-down and impairments recognised in net cost of services	(957)	-	-	(957)
-Total as at 30 June 2016	1,506	527	364	2,397
-Total as at 30 June 2016 represented by				
-Gross book value				
-Fair value	1,687	717	841	3,245
-Accumulated depreciation/amortisation and impairment	(181)	(190)	(477)	(848)
-Total as at 30 June 2016	1,506	527	364	2,397
+<table summary="&quot;&quot;">
+  <colgroup>
+  <col />
+  <col />
+  <col />
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th colspan="5"><strong>Note 2.2A: Reconciliation of the opening and closing balances of property, plant and equipment and intangibles<br>
+        Reconciliation of the opening and closing balances of property, plant and equipment and intangibles for 2016</strong></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Leasehold improvements </th>
+      <th><strong>Plant and equipment</strong></th>
+      <th><strong>Computer software internally developed</strong></th>
+      <th><strong>Total</strong></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th><strong>$’000</strong></th>
+      <th><strong>$’000</strong></th>
+      <th><strong>$’000</strong></th>
+      <th><strong>$’000</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>As at 1 July 2015</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gross book value</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td>Accumulated depreciation/amortisation and impairment</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total as at 1 July 2015</strong></td>
+      <td><strong>-</strong></td>
+      <td><strong>-</strong></td>
+      <td><strong>-</strong></td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td>Additions</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Purchase</td>
+      <td>2,644</td>
+      <td>326</td>
+      <td>-</td>
+      <td><strong>2,970</strong></td>
+    </tr>
+    <tr>
+      <td>Acquisition of entities or operations (including restructuring)</td>
+      <td>-</td>
+      <td>391</td>
+      <td>841</td>
+      <td><strong>1,232</strong></td>
+    </tr>
+    <tr>
+      <td>Depreciation and amortisation</td>
+      <td>(181)</td>
+      <td>(190)</td>
+      <td>(477)</td>
+      <td><strong>(848)</strong></td>
+    </tr>
+    <tr>
+      <td>Write-down and impairments recognised in net cost of services</td>
+      <td>(957)</td>
+      <td>-</td>
+      <td>-</td>
+      <td><strong>(957)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total as at 30 June 2016</strong></td>
+      <td><strong>1,506</strong></td>
+      <td><strong>527</strong></td>
+      <td><strong>364</strong></td>
+      <td><strong>2,397</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total as at 30 June 2016 represented by</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gross book value</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Fair value</td>
+      <td>1,687</td>
+      <td>717</td>
+      <td>841</td>
+      <td><strong>3,245</strong></td>
+    </tr>
+    <tr>
+      <td>Accumulated depreciation/amortisation and impairment</td>
+      <td>(181)</td>
+      <td>(190)</td>
+      <td>(477)</td>
+      <td><strong>(848)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total as at 30 June 2016</strong></td>
+      <td><strong>1,506</strong></td>
+      <td><strong>527</strong></td>
+      <td><strong>364</strong></td>
+      <td><strong>2,397</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 Accounting policy
 
 Asset recognition threshold
@@ -499,9 +1511,29 @@ Revaluations
 
 Fair values for each class of asset are determined as shown below:
 
-Asset class	Fair value measurement
-Leasehold improvements	Depreciated replacement cost
-Plant and equipment	Market selling price or depreciated replacement cost
+<table summary="Revaluations">
+  <colgroup>
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th><em>Asset class</em></th>
+      <th><em>Fair value measurement</em></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Leasehold improvements</td>
+      <td>Depreciated replacement cost</td>
+    </tr>
+    <tr>
+      <td>Plant and equipment</td>
+      <td>Market selling price or depreciated replacement cost</td>
+    </tr>
+  </tbody>
+</table>
+
 Depreciation
 
 Depreciable property, plant and equipment assets are written-off to their estimated residual values over their estimated useful lives to the DTO using, in all cases, the straight-line method of depreciation.
@@ -510,9 +1542,29 @@ Depreciation rates (useful lives), residual values and methods are reviewed at e
 
 Depreciation rates applying to each class of depreciable asset are based on the following useful lives:
 
-2016
-Leasehold improvements	Lease term
-Plant and equipment	2 to 10 years
+<table summary="Depreciation rates applying to each class of depreciable asset are based on the following useful lives:">
+  <colgroup>
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th />
+      <th><strong>2016</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Leasehold improvements</td>
+      <td>Lease term</td>
+    </tr>
+    <tr>
+      <td>Plant and equipment</td>
+      <td>2 to 10 years</td>
+    </tr>
+  </tbody>
+</table>
+
 Impairment
 
 All assets were assessed for impairment during 2016.
@@ -525,39 +1577,163 @@ Derecognition
 
 An item of property, plant and equipment is derecognised upon disposal or when no further future economic benefits are expected from its use or disposal.
 
-2016
-$’000
-Note 2.2B: Prepayments	
-Prepayments	348
-Total prepayments	348
-Prepayments expected to be recovered	
-No more than 12 months	348
-More than 12 months	-
-Total prepayments	348
+<table summary="Note 2.2B: Prepayments">
+  <colgroup>
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th><strong>2016</strong></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th><strong>$’000</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Note 2.2B: Prepayments</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Prepayments</td>
+      <td><strong>348</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total prepayments</strong></em></td>
+      <td><strong>348</strong></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Prepayments expected to be recovered</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>No more than 12 months</td>
+      <td><strong>348</strong></td>
+    </tr>
+    <tr>
+      <td>More than 12 months</td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total prepayments</strong></em></td>
+      <td><strong>348</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 2.3 Payables
 
-2016
-$’000
-Note 2.3A: Suppliers	
-Trade creditors and accruals	5,926
-Total suppliers	5,926
-Suppliers expected to be settled	
-No more than 12 months	5,926
-More than 12 months	-
-Total suppliers	5,926
+<table summary="Note 2.3A: Suppliers">
+  <colgroup>
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th><strong>2016</strong></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th><strong>$’000</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Note 2.3A: Suppliers</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trade creditors and accruals</td>
+      <td><strong>5,926</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total suppliers</strong></em></td>
+      <td><strong>5,926</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Suppliers expected to be settled</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>No more than 12 months</td>
+      <td><strong>5,926</strong></td>
+    </tr>
+    <tr>
+      <td>More than 12 months</td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total suppliers</strong></em></td>
+      <td><strong>5,926</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 Settlement is usually made within 30 days.
 
-Note 2.3B: Other payables	
-Salaries and wages	46
-Superannuation	7
-Lease liability	19
-Statutory payable	15
-Other payables	13
-Total other payables	100
-Other payables expected to be settled	
-No more than 12 months	81
-More than 12 months	19
-Total other payables	100
+<table summary="Note 2.3B: Other payables">
+  <colgroup>
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Note 2.3B: Other payables</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Salaries and wages</td>
+      <td><strong>46</strong></td>
+    </tr>
+    <tr>
+      <td>Superannuation</td>
+      <td><strong>7</strong></td>
+    </tr>
+    <tr>
+      <td>Lease liability</td>
+      <td><strong>19</strong></td>
+    </tr>
+    <tr>
+      <td>Statutory payable</td>
+      <td><strong>15</strong></td>
+    </tr>
+    <tr>
+      <td>Other payables</td>
+      <td><strong>13</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total other payables</strong></em></td>
+      <td><strong>100</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Other payables expected to be settled</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>No more than 12 months</td>
+      <td><strong>81</strong></td>
+    </tr>
+    <tr>
+      <td>More than 12 months</td>
+      <td><strong>19</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total other payables</strong></em></td>
+      <td><strong>100</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 Accounting Policy
 
 Supplier and other payables are recognised at amortised cost. Liabilities are recognised to the extent that the goods or services have been received (and irrespective of having been invoiced).
@@ -566,23 +1742,104 @@ Financial liabilities are recognised and derecognised upon ‘trade date’.
 
 2.4 Other Provisions
 
-2016
-$’000
-Note 2.4A: Other provisions	
-Make good provision	325
-Total other provisions	325
-Other provisions expected to be settled	
-No more than 12 months	-
-More than 12 months	325
-Total other provisions	325
-Make good Provision	Total
-$’000	$’000
-As at 1 July 2015	-	-
-Additional provisions made	325	325
-Amounts used	-	-
-Gain on reversal of provision	-	-
-Unwinding of discount or change in discount rate	-	-
-Total as at 30 June 2016	325	325
+<table summary="Note 2.4A: Other provisions">
+  <colgroup>
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th><strong>2016</strong></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th><strong>$’000</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Note 2.4A: Other provisions</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Make good provision</td>
+      <td><strong>325</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total other provisions</strong></em></td>
+      <td><strong>325</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Other provisions expected to be settled</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>No more than 12 months</td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td>More than 12 months</td>
+      <td><strong>325</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total other provisions</strong></em></td>
+      <td><strong>325</strong></td>
+    </tr>
+  </tbody>
+</table>
+<table summary="Make good Provision">
+  <colgroup>
+  <col />
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th><strong>Make good Provision</strong></th>
+      <th><strong>Total</strong></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th><strong>$’000</strong></th>
+      <th><strong>$’000</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>As at 1 July 2015</strong></td>
+      <td><strong> -</strong></td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td>Additional provisions made</td>
+      <td>325</td>
+      <td><strong>325</strong></td>
+    </tr>
+    <tr>
+      <td>Amounts used</td>
+      <td> -</td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td>Gain on reversal of provision</td>
+      <td> -</td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td>Unwinding of discount or change in discount rate</td>
+      <td> -</td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total as at 30 June 2016</strong></td>
+      <td><strong> 325 </strong></td>
+      <td><strong> 325 </strong></td>
+    </tr>
+  </tbody>
+</table>
+
 The entity currently has one MOU agreement for the leasing of premises which has a provision requiring the entity to restore the premises to their original condition at the conclusion of the lease.
 
 Accounting Policy
@@ -595,82 +1852,361 @@ This section identifies the Digital Transformation Office funding structure.
 
 3.1 Appropriations
 
-Note 3.1A: Annual appropriations (‘recoverable GST exclusive’)
-Annual Appropriations for 2016							
-Appropriation Act	PGPA Act	Total 
-appropriation	Appropriation applied in 2016 (current and prior years)1	
-Annual Appropriation	AFM	Section 74 receipts	Section 75 payments	Variance2
-$’000	$’000	$’000	$’000	$’000	$’000	$’000
-Departmental							
-Ordinary annual services	30,011	-	-	514	30,525	(20,715)	9,810
-Capital Budget3	1,500	-	-	-	1,500	(1,500)	-
-Other services							
-Equity injections4	2,226	-	-	-	2,226	-	2,226
-Total departmental	33,737	-	-	514	34,251	(22,215)	12,036
+<table summary="Note 3.1A: Annual appropriations (‘recoverable GST exclusive’)">
+  <colgroup>
+  <col />
+  <col />
+  <col />
+  <col />
+  <col />
+  <col />
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th colspan="8"><strong>Note 3.1A: Annual appropriations (‘recoverable GST exclusive’)</strong></th>
+    </tr>
+    <tr>
+      <th><strong>Annual Appropriations for 2016</strong></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th colspan="2"><strong>Appropriation Act</strong></th>
+      <th colspan="2"><strong>PGPA Act</strong></th>
+      <th rowspan="2"><strong>Total <br />
+        appropriation</strong></th>
+      <th rowspan="2"><strong>Appropriation applied in 2016 (current and prior years)<sup>1</sup></strong></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th><strong>Annual Appropriation</strong></th>
+      <th><strong>AFM</strong></th>
+      <th><strong>Section 74 receipts</strong></th>
+      <th><strong>Section 75 payments</strong></th>
+      <th><strong>Variance<sup>2</sup></strong></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th><strong>$’000</strong></th>
+      <th><strong>$’000</strong></th>
+      <th><strong>$’000</strong></th>
+      <th><strong>$’000</strong></th>
+      <th><strong>$’000</strong></th>
+      <th><strong>$’000</strong></th>
+      <th><strong>$’000</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Departmental</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ordinary annual services</td>
+      <td><strong>30,011</strong></td>
+      <td><strong>-</strong></td>
+      <td><strong>-</strong></td>
+      <td><strong>514</strong></td>
+      <td><strong>30,525</strong></td>
+      <td><strong>(20,715)</strong></td>
+      <td><strong>9,810</strong></td>
+    </tr>
+    <tr>
+      <td>Capital Budget<sup>3</sup></td>
+      <td><strong>1,500</strong></td>
+      <td><strong>-</strong></td>
+      <td><strong>-</strong></td>
+      <td><strong>-</strong></td>
+      <td><strong>1,500</strong></td>
+      <td><strong>(1,500)</strong></td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td>Other services</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Equity injections<sup>4</sup></td>
+      <td><strong>2,226</strong></td>
+      <td><strong>-</strong></td>
+      <td><strong>-</strong></td>
+      <td><strong>-</strong></td>
+      <td><strong>2,226</strong></td>
+      <td><strong>-</strong></td>
+      <td><strong>2,226</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total departmental</strong></td>
+      <td><strong>33,737</strong></td>
+      <td><strong>-</strong></td>
+      <td><strong>-</strong></td>
+      <td><strong>514</strong></td>
+      <td><strong>34,251</strong></td>
+      <td><strong>(22,215)</strong></td>
+      <td><strong>12,036</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 Shared Service Centre spends money from the Consolidated Revenue Fund (CRF) on behalf of DTO.
 The variance in departmental ordinary annual services is mainly attributable to undrawn current year appropriations due a higher than expected accrued expense balance.
 Departmental Capital Budgets are appropriated through Appropriation Acts (No. 1,3,5). They form part of ordinary annual services and are not separately identified in the Appropriation Acts.
 The current year Equity injection is shown exclusive of the Section 51 Permanent Quarantine, which has reduced contributed equity by $2.226 million.
 Note 3.1B: Unspent annual appropriations (‘recoverable GST exclusive’)
 
-2016
-$’000
-Authority	
-Departmental1	
-Appropriation Act (No.1) 2015–16	7,896
-Appropriation Act (No.1) 2015–16 - cash held by the department	145
-Appropriation Act (No.3) 2015–16	1,370
-Appropriation Act (No 2) 2015–16 - Non Operating Equity Injection	2,226
-Total departmental	11,637
+<table summary="Note 3.1B: Unspent annual appropriations (‘recoverable GST exclusive’) ">
+  <colgroup>
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th rowspan="2" />
+      <th><strong>2016</strong></th>
+    </tr>
+    <tr>
+      <th><strong>$’000</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Authority</strong></td>
+      <td />
+    </tr>
+    <tr>
+      <td><strong>Departmental<sup>1</sup></strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><em>Appropriation Act (No.1) 2015–16</em></td>
+      <td><strong>7,896</strong></td>
+    </tr>
+    <tr>
+      <td><em>Appropriation Act (No.1) 2015–16</em> - cash held by the department</td>
+      <td><strong>145</strong></td>
+    </tr>
+    <tr>
+      <td><em>Appropriation Act (No.3) 2015–16</em></td>
+      <td><strong>1,370</strong></td>
+    </tr>
+    <tr>
+      <td><em>Appropriation Act (No 2) 2015–16 </em>- Non Operating Equity Injection</td>
+      <td><strong>2,226</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total departmental</strong></em></td>
+      <td><strong>11,637</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 The current year Equity injection is shown exclusive of the Section 51 Permanent Quarantine, which has reduced contributed equity by $2.226 million.
 Note 3.1C: Disclosure by agent in relation to annual and special appropriations (‘recoverable GST exclusive’)
 
-Shared Service Centre
-2016
-$’000
-Total receipts	-
-Total payments	22,215
+<table summary="Note 3.1C: Disclosure by agent in relation to annual and special appropriations
+  (‘recoverable GST exclusive’)">
+  <colgroup>
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th><strong>Shared Service Centre</strong><br><strong>2016</strong></th>
+    </tr>
+    <tr>
+      <th />
+      <th><strong>$’000</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Total receipts</td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td>Total payments</td>
+      <td><strong>22,215</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 During 2015–16, the Shared Services Centre provided the DTO with Treasury services.
 
 3.2 Cash Flow Reconciliation
 
-Reconciliation of cash and cash equivalents as per Statement of Financial Position to Cash Flow Statement	
-Cash and cash equivalents as per	
-Cash Flow Statement	145
-Statement of Financial Position	145
-Discrepancy	-
-Reconciliation of net cost of services to net cash from operating activities
-Net cost of services	(28,600)
-Revenue from Government	30,525
-Adjustments for non-cash items	
-Depreciation and amortisation	848
-Net write down of non-financial assets	957
-Other non-cash items in operating cash	760
-Movements in assets and liabilities	
-Assets	
-(Increase) / decrease in net receivables	(10,451)
-(Increase) / decrease in prepayments	(348)
-Liabilities	
-Increase / (decrease) in employee provisions	1,573
-Increase / (decrease) in supplier payables	5,926
-Increase / (decrease) in other payables	100
-Increase / (decrease) in other provisions	325
-Net cash from/(used by) operating activities	1,615
+<table summary="&quot;&quot;">
+  <colgroup>
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Reconciliation of cash and cash equivalents as per Statement of Financial Position to Cash Flow Statement</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Cash and cash equivalents as per</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td> Cash Flow Statement</td>
+      <td><strong>145</strong></td>
+    </tr>
+    <tr>
+      <td> Statement of Financial Position</td>
+      <td><strong>145</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Discrepancy</strong></em></td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Reconciliation of net cost of services to net cash from operating activities</strong></td>
+    </tr>
+    <tr>
+      <td>Net cost of services</td>
+      <td><strong>(28,600)</strong></td>
+    </tr>
+    <tr>
+      <td>Revenue from Government</td>
+      <td><strong>30,525</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Adjustments for non-cash items</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Depreciation and amortisation</td>
+      <td><strong>848</strong></td>
+    </tr>
+    <tr>
+      <td>Net write down of non-financial assets</td>
+      <td><strong>957</strong></td>
+    </tr>
+    <tr>
+      <td>Other non-cash items in operating cash</td>
+      <td><strong>760</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Movements in assets and liabilities</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Assets</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Increase) / decrease in net receivables</td>
+      <td><strong>(10,451)</strong></td>
+    </tr>
+    <tr>
+      <td>(Increase) / decrease in prepayments</td>
+      <td><strong>(348)</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Liabilities</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Increase / (decrease) in employee provisions</td>
+      <td><strong>1,573</strong></td>
+    </tr>
+    <tr>
+      <td>Increase / (decrease) in supplier payables</td>
+      <td><strong>5,926</strong></td>
+    </tr>
+    <tr>
+      <td>Increase / (decrease) in other payables</td>
+      <td><strong>100</strong></td>
+    </tr>
+    <tr>
+      <td>Increase / (decrease) in other provisions</td>
+      <td><strong>325</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Net cash from/(used by) operating activities</strong></em></td>
+      <td><strong>1,615</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 4. People and Relationships
 
 This section describes a range of employment and post employment benefits provided to our people and our relationships with other key people.
 
 4.1 Employee Provisions
 
-2016
-$’000
-Note 4.1A: Employee provisions	
-Leave	1,573
-Total employee provisions	1,573
-Employee provisions expected to be settled	
-No more than 12 months	675
-More than 12 months	898
-Total employee provisions	1,573
+<table summary="&quot;&quot;">
+  <colgroup>
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th><strong>2016</strong></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th><strong>$’000</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Note 4.1A: Employee provisions</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Leave</td>
+      <td><strong>1,573</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total employee provisions</strong></em></td>
+      <td><strong>1,573</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Employee provisions expected to be settled</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>No more than 12 months</td>
+      <td><strong>675</strong></td>
+    </tr>
+    <tr>
+      <td>More than 12 months</td>
+      <td><strong>898</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total employee provisions</strong></em></td>
+      <td><strong>1,573</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 Accounting Policy
 
 Liabilities for ‘short-term employee benefits’ (as defined in AASB 119 Employee Benefits) and termination benefits due within twelve months of the end of reporting period are measured at their nominal amounts.
@@ -695,23 +2231,85 @@ The liability for superannuation recognised as at 30 June represents outstanding
 
 4.2 Senior Management Personnel Remuneration
 
-2016
-$’000
-Short-term employee benefits	
-Salary	1,987
-Other	144
-Total short-term employee benefits	2,131
-Post-employment benefits:	
-Superannuation	316
-Total post-employment benefits	316
-Other long-term employee benefits	
-Annual leave	123
-Long-service leave	41
-Total other long-term benefits	164
-Termination benefits	
-Termination benefits	-
-Total termination benefits	-
-Total senior executive remuneration expenses	2,611
+<table summary="&quot;&quot;">
+  <colgroup>
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th><strong>2016</strong></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th><strong>$’000</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Short-term employee benefits</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Salary</td>
+      <td><strong>1,987</strong></td>
+    </tr>
+    <tr>
+      <td>Other</td>
+      <td><strong>144</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total short-term employee benefits</strong></em></td>
+      <td><strong>2,131</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Post-employment benefits:</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Superannuation</td>
+      <td><strong>316</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total post-employment benefits</strong></em></td>
+      <td><strong>316</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Other long-term employee benefits</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Annual leave</td>
+      <td><strong>123</strong></td>
+    </tr>
+    <tr>
+      <td>Long-service leave</td>
+      <td><strong>41</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total other long-term benefits</strong></em></td>
+      <td><strong>164</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Termination benefits</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Termination benefits</td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total termination benefits</strong></em></td>
+      <td><strong>-</strong></td>
+    </tr>
+    <tr>
+      <td><em><strong>Total senior executive remuneration expenses</strong></em></td>
+      <td><strong>2,611</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 During the year, the total number of senior management personnel that were utilised and are included in the above table is 21. The additional positions reported relate to the short-term employment and secondment arrangements during 2015–16 to support the establishment and development of the DTO. As at 30 June 2016, the DTO has nine senior management positions.
 
 5. Managing Uncertainties
@@ -729,20 +2327,73 @@ Contingent liabilities and contingent assets are not recognised in the Statement
 
 5.2 Financial Instruments
 
-2016
-$’000
-Note 5.2A: Categories of financial instruments	
-Financial assets	
-Loans and receivables	
-Cash and cash equivalents	145
-Goods and services receivables	786
-Total loans and receivables	931
-Total financial assets	931
-Financial liabilities	
-Financial liabilities measured at amortised cost	
-Trade creditors and accruals	5,926
-Total financial liabilities measured at amortised cost	5,926
-Total financial liabilities	5,926
+<table summary="Note 5.2A: Categories of financial instruments">
+  <colgroup>
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th><strong>2016</strong></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th><strong>$’000</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Note 5.2A: Categories of financial instruments</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Financial assets</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Loans and receivables</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cash and cash equivalents</td>
+      <td><strong>145</strong></td>
+    </tr>
+    <tr>
+      <td>Goods and services receivables</td>
+      <td><strong>786</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total loans and receivables</strong></td>
+      <td><strong>931</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total financial assets</strong></td>
+      <td><strong>931</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Financial liabilities</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Financial liabilities measured at amortised cost</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trade creditors and accruals</td>
+      <td><strong>5,926</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total financial liabilities measured at amortised cost</strong></td>
+      <td><strong>5,926</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total financial liabilities</strong></td>
+      <td><strong>5,926</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 Note 5.2B: Net gains or losses on financial assets
 
 The DTO has no gains or losses on financial instruments
@@ -778,12 +2429,57 @@ Level 3: Inputs for the asset or liability that are not based on observable mark
 Note 5.3A: Fair value measurements, valuation techniques and inputs used
 
 Fair value measurements at the end of the reporting period	
-2016
-$’000	Category (Level 1, 2 or 31)	Valuation Technique(s) and Inputs Used2
-Non-financial assets			
-Leasehold improvements	1,506	2	Depreciated replacement cost/market comparables
-Plant and equipment	527	2	Depreciated replacement cost/market comparables
-Total non-financial assets	2,033		
+<table summary="&quot;&quot;">
+  <colgroup>
+  <col />
+  <col />
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="2"><strong>Fair value measurements at the end of the reporting period</strong></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th rowspan="2"><strong>2016<br>$’000</strong></th>
+      <th rowspan="2"><strong>Category (Level 1, 2 or 3<sup>1</sup>)</strong></th>
+      <th rowspan="2"><strong>Valuation Technique(s) and Inputs Used<sup>2</sup></strong></th>
+    </tr>
+    <tr>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Non-financial assets</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Leasehold improvements</td>
+      <td><strong>1,506</strong></td>
+      <td>2</td>
+      <td>Depreciated replacement cost/market comparables</td>
+    </tr>
+    <tr>
+      <td>Plant and equipment</td>
+      <td><strong>527</strong></td>
+      <td>2</td>
+      <td>Depreciated replacement cost/market comparables</td>
+    </tr>
+    <tr>
+      <td><strong>Total non-financial assets</strong></td>
+      <td><strong>2,033</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 DTO’s assets are held for operational purposes and not held for the purposes of deriving a profit.
 No revaluation has been performed in 2015–16 as all assets were transferred or purchased in the current year representing a proxy for fair value.
 6. Other Information
@@ -800,19 +2496,97 @@ During 2015/16, PM&C relinquished $0.989 million in plant and equipment to assis
 
 As part of the Administrative Arrangement Orders issued by the Government on 21 September 2015, the Gov 2.0 function (and associated assets and liabilities) was transferred from the Department of Finance.
 
-Set up of DTO from PM&C	GOV 2.0 from Finance	Total
-$’000	$’000	$’000
-Functions assumed			
-Assets recognised			
-Appropriation receivable	-	431	431
-Plant and equipment	989	-	989
-Intangibles- internally generated	-	841	841
-Other non-financial assets (prepayments)	-	162	162
-Total asset recognised	989	1,434	2,423
-Liabilities recognised			
-Employee provisions	-	431	431
-Total liabilities recognised	-	431	431
-Net assets recognised	989	1,003	1,992
+<table summary="Note 6.1A: Departmental restructuring">
+  <colgroup>
+  <col />
+  <col />
+  <col />
+  <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th><strong>Set up of DTO from PM&amp;C</strong></th>
+      <th><strong>GOV 2.0 from Finance</strong></th>
+      <th><strong>Total</strong></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th><strong>$’000</strong></th>
+      <th><strong>$’000</strong></th>
+      <th><strong>$’000</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Functions assumed</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Assets recognised</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Appropriation receivable</td>
+      <td>-</td>
+      <td>431</td>
+      <td><strong>431</strong></td>
+    </tr>
+    <tr>
+      <td>Plant and equipment</td>
+      <td>989</td>
+      <td>-</td>
+      <td><strong>989</strong></td>
+    </tr>
+    <tr>
+      <td>Intangibles- internally generated</td>
+      <td>-</td>
+      <td>841</td>
+      <td><strong>841</strong></td>
+    </tr>
+    <tr>
+      <td>Other non-financial assets (prepayments)</td>
+      <td>-</td>
+      <td>162</td>
+      <td><strong>162</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total asset recognised</strong></td>
+      <td>989</td>
+      <td>1,434</td>
+      <td><strong>2,423</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Liabilities recognised</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Employee provisions</td>
+      <td>-</td>
+      <td>431</td>
+      <td><strong>431</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Total liabilities recognised</strong></td>
+      <td>-</td>
+      <td>431</td>
+      <td><strong>431</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Net assets recognised</strong></td>
+      <td><strong>989</strong></td>
+      <td><strong>1,003</strong></td>
+      <td><strong>1,992</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 6.2. Reporting of Outcomes
 
 As the Digital Transformation Office has one Outcome, the Reporting of Outcomes is disclosed in the Statement of Comprehensive Income and Statement of Financial Position.
