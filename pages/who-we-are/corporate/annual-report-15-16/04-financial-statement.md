@@ -941,13 +941,13 @@ As the DTO was established as an Executive Agency on 1 July 2015, there will be 
 
 ##### New Australian accounting standards
 
-###### *_Adoption of New Australian Accounting Standard requirements_*
+_*Adoption of New Australian Accounting Standard requirements*_
 
 No accounting standard has been adopted earlier than the application date as stated in the standard.
 
 Other new standards, revised standards, interpretations and amending standards that were issued prior to the sign-off date and are applicable to the current reporting period did not have a material financial impact, and are not expected to have a future material financial impact on the DTO.
 
-##### *_Future Australian Accounting Standard requirements_*
+_*Future Australian Accounting Standard requirements*_
 
 No new/revised/amending standards and/or interpretations issued by the AASB prior to the sign-off date are expected to have a future material impact on DTO’s financial statements which are applicable to the DTO for future reporting periods.
 
@@ -1462,19 +1462,19 @@ Receivables have been assessed for impairment and no allowance has been made as 
 
 ###### Accounting policy
 
-###### *_Asset recognition threshold_*
+_*Asset recognition threshold*_
 
 Property, plant and equipment is the generic term that covers leasehold improvements and plant and equipment. Purchases of property, plant and equipment and intangibles are recognised initially at cost in the Statement of Financial Position, except for purchases costing less than $2,000, which are expensed in the year of acquisition.
 
 The initial cost of an asset includes an estimate of the cost of dismantling and removing the item and restoring the site on which it is located. This is particularly relevant to ‘make good’ provisions in property leases taken up by the DTO where there exists an obligation to restore the asset to its original condition. These costs are included in the value of the DTO’s leasehold improvements with a corresponding provision for the ‘make good’ recognised.
 
-###### *_Intangibles_*
+_*Intangibles*_
 
 The entity’s intangibles comprise of internally developed software for internal use. These assets are carried at cost less accumulated amortisation and accumulated impairment losses.
 
 Amortisation rates apply to intangibles and are based of the useful life of 2 to 3 years.
 
-###### *_Revaluations_*
+_*Revaluations*_
 
 Fair values for each class of asset are determined as shown below:
 
@@ -1501,7 +1501,7 @@ Fair values for each class of asset are determined as shown below:
   </tbody>
 </table>
 
-###### *_Depreciation_*
+_*Depreciation*_
 
 Depreciable property, plant and equipment assets are written-off to their estimated residual values over their estimated useful lives to the DTO using, in all cases, the straight-line method of depreciation.
 
@@ -1532,7 +1532,7 @@ Depreciation rates applying to each class of depreciable asset are based on the 
   </tbody>
 </table>
 
-###### *_Impairment_*
+_*Impairment*_
 
 All assets were assessed for impairment during 2016.
 
@@ -1540,7 +1540,7 @@ Where indications of impairment exist, the asset’s recoverable amount is estim
 
 A write-down of $957,000 was recognised in 2016 for Leasehold Improvements for the write-off of the South Tower of level 3 50 Marcus Clarke Street due to the termination of the lease.
 
-###### *_Derecognition_*
+_*Derecognition*_
 
 An item of property, plant and equipment is derecognised upon disposal or when no further future economic benefits are expected from its use or disposal.
 
@@ -2179,13 +2179,13 @@ This section describes a range of employment and post employment benefits provid
 
 Liabilities for ‘short-term employee benefits’ (as defined in AASB 119 Employee Benefits) and termination benefits due within twelve months of the end of reporting period are measured at their nominal amounts.
 
-###### *_Leave_*
+_*Leave*_
 
 The liability for employee benefits includes provision for annual leave and long service leave. The leave liabilities are calculated on the basis of employees’ remuneration at the estimated salary rates that will be applied at the time the leave is taken, including the DTO’s employer superannuation contribution rates to the extent that the leave is likely to be taken during service rather than paid out on termination. The provision is disclosed at the present value of the obligation using the short hand method that utilises the appropriate Government bond rate.
 
 No provision has been made for sick leave as all sick leave is non-vesting and the average sick leave taken in future years by employees of the DTO is estimated to be less than the annual entitlement for sick leave.
 
-###### *_Superannuation_*
+_*Superannuation*_
 
 The DTO’s staff are members of the Commonwealth Superannuation Scheme (CSS), the Public Sector Superannuation Scheme (PSS), the PSS accumulation plan (PSSap) or another fund of their choice.
 
