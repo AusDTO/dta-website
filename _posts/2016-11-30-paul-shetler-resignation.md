@@ -2,6 +2,7 @@
 layout: media-release
 title: "Media Statement"
 category: [news, media-release]
+redirect_from: "/news/media-release/media-statement-paul-shetler-resignation/"
 tag: ''
 thumbnail: dta-logo-thumb
 feed: true
