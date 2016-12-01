@@ -6,13 +6,12 @@ searchexcerpt: Read the latest blog posts from the Digital Transformation Agency
 permalink: /blog/
 ---
 
-<article  id="content" class="content-main">
+<article  id="content" class="content-main latest-blog-posts">
 
   <h1>Blog</h1>
   <h2>Latest blog posts</h2>
 
-  <ul class="list-vertical no-border">
-
+  <ul class="list-vertical">
     {% for post in site.categories['blog'] limit:4 %}
     <li>
       <figure>
