@@ -13,7 +13,7 @@
   }
 }
 
-.news-media {
+.news-media, .what-we-do {
   @include media($tablet) {
     li:nth-child(-n+2) {
       border-top: none;
@@ -39,17 +39,16 @@
     }
   }
 }
-.what-we-do {
-  .list-vertical--thirds {
 
+.what-we-do {
+  @include media($desktop) {
     li {
-      border-top: none;
-      border-left: solid 1px $grey;
+      min-height: 10em;
+      border-left: solid 1px $light-grey;
       padding: $small-spacing 0 $small-spacing $base-spacing;
       margin-bottom: $base-spacing;
-
-      p {
-        margin-bottom: 0;
+      &:first-child {
+        border-left: none;
       }
     }
   }
@@ -57,7 +56,7 @@
 
 // Shouldn't be necessary due to uikit's _grid-settings L#98 -- test after uikit 1.9.1/1.10.
 main {
-    @include ie-clearfix;
+  @include ie-clearfix;
 }
 
 // Test why the ie mixin doesn't suffice and that we have to use selectivizr's classes.
@@ -72,7 +71,6 @@ main {
 .lt-ie9 .homepage-footer {
   @include ie-clearfix; //FIXME! Blurg. Report to UI-Kit
 }
-
 
 .homepage-footer {
   @include outer-container;
