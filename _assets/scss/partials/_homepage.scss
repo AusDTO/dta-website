@@ -1,6 +1,8 @@
 .home-heading {
-  border-bottom: 6px solid $light-aqua;
-  padding-bottom: $tiny-spacing;
+  @include media($tablet) {
+    border-bottom: 6px solid $light-aqua;
+    padding-bottom: $tiny-spacing;
+  }
 }
 
 // Test to check if this can be removed post uikit 1.9.1/1.10.
@@ -11,6 +13,32 @@
   }
 }
 
+.news-media {
+  @include media($tablet) {
+    li:nth-child(-n+2) {
+      border-top: none;
+      padding-top: 0;
+    }
+  }
+
+  @include media($desktop) {
+    li:nth-child(-n+4) {
+      border-top: none;
+      padding-top: 0;
+    }
+  }
+
+  div.meta {
+    display: inline-block;
+    padding-top: $small-spacing;
+    time {
+      display: inline-block;
+    }
+    .tags {
+      margin-left: $tiny-spacing;
+    }
+  }
+}
 .what-we-do {
   .list-vertical--thirds {
 
