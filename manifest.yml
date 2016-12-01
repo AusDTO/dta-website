@@ -1,7 +1,8 @@
 ---
 applications:
 - buildpack: https://github.com/cloudfoundry/ruby-buildpack.git
-  memory: 512M
+  memory: 256M
+  disk_quota: 512M
   instances: 1
   path: .
   command: 'bundle exec puma -t 8:32 -w 3 -p $PORT'
