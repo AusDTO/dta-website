@@ -1,15 +1,15 @@
 ---
 title: Paul Shetler
-permalink: /about/paul-shetler/
 breadcrumb: Paul Shetler
 breadcrumb_type: staff
-job-title: Chief Digital Officer
+job-title: Chief Executive Officer
 twitter-handle: paul_shetler
 banner-image: /images/staff/paul-shetler-banner.jpg
 profile-image: /images/paul-shetler-profile.jpg
-profile-excerpt: Paul Shetler - Chief Executive Officer, Digital Transformation Office.
+profile-excerpt: Paul Shetler is the CEO of the Digital Transformation Office.
 show-blogs: true
 weight: 1
+exclude_from_search: true
 ---
 <img src="{{ page.banner-image }}" alt="decorative">
 
