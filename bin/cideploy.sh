@@ -40,8 +40,13 @@ main() {
       cf push -f manifest-develop.yml
       ;;
     *)
-      echo "I do not know how to deploy that branch"
-      exit 0
+      basicauth
+      appname="${CIRCLE_PROJECT_REPONAME}-${GITBRANCH}"
+      cf api $CF_STAGING_API
+      cf auth $CF_USER $CF_PASSWORD
+      cf target -o $CF_ORG
+      cf target -s $CF_SPACE
+      cf push $appname
       ;;
   esac
 }
