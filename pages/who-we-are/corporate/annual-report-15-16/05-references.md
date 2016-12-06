@@ -10,7 +10,7 @@ permalink: /who-we-are/corporate/annual-report/annual-report-2015-16/references/
 
 ### <a id="glossary" name="glossary"></a>Glossary and abbreviations list
 
-<table>
+<table class="content-table">
   <tbody>
     <tr>
       <td>APS </td>
@@ -61,7 +61,7 @@ permalink: /who-we-are/corporate/annual-report/annual-report-2015-16/references/
 
 ### <a id="requirements" name="requirements"></a>List of requirements
 
-<table summary="List of requirements">
+<table class="content-table" summary="List of requirements">
   <colgroup>
   <col />
   <col />
