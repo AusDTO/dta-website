@@ -32,9 +32,11 @@ The production branch is `master` which is continuously deployed by circleCI to 
 
 When starting a new change, branch from `develop`.
 
-[QA-Fire](https://qafire.apps.staging.digital.gov.au/4) is enabled for this project. Each pull-request will be deployed to a temporary staging site, click on 'Details' next to the QA-Fire status to view it. As long as the circleCI tests are passing, this staging site will be kept up to date with all commits to the branch.
+Each branch will be deployed by circleCI to a temporary staging site at https://dta-website-branchname.apps.staging.digital.gov.au/. As long as the circleCI tests are passing, this staging site will be kept up to date with all commits to the branch.
 
-When your change is ready, submit a PR to the `develop` branch.
+circleCI will not yet automatically clean up temporary staging sites, so you must manually do this with `cf delete <dta-website-branchname>`.
+
+When your change is ready, submit a PR to the `develop` branch. After the PR is merged, it will be deployed to [staging](https://dta.apps.staging.digital.gov.au/).
 
 When ready for a production deploy, merge the `develop` branch to `master`. You can do this through Github [with a PR](https://github.com/AusDTO/dta-website/compare/master...develop) or from the command line:
 
