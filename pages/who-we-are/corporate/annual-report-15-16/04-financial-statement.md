@@ -32,10 +32,11 @@ In our opinion, at the date of this statement, there are reasonable grounds to b
 
 Paul Shetler<br>Chief Executive Officer<br>15 September 2016
 
- ![Image of Paul Shettler]({% asset_path paul-signature %})
+ ![Image of Paul Shettler's Signature]({% asset_path paul-signature %})
+ 
 Lisa Leverton<br>Chief Financial Officer<br>15 September 2016
 
- ![Image of Paul Shettler]({% asset_path Lisa-signature %})
+ ![Image of Lisa Laverton's Signature]({% asset_path Lisa-signature %})
 ### Digital Transformation Office
 ### Statement of comprehensive income
 
