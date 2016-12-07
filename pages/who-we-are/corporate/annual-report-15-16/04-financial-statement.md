@@ -16,12 +16,12 @@ permalink: /who-we-are/corporate/annual-report/annual-report-2015-16/4-financial
 ### Digital Transformation Office
 ### Independent auditor’s report
 
-Scanned independent auditors report page 1
+ ![Image of Paul Shettler]({% asset_path DTO_Audit_Opinion %})
 
 Digital Transformation Office
 Independent auditor’s report
 
-Scanned independent auditors report page 2
+ ![Image of Paul Shettler]({% asset_path DTO_Audit_Opinion1 %})
 
 ### Digital Transformation Office
 ### Statement by the Chief Executive Officer and Chief Financial Officer
@@ -32,10 +32,10 @@ In our opinion, at the date of this statement, there are reasonable grounds to b
 
 Paul Shetler<br>Chief Executive Officer<br>15 September 2016
 
-Scanned signature of Paul Shetler
+ ![Image of Paul Shettler]({% asset_path paul-signature %})
 Lisa Leverton<br>Chief Financial Officer<br>15 September 2016
 
-Scanned signature of Lisa Leverton
+ ![Image of Paul Shettler]({% asset_path Lisa-signature %})
 ### Digital Transformation Office
 ### Statement of comprehensive income
 
