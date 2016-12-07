@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "Annual Report 2015-16: Contents"
+title: "Annual Report 2015-16"
 permalink: /who-we-are/corporate/annual-report/annual-report-2015-16/contents/
 ---
 ## Contents
