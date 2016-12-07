@@ -16,7 +16,7 @@ permalink: /who-we-are/corporate/annual-report/annual-report-2015-16/4-financial
 ### Digital Transformation Office
 ### Independent auditor’s report
 
- ![Image of Auditor's RTeport Page 1]({% asset_path DTO_Audit_Opinion %})
+ ![Image of Auditor's Report Page 1]({% asset_path DTO_Audit_Opinion %})
 
 Digital Transformation Office
 Independent auditor’s report
@@ -34,6 +34,7 @@ Paul Shetler<br>Chief Executive Officer<br>15 September 2016
 
  ![Image of Paul Shettler's Signature]({% asset_path paul-signature %})
  
+
 Lisa Leverton<br>Chief Financial Officer<br>15 September 2016
 
  ![Image of Lisa Laverton's Signature]({% asset_path Lisa-signature %})
