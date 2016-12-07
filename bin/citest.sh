@@ -20,7 +20,7 @@ set -o pipefail
 set -x
 
 #Run pa11y accessibility tests against the local running copy
-pa11y-ci --sitemap http://localhost:4000/pa11y-sitemap.xml
+node_modules/.bin/pa11y-ci --sitemap http://localhost:4000/pa11y-sitemap.xml
 
 # Run jekyll hyde
 # Note - this will clobber the sitemap.xml using the site.url, so we just use production's

@@ -47,6 +47,7 @@ exclude:
   - manifest*.yml
   - ld_library_path
   - config.ru
+  - node_modules
 
 assets:
   assets:
