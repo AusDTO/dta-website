@@ -55,6 +55,7 @@ assets:
     - "bundle.css"
   sources:
     - _assets/img/posts
+    - _assets/img/annual-reports/2015-16
     - _assets/js/vendor
     - _assets/scss
     - _assets/vendor
