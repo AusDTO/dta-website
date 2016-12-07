@@ -24,7 +24,7 @@ ISSN 2206-9887 (Online)
 
 With the exception of the Commonwealth Coat of Arms, all material presented in this document is provided under a Creative Commons Attribution 3.0 Australia licence.
 
-Creative Commons Logo
+![Creative Commons Logo]({% asset_path cc-logo %})
 
 The details of the relevant licence conditions are available on the Creative Commons website (creativecommons.org/licenses/by/3.0/au), as is the full legal code for the licence (creativecommons.org/licenses/by/3.0/au/legalcode).
 
@@ -34,4 +34,4 @@ Editing and indexing by WordsWorth Writing
 Design and layout by Giraffe Visual Communication Management
 Printing by New Millennium Print
 
-Scanned letter of transmittal
+![Scanned letter of transmittal]({% asset_path LOT_-_Word %})
