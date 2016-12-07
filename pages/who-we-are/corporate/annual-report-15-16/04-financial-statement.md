@@ -1758,7 +1758,7 @@ Financial liabilities are recognised and derecognised upon ‘trade date’.
     </tr>
   </tbody>
 </table>
-<table summary="Make good Provision">
+<table class="content-table" summary="Make good Provision">
   <colgroup>
   <col />
   <col />
