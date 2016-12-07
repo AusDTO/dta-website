@@ -16,12 +16,12 @@ permalink: /who-we-are/corporate/annual-report/annual-report-2015-16/4-financial
 ### Digital Transformation Office
 ### Independent auditor’s report
 
- ![Image of Paul Shettler]({% asset_path DTO_Audit_Opinion %})
+ ![Image of Auditor's RTeport Page 1]({% asset_path DTO_Audit_Opinion %})
 
 Digital Transformation Office
 Independent auditor’s report
 
- ![Image of Paul Shettler]({% asset_path DTO_Audit_Opinion1 %})
+ ![Image of Auditor's Report Page 2]({% asset_path DTO_Audit_Opinion1 %})
 
 ### Digital Transformation Office
 ### Statement by the Chief Executive Officer and Chief Financial Officer
