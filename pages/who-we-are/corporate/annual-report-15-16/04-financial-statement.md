@@ -37,7 +37,7 @@ In our opinion, at the date of this statement, there are reasonable grounds to b
 
 **Lisa Leverton**<br>Chief Financial Officer<br>15 September 2016
 
- ![Image of Lisa Laverton's Signature]({% asset_path Lisa-signature %})
+ ![Image of Lisa Leverton's Signature]({% asset_path Lisa-signature %})
 ### Digital Transformation Office
 ### Statement of comprehensive income
 
