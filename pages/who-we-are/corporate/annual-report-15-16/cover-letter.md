@@ -1,9 +1,8 @@
 ---
 layout: basic
-title: "Annual Report 2015-16: Cover letter"
+title: "Annual Report 2015-16"
 permalink: /who-we-are/corporate/annual-report/annual-report-2015-16/cover-letter/
 ---
-Annual Report 2015–16
 
 Digital Transformation Office
 
