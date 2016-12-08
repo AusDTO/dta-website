@@ -9,4 +9,10 @@ set -o pipefail
 # echo out each line of the shell as it executes
 set -x
 
-bundle exec jekyll serve
+# use /tmp if TMPDIR is not defined
+if [ -z "$TMPDIR" ]; then
+    TMPDIR="/tmp"
+fi
+
+# Start a local copy of the site to test against
+bundle exec jekyll serve --destination $TMPDIR/_pa11y_site
