@@ -17,6 +17,9 @@ basicauth() {
   fi
 }
 
+# We dont need to deploy the pa11y-sitemap.xml
+rm -f _site/pa11y-sitemap.xml
+
 # main script function
 #
 main() {

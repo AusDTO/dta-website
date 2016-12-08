@@ -6,20 +6,19 @@ searchexcerpt: Read the latest blog posts from the Digital Transformation Agency
 permalink: /blog/
 ---
 
-<article  id="content" class="content-main">
+<article  id="content" class="content-main latest-blog-posts">
 
   <h1>Blog</h1>
   <h2>Latest blog posts</h2>
 
-  <ul class="list-vertical no-border">
-
+  <ul class="list-vertical">
     {% for post in site.categories['blog'] limit:4 %}
     <li>
       <figure>
         {% if post.thumbnail %}
-        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ post.thumbnail | asset_path }}" alt=""></a>
+        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ post.thumbnail | asset_path }}" alt="Read post {{ post.title }}"></a>
         {% else %}
-        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{% asset_path blog-thumbnail-placeholder %}" alt=""></a>
+        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{% asset_path blog-thumbnail-placeholder %}" alt="Read post {{ post.title }}"></a>
         {% endif %}
       </figure>
       <article>

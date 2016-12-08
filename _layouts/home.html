@@ -6,25 +6,26 @@ layout: base
 
   <header class="about-dta">
     <h1>Digital Transformation Agency</h1>
-    <p class="abstract">The Digital Transformation Agency exists to make it easy for people to deal with government, by helping government transform services to be simple, clear and fast.</p>
+    <p class="abstract">The Digital Transformation Agency exists to make it easy for people to deal with government, by
+      helping government transform services to be simple, clear and fast.</p>
   </header>
 
   <section class="news-media">
-    <h2 class="home-heading">News and media</h2>
-    <ul class="list-vertical--fourths no-border">
+    <h2 class="home-heading">Latest news and blog posts</h2>
+    <ul class="list-vertical--fourths">
 
       {% for post in site.posts limit:8 %}
-      {% assign url = post.url %}
-      {% if post.external-url %}
-        {% assign url = post.external-url%}
-      {% endif %}
+        {% assign url = post.url %}
+        {% if post.external-url %}
+          {% assign url = post.external-url%}
+        {% endif %}
 
       <li>
         <figure>
           {% if post.thumbnail %}
-          <a href="{{ url }}"><img class="blog-thumbnail" src="{{ post.thumbnail | asset_path }}" alt=""></a>
+          <a href="{{ url }}"><img class="blog-thumbnail" src="{{ post.thumbnail | asset_path }}" alt="Read post {{ post.title }}"></a>
           {% else %}
-          <a href="{{ url }}"><img class="blog-thumbnail" src="{% asset_path post-thumbnail-placeholder %}" alt=""></a>
+          <a href="{{ url }}"><img class="blog-thumbnail" src="{% asset_path post-thumbnail-placeholder %}" alt="Read post {{ post.title }}"></a>
           {% endif %}
         </figure>
         <article>
@@ -33,34 +34,36 @@ layout: base
           </h3>
           <div class="meta">
             <time datetime="{{ post.date }}">{{ post.date | date: "%-d %b %Y" }}</time>
-            {% if post.category contains 'media-release' %}
-            <span>Media Release</span>
-            {% else %}
-            {{ post.author }}
-            {% endif %}
+            <span class="tags">
+              {% if post.category contains "blog" %}
+              <a href="/blog/">Blog</a>
+              {% else %}
+              <a href="/news/">News</a>
+              {% endif %}
+            </span>
           </div>
         </article>
       </li>
       {% endfor %}
     </ul>
-
-    <a class="see-more" href="/news/">See more news</a>
+    <p><a class="see-more" href="/news/">See more news</a></p>
+    <p><a class="see-more" href="/blog/">See more blog posts</a></p>
   </section>
 
   <section class="what-we-do">
     <h2 class="home-heading">What we&rsquo;re involved in</h2>
-    <ul class="list-vertical--thirds">
+    <ul class="list-vertical--fourths">
 
-    {% for item in site.data.homepage_items %}
-    <li>
-      <article>
-        <h3>
-          <a href="{{ item.url }}">{{ item.title }}</a>
-        </h3>
-        <p>{{ item.description }}</p>
-      </article>
-    </li>
-    {% endfor %}
+      {% for item in site.data.homepage_items %}
+      <li>
+        <article>
+          <h3>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+          </h3>
+          <p>{{ item.description }}</p>
+        </article>
+      </li>
+      {% endfor %}
     </ul>
   </section>
 
@@ -70,7 +73,7 @@ layout: base
       <h2 class="home-heading">Leadership</h2>
       <ul class="list-horizontal">
 
-      {% for leader in site.leadership-group %}
+        {% for leader in site.leadership-group %}
         <li>
           <figure>
             <img src="{{ leader.image | asset_path }}" alt="Image of {{ leader.title }}">
