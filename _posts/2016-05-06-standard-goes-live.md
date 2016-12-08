@@ -5,18 +5,20 @@ author: Jacqui van Teulingen
 category: blog
 tag: dto-news
 hero-image: standard-goes-live-content
-thumbnail: standard-goes-live-thumbnail
+thumbnail: /images/blog-thumbnails/standard-goes-live-thumbnail.png
 searchexcerpt: We have iterated the Digital Service Standard to make it clearer. Over the past year we've researched, validated, tested, iterated and assessed and we’re moving the Standard to its live stage. It’s what we think “good” looks like for digital services.
 ---
-
-![Photo of a transformation program team who are using the Standard]({{site.url}}{{page.hero-image | asset_path }})
-*Caption: One of the transformation program teams who are using the Standard*
 
 <div class="abstract" markdown="1">
 
 We have iterated the Digital Service Standard to make it clearer. Over the past year we've researched, validated, tested, iterated and assessed and we’re moving the Standard to its live stage. It’s what we think “good” looks like for digital services.
 
 </div>
+
+![Photo of a transformation program team who are using the Standard]({{site.url}}{{page.hero-image | asset_path }})
+*Caption: One of the transformation program teams who are using the Standard*
+
+
 
 ## What has changed?
 

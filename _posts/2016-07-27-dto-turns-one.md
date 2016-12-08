@@ -5,7 +5,7 @@ author: Paul Shetler
 category: blog
 tag: dto-news
 hero-image: dto-is-one-content
-thumbnail: dto-is-one-thumbnail
+thumbnail: /images/blog-thumbnails/dto-is-one-thumbnail.png
 searchexcerpt:  Earlier this month DTO celebrated its first birthday, and what a journey it has been! Our CEO Paul Shetler looks back and takes us through the highlights and milestones of our first year.  
 ---
 

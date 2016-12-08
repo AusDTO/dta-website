@@ -4,7 +4,7 @@ author: Steven Berends
 category: blog
 tags: [dto-news,marketplace,dta-news]
 hero-image: marketplace-laptop-hero
-thumbnail: marketplace-laptop-thumbnail
+thumbnail: /images/blog-thumbnails/marketplace-laptop-thumbnail.jpg
 searchexcerpt: "Sharing some positive feedback from early adopters of the Digital Marketplace."
 ---
 

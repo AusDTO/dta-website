@@ -5,12 +5,12 @@ author: 'Jenny Hunter'
 category: blog
 tag: ''
 hero-image: bom-app-content
-thumbnail: bom-app-thumb
+thumbnail: /images/blog-thumbnails/bom-app-thumb.png
 ---
 
-**This is a guest post by Jenny Hunter, Head of Digital, Bureau of Meteorology.**
-
 ![Screenshots of the Bureau of Meteorology Weather app]({{site.url}}{{page.hero-image | asset_path }})
+
+**This is a guest post by Jenny Hunter, Head of Digital, Bureau of Meteorology.**
 
 Can we have a weather app? This was a consistent cry from the community. Yet with many other weather apps already available, how would one from BOM be received? Should it be different? Sophisticated or simple? What did our users really want?
 

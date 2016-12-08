@@ -5,7 +5,7 @@ author: Helen Copley
 category: blog
 tag: dto-news
 hero-image: Canberra-dto-open-house-content
-thumbnail: Canberra-dto-open-house-thumb
+thumbnail: /images/blog-thumbnails/Canberra-dto-open-house-thumb.png
 searchexcerpt:  "We’re throwing open the doors of our Canberra office – come on in!" 
 ---
 ![Paul Shetler presenting]({{site.url}}{{page.hero-image | asset_path }})

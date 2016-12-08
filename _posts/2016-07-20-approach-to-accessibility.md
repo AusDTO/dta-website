@@ -5,7 +5,7 @@ author: Jo Hill
 category: blog
 tag: dto-news
 hero-image: accessibility-in-service-design-blog
-thumbnail: accessibility-in-service-design-thumbnail
+thumbnail: /images/blog-thumbnails/accessibility-in-service-design-thumbnail.png
 searchexcerpt:  
 ---
 

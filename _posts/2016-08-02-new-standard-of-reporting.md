@@ -5,7 +5,7 @@ author: Mariam Ibraheim
 category: blog
 tag: dto-news
 hero-image: new-standard-of-reporting-content
-thumbnail: new-standard-of-reporting-thumb
+thumbnail: /images/blog-thumbnails/new-standard-of-reporting-thumb.png
 searchexcerpt: "It is well known that the DTO is in partnership with government departments to challenge and where necessary, change the the way we report on government services. To do that, we’ve launched a new Performance Dashboard to make it even easier to find out how government services are performing explains Mariam Ibraheim."
 ---
 

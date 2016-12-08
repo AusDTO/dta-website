@@ -5,7 +5,7 @@ author: Catherine Thompson
 category: blog
 tag: [dto-news, marketplace]
 hero-image: marketplace-hero
-thumbnail: marketplace-thumb
+thumbnail: /images/blog-thumbnails/marketplace-thumb.jpg
 searchexcerpt: 
 ---
 

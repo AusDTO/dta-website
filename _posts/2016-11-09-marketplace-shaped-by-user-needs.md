@@ -6,7 +6,7 @@ author-excerpt: "Robyn Prince Gillot, is a researcher in the Digital Marketplace
 category: blog
 tag: marketplace
 hero-image: marketplace-user-needs-content
-thumbnail: marketplace-user-needs-thumb
+thumbnail: /images/blog-thumbnails/marketplace-user-needs-thumb.jpg
 searchexcerpt: "To make sure we understand user needs in the two months since the Digital Marketplace Beta was released we’ve had face-to-face meetings with government buyers and registered sellers. In response to their feedback, this is how we’ve iterated and improved the Marketplace."
 ---
 
