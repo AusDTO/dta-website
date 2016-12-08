@@ -12,6 +12,7 @@ www.dta.gov.au is a [Jekyll website](http://jekyllrb.com/).
 - [Ruby 2.3.1](https://www.ruby-lang.org/en/documentation/installation/)
 - [rbenv](https://github.com/rbenv/rbenv)
 - [Bundler](http://bundler.io/)
+- [Node.js](https://nodejs.org) (For pa11y tests)
 
 Run each of the following commands to get the site running locally:
 
@@ -23,6 +24,20 @@ Run each of the following commands to get the site running locally:
 You should be able to see the site at: http://127.0.0.1:4000
 
 To increase the speed of jekyll builds, you can replace the last step with `bin/serve`. This will disable the search plugin and only render the latest post.
+
+### Run tests locally
+
+Install pa11y-ci and it's dependencies with:
+
+`npm install pa11y-ci@^0.4`
+
+Make sure you have the app running locally with:
+
+`bundle exec jekyll serve`
+
+Run the tests with:
+
+`bin/citest.sh`
 
 ## Development Process
 

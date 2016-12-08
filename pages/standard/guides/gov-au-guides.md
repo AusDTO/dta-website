@@ -35,7 +35,7 @@ Style guidance and examples to help writers and editors create simpler, clearer,
 
 ## Where to go while the GOV.AU Guides are being developed
 
-### Content
+### Content {#content-links}
 
 - [Online writing style guide](https://www.dta.gov.au/standard/design-guides/online-writing/)
 - [Making content accessible](https://www.dta.gov.au/standard/design-guides/making-content-accessible/)

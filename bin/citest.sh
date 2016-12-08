@@ -1,8 +1,14 @@
 #!/usr/bin/env bash
 
 #
-# EXPECTS THE SITE TO HAVE ALREADY BEEN BUILT
+# EXPECTS THE SITE TO HAVE ALREADY BEEN BUILT AND RUNNING LOCALLY
 #
+
+echo "Waiting for webserver to start..."
+until $(curl --output /dev/null --silent --head --fail http://localhost:4000); do
+    sleep 5
+done
+echo "Webserver has started"
 
 # Exit immediately if there is an error
 set -e
@@ -13,6 +19,8 @@ set -o pipefail
 # echo out each line of the shell as it executes
 set -x
 
+#Run pa11y accessibility tests against the local running copy
+node_modules/.bin/pa11y-ci --sitemap http://localhost:4000/pa11y-sitemap.xml
 
 # Run jekyll hyde
 # Note - this will clobber the sitemap.xml using the site.url, so we just use production's
