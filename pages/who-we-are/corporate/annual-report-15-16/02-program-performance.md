@@ -93,10 +93,11 @@ In 2015–16, the DTO partnered with other agencies to deliver exemplar projects
 ### Results
 
 Table 1 outlines the DTO’s performance against portfolio budget statements performance criteria.
+
 The key performance indicators (KPIs) for 2015–16 were defined when the DTO commenced in the Communications portfolio, and retained when the DTO was transferred to the Prime Minister and Cabinet portfolio. The targets for 2015–16 were defined in the Prime Minister and Cabinet Portfolio Budget Statements 2016–17.
 
   <table class="content-table" summary="Performance against portfolio measures">
-    <caption><strong>Table 1</strong> Performance against portfolio measures</caption><br/><br/>
+    <caption><strong>Table 1</strong> Performance against portfolio measures</caption>
     <colgroup>
     <col />
     <col />
