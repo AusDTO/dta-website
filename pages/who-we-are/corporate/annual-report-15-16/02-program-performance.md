@@ -95,18 +95,57 @@ In 2015–16, the DTO partnered with other agencies to deliver exemplar projects
 Table 1 outlines the DTO’s performance against portfolio budget statements performance criteria.
 The key performance indicators (KPIs) for 2015–16 were defined when the DTO commenced in the Communications portfolio, and retained when the DTO was transferred to the Prime Minister and Cabinet portfolio. The targets for 2015–16 were defined in the Prime Minister and Cabinet Portfolio Budget Statements 2016–17.
 
-Table 1 Performance against portfolio measures
-
-| KPI<sup>1</sup>        |	Target<sup>2</sup>       |	Action       |	Comment       |
-| ------- | ------- | ------- | ------- |
-| Improved levels of public satisfaction with the government services as measured by a public digital dashboard	| Positive change in stakeholder feedback	| The DTO conducted research to establish a baseline for user satisfaction, and published a summary of the results at www.dto.gov.au/blog/how-do-australians-really-feel-about-digital-government-services/.	| The DTO has released the alpha of the Performance Dashboard, which reports on user satisfaction of government services. <br><br>The first tranche of service dashboards have been released.|
-|  |  |  |  |
-| Increased use of common ICT platforms across government, with a resulting decline in entities developing systems for their individual use	| Number of agencies using common ICT platforms has increased	| An Australian Government moratorium prevents Commonwealth entities from investing in new, or duplicating, service delivery capability. This helps to limit the fragmenting of users’ experiences across government. <br><br>The DTO started working with Commonwealth entities on the design, governance and funding of whole-of-government service delivery platforms. The DTO also made substantial progress on the delivery of a number of platforms, including for online publishing and digital authentication and verification. The DTO aims to deliver beta and live versions of those platforms in 2016–17.	| Several agencies have adopted the DTO’s common ICT platforms, including the Performance Dashboard and cloud.gov.au. <br><br>The DTO is working with the Department of Finance to ensure that whole-of-government service delivery platforms are considered by agencies in their development of business cases under the ICT Investment Approval Process. |
-|  |  |  |  |
-| Entities meeting the timeframes for digitising services specified in the Digital Transformation Plans	| 90% of entities are on schedule to meet the requirement of each Digital Transformation Plan |	The DTO worked with Commonwealth entities to develop Digital Transformation Plans for the key service agencies, including the departments of Human Services and Immigration and Border Protection, and the Australian Taxation Office.	| The publication of plans was delayed due to the election in July 2016. |
-|  |  |  |  |
-| Entities adhering to the Digital Service Standard when designing new services or redesigning existing services	| 80% of agencies adhering to the Digital Service Standard for new services	| Since the release of the Digital Service Standard in May 2016, many Commonwealth entities have undertaken redesign or development of services in line with the standard. They include the DTO and the departments of Industry, Innovation and Science; Immigration and Border Protection; and Human Services. <br><br>By 30 June 2016, the DTO had done nine assessments against six services (some services were assessed at both alpha and beta stages), and the Department of Industry, Innovation and Science had assessed and reported on one service. | Change is occurring but it is too early to determine what proportion of agencies are adhering to the standard. |
-
+  <table class="content-table" summary="Performance against portfolio measures">
+    <caption><strong>Table 1</strong> Performance against portfolio measures</caption><br>
+    <colgroup>
+    <col />
+    <col />
+    <col />
+    <col />
+    </colgroup>
+    <thead>
+      <tr>
+        <th>KPI<sup>1</sup></th>
+        <th>Target<sup>2</sup></th>
+        <th>Action</th>
+        <th>Comment</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Improved levels of public satisfaction with the government services as measured by a public digital dashboard</td>
+        <td>Positive change in stakeholder feedback</td>
+        <td>The DTO conducted research to establish a baseline for user satisfaction, and published a summary of the results at www.dto.gov.au/blog/how-do-australians-really-feel-about-digital-government-services/.</td>
+        <td>The DTO has released the alpha of the Performance Dashboard, which reports on user satisfaction of government services.<br />
+          <br />
+          The first tranche of service dashboards have been released.</td>
+      </tr>
+      <tr>
+        <td>Increased use of common ICT platforms across government, with a resulting decline in entities developing systems for their individual use</td>
+        <td>Number of agencies using common ICT platforms has increased</td>
+        <td>An Australian Government moratorium prevents Commonwealth entities from investing in new, or duplicating, service delivery capability. This helps to limit the fragmenting of users’ experiences across government. <br />
+          <br />
+          The DTO started working with Commonwealth entities on the design, governance and funding of whole-of-government service delivery platforms. The DTO also made substantial progress on the delivery of a number of platforms, including for online publishing and digital authentication and verification. The DTO aims to deliver beta and live versions of those platforms in 2016–17.</td>
+        <td>Several agencies have adopted the DTO’s common ICT platforms, including the Performance Dashboard and cloud.gov.au.<br />
+          <br />
+          The DTO is working with the Department of Finance to ensure that whole-of-government service delivery platforms are considered by agencies in their development of business cases under the ICT Investment Approval Process.</td>
+      </tr>
+      <tr>
+        <td>Entities meeting the timeframes for digitising services specified in the Digital Transformation Plans</td>
+        <td>90% of entities are on schedule to meet the requirement of each Digital Transformation Plan</td>
+        <td>The DTO worked with Commonwealth entities to develop Digital Transformation Plans for the key service agencies, including the departments of Human Services and Immigration and Border Protection, and the Australian Taxation Office. </td>
+        <td>The publication of plans was delayed due to the election in July 2016.</td>
+      </tr>
+      <tr>
+        <td>Entities adhering to the Digital Service Standard when designing new services or redesigning existing services</td>
+        <td>80% of agencies adhering to the Digital Service Standard for new services</td>
+        <td>Since the release of the Digital Service Standard in May 2016, many Commonwealth entities have undertaken redesign or development of services in line with the standard. They include the DTO and the departments of Industry, Innovation and Science; Immigration and Border Protection; and Human Services.<br />
+          <br />
+          By 30 June 2016, the DTO had done nine assessments against six services (some services were assessed at both alpha and beta stages), and the Department of Industry, Innovation and Science had assessed and reported on one service.</td>
+        <td>Change is occurring but it is too early to determine what proportion of agencies are adhering to the standard.</td>
+      </tr>
+    </tbody>
+  </table>
   1. Key performance indicators from the Prime Minister and Cabinet Portfolio Additional Estimates Statements 2015–16, p. 63.
   2. Targets from the Prime Minister and Cabinet Portfolio Budget Statements 2016–17, p. 134.
 
@@ -130,30 +169,238 @@ The DTO’s financial statements are presented in Part 4 of this annual report. 
 
 Tables 2 and 3 summarise the agency’s total resources and total expenses for the year.
 
-Table 2 Resource statement
-
-|        | Actual available appropriation for 2015–16 <br>$’000 <br> (a)	| Payments made 2015–16 <br> $’000<br> (b)	 | Remaining balance 2015–16 <br> $’000<br> (a) – (b) |
-| -------- | -------: | --------: | --------: | 	 	 	 	 
-| **Ordinary annual services<sup>1</sup>** <br> Departmental appropriation<sup>2</sup><br> Total | <br>32,025<br> 32,025 | <br>22,215<br> 22,215 | <br>9,810<br> 9,810 |
-| Total ordinary annual services	| A	32,025 |	22,215 |  |	
-| **Departmental non-operating** <br> Equity injections	<br> Total | <br>	2,226<br>	2,226 | 	| <br>	2,226<br>	2,226  |
-| Total other services |	B	2,226	|  |  |	
-| Total available annual appropriations and payments | 34,251	| 22,215 |  |	
-| **Total resourcing** <br> A+B	 <br>Total net resourcing for DTO	| <br>34,251<br> 34,251 |	<br> 22,215<br>	22,215 |  |	
+<table class="content-table" summary="Table 2 Resource statement">
+    <caption>
+    <strong>Table 2</strong> Resource statement
+    </caption>
+    <colgroup>
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+    </colgroup>
+    <thead>
+      <tr>
+        <th>&nbsp; </th>
+        <th>&nbsp; </th>
+        <th>Actual available appropriation <br />
+          for 2015–16</th>
+        <th>Payments <br />
+          made <br />
+          2015–16</th>
+        <th>Remaining balance <br />
+          2015–16</th>
+      </tr>
+      <tr>
+        <th>&nbsp; </th>
+        <th>&nbsp; </th>
+        <th>$’000<br>
+          (a)</th>
+        <th>$’000<br>
+          (b)</th>
+        <th>$’000<br>
+          (a) – (b)</th>
+      </tr>
+      <tr>
+        <th>&nbsp; </th>
+        <th>&nbsp; </th>
+        <th>&nbsp;</th>
+        <th>&nbsp;</th>
+        <th>&nbsp;</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Ordinary annual services</strong><sup>1</sup></td>
+        <td>&nbsp;</td>
+        <td />
+        <td />
+        <td />
+      </tr>
+      <tr>
+        <td>Departmental appropriation<sup>2</sup></td>
+        <td>&nbsp;</td>
+        <td>32,025</td>
+        <td>22,215</td>
+        <td>9,810</td>
+      </tr>
+      <tr>
+        <td>Total</td>
+        <td>&nbsp;</td>
+        <td>32,025</td>
+        <td>22,215</td>
+        <td>9,810</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td />
+        <td />
+        <td />
+      </tr>
+      <tr>
+        <td>Total ordinary annual services</td>
+        <td>A</td>
+        <td>32,025</td>
+        <td>22,215</td>
+        <td />
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td />
+        <td />
+        <td />
+      </tr>
+      <tr>
+        <td><strong>Departmental non-operating</strong></td>
+        <td>&nbsp;</td>
+        <td />
+        <td />
+        <td />
+      </tr>
+      <tr>
+        <td>Equity injections</td>
+        <td>&nbsp;</td>
+        <td>2,226</td>
+        <td>–</td>
+        <td>2,226</td>
+      </tr>
+      <tr>
+        <td>Total</td>
+        <td>&nbsp;</td>
+        <td>2,226</td>
+        <td>–</td>
+        <td>2,226</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td />
+        <td />
+        <td />
+      </tr>
+      <tr>
+        <td>Total other services</td>
+        <td>B</td>
+        <td>2,226</td>
+        <td>–</td>
+        <td />
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td />
+        <td />
+        <td />
+      </tr>
+      <tr>
+        <td>Total available annual appropriations and payments</td>
+        <td>&nbsp;</td>
+        <td>34,251</td>
+        <td>22,215</td>
+        <td />
+      </tr>
+      <tr>
+        <td><strong>Total resourcing</strong></td>
+        <td>&nbsp;</td>
+        <td />
+        <td />
+        <td />
+      </tr>
+      <tr>
+        <td>A+B</td>
+        <td>&nbsp;</td>
+        <td>34,251</td>
+        <td>22,215</td>
+        <td />
+      </tr>
+      <tr>
+        <td>Total net resourcing for DTO</td>
+        <td>&nbsp;</td>
+        <td>34,251</td>
+        <td>22,215</td>
+        <td />
+      </tr>
+    </tbody>
+  </table>	
 
   1. Appropriation Act (No.1) 2015–16 and Appropriation Act (No.3) 2015–16.
   2. Includes an amount of $1.500 million in 2015–16 for the Departmental Capital Budget. For accounting purposes this amount has been designated as ‘contribution by owners’.
 
 Table 3 Expenses for Outcome 1
 
-| **Outcome 1: To improve the user experience for all Australians accessing government information and services by leading the design, development and continual enhancement of whole-of-government service delivery policies and standards, platforms and joined-up services**	| **Budget<sup>1</sup> <br>2015–16 <br> $’000 <br>(a)**	| **Actual expenses<sup>2</sup> <br> 2015–16  <br> $’000 <br> (b)**	| **Variation <br> 2015–16 <br> $’000 <br> (a) – (b)** |
-| ------- | -------: | -------: | -------: |
-| **Program 1.1: The Digital Transformation Office** <br> Departmental expenses <br> Departmental appropriation<sup>2</sup> <br> Expenses not requiring appropriation in the budget year | <br><br>30,525<br>498	| <br><br>28,013<br>848	| <br><br>2,512<br>350 |
-| **Total for Program 1.1** |	31,023	| 28,861	| 2,862 |
-| **Total expenses for Outcome 1** | 31,023	| 28,861	| 2,862 |
-|  |  |  |  |
-|  |  **2014–15**	| **2015–16** |	 |
-| Average staffing level (number) |  0	| 37	|
-
+<table class="content-table" summary="Expenses for Outcome 1">
+    <caption>  <strong>Table 3 </strong> Expenses for Outcome 1 </caption><br>
+    <colgroup>
+    <col />
+    <col />
+    <col />
+    <col />
+    </colgroup>
+    <thead>
+      <tr>
+        <th>Outcome 1: To improve the user experience for all Australians accessing government information and services by leading the design, development and continual enhancement of whole-of-government service delivery policies and standards, platforms and joined-up services</th>
+        <th>Budget<sup>1</sup><br>
+          2015–16<br>
+          $’000<br>
+          (a)</th>
+        <th>Actual
+          expenses<sup>2</sup><br>
+          2015–16<br>
+          $’000<br>
+          (b)</th>
+        <th>Variation<br>
+          2015–16<br>
+          $’000<br>
+          (a) – (b)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td colspan="4"><strong>Program 1.1: The Digital Transformation Office</strong></td>
+      </tr>
+      <tr>
+        <td colspan="4">Departmental expenses</td>
+      </tr>
+      <tr>
+        <td>Departmental appropriation<sup>2</sup></td>
+        <td>30,525</td>
+        <td>28,013</td>
+        <td>2,512</td>
+      </tr>
+      <tr>
+        <td>Expenses not requiring appropriation in the budget year</td>
+        <td>498</td>
+        <td>848</td>
+        <td>350</td>
+      </tr>
+      <tr>
+        <td><strong>Total for Program 1.1</strong></td>
+        <td>31,023</td>
+        <td>28,861</td>
+        <td>2,862</td>
+      </tr>
+      <tr>
+        <td><strong>Total expenses for Outcome 1</strong></td>
+        <td>31,023</td>
+        <td>28,861</td>
+        <td>2,862</td>
+      </tr>
+      <tr>
+        <td />
+        <td><strong>2014–15</strong></td>
+        <td><strong>2015–16</strong></td>
+        <td />
+      </tr>
+      <tr>
+        <td>Average staffing level (number)</td>
+        <td>0</td>
+        <td>37</td>
+        <td />
+      </tr>
+    </tbody>
+  </table>
   1. Full-year budget, including any subsequent adjustment made to the 2015–16 Budget at Additional Estimates.
   2. Departmental appropriation combines ordinary annual services (Appropriation Act Nos 1, 3 and 5) and retained revenue receipts under section 74 of the Public Governance, Performance and Accountability Act 2013.
