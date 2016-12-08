@@ -5,14 +5,21 @@ author: Jacqui van Teulingen
 category: blog
 tag: dto-news
 hero-image: standard-goes-live-content
-hero-image-alt: "Photo of a transformation program team who are using the Standard"
 thumbnail: standard-goes-live-thumbnail
 searchexcerpt: We have iterated the Digital Service Standard to make it clearer. Over the past year we've researched, validated, tested, iterated and assessed and we’re moving the Standard to its live stage. It’s what we think “good” looks like for digital services.
 ---
 
+![Photo of a transformation program team who are using the Standard]({{site.url}}{{page.hero-image | asset_path }})
 *Caption: One of the transformation program teams who are using the Standard*
 
+<div class="abstract" markdown="1">
+
+We have iterated the Digital Service Standard to make it clearer. Over the past year we've researched, validated, tested, iterated and assessed and we’re moving the Standard to its live stage. It’s what we think “good” looks like for digital services.
+
+</div>
+
 ## What has changed?
+
 There are now 13 criteria covering all the areas essential to making a great digital service. It sets out the requirements for services: to have a strong understanding of user needs, adopt an agile approach to technology and delivery, and have the capability to support and iterate the service on an ongoing basis.
 
 The iterated Standard is set out in full on the [Digital Service Standard](https://www.dto.gov.au/standard/) page and you can [view all the changes between the Beta and Live versions](https://www.dto.gov.au/standard/changes-to-standard/). The most significant changes are:

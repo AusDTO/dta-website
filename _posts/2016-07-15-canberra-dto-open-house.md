@@ -5,12 +5,17 @@ author: Helen Copley
 category: blog
 tag: dto-news
 hero-image: Canberra-dto-open-house-content
-hero-image-alt: Paul Shetler Presenting
 thumbnail: Canberra-dto-open-house-thumb
 searchexcerpt:  "We’re throwing open the doors of our Canberra office – come on in!" 
 ---
-
+![Paul Shetler presenting]({{site.url}}{{page.hero-image | asset_path }})
 *Caption: Paul Shetler presenting to a crowd.*
+
+<div class="abstract" markdown="1">
+
+We’re throwing open the doors of our Canberra office – come on in!
+
+</div>
 
 **We have filled all available spaces for our Open House. You are welcome to join the waitlist by clicking the link below. We'll let you know if space becomes available.**
 

@@ -6,9 +6,10 @@ author-excerpt: "Steven Berends is the Digital Marketplace content designer, bas
 category: blog
 tag: marketplace
 hero-image: mp-roundtable-image06
-hero-image-alt: "Montage of images showing audience and presenters at the Digital Transformation Roundtable"
 thumbnail: mp-roundtable-thumb
 ---
+
+![Montage of images showing audience and presenters at the Digital Transformation Roundtable]({{site.url}}{{page.hero-image | asset_path }})
 
 In the [Digital Service Standard]({{site.url}}/standard/), ‘understanding user needs’ is the first criteria in the list. Arguably it’s the most important.
 
