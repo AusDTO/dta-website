@@ -4,6 +4,12 @@
 // these elements differently.
 
 .post-header {
+  .post-title {
+    margin-bottom: $tiny-spacing;
+  }
+  .post-meta {
+    margin-bottom: $base-spacing * 1.25;
+  }
   h1,
   p,
   img {
