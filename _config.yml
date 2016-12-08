@@ -72,6 +72,9 @@ defaults:
     values:
       layout: "default"
 
+frontmatter_tests:
+  path: "tests/schema"
+
 # Config for http://prose.io editor.
 prose:
   rooturl: ''

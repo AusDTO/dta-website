@@ -1,0 +1,16 @@
+---
+title: "String"
+author: "String"
+category:
+- blog
+- news
+layout:
+- post
+searchexcerpt: "String"
+config:
+  path: '_posts'
+  ignore:
+  - ..
+  - .
+  - .DS_Store
+---
