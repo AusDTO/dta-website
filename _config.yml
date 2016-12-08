@@ -72,6 +72,12 @@ defaults:
       path: "" # empty string means all files
     values:
       layout: "default"
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: post
+
 
 # Config for http://prose.io editor.
 prose:
