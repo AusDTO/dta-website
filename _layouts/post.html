@@ -10,10 +10,6 @@ breadcrumb_type: post
     </p>
   </header>
 
-  <div class="abstract">
-    {{ page.searchexcerpt | markdownify }}
-  </div>
-
   <section class="post-body">
     {% if page.hero-image-alt %}
       <p>
@@ -23,7 +19,7 @@ breadcrumb_type: post
     {{ content }}
   </section>
 
-  {% include blog-author-excerpt.html %}
+  {% include post-author-excerpt.html %}
 
   {% include social-links.html %}
 
