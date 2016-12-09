@@ -29,7 +29,8 @@ To increase the speed of jekyll builds, you can replace the last step with `bin/
 
 Install pa11y-ci and it's dependencies with:
 
-`npm install pa11y-ci@^0.4`
+1. `npm install -g phantomjs-prebuilt`
+2. `npm install pa11y-ci@^0.4`
 
 Make sure you have the app running locally with:
 
