@@ -29,7 +29,7 @@ bundle exec htmlproofer _site  \
 echo "Waiting for webserver to start..."
 COUNT=0
 until $(curl --output /dev/null --silent --head --fail http://localhost:4000); do
-    ((COUNT++))
+    COUNT=$(($COUNT+1))
     if [ "$COUNT" -gt 24 ]
     then
         echo "Webserver did not start"
