@@ -1,14 +1,15 @@
 ---
-layout: post
 title: "Digital Marketplace: Sharing positive feedback from early adopters"
 author: Steven Berends
 category: blog
-tag: [dto-news,marketplace,dta-news]
-hero-image: marketplace-laptop-hero
-hero-image-alt: "The Digital Marketplace shown on a laptop"
-thumbnail: marketplace-laptop-thumbnail
-searchexcerpt: A Beta is a minimum viable product. A service that’s released with only the essential functionality that’s shaped by the needs of real users as it grows.
+tags: [dto-news,marketplace,dta-news]
+hero-image: /images/blog-content/marketplace-laptop-hero.jpg
+thumbnail: /images/blog-thumbnails/marketplace-laptop-thumbnail.jpg
 ---
+
+![The Digital Marketplace shown on a laptop]({{site.url}}{{page.hero-image}})
+
+A Beta is a minimum viable product. A service that’s released with only the essential functionality that’s shaped by the needs of real users as it grows.
 
 It’s therefore fantastic that the Digital Marketplace Beta — [released 5 months ahead of schedule](https://www.dto.gov.au/blog/digital-marketplace-beta/) — is already getting positive feedback from buyers and sellers. 
 

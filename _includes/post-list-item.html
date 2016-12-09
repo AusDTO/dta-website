@@ -1,14 +1,14 @@
 
 {% assign url = post.url %}
 {% if post.external-url %}
-{% assign url = post.external-url%}
+  {% assign url = post.external-url%}
 {% endif %}
 
 <figure>
 
 {% if post.thumbnail %}
   <a href="{{ url }}">
-    <img src="{{ post.thumbnail | asset_path }}" alt="{{ post.title }}" />
+    <img src="{{ post.thumbnail }}" alt="Read post {{ post.title }}" />
   </a>
 {% endif %}
 </figure>

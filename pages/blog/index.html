@@ -16,9 +16,9 @@ permalink: /blog/
     <li>
       <figure>
         {% if post.thumbnail %}
-        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ post.thumbnail | asset_path }}" alt="Read post {{ post.title }}"></a>
+        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ post.thumbnail }}" alt="Read post {{ post.title }}"></a>
         {% else %}
-        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{% asset_path blog-thumbnail-placeholder %}" alt="Read post {{ post.title }}"></a>
+        <a href="{{ post.url }}"><img class="blog-thumbnail" src="/images/blog-thumbnail-placeholder.png" alt="Read post {{ post.title }}"></a>
         {% endif %}
       </figure>
       <article>

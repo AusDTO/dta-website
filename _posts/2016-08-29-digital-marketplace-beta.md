@@ -4,12 +4,12 @@ title: Digital Marketplace goes to Beta
 author: Catherine Thompson
 category: blog
 tag: [dto-news, marketplace]
-hero-image: marketplace-hero
-hero-image-alt: "Paul Shetler with Angus Taylor and Digital Marketplace Team"
-thumbnail: marketplace-thumb
+hero-image: /images/blog-content/marketplace-hero.jpg
+thumbnail: /images/blog-thumbnails/marketplace-thumb.jpg
 searchexcerpt: 
 ---
 
+![Paul Shetler with Angus Taylor and Digital Marketplace Team]({{site.url}}{{page.hero-image}})
 *Caption: Paul Shetler with Angus Taylor and Digital Marketplace Team*
 
 Today marks the next stage in the creation of DTO’s Digital Marketplace, with [the release of the Beta](https://gov.au/marketplace) – meaning we have started to transform how government buys digital and technology services. It is now easier for businesses to sell their services to government.
@@ -18,7 +18,7 @@ In March, we [invited businesses to join](https://www.dto.gov.au/blog/new-panel-
 
 Today’s Beta launch means government buyers can post briefs for requirements and sellers can respond. Collaboration and opportunities can begin.  
 
-![marketplace beta displayed on laptop]({{site.url}}{% asset_path marketplace-content %})
+![marketplace beta displayed on laptop]({{site.url}}/images/blog-content/marketplace-content.png)
 
 *Caption: The Digital Marketplace displayed on a laptop*
 

@@ -4,12 +4,11 @@ title: Join us at the first Canberra DTO Open House
 author: Helen Copley
 category: blog
 tag: dto-news
-hero-image: Canberra-dto-open-house-content
-hero-image-alt: Paul Shetler Presenting
-thumbnail: Canberra-dto-open-house-thumb
+hero-image: /images/blog-content/Canberra-dto-open-house-content.jpg
+thumbnail: /images/blog-thumbnails/Canberra-dto-open-house-thumb.jpg
 searchexcerpt:  "We’re throwing open the doors of our Canberra office – come on in!" 
 ---
-
+![Paul Shetler presenting]({{site.url}}{{page.hero-image }})
 *Caption: Paul Shetler presenting to a crowd.*
 
 **We have filled all available spaces for our Open House. You are welcome to join the waitlist by clicking the link below. We'll let you know if space becomes available.**

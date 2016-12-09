@@ -4,14 +4,12 @@ title: Event - A Practical Approach to Accessibility in Service Design
 author: Jo Hill
 category: blog
 tag: dto-news
-hero-image: accessibility-in-service-design-blog
-hero-image-alt: Jo Hill presenting in front of a crowd at the DTO
-thumbnail: accessibility-in-service-design-thumbnail
+hero-image: /images/blog-content/accessibility-in-service-design-blog.jpg
+thumbnail: /images/blog-thumbnails/accessibility-in-service-design-thumbnail.jpg
 searchexcerpt:  
 ---
 
-![Jo presenting in front of a crowd at the DTO]({{site.url}}{{page.hero-image | asset_path }})
-
+![Jo presenting in front of a crowd at the DTO]({{site.url}}{{page.hero-image}})
 *Caption: Jo Hill presenting research findings.*
 
 The DTO is working with the Australian Public Service to transform government services to make them simpler, clearer and faster. Ensuring they are accessible to everyone who needs to use them is at the forefront of the service design process and a key requirement in the [Digital Service Standard](https://www.dto.gov.au/standard/).
