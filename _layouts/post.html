@@ -16,6 +16,10 @@ breadcrumb_type: post
     </p>
   </header>
 
+  <div class="abstract">
+    {{ page.searchexcerpt | markdownify }}
+  </div>
+
   <section class="post-body">
     {{ content }}
   </section>

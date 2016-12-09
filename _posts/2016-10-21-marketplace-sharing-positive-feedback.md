@@ -5,7 +5,6 @@ category: blog
 tags: [dto-news,marketplace,dta-news]
 hero-image: /images/blog-content/marketplace-laptop-hero.jpg
 thumbnail: /images/blog-thumbnails/marketplace-laptop-thumbnail.jpg
-searchexcerpt: "Sharing some positive feedback from early adopters of the Digital Marketplace."
 ---
 
 ![The Digital Marketplace shown on a laptop]({{site.url}}{{page.hero-image}})

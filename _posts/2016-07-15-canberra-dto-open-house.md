@@ -11,12 +11,6 @@ searchexcerpt:  "We’re throwing open the doors of our Canberra office – come
 ![Paul Shetler presenting]({{site.url}}{{page.hero-image }})
 *Caption: Paul Shetler presenting to a crowd.*
 
-<div class="abstract" markdown="1">
-
-We’re throwing open the doors of our Canberra office – come on in!
-
-</div>
-
 **We have filled all available spaces for our Open House. You are welcome to join the waitlist by clicking the link below. We'll let you know if space becomes available.**
 
 **Make sure you sign up for blog updates so you hear about our other events as soon as we announce them.**
