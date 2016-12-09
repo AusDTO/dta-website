@@ -4,8 +4,8 @@ title: Digital Service Standard goes live
 author: Jacqui van Teulingen
 category: blog
 tag: dto-news
-hero-image: standard-goes-live-content
-thumbnail: /images/blog-thumbnails/standard-goes-live-thumbnail.png
+hero-image: /images/blog-content/standard-goes-live-content.jpg
+thumbnail: /images/blog-thumbnails/standard-goes-live-thumbnail.jpg
 searchexcerpt: We have iterated the Digital Service Standard to make it clearer. Over the past year we've researched, validated, tested, iterated and assessed and we’re moving the Standard to its live stage. It’s what we think “good” looks like for digital services.
 ---
 
@@ -15,7 +15,7 @@ We have iterated the Digital Service Standard to make it clearer. Over the past 
 
 </div>
 
-![Photo of a transformation program team who are using the Standard]({{site.url}}{{page.hero-image | asset_path }})
+![Photo of a transformation program team who are using the Standard]({{site.url}}{{page.hero-image}})
 *Caption: One of the transformation program teams who are using the Standard*
 
 

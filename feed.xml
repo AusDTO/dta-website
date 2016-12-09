@@ -42,7 +42,7 @@ exclude_from_search: true
         <category>{{ tag | xml_escape }}</category>
         {% endfor %}
         {% if post.hero-image %}
-        <media:content url="{{ site.url }}{{ post.hero-image | asset_path }}" medium="image" />
+        <media:content url="{{ site.url }}{{ post.hero-image }}" medium="image" />
         {% endif %}
       </item>
     {% endfor %}

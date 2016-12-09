@@ -5,7 +5,7 @@ author: Robyn Prince Gillot
 author-excerpt: "Robyn Prince Gillot, is a researcher in the Digital Marketplace team, based in Sydney."
 category: blog
 tag: marketplace
-hero-image: marketplace-user-needs-content
+hero-image: /images/blog-content/marketplace-user-needs-content.jpg
 thumbnail: /images/blog-thumbnails/marketplace-user-needs-thumb.jpg
 searchexcerpt: "To make sure we understand user needs in the two months since the Digital Marketplace Beta was released we’ve had face-to-face meetings with government buyers and registered sellers. In response to their feedback, this is how we’ve iterated and improved the Marketplace."
 ---
@@ -16,7 +16,7 @@ To make sure [we understand user needs]({{ site.url }}/standard/) in the two mon
 
 </div>
 
-![The team standing in front of a card wall]({{site.url}}{{page.hero-image | asset_path }})
+![The team standing in front of a card wall]({{site.url}}{{page.hero-image}})
 
 ## We’ve made it easier for buyers to evaluate responses to briefs
 

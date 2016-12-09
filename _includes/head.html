@@ -25,12 +25,10 @@
   <link rel="canonical" href="{{ url }}">
   <meta property="og:url" content="{{ url }}" />
 
-{% if page.hero-image-alt %}
-  {% assign social-image-url = page.hero-image | asset_path | prepend: site.url %}
-{% elsif page.hero-image %}
+{% if page.hero-image %}
   {% assign social-image-url = page.hero-image | prepend: site.url %}
 {% else %}
-  {% assign social-image-url = 'dta-unfurl' | asset_path | prepend: site.url %}
+  {% assign social-image-url = '/image/dta-unfurl.png' | prepend: site.url %}
 {% endif %}
   <meta property="og:image" content="{{ social-image-url }}" />
   <meta name="twitter:image" content="{{ social-image-url }}" />

@@ -4,12 +4,12 @@ title: DTO turns one - Our story so far
 author: Paul Shetler
 category: blog
 tag: dto-news
-hero-image: dto-is-one-content
+hero-image: /images/blog-content/dto-is-one-content.png
 thumbnail: /images/blog-thumbnails/dto-is-one-thumbnail.png
 searchexcerpt:  Earlier this month DTO celebrated its first birthday, and what a journey it has been! Our CEO Paul Shetler looks back and takes us through the highlights and milestones of our first year.  
 ---
 
-![Digital Tranformation Office turns one year old]({{site.url}}{{page.hero-image | asset_path }})
+![Digital Tranformation Office turns one year old]({{site.url}}{{page.hero-image}})
 
 <div class="abstract" markdown="1">
 

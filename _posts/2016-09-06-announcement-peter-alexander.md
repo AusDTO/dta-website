@@ -4,12 +4,12 @@ title: Announcement of Peter Alexander as Chief Operating Officer at DTO
 author: Paul Shetler
 category: blog
 tag: dto-news
-thumbnail: /images/blog-thumbnails/peter-alexander-thumb.png
-hero-image: peter-alexander-content
+thumbnail: /images/blog-thumbnails/peter-alexander-thumb.jpg
+hero-image: /images/blog-content/peter-alexander-content.jpg
 searchexcerpt: Peter Alexander, the current Chief Information Officer at The Treasury, will soon be joining the Digital Transformation Office as our new Chief Operating Officer.
 ---
 
-![Photo of Peter Alexander]({{site.url}}{{page.hero-image | asset_path }})
+![Photo of Peter Alexander]({{site.url}}{{page.hero-image }})
 
 <div class="abstract" markdown="1">
 
