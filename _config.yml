@@ -55,13 +55,9 @@ assets:
     - "*.jpg"
     - "bundle.css"
   sources:
-    - _assets/img/posts
     - _assets/js/vendor
     - _assets/scss
     - _assets/vendor
-    - images/blog-content
-    - images/blog-thumbnails
-    - images/leadership-group
 
   cache: .asset-cache
   prefix: "/"
@@ -72,6 +68,12 @@ defaults:
       path: "" # empty string means all files
     values:
       layout: "default"
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: post
+
 
 # Config for http://prose.io editor.
 prose:

@@ -12,7 +12,7 @@ searchexcerpt: As more of our projects move through Discovery and beyond, we’r
 
 ![ ](https://www.dto.gov.au/images/blog-content/cognitive-biases-in-discovery.png)
 
-Leisa Reichelt, Head of Service Design at DTO, pointed out in her ['What is Discovery?'] (https://www.dto.gov.au/blog/what-is-discovery/) post that ‘the Discovery stage is one of the most important – but probably the least understood’ in our [four-stage service design and delivery process](https://www.dto.gov.au/standard/service-design-and-delivery-process/).
+Leisa Reichelt, Head of Service Design at DTO, pointed out in her ['What is Discovery?']({{site.url}}/blog/what-is-discovery/) post that ‘the Discovery stage is one of the most important – but probably the least understood’ in our [four-stage service design and delivery process]({{site.url}}/standard/service-design-and-delivery-process/).
  
 We know that Discovery is for discovering, not validating. This means we have to be authentic in our approach to learning through Discovery, not just look to have our existing ideas confirmed.
 

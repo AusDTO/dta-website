@@ -4,10 +4,11 @@ title: "How the BOM put users’ needs first"
 author: 'Jenny Hunter'
 category: blog
 tag: ''
-hero-image: bom-app-content
-hero-image-alt: "Screenshots of the Bureau of Meteorology Weather app"
-thumbnail: bom-app-thumb
+hero-image: /images/blog-content/bom-app-content.png
+thumbnail: /images/blog-thumbnails/bom-app-thumb.png
 ---
+
+![Screenshots of the Bureau of Meteorology Weather app]({{site.url}}{{page.hero-image}})
 
 **This is a guest post by Jenny Hunter, Head of Digital, Bureau of Meteorology.**
 
