@@ -3,7 +3,7 @@ layout: criteria
 criteria-number: 3
 title: Agile and user-centred process
 lede: Design and build the service using the service design and delivery process, taking an agile and user-centred approach.
-permalink: /standard/3-agile-and-user-centered/
+permalink: /standard/3-agile-and-user-centred/
 breadcrumb: 3. Agile and user-centred process
 ---
 ## Why it’s in the Standard
