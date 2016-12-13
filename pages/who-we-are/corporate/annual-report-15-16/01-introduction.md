@@ -6,9 +6,14 @@ localnav: annual-report-15-16
 ---
 ## 01 Introduction and overview
 
-* [Chief Executive Officer’s review](#chief-executive-officers-review)
-* [About this report](#about-this-report)
-* [Overview](#overview)
+<nav class="index-links">
+  <h2>In this section</h2>
+  <ul>
+    <li><a href="#chief-executive-officers-review">Chief Executive Officer’s review</a></li>
+    <li><a href="#about-this-report">About this report</a></li>
+    <li><a href="#overview">Overview</a></li>
+  </ul>
+</nav>
 
 ### Chief Executive Officer’s review
 
