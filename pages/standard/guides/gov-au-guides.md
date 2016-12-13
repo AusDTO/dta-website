@@ -46,7 +46,7 @@ If you would like to give feedback on the GOV.AU Guides, please join a DTA Commu
 
 **Service Design Government Community**: email [leisa.reichelt@digital.gov.au](mailto:leisa.reichelt@digital.gov.au) Head of Service Design and Professional Communities.
 
-**Content Design Government Community**: email [content@digital.gov.au](mailto:content@digital.gov.au) 
+**Content Design Government Community**: email [content@digital.gov.au](mailto:content@digital.gov.au). 
 
 Read a blog post about the [thinking behind the GOV.AU content style guide](/blog/walking-the-talk/).
 
