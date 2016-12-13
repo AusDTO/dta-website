@@ -5,7 +5,11 @@
     height: 130px;
   }
   &__logo {
-    background: url('images/logo_dta_inline.png');
+    background-image: url('images/logo_dta_inline.svg');
+
+    @include ie-lte(8) {
+      background-image: url('images/logo_dta_inline.png');
+    }
 
     background-size: 100%;
     background-repeat: no-repeat;
@@ -21,7 +25,8 @@
 
     @include media($mobile-only) {
       margin-bottom: 0;
-      width: 320px;
+      width: 100%;
+      max-width: 400px;
     }
 
     @include media($tablet) {
