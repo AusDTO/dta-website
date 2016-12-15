@@ -15,7 +15,7 @@ The roadmap will be more detailed as government agencies develop their plans to 
  
 A key feature of the roadmap is what the government expects the user experience to be in the future—that is digital services that are simpler, faster and easier to use.
  
-To highlight some improvements users could further expect, Minister for Human Services Alan Tudge released an “alpha” video for the myGov platform.
+To highlight some improvements users could further expect, Assistant Minister Taylor and Minister for Human Services Alan Tudge released an “alpha” video for the myGov platform.
  
 The changes will mean myGov will be easier to use on any device, will have a simpler design and will give users a guided experience so they can create and access their account.
  
