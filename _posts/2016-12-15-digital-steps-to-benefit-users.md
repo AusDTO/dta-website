@@ -31,7 +31,7 @@ The myGov changes, set to roll out next year, will build on the improvements mad
   <details open data-label="content-accordion-1-example" aria-expanded="false">
     <summary>Read transcript - 2:21 min</summary>
     <div class="accordion-panel" markdown="1">
-        
+    
 Narrator: myGov is used by millions of people to make accessing online government services convenient and now we're planning to make it even simpler clearer and faster to use.
 
 On screen: myGov is used by millions of people to access government services
@@ -40,15 +40,15 @@ On screen: myGov will be simpler, clearer and faster to use
 
 Narrator: we've engaged with existing and future users to identify and understand their needs and ways we can improve the myGov experience.
 
-On screen: we’ve listened to you feedback
+On screen: we've listened to you feedback
 
-On screen: “My mobile phone wasn’t working... I had to set up a new account.”
+On screen: "My mobile phone wasn't working... I had to set up a new account."
 
-On screen: “People forget their passwords, the reset process is annoying.”
+On screen: "People forget their passwords, the reset process is annoying."
 
-On screen: “It’s very complex. My biggest problem is logging in…”
+On screen: "It's very complex. My biggest problem is logging in..."
 
-On screen: “It’s frustrating - you have to get a code and come back.”
+On screen: "It's frustrating - you have to get a code and come back."
 
 Narrator: we're making changes so it will be easier to use with a simpler design and will give users a guided experience to create and access their account.
 
@@ -64,17 +64,17 @@ On screen: we tested the mobile experience with users
 
 Narrator: research has shown that the new prototype site is much easier to navigate on a phone so we'll give users a number of options to quickly log into their account on mobile devices.
 
-	On screen: “This is good. Looks simple.”
-	
-	On screen: “It can be overwhelming and this is not.”
-	
-	On screen: “That was easy. There’s not much to sidetrack me.”
-	
-	On screen: “straightforwardstraight forward… Pretty self-explanatory.”
-	
-	On screen: we will introduce more flexible log in options
-	
-	On screen: Typing in email on Alpha prototype (mobile)
+On screen: "This is good. Looks simple."
+
+On screen: "It can be overwhelming and this is not."
+
+On screen: "That was easy. There's not much to sidetrack me."
+
+On screen: "straightforward... Pretty self-explanatory."
+
+On screen: we will introduce more flexible log in options
+
+On screen: Typing in email on Alpha prototype (mobile)
 	
 Narrator: they'll be some two-step authentication options to ensure myGov remains highly secure and gives users the flexibility to choose which option best meets their needs.
 
@@ -92,11 +92,11 @@ On screen: what comes next / shows mobile with question mark
 
 On screen: giving users greater control over personal details
 
-Scrolling on myGov Alpha prototype Activity centre (mobile) / inputting address details, checking ‘same as residential address’ and clicking update / shows personal details have been updated (mobile)
+Scrolling on myGov Alpha prototype Activity centre (mobile) / inputting address details, checking 'same as residential address' and clicking update / shows personal details have been updated (mobile)
 
 On screen: giving users the control over how government communicates with them
 
-Clicks ‘Account settings’ / changes Notification preferences and updates (mobile)
+Clicks 'Account settings' / changes Notification preferences and updates (mobile)
 
 Narrator: these changes to myGov will make accessing government services simpler clearer and faster.
 
