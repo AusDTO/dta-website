@@ -1,7 +1,9 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  {% unless page.layout == 'fullscreen' %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% endunless %}
   <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/images/icons/favicon.ico">
   <meta name="creator" content="Digital Transformation Agency">
   <meta name="type" content="Text">

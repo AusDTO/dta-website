@@ -21,6 +21,13 @@
   margin-bottom: $base-spacing;
   padding-bottom: $base-spacing;
   border-bottom: 1px dotted $border-colour;
+  .youtube-embed {
+    width: 100%;
+    details {
+      margin: $base-spacing 0 $large-spacing;
+      background: $non-white;
+    }
+  }
 }
 
 .post-author-bio {

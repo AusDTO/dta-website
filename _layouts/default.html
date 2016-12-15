@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-<article  id="content" class="content-main">
+<article  id="content" class="content-main {%if page.gov-speak%}gov-speak{%endif%}">
   {% if page.phase %}
     {% assign phase = page.phase %}
   {% elsif layout.phase %}

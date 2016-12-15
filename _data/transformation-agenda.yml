@@ -1,0 +1,43 @@
+beneficiaries:
+- name: people, businesses and organisations
+  experiences:
+  - name: Life event personalisation
+    text: "‘I can navigate content based on my life events with pre-qualification to take part in programmes based on my circumstances’"
+  - name: Push communications
+    text: "‘I receive targeted communications about new programs or when moving to a new stage in my life’"
+  - name: Discoverable, joined-up services
+    text: "‘Services and transactions I use are increasingly joined up across agencies and tier of government, and I’m shown online what I need to know to use them’"
+  - name: Multi-channel support
+    text: "‘It is easy to interact with government across channels (e.g. phone, website) and I can access support as I need it’"
+  - name: Pre-population
+    text: "‘I can use a government identity to pre-fill online forms or remove the need for them entirely’"
+  - name: Robust, safe and secure
+    text: "‘The digital systems I interact with are robust and my information is safe and secure’"
+  - name: Preferred channel enabled
+    text: "‘I can use my preferred channels when dealing with government’"
+  - name: Tell us once
+    text: "‘When I update government about my information or circumstances, I can securely tell the whole of government, not just one agency’"
+  - name: 3rd party service/data integration
+    text: "‘I can use natural systems like smartphone applications and business software to transact with government’"
+  - name: Open and extensible services
+    text: "‘I can choose to use a government service directly or go to a third party provider who better meets my needs’"
+  - name: Streamlined authentication
+    text: "‘I can have a single identity with government, including a credential that I can use to transact securely. I can also seek authority to act on behalf of a business’"
+- name: public servants
+  experiences:
+  - name: Skills and technology
+    text: "‘I have the right skills and technology to feel confident to do my job well’"
+  - name: Streamline and automate manual processes
+    text: "‘I spend more of my time helping those who need the most support’"
+- name: government
+  experiences:
+  - name: Efficient and trustworthy
+    text: "‘I can deliver services more quickly for less cost and at lower risk’"
+  - name: Transparent performance
+    text: "‘There is increased policy/delivery flexibility and it is easier to measure and respond to the performance of government policy and service delivery’"
+- name: taxpayers
+  experiences:
+  - name: Effective
+    text: "‘I am achieving higher rates of compliance’"
+  - name: Value for money
+    text: "‘I can see government delivering better services at lower cost’"
