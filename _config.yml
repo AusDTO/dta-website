@@ -58,6 +58,7 @@ assets:
     - _assets/js/vendor
     - _assets/scss
     - _assets/vendor
+    - images/transformation-agenda
 
   cache: .asset-cache
   prefix: "/"
