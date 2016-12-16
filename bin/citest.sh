@@ -26,6 +26,7 @@ bundle exec htmlproofer _site  \
     --file-ignore /.*feed/index\.html/ \
     --empty-alt-ignore
 
+# CI should have already started a webserver in the background for pa11y to test against, but it might not be ready yet
 echo "Waiting for webserver to start..."
 COUNT=0
 until $(curl --output /dev/null --silent --head --fail http://localhost:4000); do
@@ -39,5 +40,5 @@ until $(curl --output /dev/null --silent --head --fail http://localhost:4000); d
 done
 echo "Webserver has started"
 
-#Run pa11y accessibility tests against the local running copy
+# Run pa11y accessibility tests
 node_modules/.bin/pa11y-ci --sitemap http://localhost:4000/pa11y-sitemap.xml

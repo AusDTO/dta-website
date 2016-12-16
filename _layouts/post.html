@@ -36,12 +36,11 @@ breadcrumb_type: post
 
   {% include social-links.html %}
 
+  {% if blog %}
   <section class="post-moderation-policy">
     <h2>Want to join the conversation?</h2>
     <a href="/blog/blog-moderation-guidelines/">Read our comment moderation guidelines</a>
   </section>
-
-  {% if blog %}
   <section id="disqus_thread">
     {% javascript disqus-init %}
     <noscript>Please enable JavaScript to view the comments</noscript>
