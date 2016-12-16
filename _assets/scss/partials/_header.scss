@@ -1,4 +1,10 @@
-
+.lt-ie9 {
+  .page-header {
+    &__logo {
+      background-image: url('images/logo_dta_inline.png');
+    }
+  }
+}
 .page-header {
   a.logo {
     width: 523px;
@@ -6,11 +12,6 @@
   }
   &__logo {
     background-image: url('images/logo_dta_inline.svg');
-
-    @include ie-lte(8) {
-      background-image: url('images/logo_dta_inline.png');
-    }
-
     background-size: 100%;
     background-repeat: no-repeat;
     width: 523px;
