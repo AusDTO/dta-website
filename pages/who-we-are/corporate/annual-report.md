@@ -17,7 +17,6 @@ The report was drafted in line with the Public Governance, Performance and Accou
 Please find below a full HTML version of the Digital Transformation Office 2015-16. If you are having trouble accessing the content of this publication please contact [web.team@digital.gov.au](mailto:web.team@digital.gov.au)
 </p>
 
-- [Contents](/who-we-are/corporate/annual-report/annual-report-2015-16/contents/) 
 - [Cover and Letter of Trasmittal](/who-we-are/corporate/annual-report/annual-report-2015-16/cover-letter/)
 - [Introduction and overview](/who-we-are/corporate/annual-report/annual-report-2015-16/1-introduction/)
 - [Report on program performance](/who-we-are/corporate/annual-report/annual-report-2015-16/2-program-performance/)
