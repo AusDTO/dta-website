@@ -6,15 +6,20 @@ localnav: annual-report-15-16
 ---
 ## Report on organisational performance
 
-- [Corporate governance](#corporate-governance)
-- [External scrutiny](#external-scrutiny)
-- [Freedom of information](#freedom-of-information)
-- [Management of human resources](#management-of-human-resources)
-- [Work health and safety](#work-health-and-safety)
-- [Purchasing and procurement](#purchasing-and-procurement)
-- [Consultancies](#consultancies)
-- [Advertising and market research](#advertising-and-market-research)
-- [Environmental performance](#environmental-performance)
+<nav class="index-links">
+  <h3>On this page</h3>
+  <ul>
+    <li><a href="#corporate-governance">Corporate governance</a></li>
+    <li><a href="#external-scrutiny">External scrutiny</a></li>
+    <li><a href="#freedom-of-information">Freedom of information</a></li> 
+    <li><a href="#management-of-human-resources">Management of human resources</a></li>
+    <li><a href="#work-health-and-safety">Work health and safety</a></li>
+    <li><a href="#annual-performance-statements">Purchasing and procurement</a></li>
+    <li><a href="#consultancies">Consultancies</a></li>
+     <li><a href="#advertising-and-market-research">Advertising and market research</a></li>
+    <li><a href="#environmental-performance">Environmental performance</a></li>
+    </ul>
+</nav>
 
 ### Corporate governance
 
