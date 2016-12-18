@@ -6,8 +6,13 @@ localnav: annual-report-15-16
 ---
 Report on program performance
 
-- [Annual performance statements](#annual-performance-statements)
-- [Report on financial performance](#report-on-financial-performance)
+<nav class="index-links">
+  <h3>On this page</h3>
+  <ul>
+    <li><a href="#annual-performance-statements">Annual performance statements</a></li>
+    <li><a href="#report-on-financial-performance">Report on financial performance</a></li>
+    </ul>
+</nav>
 
 ## Annual performance statements
 
