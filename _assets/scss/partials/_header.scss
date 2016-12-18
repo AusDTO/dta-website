@@ -1,12 +1,17 @@
-
+.lt-ie9 {
+  .page-header {
+    &__logo {
+      background-image: url('images/logo_dta_inline.png');
+    }
+  }
+}
 .page-header {
   a.logo {
     width: 523px;
     height: 130px;
   }
   &__logo {
-    background: url('images/logo_dta_inline.png');
-
+    background-image: url('images/logo_dta_inline.svg');
     background-size: 100%;
     background-repeat: no-repeat;
     width: 523px;
@@ -21,7 +26,8 @@
 
     @include media($mobile-only) {
       margin-bottom: 0;
-      width: 320px;
+      width: 100%;
+      max-width: 400px;
     }
 
     @include media($tablet) {
