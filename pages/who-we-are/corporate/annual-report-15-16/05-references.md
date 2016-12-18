@@ -6,8 +6,13 @@ localnav: annual-report-15-16
 ---
 ## References
 
-- [Glossary and abbreviations list](#glossary)
-- [List of requirements](#requirements)
+<nav class="index-links">
+  <h3>On this page</h3>
+  <ul>
+    <li><a href="#glossary">Glossary and abbreviations list</a></li>
+    <li><a href="#requirements">List of requirements</a></li>
+    </ul>
+</nav>
 
 ### <a id="glossary" name="glossary"></a>Glossary and abbreviations list
 
