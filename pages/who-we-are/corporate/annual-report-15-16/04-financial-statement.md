@@ -6,13 +6,18 @@ localnav: annual-report-15-16
 ---
 ## Financial statements
 
-- [Independent auditor’s report](#independent-auditors-report)
-- [Statement by the Chief Executive Officer and Chief Financial Officer](#statement-by-the-chief-executive-officer-and-chief-financial-officer)
-- [Statement of comprehensive income](#statement-of-comprehensive-income)
-- [Statement of financial position](#statement-of-financial-position)
-- [Statement of changes in equity](#statement-of-changes-in-equity)
-- [Cash flow statement](#cash-flow-statement)
-- [Notes to and forming part of the financial statements](#notes-to-and-forming-part-of-the-financial-statements)
+<nav class="index-links">
+  <h3>On this page</h3>
+  <ul>
+    <li><a href="#independent-auditors-report">Independent auditor’s report</a></li>
+    <li><a href="#statement-by-the-chief-executive-officer-and-chief-financial-officer">Statement by the Chief Executive Officer and Chief Financial Officer</a></li>
+    <li><a href="#statement-of-comprehensive-income">Statement of comprehensive income</a></li> 
+    <li><a href="#statement-of-financial-position">Statement of financial position</a></li>
+    <li><a href="#statement-of-changes-in-equity">Statement of changes in equity</a></li>
+    <li><a href="#cash-flow-statement">Cash flow statement</a></li>
+    <li><a href="#notes-to-and-forming-part-of-the-financial-statements">Notes to and forming part of the financial statements</a></li>
+    </ul>
+</nav>
 
 ### Digital Transformation Office
 ### Independent auditor’s report
