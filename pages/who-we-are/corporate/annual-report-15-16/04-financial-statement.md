@@ -1,7 +1,7 @@
 ---
-layout: basic
+layout: annual-report
 title: "Annual Report 2015-16"
-permalink: /who-we-are/corporate/annual-report/annual-report-2015-16/4-financial-statements/
+permalink: /who-we-are/corporate/annual-report/2015-16/4-financial-statements/
 localnav: annualreport-15-16
 ---
 ## Financial statements

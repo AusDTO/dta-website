@@ -1,7 +1,7 @@
 ---
-layout: basic
+layout: annual-report
 title: "Annual Report 2015-16"
-permalink: /who-we-are/corporate/annual-report/annual-report-2015-16/references/
+permalink: /who-we-are/corporate/annual-report/2015-16/references/
 localnav: annualreport-15-16
 ---
 ## References
