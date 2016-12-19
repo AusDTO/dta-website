@@ -1,6 +1,7 @@
 ---
 layout: base
-header_border: true
+breadcrumb: "Tags"
+searchexcerpt: "Browse our posts by topic"
 ---
 
 <article  id="content" class="content-main">
@@ -8,11 +9,13 @@ header_border: true
 {% if page.url == "/tags/" %}
   <h1>Tags</h1>
 
-  <p>Click through to read our posts about the following topics:</p>
+  <p>Browse our posts by topics:</p>
 
   <div>
 
     <h1>{{ page.title }}</h1>
+
+    <ul class="list-small">
 
     {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
     <!-- {% assign tag_words = site_tags | split:',' | sort %} -->
@@ -34,30 +37,31 @@ header_border: true
 
     {% endcapture %}
 
-    <p>
-      <a href="{{ site.baseurl }}/tags/{{tag | slugify }}/" >{{tag}}</a>
-      — {{count}}
-    </p>
+    {% unless tag == '' %}
 
+
+      <li><a href="{{ site.baseurl }}/tags/{{tag | slugify }}/" >{{tag}}</a></li>
+
+
+    {% endunless %}
 
     <!-- <p> {{ tag | size }} </p> -->
 
-
-
     {% endfor %}
+    </ul>
 
   </div>
 
 {% else %}
 
   {% assign numberof = page.posts | size %}
-  <h1>{{ numberof }} {% if numberof == 1 %}post{% else %}posts{% endif %} tagged {{ page.title }}</h1>
+  <h1>{{ numberof }} {% if numberof == 1 %}post{% else %}posts{% endif %} tagged '{{ page.title }}'</h1>
 
   <ul class="list-horizontal">
 
     {% for post in page.posts %}
     <li>
-      {% include post-list-item.html show-tags=true%}
+      {% include post-list-item.html %}
     </li>
     {% endfor %}
 
