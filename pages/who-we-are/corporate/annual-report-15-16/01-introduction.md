@@ -4,7 +4,7 @@ title: "Annual Report 2015-16"
 permalink: /who-we-are/corporate/annual-report/annual-report-2015-16/1-introduction/
 localnav: annualreport-15-16
 ---
-## 01 Introduction and overview
+## Introduction and overview
 
 <nav class="index-links">
   <h3>On this page</h3>
