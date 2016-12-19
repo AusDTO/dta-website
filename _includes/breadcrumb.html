@@ -26,7 +26,7 @@
         <li>{{ page.title}}</li>
 
 {% elsif page.layout == 'tag-archive' %}
-        <li><a href="{{ site.tag_dir }}/">Tags</a></li>
+        <li><a href="/{{ site.tag_dir }}/">Tags</a></li>
         {% unless page.url == "/{{site.tag_dir}}/}} %}
         <li>{{ page.title}}</li>
         {% endunless %}
