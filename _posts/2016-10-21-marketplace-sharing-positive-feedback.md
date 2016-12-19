@@ -2,7 +2,7 @@
 title: "Digital Marketplace: Sharing positive feedback from early adopters"
 author: Steven Berends
 category: blog
-tags: [dto-news,marketplace,dta-news]
+tags: [marketplace]
 hero-image: /images/blog-content/marketplace-laptop-hero.jpg
 thumbnail: /images/blog-thumbnails/marketplace-laptop-thumbnail.jpg
 ---
