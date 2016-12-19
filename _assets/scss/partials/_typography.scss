@@ -1,0 +1,11 @@
+
+// This should be fixed in ui-kit
+.gov-speak {
+  .index-links {
+    h2,
+    h3 {
+      font-size: rem(17);
+      font-weight: $base-font-weight;
+    }
+  }
+}
