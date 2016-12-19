@@ -15,27 +15,23 @@
   {% endcapture %}
 {% endif %}
 
-{% if lis %}
-
 <div class="global-breadcrumb">
   <nav class="breadcrumbs" aria-label="breadcrumb">
     <div class="wrapper">
       <ul>
         <li><a href="{{ site.baseurl }}/">Home</a></li>
+
+{% if lis %}
         {{ lis }}
         <li>{{ page.title}}</li>
-      </ul>
 
-    </div>
-  </nav>
-</div>
+{% elsif page.layout == 'tag-archive' %}
+        <li><a href="{{ site.tag_dir }}/">Tags</a></li>
+        {% unless page.url == "/{{site.tag_dir}}/}} %}
+        <li>{{ page.title}}</li>
+        {% endunless %}
+
 {% elsif page.breadcrumb_type == !nil and page.author == !nil %}
-<div class="global-breadcrumb">
-  <nav class="breadcrumbs" aria-label="breadcrumb">
-    <div class="wrapper">
-      <ul>
-
-        <li><a href="{{ site.baseurl }}/">Home</a></li>
   {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %}
   {% assign splitted_url_parts = page_url_without_index_html | split: '/' %}
 
@@ -75,8 +71,9 @@
     {% assign label = page.breadcrumb %}
   {% endif %}
         <li>{{ label }}</li>
+{% endif %}
+
       </ul>
     </div>
   </nav>
 </div>
-{% endif %}
