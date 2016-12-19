@@ -36,17 +36,23 @@ permalink: /blog/
 
   <a class="see-more" href="/blog/all-posts/">See all blog posts</a>
 
-  <h2>Blogs</h2>
+  <h2>Tags</h2>
+
+  {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+  {% assign tag_words = site_tags | split:',' | sort %}
+
   <ul class="list-small">
+  {% for tag in tag_words %}
+    {% unless tag == '' %}
     <li>
-      <a href="/blog/gov-au/">GOV.AU blog</a>
-      <p>Read the latest news about the development of the GOV.AU project.</p>
+      <a href="{{ site.baseurl }}/tags/{{tag | slugify }}/" >{{tag}}</a>
+
     </li>
-    <li>
-      <a href="/blog/dto-news/">Archived DTO News</a>
-      <p>Read archived news from the Digital Transformation Office.</p>
-    </li>
+    {%endunless%}
+    {% endfor %}
   </ul>
+
+
 
 </article>
 
