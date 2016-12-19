@@ -14,7 +14,7 @@ localnav: annualreport-15-16
     <li><a href="#freedom-of-information">Freedom of information</a></li> 
     <li><a href="#management-of-human-resources">Management of human resources</a></li>
     <li><a href="#work-health-and-safety">Work health and safety</a></li>
-    <li><a href="#annual-performance-statements">Purchasing and procurement</a></li>
+    <li><a href="#purchasing-and-procurement">Purchasing and procurement</a></li>
     <li><a href="#consultancies">Consultancies</a></li>
      <li><a href="#advertising-and-market-research">Advertising and market research</a></li>
     <li><a href="#environmental-performance">Environmental performance</a></li>
