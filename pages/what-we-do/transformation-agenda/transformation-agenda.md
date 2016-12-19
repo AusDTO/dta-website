@@ -165,13 +165,11 @@ Having problems seeing this image? [Open larger roadmap image](/what-we-do/trans
         </h3>
         <div class="meta">
           <time datetime="{{ post.date }}">{{ post.date | date: "%-d %b %Y" }}</time>
-          <span class="tags">
-            {% if post.category contains "blog" %}
-            <a href="/blog/">Blog</a>
-            {% else %}
-            <a href="/news/">News</a>
-            {% endif %}
-          </span>
+          {% if post.category contains "blog" %}
+          <a href="/blog/">Blog</a>
+          {% else %}
+          <a href="/news/">News</a>
+          {% endif %}
         </div>
       </article>
   </li>
