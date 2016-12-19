@@ -3,3 +3,23 @@ layout: basic
 gov-speak: true
 ---
 {{ content }}
+
+<div class="document-progress">
+  {% if page.doc-nav.previous %}
+  <ul>
+    <li class="previous">
+      <a href="{{ page.doc-nav.previous.href}}">
+        <strong>Back</strong>
+        {{page.doc-nav.previous.title}}
+      </a>
+    </li>
+    {% endif %}
+    {% if page.doc-nav.next %}
+    <li class="next">
+      <a href="{{page.doc-nav.next.href}}">
+        <strong>Next</strong>
+        {{page.doc-nav.next.title}}
+      </a>
+    </li>
+    {% endif %}
+</div>
