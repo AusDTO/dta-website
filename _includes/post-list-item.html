@@ -26,7 +26,6 @@
 {% else %}
   <p>{{ post.content | strip_html | truncatewords:50}}</p>
 {% endif %}
-{% if include.show-tags %}
   <footer class="tags">
     <dl>
       <dt>Tags:</dt>
@@ -35,5 +34,5 @@
       {% endfor %}
     </dl>
   </footer>
-{% endif %}
+
 </article>
