@@ -48,9 +48,9 @@ The production branch is `master` which is continuously deployed by circleCI to 
 
 When starting a new change, branch from `develop`.
 
-Each branch will be deployed by circleCI to a temporary staging site at https://dta-website-branchname.apps.staging.digital.gov.au/. As long as the circleCI tests are passing, this staging site will be kept up to date with all commits to the branch.
+If needed a branch can be continuously deployed by circleCI to a staging site at https://dta-website-<branchname>.apps.staging.digital.gov.au/. As long as the circleCI tests are passing, this staging site will be kept up to date with all commits to the branch.
 
-circleCI will not yet automatically clean up temporary staging sites, so you must manually do this with `cf delete <dta-website-branchname>`.
+To enable continuously deploying a branch, add the branch name to `DEPLOY_BRANCHES` in `bin/cideploy.sh`. When you are finished you should remove the branch from `DEPLOY_BRANCHES` and delete the app by running `cf delete dta-website-<branchname>`.
 
 When your change is ready, submit a PR to the `develop` branch. After the PR is merged, it will be deployed to [staging](https://dta.apps.staging.digital.gov.au/).
 
