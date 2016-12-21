@@ -15,7 +15,6 @@ Sound like you? We'd love to hear from you.
 
 [Before you apply](/who-we-are/corporate/jobs/job-information-pack/)
 
-There are no positions currently available.
 
 
 <div class="recruitment-form">
