@@ -2,24 +2,23 @@
 layout: basic
 gov-speak: true
 ---
+
 {{ content }}
 
-<div class="document-progress">
-  {% if page.doc-nav.previous %}
+{% if page.doc-nav.previous or page.doc-nav.next%}
+<div class="annual-report-progress">
   <ul>
+    {% if page.doc-nav.previous %}
     <li class="previous">
-      <a href="{{ page.doc-nav.previous.href}}">
-        <strong>Back</strong>
-        {{page.doc-nav.previous.title}}
-      </a>
+      <div><a href="{{ page.doc-nav.previous.href}}">Previous page</a></div>
+      <div><a href="{{ page.doc-nav.previous.href}}">{{page.doc-nav.previous.title}}</a></div>
     </li>
     {% endif %}
     {% if page.doc-nav.next %}
     <li class="next">
-      <a href="{{page.doc-nav.next.href}}">
-        <strong>Next</strong>
-        {{page.doc-nav.next.title}}
-      </a>
+      <div><a href="{{page.doc-nav.next.href}}">Next page</a></div>
+      <div><a href="{{page.doc-nav.next.href}}">{{page.doc-nav.next.title}}</a></div>
     </li>
     {% endif %}
 </div>
+{% endif %}

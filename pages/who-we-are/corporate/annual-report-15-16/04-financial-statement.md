@@ -4,6 +4,13 @@ title: "Annual Report 2015-16"
 breadcrumb: Financial statements
 permalink: /who-we-are/corporate/annual-report/2015-16/4-financial-statements/
 localnav: annual-report-2015-16
+doc-nav:
+  previous:
+    title: Report on organisational performance
+    href: /who-we-are/corporate/annual-report/2015-16/3-organisational-performance/
+  next:
+    title: References
+    href: /who-we-are/corporate/annual-report/2015-16/references/
 ---
 ## Financial statements
 

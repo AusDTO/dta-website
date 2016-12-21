@@ -4,6 +4,14 @@ title: "Annual Report 2015-16"
 breadcrumb: Report on organisational performance
 permalink: /who-we-are/corporate/annual-report/2015-16/3-organisational-performance/
 localnav: annual-report-2015-16
+doc-nav:
+  previous:
+    title: Report on program performance
+    href: /who-we-are/corporate/annual-report/2015-16/2-program-performance/
+  next:
+    title: Financial statements
+    href: /who-we-are/corporate/annual-report/2015-16/4-financial-statements/
+    
 ---
 ## Report on organisational performance
 
