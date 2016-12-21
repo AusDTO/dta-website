@@ -15,7 +15,7 @@ Sound like you? We'd love to hear from you.
 
 There are no positions currently available.
 
-[Register your interest in working at the DTA](/who-we-are/corporate/jobs/#op-77880-id-like-to-work-at-the-dta)
+[Register your interest in working at the DTA](https://ausdta.recruiterbox.com/jobs/fk0hrnw)
 
 [Before you apply](/who-we-are/corporate/jobs/job-information-pack/)
 
