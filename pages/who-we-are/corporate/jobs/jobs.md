@@ -9,15 +9,7 @@ searchexcerpt: We are always on the lookout for talented developers, user resear
 ---
 We’re making Australian Government services simpler, clearer and faster. Making life a little easier for a huge number of Australians, every day.
 
-And we need smart, capable and dedicated people to help us do it. 
-
-Sound like you? We'd love to hear from you.
-
-There are no positions currently available.
-
-[Register your interest in working at the DTA](/who-we-are/corporate/jobs/#op-77880-id-like-to-work-at-the-dta)
-
-[Before you apply](/who-we-are/corporate/jobs/job-information-pack/)
+And we need smart, capable and dedicated people to help us do it. We have put together [some information](/who-we-are/corporate/jobs/job-information-pack/) to assist you in applying for vacancies with us.
 
 <div class="recruitment-form">
 
