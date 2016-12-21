@@ -16,6 +16,16 @@ Sound like you? We'd love to hear from you.
 [Before you apply](/who-we-are/corporate/jobs/before-you-apply/)
 
 
+## Available position
+
+### Chief Executive Officer
+
+This is an exceptional opportunity for a leader who understands the potential of digital technology and can translate it to practical application in the complex environment of government service delivery. You will lead a team of highly talented people with specialist skills in digital and ICT, agile methodologies and user-centred design.
+
+[Job Description](https://www.apsjobs.gov.au/SearchedNoticesView.aspx?Notices=10698679%3a1&mn=SES)
+
+For further information including the selection criteria, contact Watermark Search International on (02) 9233 1200. Applications addressing the selection criteria and quoting Ref. No 68161 should be forwarded to: search@watermarksearch.com.au by 15 January 2017. 
+
 
 <div class="recruitment-form">
 
