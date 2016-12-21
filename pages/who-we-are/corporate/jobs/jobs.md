@@ -23,7 +23,7 @@ This is an exceptional opportunity for a leader who understands the potential of
 
 [Job description](https://www.apsjobs.gov.au/SearchedNoticesView.aspx?Notices=10698679%3a1&mn=SES)
 
-For further information including the selection criteria, contact Watermark Search International on (02) 9233 1200. Applications addressing the selection criteria and quoting Ref. No 68161 should be forwarded to: search@watermarksearch.com.au by 15 January 2017. 
+For further information including the selection criteria, contact Watermark Search International on (02) 9233 1200. Applications addressing the selection criteria and quoting Ref. No 68161 should be forwarded to: [search@watermarksearch.com.au](mailto:search@marketsearch.com.au) by 15 January 2017. 
 
 
 <div class="recruitment-form">
