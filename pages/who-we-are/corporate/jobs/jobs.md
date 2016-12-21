@@ -9,7 +9,13 @@ searchexcerpt: We are always on the lookout for talented developers, user resear
 ---
 We’re making Australian Government services simpler, clearer and faster. Making life a little easier for a huge number of Australians, every day.
 
-And we need smart, capable and dedicated people to help us do it. We have put together [some information](/who-we-are/corporate/jobs/job-information-pack/) to assist you in applying for vacancies with us.
+And we need smart, capable and dedicated people to help us do it. 
+
+Sound like you? We'd love to hear from you.
+
+[Before you apply](/who-we-are/corporate/jobs/before-you-apply/)
+
+
 
 <div class="recruitment-form">
 
