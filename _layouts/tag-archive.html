@@ -44,7 +44,9 @@ searchexcerpt: "Browse our posts by topic"
 
   {% assign numberof = page.posts | size %}
   <h1>{{ numberof }} {% if numberof == 1 %}post{% else %}posts{% endif %} tagged '{{ page.title }}'</h1>
-
+  {% if page.title == "dto-news" %}
+  <p>Archived news from the Digital Transformation Office.</p>
+  {% endif %}
   <ul class="list-horizontal">
 
     {% for post in page.posts %}
