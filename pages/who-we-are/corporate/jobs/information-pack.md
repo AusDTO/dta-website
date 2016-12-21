@@ -3,7 +3,7 @@ layout: basic
 title: Before you apply
 permalink: /who-we-are/corporate/jobs/before-you-apply/
 redirect_from:
-  - /job-information-pack/
+  -  /who-we-are/corporate/jobs/job-information-pack/
 searchexcerpt: We have put together some information to assist you in applying for vacancies with us as developers, user researchers, digital leaders and designers.
 ---
 
