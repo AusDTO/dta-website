@@ -13,7 +13,7 @@ And we need smart, capable and dedicated people to help us do it.
 
 Sound like you? We'd love to hear from you.
 
-[Before you apply](/who-we-are/corporate/jobs/job-information-pack/)
+[Before you apply](/who-we-are/corporate/jobs/before-you-apply/)
 
 
 
