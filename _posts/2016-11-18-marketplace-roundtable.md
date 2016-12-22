@@ -4,7 +4,7 @@ title: "Digital Marketplace: sharing ideas at the roundtable"
 author: Steven Berends
 author-excerpt: "Steven Berends is the Digital Marketplace content designer, based in Sydney."
 category: blog
-tag: marketplace
+tag: "digital marketplace"
 hero-image: /images/blog-content/mp-roundtable-image06.jpg
 thumbnail: /images/blog-thumbnails/mp-roundtable-thumb.jpg
 ---
