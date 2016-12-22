@@ -2,13 +2,6 @@
   {% capture lis%}
   {% if page.category contains 'blog' %}
 <li><a href="/blog/">Blog</a></li>
-    {% if page.tags %}
-      {% if page.tags[0] == 'gov.au' %}
-<li><a href="/blog/gov-au/">GOV.AU Blog</a></li>
-      {% elsif page.tags[0] == 'dto-news' %}
-<li><a href="/blog/dto-news/">DTO News</a></li>
-      {% endif %}
-    {% endif %}
   {% else %}
 <li><a href="/news/">News</a></li>
   {% endif %}
