@@ -143,7 +143,7 @@ Having problems seeing this image? [Open larger roadmap image](/what-we-do/trans
 {% assign news = site.empty-array %}
 {% for post in site.posts %}
   {% if post.categories contains 'news' %}
-    {% if post.tags contains 'transformation' %}
+    {% if post.tags contains 'digital transformation' %}
       {% assign news = news | push: post %}
     {% endif %}
   {% endif %}
