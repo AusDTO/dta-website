@@ -13,6 +13,7 @@ breadcrumb_type: post
     <h1 class="post-title">{{ page.title }}</h1>
     <div class="post-meta">
       <p>{% if blog %}{{ page.author }} &mdash; {% endif %}{{ page.date | date: "%b %-d, %Y" }}</p>
+      {% if page.tags.size > 0 %}
       <div class="tags">
         <dl>
           <dt>Tags:</dt>
@@ -23,6 +24,7 @@ breadcrumb_type: post
           {% endfor %}
         </dl>
       </div>
+      {% endif %}
     </div>
   </header>
 
