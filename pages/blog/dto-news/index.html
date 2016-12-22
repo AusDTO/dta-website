@@ -1,17 +1,4 @@
 ---
-layout: basic
-title: DTO News
-lede: Archived news from the Digital Transformation Office.
-searchexcerpt: Archived news from the Digital Transformation Office.
-permalink: /blog/dto-news/
+redirect_to: "/tags/dto-news"
 ---
 
-<ul class="list-horizontal">
-  {% for post in site.categories['blog'] %}
-    {% if post.tags contains 'dto-news' %}
-  <li>
-      {% include post-list-item.html %}
-  </li>
-    {% endif %}
-  {% endfor %}
-</ul>

@@ -1,15 +1,4 @@
 ---
-layout: basic
-title: GOV.AU Blog
-permalink: /blog/gov-au/
+redirect_to: "/tags/gov-au/"
 ---
-<ul class="list-horizontal">
-  {% for post in site.categories['blog'] %}
-    {% if post.tags contains 'gov.au'  %}
-  <li>
-      {% include post-list-item.html %}
-  </li>
-    {% endif %}
-  {% endfor %}
-</ul>
 
