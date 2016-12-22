@@ -26,6 +26,7 @@
 {% else %}
   <p>{{ post.content | strip_html | truncatewords:50}}</p>
 {% endif %}
+{% if post.tags.size > 0 %}
   <footer class="tags">
     <dl>
       <dt>Tags:</dt>
@@ -36,4 +37,5 @@
       {% endfor %}
     </dl>
   </footer>
+{% endif %}
 </article>
