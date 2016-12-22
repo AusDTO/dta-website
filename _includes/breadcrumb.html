@@ -18,14 +18,6 @@
         {{ lis }}
         <li>{{ page.title}}</li>
 
-{% elsif page.layout == 'tag-archive' %}
-        {% if page.url == "/tags/" %}
-        <li>Tags</li>
-        {% else %}
-        <li><a href="/{{ site.tag_dir }}/">Tags</a></li>
-        <li>{{ page.title}}</li>
-        {% endif %}
-
 {% elsif page.breadcrumb_type == !nil and page.author == !nil %}
   {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %}
   {% assign splitted_url_parts = page_url_without_index_html | split: '/' %}
