@@ -31,7 +31,7 @@
       <dt>Tags:</dt>
       {% for tag in post.tags %}
       {% if tag != '' %}
-      <dd><a href="{{ site.baseurl }}/{{ site.tag_dir }}/{{ tag | slugify }}">{{ tag }}</a></dd>
+      <dd><a href="/{{ site.tag_dir }}/{{ tag | slugify }}">{{ tag }}</a></dd>
       {% endif %}
       {% endfor %}
     </dl>
