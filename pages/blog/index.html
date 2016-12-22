@@ -60,7 +60,7 @@ permalink: /blog/
   {% for tag in tag_words %}
     {% unless tag == '' %}
     <li>
-      <a href="{{ site.baseurl }}/tags/{{tag | slugify }}/" >{{tag}}</a>
+      <a href="{{ site.baseurl }}/tags/{{tag | slugify }}/">{%if tag=="dto-news"%}dto news{%else%}{{tag}}{%endif%}</a>
 
     </li>
     {%endunless%}

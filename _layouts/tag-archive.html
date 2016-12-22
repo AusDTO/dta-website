@@ -18,7 +18,7 @@ searchexcerpt: "Browse our posts by topic"
       {% for tag in tag_words %}
 
       {% unless tag == '' %}
-      <li><a href="{{ site.baseurl }}/tags/{{ tag | slugify }}/">{{ tag }}</a></li>
+      <li><a href="{{ site.baseurl }}/tags/{{ tag | slugify }}/">{%if tag=="dto-news"%}dto news{%else%}{{tag}}{%endif%}</a></li>
       {% endunless %}
       {% endfor %}
     </ul>
@@ -27,7 +27,7 @@ searchexcerpt: "Browse our posts by topic"
   {% else %}
 
   {% assign numberof = page.posts | size %}
-  <h1>{{ numberof }} {% if numberof == 1 %}post{% else %}posts{% endif %} tagged '{{ page.title }}'</h1>
+  <h1>{{ numberof }} {% if numberof == 1 %}post{% else %}posts{% endif %} tagged '{%if page.title=="dto-news"%}dto news{%else%}{{page.title}}{%endif%}'</h1>
   {% if page.title == "dto-news" %}
   <p>Archived news from the Digital Transformation Office.</p>
   {% endif %}
