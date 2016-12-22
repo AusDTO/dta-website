@@ -7,7 +7,7 @@ searchexcerpt: "Browse our posts by topic"
 <article id="content" class="content-main">
   {% if page.url == "/tags/" %}
   <h1>Tags</h1>
-  <p>Browse our posts by topics:</p>
+  <p>Browse our posts by topic:</p>
   <div>
     <ul class="list-small">
 
@@ -17,24 +17,8 @@ searchexcerpt: "Browse our posts by topic"
 
       {% for tag in tag_words %}
 
-      {% capture count %}
-
-      {% for tag_number in site.tags %}
-
-      {% if tag_number[0] == tag %}
-
-      {{tag_number[1] | size }}
-
-      {% endif %}
-
-      {% endfor %}
-
-      {% endcapture %}
-
       {% unless tag == '' %}
-
-      <li><a href="{{ site.baseurl }}/tags/{{tag | slugify }}/">{{tag}}</a></li>
-
+      <li><a href="{{ site.baseurl }}/tags/{{ tag | slugify }}/">{{ tag }}</a></li>
       {% endunless %}
       {% endfor %}
     </ul>
