@@ -26,10 +26,12 @@
         <li>{{ page.title}}</li>
 
 {% elsif page.layout == 'tag-archive' %}
+        {% if page.url == "/tags/" %}
+        <li>Tags</li>
+        {% else %}
         <li><a href="/{{ site.tag_dir }}/">Tags</a></li>
-        {% unless page.url == "/{{site.tag_dir}}/}} %}
         <li>{{ page.title}}</li>
-        {% endunless %}
+        {% endif %}
 
 {% elsif page.breadcrumb_type == !nil and page.author == !nil %}
   {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %}
