@@ -15,4 +15,4 @@ if [ -z "$TMPDIR" ]; then
 fi
 
 # Start a local copy of the site to test against
-bundle exec jekyll serve --destination $TMPDIR/_pa11y_site
+bundle exec jekyll serve --no-watch --destination $TMPDIR/_pa11y_site
