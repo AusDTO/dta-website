@@ -42,7 +42,7 @@ If you have any questions about the Digital Marketplace, or if you would like to
 
 ## Events and media
 
-If you'd like someone from DTA to speak at an event, please send an email to [events@digital.gov.au](mailto:events@digital.gov.au).
+If you'd like someone from the DTA to speak at an event, [send us a speaking request](/contact/events/). Please make sure to complete all the questions.
 
 If you are a journalist and have a media enquiry, please send an email to [media@digital.gov.au](mailto:media@digital.gov.au).
 
