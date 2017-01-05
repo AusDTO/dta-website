@@ -27,7 +27,7 @@ The Digital Service Standard ensures digital teams build government services tha
     </li>
     
     <li>
-      <h3><a href="/standard/3-agile-and-user-centered/">Agile and user-centered process</a></h3>
+      <h3><a href="/standard/3-agile-and-user-centred/">Agile and user-centred process</a></h3>
       <p>Design and build the service using the <a href="/standard/service-design-and-delivery-process/">service design and delivery process</a>, taking an agile and user-centred approach.</p>
     </li>
     
