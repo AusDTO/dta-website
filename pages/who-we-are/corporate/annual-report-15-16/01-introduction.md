@@ -172,7 +172,6 @@ The DTO does not administer any legislation.
         **Chief Executive Officer**<br>
         **Paul Shetler**
         
-
   Paul was appointed as the inaugural Chief Executive Officer (CEO) of the DTO in July 2015.
 
   Hailing from the United Kingdom, the technologist and entrepreneur has 20 years of international experience working in financial and digital services, including the role of Chief Digital Officer of the United Kingdom Ministry of Justice from 2014 to 2015. Bringing to the table extensive knowledge of managing start­ups and corporate ventures, he is now tasked with making government services simpler, clearer, faster and more humane.
@@ -191,7 +190,6 @@ The DTO does not administer any legislation.
   **Head of the Office of the Chief Executive Officer**<br>
   **Daniel Searle**
   
-
   Prior to joining the DTO, Daniel was a digital director at Kainos and the Deputy Group Chief Digital Officer at the United Kingdom’s Ministry of Justice.
 
   Daniel holds an Executive MBA from Cass Business School. His previous roles include: Identity Advisor to GOV.UK Verify; Strategy and Delivery Advisor to the United Kingdom’s Home Secretary; and Private Secretary to the UK Border Agency Chief Executive. He has also held senior roles in asylum and immigration enforcement operations.
