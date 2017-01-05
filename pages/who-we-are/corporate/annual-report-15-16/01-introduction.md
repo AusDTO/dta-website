@@ -164,7 +164,7 @@ The DTO does not administer any legislation.
 
 <ul class="list-vertical">
   <li>
-    <figure>
+    <figure markdown="1">
     ![Image of Paul Shettler]({% asset_path DTO-Paul-130916-67 %})
     </figure>
     <article>
@@ -184,7 +184,7 @@ The DTO does not administer any legislation.
   </li>
   
   <li>
-    <figure>
+    <figure  markdown="1">
     ![Image of Dan Searle]({% asset_path Dan-Searle-1-edit %})
     </figure>
     <article>
@@ -204,7 +204,7 @@ The DTO does not administer any legislation.
   
   <ul class="list-vertical">
   <li>
-    <figure>
+    <figure  markdown="1">
     ![Image of Deborah Lewis]({% asset_path DTO-Staff-Deb-2-edit %})
      </figure>
     <article>
@@ -220,7 +220,7 @@ The DTO does not administer any legislation.
   </li>
   
   <li>
-    <figure>
+    <figure  markdown="1">
     ![Image of Dan Pulham]({% asset_path DTO090916-3 %})
    </figure>
     <article>
@@ -239,7 +239,7 @@ The DTO does not administer any legislation.
   
   <ul class="list-vertical">
   <li>
-    <figure>
+    <figure  markdown="1">
     ![Image of Jose Del Rio]({% asset_path DTO-Jose-130916-29 %})
   </figure>
     <article>
@@ -253,7 +253,7 @@ The DTO does not administer any legislation.
   </li>
   
   <li>
-    <figure>
+    <figure  markdown="1">
     ![Image of Rachel Dixon]({% asset_path DTO-Rachel-130916-25 %})
   </figure>
     <article>
@@ -271,7 +271,7 @@ The DTO does not administer any legislation.
   
   <ul class="list-vertical">
   <li>
-    <figure>
+    <figure  markdown="1">
     ![Image of Maria MacNamara]({% asset_path DTO-Maria-130916-56-mod-v2 %})
   </figure>
     <article>
@@ -286,7 +286,7 @@ The DTO does not administer any legislation.
   </li>
   
   <li>
-    <figure>
+    <figure  markdown="1">
     ![Image of Catherine Thomson]({% asset_path DTO130916-8 %})
    </figure>
     <article>
@@ -303,7 +303,7 @@ The DTO does not administer any legislation.
   </ul>
   <ul class="list-vertical">
   <li>
-    <figure>
+    <figure  markdown="1">
     ![Image of Radi Kovacevic]({% asset_path DTO-Radi %})
    </figure>
     <article>
