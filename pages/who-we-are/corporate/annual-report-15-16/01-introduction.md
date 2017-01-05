@@ -165,7 +165,7 @@ The DTO does not administer any legislation.
 <ul class="list-vertical">
   <li>
     <figure>
-    <img src="asset_path DTO-Paul-130916-67" alt="Image of Paul Shettler" />
+    ![Image of Paul Shettler]({% asset_path DTO-Paul-130916-67 %})
     </figure>
     <article>
         <p>  
@@ -183,7 +183,7 @@ The DTO does not administer any legislation.
   
   <li>
     <figure>
-    <img src="!({% asset_path Dan-Searle-1-edit %})" alt="Image of Dan Searle" />
+    ![Image of Dan Searle]({% asset_path Dan-Searle-1-edit %})
     </figure>
     <article>
     <p>
@@ -201,7 +201,7 @@ The DTO does not administer any legislation.
   <ul class="list-vertical">
   <li>
     <figure>
-    <img src="!({% asset_path DTO-Staff-Deb-2-edit %})" alt="Image of Deborah Lewis" />
+    ![Image of Deborah Lewis]({% asset_path DTO-Staff-Deb-2-edit %})
      </figure>
     <article>
     <p> 
@@ -216,7 +216,7 @@ The DTO does not administer any legislation.
   
   <li>
     <figure>
-    <img src="!({% asset_path DTO090916-3 %})" alt="Image of Dan Pulham" />
+    ![Image of Dan Pulham]({% asset_path DTO090916-3 %})
    </figure>
     <article>
     <p> 
@@ -234,7 +234,7 @@ The DTO does not administer any legislation.
   <ul class="list-vertical">
   <li>
     <figure>
-    <img src="!({% asset_path DTO-Jose-130916-29 %})" alt="Image of Jose Del Rio" />
+    ![Image of Jose Del Rio]({% asset_path DTO-Jose-130916-29 %})
   </figure>
     <article>
     <p> 
@@ -247,7 +247,7 @@ The DTO does not administer any legislation.
   
   <li>
     <figure>
-    <img src="!({% asset_path DTO-Rachel-130916-25 %})" alt="Image of Rachel Dixon" />
+    ![Image of Rachel Dixon]({% asset_path DTO-Rachel-130916-25 %})
   </figure>
     <article>
     <p> 
@@ -264,7 +264,7 @@ The DTO does not administer any legislation.
   <ul class="list-vertical">
   <li>
     <figure>
-    <img src="!({% asset_path DTO-Maria-130916-56-mod-v2 %})" alt="Image of Maria MacNamara" />
+    ![Image of Maria MacNamara]({% asset_path DTO-Maria-130916-56-mod-v2 %})
   </figure>
     <article>
     <p> 
@@ -278,7 +278,7 @@ The DTO does not administer any legislation.
   
   <li>
     <figure>
-    <img src="!({% asset_path DTO130916-8 %})" alt="Image of Catherine Thomson" />
+    ![Image of Catherine Thomson]({% asset_path DTO130916-8 %})
    </figure>
     <article>
     <p> 
@@ -294,7 +294,7 @@ The DTO does not administer any legislation.
   <ul class="list-vertical">
   <li>
     <figure>
-    <img src="!({% asset_path DTO-Radi %})" alt="Image of Radi Kovacevic" />
+    ![Image of Radi Kovacevic]({% asset_path DTO-Radi %})
    </figure>
     <article>
     <p> 
