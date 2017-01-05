@@ -13,7 +13,7 @@ This guide explains the Australian Government policies on registration and admin
 
 ## Why must I?
 
-The [gov.au Domain name policies](https://domainname.gov.au/domain-policies/ "Gov.au Domain Name Policies") apply to third-level domains at the Australian Government level (such as example.gov.au) and fourth-level domains at the state, territory and local government levels (such as example.act.gov.au).
+The [gov.au Domain name policies](https://www.domainname.gov.au/domain-policies/ "Gov.au Domain Name Policies") apply to third-level domains at the Australian Government level (such as example.gov.au) and fourth-level domains at the state, territory and local government levels (such as example.act.gov.au).
 
 Under the [gov.au policy and governance framework](https://www.domainname.gov.au/domain-policies/policy-and-governance-framework), each jurisdiction may apply additional domain policies, standards and guidelines in assessing domain applications. The [Australian Government domain name policy](http://domainname.gov.au/domain-policies/australian-government-domain-name-policy/ "Australian Government Domain Name Policy") is applicable to Australian Government entities.
 
