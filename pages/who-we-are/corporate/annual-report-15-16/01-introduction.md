@@ -165,7 +165,7 @@ The DTO does not administer any legislation.
 <ul class="list-vertical">
   <li>
     <figure>
-    <img src="% asset_path DTO-Paul-130916-67 %" alt="Image of Paul Shettler" />
+    <img src="asset_path DTO-Paul-130916-67" alt="Image of Paul Shettler" />
     </figure>
     <article>
         <p>  
