@@ -171,8 +171,8 @@ The DTO does not administer any legislation.
         <p>  
         
         <strong>Chief Executive Officer<br>
-        Paul Shetler</strong>
-    
+        Paul Shetler</strong></p>
+    <p>
     
   Paul was appointed as the inaugural Chief Executive Officer (CEO) of the DTO in July 2015.
 
@@ -191,8 +191,8 @@ The DTO does not administer any legislation.
     <p>
     
   <strong>Head of the Office of the Chief Executive Officer<br>
-  Daniel Searle</strong>
-  
+  Daniel Searle</strong></p>
+  <p>
   
   Prior to joining the DTO, Daniel was a digital director at Kainos and the Deputy Group Chief Digital Officer at the United Kingdom’s Ministry of Justice.
 
