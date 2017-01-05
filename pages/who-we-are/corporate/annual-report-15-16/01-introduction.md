@@ -12,7 +12,7 @@ doc-nav:
     title: Report on program performance
     href: /who-we-are/corporate/annual-report/2015-16/2-program-performance/
 ---
-## Introduction and overview
+# 1. Introduction and overview
 
 <nav class="index-links">
   <h3>On this page</h3>
@@ -23,7 +23,7 @@ doc-nav:
   </ul>
 </nav>
 
-### Chief Executive Officer’s review
+## Chief Executive Officer’s review
 
 What a busy and exciting year. The Digital Transformation Office (DTO) became an executive agency in July 2015, and I was appointed as its Chief Executive Officer that same month.
 
@@ -45,7 +45,7 @@ For the next financial year, the DTO’s focus will shift from demonstrating the
 
 Australia has the opportunity to become a world leader in the provision of digital government. The DTO is the agency which can help government and agencies make this transformation. I would like to thank all the staff of the DTO for their dedication and the enthusiasm that they bring to their work; with their backing, I am confident that we can fulfil our mission.
 
-Paul Shetler<br>Chief Executive Officer
+**Paul Shetler<br>Chief Executive Officer**
 
 ### Using agile methodologies
 
@@ -160,74 +160,148 @@ The DTO does not administer any legislation.
   
   DTO Organisational Chart
   
-#### Executive management
+### Executive management
 
-  ![Image of Paul Shettler]({% asset_path DTO-Paul-130916-67 %})
-  
-  **Chief Executive Officer<br>Paul Shetler**
+<ul class="list-vertical">
+  <li>
+    <figure>
+    <img src="![Image of Paul Shettler]({% asset_path DTO-Paul-130916-67 %})" />
+    </figure>
+    <article>
+        <p>  
+        **Chief Executive Officer<br>Paul Shetler**
 
   Paul was appointed as the inaugural Chief Executive Officer (CEO) of the DTO in July 2015.
 
   Hailing from the United Kingdom, the technologist and entrepreneur has 20 years of international experience working in financial and digital services, including the role of Chief Digital Officer of the United Kingdom Ministry of Justice from 2014 to 2015. Bringing to the table extensive knowledge of managing start­ups and corporate ventures, he is now tasked with making government services simpler, clearer, faster and more humane.
 
   Before Paul took up his appointment, David Hazlehurst acted as the Interim CEO of the DTO. David subsequently moved to a deputy secretary position at the Department of Industry, Innovation and Science.
-
-  ![Image of Daniel Searle]({% asset_path Dan-Searle-1-edit %})
+  </p>
+  </article>
+  </li>
   
+  <li>
+    <figure>
+    <img src="![Image of Daniel Searle]({% asset_path Dan-Searle-1-edit %})" />
+    </figure>
+    <article>
+    <p>
   **Head of the Office of the Chief Executive Officer<br>Daniel Searle**
 
   Prior to joining the DTO, Daniel was a digital director at Kainos and the Deputy Group Chief Digital Officer at the United Kingdom’s Ministry of Justice.
 
   Daniel holds an Executive MBA from Cass Business School. His previous roles include: Identity Advisor to GOV.UK Verify; Strategy and Delivery Advisor to the United Kingdom’s Home Secretary; and Private Secretary to the UK Border Agency Chief Executive. He has also held senior roles in asylum and immigration enforcement operations.
-
-  ![Image of Deborah Lewis]({% asset_path DTO-Staff-Deb-2-edit %})
-   
+</p>
+  </article>
+  </li>
+  </ul>
+  
+  <ul class="list-vertical">
+  <li>
+    <figure>
+    <img src="![Image of Deborah Lewis]({% asset_path DTO-Staff-Deb-2-edit %})" />
+     </figure>
+    <article>
+    <p> 
    **Head of Business Operations/Chief Operating Officer<br>Deborah Lewis**
 
   Deborah is responsible for the financial operations of the DTO, including risk, compliance, human resources, procurement, IT and support for the CEO.
 
   Deborah has a strong public sector background, having led divisions with hundreds of staff to embed significant culture and business change agendas. She has held positions across service delivery, policy and program, and corporate functions, in entities such as Austrade and the departments of Immigration; Climate Change and Energy Efficiency; and Resources, Energy and Tourism.
-
-  ![Image of Dan Pulham]({% asset_path DTO090916-3 %})
+</p>
+  </article>
+  </li>
   
+  <li>
+    <figure>
+    <img src="![Image of Dan Pulham]({% asset_path DTO090916-3 %})" />
+   </figure>
+    <article>
+    <p> 
+    
   **Head of Delivery<br>Dan Pulham**
 
   Dan joined the DTO in April 2016 having previously spent nine years at Telstra, the last five of those as a founding member of Telstra Digital.
 
   During his time at Telstra Digital, Dan led a transformation program to rebuild Telstra’s MyAccount, delivered the Consumer Identity platform, and ran the portfolio process which managed change into Telstra’s MyAccount, E-Commerce, 24/7 and Identity platforms.
-
-  ![Image of Jose Del Rio]({% asset_path DTO-Jose-130916-29 %})
+</p>
+  </article>
+  </li>
+  </ul>
   
+  <ul class="list-vertical">
+  <li>
+    <figure>
+    <img src="![Image of Jose Del Rio]({% asset_path DTO-Jose-130916-29 %})" />
+  </figure>
+    <article>
+    <p> 
   **Head of Digital Partnerships<br>Jose Del Rio**
 
   Jose started the taskforce that led to the creation of the DTO. He has held a number of senior strategic and social policy roles at the Department of the Prime Minister and Cabinet. He has also led immigration processing, program and policy teams at the Department of Immigration and Border Protection and at Citizenship and Immigration Canada.
-
-  ![Image of Rachel Dixon]({% asset_path DTO-Rachel-130916-25 %})
+</p>
+  </article>
+  </li>
   
+  <li>
+    <figure>
+    <img src="![Image of Rachel Dixon]({% asset_path DTO-Rachel-130916-25 %})" />
+  </figure>
+    <article>
+    <p> 
   **Head of Identity<br>Rachel Dixon**
 
   Rachel’s professional background encompasses IT and telecommunications, and film, television and new media production.
 
   Rachel has held executive positions at Suncorp, Viocorp, thePlatform for Media, and Massive Interactive. She has also been a director of the Australian Centre for Advanced Computing and Communications, Choice (the Australian Consumers Association) and several small software companies. She co­founded FIBRE, a telecommunications company servicing the motion picture post-production and visual effects industry. She is a past director and chair of several other media, software and telecommunications companies, and a former senior executive with Film Australia and Film Victoria.
-
-  ![Image of Maria MacNamara]({% asset_path DTO-Maria-130916-56-mod-v2 %})
+</p>
+  </article>
+  </li>
+  </ul>
   
+  <ul class="list-vertical">
+  <li>
+    <figure>
+    <img src="![Image of Maria MacNamara]({% asset_path DTO-Maria-130916-56-mod-v2 %})" />
+  </figure>
+    <article>
+    <p> 
+    
   **Head of Strategy and Engagement<br>Maria MacNamara**
 
   Prior to joining the DTO, Maria was responsible for marketing and business development at Swaab Attorneys. Maria also established a professional services start-up, after leading marketing and business development teams in Australia’s foremost legal and consulting firms. She co-founded the Awesome Women’s Project and the Ecosystem Leaders’ Lunch, and sits on the advisory boards delivering the Women in Fintech initiative at Stone & Chalk and The Spark Festival, Sydney.
-
-  ![Image of Catherine Thomson]({% asset_path DTO130916-8 %})
+</p>
+  </article>
+  </li>
   
+  <li>
+    <figure>
+    <img src="![Image of Catherine Thomson]({% asset_path DTO130916-8 %})" />
+   </figure>
+    <article>
+    <p> 
   **Head of Digital Marketplace<br>Catherine Thompson**
 
   Catherine is interested in enterprise cost-efficiency, operations and the procurement/supply chain, with a particular focus on the cultural change that supports innovation in those fields. Her experience has been deepened in senior leadership and consulting roles across the financial services, transport, petrochemicals, retail and health services sectors. She particularly enjoys start-ups and remediations.
 
   Most recently Head of Delivery for pioneering virtual reality start-up Zero Latency, Catherine has also been the Chief Procurement Officer of ANZ Banking Group and a director of Portland Group (now Infosys Portland). She writes for Procurement Leaders on issues at the nexus of technology, innovation and the supply chain.
-
-  ![Image of Radi Kovacevic]({% asset_path DTO-Radi %})
-  
+</p>
+  </article>
+  </li>
+  </ul>
+  <ul class="list-vertical">
+  <li>
+    <figure>
+    <img src="![Image of Radi Kovacevic]({% asset_path DTO-Radi %})" />
+   </figure>
+    <article>
+    <p> 
   **Head of GOV.AU<br>Radi Kovacevic (acting)**
 
   In his previous role, Radi was the Chief Information Officer for the Department of the Prime Minister and Cabinet, with responsibility for all digital services.
 
   Radi has a strong background in digital delivery for large programs, including the 2014 G20 summit in Brisbane, and large machinery of government changes. In the Department of Climate Change and Energy Efficiency, Radi assisted with the remediation program for the Home Insulation Program and led the digital delivery for energy efficiency programs such as National Solar Schools.
+  </p>
+  </article>
+  </li>
+  </ul>
