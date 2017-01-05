@@ -23,7 +23,7 @@ Run each of the following commands to get the site running locally:
 
 You should be able to see the site at: http://127.0.0.1:4000
 
-To increase the speed of jekyll builds, you can replace the last step with `bin/serve`. This will disable the search plugin and only render the latest post.
+To increase the speed of jekyll builds, you can replace the last step with `bin/servefast.sh`. This will disable the search plugin and only render the latest post.
 
 ### Run tests locally
 

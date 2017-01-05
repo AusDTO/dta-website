@@ -9,7 +9,7 @@ The details of the [relevant licence conditions](http://creativecommons.org/lice
 
 ## Use of the Coat of Arms
 
-[Guidelines for use of the Coat of Arms](http://www.dpmc.gov.au/resource-centre/government/commonwealth-coat-arms-information-and-guidelines) are published by the Department of Prime Minister and Cabinet.
+[Guidelines for use of the Coat of Arms](https://www.dpmc.gov.au/resource-centre/government/commonwealth-coat-arms-information-and-guidelines) are published by the Department of Prime Minister and Cabinet.
 
 ## Attribution
 

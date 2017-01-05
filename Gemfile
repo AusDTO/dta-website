@@ -5,6 +5,7 @@ gem 'jekyll', '3.3.0'
 gem 'jekyll-assets'
 gem 'jekyll-redirect-from'
 gem 'jekyll-sitemap'
+gem 'jekyll-archives'
 
 gem 'therubyracer'
 

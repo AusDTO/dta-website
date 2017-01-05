@@ -3,7 +3,7 @@ layout: post
 title: Digital Marketplace goes to Beta
 author: Catherine Thompson
 category: blog
-tag: [dto-news, marketplace]
+tag: [dto-news, "digital marketplace"]
 hero-image: /images/blog-content/marketplace-hero.jpg
 thumbnail: /images/blog-thumbnails/marketplace-thumb.jpg
 searchexcerpt: 

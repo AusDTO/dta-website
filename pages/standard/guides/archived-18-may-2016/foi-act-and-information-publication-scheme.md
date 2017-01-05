@@ -38,6 +38,6 @@ Other [FOI guidance and resources](http://www.oaic.gov.au/freedom-of-information
 
 The [Information Publication Scheme](https://www.oaic.gov.au/freedom-of-information/foi-act#the-information-publication-scheme) (IPS) applies to Australian Government agencies that are subject to the FOI Act.
 
-The IPS encourages agencies to proactively release information in a consistent way, reflecting the pro-disclosure goals of the FOI Act. It requires all Australian Government agencies to publish several categories of information including details of the agency’s structure and functions, and [information regularly provided to parliament](http://www.dpmc.gov.au/resource-centre/government/guidelines-presentation-documents-parliament), as well as a plan of how it complies with the IPS requirements.
+The IPS encourages agencies to proactively release information in a consistent way, reflecting the pro-disclosure goals of the FOI Act. It requires all Australian Government agencies to publish several categories of information including details of the agency’s structure and functions, and [information regularly provided to parliament](https://www.dpmc.gov.au/resource-centre/government/guidelines-presentation-documents-parliament), as well as a plan of how it complies with the IPS requirements.
 
 **Last updated:** 21 July 2015

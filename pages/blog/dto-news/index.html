@@ -1,17 +1,15 @@
 ---
-layout: basic
-title: DTO News
-lede: Archived news from the Digital Transformation Office.
-searchexcerpt: Archived news from the Digital Transformation Office.
 permalink: /blog/dto-news/
+redirect_to_url: /tags/dto-news/
+exclude_from_search: true
+sitemap: false
 ---
-
-<ul class="list-horizontal">
-  {% for post in site.categories['blog'] %}
-    {% if post.tags contains 'dto-news' %}
-  <li>
-      {% include post-list-item.html %}
-  </li>
-    {% endif %}
-  {% endfor %}
-</ul>
+<!DOCTYPE html>
+<html lang="en-US">
+<meta charset="utf-8">
+<title>Redirecting…</title>
+<link rel="canonical" href="{{ page.redirect_to_url }}">
+<meta http-equiv="refresh" content="0; url={{ page.redirect_to_url }}">
+<a href="{{ page.redirect_to_url }}">Click here if you are not redirected.</a>
+<script>location = "{{ page.redirect_to_url }}"</script>
+</html>

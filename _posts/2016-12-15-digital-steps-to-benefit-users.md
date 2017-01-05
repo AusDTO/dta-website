@@ -1,7 +1,7 @@
 ---
 title: "Digital steps to benefit users"
 category: [news]
-tag: 'transformation'
+tag: 'digital transformation'
 thumbnail: /images/blog-thumbnails/modernising-mygov-thumb.png
 hero-image: /images/blog-content/modernising-mygov-hero.png
 feed: true

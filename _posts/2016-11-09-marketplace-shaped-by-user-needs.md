@@ -4,7 +4,7 @@ title: "How the Digital Marketplace is being shaped by user needs"
 author: Robyn Prince Gillot
 author-excerpt: "Robyn Prince Gillot, is a researcher in the Digital Marketplace team, based in Sydney."
 category: blog
-tag: marketplace
+tag: "digital marketplace"
 hero-image: /images/blog-content/marketplace-user-needs-content.jpg
 thumbnail: /images/blog-thumbnails/marketplace-user-needs-thumb.jpg
 ---

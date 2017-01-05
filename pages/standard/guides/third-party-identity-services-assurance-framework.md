@@ -64,7 +64,7 @@ The following services are undergoing Assurance Framework accreditation.
 
 - [Veda Advantage](https://www.veda.com.au/) - Verification Service Provider; LOA 1, 2 and 3
 - [One Check](http://www.onecheck.com.au/) - Verification Service Provider; LOA 1, 2 and 3
-- [Fuji Xerox](http://www.dms.fujixerox.com/en/) - Digital Mailbox; LOA 3
+- [Fuji Xerox](http://www.dms.fujixerox.com/) - Digital Mailbox; LOA 3
 
 
 **Last updated:** 5 January 2016

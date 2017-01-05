@@ -9,17 +9,20 @@ set -o pipefail
 # echo out each line of the shell as it executes
 set -x
 
+# Use JEKYLL_ENV to configure jekyll-assets
+export JEKYLL_ENV=production
+
 main() {
   readonly GITBRANCH="${CIRCLE_BRANCH}"
 
   case "${GITBRANCH}" in
     master)
       echo "Building with production jekyll config"
-      JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config-production.yml
+      bundle exec jekyll build --config _config.yml,_config-production.yml
       ;;
     develop)
       echo "Building with development/staging jekyll config"
-      JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config-develop.yml
+      bundle exec jekyll build --config _config.yml,_config-develop.yml
       ;;
     *)
       echo "Building with normal jekyll config"

@@ -13,6 +13,6 @@ Most people expect to be able to access government services and information anyt
 
 We will be talking about the standard, what it means and how to apply it over the next few months in a range of forums. To get involved in the conversation and to find out about future events join the:
 
-* [DTO mailing list](http://eepurl.com/bcEu2D);
+* [DTO mailing list]({{ site.url }}/signup/);
 * [Digital Community of Practice](mailto:standard@digital.gov.au?subject=Digital%20Community%20of%20Practice) (for government employees only);
 * or watch [@AusDTO](http://twitter.com/ausdto) for further news.

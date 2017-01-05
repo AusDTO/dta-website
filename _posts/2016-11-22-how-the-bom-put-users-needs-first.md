@@ -3,7 +3,6 @@ layout: post
 title: "How the BOM put users’ needs first"
 author: 'Jenny Hunter'
 category: blog
-tag: ''
 hero-image: /images/blog-content/bom-app-content.png
 thumbnail: /images/blog-thumbnails/bom-app-thumb.png
 ---
