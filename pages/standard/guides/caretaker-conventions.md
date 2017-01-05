@@ -11,7 +11,7 @@ topic:
 ---
 In the period preceding an election, the Australian Government assumes a caretaker role. The caretaker period begins at the time the House of Representatives is dissolved and continues until the election result is clear or, if there is a change of government, until the new government is appointed.
 
-During the caretaker period there are specific requirements for the Australian Government, specified in the [Caretaker Conventions](http://www.dpmc.gov.au/pmc/publication/guidance-caretaker-conventions), including:
+During the caretaker period there are specific requirements for the Australian Government, specified in the [Caretaker Conventions](https://www.dpmc.gov.au/pmc/publication/guidance-caretaker-conventions), including:
 
 *   not to make major policy decisions
 *   to defer significant appointments
@@ -21,7 +21,7 @@ During the caretaker period there are specific requirements for the Australian G
 
 Agencies are required to undertake additional steps when managing agency and ministerial websites during caretaker to ensure the management of these sites are consistent with the Caretaker Conventions.
 
-Section 6\. 2 of the [Guidance on Caretaker Conventions](http://www.dpmc.gov.au/pmc/publication/guidance-caretaker-conventions) covers internet and electronic communications, including:
+Section 6\. 2 of the [Guidance on Caretaker Conventions](https://www.dpmc.gov.au/pmc/publication/guidance-caretaker-conventions) covers internet and electronic communications, including:
 
 *   ensuring that agency funded websites are not used to support any particular political party
 *   existing materials that may be retained on websites and materials that may be added

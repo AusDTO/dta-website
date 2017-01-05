@@ -19,7 +19,7 @@ There are many benefits to common branding:
 
 ## Why must I?
 
-Australian Government departments, agencies and other bodies' online and offline presence must comply with the [Australian Government Branding - Guidelines on the use of the Australian Government logo by Australian government departments and agencies](http://www.dpmc.gov.au/resource-centre/government/australian-government-branding-guidelines-use-australian-government-logo-australian-government-departments-and-agencies) unless granted an exemption, or permission to use a co-branded logo from the Parliamentary Secretary to the Prime Minister through the [Department of the Prime Minister and Cabinet](http://www.dpmc.gov.au/contact-us).
+Australian Government departments, agencies and other bodies' online and offline presence must comply with the [Australian Government Branding - Guidelines on the use of the Australian Government logo by Australian government departments and agencies](https://www.dpmc.gov.au/resource-centre/government/australian-government-branding-guidelines-use-australian-government-logo-australian-government-departments-and-agencies) unless granted an exemption, or permission to use a co-branded logo from the Parliamentary Secretary to the Prime Minister through the [Department of the Prime Minister and Cabinet](https://www.dpmc.gov.au/contact-us).
 
 ## How do I?
 
@@ -144,7 +144,7 @@ Do not change the following content for previous years:
 
 The Agency Design should appear at the top left of every page of an agency website. If desired, the Design can be used as a navigational element to link to the agency's homepage.
 
-For example: [Department of the Prime Minister and Cabinet](http://www.dpmc.gov.au/)
+For example: [Department of the Prime Minister and Cabinet](https://www.dpmc.gov.au/)
 
 #### Product/policy/program websites
 
@@ -168,7 +168,7 @@ For example:
 
 #### Ministerial websites
 
-The [Australian Government Branding - Guidelines on the use of the Australian Government logo by Australian government departments and agencies](http://www.dpmc.gov.au/resource-centre/government/australian-government-branding-guidelines-use-australian-government-logo-australian-government-departments-and-agencies) requires that there be a clear distinction between agency websites and ministerial websites. Ministerial sites should not include the Australian Government Design or the Agency Design; however the [Commonwealth Coat of Arms](http://www.itsanhonour.gov.au/coat-arms/index.cfm) may be used.
+The [Australian Government Branding - Guidelines on the use of the Australian Government logo by Australian government departments and agencies](https://www.dpmc.gov.au/resource-centre/government/australian-government-branding-guidelines-use-australian-government-logo-australian-government-departments-and-agencies) requires that there be a clear distinction between agency websites and ministerial websites. Ministerial sites should not include the Australian Government Design or the Agency Design; however the [Commonwealth Coat of Arms](http://www.itsanhonour.gov.au/coat-arms/index.cfm) may be used.
 
 For example: [Minister for Finance](http://www.financeminister.gov.au/)
 
