@@ -171,7 +171,8 @@ The DTO does not administer any legislation.
         <p>  
         
         <strong>Chief Executive Officer<br>
-        Paul Shetler</strong>
+        Paul Shetler</strong></p>
+        <p>
         
   Paul was appointed as the inaugural Chief Executive Officer (CEO) of the DTO in July 2015.
 
@@ -190,7 +191,8 @@ The DTO does not administer any legislation.
     <p>
     
   <strong>Head of the Office of the Chief Executive Officer<br>
-  Daniel Searle</strong>
+  Daniel Searle</strong></p>
+  <p>
   
   Prior to joining the DTO, Daniel was a digital director at Kainos and the Deputy Group Chief Digital Officer at the United Kingdom’s Ministry of Justice.
 
@@ -207,8 +209,9 @@ The DTO does not administer any legislation.
      </figure>
     <article>
     <p> 
-   **Head of Business Operations/Chief Operating Officer**<br>
-   **Deborah Lewis**
+   <strong>Head of Business Operations/Chief Operating Officer<br>
+   Deborah Lewis</strong></p>
+   <p>
 
   Deborah is responsible for the financial operations of the DTO, including risk, compliance, human resources, procurement, IT and support for the CEO.
 
@@ -224,8 +227,9 @@ The DTO does not administer any legislation.
     <article>
     <p> 
     
-  **Head of Delivery**<br>
-  **Dan Pulham**
+  <strong>Head of Delivery<br>
+  Dan Pulham</strong></p>
+  <p>
 
   Dan joined the DTO in April 2016 having previously spent nine years at Telstra, the last five of those as a founding member of Telstra Digital.
 
@@ -242,8 +246,9 @@ The DTO does not administer any legislation.
   </figure>
     <article>
     <p> 
-  **Head of Digital Partnerships**<br>
-  **Jose Del Rio**
+  <strong>Head of Digital Partnerships<br>
+  Jose Del Rio</strong></p>
+  <p>
 
   Jose started the taskforce that led to the creation of the DTO. He has held a number of senior strategic and social policy roles at the Department of the Prime Minister and Cabinet. He has also led immigration processing, program and policy teams at the Department of Immigration and Border Protection and at Citizenship and Immigration Canada.
 </p>
@@ -256,8 +261,9 @@ The DTO does not administer any legislation.
   </figure>
     <article>
     <p> 
-  **Head of Identity**<br>
-  **Rachel Dixon**
+  <strong>Head of Identity<br>
+  Rachel Dixon</strong></p>
+  <p>
 
   Rachel’s professional background encompasses IT and telecommunications, and film, television and new media production.
 
@@ -275,8 +281,9 @@ The DTO does not administer any legislation.
     <article>
     <p> 
     
-  **Head of Strategy and Engagement**<br>
-  **Maria MacNamara**
+  <strong>Head of Strategy and Engagement<br>
+  Maria MacNamara</strong></p>
+ <p>
 
   Prior to joining the DTO, Maria was responsible for marketing and business development at Swaab Attorneys. Maria also established a professional services start-up, after leading marketing and business development teams in Australia’s foremost legal and consulting firms. She co-founded the Awesome Women’s Project and the Ecosystem Leaders’ Lunch, and sits on the advisory boards delivering the Women in Fintech initiative at Stone & Chalk and The Spark Festival, Sydney.
 </p>
@@ -289,8 +296,9 @@ The DTO does not administer any legislation.
    </figure>
     <article>
     <p> 
-  **Head of Digital Marketplace**<br>
-  **Catherine Thompson**
+  <strong>Head of Digital Marketplace<br>
+  Catherine Thompson</strong></p>
+  <p>
 
   Catherine is interested in enterprise cost-efficiency, operations and the procurement/supply chain, with a particular focus on the cultural change that supports innovation in those fields. Her experience has been deepened in senior leadership and consulting roles across the financial services, transport, petrochemicals, retail and health services sectors. She particularly enjoys start-ups and remediations.
 
@@ -306,8 +314,9 @@ The DTO does not administer any legislation.
    </figure>
     <article>
     <p> 
-  **Head of GOV.AU**<br>
-  **Radi Kovacevic (acting)**
+  <strong>Head of GOV.AU<br>
+  Radi Kovacevic (acting)</strong></p>
+  <p>
 
   In his previous role, Radi was the Chief Information Officer for the Department of the Prime Minister and Cabinet, with responsibility for all digital services.
 
