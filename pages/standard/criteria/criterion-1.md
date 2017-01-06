@@ -28,7 +28,7 @@ During the Beta stage your understanding of what your users value will have matu
 
 * Greater depth and diversity of knowledge on all of the points above from Alpha/Beta as well as
 * **How has your service been shaped by user needs?** Show how you have made changes in the service and interaction design in response to user research and usability testing. You can evidence this by showing how the design has changed over time and the appropriate research findings that have driven this change
-* **How you tested the system in the users’ context with a full range of users** (including users with varying needs). You can evidence this with artifacts of research, for example, video clips and outcomes from research analysis
+* **How you tested the system in the users’ context with a full range of users** (including users with varying needs). You can evidence this with artefacts of research, for example, video clips and outcomes from research analysis
 * **Are you prepared for ongoing user research?** Show how you plan to continue to test the system with users and the resources for this, for example through an ongoing research plan and budget
 * **What have you not solved yet?** What the significant design challenges are, for example through key insights, how have you approached them? How do you plan to continue to tackle them?
 * **How will you know if your design is working?** Make sure that research has fed into the [metrics you have developed](/standard/11-measure-performance/) to know that you continue to meet your user needs

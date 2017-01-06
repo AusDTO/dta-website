@@ -1,6 +1,4 @@
 
-## Transcript - What is discovery
-
 ### Why do we do a Discovery stage?
 
 Leisa: We do a Discovery stage to discover, which sounds really trite I know, but it's very important because it's really easy for teams to come in thinking that they probably know what the answer is already and just going to validate that and you don't want to do that.

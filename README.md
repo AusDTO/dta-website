@@ -40,7 +40,17 @@ Run the tests with:
 
 `bin/citest.sh`
 
+### Test external links
+
+External links are not tested as part of CI in `bin/citest.sh` to keep test results reproducible.
+
+You can separately test external links with:
+
+`bin/checkexternal.sh`
+
 ## Development Process
+
+Issues are tracked on GitHub and are best viewed using [waffle](https://waffle.io/AusDTO/dta-website).
 
 The default branch is `develop` which is continuously deployed by circleCI to https://dta.apps.staging.digital.gov.au/
 
@@ -48,7 +58,7 @@ The production branch is `master` which is continuously deployed by circleCI to 
 
 When starting a new change, branch from `develop`.
 
-If needed a branch can be continuously deployed by circleCI to a staging site at https://dta-website-<branchname>.apps.staging.digital.gov.au/. As long as the circleCI tests are passing, this staging site will be kept up to date with all commits to the branch.
+If needed a branch can be continuously deployed by circleCI to a staging site at https://dta-website-branchname.apps.staging.digital.gov.au/. As long as the circleCI tests are passing, this staging site will be kept up to date with all commits to the branch.
 
 To enable continuously deploying a branch, add the branch name to `DEPLOY_BRANCHES` in `bin/cideploy.sh`. When you are finished you should remove the branch from `DEPLOY_BRANCHES` and delete the app by running `cf delete dta-website-<branchname>`.
 

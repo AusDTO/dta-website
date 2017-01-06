@@ -16,7 +16,7 @@ Proposed work on new and redesigned services will be affected by the [moratorium
 
 ## <a id="transactional" name="transactional"></a>Transactional services
 
-Transactional services are defined as any service where the transaction results in a change to the records held by government. A transactional service typically involves an exchange of information, money, licenses, goods.
+Transactional services are defined as any service where the transaction results in a change to the records held by government. A transactional service typically involves an exchange of information, money, licences, goods.
 
 Examples of transactional services:
 
