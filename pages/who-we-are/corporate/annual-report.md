@@ -19,11 +19,11 @@ Please find below a full HTML version of the Digital Transformation Office 2015-
 </p>
 
 - [Cover and Letter of Trasmittal](/who-we-are/corporate/annual-report/2015-16/cover-letter/)
-- [01 Introduction and overview](/who-we-are/corporate/annual-report/2015-16/1-introduction/)
-- [02 Report on program performance](/who-we-are/corporate/annual-report/2015-16/2-program-performance/)
-- [03 Report on organisational performance](/who-we-are/corporate/annual-report/2015-16/3-organisational-performance/)
-- [04 Financial statements](/who-we-are/corporate/annual-report/2015-16/4-financial-statements/)
-- [05 References](/who-we-are/corporate/annual-report/2015-16/references/)
+- [1. Introduction and overview](/who-we-are/corporate/annual-report/2015-16/1-introduction/)
+- [2. Report on program performance](/who-we-are/corporate/annual-report/2015-16/2-program-performance/)
+- [3. Report on organisational performance](/who-we-are/corporate/annual-report/2015-16/3-organisational-performance/)
+- [4. Financial statements](/who-we-are/corporate/annual-report/2015-16/4-financial-statements/)
+- [5. References](/who-we-are/corporate/annual-report/2015-16/references/)
 
 
 [Annual Report 2015-16 (PDF, 90 pages, 1.9MB)](/files/dto-annual-report-2015-16.pdf)
