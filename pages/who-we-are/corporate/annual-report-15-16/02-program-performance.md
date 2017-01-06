@@ -12,7 +12,7 @@ doc-nav:
     title: Report on organisational performance
     href: /who-we-are/corporate/annual-report/2015-16/3-organisational-performance/
 ---
-## Report on program performance
+# 2. Report on program performance
 
 <nav class="index-links">
   <h3>On this page</h3>
