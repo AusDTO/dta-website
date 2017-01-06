@@ -1,24 +1,34 @@
 ---
-layout: basic
+layout: default
 gov-speak: true
 ---
 
-{{ content }}
+<div class="annual-report">
 
-{% if page.doc-nav.previous or page.doc-nav.next%}
-<div class="annual-report-progress">
-  <ul>
-    {% if page.doc-nav.previous %}
-    <li class="previous">
-      <div><a href="{{ page.doc-nav.previous.href}}">Previous page</a></div>
-      <div><a href="{{ page.doc-nav.previous.href}}">{{page.doc-nav.previous.title}}</a></div>
-    </li>
-    {% endif %}
-    {% if page.doc-nav.next %}
-    <li class="next">
-      <div><a href="{{page.doc-nav.next.href}}">Next page</a></div>
-      <div><a href="{{page.doc-nav.next.href}}">{{page.doc-nav.next.title}}</a></div>
-    </li>
-    {% endif %}
+  <p class="page-group-title">
+    Annual Report 2015-16
+  </p>
+
+  <h1>{{ page.title }}</h1>
+
+  {{ content }}
+
+  {% if page.doc-nav.previous or page.doc-nav.next%}
+  <div class="annual-report-progress">
+    <ul>
+      {% if page.doc-nav.previous %}
+      <li class="previous">
+        <div><a href="{{ page.doc-nav.previous.href}}">Previous page</a></div>
+        <div><a href="{{ page.doc-nav.previous.href}}">{{page.doc-nav.previous.title}}</a></div>
+      </li>
+      {% endif %}
+      {% if page.doc-nav.next %}
+      <li class="next">
+        <div><a href="{{page.doc-nav.next.href}}">Next page</a></div>
+        <div><a href="{{page.doc-nav.next.href}}">{{page.doc-nav.next.title}}</a></div>
+      </li>
+      {% endif %}
+  </div>
+  {% endif %}
+
 </div>
-{% endif %}

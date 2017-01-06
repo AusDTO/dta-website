@@ -1,6 +1,6 @@
 ---
 layout: annual-report
-title: "Annual Report 2015-16"
+title: "5. References"
 breadcrumb: References
 permalink: /who-we-are/corporate/annual-report/2015-16/references/
 localnav: annual-report-2015-16
@@ -9,7 +9,6 @@ doc-nav:
     title: Financial statements
     href: /who-we-are/corporate/annual-report/2015-16/4-financial-statements/
 ---
-# 5. References
 
 <nav class="index-links">
   <h3>On this page</h3>

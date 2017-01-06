@@ -1,6 +1,6 @@
 ---
 layout: annual-report
-title: "Annual Report 2015-16"
+title: "3. Report on organisational performance"
 breadcrumb: Report on organisational performance
 permalink: /who-we-are/corporate/annual-report/2015-16/3-organisational-performance/
 localnav: annual-report-2015-16
@@ -13,7 +13,6 @@ doc-nav:
     href: /who-we-are/corporate/annual-report/2015-16/4-financial-statements/
     
 ---
-# 3. Report on organisational performance
 
 <nav class="index-links">
   <h3>On this page</h3>
