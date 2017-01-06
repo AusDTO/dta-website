@@ -20,12 +20,11 @@ bundle exec jekyll hyde  --config _config.yml,_config-production.yml
 
 # Run a html proofer over the site
 bundle exec htmlproofer _site  \
+    --disable-external \
     --allow-hash-href \
-    --url-ignore "/mailto:.*/,/www.linkedin.com/*/" \
+    --url-ignore "/(mailto:.*)/" \
     --file-ignore /.*feed/index\.html/ \
-    --empty-alt-ignore \
-    --http-status-ignore "301,302" \
-    --url-swap "http\://localhost\:4000:,https\://dta.apps.staging.digital.gov.au:,https\://www.dta.gov.au:"
+    --empty-alt-ignore
 
 # CI should have already started a webserver in the background for pa11y to test against, but it might not be ready yet
 echo "Waiting for webserver to start..."
