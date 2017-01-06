@@ -164,13 +164,8 @@ The DTO does not administer any legislation.
 
 <ul class="list-vertical" markdown="1">
   <li>
-    <figure>
     ![Image of Paul Shettler]({% asset_path DTO-Paul-130916-67 %})
-    </figure>
-    <article>
-        <p>  
-        
-        <strong>Chief Executive Officer<br>
+    <p><strong>Chief Executive Officer<br>
         Paul Shetler</strong></p>
         <p>
         
@@ -180,17 +175,11 @@ The DTO does not administer any legislation.
 
   Before Paul took up his appointment, David Hazlehurst acted as the Interim CEO of the DTO. David subsequently moved to a deputy secretary position at the Department of Industry, Innovation and Science.
   </p>
-  </article>
   </li>
   
  <li markdown="1">
-    <figure>
     ![Image of Dan Searle]({% asset_path Dan-Searle-1-edit %})
-    </figure>
-    <article>
-    <p>
-    
-  <strong>Head of the Office of the Chief Executive Officer<br>
+    <p><strong>Head of the Office of the Chief Executive Officer<br>
   Daniel Searle</strong></p>
   <p>
   
@@ -198,7 +187,6 @@ The DTO does not administer any legislation.
 
   Daniel holds an Executive MBA from Cass Business School. His previous roles include: Identity Advisor to GOV.UK Verify; Strategy and Delivery Advisor to the United Kingdom’s Home Secretary; and Private Secretary to the UK Border Agency Chief Executive. He has also held senior roles in asylum and immigration enforcement operations.
 </p>
-  </article>
   </li>
   </ul>
   
