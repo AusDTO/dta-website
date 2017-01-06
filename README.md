@@ -40,6 +40,14 @@ Run the tests with:
 
 `bin/citest.sh`
 
+### Test external links
+
+External links are not tested as part of CI in `bin/citest.sh` to keep test results reproducible.
+
+You can separately test external links with:
+
+`bin/checkexternal.sh`
+
 ## Development Process
 
 The default branch is `develop` which is continuously deployed by circleCI to https://dta.apps.staging.digital.gov.au/
