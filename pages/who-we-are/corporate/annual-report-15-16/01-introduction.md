@@ -186,10 +186,10 @@ The DTO does not administer any legislation.
     ![Image of Dan Searle]({% asset_path Dan-Searle-1-edit %})
     </figure>
     <article>
-    
+      <p>
     <strong>Head of the Office of the Chief Executive Officer<br>
   Daniel Searle</strong>
-  <p>
+
   
   Prior to joining the DTO, Daniel was a digital director at Kainos and the Deputy Group Chief Digital Officer at the United Kingdom’s Ministry of Justice.
 
