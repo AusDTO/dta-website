@@ -183,8 +183,7 @@ The DTO does not administer any legislation.
   </article>
   </li>
   
-  <ul class="list-vertical" markdown="1">
-  <li>
+ <li markdown="1">
     <figure>
     ![Image of Dan Searle]({% asset_path Dan-Searle-1-edit %})
     </figure>
@@ -220,8 +219,7 @@ The DTO does not administer any legislation.
   </article>
   </li>
   
-  <ul class="list-vertical" markdown="1">
-  <li>
+  <li markdown="1">
     <figure>
     ![Image of Dan Pulham]({% asset_path DTO090916-3 %})
    </figure>
@@ -254,8 +252,7 @@ The DTO does not administer any legislation.
   </article>
   </li>
   
-  <ul class="list-vertical" markdown="1">
-  <li>
+ <li markdown="1">
     <figure>
     ![Image of Rachel Dixon]({% asset_path DTO-Rachel-130916-25 %})
   </figure>
@@ -273,8 +270,7 @@ The DTO does not administer any legislation.
   </ul>
   
   <ul class="list-vertical" markdown="1">
-  <ul class="list-vertical">
-  <li>
+    <li>
     <figure>
     ![Image of Maria MacNamara]({% asset_path DTO-Maria-130916-56-mod-v2 %})
   </figure>
@@ -288,9 +284,8 @@ The DTO does not administer any legislation.
 </p>
   </article>
   </li>
-  
-  <ul class="list-vertical" markdown="1">
-  <li>
+ 
+  <li markdown="1">
     <figure>
     ![Image of Catherine Thomson]({% asset_path DTO130916-8 %})
    </figure>
@@ -307,7 +302,6 @@ The DTO does not administer any legislation.
   </li>
   </ul>
   <ul class="list-vertical" markdown="1">
-  <ul class="list-vertical">
   <li>
     <figure>
     ![Image of Radi Kovacevic]({% asset_path DTO-Radi %})
