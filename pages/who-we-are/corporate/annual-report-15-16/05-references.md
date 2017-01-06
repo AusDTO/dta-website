@@ -9,7 +9,7 @@ doc-nav:
     title: Financial statements
     href: /who-we-are/corporate/annual-report/2015-16/4-financial-statements/
 ---
-## References
+# 5. References
 
 <nav class="index-links">
   <h3>On this page</h3>
@@ -19,7 +19,7 @@ doc-nav:
     </ul>
 </nav>
 
-### <a id="glossary" name="glossary"></a>Glossary and abbreviations list
+## <a id="glossary" name="glossary"></a>Glossary and abbreviations list
 
 <table class="content-table">
   <tbody>
@@ -70,7 +70,7 @@ doc-nav:
   </tbody>
 </table>
 
-### <a id="requirements" name="requirements"></a>List of requirements
+## <a id="requirements" name="requirements"></a>List of requirements
 
 <table class="content-table" summary="List of requirements">
   <colgroup>
