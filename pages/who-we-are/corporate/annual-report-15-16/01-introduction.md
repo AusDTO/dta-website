@@ -161,44 +161,48 @@ The DTO does not administer any legislation.
   
 ### Executive management
 
-<ul class="list-vertical" markdown="1">
+<ul class="list-vertical">
   <li>
-  <figure>
-    ![Image of Paul Shettler]({% asset_path DTO-Paul-130916-67 %})
-    </figure>
-    <article>
-    <p><strong>Chief Executive Officer<br>
-        Paul Shetler</strong></p>
-        <p>
-        
-  Paul was appointed as the inaugural Chief Executive Officer (CEO) of the DTO in July 2015.
+  <figure markdown="1">
+![Image of Paul Shettler]({% asset_path DTO-Paul-130916-67 %})
 
-  Hailing from the United Kingdom, the technologist and entrepreneur has 20 years of international experience working in financial and digital services, including the role of Chief Digital Officer of the United Kingdom Ministry of Justice from 2014 to 2015. Bringing to the table extensive knowledge of managing start­ups and corporate ventures, he is now tasked with making government services simpler, clearer, faster and more humane.
+</figure>
+    <article markdown="1">
+    
+**Chief Executive Officer**
 
-  Before Paul took up his appointment, David Hazlehurst acted as the Interim CEO of the DTO. David subsequently moved to a deputy secretary position at the Department of Industry, Innovation and Science.
-  </p>
-  </article>
+**Paul Shetler**
+  
+Paul was appointed as the inaugural Chief Executive Officer (CEO) of the DTO in July 2015.
+
+Hailing from the United Kingdom, the technologist and entrepreneur has 20 years of international experience working in financial and digital services, including the role of Chief Digital Officer of the United Kingdom Ministry of Justice from 2014 to 2015. Bringing to the table extensive knowledge of managing start­ups and corporate ventures, he is now tasked with making government services simpler, clearer, faster and more humane.
+
+Before Paul took up his appointment, David Hazlehurst acted as the Interim CEO of the DTO. David subsequently moved to a deputy secretary position at the Department of Industry, Innovation and Science.
+
+</article>
   </li>
   
- <li markdown="1">
- <figure>
-    ![Image of Dan Searle]({% asset_path Dan-Searle-1-edit %})
-    </figure>
-    <article><p>
-    <strong>Head of the Office of the Chief Executive Officer<br>
-    Daniel Searle</strong></p>
-    <p>
+ <li>
+ <figure markdown="1">
 
-  
-  Prior to joining the DTO, Daniel was a digital director at Kainos and the Deputy Group Chief Digital Officer at the United Kingdom’s Ministry of Justice.
+![Image of Dan Searle]({% asset_path Dan-Searle-1-edit %})
 
-  Daniel holds an Executive MBA from Cass Business School. His previous roles include: Identity Advisor to GOV.UK Verify; Strategy and Delivery Advisor to the United Kingdom’s Home Secretary; and Private Secretary to the UK Border Agency Chief Executive. He has also held senior roles in asylum and immigration enforcement operations.
-</p>
+</figure>
+    <article markdown="1">
+
+**Head of the Office of the Chief Executive Officer**
+
+**Daniel Searle**
+
+Prior to joining the DTO, Daniel was a digital director at Kainos and the Deputy Group Chief Digital Officer at the United Kingdom’s Ministry of Justice.
+
+Daniel holds an Executive MBA from Cass Business School. His previous roles include: Identity Advisor to GOV.UK Verify; Strategy and Delivery Advisor to the United Kingdom’s Home Secretary; and Private Secretary to the UK Border Agency Chief Executive. He has also held senior roles in asylum and immigration enforcement operations.
+
 </article>
   </li>
   </ul>
   
-  <ul class="list-vertical" markdown="1">
+  <ul class="list-vertical">
   <li>
     <figure>
     ![Image of Deborah Lewis]({% asset_path DTO-Staff-Deb-2-edit %})
@@ -216,7 +220,7 @@ The DTO does not administer any legislation.
   </article>
   </li>
   
-  <li markdown="1">
+  <li>
     <figure>
     ![Image of Dan Pulham]({% asset_path DTO090916-3 %})
    </figure>
