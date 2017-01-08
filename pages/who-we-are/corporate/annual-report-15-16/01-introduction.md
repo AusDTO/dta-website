@@ -204,10 +204,10 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
   
   <ul class="list-vertical">
   <li>
-    <figure>
+    <figure markdown="1">
     ![Image of Deborah Lewis]({% asset_path DTO-Staff-Deb-2-edit %})
      </figure>
-    <article>
+    <article markdown="1">
     <p> 
    <strong>Head of Business Operations/Chief Operating Officer<br>
    Deborah Lewis</strong></p>
@@ -221,10 +221,10 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
   </li>
   
   <li>
-    <figure>
+    <figure markdown="1">
     ![Image of Dan Pulham]({% asset_path DTO090916-3 %})
    </figure>
-    <article>
+    <article markdown="1">
     <p> 
     
   <strong>Head of Delivery<br>
@@ -239,12 +239,12 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
   </li>
   </ul>
   
-  <ul class="list-vertical" markdown="1">
+  <ul class="list-vertical">
   <li>
-    <figure>
+    <figure markdown="1">
     ![Image of Jose Del Rio]({% asset_path DTO-Jose-130916-29 %})
   </figure>
-    <article>
+    <article markdown="1">
     <p> 
   <strong>Head of Digital Partnerships<br>
   Jose Del Rio</strong></p>
@@ -256,10 +256,10 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
   </li>
   
  <li markdown="1">
-    <figure>
+    <figure markdown="1">
     ![Image of Rachel Dixon]({% asset_path DTO-Rachel-130916-25 %})
   </figure>
-    <article>
+    <article markdown="1">
     <p> 
   <strong>Head of Identity<br>
   Rachel Dixon</strong></p>
@@ -273,12 +273,12 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
   </li>
   </ul>
   
-  <ul class="list-vertical" markdown="1">
+  <ul class="list-vertical">
     <li>
-    <figure>
+    <figure markdown="1">
     ![Image of Maria MacNamara]({% asset_path DTO-Maria-130916-56-mod-v2 %})
   </figure>
-    <article>
+    <article markdown="1">
     <p> 
     
   <strong>Head of Strategy and Engagement<br>
@@ -291,10 +291,10 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
   </li>
  
   <li markdown="1">
-    <figure>
+    <figure markdown="1">
     ![Image of Catherine Thomson]({% asset_path DTO130916-8 %})
    </figure>
-    <article>
+    <article markdown="1">
     <p> 
   <strong>Head of Digital Marketplace<br>
   Catherine Thompson</strong></p>
@@ -307,12 +307,12 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
   </article>
   </li>
   </ul>
-  <ul class="list-vertical" markdown="1">
+  <ul class="list-vertical">
   <li>
-    <figure>
+    <figure markdown="1">
     ![Image of Radi Kovacevic]({% asset_path DTO-Radi %})
    </figure>
-    <article>
+    <article markdown="1">
     <p> 
   <strong>Head of GOV.AU<br>
   Radi Kovacevic (acting)</strong></p>
