@@ -170,7 +170,6 @@ The DTO does not administer any legislation.
     <article markdown="1">
     
 **Chief Executive Officer**
-
 **Paul Shetler**
   
 Paul was appointed as the inaugural Chief Executive Officer (CEO) of the DTO in July 2015.
@@ -191,7 +190,6 @@ Before Paul took up his appointment, David Hazlehurst acted as the Interim CEO o
     <article markdown="1">
 
 **Head of the Office of the Chief Executive Officer**
-
 **Daniel Searle**
 
 Prior to joining the DTO, Daniel was a digital director at Kainos and the Deputy Group Chief Digital Officer at the United Kingdom’s Ministry of Justice.
@@ -205,7 +203,8 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
   <ul class="list-vertical">
   <li>
     <figure markdown="1">
-    ![Image of Deborah Lewis]({% asset_path DTO-Staff-Deb-2-edit %})
+![Image of Deborah Lewis]({% asset_path DTO-Staff-Deb-2-edit %})
+
      </figure>
     <article markdown="1">
     <p> 
@@ -222,7 +221,8 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
   
   <li>
     <figure markdown="1">
-    ![Image of Dan Pulham]({% asset_path DTO090916-3 %})
+![Image of Dan Pulham]({% asset_path DTO090916-3 %})
+
    </figure>
     <article markdown="1">
     <p> 
@@ -242,7 +242,8 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
   <ul class="list-vertical">
   <li>
     <figure markdown="1">
-    ![Image of Jose Del Rio]({% asset_path DTO-Jose-130916-29 %})
+![Image of Jose Del Rio]({% asset_path DTO-Jose-130916-29 %})
+
   </figure>
     <article markdown="1">
     <p> 
@@ -257,7 +258,8 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
   
  <li markdown="1">
     <figure markdown="1">
-    ![Image of Rachel Dixon]({% asset_path DTO-Rachel-130916-25 %})
+![Image of Rachel Dixon]({% asset_path DTO-Rachel-130916-25 %})
+
   </figure>
     <article markdown="1">
     <p> 
@@ -276,7 +278,8 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
   <ul class="list-vertical">
     <li>
     <figure markdown="1">
-    ![Image of Maria MacNamara]({% asset_path DTO-Maria-130916-56-mod-v2 %})
+![Image of Maria MacNamara]({% asset_path DTO-Maria-130916-56-mod-v2 %})
+
   </figure>
     <article markdown="1">
     <p> 
@@ -292,7 +295,8 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
  
   <li markdown="1">
     <figure markdown="1">
-    ![Image of Catherine Thomson]({% asset_path DTO130916-8 %})
+![Image of Catherine Thomson]({% asset_path DTO130916-8 %})
+
    </figure>
     <article markdown="1">
     <p> 
@@ -310,7 +314,8 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
   <ul class="list-vertical">
   <li>
     <figure markdown="1">
-    ![Image of Radi Kovacevic]({% asset_path DTO-Radi %})
+![Image of Radi Kovacevic]({% asset_path DTO-Radi %})
+
    </figure>
     <article markdown="1">
     <p> 
