@@ -60,12 +60,12 @@ In addition, many agencies undertook the development and redesign of services in
 
 In conjunction with releasing the Digital Service Standard, the DTO began developing five platforms to provide individuals and businesses with easier ways to access government services.
 
-#### GOV.AU
+#### *GOV.AU*
 
 In March 2016, the DTO publicly released the alpha version of GOV.AU (www.gov.au/alpha/), a program of work with the vision of creating a place where users can find anything to do with the Australian Government without having to visit multiple websites to access key services. This was a major step in providing customers with a simplified and navigable mechanism for accessing the enormous volume of information and services that the government and APS provide in digital form.
 In conjunction with the development and release of GOV.AU, the DTO worked with entities across the APS to develop a content style guide to assist government as a whole to shape its voice, project consistency, convey trust and communicate clearly.
 
-#### Digital Marketplace
+#### *Digital Marketplace*
 
 As part of the National Innovation and Science Agenda, the DTO has started development of the Digital Marketplace.
 
@@ -77,7 +77,7 @@ This process established a panel that will be accessible through future iteratio
 
 The discovery phase commenced in April 2016, and involved six weeks of user research with government buyers and ICT professionals. The team then entered the alpha phase and tested the prototype with users.
 
-#### cloud.gov.au
+#### *cloud.gov.au*
 
 In 2015–16, the DTO developed the first version of cloud.gov.au to make delivering and operating digital services easier. The platform makes it easier for teams to release, monitor and grow user-facing digital services, by:
   - providing the infrastructure, monitoring and delivery tools required to release and operate user-facing web applications that meet user needs
@@ -86,12 +86,12 @@ In 2015–16, the DTO developed the first version of cloud.gov.au to make delive
 
 The platform has been tested with teams in the DTO delivery hubs. The Department of Immigration and Border Protection is also using the platform.
 
-#### Performance Dashboard
+#### *Performance Dashboard*
 
 The DTO has created the Performance Dashboard, a platform to assist government entities to publicly measure the performance of services against the metrics defined by criterion 11 of the Digital Service Standard. The platform will increase the visibility of how well government services are performing and drive the continued improvement of services for users.
 In May 2016, a working alpha version was released with performance data for myGov, at [dashboard.gov.au](http://www.dashboard.gov.au/).
 
-#### Digital authentication and verification
+#### *Digital authentication and verification*
 
 The DTO commenced the discovery phase of the digital authentication and verification program in January 2016. The program aims to provide a platform that will allow users to establish their identity once only when using different government services online.
 
