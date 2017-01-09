@@ -115,7 +115,7 @@ The new in-flight model means that digital teams and assessors are better able t
 
 This annual report covers the performance, accountability and financial reporting of the Digital Transformation Office (DTO) for the financial year ending on 30 June 2016.
 
-The report was drafted in line with the Public Governance, Performance and Accountability Rule 2014 and the Department of Finance Resource Management Guide No. 135: Annual reports for non-corporate Commonwealth entities, July 2016.
+The report was drafted in line with the Public Governance, Performance and Accountability Rule 2014 and the Department of Finance *Resource Management Guide No. 135: Annual reports for non-corporate Commonwealth entities*, July 2016.
 
 The ‘Overview’ section in this part of the report includes a description of the DTO’s role, structure, and outcome and program framework.
 
