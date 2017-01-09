@@ -169,7 +169,7 @@ The DTO does not administer any legislation.
 </figure>
     <article markdown="1">
     
-**Chief Executive Officer**
+**Chief Executive Officer**<br>
 **Paul Shetler**
   
 Paul was appointed as the inaugural Chief Executive Officer (CEO) of the DTO in July 2015.
@@ -208,7 +208,7 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
   </figure>
   <article markdown="1">
      
- **Head of Business Operations/Chief Operating Officer**
+ **Head of Business Operations/Chief Operating Officer**<br>
  **Deborah Lewis**
    
 Deborah is responsible for the financial operations of the DTO, including risk, compliance, human resources, procurement, IT and support for the CEO.
@@ -226,7 +226,7 @@ Deborah has a strong public sector background, having led divisions with hundred
     <article markdown="1">
      
     
-**Head of Delivery**
+**Head of Delivery**<br>
 **Dan Pulham**
   
 
@@ -246,7 +246,7 @@ During his time at Telstra Digital, Dan led a transformation program to rebuild 
  </figure>
    <article markdown="1">
      
-**Head of Digital Partnerships**
+**Head of Digital Partnerships**<br>
 **Jose Del Rio**
   
 
@@ -262,7 +262,7 @@ Jose started the taskforce that led to the creation of the DTO. He has held a nu
  </figure>
    <article markdown="1">
     
-**Head of Identity**
+**Head of Identity**<br>
 **Rachel Dixon**
  
 
@@ -282,7 +282,7 @@ Rachel has held executive positions at Suncorp, Viocorp, thePlatform for Media, 
   </figure>
     <article markdown="1">
      
-**Head of Strategy and Engagement**
+**Head of Strategy and Engagement**<br>
 **Maria MacNamara**
  
 
@@ -296,9 +296,9 @@ Prior to joining the DTO, Maria was responsible for marketing and business devel
 ![Image of Catherine Thomson]({% asset_path DTO130916-8 %})
 
  </figure>
-    <article markdown="1">
+<article markdown="1">
      
-**Head of Digital Marketplace**
+**Head of Digital Marketplace**<br>
 **Catherine Thompson**
   
 
@@ -306,7 +306,7 @@ Catherine is interested in enterprise cost-efficiency, operations and the procur
 
 Most recently Head of Delivery for pioneering virtual reality start-up Zero Latency, Catherine has also been the Chief Procurement Officer of ANZ Banking Group and a director of Portland Group (now Infosys Portland). She writes for Procurement Leaders on issues at the nexus of technology, innovation and the supply chain.
 
-  </article>
+</article>
   </li>
   </ul>
   <ul class="list-vertical">
