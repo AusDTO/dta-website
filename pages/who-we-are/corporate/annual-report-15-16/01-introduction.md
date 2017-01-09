@@ -207,15 +207,14 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
 
      </figure>
     <article markdown="1">
-    <p> 
-   <strong>Head of Business Operations/Chief Operating Officer<br>
-   Deborah Lewis</strong></p>
-   <p>
+     
+   **Head of Business Operations/Chief Operating Officer**
+   **Deborah Lewis**
+   
+Deborah is responsible for the financial operations of the DTO, including risk, compliance, human resources, procurement, IT and support for the CEO.
 
-  Deborah is responsible for the financial operations of the DTO, including risk, compliance, human resources, procurement, IT and support for the CEO.
+Deborah has a strong public sector background, having led divisions with hundreds of staff to embed significant culture and business change agendas. She has held positions across service delivery, policy and program, and corporate functions, in entities such as Austrade and the departments of Immigration; Climate Change and Energy Efficiency; and Resources, Energy and Tourism.
 
-  Deborah has a strong public sector background, having led divisions with hundreds of staff to embed significant culture and business change agendas. She has held positions across service delivery, policy and program, and corporate functions, in entities such as Austrade and the departments of Immigration; Climate Change and Energy Efficiency; and Resources, Energy and Tourism.
-</p>
   </article>
   </li>
   
@@ -225,16 +224,16 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
 
    </figure>
     <article markdown="1">
-    <p> 
+     
     
-  <strong>Head of Delivery<br>
-  Dan Pulham</strong></p>
-  <p>
+  **Head of Delivery**
+  **Dan Pulham**
+  
 
-  Dan joined the DTO in April 2016 having previously spent nine years at Telstra, the last five of those as a founding member of Telstra Digital.
+Dan joined the DTO in April 2016 having previously spent nine years at Telstra, the last five of those as a founding member of Telstra Digital.
 
-  During his time at Telstra Digital, Dan led a transformation program to rebuild Telstra’s MyAccount, delivered the Consumer Identity platform, and ran the portfolio process which managed change into Telstra’s MyAccount, E-Commerce, 24/7 and Identity platforms.
-</p>
+During his time at Telstra Digital, Dan led a transformation program to rebuild Telstra’s MyAccount, delivered the Consumer Identity platform, and ran the portfolio process which managed change into Telstra’s MyAccount, E-Commerce, 24/7 and Identity platforms.
+
   </article>
   </li>
   </ul>
@@ -246,13 +245,13 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
 
   </figure>
     <article markdown="1">
-    <p> 
-  <strong>Head of Digital Partnerships<br>
-  Jose Del Rio</strong></p>
-  <p>
+     
+  **Head of Digital Partnerships**
+  **Jose Del Rio**
+  
 
-  Jose started the taskforce that led to the creation of the DTO. He has held a number of senior strategic and social policy roles at the Department of the Prime Minister and Cabinet. He has also led immigration processing, program and policy teams at the Department of Immigration and Border Protection and at Citizenship and Immigration Canada.
-</p>
+Jose started the taskforce that led to the creation of the DTO. He has held a number of senior strategic and social policy roles at the Department of the Prime Minister and Cabinet. He has also led immigration processing, program and policy teams at the Department of Immigration and Border Protection and at Citizenship and Immigration Canada.
+
   </article>
   </li>
   
@@ -262,15 +261,15 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
 
   </figure>
     <article markdown="1">
-    <p> 
-  <strong>Head of Identity<br>
-  Rachel Dixon</strong></p>
-  <p>
+    
+  **Head of Identity**
+  **Rachel Dixon**
+ 
 
-  Rachel’s professional background encompasses IT and telecommunications, and film, television and new media production.
+Rachel’s professional background encompasses IT and telecommunications, and film, television and new media production.
 
-  Rachel has held executive positions at Suncorp, Viocorp, thePlatform for Media, and Massive Interactive. She has also been a director of the Australian Centre for Advanced Computing and Communications, Choice (the Australian Consumers Association) and several small software companies. She co­founded FIBRE, a telecommunications company servicing the motion picture post-production and visual effects industry. She is a past director and chair of several other media, software and telecommunications companies, and a former senior executive with Film Australia and Film Victoria.
-</p>
+Rachel has held executive positions at Suncorp, Viocorp, thePlatform for Media, and Massive Interactive. She has also been a director of the Australian Centre for Advanced Computing and Communications, Choice (the Australian Consumers Association) and several small software companies. She co­founded FIBRE, a telecommunications company servicing the motion picture post-production and visual effects industry. She is a past director and chair of several other media, software and telecommunications companies, and a former senior executive with Film Australia and Film Victoria.
+
   </article>
   </li>
   </ul>
@@ -282,14 +281,13 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
 
   </figure>
     <article markdown="1">
-    <p> 
-    
-  <strong>Head of Strategy and Engagement<br>
-  Maria MacNamara</strong></p>
- <p>
+     
+  **Head of Strategy and Engagement**
+  **Maria MacNamara**
+ 
 
-  Prior to joining the DTO, Maria was responsible for marketing and business development at Swaab Attorneys. Maria also established a professional services start-up, after leading marketing and business development teams in Australia’s foremost legal and consulting firms. She co-founded the Awesome Women’s Project and the Ecosystem Leaders’ Lunch, and sits on the advisory boards delivering the Women in Fintech initiative at Stone & Chalk and The Spark Festival, Sydney.
-</p>
+Prior to joining the DTO, Maria was responsible for marketing and business development at Swaab Attorneys. Maria also established a professional services start-up, after leading marketing and business development teams in Australia’s foremost legal and consulting firms. She co-founded the Awesome Women’s Project and the Ecosystem Leaders’ Lunch, and sits on the advisory boards delivering the Women in Fintech initiative at Stone & Chalk and The Spark Festival, Sydney.
+
   </article>
   </li>
  
@@ -299,15 +297,15 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
 
    </figure>
     <article markdown="1">
-    <p> 
-  <strong>Head of Digital Marketplace<br>
-  Catherine Thompson</strong></p>
-  <p>
+     
+  **Head of Digital Marketplace**
+  **Catherine Thompson**
+  
 
-  Catherine is interested in enterprise cost-efficiency, operations and the procurement/supply chain, with a particular focus on the cultural change that supports innovation in those fields. Her experience has been deepened in senior leadership and consulting roles across the financial services, transport, petrochemicals, retail and health services sectors. She particularly enjoys start-ups and remediations.
+Catherine is interested in enterprise cost-efficiency, operations and the procurement/supply chain, with a particular focus on the cultural change that supports innovation in those fields. Her experience has been deepened in senior leadership and consulting roles across the financial services, transport, petrochemicals, retail and health services sectors. She particularly enjoys start-ups and remediations.
 
-  Most recently Head of Delivery for pioneering virtual reality start-up Zero Latency, Catherine has also been the Chief Procurement Officer of ANZ Banking Group and a director of Portland Group (now Infosys Portland). She writes for Procurement Leaders on issues at the nexus of technology, innovation and the supply chain.
-</p>
+Most recently Head of Delivery for pioneering virtual reality start-up Zero Latency, Catherine has also been the Chief Procurement Officer of ANZ Banking Group and a director of Portland Group (now Infosys Portland). She writes for Procurement Leaders on issues at the nexus of technology, innovation and the supply chain.
+
   </article>
   </li>
   </ul>
@@ -318,15 +316,15 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
 
    </figure>
     <article markdown="1">
-    <p> 
-  <strong>Head of GOV.AU<br>
-  Radi Kovacevic (acting)</strong></p>
-  <p>
+     
+  **Head of GOV.AU**
+  **Radi Kovacevic (acting)**
+  
 
-  In his previous role, Radi was the Chief Information Officer for the Department of the Prime Minister and Cabinet, with responsibility for all digital services.
+In his previous role, Radi was the Chief Information Officer for the Department of the Prime Minister and Cabinet, with responsibility for all digital services.
 
-  Radi has a strong background in digital delivery for large programs, including the 2014 G20 summit in Brisbane, and large machinery of government changes. In the Department of Climate Change and Energy Efficiency, Radi assisted with the remediation program for the Home Insulation Program and led the digital delivery for energy efficiency programs such as National Solar Schools.
-  </p>
+Radi has a strong background in digital delivery for large programs, including the 2014 G20 summit in Brisbane, and large machinery of government changes. In the Department of Climate Change and Energy Efficiency, Radi assisted with the remediation program for the Home Insulation Program and led the digital delivery for energy efficiency programs such as National Solar Schools.
+
   </article>
   </li>
   </ul>
