@@ -32,8 +32,13 @@ Chief Executive Officer
 
 ### Purpose
 
-The DTO’s purpose is to facilitate the digital transformation of Australian Government services through innovative and collaborative development of service delivery policies and standards, platforms and joined-up services. As the DTO did not have a corporate plan in 2015–16, the DTO’s purpose for the reporting period has been aligned with its portfolio outcome: Outcome 1: To improve the user experience for all Australians accessing government information and services by leading the design, development and continual enhancement of whole-of-government service delivery policies and standards, platforms and joined-up services.
+The DTO’s purpose is to facilitate the digital transformation of Australian Government services through innovative and collaborative development of service delivery policies and standards, platforms and joined-up services. 
 
+As the DTO did not have a corporate plan in 2015–16, the DTO’s purpose for the reporting period has been aligned with its portfolio outcome: 
+
+<div class="indented" markdown ="1">
+Outcome 1: To improve the user experience for all Australians accessing government information and services by leading the design, development and continual enhancement of whole-of-government service delivery policies and standards, platforms and joined-up services.
+</div>
 ### Performance
 
 In its inaugural year, the DTO set an ambitious agenda to implement a new approach to service delivery and product development in the Australian Public Service (APS). To achieve its purpose, the DTO established deliverables that required key service delivery agencies to embrace the unknown and believe in the vision and capability of the DTO. The DTO found great allies across the APS who embraced the opportunity to transform government services through an agile approach that focused on user needs.
