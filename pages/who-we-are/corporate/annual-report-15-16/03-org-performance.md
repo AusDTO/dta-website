@@ -35,7 +35,7 @@ As a small Commonwealth entity in its first year of operation, the DTO has devel
 
 Due to its size and mobile workforce, the DTO has implemented a devolved governance model while ensuring that the Chief Executive officer (CEO) is supported in his individual obligations.
 
-The model also ensures that all staff are aware of their responsibilities under the Public Governance, Performance and Accountability Act 2013 (PGPA Act) and the Public Service Act 1999, including effective, efficient and ethical use of public resources, and acknowledgement of risks related to their responsibilities.
+The model also ensures that all staff are aware of their responsibilities under the *Public Governance, Performance and Accountability Act 2013* (PGPA Act) and the *Public Service Act 1999*, including effective, efficient and ethical use of public resources, and acknowledgement of risks related to their responsibilities.
 
 ### Governance committees
 
@@ -107,7 +107,7 @@ The DTO appeared before the Senate Estimates (Finance and Public Administration 
 
 ## Freedom of information
 
-Entities subject to the Freedom of Information Act 1982 are required to publish information to the public as part of the Information Publication Scheme (IPS). This requirement is in Part II of the Freedom of Information Act and has replaced the former requirement to publish a section 8 statement in an annual report.
+Entities subject to the *Freedom of Information Act 1982* are required to publish information to the public as part of the Information Publication Scheme (IPS). This requirement is in Part II of the Freedom of Information Act and has replaced the former requirement to publish a section 8 statement in an annual report.
 
 The DTO publishes a range of information in accordance with the IPS, including the DTO’s information publication plan and details of our organisation and functions. Information published under the IPS is accessible on the DTO’s website at www.dto.gov.au/freedom-of-information.
 
@@ -438,7 +438,7 @@ The National Disability Strategy 2010–2020 sets out a 10-year national policy 
 
 ## Work health and safety
 
-The DTO is committed to providing a safe workplace for all staff and contractors working across the organisation. The DTO recognises the importance of its legislative obligations under the Work Health and Safety Act 2011 to prevent work-related injury and illness.
+The DTO is committed to providing a safe workplace for all staff and contractors working across the organisation. The DTO recognises the importance of its legislative obligations under the *Work Health and Safety Act 2011* to prevent work-related injury and illness.
 
 As part of its commitment to providing a safe working environment, the DTO has:
 
@@ -487,7 +487,7 @@ During 2015–16, two new consultancy contracts were entered into by the DTO, in
 
 ## Advertising and market research
 
-Under section 311A of the Commonwealth Electoral Act 1918, the DTO is required to report annually on its use of advertising and marketing services. During 2015–16, the DTO did not make any payments for advertising campaigns. The agency did make payments for market research services, as shown in Table 6.
+Under section 311A of the *Commonwealth Electoral Act 1918*, the DTO is required to report annually on its use of advertising and marketing services. During 2015–16, the DTO did not make any payments for advertising campaigns. The agency did make payments for market research services, as shown in Table 6.
 
 <table class="content-table" cellpadding="6px" cellspacing="6px" style="border:1px" summary="Table 6 Commissions paid to market research agencies in 2015–16 (including GST)">
   <caption>
@@ -525,7 +525,7 @@ Under section 311A of the Commonwealth Electoral Act 1918, the DTO is required t
 </table>
 ## Environmental performance
 
-The following summary of the DTO’s environmental management activities and performance is provided in accordance with section 516A of the Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act), which requires Australian Government entities to report on:
+The following summary of the DTO’s environmental management activities and performance is provided in accordance with section 516A of the *Environment Protection and Biodiversity Conservation Act 1999* (EPBC Act), which requires Australian Government entities to report on:
 
 - how their activities accord with, and their outcomes contribute to, the principles of ecologically sustainable development
 - the environmental impacts of their operations during the year and measures taken to minimise those impacts.
