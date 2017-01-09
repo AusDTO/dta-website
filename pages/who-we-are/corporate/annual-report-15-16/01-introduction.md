@@ -52,7 +52,7 @@ Australia has the opportunity to become a world leader in the provision of digit
   
   Solutions are found on the go, through collaborative effort and user feedback. This approach enables teams to start small and learn fast. Critically, it reduces the risk of service failure.
   
-  DTO’s service design and delivery process has four stages:
+DTO’s service design and delivery process has four stages:
    1. **Discovery:** This stage involves mapping the broader service landscape, researching the real needs and problems faced by users, and understanding the policy intent and technology constraints.
    2. **Alpha:** During alpha, the team tests out a hypothesis by building prototypes in code, exploring different ways to meet the needs of users. User research is conducted to learn which of the approaches works best, and the solution continues to be iterated as more is learned.
    3. **Beta:** Using the successful prototype from stage 2, a Minimum Viable Product is built as an accessible and secure service. Members of the public trial the beta version alongside the existing service, and their feedback is used to improve the service.
@@ -124,13 +124,13 @@ The role of the DTO is to design the system and governance for this change proce
 
 The DTO has one portfolio outcome, delivered through one program:
 
-Outcome 1: To improve the user experience for all Australians accessing government information and services by leading the design, development and continual enhancement of whole-of-government service delivery policies and standards, platforms and joined-up services.
+>   Outcome 1: To improve the user experience for all Australians accessing government information and services by leading the design, development and continual enhancement of whole-of-government service delivery policies and standards, platforms and joined-up services.
 
-Program 1.1: The Digital Transformation Office
+>   Program 1.1: The Digital Transformation Office
 
 In 2015–16, the objective of Program 1.1 was:
 
-To support the Prime Minister in transforming government services to improve the user experience, cut red tape and ensure services are delivered efficiently.
+>   To support the Prime Minister in transforming government services to improve the user experience, cut red tape and ensure services are delivered efficiently.
 
 ### Values
 
