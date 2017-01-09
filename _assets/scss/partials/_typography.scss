@@ -9,3 +9,10 @@
     }
   }
 }
+
+.indented {
+  padding-left: $base-spacing;
+  @include media($tablet) {
+    padding-left: $large-spacing;
+  }
+}
