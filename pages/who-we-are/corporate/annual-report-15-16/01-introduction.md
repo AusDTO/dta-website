@@ -200,16 +200,16 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
   </li>
   </ul>
   
-  <ul class="list-vertical">
+<ul class="list-vertical">
   <li>
-    <figure markdown="1">
+  <figure markdown="1">
 ![Image of Deborah Lewis]({% asset_path DTO-Staff-Deb-2-edit %})
 
-     </figure>
-    <article markdown="1">
+  </figure>
+  <article markdown="1">
      
-   **Head of Business Operations/Chief Operating Officer**
-   **Deborah Lewis**
+ **Head of Business Operations/Chief Operating Officer**
+ **Deborah Lewis**
    
 Deborah is responsible for the financial operations of the DTO, including risk, compliance, human resources, procurement, IT and support for the CEO.
 
@@ -219,15 +219,15 @@ Deborah has a strong public sector background, having led divisions with hundred
   </li>
   
   <li>
-    <figure markdown="1">
+  <figure markdown="1">
 ![Image of Dan Pulham]({% asset_path DTO090916-3 %})
 
-   </figure>
+  </figure>
     <article markdown="1">
      
     
-  **Head of Delivery**
-  **Dan Pulham**
+**Head of Delivery**
+**Dan Pulham**
   
 
 Dan joined the DTO in April 2016 having previously spent nine years at Telstra, the last five of those as a founding member of Telstra Digital.
@@ -240,14 +240,14 @@ During his time at Telstra Digital, Dan led a transformation program to rebuild 
   
   <ul class="list-vertical">
   <li>
-    <figure markdown="1">
+  <figure markdown="1">
 ![Image of Jose Del Rio]({% asset_path DTO-Jose-130916-29 %})
 
-  </figure>
-    <article markdown="1">
+ </figure>
+   <article markdown="1">
      
-  **Head of Digital Partnerships**
-  **Jose Del Rio**
+**Head of Digital Partnerships**
+**Jose Del Rio**
   
 
 Jose started the taskforce that led to the creation of the DTO. He has held a number of senior strategic and social policy roles at the Department of the Prime Minister and Cabinet. He has also led immigration processing, program and policy teams at the Department of Immigration and Border Protection and at Citizenship and Immigration Canada.
@@ -256,21 +256,21 @@ Jose started the taskforce that led to the creation of the DTO. He has held a nu
   </li>
   
  <li markdown="1">
-    <figure markdown="1">
+ <figure markdown="1">
 ![Image of Rachel Dixon]({% asset_path DTO-Rachel-130916-25 %})
 
-  </figure>
-    <article markdown="1">
+ </figure>
+   <article markdown="1">
     
-  **Head of Identity**
-  **Rachel Dixon**
+**Head of Identity**
+**Rachel Dixon**
  
 
 Rachel’s professional background encompasses IT and telecommunications, and film, television and new media production.
 
 Rachel has held executive positions at Suncorp, Viocorp, thePlatform for Media, and Massive Interactive. She has also been a director of the Australian Centre for Advanced Computing and Communications, Choice (the Australian Consumers Association) and several small software companies. She co­founded FIBRE, a telecommunications company servicing the motion picture post-production and visual effects industry. She is a past director and chair of several other media, software and telecommunications companies, and a former senior executive with Film Australia and Film Victoria.
 
-  </article>
+ </article>
   </li>
   </ul>
   
@@ -282,8 +282,8 @@ Rachel has held executive positions at Suncorp, Viocorp, thePlatform for Media, 
   </figure>
     <article markdown="1">
      
-  **Head of Strategy and Engagement**
-  **Maria MacNamara**
+**Head of Strategy and Engagement**
+**Maria MacNamara**
  
 
 Prior to joining the DTO, Maria was responsible for marketing and business development at Swaab Attorneys. Maria also established a professional services start-up, after leading marketing and business development teams in Australia’s foremost legal and consulting firms. She co-founded the Awesome Women’s Project and the Ecosystem Leaders’ Lunch, and sits on the advisory boards delivering the Women in Fintech initiative at Stone & Chalk and The Spark Festival, Sydney.
@@ -292,14 +292,14 @@ Prior to joining the DTO, Maria was responsible for marketing and business devel
   </li>
  
   <li markdown="1">
-    <figure markdown="1">
+  <figure markdown="1">
 ![Image of Catherine Thomson]({% asset_path DTO130916-8 %})
 
-   </figure>
+ </figure>
     <article markdown="1">
      
-  **Head of Digital Marketplace**
-  **Catherine Thompson**
+**Head of Digital Marketplace**
+**Catherine Thompson**
   
 
 Catherine is interested in enterprise cost-efficiency, operations and the procurement/supply chain, with a particular focus on the cultural change that supports innovation in those fields. Her experience has been deepened in senior leadership and consulting roles across the financial services, transport, petrochemicals, retail and health services sectors. She particularly enjoys start-ups and remediations.
@@ -311,20 +311,20 @@ Most recently Head of Delivery for pioneering virtual reality start-up Zero Late
   </ul>
   <ul class="list-vertical">
   <li>
-    <figure markdown="1">
+  <figure markdown="1">
 ![Image of Radi Kovacevic]({% asset_path DTO-Radi %})
 
-   </figure>
-    <article markdown="1">
+ </figure>
+  <article markdown="1">
      
-  **Head of GOV.AU**
-  **Radi Kovacevic (acting)**
+**Head of GOV.AU**
+**Radi Kovacevic (acting)**
   
 
 In his previous role, Radi was the Chief Information Officer for the Department of the Prime Minister and Cabinet, with responsibility for all digital services.
 
 Radi has a strong background in digital delivery for large programs, including the 2014 G20 summit in Brisbane, and large machinery of government changes. In the Department of Climate Change and Energy Efficiency, Radi assisted with the remediation program for the Home Insulation Program and led the digital delivery for energy efficiency programs such as National Solar Schools.
 
-  </article>
+ </article>
   </li>
-  </ul>
+</ul>
