@@ -1,0 +1,26 @@
+engines:
+  rbundler-audit:
+    enabled: true
+  scss-lint:
+    enabled: true
+  duplication:
+    enabled: true
+    config:
+      languages:
+       - ruby
+       - javascript
+ratings:
+  paths:
+  - Gemfile.lock
+  - "**.js"
+  - "**.rb"
+  - "*.css"
+  - "*.scss"
+exclude_paths:
+- .asset-cache
+- .bundle
+- .sass-cache
+- _assets/js/vendor
+- _assets/vendor
+- _site
+- node_modules
