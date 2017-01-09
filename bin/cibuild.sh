@@ -15,21 +15,26 @@ export JEKYLL_ENV=production
 main() {
   readonly GITBRANCH="${CIRCLE_BRANCH}"
 
+  # Use the branch name to set the url used by jekyll
   case "${GITBRANCH}" in
     master)
-      echo "Building with production jekyll config"
-      bundle exec jekyll build --config _config.yml,_config-production.yml
+      readonly SITE_URL="https://www.dta.gov.au"
       ;;
     develop)
-      echo "Building with development/staging jekyll config"
-      bundle exec jekyll build --config _config.yml,_config-develop.yml
+      readonly SITE_URL="https://dta.apps.staging.digital.gov.au"
+      ;;
+    "")
+      readonly SITE_URL="http://localhost:4000"
       ;;
     *)
-      echo "Building with normal jekyll config"
-      bundle exec jekyll build
-      exit 0
+      readonly SITE_URL="https://dta-website-${GITBRANCH}.apps.staging.digital.gov.au"
       ;;
   esac
+
+  mkdir -p _site
+  echo "url: \"${SITE_URL}\"">_site/_config-url.yml
+
+  bundle exec jekyll build --config _config.yml,_site/_config-url.yml
 }
 
 main $@
