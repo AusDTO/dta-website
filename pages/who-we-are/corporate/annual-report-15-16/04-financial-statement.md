@@ -37,23 +37,33 @@ Independent auditor’s report
 
 ## Statement by the Chief Executive Officer and Chief Financial Officer
 
-In our opinion, the attached financial statements for the year ended 30 June 2016 comply with subsection 42(2) of the Public Governance, Performance and Accountability Act 2013 (PGPA Act), and are based on properly maintained financial records as per subsection 41(2) of the PGPA Act.
+In our opinion, the attached financial statements for the year ended 30 June 2016 comply with subsection 42(2) of the *Public Governance, Performance and Accountability Act 2013* (PGPA Act), and are based on properly maintained financial records as per subsection 41(2) of the PGPA Act.
 
 In our opinion, at the date of this statement, there are reasonable grounds to believe that the Digital Transformation Office will be able to pay its debts as and when they fall due.
 
+<ul class="list-vertical">
+  <li>
+  <figure markdown="1">
+![Image of Paul Shettler's Signature]({% asset_path paul-signature %})
 
- ![Image of Paul Shettler's Signature]({% asset_path paul-signature %})
+</figure>
+<article markdown="1">
 
 **Paul Shetler**<br>Chief Executive Officer<br>15 September 2016
-
- 
+</article>
+</li>
+<li>
+<figure markdown="1"> 
   ![Image of Lisa Leverton's Signature]({% asset_path Lisa_signature %})
-
+  
+</figure>
+<article markdown="1">  
 **Lisa Leverton**<br>Chief Financial Officer<br>15 September 2016
-
+</article>
+</li>
+</ul>
 
 ## Statement of comprehensive income
-
 for the period ended 30 June 2016
 
 <table class="content-table" summary="Digital Transformation Office Statement of comprehensive income for the period ended 30 June 2016">
@@ -193,6 +203,7 @@ for the period ended 30 June 2016
     </tr>
   </tbody>
 </table>
+**Budget Variance Commentary**
 
 Total departmental expenses for 2015–16 were in line with the estimate published in the 2015–16 Portfolio Budget Statements. The variance for Employee benefits and Suppliers is attributable to a greater reliance on labour hire contractors due to a lower than expected ASL cap from what was originally budgeted.
 
@@ -201,7 +212,6 @@ Total departmental Revenue from Government for 2015–16 was $1.884 million (7%)
 The above statement should be read in conjunction with the accompanying notes.
 
 ## Statement of financial position
-
 for the period ended 30 June 2016
 
 <table class="content-table" summary="&quot;&quot;">
@@ -391,7 +401,7 @@ for the period ended 30 June 2016
   </tbody>
 </table>
 
-### Budget Variances Commentary
+**Budget Variances Commentary**
 
 Total departmental financial assets for 2015–16 were $10.310 million higher than the estimate published in the 2015–16 Portfolio Budget Statements. The increase is primarily attributable to the amount of unspent appropriation receivable due to Revenue from Government not being fully expended and a higher than expected accrued suppliers balance.
 
@@ -404,7 +414,6 @@ Total departmental provisions are higher than the estimate published in the 2015
 The above statement should be read in conjunction with the accompanying notes.
 
 ## Statement of changes in equity
-
 for the period ended 30 June 2016
 
 <table class="content-table" summary="Digital Transformation Office
@@ -552,13 +561,14 @@ for the period ended 30 June 2016">
   </tbody>
 </table>
 
-Return of appropriation under section 51 of PGPA Act reflects the return of $2.226m of unused funding for the development of the Grants Warehouse appropriated to the Digital Transformation Office in Appropriation Act 2 2015/16.
+1. Return of appropriation under section 51 of PGPA Act reflects the return of $2.226m of unused funding for the development of the Grants Warehouse appropriated to the Digital Transformation Office in *Appropriation Act 2 2015/16*.
 
-Restructuring of $1.992m reflects the transfer of functions from the Department of Finance ($1.003m) and the transfer of plant and equipment to assist with the establishment of the Digital Transformation Office as its own Executive Agency from the Department of the Prime Minister and Cabinet ($0.989m).
+2. Restructuring of $1.992m reflects the transfer of functions from the Department of Finance ($1.003m) and the transfer of plant and equipment to assist with the establishment of the Digital Transformation Office as its own Executive Agency from the Department of the Prime Minister and Cabinet ($0.989m).
 
 The above statement should be read in conjunction with the accompanying notes.
 
 ## Statement of Changes in Equity
+for the period ended 30 June 2016
 
 <table class="content-table" summary="Digital Transformation Office
 Statement of changes in equity
@@ -670,17 +680,18 @@ for the period ended 30 June 2016">
   </tbody>
 </table>
 
-### Accounting Policy
+**Accounting Policy**
 
-#### Equity injections
+_Equity injections_
 
 Amounts appropriated which are designated as ‘equity injections’ for a year (less any formal reductions) and Departmental Capital Budgets (DCBs) are recognised directly in contributed equity in that year.
 
-#### Other Distributions to Owners
+_Other Distributions to Owners_
 
 The FRR require that distributions to owners be debited to contributed equity unless it is in the nature of a dividend.
 
-### Budget Variances Commentary
+**Budget Variances Commentary**
+
 Departmental contributed equity for 2015–16 was $1.266 million (57%) higher than the estimate published in the 2015–16 Portfolio Budget Statements. This is attributable to $1.500 million of Departmental Capital Budgets received in Appropriation Act 3 2015–16 and $1.992 million of assets assumed as a result of machinery of Government, offset by the return of $2.226 million equity funding following a section 51 quarantine.
 
 Departmental retained earnings for 2015–16 were $2.203 million higher than the estimate published in the 
@@ -689,7 +700,6 @@ Departmental retained earnings for 2015–16 were $2.203 million higher than the
 The above statement should be read in conjunction with the accompanying notes.
 
 ## Cash flow statement
-
 for the period ended 30 June 2016
 
 <table class="content-table" summary="Digital Transformation Office
@@ -874,20 +884,17 @@ for the period ended 30 June 2016">
   </tbody>
 </table>
 
-### Budget Variances Commentary
+**Budget Variances Commentary**
 
-Departmental net cash from operating activities is $1.615 million higher than the estimate published 
-in the 2015–16 Portfolio Budget Statements. This is primarily attributable to the drawing of operating funding to purchase property, plant and equipment ($2.970 million) offset by Departmental Capital Budget funding of $1.500 million.
+Departmental net cash from operating activities is $1.615 million higher than the estimate published in the 2015–16 Portfolio Budget Statements. This is primarily attributable to the drawing of operating funding to purchase property, plant and equipment ($2.970 million) offset by Departmental Capital Budget funding of $1.500 million.
 
 Departmental net cash used by investing activities is $0.744 million (33%) higher than the estimate published in the 2015–16 Portfolio Budget Statements. This is attributable to an increase in the purchase of property, plant and equipment.
 
-Departmental net cash from financing activities is $0.726 million (33%) lower than the estimate published in the 2015–16 Portfolio Budget Statements. This is attributable to the section 51 quarantine of equity funding ($2.226 million) for the Grants Warehouse offset by Departmental Capital Budget funding 
-($1.500 million) received in Appropriation Act 3 2015–16.
+Departmental net cash from financing activities is $0.726 million (33%) lower than the estimate published in the 2015–16 Portfolio Budget Statements. This is attributable to the section 51 quarantine of equity funding ($2.226 million) for the Grants Warehouse offset by Departmental Capital Budget funding ($1.500 million) received in *Appropriation Act 3 2015–16*.
 
 The above statement should be read in conjunction with the accompanying notes.
 
 ## Notes to and forming part of the financial statements
-
 for the period ended 30 June 2016
 
 - [Overview](#overview)
@@ -916,7 +923,7 @@ for the period ended 30 June 2016
 
 ### Overview
 
-#### Objectives of the Entity
+**Objectives of the Entity**
 
 The Digital Transformation Office (the DTO) is a not-for-profit Australian Government controlled Executive Agency established on 1 July 2015.
 
@@ -928,13 +935,13 @@ The DTO is structured to meet one outcome as outlined below:
 
 In 2015–16 the DTO’s activities were identified under the following programme:
 
-Programme 1.1: The Digital Transformation Office:
+**Programme 1.1: The Digital Transformation Office:**
 
 To support the Prime Minister in transforming government services to improve the user experience, cut red tape and ensure services are delivered efficiently.
 
 The continued existence of the DTO in its present form and with its present programmes is dependent on Government policy and on continuing funding by Parliament for the DTO’s administration and programmes.
 
-#### Basis of preparation of the financial statements
+**Basis of preparation of the financial statements**
 
 The financial statements are general purpose financial statements and are required by section 42 of the *Public Governance, Performance and Accountability Act 2013*.
 
@@ -950,7 +957,7 @@ The financial statements are presented in Australian dollars and values are roun
 
 As the DTO was established as an Executive Agency on 1 July 2015, there will be no comparative figures disclosed.
 
-#### New Australian accounting standards
+**New Australian accounting standards**
 
 _*Adoption of New Australian Accounting Standard requirements*_
 
