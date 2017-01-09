@@ -46,57 +46,70 @@ Australia has the opportunity to become a world leader in the provision of digit
 
 **Paul Shetler<br>Chief Executive Officer**
 
+<div class="boxed" markdown="1">
+
 ### Using agile methodologies
 
-  Agile methodologies are at the heart of the DTO’s service delivery. This is an approach to software development that allows digital teams to respond to unpredictability through staged and iterative platform development.
+Agile methodologies are at the heart of the DTO’s service delivery. This is an approach to software development that allows digital teams to respond to unpredictability through staged and iterative platform development.
   
-  Solutions are found on the go, through collaborative effort and user feedback. This approach enables teams to start small and learn fast. Critically, it reduces the risk of service failure.
+Solutions are found on the go, through collaborative effort and user feedback. This approach enables teams to start small and learn fast. Critically, it reduces the risk of service failure.
   
 DTO’s service design and delivery process has four stages:
+
    1. **Discovery:** This stage involves mapping the broader service landscape, researching the real needs and problems faced by users, and understanding the policy intent and technology constraints.
    2. **Alpha:** During alpha, the team tests out a hypothesis by building prototypes in code, exploring different ways to meet the needs of users. User research is conducted to learn which of the approaches works best, and the solution continues to be iterated as more is learned.
    3. **Beta:** Using the successful prototype from stage 2, a Minimum Viable Product is built as an accessible and secure service. Members of the public trial the beta version alongside the existing service, and their feedback is used to improve the service.
    4. **Live:** The team and processes are put in place to continue operating and improving the service. Old services are phased out, and existing non-digital channels are consolidated.
   
-  Each stage of the process is strategically crafted to ensure feasibility and system capacity. The system is designed to allow users to engage in the process to give greater transparency to government processes and service provision.
+Each stage of the process is strategically crafted to ensure feasibility and system capacity. The system is designed to allow users to engage in the process to give greater transparency to government processes and service provision.
   
-  To date, this staged approach has enabled the DTO to successfully map out issues pertaining to service delivery and to continue to develop the infrastructure required to assist government agencies and services as they undergo transformation.
+To date, this staged approach has enabled the DTO to successfully map out issues pertaining to service delivery and to continue to develop the infrastructure required to assist government agencies and services as they undergo transformation.
+
+</div>
+
+<div class="boxed" markdown="1">
 
 ### Building an alpha of GOV.AU
 
-  In October 2015, a DTO team was given a project with an ambitious target: develop an alpha prototype of GOV.AU in just nine weeks.
-  
-  This was the DTO’s opportunity to test a central hypothesis: that it is possible to design an approach to presenting government information and services based around the needs of the user, rather than the way government is structured.
-  
-  The first step involved co-locating a team in Sydney. While the team possessed a range of skill sets, including user research, service design, interaction design and product management and development, working in an agile, multidisciplinary way was essential to the project’s success.
+In October 2015, a DTO team was given a project with an ambitious target: develop an alpha prototype of GOV.AU in just nine weeks.
 
-  This was especially the case when it came to user research, which started on day four of the project. Having the entire team involved in user research helped to make sure that everyone had a level of intelligence around what the real user needs were, and built empathy.
-  
-  The team met with a range of users, including people from culturally diverse backgrounds and people with different accessibility needs and different levels of technical literacy. This ensured that the design worked for the widest possible audience.
+This was the DTO’s opportunity to test a central hypothesis: that it is possible to design an approach to presenting government information and services based around the needs of the user, rather than the way government is structured.
 
-  A common theme soon emerged: people who embark on engaging with government do not know when they have found all the relevant information and done all the things they need to do. There was a real need to bring all the information into one place so that people could be satisfied that they had everything they needed to be compliant or to access what they were entitled to.
+The first step involved co-locating a team in Sydney. While the team possessed a range of skill sets, including user research, service design, interaction design and product management and development, working in an agile, multidisciplinary way was essential to the project’s success.
 
-  Four weeks into the project, the team identified two particular user experiences upon which they could build the alpha version: coming to Australia to work, and starting a business.
-  
-  The team started to develop a prototype which explored a pattern that allows users to explain their circumstances and then be presented with relevant content and information in a way that helps them to create a mental model of what is involved.
+This was especially the case when it came to user research, which started on day four of the project. Having the entire team involved in user research helped to make sure that everyone had a level of intelligence around what the real user needs were, and built empathy.
 
-  The alpha version was delivered on schedule and passed an assessment against the Digital Service Standard.
+The team met with a range of users, including people from culturally diverse backgrounds and people with different accessibility needs and different levels of technical literacy. This ensured that the design worked for the widest possible audience.
 
-  The project demonstrated that it is possible to come up with a reasonably simple model for a more efficient and consistent way of organising content, and to help solve a lot of users’ problems in the process.
+A common theme soon emerged: people who embark on engaging with government do not know when they have found all the relevant information and done all the things they need to do. There was a real need to bring all the information into one place so that people could be satisfied that they had everything they needed to be compliant or to access what they were entitled to.
+
+Four weeks into the project, the team identified two particular user experiences upon which they could build the alpha version: coming to Australia to work, and starting a business.
+
+The team started to develop a prototype which explored a pattern that allows users to explain their circumstances and then be presented with relevant content and information in a way that helps them to create a mental model of what is involved.
+
+The alpha version was delivered on schedule and passed an assessment against the Digital Service Standard.
+
+The project demonstrated that it is possible to come up with a reasonably simple model for a more efficient and consistent way of organising content, and to help solve a lot of users’ problems in the process.
+
+</div>
+
+<div class="boxed" markdown="1">
 
 ### Changing the assessment process for the Digital Service Standard
 
-  After considering the United Kingdom’s Government Digital Service Standard assessment model, the DTO moved to a new ‘in-flight’ model of assessment.
+After considering the United Kingdom’s Government Digital Service Standard assessment model, the DTO moved to a new ‘in-flight’ model of assessment.
 
-  Assessors now work with the departmental transformation team throughout the assessment process, usually meeting on a weekly basis, to remove the burden of preparing for an assessment. This allows the assessors to work more collaboratively with the team, so that rather than getting to the end of a 10-week process before they see the product the team members can follow the shaping and the thinking as it happens.
+Assessors now work with the departmental transformation team throughout the assessment process, usually meeting on a weekly basis, to remove the burden of preparing for an assessment. This allows the assessors to work more collaboratively with the team, so that rather than getting to the end of a 10-week process before they see the product the team members can follow the shaping and the thinking as it happens.
 
-  Under the new in-flight model, each week the assessors rate parts of the project as either green, amber or red, depending on whether they are on track to deliver. This has seen incredibly effective work take place where the team and the assessors agree on the rating. The team members can talk about the gaps and what they need to do to get help and move forward.
+Under the new in-flight model, each week the assessors rate parts of the project as either green, amber or red, depending on whether they are on track to deliver. This has seen incredibly effective work take place where the team and the assessors agree on the rating. The team members can talk about the gaps and what they need to do to get help and move forward.
 
-  This model helps teams to address issues before it is too late. For example, sometimes in the early stages teams are not fully multidisciplinary. If this were not addressed until the end of the alpha stage, the team would have to wait for recruitment processes to be completed before it could move on to beta. However, if the issue gets an amber or red light early on, it does not have to stop the project in its tracks and things can keep going while the issue is being addressed.
+This model helps teams to address issues before it is too late. For example, sometimes in the early stages teams are not fully multidisciplinary. If this were not addressed until the end of the alpha stage, the team would have to wait for recruitment processes to be completed before it could move on to beta. However, if the issue gets an amber or red light early on, it does not have to stop the project in its tracks and things can keep going while the issue is being addressed.
 
-  Although a red light might look alarming for a team, it is actually an important tool to support a team and reduce the risk in a project. It can help the team members to go to their service manager or their stakeholders and say, ‘Look, unless we address this problem we are at risk of not delivering’. It enables teams to have much earlier and more sensible conversations to actually mitigate the risk, rather than getting to the end and saying, ‘Oh no, it’s not right, let’s go back to the drawing board’.
+Although a red light might look alarming for a team, it is actually an important tool to support a team and reduce the risk in a project. It can help the team members to go to their service manager or their stakeholders and say, ‘Look, unless we address this problem we are at risk of not delivering’. It enables teams to have much earlier and more sensible conversations to actually mitigate the risk, rather than getting to the end and saying, ‘Oh no, it’s not right, let’s go back to the drawing board’.
 
-  The new in-flight model means that digital teams and assessors are better able to focus on the common goal of designing and delivering. The relationship between the assessors and the teams is now one of mentoring and influencing. This assists the assessors to help get the product on the right track, and reinforces the team members’ confidence that they are doing the right thing.
+The new in-flight model means that digital teams and assessors are better able to focus on the common goal of designing and delivering. The relationship between the assessors and the teams is now one of mentoring and influencing. This assists the assessors to help get the product on the right track, and reinforces the team members’ confidence that they are doing the right thing.
+
+</div>
 
 ## About this report
 

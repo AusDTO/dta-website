@@ -31,3 +31,19 @@
   }
 
 }
+
+.annual-report {
+  .boxed {
+    max-width: 36em;
+    margin: $base-spacing $small-spacing;
+    padding: $medium-spacing $medium-spacing $medium-spacing $base-spacing;
+    color: $non-black;
+    background: $non-white;
+    h2, h3 {
+      margin-top: 0;
+    }
+    p:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+}
