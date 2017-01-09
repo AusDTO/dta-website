@@ -6,4 +6,5 @@ dta-website.iml
 .idea
 .DS_Store
 node_modules
+/coverage
 
