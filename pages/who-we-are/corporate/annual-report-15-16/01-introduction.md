@@ -317,7 +317,7 @@ Most recently Head of Delivery for pioneering virtual reality start-up Zero Late
  </figure>
   <article markdown="1">
      
-**Head of GOV.AU**
+**Head of GOV.AU**<br>
 **Radi Kovacevic (acting)**
   
 
@@ -326,5 +326,5 @@ In his previous role, Radi was the Chief Information Officer for the Department 
 Radi has a strong background in digital delivery for large programs, including the 2014 G20 summit in Brisbane, and large machinery of government changes. In the Department of Climate Change and Energy Efficiency, Radi assisted with the remediation program for the Home Insulation Program and led the digital delivery for energy efficiency programs such as National Solar Schools.
 
  </article>
-  </li>
+ </li>
 </ul>
