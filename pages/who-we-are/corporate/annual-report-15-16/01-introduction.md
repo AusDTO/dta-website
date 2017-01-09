@@ -189,7 +189,7 @@ Before Paul took up his appointment, David Hazlehurst acted as the Interim CEO o
 </figure>
     <article markdown="1">
 
-**Head of the Office of the Chief Executive Officer**
+**Head of the Office of the Chief Executive Officer**<br>
 **Daniel Searle**
 
 Prior to joining the DTO, Daniel was a digital director at Kainos and the Deputy Group Chief Digital Officer at the United Kingdom’s Ministry of Justice.
