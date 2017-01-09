@@ -124,13 +124,21 @@ The role of the DTO is to design the system and governance for this change proce
 
 The DTO has one portfolio outcome, delivered through one program:
 
-   Outcome 1: To improve the user experience for all Australians accessing government information and services by leading the design, development and continual enhancement of whole-of-government service delivery policies and standards, platforms and joined-up services.
+<div class="indented" markdown ="1">
 
-   Program 1.1: The Digital Transformation Office
+Outcome 1: To improve the user experience for all Australians accessing government information and services by leading the design, development and continual enhancement of whole-of-government service delivery policies and standards, platforms and joined-up services.
+
+Program 1.1: The Digital Transformation Office
+
+</div>
 
 In 2015–16, the objective of Program 1.1 was:
 
+<div class="indented" markdown ="1">
+
    To support the Prime Minister in transforming government services to improve the user experience, cut red tape and ensure services are delivered efficiently.
+
+</div>
 
 ### Values
 
