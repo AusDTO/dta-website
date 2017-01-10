@@ -51,7 +51,7 @@ Prior to commencing your application it is recommended that you:
 
 ## Privacy Statement
 
-Personal information provided to the agency is protected by the Privacy Act 1988. The Digital Transformation Agency (DTA) collects your personal information for recruitment purposes as required by the Public Service Act 1999. The DTA will not disclose the information without your consent except where authorised or required by law. 
+Personal information provided to the agency is protected by the *Privacy Act 1988*. The Digital Transformation Agency (DTA) collects your personal information for recruitment purposes as required by the *Public Service Act 1999*. The DTA will not disclose the information without your consent except where authorised or required by law. 
 
 The DTA will not disclose your personal information to overseas recipients however your personal information may be stored outside of Australia. 
 
