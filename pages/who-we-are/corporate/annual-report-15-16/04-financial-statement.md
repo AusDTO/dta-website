@@ -206,6 +206,7 @@ for the period ended 30 June 2016
   </tbody>
 </table>
  <div class="notes indented">
+  <div class="markdown 1">
 **Budget Variance Commentary**
 
 Total departmental expenses for 2015–16 were in line with the estimate published in the 2015–16 Portfolio Budget Statements. The variance for Employee benefits and Suppliers is attributable to a greater reliance on labour hire contractors due to a lower than expected ASL cap from what was originally budgeted.
@@ -213,7 +214,8 @@ Total departmental expenses for 2015–16 were in line with the estimate publish
 Total departmental Revenue from Government for 2015–16 was $1.884 million (7%) higher than the estimate published in the 2015–16 Portfolio Budget Statements. This is primarily attributable to additional Revenue from Government received in additional estimates ($1.370 million) and current year funding for the transfer of a function from the Department of Finance ($0.514 million).
 
 The above statement should be read in conjunction with the accompanying notes.
- </div>
+</div>
+</div>
 ## Statement of financial position
 for the period ended 30 June 2016
 
