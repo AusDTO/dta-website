@@ -55,4 +55,4 @@ Personal information provided to the agency is protected by the Privacy Act 1988
 
 The DTA will not disclose your personal information to overseas recipients however your personal information may be stored outside of Australia. 
 
-If you have any questions about the role or are having difficulties in accessing the web pages or lodging your application, please contact the recruitment team via email [resourcing@digital.gov.au](mailto="resourcing@digital.gov.au") 
+If you have any questions about the role or are having difficulties in accessing the web pages or lodging your application, please contact the recruitment team via email [resourcing@digital.gov.au](mailto:resourcing@digital.gov.au) 
