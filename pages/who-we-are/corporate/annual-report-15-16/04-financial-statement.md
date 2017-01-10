@@ -42,13 +42,15 @@ In our opinion, the attached financial statements for the year ended 30 June 201
 In our opinion, at the date of this statement, there are reasonable grounds to believe that the Digital Transformation Office will be able to pay its debts as and when they fall due.
 
 <ul class="list-vertical">
-  <li>
+  <li><br>
   <figure markdown="1">
+  
 ![Image of Paul Shettler's Signature]({% asset_path paul-signature %})
 
 </figure>
 <article markdown="1">
 
+<br>
 **Paul Shetler**<br>Chief Executive Officer<br>15 September 2016
 </article>
 </li>
