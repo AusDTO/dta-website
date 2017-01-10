@@ -46,4 +46,31 @@
       margin-bottom: 0;
     }
   }
+  .notes {
+    font-size: $small-font-size;
+    dl {
+      @include media($mobile) {
+        margin-bottom: 0;
+        dt {
+          display: inline-block;
+          vertical-align: top;
+          font-weight: bold;
+          width: 20%;
+          margin: 0 0 $tiny-spacing 0;
+          &:last-child {
+            margin-bottom: 0;
+          }
+        }
+        dd {
+          display: inline-block;
+          width: 79%;
+          margin: 0 0 $tiny-spacing 0;
+          margin-bottom: $tiny-spacing;
+          &:last-child {
+            margin-bottom: 0;
+          }
+        }
+      }
+    }
+  }
 }
