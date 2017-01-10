@@ -420,21 +420,21 @@ The DTO Determination 2015/01 is supplemented by the Australian Public Service E
     </tr>
   </tbody>
 </table>
+
 <div class="notes indented">
     <dl>
         <dt>APS</dt>
         <dd>Australian Public Service</dd>
         <dt>EL</dt>
         <dd>Executive Level</dd>
-    </dl>
+     </dl>
     
-    <div markdown="1">
+     <div markdown="1">
 
-    1. Individual arrangements established in line with individualised section 24(1) agreements.<br>
+    1 Individual arrangements established in line with individualised section 24(1) agreements.<br>
 
-    </div>
 </div>
-
+</div>
 
 The DTO provides paid leave and flexible work arrangements to employees as part of its overall employee value proposition, as outlined in the determination. It does not provide specific non-salary benefits or performance pay to staff.
 
