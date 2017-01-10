@@ -8,20 +8,20 @@ searchexcerpt: We have put together some information to assist you in applying f
 ---
 ## Introduction
 
-Thank you for considering the Digital Transformation Agency (DTA) as your next employment opportunity. To assist you in applying for vacancies with us, please read through the information listed below. We look forward to reading your application. Good luck!
+Thank you for considering the Digital Transformation Agency (DTA) as your next employment opportunity. To assist you in applying for vacancies with us, please read through the information listed below.  We look forward to reading your application. Good Luck!
 
 ### About the Digital Transformation Agency
 
-Every day, more Australians choose to interact with Government on their mobiles, tablets and computers rather than face-to-face or over the phone. That’s why the Digital Transformation Agency (or DTA) has been created - to lead the government in transforming our services to improve your experience.
+Every day, more Australians choose to interact with Government on their mobiles, tablets and computers rather than face-to-face or over the phone. That’s why the Digital Transformation Agency (or DTA) has been created - to lead Government in transforming our services to improve your experience.
 
 We’re working closely with individuals, businesses and industries as well as with Australian Government departments. We’re identifying where improvements are most urgently needed, and re-designing these services from the ground up.
 
-The DTA works in an agile way, in multidisciplined teams to solve problems and work across organisational boundaries and physical locations to deliver.
+The DTA works in an agile way, in multidisciplinary teams to solve problems and work across organisational boundaries and physical locations to deliver.
 
 ## Eligibility
 
 ### Citizenship
-Applicants must be an Australian citizens. 
+Applicants must be Australian citizens. 
 
 ### Police Check
 Appointment is conditional on successfully completing a National Police Records check prior to commencement. 
@@ -47,7 +47,7 @@ Prior to commencing your application it is recommended that you:
 3. Select 'Submit Application' button<br>
   Once you have submitted your application, an acknowledgement email will be sent to your designated email address confirming the receipt of your application.
 
-**Please note:** Your application cannot be saved and completed at a later date so we recommend you complete your responses in an MS Word, Google Dc or Apple Pages document, saving as you go. Once you have finalised your responses, copy and paste them into the response boxes. 
+**Please note:** Your application cannot be saved and completed at a later date so we recommend you complete your responses in an MS Word, Google Doc or Apple Pages document, saving as you go. Once you have finalised your responses, copy and paste them into the response boxes. 
 
 ## Privacy Statement
 
