@@ -405,7 +405,8 @@ for the period ended 30 June 2016
     </tr>
   </tbody>
 </table>
-
+ <div class="notes indented">
+  <div markdown="1">
 **Budget Variances Commentary**
 
 Total departmental financial assets for 2015–16 were $10.310 million higher than the estimate published in the 2015–16 Portfolio Budget Statements. The increase is primarily attributable to the amount of unspent appropriation receivable due to Revenue from Government not being fully expended and a higher than expected accrued suppliers balance.
@@ -417,7 +418,8 @@ Departmental payables mainly consist of accrued supplier expenditure disclosed a
 Total departmental provisions are higher than the estimate published in the 2015–16 Portfolio Budget Statements by $1.018 million. This is attributable to the transfer of staff provisions as a result of machinery of Government changes and the recognition of a makegood provision for the office leased in Canberra.
 
 The above statement should be read in conjunction with the accompanying notes.
-
+   </div>
+  </div>
 ## Statement of changes in equity
 for the period ended 30 June 2016
 
@@ -565,13 +567,15 @@ for the period ended 30 June 2016">
     </tr>
   </tbody>
 </table>
+ <div class="notes indented">
+  <div markdown="1">
+1 Return of appropriation under section 51 of PGPA Act reflects the return of $2.226m of unused funding for the development of the Grants Warehouse appropriated to the Digital Transformation Office in *Appropriation Act 2 2015/16*.
 
-1. Return of appropriation under section 51 of PGPA Act reflects the return of $2.226m of unused funding for the development of the Grants Warehouse appropriated to the Digital Transformation Office in *Appropriation Act 2 2015/16*.
-
-2. Restructuring of $1.992m reflects the transfer of functions from the Department of Finance ($1.003m) and the transfer of plant and equipment to assist with the establishment of the Digital Transformation Office as its own Executive Agency from the Department of the Prime Minister and Cabinet ($0.989m).
+2 Restructuring of $1.992m reflects the transfer of functions from the Department of Finance ($1.003m) and the transfer of plant and equipment to assist with the establishment of the Digital Transformation Office as its own Executive Agency from the Department of the Prime Minister and Cabinet ($0.989m).
 
 The above statement should be read in conjunction with the accompanying notes.
-
+  </div>
+ </div>
 ## Statement of Changes in Equity
 for the period ended 30 June 2016
 
@@ -684,14 +688,15 @@ for the period ended 30 June 2016">
     </tr>
   </tbody>
 </table>
-
+  <div class="notes indented">
+   <div markdown="1">
 **Accounting Policy**
 
-_Equity injections_
+_*Equity injections*_
 
 Amounts appropriated which are designated as ‘equity injections’ for a year (less any formal reductions) and Departmental Capital Budgets (DCBs) are recognised directly in contributed equity in that year.
 
-_Other Distributions to Owners_
+_*Other Distributions to Owners*_
 
 The FRR require that distributions to owners be debited to contributed equity unless it is in the nature of a dividend.
 
@@ -703,7 +708,8 @@ Departmental retained earnings for 2015–16 were $2.203 million higher than the
 2015–16 Portfolio Budget Statements. This is mainly attributable to additional Revenue from Government received in additional estimates ($1.370 million) and current year funding for the transfer of function from the Department of Finance ($0.514 million).
 
 The above statement should be read in conjunction with the accompanying notes.
-
+  </div>
+  </div>
 ## Cash flow statement
 for the period ended 30 June 2016
 
@@ -888,7 +894,8 @@ for the period ended 30 June 2016">
     </tr>
   </tbody>
 </table>
-
+  <div class="notes indented">
+   <div markdown="1">
 **Budget Variances Commentary**
 
 Departmental net cash from operating activities is $1.615 million higher than the estimate published in the 2015–16 Portfolio Budget Statements. This is primarily attributable to the drawing of operating funding to purchase property, plant and equipment ($2.970 million) offset by Departmental Capital Budget funding of $1.500 million.
@@ -898,7 +905,8 @@ Departmental net cash used by investing activities is $0.744 million (33%) highe
 Departmental net cash from financing activities is $0.726 million (33%) lower than the estimate published in the 2015–16 Portfolio Budget Statements. This is attributable to the section 51 quarantine of equity funding ($2.226 million) for the Grants Warehouse offset by Departmental Capital Budget funding ($1.500 million) received in *Appropriation Act 3 2015–16*.
 
 The above statement should be read in conjunction with the accompanying notes.
-
+  </div>
+  </div>
 ## Notes to and forming part of the financial statements
 for the period ended 30 June 2016
 
