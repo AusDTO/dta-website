@@ -692,11 +692,11 @@ for the period ended 30 June 2016">
    <div markdown="1">
 **Accounting Policy**
 
-_*Equity injections*_
+_Equity injections_
 
 Amounts appropriated which are designated as ‘equity injections’ for a year (less any formal reductions) and Departmental Capital Budgets (DCBs) are recognised directly in contributed equity in that year.
 
-_*Other Distributions to Owners*_
+_Other Distributions to Owners_
 
 The FRR require that distributions to owners be debited to contributed equity unless it is in the nature of a dividend.
 
