@@ -8,7 +8,7 @@ searchexcerpt: We have put together some information to assist you in applying f
 ---
 ## Introduction
 
-Thank you for considering the Digital Transformation Agency (DTA) as your next employment opportunity. To assist you in applying for vacancies with us, please read through the information listed below.  We look forward to reading your application. Good Luck!
+Thank you for considering the Digital Transformation Agency (DTA) as your next employment opportunity. To assist you in applying for vacancies with us, please read through the information listed below. We look forward to reading your application. Good Luck!
 
 ### About the Digital Transformation Agency
 
