@@ -431,7 +431,7 @@ The DTO Determination 2015/01 is supplemented by the Australian Public Service E
     
      <div markdown="1">
 
-    1 Individual arrangements established in line with individualised section 24(1) agreements.<br>
+1 Individual arrangements established in line with individualised section 24(1) agreements.<br>
 
 </div>
 </div>
