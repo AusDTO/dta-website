@@ -329,10 +329,23 @@ At 30 June 2016, the DTO had 71 staff employed under the Public Service Act, as 
     </tr>
   </tbody>
 </table>
-APS = Australian Public Service, EL = Executive Level, CEO = Chief Executive Officer, SES = Senior Executive Service
+<div class="notes">
+    <dl>
+        <dt>APS</dt>
+        <dd>Australian Public Service</dd>
+        <dt>EL</dt>
+        <dd>Executive Level</dd>
+        <dt>CEO</dt>
+        <dd>Chief Executive Officer</dd>
+        <dt>SES</dt>
+        <dd>Senior Executive Service</dd>
+    </dl>
+    <div markdown="1">
 
 Notes: ‘Active’ employees are engaged in the workplace; ‘inactive’ employees are on paid or unpaid long-term leave. This table does not include employees in the Digital Transformation Office (DTO) on secondment. The DTO had no casual employees at 30 June 2016.
 
+</div>
+</div>
 Across all classification bands, the DTO had 31 female employees and 40 male employees. The DTO had equal proportions of female and male representation at the SES level, and 41 per cent female and 59 per cent male representation at the Executive Level.
 
 The DTO has 20 employees (28 per cent) working in Sydney and 51 employees (72 per cent) working Canberra. The DTO currently does not collect demographic information in relation to whether staff members identify as Indigenous Australians.
