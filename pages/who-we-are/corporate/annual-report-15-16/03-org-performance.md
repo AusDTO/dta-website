@@ -329,7 +329,7 @@ At 30 June 2016, the DTO had 71 staff employed under the Public Service Act, as 
     </tr>
   </tbody>
 </table>
-<div class="notes">
+<div class="notes indented">
     <dl>
         <dt>APS</dt>
         <dd>Australian Public Service</dd>
@@ -420,9 +420,21 @@ The DTO Determination 2015/01 is supplemented by the Australian Public Service E
     </tr>
   </tbody>
 </table>
-APS = Australian Public Service, EL = Executive Level
+<div class="notes indented">
+    <dl>
+        <dt>APS</dt>
+        <dd>Australian Public Service</dd>
+        <dt>EL</dt>
+        <dd>Executive Level</dd>
+    </dl>
+    
+    <div markdown="1">
 
-Individual arrangements established in line with individualised section 24(1) agreements.
+    1. Individual arrangements established in line with individualised section 24(1) agreements.
+
+    </div>
+</div>
+
 The DTO provides paid leave and flexible work arrangements to employees as part of its overall employee value proposition, as outlined in the determination. It does not provide specific non-salary benefits or performance pay to staff.
 
 During 2016–17, the DTO will work with employees to develop an enterprise agreement to replace the DTO Determination 2015/01.
