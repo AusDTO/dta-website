@@ -50,7 +50,7 @@ In our opinion, at the date of this statement, there are reasonable grounds to b
 </figure>
 <article markdown="1">
 
-<br>
+
 **Paul Shetler**<br>Chief Executive Officer<br>15 September 2016
 </article>
 </li>
