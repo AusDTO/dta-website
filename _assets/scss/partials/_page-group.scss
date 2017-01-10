@@ -1,21 +1,11 @@
 .page-group-title {
-  /* Copied from ui-kits .gov-speak h1 typography */
-  line-height: $base-heading-leading;
-  font-weight: $heading-font-weight;
-  margin-bottom: $small-spacing;
-  margin-top: $base-spacing;
-  font-size: rem(32);
-  line-height: $small-leading;
+  display: block;
+  font-size: rem(16);
+  font-weight: normal;
+  color: $grey;
 
   @include media($tablet) {
-    font-size: rem(44);
-  }
-
-  @include media($desktop) {
-    font-size: rem(40);
-  }
-
-  &:first-of-type {
-    margin-top: $tiny-spacing;
+    font-size: rem(17);
+    padding-bottom: $base-spacing;
   }
 }
