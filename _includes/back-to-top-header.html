@@ -1,0 +1,17 @@
+{% comment %}<h{{ include.level }} id="{{ include.text | slugify }}">{{ include.text }}</h{{ include.level }}> {% endcomment %}
+
+{% comment %}
+The only apparent way to get the correct id of the heading is using markdownify.
+So we build the heading as a markdown string.
+{% endcomment %}
+{% capture hashes %}{% for i in (1..include.level) %}#{% endfor %}{% endcapture %}
+{% assign heading_md = hashes | append: ' ' | append: include.text %}
+{% assign heading_html = heading_md | markdownify %}
+{% assign heading_split = heading_html | split: '"' %}
+{% assign heading_id = heading_split[1] %}
+<span class="back-to-index-link"><a href="#content">Back to top &uarr;</a></span>
+<h{{ include.level }} id="{{ heading_id }}"><a href="#{{ heading_id }}">{{ include.text }}</a></h{{ include.level }}>
+
+{% comment %}<h2 id="independent-auditors-report"><a href="#independent-auditors-report">Independent auditor’s report</a></h2>{% endcomment %}
+
+{% comment %}{{ heading_md | markdownify }}{% endcomment %}

@@ -26,16 +26,16 @@ doc-nav:
     </ul>
 </nav>
 
-## Independent auditor’s report
+{% include back-to-top-header.html level=2 text="Independent auditor’s report" %}
 
- ![Image of Auditor's Report Page 1]({% asset_path DTO_Audit_Opinion %})
+![Image of Auditor's Report Page 1]({% asset_path DTO_Audit_Opinion %})
 
 Digital Transformation Office
 Independent auditor’s report
 
- ![Image of Auditor's Report Page 2]({% asset_path DTO_Audit_Opinion1 %})
+![Image of Auditor's Report Page 2]({% asset_path DTO_Audit_Opinion1 %})
 
-## Statement by the Chief Executive Officer and Chief Financial Officer
+{% include back-to-top-header.html level=2 text="Statement by the Chief Executive Officer and Chief Financial Officer" %}
 
 In our opinion, the attached financial statements for the year ended 30 June 2016 comply with subsection 42(2) of the *Public Governance, Performance and Accountability Act 2013* (PGPA Act), and are based on properly maintained financial records as per subsection 41(2) of the PGPA Act.
 

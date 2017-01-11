@@ -9,3 +9,10 @@
     padding-bottom: $base-spacing;
   }
 }
+
+.back-to-index-link {
+  display: block;
+  font-size: $small-font-size;
+  float: right;
+  margin-top: 0;
+}
