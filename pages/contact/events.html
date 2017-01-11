@@ -1,0 +1,90 @@
+---
+layout: basic
+title: "I'd like someone from the DTA to speak at my event"
+breadcrumb: Event contact form
+permalink: /contact/events/
+searchexcerpt: Fill in this form if you'd like someone from the DTA to speak at an event.
+---
+
+<form method="post" action="https://script.google.com/macros/s/AKfycbzxBPoL_AI5RR7LMgVmRKFQqUyD_FzKRPfKRKGTgC2SLB4NVzxf/exec{% if jekyll.environment == "development" %}?test=1{% endif %}">
+  <p class="lead-in">A couple of things you need to know:</p>
+  <ul>
+    <li>We tend not to speak at events that charge APS members to attend.</li>
+    <li>We receive a large number of invitations and need to prioritise our resources. At the moment, we’re
+      particularly focused on events with attendees from the start-up/entrepreneurial sector.
+    </li>
+  </ul>
+  <p>If you’d like to invite a member of our team to participate in your event, please send us the details
+    below.</p>
+
+  <p>
+    <label for="event-date">Event date</label>
+    <input type="date" id="event-date" name="event_date" required="required">
+  </p>
+  <p>
+    <label for="location">Location</label>
+    <input required="required" type="text" id="location" name="location" value="" size="60" maxlength="128"/>
+  </p>
+  <p>
+    <label for="event-title">Event title</label>
+    <input required="required" type="text" id="event-title" name="event_title" value="" size="60" maxlength="128"/>
+  </p>
+  <p>
+    <label for="contact-name">Contact name</label>
+    <input required="required" type="text" id="contact-name" name="contact_name" value="" size="60" maxlength="128"/>
+  </p>
+  <p>
+    <label for="organisation">Organisation</label>
+    <input required="required" type="text" id="organisation" name="organisation" value="" size="60" maxlength="128"/>
+  </p>
+  <p>
+    <label for="email">Email</label>
+    <input required="required" type="email" id="email" name="email" size="60"/>
+  </p>
+  <p>
+    <label for="phone">Phone (optional)</label>
+    <input type="tel" id="phone" name="phone" pattern="[0-9]*"/>
+  </p>
+  <p>
+    <label for="website">Website (optional)</label>
+    <input type="text" id="website" name="website" value="" size="60" maxlength="128"/>
+  </p>
+  <p>
+    <label for="description-of-event">Description of event</label>
+    <textarea required="required" id="description-of-event" name="description_of_event" cols="60" rows="8"></textarea>
+  </p>
+  <p>
+    <label for="what-role-would-you-like-us-to-play">What role would you like us to play?</label>
+    <textarea required="required" id="what-role-would-you-like-us-to-play" name="what_role_would_you_like_us_to_play"
+              cols="60" rows="8"></textarea>
+  </p>
+  <p>
+    <label for="who-are-your-audience">Who is your audience?</label>
+    <textarea required="required" id="who-are-your-audience" name="who_are_your_audience" cols="60" rows="4"></textarea>
+  </p>
+  <p>
+    <label for="what-is-the-cost-for-aps-members-to-attend">What is the cost for APS members to attend?</label>
+    <input required="required" type="text" id="what-is-the-cost-for-aps-members-to-attend"
+           name="what_is_the_cost_for_aps_members_to_attend" value="" size="60" maxlength="128"/>
+  </p>
+  <p>
+    <label for="who-else-is-speaking">Who else is speaking?</label>
+    <textarea required="required" id="who-else-is-speaking" name="who_else_is_speaking" cols="60" rows="8"></textarea>
+  </p>
+  <p>
+    <label for="what-sort-of-media-coverage-do-you-expect">What sort of media coverage do you expect?</label>
+    <textarea required="required" id="what-sort-of-media-coverage-do-you-expect"
+              name="what_sort_of_media_coverage_do_you_expect" cols="60" rows="4"></textarea>
+  </p>
+  <p>
+    <label for="when-do-we-need-to-confirm-our-participation-by">When do we need to confirm our participation
+      by?</label>
+    <input type="date" name="when_do_we_need_to_confirm_our_participation_by"
+           id="when-do-we-need-to-confirm-our-participation-by" required="required">
+  </p>
+  <input type="hidden" name="form" value="events"/>
+  <input type="hidden" name="site_url" value="{{site.url}}"/>
+  <input type="submit" value="Submit"/>
+
+</form>
+
