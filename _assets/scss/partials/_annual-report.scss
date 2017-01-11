@@ -73,4 +73,21 @@
       }
     }
   }
+
+  .financial-notes-index {
+    p {
+      padding-left: ($base-spacing * 2.2);
+      margin-bottom: $tiny-spacing;
+    }
+    ol {
+      counter-reset: item
+    }
+    li {
+      display: block
+    }
+    li:before {
+      content: counters(item, ".") ". ";
+      counter-increment: item
+    }
+  }
 }

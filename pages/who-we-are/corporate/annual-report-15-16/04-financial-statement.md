@@ -910,29 +910,32 @@ The above statement should be read in conjunction with the accompanying notes.
 ## Notes to and forming part of the financial statements
 for the period ended 30 June 2016
 
-- [Overview](#overview)
-- [1. Departmental Financial Performance](#departmental-financial-performance)
-- [1.1. Expenses](#expenses)
-- [1.2. Own-Source Revenue and Gains](#own-source-revenue-and-gains)
-- [2. Departmental Financial Position](#departmental-financial-position)
-- [2.1. Financial Assets](#financial-assets)
-- [2.2. Non-Financial Assets](#non-financial-assets)
-- [2.3. Payables](#payables)
-- [2.4. Other Provisions](#other-provisions)
-- [3. Funding](#funding)
-- [3.1. Appropriations](#appropriations)
-- [3.2. Cash Flow Reconciliation](#cash-flow-reconciliation)
-- [4. People and Relationships](#people-and-relationships)
-- [4.1. Employee Provisions](#employee-provisions)
-- [4.2. Senior Management Personnel Remuneration](#senior-management-personnel-remuneration)
-- [5. Managing Uncertainties](#managing-uncertainties)
-- [5.1. Contingent Assets and Liabilities](#contingent-assets-and-liabilities)
-- [5.2. Financial Instruments](#financial-instruments)
-- [5.3. Fair Value Measurement](#fair-value-measurement)
-- [6. Other Information](#other-information)
-- [6.1. Restructuring](#restructuring)
-- [6.2. Reporting of Outcomes](#reporting-of-outcomes)
+<div class="financial-notes-index" markdown="1">
 
+[Overview](#overview)
+1. [Departmental Financial Performance](#departmental-financial-performance)
+    1. [Expenses](#expenses)
+    2. [Own-Source Revenue and Gains](#own-source-revenue-and-gains)
+2. [Departmental Financial Position](#departmental-financial-position)
+    1. [Financial Assets](#financial-assets)
+    2. [Non-Financial Assets](#non-financial-assets)
+    3. [Payables](#payables)
+    4. [Other Provisions](#other-provisions)
+3. [Funding](#funding)
+    1. [Appropriations](#appropriations)
+    2. [ Cash Flow Reconciliation](#cash-flow-reconciliation)
+4. [People and Relationships](#people-and-relationships)
+    1. [Employee Provisions](#employee-provisions)
+    2. [Senior Management Personnel Remuneration](#senior-management-personnel-remuneration)
+5. [Managing Uncertainties](#managing-uncertainties)
+    1. [Contingent Assets and Liabilities](#contingent-assets-and-liabilities)
+    2. [Financial Instruments](#financial-instruments)
+    3. [Fair Value Measurement](#fair-value-measurement)
+6. [Other Information](#other-information)
+    1. [Restructuring](#restructuring)
+    2. [Reporting of Outcomes](#reporting-of-outcomes)
+
+</div>
 
 ### Overview
 
