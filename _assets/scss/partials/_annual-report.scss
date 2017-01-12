@@ -44,7 +44,11 @@
     padding: $medium-spacing $medium-spacing $medium-spacing $base-spacing;
     color: $non-black;
     background: $non-white;
-    h2, h3 {
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
       margin-top: 0;
     }
     p:last-of-type {
