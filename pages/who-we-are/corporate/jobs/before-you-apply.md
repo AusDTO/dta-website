@@ -29,7 +29,7 @@ Appointment is conditional on successfully completing a National Police Records 
 ### Security clearance
 Some positions require a minimum Baseline security clearance. The successful applicant must be willing and eligible to undergo and maintain an Australian Government clearance at this level. Requirement for security clearance will be identified in individual advertisements.
 
-## Preparing your application
+## Submitting your application
 
 ### Preparation
 Prior to commencing your application it is recommended that you:
