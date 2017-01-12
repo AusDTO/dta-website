@@ -35,7 +35,11 @@
 .annual-report {
   .boxed {
     max-width: 36em;
-    margin: $base-spacing $small-spacing;
+    margin: $base-spacing 0;
+    @include media($tablet) {
+      margin: $base-spacing $small-spacing;
+    }
+
     padding: $medium-spacing $medium-spacing $medium-spacing $base-spacing;
     color: $non-black;
     background: $non-white;
