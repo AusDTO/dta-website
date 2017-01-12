@@ -46,9 +46,11 @@ Australia has the opportunity to become a world leader in the provision of digit
 
 **Paul Shetler<br>Chief Executive Officer**
 
+### Case studies
+
 <div class="boxed" markdown="1">
 
-### Using agile methodologies
+#### Using agile methodologies
 
 Agile methodologies are at the heart of the DTO’s service delivery. This is an approach to software development that allows digital teams to respond to unpredictability through staged and iterative platform development.
   
@@ -69,7 +71,7 @@ To date, this staged approach has enabled the DTO to successfully map out issues
 
 <div class="boxed" markdown="1">
 
-### Building an alpha of GOV.AU
+#### Building an alpha of GOV.AU
 
 In October 2015, a DTO team was given a project with an ambitious target: develop an alpha prototype of GOV.AU in just nine weeks.
 
@@ -95,7 +97,7 @@ The project demonstrated that it is possible to come up with a reasonably simple
 
 <div class="boxed" markdown="1">
 
-### Changing the assessment process for the Digital Service Standard
+#### Changing the assessment process for the Digital Service Standard
 
 After considering the United Kingdom’s Government Digital Service Standard assessment model, the DTO moved to a new ‘in-flight’ model of assessment.
 
