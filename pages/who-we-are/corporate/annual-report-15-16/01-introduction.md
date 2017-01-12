@@ -46,7 +46,7 @@ Australia has the opportunity to become a world leader in the provision of digit
 
 **Paul Shetler<br>Chief Executive Officer**
 
-### Case studies
+{% include hx.html lvl=3 text="Case studies"%}
 
 <div class="boxed" markdown="1">
 
