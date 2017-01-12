@@ -26,7 +26,7 @@ doc-nav:
     </ul>
 </nav>
 
-{% include back-to-top-header.html level=2 text="Independent auditor’s report" %}
+{% include hx.html lvl=2 text="Independent auditor’s report" hide-back-to-top=1%}
 
 ![Image of Auditor's Report Page 1]({% asset_path DTO_Audit_Opinion %})
 
@@ -35,7 +35,7 @@ Independent auditor’s report
 
 ![Image of Auditor's Report Page 2]({% asset_path DTO_Audit_Opinion1 %})
 
-{% include back-to-top-header.html level=2 text="Statement by the Chief Executive Officer and Chief Financial Officer" %}
+{% include hx.html lvl=2 text="Statement by the Chief Executive Officer and Chief Financial Officer" %}
 
 In our opinion, the attached financial statements for the year ended 30 June 2016 comply with subsection 42(2) of the *Public Governance, Performance and Accountability Act 2013* (PGPA Act), and are based on properly maintained financial records as per subsection 41(2) of the PGPA Act.
 
@@ -65,7 +65,7 @@ In our opinion, at the date of this statement, there are reasonable grounds to b
 </li>
 </ul>
 
-## Statement of comprehensive income
+{% include hx.html lvl=2 text="Statement of comprehensive income" %}
 for the period ended 30 June 2016
 
 <table class="content-table" summary="Digital Transformation Office Statement of comprehensive income for the period ended 30 June 2016">
@@ -216,7 +216,8 @@ Total departmental Revenue from Government for 2015–16 was $1.884 million (7%)
 The above statement should be read in conjunction with the accompanying notes.
  </div>
 </div>
-## Statement of financial position
+
+{% include hx.html lvl=2 text="Statement of financial position" %}
 for the period ended 30 June 2016
 
 <table class="content-table" summary="&quot;&quot;">
@@ -420,7 +421,8 @@ Total departmental provisions are higher than the estimate published in the 2015
 The above statement should be read in conjunction with the accompanying notes.
    </div>
   </div>
-## Statement of changes in equity
+{% include hx.html lvl=2 text="Statement of changes in equity" %}
+
 for the period ended 30 June 2016
 
 <table class="content-table" summary="Digital Transformation Office
@@ -576,7 +578,8 @@ for the period ended 30 June 2016">
 The above statement should be read in conjunction with the accompanying notes.
   </div>
  </div>
-## Statement of Changes in Equity
+
+{% include hx.html lvl=2 text="Statement of changes in equity" %}
 for the period ended 30 June 2016
 
 <table class="content-table" summary="Digital Transformation Office
@@ -710,7 +713,8 @@ Departmental retained earnings for 2015–16 were $2.203 million higher than the
 The above statement should be read in conjunction with the accompanying notes.
   </div>
   </div>
-## Cash flow statement
+
+{% include hx.html lvl=2 text="Cash flow statement" %}
 for the period ended 30 June 2016
 
 <table class="content-table" summary="Digital Transformation Office
@@ -907,7 +911,8 @@ Departmental net cash from financing activities is $0.726 million (33%) lower th
 The above statement should be read in conjunction with the accompanying notes.
   </div>
   </div>
-## Notes to and forming part of the financial statements
+
+{% include hx.html lvl=2 text="Notes to and forming part of the financial statements" %}
 for the period ended 30 June 2016
 
 <div class="financial-notes-index" markdown="1">
@@ -937,7 +942,7 @@ for the period ended 30 June 2016
 
 </div>
 
-### Overview
+{% include hx.html lvl=3 text="Overview" %}
 
 **Objectives of the Entity**
 
@@ -985,21 +990,24 @@ _*Future Australian Accounting Standard requirements*_
 
 No new/revised/amending standards and/or interpretations issued by the AASB prior to the sign-off date are expected to have a future material impact on DTO’s financial statements which are applicable to the DTO for future reporting periods.
 
-#### Taxation
+{% include hx.html lvl=4 text="Taxation" %}
+
 The DTO is exempt from all forms of taxation except Fringe Benefits Tax (FBT) and Goods and Services Tax (GST).
 
-#### Events after the reporting period
+{% include hx.html lvl=4 text="Events after the reporting period" %}
+
 There are no known events occurring after the reporting period that could impact on the financial statements.
 
-#### Revenue from Government
+{% include hx.html lvl=4 text="Revenue from Government" %}
+
 Amounts appropriated for departmental appropriations for the year (adjusted for any formal additions 
 and reductions) are recognised as Revenue from Government when DTO gains control of the appropriation, except for certain amounts that relate to activities that are reciprocal in nature, in which case revenue is recognised only when it has been earned. Appropriations receivable are recognised at their nominal amounts.
 
-### 1. Departmental Financial Performance
+{% include hx.html lvl=3 text="1. Departmental Financial Performance" %}
 
 **This section analyses the financial performance of the Digital Transformation Office for the year ended 2016.**
 
-#### 1.1 Expenses
+{% include hx.html lvl=4 text="1.1 Expenses" hide-back-to-top=1 %}
 
 <table class="content-table" summary="1.1 Expenses">
   <colgroup>
@@ -1060,7 +1068,7 @@ and reductions) are recognised as Revenue from Government when DTO gains control
   </tbody>
 </table>
 
-##### Accounting Policy
+{% include hx.html lvl=5 text="Accounting Policy" %}
 
 Accounting policies for employee related expenses is contained in the People and relationships section.
 
@@ -1185,7 +1193,7 @@ for the period ended 30 June 2016">
 
 **Note: Commitments are GST inclusive where relevant.**
 
-#### Operating lease commitment - leases for office accommodation
+{% include hx.html lvl=4 text="Operating lease commitment - leases for office accommodation" %}
 
 Office accommodation lease payments are subject to periodic increases in accordance with the rent review provisions in the lease agreements.
 
@@ -1193,7 +1201,7 @@ The DTO has one lease that contains three, one year renewal options. The options
 
 The DTO has one MOU for the leasing of premises which has a provision requiring the premises to be restored to their original condition at the conclusion of the lease. The DTO has made a make good provision to reflect the present value of this obligation.
 
-##### Accounting Policy
+{% include hx.html lvl=5 text="Accounting Policy" %}
 
 Operating lease payments are expensed on a straight-line basis which is representative of the pattern of benefits derived from the leased assets.
 

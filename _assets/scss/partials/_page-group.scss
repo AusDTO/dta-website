@@ -10,9 +10,10 @@
   }
 }
 
-.back-to-index-link {
-  display: block;
+.back-to-top-link {
   font-size: $small-font-size;
-  float: right;
-  margin-top: 0;
+  text-align: right;
+  margin-top: $base-spacing;
+  margin-bottom: $base-spacing;
+  max-width: 38rem;
 }

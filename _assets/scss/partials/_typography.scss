@@ -16,3 +16,39 @@
     padding-left: $large-spacing;
   }
 }
+
+main {
+
+  // This gives us a little pilcrow (trad. paragraph marker) to the left of any
+  // headings that have an ID and contain an anchor with the .headline-slug-link
+  // class on hover.
+  h1[id],
+  h2[id],
+  h3[id],
+  h4[id],
+  h5[id],
+  h6[id]
+  {
+    // @include clearfix;
+
+    .headline-slug-link {
+      border-bottom: none;
+      position: relative;
+
+      &:hover {
+        border-bottom: none;
+        background-color: initial;
+
+        &:after {
+          content: '\00B6'; // pilcrow character
+          position: absolute;
+          width: rem(24);
+          left: -(rem(24));
+          top: 0.5em;
+          font-size: $smaller-font-size;
+          color: $grey;
+        }
+      }
+    }
+  }
+}

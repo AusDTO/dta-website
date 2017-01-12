@@ -22,7 +22,7 @@ doc-nav:
   </ul>
 </nav>
 
-## Chief Executive Officer’s review
+{% include hx.html lvl=2 text="Chief Executive Officer’s review" hide-back-to-top=1 %}
 
 What a busy and exciting year. The Digital Transformation Office (DTO) became an executive agency in July 2015, and I was appointed as its Chief Executive Officer that same month.
 
@@ -50,7 +50,7 @@ Australia has the opportunity to become a world leader in the provision of digit
 
 <div class="boxed" markdown="1">
 
-#### Using agile methodologies
+{% include hx.html lvl=4 text="Using agile methodologies" hide-back-to-top=1 %}
 
 Agile methodologies are at the heart of the DTO’s service delivery. This is an approach to software development that allows digital teams to respond to unpredictability through staged and iterative platform development.
   
@@ -71,7 +71,7 @@ To date, this staged approach has enabled the DTO to successfully map out issues
 
 <div class="boxed" markdown="1">
 
-#### Building an alpha of GOV.AU
+{% include hx.html lvl=4 text="Building an alpha of GOV.AU" hide-back-to-top=1%}
 
 In October 2015, a DTO team was given a project with an ambitious target: develop an alpha prototype of GOV.AU in just nine weeks.
 
@@ -97,7 +97,7 @@ The project demonstrated that it is possible to come up with a reasonably simple
 
 <div class="boxed" markdown="1">
 
-#### Changing the assessment process for the Digital Service Standard
+{% include hx.html lvl=4 text="Changing the assessment process for the Digital Service Standard" hide-back-to-top=1%}
 
 After considering the United Kingdom’s Government Digital Service Standard assessment model, the DTO moved to a new ‘in-flight’ model of assessment.
 
@@ -113,7 +113,7 @@ The new in-flight model means that digital teams and assessors are better able t
 
 </div>
 
-## About this report
+{% include hx.html lvl=2 text="About this report" %}
 
 This annual report covers the performance, accountability and financial reporting of the Digital Transformation Office (DTO) for the financial year ending on 30 June 2016.
 
@@ -129,13 +129,13 @@ The report on the management and accountability of the DTO in 2015–16, along w
 
 A summary of the DTO’s financial performance is provided in Part 2, while the audited financial statements for 2015–16 are provided in Part 4.
 
-## Overview
+{% include hx.html lvl=2 text="Overview" %}
 
 The DTO was established to assist in designing a more user-friendly government. We are creating unified digital platforms that will make it easier for all Australians to access the government services and information they need, and leading a user-focused, whole-of-government approach to digital transformation that will make public services simpler, clearer and faster for all.
 
 The role of the DTO is to design the system and governance for this change process in collaboration with our partners: it is not to own services or content. We facilitate collaboration and a whole-of-government approach while digital transformation takes place within the entities that provide government services and information.
 
-### Outcome and program structure
+{% include hx.html lvl=3 text="Outcome and program structure" %}
 
 The DTO has one portfolio outcome, delivered through one program:
 
@@ -155,7 +155,7 @@ In 2015–16, the objective of Program 1.1 was:
 
 </div>
 
-### Values
+{% include hx.html lvl=3 text="Values" %}
 
 At the heart of our values are the values of the Australian Public Service (APS) and a desire to transform government services to ensure that all users’ experiences are made simpler, clearer and faster. We encourage innovation by providing a nurturing and supportive environment.
 
@@ -166,7 +166,7 @@ We are also committed to:
    * providing opportunities for personal development and advancement
    * promoting a culture of collaboration through robust and lively debate with internal and external stakeholders.
 
-### Legal framework
+{% include hx.html lvl=3 text="Legal framework" %}
 
 The DTO was established as an executive agency under the *Public Service Act 1999* on 1 July 2015. It is a non-corporate Commonwealth entity subject to the *Public Governance, Performance and Accountability Act 2013* (PGPA Act).
 
@@ -174,15 +174,15 @@ The DTO resides in the Prime Minister and Cabinet portfolio. The minister respon
 
 The DTO does not administer any legislation.
 
-### Organisational structure
+{% include hx.html lvl=3 text="Organisational structure" %}
 
   The structure of the agency at 30 June 2016 is shown in Figure 1.
 
   ![Image of DTO Organisation Chart]({% asset_path org-chart %})
   
-  DTO Organisational Chart
-  
-### Executive management
+DTO Organisational Chart
+
+{% include hx.html lvl=3 text="Executive management" %}
 
 <ul class="list-vertical">
   <li>
