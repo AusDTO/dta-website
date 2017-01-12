@@ -23,13 +23,13 @@ The DTA works in an agile way, in multidisciplinary teams to solve problems and 
 ### Citizenship
 Applicants must be Australian citizens. 
 
-### Police Check
+### Police check
 Appointment is conditional on successfully completing a National Police Records check prior to commencement. 
 
 ### Security clearance
 Some positions require a minimum Baseline security clearance. The successful applicant must be willing and eligible to undergo and maintain an Australian Government clearance at this level. Requirement for security clearance will be identified in individual advertisements.
 
-## Preparing your application
+## Submitting your application
 
 ### Preparation
 Prior to commencing your application it is recommended that you:
@@ -37,7 +37,7 @@ Prior to commencing your application it is recommended that you:
 * research the DTA using the information available on our website
 * learn about the Government's Digital Transformation Agenda.
 
-### Completing your Application
+### Completing your application
 
 1. Complete the online application form and upload resume<br>
   Select the *‘Apply for this position’* button and then scroll down and enter your personal details.  Please ensure you answer all questions highlighted with an asterisk ( * ) as these are compulsory. Then, select *‘Choose File’* button to upload your resume, which should detail relevant and recent work experience.
@@ -49,7 +49,7 @@ Prior to commencing your application it is recommended that you:
 
 **Please note:** Your application cannot be saved and completed at a later date so we recommend you complete your responses in an MS Word, Google Doc or Apple Pages document, saving as you go. Once you have finalised your responses, copy and paste them into the response boxes. 
 
-## Privacy Statement
+## Privacy statement
 
 Personal information provided to the agency is protected by the *Privacy Act 1988*. The Digital Transformation Agency (DTA) collects your personal information for recruitment purposes as required by the *Public Service Act 1999*. The DTA will not disclose the information without your consent except where authorised or required by law. 
 
