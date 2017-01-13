@@ -220,7 +220,7 @@ The above statement should be read in conjunction with the accompanying notes.
 {% include hx.html lvl=2 text="Statement of financial position" %}
 for the period ended 30 June 2016
 
-<table class="content-table" summary="&quot;&quot;">
+<table class="content-table" summary="Statement of financial position">
   <colgroup>
   <col />
   <col />
