@@ -695,11 +695,11 @@ for the period ended 30 June 2016">
    <div markdown="1">
 **Accounting Policy**
 
-_Equity injections_
+*Equity injections*
 
 Amounts appropriated which are designated as ‘equity injections’ for a year (less any formal reductions) and Departmental Capital Budgets (DCBs) are recognised directly in contributed equity in that year.
 
-_Other Distributions to Owners_
+*Other Distributions to Owners*
 
 The FRR require that distributions to owners be debited to contributed equity unless it is in the nature of a dividend.
 
@@ -712,7 +712,7 @@ Departmental retained earnings for 2015–16 were $2.203 million higher than the
 
 The above statement should be read in conjunction with the accompanying notes.
   </div>
-  </div>
+ </div>
 
 {% include hx.html lvl=2 text="Cash flow statement" %}
 for the period ended 30 June 2016
@@ -910,7 +910,7 @@ Departmental net cash from financing activities is $0.726 million (33%) lower th
 
 The above statement should be read in conjunction with the accompanying notes.
   </div>
-  </div>
+ </div>
 
 {% include hx.html lvl=2 text="Notes to and forming part of the financial statements" %}
 for the period ended 30 June 2016
@@ -944,7 +944,7 @@ for the period ended 30 June 2016
 
 {% include hx.html lvl=3 text="Overview" %}
 
-**Objectives of the Entity**
+#### Objectives of the Entity
 
 The Digital Transformation Office (the DTO) is a not-for-profit Australian Government controlled Executive Agency established on 1 July 2015.
 
@@ -956,13 +956,13 @@ The DTO is structured to meet one outcome as outlined below:
 
 In 2015–16 the DTO’s activities were identified under the following programme:
 
-**Programme 1.1: The Digital Transformation Office:**
+##### Programme 1.1: The Digital Transformation Office:
 
 To support the Prime Minister in transforming government services to improve the user experience, cut red tape and ensure services are delivered efficiently.
 
 The continued existence of the DTO in its present form and with its present programmes is dependent on Government policy and on continuing funding by Parliament for the DTO’s administration and programmes.
 
-**Basis of preparation of the financial statements**
+#### Basis of preparation of the financial statements
 
 The financial statements are general purpose financial statements and are required by section 42 of the *Public Governance, Performance and Accountability Act 2013*.
 
@@ -978,15 +978,15 @@ The financial statements are presented in Australian dollars and values are roun
 
 As the DTO was established as an Executive Agency on 1 July 2015, there will be no comparative figures disclosed.
 
-**New Australian accounting standards**
+#### New Australian accounting standards
 
-_*Adoption of New Australian Accounting Standard requirements*_
+##### *Adoption of New Australian Accounting Standard requirements*
 
 No accounting standard has been adopted earlier than the application date as stated in the standard.
 
 Other new standards, revised standards, interpretations and amending standards that were issued prior to the sign-off date and are applicable to the current reporting period did not have a material financial impact, and are not expected to have a future material financial impact on the DTO.
 
-_*Future Australian Accounting Standard requirements*_
+##### *Future Australian Accounting Standard requirements*
 
 No new/revised/amending standards and/or interpretations issued by the AASB prior to the sign-off date are expected to have a future material impact on DTO’s financial statements which are applicable to the DTO for future reporting periods.
 
@@ -1005,7 +1005,7 @@ and reductions) are recognised as Revenue from Government when DTO gains control
 
 {% include hx.html lvl=3 text="1. Departmental Financial Performance" %}
 
-**This section analyses the financial performance of the Digital Transformation Office for the year ended 2016.**
+This section analyses the financial performance of the Digital Transformation Office for the year ended 2016.
 
 {% include hx.html lvl=4 text="1.1 Expenses" hide-back-to-top=1 %}
 
@@ -1067,11 +1067,13 @@ and reductions) are recognised as Revenue from Government when DTO gains control
     </tr>
   </tbody>
 </table>
-
-{% include hx.html lvl=5 text="Accounting Policy" %}
+ <div class="notes indented">
+  <div markdown="1">
+**Accounting Policy**
 
 Accounting policies for employee related expenses is contained in the People and relationships section.
-
+  </div>
+ </div>
 <table class="content-table" summary="Digital Transformation Office
 Notes to and forming part of the financial statements
 
@@ -1190,10 +1192,11 @@ for the period ended 30 June 2016">
     </tr>
   </tbody>
 </table>
+ <div class="notes indented">
+  <div markdown="1">
+Note: Commitments are GST inclusive where relevant.
 
-**Note: Commitments are GST inclusive where relevant.**
-
-{% include hx.html lvl=4 text="Operating lease commitment - leases for office accommodation" %}
+**Operating lease commitment - leases for office accommodation**
 
 Office accommodation lease payments are subject to periodic increases in accordance with the rent review provisions in the lease agreements.
 
@@ -1201,12 +1204,13 @@ The DTO has one lease that contains three, one year renewal options. The options
 
 The DTO has one MOU for the leasing of premises which has a provision requiring the premises to be restored to their original condition at the conclusion of the lease. The DTO has made a make good provision to reflect the present value of this obligation.
 
-{% include hx.html lvl=5 text="Accounting Policy" %}
+**Accounting Policy**
 
 Operating lease payments are expensed on a straight-line basis which is representative of the pattern of benefits derived from the leased assets.
 
 A distinction is made between finance leases and operating leases. Finance leases effectively transfer from the lessor to the lessee substantially all the risks and rewards incidental to ownership of leased assets. An operating lease is a lease that is not a finance lease. In operating leases, the lessor effectively retains substantially all such risks and benefits.
-
+  </div>
+ </div>
 #### 1.2 Own-Source Revenue and Gains
 
 <table class="content-table" summary="Note 1.2A: Resources received free of charge">
