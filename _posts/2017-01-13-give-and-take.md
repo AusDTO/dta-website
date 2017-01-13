@@ -1,6 +1,6 @@
 ---
-title: "Give and take"
-searchexcerpt: "How our Digital Marketplace code is making a difference in the UK."
+title: "Open source give and take"
+searchexcerpt: "How our Digital Marketplace is making a difference in the UK."
 category: blog
 tags: ['digital marketplace']
 author: Steven Berends
@@ -9,8 +9,8 @@ thumbnail: /images/blog-thumbnails/koala-and-branch-thumb.jpg
 hero-image: /images/blog-content/koala-and-branch-content.jpg
 ---
  
-![Image of a koala]({{site.url}}{{page.hero-image}})
-*Want a branch? Tuck in — it’s all open source.*
+![Photo of a koala reaching for a branch of gum leaves]({{site.url}}{{page.hero-image}})
+*Want a branch? Tuck in mate – it's all open source.*
 
 Our [Digital Marketplace Beta](https://www.gov.au/marketplace) was released 5 months ahead of schedule, because we were able to reuse open source code from the Digital Marketplace UK. 
 
@@ -34,7 +34,7 @@ Open source helps:
 
 Best of all, whenever anyone makes an improvement to the code, everyone can benefit.
 
-## Building transnational collaboration
+## Transnational collaboration
 
 For us this is just the beginning.
 
@@ -45,5 +45,3 @@ We’re now taking the next step to create a shared backlog. Our collective inte
 With an eye on broadening the coalition, we’re also part of an OECD digital marketplace special interest group involving many different countries, giving us the potential to spread the load further and deliver even faster in future.
 
 For now we’re happy to see some of our work being used by our friends in the United Kingdom. It’s good open source karma and proves we’re building a useful service.
-
-
