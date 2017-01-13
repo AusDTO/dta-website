@@ -186,7 +186,7 @@ The DTO recorded an operating surplus of $1.92 million for 2015–16. At 30 June
 The DTO’s financial statements are presented in Part 4 of this annual report. The Australian National Audit Office issued an unmodified audit opinion of the statements on 16 September 2016. As 2015–16 was the first year of operation for the DTO, there are no comparative figures presented in the financial statements.
 
 Tables 2 and 3 summarise the agency’s total resources and total expenses for the year.
-   <div markdown="1">
+
 <table class="content-table" summary="Table 2 Resource statement">
     <caption><strong>Table 2</strong> Resource statement</caption><br/><br/>
     <colgroup>
@@ -248,7 +248,6 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
         <td>22,215</td>
         <td />
       </tr>
-      ***
       <tr>
         <td />
         <td />
@@ -284,7 +283,6 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
         <td>–</td>
         <td />
       </tr>
-      ***
       <tr>
         <td />
         <td />
@@ -322,7 +320,6 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
       </tr>
     </tbody>
   </table>	
-   </div>
   1. Appropriation Act (No.1) 2015–16 and Appropriation Act (No.3) 2015–16.
   2. Includes an amount of $1.500 million in 2015–16 for the Departmental Capital Budget. For accounting purposes this amount has been designated as ‘contribution by owners’.
 
