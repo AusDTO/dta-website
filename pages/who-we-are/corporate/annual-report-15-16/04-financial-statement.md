@@ -1239,11 +1239,13 @@ A distinction is made between finance leases and operating leases. Finance lease
     </tr>
   </tbody>
 </table>
-
-##### Accounting Policy
+ <div class="notes indented">
+  <div markdown="1">
+**Accounting Policy**
 
 Resources received free of charge are recognised as revenue when, and only when, a fair value can be reliably determined and the services would have been purchased if they had not been donated. Use of those resources is recognised as an expense. Resources received free of charge are recorded as either revenue or gains depending on their nature.
-
+  </div>
+ </div>
 ### 2. Departmental Financial Position
 
 This section analyses the Digital Transformation Office’s assets used to generate financial performance and the operating liabilities incurred as a result. Employee related information is disclosed in the People and Relationships section.
