@@ -12,7 +12,7 @@ hero-image: /images/blog-content/koala-and-branch-content.jpg
 ![Image of a koala]({{site.url}}{{page.hero-image}})
 *Want a branch? Tuck in — it’s all open source.*
 
-Our [Digital Marketplace Beta](https://www.gov.au/marketplace) was released 5 months ahead of schedule, because we were able reuse open source code from the Digital Marketplace UK. 
+Our [Digital Marketplace Beta](https://www.gov.au/marketplace) was released 5 months ahead of schedule, because we were able to reuse open source code from the Digital Marketplace UK. 
 
 So it feels good to be able to give something back: the Digital Marketplace UK is now incorporating one of our new features — our digital work order — into their service.
 
@@ -38,7 +38,7 @@ Best of all, whenever anyone makes an improvement to the code, everyone can bene
 
 For us this is just the beginning.
 
-Over last 6 months we’ve been growing our relationship with the Digital Marketplace UK with short visits both ways, as well as fortnightly Google Hangouts — this is how they found out about our work order.
+Over the last 6 months we’ve been growing our relationship with the Digital Marketplace UK with short visits both ways, as well as fortnightly Google Hangouts — this is how they found out about our work order.
 
 We’re now taking the next step to create a shared backlog. Our collective intent is to collaborate on features, technologies and procurement reform strategies. By sharing the load, both marketplaces will be able to move faster than either can alone.
 
