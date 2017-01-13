@@ -249,11 +249,7 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
         <td />
       </tr>
       <tr>
-        <td />
-        <td />
-        <td />
-        <td />
-        <td />
+        <td colspan="5"></td>
       </tr>
       <tr>
         <td><strong>Departmental non-operating</strong></td>
@@ -284,11 +280,7 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
         <td />
       </tr>
       <tr>
-        <td />
-        <td />
-        <td />
-        <td />
-        <td />
+        <td colspan="5"></td>
       </tr>
       <tr>
         <td>Total available annual appropriations and payments</td>
