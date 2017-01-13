@@ -517,7 +517,7 @@ Under section 311A of the *Commonwealth Electoral Act 1918*, the DTO is required
 
 <table class="content-table" summary="Table 6 Commissions paid to market research agencies in 2015–16 (including GST)">
   <caption>
-  Table 6 Commissions paid to market research agencies in 2015–16 (including GST)
+  <strong>Table 6</strong> Commissions paid to market research agencies in 2015–16 (including GST)
   </caption>
   <colgroup>
   <col />
