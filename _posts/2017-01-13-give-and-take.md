@@ -5,8 +5,8 @@ category: blog
 tags: ['digital marketplace']
 author: Steven Berends
 author-excerpt: "Steven Berends is the Digital Marketplace Content Design and Comms Lead, and can most often be found in the DTA Sydney office."
-thumbnail: /images/blog-thumbnails/koala-and-branch-thumb.png
-hero-image: /images/blog-content/koala-and-branch-content.png
+thumbnail: /images/blog-thumbnails/koala-and-branch-thumb.jpg
+hero-image: /images/blog-content/koala-and-branch-content.jpg
 ---
  
 ![Image of a koala]({{site.url}}{{page.hero-image}})
