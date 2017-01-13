@@ -113,8 +113,8 @@ Table 1 outlines the DTO’s performance against portfolio budget statements per
 
 The key performance indicators (KPIs) for 2015–16 were defined when the DTO commenced in the Communications portfolio, and retained when the DTO was transferred to the Prime Minister and Cabinet portfolio. The targets for 2015–16 were defined in the Prime Minister and Cabinet Portfolio Budget Statements 2016–17.
 
-  <table class="content-table" summary="Performance against portfolio measures">
-    <caption><strong>Table 1</strong> Performance against portfolio measures</caption>
+<table class="content-table" summary="Performance against portfolio measures">
+<caption><strong>Table 1</strong> Performance against portfolio measures</caption>
     <colgroup>
     <col />
     <col />
@@ -163,7 +163,7 @@ The key performance indicators (KPIs) for 2015–16 were defined when the DTO co
         <td>Change is occurring but it is too early to determine what proportion of agencies are adhering to the standard.</td>
       </tr>
     </tbody>
-  </table>
+</table>
   1. Key performance indicators from the Prime Minister and Cabinet Portfolio Additional Estimates Statements 2015–16, p. 63.
   2. Targets from the Prime Minister and Cabinet Portfolio Budget Statements 2016–17, p. 134.
 
@@ -188,7 +188,7 @@ The DTO’s financial statements are presented in Part 4 of this annual report. 
 Tables 2 and 3 summarise the agency’s total resources and total expenses for the year.
 
 <table class="content-table" summary="Table 2 Resource statement">
-    <caption><strong>Table 2</strong> Resource statement</caption><br/><br/>
+ <caption><strong>Table 2</strong> Resource statement</caption><br/><br/>
     <colgroup>
     <col />
     <col />
@@ -317,7 +317,7 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
 
 
 <table class="content-table" summary="Expenses for Outcome 1">
-    <caption>  <strong>Table 3 </strong> Expenses for Outcome 1 </caption><br/><br/>
+ <caption>  <strong>Table 3 </strong> Expenses for Outcome 1 </caption><br/><br/>
     <colgroup>
     <col />
     <col />
@@ -386,6 +386,6 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
         <td />
       </tr>
     </tbody>
-  </table>
+ </table>
   1. Full-year budget, including any subsequent adjustment made to the 2015–16 Budget at Additional Estimates.
   2. Departmental appropriation combines ordinary annual services (Appropriation Act Nos 1, 3 and 5) and retained revenue receipts under section 74 of the *Public Governance, Performance and Accountability Act 2013*.
