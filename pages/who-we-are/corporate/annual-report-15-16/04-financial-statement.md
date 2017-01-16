@@ -2240,18 +2240,19 @@ This section describes a range of employment and post employment benefits provid
     </tr>
   </tbody>
 </table>
-
-#### Accounting Policy
+ <div class="notes indented">
+  <div markdown="1">
+**Accounting Policy**
 
 Liabilities for ‘short-term employee benefits’ (as defined in AASB 119 Employee Benefits) and termination benefits due within twelve months of the end of reporting period are measured at their nominal amounts.
 
-_*Leave*_
+*Leave*
 
 The liability for employee benefits includes provision for annual leave and long service leave. The leave liabilities are calculated on the basis of employees’ remuneration at the estimated salary rates that will be applied at the time the leave is taken, including the DTO’s employer superannuation contribution rates to the extent that the leave is likely to be taken during service rather than paid out on termination. The provision is disclosed at the present value of the obligation using the short hand method that utilises the appropriate Government bond rate.
 
 No provision has been made for sick leave as all sick leave is non-vesting and the average sick leave taken in future years by employees of the DTO is estimated to be less than the annual entitlement for sick leave.
 
-_*Superannuation*_
+*Superannuation*
 
 The DTO’s staff are members of the Commonwealth Superannuation Scheme (CSS), the Public Sector Superannuation Scheme (PSS), the PSS accumulation plan (PSSap) or another fund of their choice.
 
@@ -2262,7 +2263,8 @@ The liability for defined benefits is recognised in the financial statements of 
 The DTO makes employer contributions to the employees’ superannuation scheme. For Commonwealth defined benefits schemes, these rates are determined by an actuary to be sufficient to meet the current cost to the Government. The DTO accounts for the contributions as if they were contributions to defined contribution plans.
 
 The liability for superannuation recognised as at 30 June represents outstanding contributions for the final fortnight of the year.
-
+  </div>
+ </div>
 #### 4.2 Senior Management Personnel Remuneration
 
 <table class="content-table" summary="&quot;&quot;">
@@ -2343,9 +2345,11 @@ The liability for superannuation recognised as at 30 June represents outstanding
     </tr>
   </tbody>
 </table>
-
+ <div class="notes indented">
+  <div markdown="1">
 During the year, the total number of senior management personnel that were utilised and are included in the above table is 21. The additional positions reported relate to the short-term employment and secondment arrangements during 2015–16 to support the establishment and development of the DTO. As at 30 June 2016, the DTO has nine senior management positions.
-
+  </div>
+ </div>
 ### 5. Managing Uncertainties
 
 This section analyses how the Digital Transformation Office manages financial risks within its operating environment.
@@ -2356,7 +2360,7 @@ This section analyses how the Digital Transformation Office manages financial ri
 
 The DTO is not aware of any material departmental quantifiable or unquantifiable contingent assets or liabilities as at the signing date that would require disclosure in the financial statements.
 
-#### Accounting Policy
+##### Accounting Policy
 Contingent liabilities and contingent assets are not recognised in the Statement of Financial Position but are reported in the relevant schedules and notes. They may arise from uncertainty as to the existence of a liability or asset, or represent an asset or liability in respect of which the amount cannot be reliably measured. Contingent assets are disclosed when settlement is probable but not virtually certain and contingent liabilities are disclosed when settlement is greater than remote.
 
 #### 5.2 Financial Instruments
@@ -2513,10 +2517,12 @@ Fair value measurements at the end of the reporting period
     </tr>
   </tbody>
 </table>
-
-   1. DTO’s assets are held for operational purposes and not held for the purposes of deriving a profit.
-   2. No revaluation has been performed in 2015–16 as all assets were transferred or purchased in the current year representing a proxy for fair value.
-   
+ <div class="notes indented">
+  <div markdown="1">
+   1 DTO’s assets are held for operational purposes and not held for the purposes of deriving a profit.
+   2 No revaluation has been performed in 2015–16 as all assets were transferred or purchased in the current year representing a proxy for fair value.
+  </div>
+ </div>
 ### 6. Other Information
 
 #### 6.1 Restructuring
