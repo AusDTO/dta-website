@@ -18,7 +18,7 @@ doc-nav:
     </ul>
 </nav>
 
-{% include hx.html lvl=2 text="Glossary and abbreviations list" %}
+## Glossary and abbreviations list
 
 <dl>
       <dt>APS</dt>
