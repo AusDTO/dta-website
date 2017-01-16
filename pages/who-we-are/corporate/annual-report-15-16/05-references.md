@@ -20,54 +20,30 @@ doc-nav:
 
 {% include hx.html lvl=2 text="Glossary and abbreviations list" %}
 
-<table class="content-table">
-  <tbody>
-    <tr>
-      <td>APS </td>
-      <td>Australian Public Service</td>
-    </tr>
-    <tr>
-      <td>CEO</td>
-      <td>Chief Executive Officer</td>
-    </tr>
-    <tr>
-      <td>DTO</td>
-      <td>Digital Transformation Office</td>
-    </tr>
-    <tr>
-      <td>EPBC Act </td>
-      <td><em>Environment Protection and Biodiversity Conservation Act 1999</em></td>
-    </tr>
-    <tr>
-      <td>ICT</td>
-      <td>information and communications technology</td>
-    </tr>
-    <tr>
-      <td>IPS</td>
-      <td>Information Publication Scheme</td>
-    </tr>
-    <tr>
-      <td>IT</td>
-      <td>information technology</td>
-    </tr>
-    <tr>
-      <td>KPI</td>
-      <td>key performance indicator</td>
-    </tr>
-    <tr>
-      <td>PGPA Act</td>
-      <td><em>Public Governance, Performance and Accountability Act 2013</em></td>
-    </tr>
-    <tr>
-      <td>SES</td>
-      <td>Senior Executive Service</td>
-    </tr>
-    <tr>
-      <td>SMEs</td>
-      <td>small and medium enterprises</td>
-    </tr>
-  </tbody>
-</table>
+<dl>
+      <dt>APS</dt>
+      <dd>Australian Public Service</dd>
+      <dt>CEO</dt>
+      <dd>Chief Executive Officer</dd>
+      <dt>DTO</dt>
+      <dd>Digital Transformation Office</dd>
+      <dt>EPBC Act </dt>
+      <dd><em>Environment Protection and Biodiversity Conservation Act 1999</em></dd>
+      <dt>ICT</dt>
+      <dd>information and communications technology</dd>
+      <dt>IPS</dt>
+      <dd>Information Publication Scheme</dd>
+      <dt>IT</dt>
+      <dd>information technology</dd>
+      <dt>KPI</dt>
+      <dd>key performance indicator</dd>
+      <dt>PGPA Act</dt>
+      <dd><em>Public Governance, Performance and Accountability Act 2013</em></dd>
+      <dt>SES</dt>
+      <dd>Senior Executive Service</dd>
+      <dt>SMEs</dt>
+      <dd>small and medium enterprises</dd>
+ </dl>
 
 {% include hx.html lvl=2 text="List of requirements" %}
 
