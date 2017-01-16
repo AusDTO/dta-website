@@ -77,7 +77,7 @@ The management of risks was monitored through weekly reporting to the Executive 
 
 Throughout 2016–17, the DTO will continue to develop, implement and evaluate risk systems and processes as part of its business process.
 
-### Fraud prevention and control
+{% include hx.html lvl=3 text="Fraud prevention and control" %}
 
 The DTO has developed a fraud control plan that provides advice on fraud to the Executive Group, management and individuals. It includes:
 
@@ -462,7 +462,7 @@ DTO’s offices and facilities were selected with accessibility requirements and
 
 The National Disability Strategy 2010–2020 sets out a 10-year national policy framework to improve the lives of people with disability, promote participation, and create a more inclusive society. A high-level, two-yearly report will track progress against each of the six outcome areas of the strategy and present a picture of how people with disability are faring. The first report was published in 2014 and can be found on the Department of Social Security website: dss.gov.au.
 
-## Work health and safety
+{% include hx.html lvl=2 text="Work health and safety" %}
 
 The DTO is committed to providing a safe workplace for all staff and contractors working across the organisation. The DTO recognises the importance of its legislative obligations under the *Work Health and Safety Act 2011* to prevent work-related injury and illness.
 
