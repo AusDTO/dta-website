@@ -13,12 +13,12 @@ doc-nav:
 <nav class="index-links">
   <h3>On this page</h3>
   <ul>
-    <li><a href="#glossary">Glossary and abbreviations list</a></li>
-    <li><a href="#requirements">List of requirements</a></li>
+    <li><a href="#glossary-and-abbreviations">Glossary and abbreviations list</a></li>
+    <li><a href="#list-of-requirements">List of requirements</a></li>
     </ul>
 </nav>
 
-## <a id="glossary" name="glossary"></a>Glossary and abbreviations list
+{% include hx.html lvl=2 text="Glossary and abbreviations list" %}
 
 <table class="content-table">
   <tbody>
@@ -69,7 +69,7 @@ doc-nav:
   </tbody>
 </table>
 
-## <a id="requirements" name="requirements"></a>List of requirements
+{% include hx.html lvl=2 text="List of requirements" %}
 
 <table class="content-table" summary="List of requirements">
   <colgroup>
