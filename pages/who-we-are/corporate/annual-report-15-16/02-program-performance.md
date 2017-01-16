@@ -56,7 +56,7 @@ The publishing of the standard created a need for expert advice and facilitation
 
 In addition, many agencies undertook the development and redesign of services in house. The DTO’s assessments of such services against the standard can be found at www.dto.gov.au/standard/assessments/.
 
-#### Easier ways to access government services
+{% include hx.html lvl=4 text="Easier ways to access government services" %}
 
 In conjunction with releasing the Digital Service Standard, the DTO began developing five platforms to provide individuals and businesses with easier ways to access government services.
 
@@ -97,7 +97,7 @@ The DTO commenced the discovery phase of the digital authentication and verifica
 
 In 2015–16, the DTO began building an alpha version of a service to verify the identity of individuals to a level that means they can access government services. To make it easier for government agencies to work together, the DTO also began development of the Trusted Digital Verification and Authentication Framework.
 
-#### Exemplars and partnerships
+{% include hx.html lvl=4 text="Exemplars and partnerships" %}
 
 In 2015–16, the DTO partnered with other agencies to deliver exemplar projects in its delivery hubs. The DTO has worked with:
 
@@ -107,7 +107,7 @@ In 2015–16, the DTO partnered with other agencies to deliver exemplar projects
   - the ACT Government to deliver an appointment booking service for new parents with ACT Health
   - the Queensland Government on a pilot program of improvements to the senior citizens’ entitlements service.
 
-### Results
+{% include hx.html lvl=3 text="Results" %}
 
 Table 1 outlines the DTO’s performance against portfolio budget statements performance criteria.
 
@@ -167,7 +167,7 @@ The key performance indicators (KPIs) for 2015–16 were defined when the DTO co
   1. Key performance indicators from the Prime Minister and Cabinet Portfolio Additional Estimates Statements 2015–16, p. 63.
   2. Targets from the Prime Minister and Cabinet Portfolio Budget Statements 2016–17, p. 134.
 
-### Analysis
+{% include hx.html lvl=3 text="Analysis" %}
 
 The DTO was established as an executive agency in the Communications portfolio in July 2015 and transferred to the Prime Minister and Cabinet portfolio in September 2015.
 
@@ -179,7 +179,7 @@ The result was a split in key priorities, between the need to rapidly build tech
 
 Nonetheless, throughout 2015–16, the DTO built capacity across both technical and corporate areas. This has allowed the agency to set the foundations for key program and organisational capability that will be built on in the year ahead.
 
-## Report on financial performance
+{% include hx.html lvl=2 text="Report on financial performance" %}
 
 The DTO recorded an operating surplus of $1.92 million for 2015–16. At 30 June 2016, the DTO had net equity of $5.4 million, representing $13.3 million of assets offset by $7.9 million of liabilities. The assets balance primarily relates to appropriation receivable of $9.3 million, while the majority of liabilities relate to suppliers payable of $5.9 million.
 
