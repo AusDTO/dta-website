@@ -13,7 +13,7 @@ doc-nav:
 <nav class="index-links">
   <h3>On this page</h3>
   <ul>
-    <li><a href="#glossary-and-abbreviations">Glossary and abbreviations list</a></li>
+    <li><a href="#glossary-and-abbreviations-list">Glossary and abbreviations list</a></li>
     <li><a href="#list-of-requirements">List of requirements</a></li>
     </ul>
 </nav>
