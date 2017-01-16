@@ -1371,7 +1371,7 @@ This section analyses the Digital Transformation Office’s assets used to gener
 Receivables have been assessed for impairment and no allowance has been made as at 30 June 2016.
   </div>
  </div>
-#### 2.2 Non-Financial Assets
+{% include hx.html lvl=4 text="2.2 Non-Financial Assets" %}
 
 <table class="content-table" summary="&quot;&quot;">
   <colgroup>
@@ -1648,7 +1648,7 @@ An item of property, plant and equipment is derecognised upon disposal or when n
   </tbody>
 </table>
 
-### 2.3 Payables
+{% include hx.html lvl=3 text="2.3 Payables" %}
 
 <table class="content-table" summary="Note 2.3A: Suppliers">
   <colgroup>
@@ -1764,7 +1764,7 @@ Supplier and other payables are recognised at amortised cost. Liabilities are re
 Financial liabilities are recognised and derecognised upon ‘trade date’.
   </div>
  </div>
-#### 2.4 Other Provisions
+{% include hx.html lvl=4 text="2.4 Other Provisions" %}
 
 <table class="content-table" summary="Note 2.4A: Other provisions">
   <colgroup>
@@ -1872,7 +1872,7 @@ The entity currently has one MOU agreement for the leasing of premises which has
 Provision for the restoration of leased premises (makegood) is based on future obligations relating to the underlying assets. The provision is disclosed at the present value of the obligation utilising the appropriate Government bond rate.
   </div>
  </div>
-### 3. Funding
+{% include hx.html lvl=3 text="3. Funding" %}
 
 This section identifies the Digital Transformation Office funding structure.
 
@@ -2088,7 +2088,7 @@ This section identifies the Digital Transformation Office funding structure.
 During 2015–16, the Shared Services Centre provided the DTO with Treasury services.
   </div>
  </div>
-#### 3.2 Cash Flow Reconciliation
+{% include hx.html lvl=4 text="3.2 Cash Flow Reconciliation" %}
 
 <table class="content-table" summary="&quot;&quot;">
   <colgroup>
@@ -2188,7 +2188,7 @@ During 2015–16, the Shared Services Centre provided the DTO with Treasury serv
   </tbody>
 </table>
 
-### 4. People and Relationships
+{% include hx.html lvl=3 text="4. People and Relationships" %}
 
 This section describes a range of employment and post employment benefits provided to our people and our relationships with other key people.
 
@@ -2265,7 +2265,7 @@ The DTO makes employer contributions to the employees’ superannuation scheme. 
 The liability for superannuation recognised as at 30 June represents outstanding contributions for the final fortnight of the year.
   </div>
  </div>
-#### 4.2 Senior Management Personnel Remuneration
+{% include hx.html lvl=4 text="4.2 Senior Management Personnel Remuneration" %}
 
 <table class="content-table" summary="&quot;&quot;">
   <colgroup>
@@ -2350,7 +2350,7 @@ The liability for superannuation recognised as at 30 June represents outstanding
 During the year, the total number of senior management personnel that were utilised and are included in the above table is 21. The additional positions reported relate to the short-term employment and secondment arrangements during 2015–16 to support the establishment and development of the DTO. As at 30 June 2016, the DTO has nine senior management positions.
   </div>
  </div>
-### 5. Managing Uncertainties
+{% include hx.html lvl=3 text="5. Managing Uncertainties" %}
 
 This section analyses how the Digital Transformation Office manages financial risks within its operating environment.
 
@@ -2523,7 +2523,7 @@ Fair value measurements at the end of the reporting period
    2 No revaluation has been performed in 2015–16 as all assets were transferred or purchased in the current year representing a proxy for fair value.
   </div>
  </div>
-### 6. Other Information
+{% include hx.html lvl=3 text="6. Other Information" %}
 
 #### 6.1 Restructuring
 
