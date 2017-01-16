@@ -99,19 +99,19 @@ The DTO is developing a forward audit plan for 2016–17 that will provide assur
 
 The DTO experienced no issues related to non-compliance with the finance law in 2015–16.
 
-## External scrutiny
+{% include hx.html lvl=2 text="External scrutiny" %}
 
 The DTO was not the subject of judicial decisions or decisions of administrative tribunals or the Australian Information Commissioner in 2015–16. Nor was it the subject of any reports by the Auditor-General (with the exception of the financial statements audit), parliamentary committees, the Commonwealth Ombudsman or capability reviews.
 
 The DTO appeared before the Senate Estimates (Finance and Public Administration Legislation) Committee on two occasions, in October 2015 and February 2016.
 
-## Freedom of information
+{% include hx.html lvl=2 text="Freedom of information" %}
 
 Entities subject to the *Freedom of Information Act 1982* are required to publish information to the public as part of the Information Publication Scheme (IPS). This requirement is in Part II of the Freedom of Information Act and has replaced the former requirement to publish a section 8 statement in an annual report.
 
 The DTO publishes a range of information in accordance with the IPS, including the DTO’s information publication plan and details of our organisation and functions. Information published under the IPS is accessible on the DTO’s website at www.dto.gov.au/freedom-of-information.
 
-## Management of human resources
+{% include hx.html lvl=2 text="Management of human resources" %}
 
 Much of the DTO’s human resources activity during 2015–16 was related to establishing offices in Sydney and Canberra. This involved extensive recruitment activity and engagement with entities across the APS and external recruitment agencies, to source team members with appropriate experience in digital and platform development.
 
@@ -350,7 +350,7 @@ Across all classification bands, the DTO had 31 female employees and 40 male emp
 
 The DTO has 20 employees (28 per cent) working in Sydney and 51 employees (72 per cent) working Canberra. The DTO currently does not collect demographic information in relation to whether staff members identify as Indigenous Australians.
 
-### Employment arrangements
+{% include hx.html lvl=3 text="Employment arrangements" %}
 
 All non-SES employees are engaged under the DTO Determination 2015/01. Five SES employees are engaged via individual section 24(1) agreements and one SES employee is engaged via an external recruitment agency.
 
@@ -476,7 +476,7 @@ As part of its commitment to providing a safe working environment, the DTO has:
 
 During 2015–16, there were no notifiable incidents that required reporting to Comcare, no directions or notices given to the DTO, and no work health and safety investigations. No workers compensation matters were active or ongoing at 30 June 2016.
 
-## Purchasing and procurement
+{% include hx.html lvl=2 text="Purchasing and procurement" %}
 
 The DTO’s procurement and purchasing in 2015–16 was undertaken in accordance with the principles set out in the Commonwealth Procurement Rules.
 
@@ -501,7 +501,7 @@ In addition, the DTO is establishing a digital services panel through the Digita
 
 The DTO recognises the importance of ensuring that small businesses are paid on time. The results of the Survey of Australian Government Payments to Small Business are available on the Treasury’s website: www.treasury.gov.au. The DTO is committed to improving its ability to make payments on time.
 
-## Consultancies
+{% include hx.html lvl=2 text="Consultancies" %}
 
 The DTO engages consultants where it lacks specialist expertise or where independent research, review or assessment is required. Consultants are typically engaged to investigate or diagnose a defined issue or problem; carry out defined reviews or evaluations; or provide independent advice, information or creative solutions to assist in the DTO’s decision making.
 
@@ -511,7 +511,7 @@ Annual reports contain information about actual expenditure on contracts and con
 
 During 2015–16, two new consultancy contracts were entered into by the DTO, involving total actual expenditure of $0.35 million. No ongoing consultancy contracts were active during the financial year.
 
-## Advertising and market research
+{% include hx.html lvl=2 text="Advertising and market research" %}
 
 Under section 311A of the *Commonwealth Electoral Act 1918*, the DTO is required to report annually on its use of advertising and marketing services. During 2015–16, the DTO did not make any payments for advertising campaigns. The agency did make payments for market research services, as shown in Table 6.
 
@@ -549,7 +549,7 @@ Under section 311A of the *Commonwealth Electoral Act 1918*, the DTO is required
     </tr>
   </tbody>
 </table>
-## Environmental performance
+{% include hx.html lvl=2 text="Environmental performance" %}
 
 The following summary of the DTO’s environmental management activities and performance is provided in accordance with section 516A of the *Environment Protection and Biodiversity Conservation Act 1999* (EPBC Act), which requires Australian Government entities to report on:
 
