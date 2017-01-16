@@ -1366,9 +1366,11 @@ This section analyses the Digital Transformation Office’s assets used to gener
     </tr>
   </tbody>
 </table>
-
+ <div class="notes indented">
+  <div markdown="1">
 Receivables have been assessed for impairment and no allowance has been made as at 30 June 2016.
-
+  </div>
+ </div>
 #### 2.2 Non-Financial Assets
 
 <table class="content-table" summary="&quot;&quot;">
@@ -1507,22 +1509,23 @@ Receivables have been assessed for impairment and no allowance has been made as 
     </tr>
   </tbody>
 </table>
+ <div class="notes indented">
+  <div markdown="1">
+**Accounting policy**
 
-##### Accounting policy
-
-_*Asset recognition threshold*_
+*Asset recognition threshold*
 
 Property, plant and equipment is the generic term that covers leasehold improvements and plant and equipment. Purchases of property, plant and equipment and intangibles are recognised initially at cost in the Statement of Financial Position, except for purchases costing less than $2,000, which are expensed in the year of acquisition.
 
 The initial cost of an asset includes an estimate of the cost of dismantling and removing the item and restoring the site on which it is located. This is particularly relevant to ‘make good’ provisions in property leases taken up by the DTO where there exists an obligation to restore the asset to its original condition. These costs are included in the value of the DTO’s leasehold improvements with a corresponding provision for the ‘make good’ recognised.
 
-_*Intangibles*_
+*Intangibles*
 
 The entity’s intangibles comprise of internally developed software for internal use. These assets are carried at cost less accumulated amortisation and accumulated impairment losses.
 
 Amortisation rates apply to intangibles and are based of the useful life of 2 to 3 years.
 
-_*Revaluations*_
+*Revaluations*
 
 Fair values for each class of asset are determined as shown below:
 
@@ -1549,7 +1552,7 @@ Fair values for each class of asset are determined as shown below:
   </tbody>
 </table>
 
-_*Depreciation*_
+*Depreciation*
 
 Depreciable property, plant and equipment assets are written-off to their estimated residual values over their estimated useful lives to the DTO using, in all cases, the straight-line method of depreciation.
 
@@ -1580,7 +1583,7 @@ Depreciation rates applying to each class of depreciable asset are based on the 
   </tbody>
 </table>
 
-_*Impairment*_
+*Impairment*
 
 All assets were assessed for impairment during 2016.
 
@@ -1588,10 +1591,12 @@ Where indications of impairment exist, the asset’s recoverable amount is estim
 
 A write-down of $957,000 was recognised in 2016 for Leasehold Improvements for the write-off of the South Tower of level 3 50 Marcus Clarke Street due to the termination of the lease.
 
-_*Derecognition*_
+*Derecognition*
 
 An item of property, plant and equipment is derecognised upon disposal or when no further future economic benefits are expected from its use or disposal.
-
+  </div>
+ </div>
+ 
 <table class="content-table" summary="Note 2.2B: Prepayments">
   <colgroup>
   <col />
@@ -1691,9 +1696,11 @@ An item of property, plant and equipment is derecognised upon disposal or when n
     </tr>
   </tbody>
 </table>
-
+ <div class="notes indented">
+  <div markdown="1">
 Settlement is usually made within 30 days.
-
+  </div>
+ </div>
 <table class="content-table" summary="Note 2.3B: Other payables">
   <colgroup>
   <col />
@@ -1748,13 +1755,15 @@ Settlement is usually made within 30 days.
     </tr>
   </tbody>
 </table>
-
-##### Accounting Policy
+ <div class="notes indented">
+  <div markdown="1">
+**Accounting Policy**
 
 Supplier and other payables are recognised at amortised cost. Liabilities are recognised to the extent that the goods or services have been received (and irrespective of having been invoiced).
 
 Financial liabilities are recognised and derecognised upon ‘trade date’.
-
+  </div>
+ </div>
 #### 2.4 Other Provisions
 
 <table class="content-table" summary="Note 2.4A: Other provisions">
@@ -1854,13 +1863,15 @@ Financial liabilities are recognised and derecognised upon ‘trade date’.
     </tr>
   </tbody>
 </table>
-
+ <div class="notes indented">
+  <div markdown="1">
 The entity currently has one MOU agreement for the leasing of premises which has a provision requiring the entity to restore the premises to their original condition at the conclusion of the lease.
 
-##### Accounting Policy
+**Accounting Policy**
 
 Provision for the restoration of leased premises (makegood) is based on future obligations relating to the underlying assets. The provision is disclosed at the present value of the obligation utilising the appropriate Government bond rate.
-
+  </div>
+ </div>
 ### 3. Funding
 
 This section identifies the Digital Transformation Office funding structure.
@@ -1983,12 +1994,15 @@ This section identifies the Digital Transformation Office funding structure.
     </tr>
   </tbody>
 </table>
-
+ <div class="notes indented">
+  <div markdown="1">
    1. Shared Service Centre spends money from the Consolidated Revenue Fund (CRF) on behalf of DTO.
    2. The variance in departmental ordinary annual services is mainly attributable to undrawn current year appropriations due a higher than expected accrued expense balance.
    3. Departmental Capital Budgets are appropriated through Appropriation Acts (No. 1,3,5). They form part of ordinary annual services and are not separately identified in the Appropriation Acts.
    4. The current year Equity injection is shown exclusive of the Section 51 Permanent Quarantine, which has reduced contributed equity by $2.226 million.
-
+   </div>
+  </div>
+  
 **Note 3.1B: Unspent annual appropriations (‘recoverable GST exclusive’)**
 
 <table class="content-table" summary="Note 3.1B: Unspent annual appropriations (‘recoverable GST exclusive’) ">
@@ -2036,9 +2050,11 @@ This section identifies the Digital Transformation Office funding structure.
     </tr>
   </tbody>
 </table>
-
-   1. The current year Equity injection is shown exclusive of the Section 51 Permanent Quarantine, which has reduced contributed equity by $2.226 million.
-
+ <div class="notes indented">
+  <div markdown="1">
+   1 The current year Equity injection is shown exclusive of the Section 51 Permanent Quarantine, which has reduced contributed equity by $2.226 million.
+   </div>
+  </div>
 **Note 3.1C: Disclosure by agent in relation to annual and special appropriations (‘recoverable GST exclusive’)**
 
 <table class="content-table" summary="Note 3.1C: Disclosure by agent in relation to annual and special appropriations (‘recoverable GST exclusive’)">
@@ -2067,9 +2083,11 @@ This section identifies the Digital Transformation Office funding structure.
     </tr>
   </tbody>
 </table>
-
+ <div class="notes indented">
+  <div markdown="1">
 During 2015–16, the Shared Services Centre provided the DTO with Treasury services.
-
+  </div>
+ </div>
 #### 3.2 Cash Flow Reconciliation
 
 <table class="content-table" summary="&quot;&quot;">
