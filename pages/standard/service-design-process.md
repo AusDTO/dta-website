@@ -16,7 +16,7 @@ The service design and delivery process has 4 stages:
   <article>
     <h2>Discovery</h2>
     <p>Start mapping the broader service landscape, researching the real needs and problems faced by your users, and understanding the policy intent and technology constraints.</p>
-    <p><a href="/standard/service-design-and-delivery-process/discovery/">Learn about the Discovery stage</a></p>
+    <p><a href="{{site.baseurl}}/standard/service-design-and-delivery-process/discovery/">Learn about the Discovery stage</a></p>
     <p><a href="http://ausdto.github.io/service-handbook/discovery/">Read the Discovery guide</a></p>
   </article>
 </li>
@@ -47,6 +47,6 @@ The service design and delivery process has 4 stages:
 
 ## Tools
 
-[Service design and delivery process poster (PDF 222 KB)](/files/service-design-and-delivery-process-a3.pdf)
+[Service design and delivery process poster (PDF 222 KB)]({{site.baseurl}}/files/service-design-and-delivery-process-a3.pdf)
 
 **Last updated:** 5 May 2016

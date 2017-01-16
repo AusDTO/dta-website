@@ -94,12 +94,12 @@ The assessment panel makes the following recommendations:
 
 ## Examples of prototype
 
-![screen capture of the menu selection]({{site.url}}/images/assessments/edu-childcare-menu.png)
+![screen capture of the menu selection]({{site.url}}{{site.baseurl}}/images/assessments/edu-childcare-menu.png)
 
-![screen capture of the confirmation screen]({{site.url}}/images/assessments/edu-childcare-confirmation.png)
+![screen capture of the confirmation screen]({{site.url}}{{site.baseurl}}/images/assessments/edu-childcare-confirmation.png)
 
-![screen capture of the login screen]({{site.url}}/images/assessments/edu-childcare-login.png)
+![screen capture of the login screen]({{site.url}}{{site.baseurl}}/images/assessments/edu-childcare-login.png)
 
-![screen capture of the attendance screen record]({{site.url}}/images/assessments/edu-childcare-attendance.png)
+![screen capture of the attendance screen record]({{site.url}}{{site.baseurl}}/images/assessments/edu-childcare-attendance.png)
 
 

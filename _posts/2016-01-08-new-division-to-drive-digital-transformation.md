@@ -12,7 +12,7 @@ searchexcerpt: Phil Thurbon is a First Assistant Secretary for the Department of
 ---
 *Guest Blog: Phil Thurbon is a First Assistant Secretary leading digital transformation for the Department of Immigration and Border Protection.*
 
-![ ]({{site.url}}/images/blog-banners/dibp-new-division-1.jpg)
+![ ]({{ site.url }}{{ site.baseurl }}/images/blog-banners/dibp-new-division-1.jpg)
 
 *Image: DIBP and DTO are working jointly on two digital transformation projects*
 
@@ -28,7 +28,7 @@ We’re excited about the opportunities that lie ahead working closely with the 
 
 And we’re making great progress. Our Citizenship Appointments Service project has just gone through an assessment of the Digital Service Standard is now in the Beta phase. This project is a first step towards delivering a new way for people to book and reschedule their own appointments at a time that is convenient to them without contacting the Department’s Service Centre.
 
-![ ]({{site.url}}/images/blog-banners/dibp-new-division-2.jpg)
+![ ]({{ site.url }}{{ site.baseurl }}/images/blog-banners/dibp-new-division-2.jpg)
 
 Our Simplifying Imports project has just completed the problem identification (Discovery) phase and is now in Alpha. A number of user experience workshops and in-depth interviews with industry stakeholders have helped to identify user concerns and issues when importing goods. We’ve learnt that presenting paper permits multiple times is a key frustration. We’re now working with industry partners to define and implement a new service for businesses while maintaining the requirements and information needed to clear goods. This process is expected to make industry dealings with the Department easier through reduced effort and in some instances, shorter timeframes for verifying import approvals.
 

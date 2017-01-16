@@ -8,13 +8,13 @@ category: blog
 tag: dto-news
 searchexcerpt: Delivery Managers play a key role at the DTO. Yiannis Godfrey reveals what the role of a Delivery Mangager is and what they do.
 ---
-You might have seen, we’ve been advertising for Delivery Managers. [In fact, we’re looking for one right now]({{site.url}}/careers/).
+You might have seen, we’ve been advertising for Delivery Managers. [In fact, we’re looking for one right now]({{ site.url }}{{ site.baseurl }}/careers/).
 
-Delivery Managers play a key role at the DTO particularly in driving our [Digital Transformation Projects]({{site.url}}/projects/). 
+Delivery Managers play a key role at the DTO particularly in driving our [Digital Transformation Projects]({{ site.url }}{{ site.baseurl }}/projects/). 
 
 If you’re new to digital transformation, you might not have come across this role before. 
 
-![]({{site.url}}/images/blog-content/yiannis-delivery-manager-2-800x600.jpg)
+![]({{ site.url }}{{ site.baseurl }}/images/blog-content/yiannis-delivery-manager-2-800x600.jpg)
 
 *Image: Yiannis Godfrey Delivery Manager of the Alpha project presenting to the Gov.au team.* 
 
@@ -40,6 +40,6 @@ People who are unhappy in their jobs are undoubtedly less productive. So it’s 
 
 As governments and other organisations adapt their processes and structures to meet the challenges of the digital age, we’re likely to see more and more roles like that of the Delivery Manager popping up.
 
-And if you think you’ve got what it takes to do the job, [check out our current vacancies]({{site.url}}/careers/) as well.
+And if you think you’ve got what it takes to do the job, [check out our current vacancies]({{ site.url }}{{ site.baseurl }}/careers/) as well.
 
-![Yiannis Godfrey Delivery Manager]({{site.url}}/images/blog-content/yiannis-delivery-manager-1-800x600.jpg)
+![Yiannis Godfrey Delivery Manager]({{ site.url }}{{ site.baseurl }}/images/blog-content/yiannis-delivery-manager-1-800x600.jpg)

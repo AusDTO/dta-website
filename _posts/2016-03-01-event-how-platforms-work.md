@@ -11,7 +11,7 @@ hero-image: /images/blog-content/casey-west-800x533.jpg
 thumbnail: /images/blog-thumbnails/casey-west-thumbnail.jpg
 ---
 
-![]({{site.url}}{{page.hero-image}})
+![]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 *Image: Technologist Casey West will explain what platforms are, why we need them and how to get the best out of them in a live demonstration at the DTO.*
 

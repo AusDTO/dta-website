@@ -127,15 +127,14 @@ Key Performance Indicators will be developed and made publicly available for ini
 ## Government Digital Transformation Roadmap
 
 <div class="roadmap">
-    <a href="/what-we-do/transformation-agenda/roadmap/#image">
-      <!-- <img src="/images/transformation-agenda/roadmap.png" alt="Open image of the Digital Transformation Roadmap Gantt chart in a new window"> -->
+    <a href="{{site.baseurl}}/what-we-do/transformation-agenda/roadmap/#image">
       <img id="roadmap-image" src="{% asset_path roadmap %}" alt="Open image of the Digital Transformation Roadmap Gantt chart in a new window">
     </a>
 </div>
 
-Having problems seeing this image? [Open larger roadmap image](/what-we-do/transformation-agenda/roadmap/#image).
+Having problems seeing this image? [Open larger roadmap image]({{site.baseurl}}/what-we-do/transformation-agenda/roadmap/#image).
 
-[Read the full text version of this roadmap](/what-we-do/transformation-agenda/roadmap-text/).
+[Read the full text version of this roadmap]({{site.baseurl}}/what-we-do/transformation-agenda/roadmap-text/).
 
 ## Related news
 
@@ -154,9 +153,9 @@ Having problems seeing this image? [Open larger roadmap image](/what-we-do/trans
   <li>
     <figure>
         {% if post.thumbnail %}
-        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ post.thumbnail }}" alt="Read post {{ post.title }}"></a>
+        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ site.baseurl }}{{ post.thumbnail }}" alt="Read post {{ post.title }}"></a>
         {% else %}
-        <a href="{{ post.url }}"><img class="blog-thumbnail" src="/images/post-thumbnail-placeholder.png" alt="Read post {{ post.title }}"></a>
+        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ site.baseurl }}/images/post-thumbnail-placeholder.png" alt="Read post {{ post.title }}"></a>
         {% endif %}
       </figure>
       <article>
@@ -166,9 +165,9 @@ Having problems seeing this image? [Open larger roadmap image](/what-we-do/trans
         <div class="meta">
           <time datetime="{{ post.date }}">{{ post.date | date: "%-d %b %Y" }}</time>
           {% if post.category contains "blog" %}
-          <a href="/blog/">Blog</a>
+          <a href="{{site.baseurl}}/blog/">Blog</a>
           {% else %}
-          <a href="/news/">News</a>
+          <a href="{{site.baseurl}}/news/">News</a>
           {% endif %}
         </div>
       </article>

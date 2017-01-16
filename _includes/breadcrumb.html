@@ -1,9 +1,9 @@
 {% if page.layout == 'post' %}
   {% capture lis%}
   {% if page.category contains 'blog' %}
-<li><a href="/blog/">Blog</a></li>
+<li><a href="{{site.baseurl}}/blog/">Blog</a></li>
   {% else %}
-<li><a href="/news/">News</a></li>
+<li><a href="{{site.baseurl}}/news/">News</a></li>
   {% endif %}
   {% endcapture %}
 {% endif %}

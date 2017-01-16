@@ -3,13 +3,13 @@ email: web.team@digital.gov.au
 description: > # this means to ignore newlines until "baseurl:"
   Driving the digital transformation of government information and services,
   making them simpler, clearer, faster.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # bin/cibuild.sh may override this
 url: "http://localhost:4000" # bin/cibuild.sh may override this
 permalink: "/:categories/:title/"
 timezone: Australia/Canberra
 twitter: DTA
 google_tag_manager: GTM-KR7JDF
-tag_dir: tags # for tags pages created by jekyll-archives
+tag_dir: /tags # for tags pages created by jekyll-archives
 
 # Because there is no way to instantiate an empty array, and we need to merge two filtered
 # collections together -- this is used on the News page layout.

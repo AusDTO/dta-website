@@ -39,11 +39,11 @@ criteria-13-result: On track
 * Instead of just researching and refining a single concept design, the team delivered multiple versions of several different prototypes, each that explored alternative ways of enabling their target users to complete tasks. Doing this enabled the team to identify and address areas of complexity, and to narrow down their focus to define their MVP.
  
 ## Examples of prototype
-![ ]({{site.url}}/images/assessments/act-health-report-welcome-resized.png)
+![ ]({{site.url}}{{site.baseurl}}/images/assessments/act-health-report-welcome-resized.png)
 
 *Caption: Welcome screen of the ACT Health prototype*
 
-![ ]({{site.url}}/images/assessments/act-health-report-health-checks-resized.png)
+![ ]({{site.url}}{{site.baseurl}}/images/assessments/act-health-report-health-checks-resized.png)
 
 *Caption: health check screenshot example*
 

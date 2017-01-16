@@ -11,7 +11,7 @@ thumbnail: /images/blog-thumbnails/gds-mou-thumbnail.jpg
 searchexcerpt: Since the earliest days of the DTO’s existence, we’ve been open about taking inspiration from government organisations that have tackled digital transformation before us.
 ---
 
-![]({{site.url}}{{page.hero-image}})
+![]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 *Image: DTO CEO Paul Shetler and the Chief Technology Officer HM Government in the UK  formalise the agreement between Australia and the UK.*
 

@@ -10,7 +10,7 @@ thumbnail: /images/blog-thumbnails/diversity-of-our-users-thumbnail.jpg
 searchexcerpt: Government needs to deliver digital services that  are responsive to the culture, language and beliefs of different communities. In this blog, accessibility and diversity lead Andrew Arch talks about why we need to consider diversity and inclusivity when designing government services. 
 ---
 
-![]({{site.url}}{{page.hero-image}})
+![]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 Australia is one of the most culturally diverse nations in the world. It is home to many different communities where English is not the primary language spoken at home. Statistics* show that around: 
 
@@ -40,7 +40,7 @@ We acknowledge there will be an ongoing need for face-to-face interactions with 
 
 There are lots of different images used to represent multilingual information, even though we have a [National Interpreter Symbol](https://www.dss.gov.au/national-interpreter-symbol) to represent language assistance. There was an endorsement by the peak bodies for the consistent use of this symbol and the DTO encourages its use by agencies. 
 
-<center><img src="/images/blog-content/national-interpreter-symbol.png" alt="National Interpreter Symbol" height="150" width="150"></center>
+<center><img src="{{ site.baseurl }}/images/blog-content/national-interpreter-symbol.png" alt="National Interpreter Symbol" height="150" width="150"></center>
 
 There is guidance on creating [inclusive services](https://www.dto.gov.au/standard/design-guides/inclusive-services/) on the DTO website. 
 

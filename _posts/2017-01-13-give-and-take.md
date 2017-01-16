@@ -9,7 +9,7 @@ thumbnail: /images/blog-thumbnails/koala-and-branch-thumb.jpg
 hero-image: /images/blog-content/koala-and-branch-content.jpg
 ---
 
-![Photo of a koala reaching for a branch of gum leaves]({{site.url}}{{page.hero-image}})
+![Photo of a koala reaching for a branch of gum leaves]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 *Want a branch? Tuck in mate – it's all open source.*
 
 Our [Digital Marketplace Beta](https://www.gov.au/marketplace) was released 5 months ahead of schedule, because we were able to reuse open source code from the Digital Marketplace UK.

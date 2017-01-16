@@ -11,7 +11,7 @@ hero-image: /images/blog-content/github-blog.jpg
 thumbnail: /images/blog-thumbnails/github-blog-thumbnail.jpg
 ---
 
-![]({{site.url}}{{page.hero-image}})
+![]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 *Image: GitHub helps you collaborate on code, data, or policy, within your organisation or with the public.*
 
