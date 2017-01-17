@@ -60,7 +60,7 @@ doc-nav:
   </thead>
   <tbody>
     <tr>
-      <td><a href="/who-we-are/corporate/annual-report/2015-16/cover-letter/">Letter of transmittal</a></td>
+      <td><a href="/who-we-are/corporate/annual-report/2015-16/cover-letter/#letter-of-transmittal">Letter of transmittal</a></td>
       <td>Yes</td>
     </tr>
     <tr>
@@ -160,19 +160,19 @@ doc-nav:
       <td />
     </tr>
     <tr>
-      <td><a href="/who-we-are/corporate/annual-report/2015-16/cover-letter/">Information on compliance with section 10 of the PGPA Act</a> (<a href="/who-we-are/corporate/annual-report/2015-16/3-organisational-performance/#fraud-prevention-and-control">fraud systems</a>)</td>
+      <td><a href="/who-we-are/corporate/annual-report/2015-16/cover-letter/#letter-of-transmittal">Information on compliance with section 10 of the PGPA Act</a> (<a href="/who-we-are/corporate/annual-report/2015-16/3-organisational-performance/#fraud-prevention-and-control">fraud systems</a>)</td>
       <td>Yes</td>
     </tr>
     <tr>
-      <td><a href="/who-we-are/corporate/annual-report/2015-16/cover-letter/">Certification by accountable authority that fraud risk assessments and fraud control plans have been prepared</a></td>
+      <td><a href="/who-we-are/corporate/annual-report/2015-16/cover-letter/#letter-of-transmittal">Certification by accountable authority that fraud risk assessments and fraud control plans have been prepared</a></td>
       <td>Yes</td>
     </tr>
     <tr>
-      <td><a href="/who-we-are/corporate/annual-report/2015-16/cover-letter/">Certification by accountable authority that appropriate mechanisms for preventing, detecting incidents of, investigating or otherwise dealing with, and recording or reporting fraud that meet the specific needs of the entity are in place</a></td>
+      <td><a href="/who-we-are/corporate/annual-report/2015-16/cover-letter/#letter-of-transmittal">Certification by accountable authority that appropriate mechanisms for preventing, detecting incidents of, investigating or otherwise dealing with, and recording or reporting fraud that meet the specific needs of the entity are in place</a></td>
       <td>Yes</td>
     </tr>
     <tr>
-      <td><a href="/who-we-are/corporate/annual-report/2015-16/cover-letter/">Certification by accountable authority that all reasonable measures have been taken to deal appropriately with fraud relating to the entity</a></td>
+      <td><a href="/who-we-are/corporate/annual-report/2015-16/cover-letter/#letter-of-transmittal">Certification by accountable authority that all reasonable measures have been taken to deal appropriately with fraud relating to the entity</a></td>
       <td>Yes</td>
     </tr>
     <tr>
@@ -180,7 +180,7 @@ doc-nav:
       <td>Yes</td>
     </tr>
     <tr>
-      <td><a href="/who-we-are/corporate/annual-report/2015-16/3-organisational-performance/#corporate-governance">A statement of significant issues reported to the minister under paragraph 19(1)(e) of the PGPA Act that relates to non-compliance with the finance law and action taken to remedy non-compliance</a></td>
+      <td><a href="/who-we-are/corporate/annual-report/2015-16/3-organisational-performance/#significant-issues-of-non-compliance">A statement of significant issues reported to the minister under paragraph 19(1)(e) of the PGPA Act that relates to non-compliance with the finance law and action taken to remedy non-compliance</a></td>
       <td>Yes</td>
     </tr>
     <tr>
@@ -208,7 +208,7 @@ doc-nav:
       <td>Yes</td>
     </tr>
     <tr>
-      <td>Statistics on staffing</td>
+    <td><em>Statistics on staffing</em></td>
       <td></td>
     </tr>
     <tr>
@@ -332,7 +332,7 @@ doc-nav:
       <td>Not applicable</td>
     </tr>
     <tr>
-      <td><a href="/who-we-are/corporate/annual-report/2015-16/3-organisational-performance/#management-of-human-resources">Outline of the mechanisms of disability reporting</a></td>
+      <td><a href="/who-we-are/corporate/annual-report/2015-16/3-organisational-performance/#disability">Outline of the mechanisms of disability reporting</a></td>
       <td>Yes</td>
     </tr>
     <tr>
