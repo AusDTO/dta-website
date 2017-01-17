@@ -30,7 +30,7 @@ I, as the accountable authority of the Digital Transformation Office (DTO), pres
 Paul Shetler<br>
 Chief Executive Officer
 
-### Purpose
+{% include hx.html lvl=3 text="Purpose" %}
 
 The DTO’s purpose is to facilitate the digital transformation of Australian Government services through innovative and collaborative development of service delivery policies and standards, platforms and joined-up services. 
 
