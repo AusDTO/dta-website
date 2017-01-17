@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+
+# Use the branch name to set jekyll config:
+# - DTA_SITE_URL - used in jekyll for site.url
+# - DTA_SITE_BASEURL - used in jekyll for site.baseurl
+export DTA_SITE_BASEURL=""
+case "$(git symbolic-ref --short -q HEAD)" in
+master)
+  export DTA_SITE_URL="https://www.dta.gov.au"
+  ;;
+develop)
+  export DTA_SITE_URL="https://dta.apps.staging.digital.gov.au"
+  ;;
+*)
+  if [ -e CIRCLECI ]; then
+    # The site will be configured to be statically hosted on circleci.
+    # TODO remove hardcoded parameters as much as possible - but where does 71211972 come from?
+    export DTA_SITE_URL="https://${CIRCLE_BUILD_NUM}-71211972-gh.circle-artifacts.com"
+    export DTA_SITE_BASEURL="/0${HOME}/${CIRCLE_PR_REPONAME}/_site"
+  else
+    # Assume the site is being built for local use
+    export DTA_SITE_URL="http://localhost:4000"
+    SITE_BASEURL_REL="$(dirname "$0")/../_site"
+    export DTA_SITE_BASEURL=`cd "${SITE_BASEURL_REL}"; pwd` # gives the absolute path
+  fi
+  ;;
+esac
+
+# use /tmp if TMPDIR is not defined
+if [ -z "$TMPDIR" ]; then
+    export TMPDIR="/tmp"
+fi

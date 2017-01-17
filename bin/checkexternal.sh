@@ -18,9 +18,10 @@ bundle exec jekyll build --destination ${SITE}
 
 # Run html proofer including external links
 bundle exec htmlproofer ${SITE}  \
-    --allow-hash-href \
-    --url-ignore "/mailto:.*/,/www.linkedin.com/*/" \
-    --file-ignore /.*feed/index\.html/ \
-    --empty-alt-ignore \
-    --http-status-ignore "301,302" \
-    --url-swap "http\://localhost\:4000:,https\://dta.apps.staging.digital.gov.au:,https\://www.dta.gov.au:"
+  --allow-hash-href \
+  --url-ignore "/mailto:.*/,/www.linkedin.com/*/" \
+  --file-ignore /.*feed/index\.html/ \
+  --empty-alt-ignore \
+  --http-status-ignore "301,302" \
+  --url-swap "https\://www.dta.gov.au:,${DTA_SITE_URL//:/\:}${DTA_SITE_BASEURL}:"
+
