@@ -38,4 +38,6 @@ Editing and indexing by WordsWorth Writing
 Design and layout by Giraffe Visual Communication Management
 Printing by New Millennium Print
 
+{% include hx.html lvl=2 text="Letter of transmittal" %}
+
 ![Scanned letter of transmittal]({% asset_path LOT_-_Word %})
