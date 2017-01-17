@@ -54,8 +54,8 @@ doc-nav:
   </colgroup>
   <thead>
     <tr>
-      <th width="75%"><p>Description</p></th>
-      <th width="25%"><p>Requirement met</p></th>
+      <th width="80%"><p>Description</p></th>
+      <th width="20%"><p>Requirement met</p></th>
     </tr>
   </thead>
   <tbody>
