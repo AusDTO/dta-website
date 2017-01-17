@@ -95,7 +95,7 @@ In 2015–16, the DTO contracted Synergy Group Australia to undertake two audits
 
 The DTO is developing a forward audit plan for 2016–17 that will provide assurance to the Executive Group across various functions and programs.
 
-### Significant issues of non-compliance
+{% include hx.html lvl=3 text="Significant issues of non-compliance" %}
 
 The DTO experienced no issues related to non-compliance with the finance law in 2015–16.
 
@@ -456,7 +456,7 @@ During 2015–16, employees participated in a range of in-house and external dev
 
 To better structure and support staff learning and development, the DTO is working towards an online learning system which will provide a range of required training in such areas as compliance, fraud, security, work health and safety, and equity and diversity, along with development opportunities in the areas of management, communication and IT.
 
-### Disability
+{% include hx.html lvl=3 text="Disability" %}
 
 DTO’s offices and facilities were selected with accessibility requirements and standards in mind. The Sydney and Canberra offices are readily accessible to staff and visitors. Where required, reasonable accommodations are provided to support the engagement of staff with disability.
 
