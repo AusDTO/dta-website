@@ -93,7 +93,7 @@ doc-nav:
     </tr>
     <tr>
       <td><a href="/who-we-are/corporate/annual-report/2015-16/1-introduction/#chief-executive-officers-review">Review by accountable authority</a></td>
-      <td></td>
+      <td>Yes</td>
     </tr>
     <tr>
       <td>Significant issues and developments—portfolio</td>
@@ -116,7 +116,7 @@ doc-nav:
       <td>Yes</td>
     </tr>
     <tr>
-      <td><a href="/who-we-are/corporate/annual-report/2015-16/2-program-performance/#annual-performance-statements">Purposes</a></td>
+      <td><a href="/who-we-are/corporate/annual-report/2015-16/2-program-performance/#purpose">Purposes</a></td>
       <td>Yes</td>
     </tr>
     <tr>
