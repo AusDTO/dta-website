@@ -88,7 +88,7 @@ doc-nav:
       <td>Yes</td>
     </tr>
     <tr>
-      <td><strong>Chief Executive Officer’s review</strong></td>
+    <td><strong><em>Chief Executive Officer’s review</em></strong></td>
       <td />
     </tr>
     <tr>
@@ -100,7 +100,7 @@ doc-nav:
       <td>Not applicable</td>
     </tr>
     <tr>
-      <td><strong>Overview</strong></td>
+    <td><strong><em>Overview</em></strong></td>
       <td />
     </tr>
     <tr>
@@ -128,7 +128,7 @@ doc-nav:
       <td>Yes</td>
     </tr>
     <tr>
-      <td><strong>Annual performance statements</strong></td>
+    <td><strong><em>Annual performance statements</em></strong></td>
       <td></td>
     </tr>
     <tr>
@@ -136,7 +136,7 @@ doc-nav:
       <td>Yes</td>
     </tr>
     <tr>
-      <td><strong>Report on financial performance</strong></td>
+    <td><strong><em>Report on financial performance</em></strong></td>
       <td />
     </tr>
     <tr>
@@ -152,7 +152,7 @@ doc-nav:
       <td>Yes</td>
     </tr>
     <tr>
-      <td><strong>Management and accountability</strong></td>
+    <td><strong><em>Management and accountability</em></strong></td>
       <td></td>
     </tr>
     <tr>
@@ -312,7 +312,7 @@ doc-nav:
       <td>Yes</td>
     </tr>
     <tr>
-      <td><strong>Financial statements</strong></td>
+    <td><strong><em>Financial statements</em></strong></td>
       <td></td>
     </tr>
     <tr>
@@ -320,7 +320,7 @@ doc-nav:
       <td>Yes</td>
     </tr>
     <tr>
-      <td><strong>Other mandatory information</strong></td>
+    <td><strong><em>Other mandatory information</em></strong></td>
       <td></td>
     </tr>
     <tr>
