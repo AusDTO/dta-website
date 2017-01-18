@@ -1,7 +1,7 @@
 <nav id="nav" class="local-nav" aria-label="main navigation">
   <ul>
     <li>
-      <a href="/">Home</a>
+      <a href="{{site.baseurl}}/">Home</a>
     </li>
 
     {% assign pages = site.pages | where: "layout", "page" %}
@@ -12,7 +12,7 @@
     {% endfor %}
 
     <li>
-      <a href="/styleguide.html">Styleguide</a>
+      <a href="{{site.baseurl}}/styleguide.html">Styleguide</a>
 
       <ul class="collections">
       {% for collection in site.collections %}
@@ -23,7 +23,7 @@
         {% endif %}
 
         <li>
-          <a href="/{{ label }}">{{ label | capitalize }}</a>
+          <a href="{{site.baseurl}}/{{ label }}">{{ label | capitalize }}</a>
         </li>
       {% endfor %}
       </ul>
@@ -32,7 +32,7 @@
       {% for section in site.data.data-sections %}
         {% unless section.referenceNumber contains '.' %}
         <li>
-          <a href="/sections/{{ section.header | slugify }}.html">{{ section.header }}</a>
+          <a href="{{site.baseurl}}/sections/{{ section.header | slugify }}.html">{{ section.header }}</a>
         </li>
         {% endunless %}
       {% endfor %}

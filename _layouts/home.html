@@ -23,9 +23,9 @@ layout: base
       <li>
         <figure>
           {% if post.thumbnail %}
-          <a href="{{ url }}"><img class="blog-thumbnail" src="{{ post.thumbnail }}" alt="Read post {{ post.title }}"></a>
+          <a href="{{ url }}"><img class="blog-thumbnail" src="{{site.baseurl}}{{ post.thumbnail }}" alt="Read post {{ post.title }}"></a>
           {% else %}
-          <a href="{{ url }}"><img class="blog-thumbnail" src="/images/post-thumbnail-placeholder.png" alt="Read post {{ post.title }}"></a>
+          <a href="{{ url }}"><img class="blog-thumbnail" src="{{site.baseurl}}/images/post-thumbnail-placeholder.png" alt="Read post {{ post.title }}"></a>
           {% endif %}
         </figure>
         <article>
@@ -35,9 +35,9 @@ layout: base
           <div class="meta">
             <time datetime="{{ post.date }}">{{ post.date | date: "%-d %b %Y" }}</time>
             {% if post.category contains "blog" %}
-            <a href="/blog/">Blog</a>
+            <a href="{{site.baseurl}}/blog/">Blog</a>
             {% else %}
-            <a href="/news/">News</a>
+            <a href="{{site.baseurl}}/news/">News</a>
             {% endif %}
             </span>
           </div>
@@ -75,7 +75,7 @@ layout: base
         {% for leader in site.leadership-group %}
         <li>
           <figure>
-            <img src="{{ leader.image }}" alt="Image of {{ leader.title }}">
+            <img src="{{site.baseurl}}{{leader.image}}" alt="Image of {{leader.title}}">
           </figure>
           <article>
             <h3>

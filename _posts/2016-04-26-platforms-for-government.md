@@ -11,7 +11,7 @@ thumbnail: /images/blog-thumbnails/whole-of-government-platforms-thumbnail.jpg
 searchexcerpt: Sharing a common platform allows government agencies to stand on the shoulders of others, inside government and elsewhere. CEO of the DTO Paul Shetler explains how platforms can benefit government and provides an update on what the DTO is building.
 ---
 
-![]({{site.url}}{{page.hero-image}})
+![]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 Government provides a huge number of services, helping millions of people to get things done. Often, the same functionality is repeated many times over across many different government services, at multiple levels of government. For example, booking appointments, making and receiving payments, or checking the status of an application. When common features emerge, they can be extracted out and opened up, along with the user interface, back office tools, infrastructure and data. This means that the rest of government can make use of the functionality as building blocks for other services. We call these building blocks ‘common platforms’.
 

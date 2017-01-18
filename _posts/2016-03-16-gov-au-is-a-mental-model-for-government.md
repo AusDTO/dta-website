@@ -22,7 +22,7 @@ Late last year we did research with people interacting with government at differ
 
 Most people don’t know all the parts of government and what they do. Many people think of government as one thing but government generally doesn’t present a single view to end-users. For a successful transaction, people have to know where to find the information they need - but typically that information is spread across several different websites. Users then need to compare and synthesise that information to make sense of what government wants them to do. People told us that: they never feel certain that they have all the information, the information is up-to-date, and they never know what they will find next.
 
-![Woman sitting at table checking mobile phone.]({{site.url}}{{page.hero-image}})
+![Woman sitting at table checking mobile phone.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 *Caption: Research participant trying to find government information during the Discovery (research) phase for GOV.AU Alpha*
 

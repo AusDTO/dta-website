@@ -11,7 +11,7 @@ thumbnail: /images/blog-thumbnails/sab-end-of-discovery-thumbnail.jpg
 searchexcerpt: The first stage of our service delivery and design process is Discovery, which is about finding out the real needs and problems faced by your users, and understanding the policy intent and technology constraints. In this post, Simon Fisher - Product Manager on the ‘Starting a Business’ transformation project - shares some of the team’s findings from their initial work.
 ---
 
-![]({{site.url}}{{page.hero-image}})
+![]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 *Image: The Starting a Business team sharing insights learned from the Discovery stage.*
 

@@ -7,7 +7,7 @@ hero-image: /images/blog-content/marketplace-laptop-hero.jpg
 thumbnail: /images/blog-thumbnails/marketplace-laptop-thumbnail.jpg
 ---
 
-![The Digital Marketplace shown on a laptop]({{site.url}}{{page.hero-image}})
+![The Digital Marketplace shown on a laptop]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 A Beta is a minimum viable product. A service that’s released with only the essential functionality that’s shaped by the needs of real users as it grows.
 
