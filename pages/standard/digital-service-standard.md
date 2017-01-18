@@ -92,6 +92,8 @@ Contact the Digital Service Standard team: <a href="mailto:standard@digital.gov.
 
 [Digital Service Standard kanban poster (PDF 195 KB)](/files/DTO_DSS_KANBAN_POSTER_WCAG_Aug30_A0.pdf)
 
+[Digital transformation culture posters (PDF 1.3 MB)]({{site.baseurl}}/files/dta-culture-posters.pdf)
+
 *The Digital Service Standard has been adapted from the [UK Government’s Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) under the [Open Government Licence v2.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/).*
 
-**Last updated:** 29 September 2016 
+**Last updated:** 18 January 2017
