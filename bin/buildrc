@@ -22,7 +22,7 @@ case "${GITBRANCH}" in
       # Configure jekyll to be statically hosted on circleci.
       # TODO remove hardcoded parameters as much as possible - but where does 71211972 come from?
       export DTA_SITE_URL="https://${CIRCLE_BUILD_NUM}-71211972-gh.circle-artifacts.com"
-      export DTA_SITE_BASEURL="/${CIRCLE_NODE_INDEX}${HOME}${CIRCLE_PROJECT_REPONAME}/_site"
+      export DTA_SITE_BASEURL="/${CIRCLE_NODE_INDEX}${HOME}/${CIRCLE_PROJECT_REPONAME}/_site"
     fi
     ;;
 esac
