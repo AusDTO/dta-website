@@ -16,9 +16,9 @@ permalink: /blog/
     <li>
       <figure>
         {% if post.thumbnail %}
-        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ post.thumbnail }}" alt="Read post {{ post.title }}"></a>
+        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ site.baseurl }}{{ post.thumbnail }}" alt="Read post {{ post.title }}"></a>
         {% else %}
-        <a href="{{ post.url }}"><img class="blog-thumbnail" src="/images/blog-thumbnail-placeholder.png" alt="Read post {{ post.title }}"></a>
+        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ site.baseurl }}/images/blog-thumbnail-placeholder.png" alt="Read post {{ post.title }}"></a>
         {% endif %}
       </figure>
       <article>
@@ -38,7 +38,7 @@ permalink: /blog/
             <dt>Tags:</dt>
             {% for tag in post.tags %}
             {% if tag != '' %}
-            <dd><a href="/{{site.tag_dir}}/{{tag | slugify }}/" >{{tag}}</a></dd>
+            <dd><a href="{{site.baseurl}}{{site.tag_dir}}/{{tag | slugify }}/" >{{tag}}</a></dd>
             {% endif %}
             {% endfor %}
           </dl>
@@ -49,7 +49,7 @@ permalink: /blog/
     {% endfor %}
   </ul>
 
-  <a class="see-more" href="/blog/all-posts/">See all blog posts</a>
+  <a class="see-more" href="{{site.baseurl}}/blog/all-posts/">See all blog posts</a>
 
   <h2>Tags</h2>
 
@@ -81,6 +81,6 @@ permalink: /blog/
 
   <div class="moderation-policy">
     <h2>Join the conversation</h2>
-    <a href="/blog/blog-moderation-guidelines/">Read our comment moderation guidelines</a>
+    <a href="{{site.baseurl}}/blog/blog-moderation-guidelines/">Read our comment moderation guidelines</a>
   </div>
 </aside>

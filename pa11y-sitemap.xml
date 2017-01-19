@@ -9,7 +9,7 @@ layout: null
     {% for post in site.posts %}{% unless post.sitemap == false %}
 
     <url>
-        <loc>{{ post.url | prepend: site.url }}</loc>
+        <loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
         {% if post.last_modified_at %}
         <lastmod>{{ post.last_modified_at | date_to_xmlschema }}</lastmod>
         {% else %}

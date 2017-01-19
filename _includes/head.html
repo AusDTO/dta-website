@@ -4,7 +4,7 @@
   {% unless page.layout == 'fullscreen' %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% endunless %}
-  <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/images/icons/favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/images/icons/favicon.ico">
   <meta name="creator" content="Digital Transformation Agency">
   <meta name="type" content="Text">
   <meta name="modified" content="{{ page.date | date: "%b %-d, %Y" }}">
@@ -23,14 +23,14 @@
   <meta name="twitter:title" content="{{ site.title | xml_escape }}" />
 {% endif %}
 
-{% assign url= page.url | prepend: site.url %}
+{% assign url= page.url | prepend: site.baseurl | prepend: site.url %}
   <link rel="canonical" href="{{ url }}">
   <meta property="og:url" content="{{ url }}" />
 
 {% if page.hero-image %}
-  {% assign social-image-url = page.hero-image | prepend: site.url %}
+  {% assign social-image-url = page.hero-image | prepend: site.baseurl | prepend: site.url %}
 {% else %}
-  {% assign social-image-url = '/image/dta-unfurl.png' | prepend: site.url %}
+  {% assign social-image-url = '/image/dta-unfurl.png' | prepend: site.baseurl | prepend: site.url %}
 {% endif %}
   <meta property="og:image" content="{{ social-image-url }}" />
   <meta name="twitter:image" content="{{ social-image-url }}" />

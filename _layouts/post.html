@@ -19,7 +19,7 @@ breadcrumb_type: post
           <dt>Tags:</dt>
           {% for tag in page.tags %}
           {% if tag != '' %}
-          <dd><a href="{{ site.baseurl }}/{{site.tag_dir}}/{{tag | slugify }}/" >{{tag}}</a></dd>
+          <dd><a href="{{ site.baseurl }}{{site.tag_dir}}/{{tag | slugify }}/" >{{tag}}</a></dd>
           {% endif %}
           {% endfor %}
         </dl>
@@ -51,7 +51,7 @@ breadcrumb_type: post
   {% if blog %}
   <section class="post-moderation-policy">
     <h2>Want to join the conversation?</h2>
-    <a href="/blog/blog-moderation-guidelines/">Read our comment moderation guidelines</a>
+    <a href="{{site.baseurl}}/blog/blog-moderation-guidelines/">Read our comment moderation guidelines</a>
   </section>
   <section id="disqus_thread">
     {% javascript disqus-init %}

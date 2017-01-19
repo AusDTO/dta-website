@@ -10,7 +10,7 @@ thumbnail: /images/blog-thumbnails/digital-identity-thumbnail.png
 hero-image: /images/blog-content/identity-blog-image.jpg
 searchexcerpt: Digital Identity is having the ability for the government to trust that you are who you say you are. Rachel Dixon explains what the DTO is doing to develop a Trusted Digital Identity Framework.
 ---
-![]({{site.url}}{{page.hero-image}})
+![]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 Around the world, governments, businesses and individuals are increasingly moving toward providing products and services online. For some transactions (though not all), it is necessary to know the identity of the person involved. This is particularly true where money is changing hands or sensitive data is involved.  
 

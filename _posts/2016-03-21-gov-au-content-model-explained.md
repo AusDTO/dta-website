@@ -10,19 +10,19 @@ hero-image: "/images/blog-content/continuum-graphic.jpg"
 thumbnail: /images/blog-thumbnails/continuum-graphic-thumbnail.jpg
 searchexcerpt: The purpose of GOV.AU is to bring together content from hundreds of government websites into 1 place, designed around the needs of our users. That’s a big job because we have a lot of users with a huge number of diverse needs. DTO’s Head of Service Design, Leisa Reichelt, shares our current thinking around trying to meet this enormous challenge.
 ---
-This post is the third in a series where we share what we learned about user-needs in GOV.AU’s [Discovery stage]({{site.url}}/standard/service-design-and-delivery-process/discovery/) and what we prototyped in response in the  [Alpha stage]({{site.url}}/blog/gov-au-passes-alpha-assessment/). You can read Leisa’s other posts on this topic: 
+This post is the third in a series where we share what we learned about user-needs in GOV.AU’s [Discovery stage]({{ site.url }}{{ site.baseurl }}/standard/service-design-and-delivery-process/discovery/) and what we prototyped in response in the  [Alpha stage]({{ site.url }}{{ site.baseurl }}/blog/gov-au-passes-alpha-assessment/). You can read Leisa’s other posts on this topic: 
 
-[GOV.AU is a ‘mental model’ of government]({{site.url}}/blog/gov-au-is-a-mental-model-for-government/)
+[GOV.AU is a ‘mental model’ of government]({{ site.url }}{{ site.baseurl }}/blog/gov-au-is-a-mental-model-for-government/)
 
-[GOV.AU is not a technology project]({{site.url}}/blog/gov-au-is-not-a-technology-project/)
+[GOV.AU is not a technology project]({{ site.url }}{{ site.baseurl }}/blog/gov-au-is-not-a-technology-project/)
 
-In the [Discovery]({{site.url}}/standard/service-design-and-delivery-process/discovery/) and [Alpha]({{site.url}}/blog/gov-au-passes-alpha-assessment/) stages of the GOV.AU prototype we spent quite a lot of time trying to model how we would organise the content in GOV.AU so that it would be able to meet incredibly diverse user-needs and situations effectively. Here are our current views on a content model for government.
+In the [Discovery]({{ site.url }}{{ site.baseurl }}/standard/service-design-and-delivery-process/discovery/) and [Alpha]({{ site.url }}{{ site.baseurl }}/blog/gov-au-passes-alpha-assessment/) stages of the GOV.AU prototype we spent quite a lot of time trying to model how we would organise the content in GOV.AU so that it would be able to meet incredibly diverse user-needs and situations effectively. Here are our current views on a content model for government.
 
 ## Google is our homepage
 
 This is so obvious these days it hardly needs stating - and yet it does. Research shows that when people are looking to learn about, or access government services, over 90% of us will start with Google (or another search engine).
 
-This means we should spend a lot more time concerned with how our content and design decisions [show up in search results]({{site.url}}/blog/your-homepage-is-not-your-front-door/) than we should spend finessing our homepage. The homepage of GOV.AU becomes one of the least important of all.
+This means we should spend a lot more time concerned with how our content and design decisions [show up in search results]({{ site.url }}{{ site.baseurl }}/blog/your-homepage-is-not-your-front-door/) than we should spend finessing our homepage. The homepage of GOV.AU becomes one of the least important of all.
 
 ## There are 4 main user entry-points
 
@@ -33,7 +33,7 @@ Our research and analysis shows that there are 4 main ‘landing points’ requi
 3. Transition entry points
 4. Deep-linked content (URLs)
 
-![Diagram showing proposed content model for GOV.AU.]({{site.url}}{{page.hero-image}})
+![Diagram showing proposed content model for GOV.AU.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 *Caption: Diagram showing the proposed GOV.AU content model*
 
@@ -63,7 +63,7 @@ Often people have to deal with several parts of government at the same time to g
 
 Of course, the idea of organising content around life events is not new. We’ve seen evidence of governments talking about doing this for several decades, and we can see this executed at an agency-level in existing department websites today. This image, demonstrates a similar thinking by the UK government in 1998.
 
-![Diagram showing proposed UK content model from 1998.]({{site.url}}/images/blog-content/1998-government-content.jpg)
+![Diagram showing proposed UK content model from 1998.]({{ site.url }}{{ site.baseurl }}/images/blog-content/1998-government-content.jpg)
 
 *Caption: 1998 government content model based around life events from UK Parliament’s [Parliamentary Office of Science and Technology](http://www.parliament.uk/post) (POST)*
 

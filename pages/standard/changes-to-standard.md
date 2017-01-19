@@ -47,11 +47,11 @@ Text removed from the standard has been <del>struck out</del>. Text added is mar
     <li>
       <div class="col-md-6 col-sm-12">
         <h3 class="">Previous version <span class="offscreen">of Criterion 3</span></h3>
-        <p>Design and build the <del>product</del> using the <a href="/standard/service-design-and-delivery-process/">service design and delivery process</a>, taking an agile and user-centred approach.</p>
+        <p>Design and build the <del>product</del> using the <a href="{{site.baseurl}}/standard/service-design-and-delivery-process/">service design and delivery process</a>, taking an agile and user-centred approach.</p>
       </div>                
       <div class="col-md-6 col-sm-12 border-left">
         <h3 class=""><span class="offscreen">Live version of criterion 3: </span>Updated</h3>
-        <p>Design and build the <ins>service</ins> using the <a href="/standard/service-design-and-delivery-process/">service design and delivery process</a>, taking an agile and user-centred approach.</p>
+        <p>Design and build the <ins>service</ins> using the <a href="{{site.baseurl}}/standard/service-design-and-delivery-process/">service design and delivery process</a>, taking an agile and user-centred approach.</p>
       </div>
     </li>
     

@@ -13,7 +13,7 @@ DTO Content Designer Michael Hugill explains how GOV.AU weren’t just there to 
 
 ## Why is the DTO working with the Dept of Comms & Arts?
 
-![]({{site.url}}{{page.hero-image}})
+![]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 *Caption: Dept of Comms & Arts staff engaging in an activity to discuss and record pain-points for users and staff, as well as ideas to fix them.*
 
@@ -29,7 +29,7 @@ We even have one of their staff members, Nicholas Keilar, Director of Digital Se
 
 ## Uncovering Discovery
 
-![ ]({{site.url}}/images/blog-content/show-n-tell2-content.jpg)
+![ ]({{ site.url }}{{ site.baseurl }}/images/blog-content/show-n-tell2-content.jpg)
 
 *Caption: Writing a note about user pain points.*
 
@@ -49,7 +49,7 @@ We soon learned that some of these findings validated what was already suspected
 
 ## Staff are users too
 
-![ ]({{site.url}}/images/blog-content/show-n-tell3-content.jpg)
+![ ]({{ site.url }}{{ site.baseurl }}/images/blog-content/show-n-tell3-content.jpg)
 
 *Caption: DTO and Dept of Comms & Arts staff working together to complete an activity.* 
 
@@ -65,7 +65,7 @@ The activity gave us greater insights into who we’re designing for (internal a
 
 ## Workshop ‘we’-flections
 
-![ ]({{site.url}}/images/blog-content/show-n-tell4-content.jpg)
+![ ]({{ site.url }}{{ site.baseurl }}/images/blog-content/show-n-tell4-content.jpg)
 
 *Caption: Aside from being an effective way for Dept of Comms & Arts staff to contribute to the process, the workshop activity was also fun.*
 

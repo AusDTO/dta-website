@@ -7,16 +7,16 @@ localnav: who-we-are
 
 <ul class="list-small">
   <li>
-      <a href="/who-we-are/corporate/annual-report/">Annual report</a>
+      <a href="{{site.baseurl}}/who-we-are/corporate/annual-report/">Annual report</a>
     </li>
   <li>
-    <a href="/who-we-are/corporate/freedom-of-information/">Freedom of information</a>
+    <a href="{{site.baseurl}}/who-we-are/corporate/freedom-of-information/">Freedom of information</a>
   </li>
   <li>
-    <a href="/who-we-are/corporate/jobs/">Jobs</a>
+    <a href="{{site.baseurl}}/who-we-are/corporate/jobs/">Jobs</a>
   </li>
   <li>
-    <a href="/who-we-are/corporate/contracts/">List of contracts</a>
+    <a href="{{site.baseurl}}/who-we-are/corporate/contracts/">List of contracts</a>
   </li>
 </ul>
 

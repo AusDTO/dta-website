@@ -9,7 +9,7 @@ thumbnail: /images/blog-thumbnails/dto-is-one-thumbnail.png
 searchexcerpt:  Earlier this month DTO celebrated its first birthday, and what a journey it has been! Our CEO Paul Shetler looks back and takes us through the highlights and milestones of our first year.  
 ---
 
-![Digital Tranformation Office turns one year old]({{site.url}}{{page.hero-image}})
+![Digital Tranformation Office turns one year old]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 [When I joined the DTO a year ago](https://www.dto.gov.au/blog/introducing-our-new-ceo-fresh-from-the-uks-government-digital-service-gds/), it became clear very quickly that the expectations on this agency were really, really high. As a brand new organisation, we had a lot to do to get up and running.
 
