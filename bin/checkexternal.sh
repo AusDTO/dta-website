@@ -10,6 +10,9 @@ set -e
 # cause a pipeline (for example, curl -s http://sipb.mit.edu/ | grep foo) to produce a failure return code if any command errors not just the last command of the pipeline.
 set -o pipefail
 
+# Include build env vars
+source "$(dirname "$0")/buildrc"
+
 #Use a temp _site directory
 readonly SITE="${TMPDIR}/_checkexternal_site"
 
@@ -23,5 +26,5 @@ bundle exec htmlproofer ${SITE}  \
   --file-ignore /.*feed/index\.html/ \
   --empty-alt-ignore \
   --http-status-ignore "301,302" \
-  --url-swap "https\://www.dta.gov.au:,${DTA_SITE_URL//:/\:}${DTA_SITE_BASEURL}:"
+  --url-swap "https\://www.dta.gov.au:,http\://localhost\:4000:"
 
