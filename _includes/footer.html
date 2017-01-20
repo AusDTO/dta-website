@@ -1,43 +1,45 @@
 <footer role="contentinfo">
   <div class="wrapper">
-
     <section class="footer-top">
       <nav>
-        <ul>
-          <li><h2>Resources</h2></li>
-          <li><a href="{{site.baseurl}}/what-we-do/">What we do</a></li>
-          <li><a href="{{site.baseurl}}/standard/">Digital Service Standard</a></li>
-          <li><a href="{{site.baseurl}}/standard/design-guides/">Design guides</a></li>
-          <li><a href="{{site.baseurl}}/blog/">Blog</a></li>
-          <li><a href="{{site.baseurl}}/news/">News</a></li>
-          <li><a href="https://github.com/AusDTO" class="github">github.com/AusDTO</a></li>
-        </ul>
-        <ul>
-          <li><h2>About</h2></li>
-          <li><a href="{{site.baseurl}}/who-we-are/">Who we are</a></li>
-          <li><a href="{{site.baseurl}}/contact/">Contact us</a></li>
-          <li><a href="{{site.baseurl}}/who-we-are/corporate/jobs/">Jobs</a></li>
-          <li><a href="{{site.baseurl}}/budget/">Budget initiatives</a></li>
-          <li><a href="{{site.baseurl}}/freedom-of-information/">Freedom of Information</a></li>
-          <li><a href="{{site.baseurl}}/who-we-are/corporate/contracts/">List of contracts</a></li>
-          <li><a href="{{site.baseurl}}/who-we-are/corporate/annual-report/">Annual Report</a></li>
-        </ul>
-        <ul>
-          <li><h2>Using dta.gov.au</h2></li>
-          <li><a href="{{site.baseurl}}/search/">Search</a></li>
-          <li><a href="{{site.baseurl}}/accessibility">Accessibility</a></li>
-          <li><a href="{{site.baseurl}}/copyright">Copyright</a></li>
-          <li><a href="{{site.baseurl}}/privacy-statement/">Privacy</a></li>
-          <li><a href="{{site.baseurl}}/disclaimer/">Disclaimer</a></li>
-        </ul>
-        <ul>
-          <li>
-            {% include signup.html %}
-          </li>
-        </ul>
+        <div class="footer-menu">
+          <h2>Resources</h2>
+          <ul>
+            <li><a href="{{site.baseurl}}/what-we-do/">What we do</a></li>
+            <li><a href="{{site.baseurl}}/standard/">Digital Service Standard</a></li>
+            <li><a href="{{site.baseurl}}/standard/design-guides/">Design guides</a></li>
+            <li><a href="{{site.baseurl}}/blog/">Blog</a></li>
+            <li><a href="{{site.baseurl}}/news/">News</a></li>
+            <li><a href="https://github.com/AusDTO" class="github">github.com/AusDTO</a></li>
+          </ul>
+        </div>
+        <div class="footer-menu">
+          <h2>About</h2>
+          <ul>
+            <li><a href="{{site.baseurl}}/who-we-are/">Who we are</a></li>
+            <li><a href="{{site.baseurl}}/contact/">Contact us</a></li>
+            <li><a href="{{site.baseurl}}/who-we-are/corporate/jobs/">Jobs</a></li>
+            <li><a href="{{site.baseurl}}/budget/">Budget initiatives</a></li>
+            <li><a href="{{site.baseurl}}/freedom-of-information/">Freedom of Information</a></li>
+            <li><a href="{{site.baseurl}}/who-we-are/corporate/contracts/">List of contracts</a></li>
+            <li><a href="{{site.baseurl}}/who-we-are/corporate/annual-report/">Annual Report</a></li>
+          </ul>
+        </div>
+        <div class="footer-menu">
+          <h2>Using dta.gov.au</h2>
+          <ul>
+            <li><a href="{{site.baseurl}}/search/">Search</a></li>
+            <li><a href="{{site.baseurl}}/accessibility">Accessibility</a></li>
+            <li><a href="{{site.baseurl}}/copyright">Copyright</a></li>
+            <li><a href="{{site.baseurl}}/privacy-statement/">Privacy</a></li>
+            <li><a href="{{site.baseurl}}/disclaimer/">Disclaimer</a></li>
+          </ul>
+        </div>
+        <div class="footer-menu">
+          {% include signup.html %}
+        </div>
       </nav>
     </section>
-
     <section>
       <div class="footer-logo">
         <img alt="Australian Government Coat of Arms" src="{{ site.baseurl }}/images/coat-of-arms.png">
@@ -48,10 +50,8 @@
             <li><a href="#">Back to top &uarr;</a></li>
           </ul>
         </nav>
-
         <p>&copy; Commonwealth of Australia</p>
       </div>
     </section>
-
   </div>
 </footer>
