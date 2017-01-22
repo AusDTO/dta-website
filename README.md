@@ -72,6 +72,27 @@ When ready for a production deploy, merge the `develop` branch to `master`. You 
 * `git merge --no-ff develop`
 * `git push origin master`
 
+## Working with embargoed content
+
+The [dta-website repository is public](https://www.dta.gov.au/standard/8-make-source-code-open/). All content including drafts is publicly accessible. 
+
+If you need to draft content which is embargoed, you need to use the [private repository](https://github.com/AusDTO/dta-website-private).
+  
+You should keep the content on a new branch, i.e. do NOT merge to `develop` or `master`.
+
+When the content is ready to be published and approved for release, the content needs to first be merged into a branch in the [public repository](https://github.com/AusDTO/dta-website).
+ 
+This must be done on the command line. 
+ 
+* `git clone git@github.com:AusDTO/dta-website.git`
+* `cd dta-website`
+* `git remote add private git@github.com:AusDTO/dta-website-private.git`
+* `git fetch private`
+* `git checkout -b private/branchname`
+* `git push origin`
+
+The branch can now be worked on in the [public repository](https://github.com/AusDTO/dta-website) and merged via a PR to `develop` as normal.
+
 ## cloud.gov.au details
 
 ### staging
