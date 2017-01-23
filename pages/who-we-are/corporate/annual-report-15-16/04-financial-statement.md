@@ -1058,7 +1058,7 @@ and reductions) are recognised as Revenue from Government when DTO gains control
 
 This section analyses the financial performance of the Digital Transformation Office for the year ended 2016.
 
-{% include hx.html lvl=4 text="1.1 Expenses" hide-back-to-top=1 %}
+{% include hx.html lvl=4 text="1.1 Expenses" %}
 
 <table class="content-table" summary="1.1 Expenses">
   <colgroup>
@@ -1262,7 +1262,7 @@ Operating lease payments are expensed on a straight-line basis which is represen
 A distinction is made between finance leases and operating leases. Finance leases effectively transfer from the lessor to the lessee substantially all the risks and rewards incidental to ownership of leased assets. An operating lease is a lease that is not a finance lease. In operating leases, the lessor effectively retains substantially all such risks and benefits.
   </div>
  </div>
-#### 1.2 Own-Source Revenue and Gains
+{% include hx.html lvl=4 text="1.2 Own-Source Revenue and Gains" %}
 
 <table class="content-table" summary="Note 1.2A: Resources received free of charge">
   <colgroup>
@@ -2414,7 +2414,7 @@ The DTO is not aware of any material departmental quantifiable or unquantifiable
 ##### Accounting Policy
 Contingent liabilities and contingent assets are not recognised in the Statement of Financial Position but are reported in the relevant schedules and notes. They may arise from uncertainty as to the existence of a liability or asset, or represent an asset or liability in respect of which the amount cannot be reliably measured. Contingent assets are disclosed when settlement is probable but not virtually certain and contingent liabilities are disclosed when settlement is greater than remote.
 
-#### 5.2 Financial Instruments
+{% include hx.html lvl=4 text="5.2 Financial Instruments" %}
 
 <table class="content-table" summary="Note 5.2A: Categories of financial instruments">
   <colgroup>
@@ -2503,7 +2503,7 @@ The DTO’s financial liabilities are suppliers payable. The exposure to liquidi
 
 The DTO holds basic financial instruments that do not expose the DTO to interest risk, currency risk or other price risk.
 
-#### 5.3 Fair Value Measurement
+{% include hx.html lvl=4 text="5.3 Fair Value Measurement" %}
 
 The following tables provide an analysis of assets that are measured at fair value. The remaining assets and liabilities disclosed in the statement of financial position do not apply the fair value hierarchy.
 
@@ -2580,7 +2580,7 @@ Fair value measurements at the end of the reporting period
 
 **Note 6.1A: Departmental restructuring**
 
-##### Restructuring
+{% include hx.html lvl=4 text="Restructuring" %}
 
 Net assets received from or relinquished to another Australian Government entity under a restructuring of administrative arrangements are adjusted at their book value directly against contributed equity.
 
@@ -2679,6 +2679,6 @@ As part of the Administrative Arrangement Orders issued by the Government on 21 
   </tbody>
 </table>
 
-#### 6.2. Reporting of Outcomes
+{% include hx.html lvl=4 text="6.2. Reporting of Outcomes" %}
 
 As the Digital Transformation Office has one Outcome, the Reporting of Outcomes is disclosed in the Statement of Comprehensive Income and Statement of Financial Position.
