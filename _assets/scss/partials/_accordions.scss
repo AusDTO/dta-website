@@ -1,0 +1,19 @@
+details {
+  width: 40em;
+  summary {
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-weight: $bold-font-weight;
+      font-size: rem(20);
+      margin: 0;
+      padding: 0;
+    }
+  }
+  details {
+    margin: $base-spacing 0 $large-spacing;
+    background: $non-white;
+  }
+}
