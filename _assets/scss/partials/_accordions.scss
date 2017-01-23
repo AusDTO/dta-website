@@ -1,6 +1,8 @@
 details {
   width: 40em;
-  summary {
+  margin: $base-spacing 0 $large-spacing;
+  background: $non-white;
+  summary[aria-controls] {
     h2,
     h3,
     h4,
@@ -11,9 +13,5 @@ details {
       margin: 0;
       padding: 0;
     }
-  }
-  details {
-    margin: $base-spacing 0 $large-spacing;
-    background: $non-white;
   }
 }
