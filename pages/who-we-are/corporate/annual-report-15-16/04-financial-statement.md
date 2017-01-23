@@ -36,7 +36,7 @@ doc-nav:
   <summary><h3>Read transcript for the independent auditor's report</h3></summary>
   <div class="accordion-panel" markdown="1">
 
-#### INDEPENDENT AUDITOR’S REPORT
+**INDEPENDENT AUDITOR’S REPORT**
 
 **To the Prime Minister**
 
