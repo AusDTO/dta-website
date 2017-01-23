@@ -1301,7 +1301,7 @@ Resources received free of charge are recognised as revenue when, and only when,
 
 This section analyses the Digital Transformation Office’s assets used to generate financial performance and the operating liabilities incurred as a result. Employee related information is disclosed in the People and Relationships section.
 
-#### 2.1 Financial Assets
+{% include hx.html lvl=4 text="2.1 Financial Assets" %}
 
 <table class="content-table" summary="&quot;&quot;">
   <colgroup>
@@ -1927,7 +1927,7 @@ Provision for the restoration of leased premises (makegood) is based on future o
 
 This section identifies the Digital Transformation Office funding structure.
 
-#### 3.1 Appropriations
+{% include hx.html lvl=4 text="3.1 Appropriations" %}
 
 <table class="content-table" summary="Note 3.1A: Annual appropriations (‘recoverable GST exclusive’)">
   <colgroup>
@@ -2243,7 +2243,7 @@ During 2015–16, the Shared Services Centre provided the DTO with Treasury serv
 
 This section describes a range of employment and post employment benefits provided to our people and our relationships with other key people.
 
-#### 4.1 Employee Provisions
+{% include hx.html lvl=4 text="4.1 Employee Provisions" %}
 
 <table class="content-table" summary="&quot;&quot;">
   <colgroup>
@@ -2405,7 +2405,7 @@ During the year, the total number of senior management personnel that were utili
 
 This section analyses how the Digital Transformation Office manages financial risks within its operating environment.
 
-#### 5.1 Contingent Assets and Liabilities
+{% include hx.html lvl=4 text="5.1 Contingent Assets and Liabilities" %}
 
 **Note 5.1A: Contingent assets and liabilities**
 
@@ -2576,7 +2576,7 @@ Fair value measurements at the end of the reporting period
  </div>
 {% include hx.html lvl=3 text="6. Other Information" %}
 
-#### 6.1 Restructuring
+{% include hx.html lvl=4 text="6.1 Restructuring" %}
 
 **Note 6.1A: Departmental restructuring**
 
