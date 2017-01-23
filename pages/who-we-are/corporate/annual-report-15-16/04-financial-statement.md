@@ -54,10 +54,10 @@ I have audited the accompanying annual financial statements of the Digital Trans
 
 In my opinion, the financial statements of the Digital Transformation Office:
 
-<ol type="a">
-  <li>comply   with   Australian   Accounting   Standards   and   the   <em>Public Governance, Performance and Accountability (Financial Reporting) Rule 2015</em>; and
-  <li>present fairly the financial position of the Digital Transformation Office as at 30 June 2016 and its financial performance and cash flows for the year then ended.</li>
-</ol> 
+  <ol type="a">
+   <li>comply   with   Australian   Accounting   Standards   and   the   <em>Public Governance, Performance and Accountability (Financial Reporting) Rule 2015</em>; and
+   <li>present fairly the financial position of the Digital Transformation Office as at 30 June 2016 and its financial performance and cash flows for the year then ended.</li>
+  </ol> 
   
 <em>**Accountable Authority’s Responsibility for the Financial Statements**</em>
   
@@ -81,9 +81,9 @@ Australian National Audit Office
   John Jones<br>
   Executive Director
    
-Delegate of the Auditor-General<br>
-Canberra<br>
-16 September 2016
+ Delegate of the Auditor-General<br>
+ Canberra<br>
+ 16 September 2016
 
   </div>
 </details>
