@@ -46,8 +46,8 @@ Printing by New Millennium Print
   <summary><h3>Read transcript for the letter of transmittal</h3></summary>
   <div class="accordion-panel" markdown="1">
 
-The Hon Angus Taylor MP
-Assistant Minister for Cities and Digital Transformation Parliament House
+The Hon Angus Taylor MP<br>
+Assistant Minister for Cities and Digital Transformation Parliament House<br>
 CANBERRA  ACT  2600
 
 
@@ -60,8 +60,10 @@ I am satisfied that the DTO, in accordance with section 10 of the PGPA Rule, has
 
 Yours sincerely.
 
-Paul Shetler
-Chief Executive Officer 21  October 2016
+Paul Shetler<br>
+Chief Executive Officer
+
+21  October 2016
 
 </div>
 
