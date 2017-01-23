@@ -30,10 +30,51 @@ doc-nav:
 
 ![Image of Auditor's Report Page 1]({% asset_path DTO_Audit_Opinion %})
 
-Digital Transformation Office
-Independent auditor’s report
-
 ![Image of Auditor's Report Page 2]({% asset_path DTO_Audit_Opinion1 %})
+
+<details open data-label="content-accordion-1-example" aria-expanded="false">
+  <summary><h3>Read transcript for the independent auditor's report</h3></summary>
+  <div class="accordion-panel" markdown="1">
+
+INDEPENDENT AUDITOR’S REPORT
+
+To the Prime Minister
+
+I have audited the accompanying annual financial statements of the Digital Transformation Office for the year ended 30 June 2016, which comprise:
+Statement by the Chief Executive Officer and Chief Financial Officer;
+Statement of Comprehensive Income;
+Statement of Financial Position;
+Statement of Changes in Equity;
+Cash Flow Statement; and
+Notes comprising significant accounting policies and other explanatory information.
+Opinion
+In my opinion, the financial statements of the Digital Transformation Office:
+comply   with   Australian   Accounting   Standards   and   the   Public Governance,
+Performance and Accountability (Financial Reporting) Rule 2015; and
+present fairly the financial position of the Digital Transformation Office as at 30 June 2016 and its financial performance and cash flows for the year then ended.
+Accountable Authority’s Responsibility for the Financial Statements
+The Chief Executive Officer of the Digital Transformation Office is responsible under the Public Governance, Performance and Accountability Act 2013 for the preparation and fair presentation of annual financial statements that comply with Australian Accounting Standards and the rules made under that Act and is also responsible for such internal control as the Chief Executive Officer determines is necessary to enable the preparation and fair presentation of financial statements that are free from material misstatement, whether due to fraud or error.
+Auditor’s Responsibility
+My responsibility is to express an opinion on the financial statements based on my audit. I have conducted my audit in accordance with the Australian National Audit Office Auditing Standards, which incorporate the Australian Auditing Standards. These auditing standards require that I comply with relevant ethical requirements relating to audit engagements and plan and perform the audit to obtain reasonable assurance about whether the financial statements are free from material misstatement.
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the financial statements. The procedures selected depend on the auditor’s judgement, including the assessment of the risks of material misstatement of the financial statements, whether due to fraud or error. In making those risk assessments, the auditor considers internal control relevant to the entity’s preparation and fair presentation of the financial statements in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the
+
+GPO Box 707 CANBERRA  ACT 2601
+19 National Circuit BARTON ACT
+Phone (02) 6203 7300   Fax (02) 6203 7777
+entity’s internal control. An audit also includes evaluating the appropriateness of the accounting policies used and the reasonableness of accounting estimates made by the Accountable Authority, as well as evaluating the overall presentation of the financial statements.
+I believe that the audit evidence I have obtained is sufficient and appropriate to provide a basis for my audit opinion.
+Independence
+In conducting my audit, I have followed the independence requirements of the Australian National Audit Office, which incorporate the requirements of the Australian accounting profession.
+
+Australian National Audit Office
+
+
+Delegate of the Auditor-General Canberra
+16 September 2016
+
+</div>
+
+</details>
 
 {% include hx.html lvl=2 text="Statement by the Chief Executive Officer and Chief Financial Officer" %}
 
