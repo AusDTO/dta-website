@@ -52,10 +52,12 @@ I have audited the accompanying annual financial statements of the Digital Trans
 <em>**Opinion**</em>
 
 In my opinion, the financial statements of the Digital Transformation Office:
+
 <ol type="a">
   <li>comply   with   Australian   Accounting   Standards   and   the   <em>Public Governance, Performance and Accountability (Financial Reporting) Rule 2015</em>; and
   <li>present fairly the financial position of the Digital Transformation Office as at 30 June 2016 and its financial performance and cash flows for the year then ended.</li>
-  </ol>  
+  </ol> 
+  
 <em>**Accountable Authority’s Responsibility for the Financial Statements**</em>
   
 The Chief Executive Officer of the Digital Transformation Office is responsible under the <em>Public Governance, Performance and Accountability Act 2013</em> for the preparation and fair presentation of annual financial statements that comply with Australian Accounting Standards and the rules made under that Act and is also responsible for such internal control as the Chief Executive Officer determines is necessary to enable the preparation and fair presentation of financial statements that are free from material misstatement, whether due to fraud or error.
@@ -85,6 +87,7 @@ Canberra<br>
 </div>
 
 </details>
+
 
 {% include hx.html lvl=2 text="Statement by the Chief Executive Officer and Chief Financial Officer" %}
 
