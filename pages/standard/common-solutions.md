@@ -27,10 +27,10 @@ We are working with agencies and the users of our services to see how best to im
 ## Common government solutions
 * [myGov Inbox](https://my.gov.au) - a digital mail service for everyone
 * [data.gov.au](https://data.gov.au) - a repository of public datasets from Government
-* [GovShare](https://www.govshare.gov.au/) - supporting, collaborating and reusing ICT resources across government
+* GovShare (discontinued) - supporting, collaborating and reusing ICT resources across government
 * [govdex](https://govdex.gov.au) - a secure online collaborative platform for Australian government
 * [govCMS](https://www.govcms.gov.au/) - a whole-of-government content management system and website hosting
-* [Agency Solutions register](https://www.govshare.gov.au/item-search/?type=solutions) - existing APS ICT solutions and artefacts (requires Australian Government email address)
+* Agency Solutions register (discontinued) - existing APS ICT solutions and artefacts (requires Australian Government email address)
 * [Standard Business Reporting](http://www.sbr.gov.au/) - a standardised approach to reporting to government for business
 
 **Last updated:** 26 March 2015
