@@ -49,6 +49,7 @@ I have audited the accompanying annual financial statements of the Digital Trans
     <li>Cash Flow Statement; and</li>
     <li>Notes comprising significant accounting policies and other explanatory information.</li>
   </ul>
+  
 <em>**Opinion**</em>
 
 In my opinion, the financial statements of the Digital Transformation Office:
@@ -56,7 +57,7 @@ In my opinion, the financial statements of the Digital Transformation Office:
 <ol type="a">
   <li>comply   with   Australian   Accounting   Standards   and   the   <em>Public Governance, Performance and Accountability (Financial Reporting) Rule 2015</em>; and
   <li>present fairly the financial position of the Digital Transformation Office as at 30 June 2016 and its financial performance and cash flows for the year then ended.</li>
-  </ol> 
+</ol> 
   
 <em>**Accountable Authority’s Responsibility for the Financial Statements**</em>
   
@@ -84,8 +85,7 @@ Delegate of the Auditor-General<br>
 Canberra<br>
 16 September 2016
 
-</div>
-
+  </div>
 </details>
 
 
