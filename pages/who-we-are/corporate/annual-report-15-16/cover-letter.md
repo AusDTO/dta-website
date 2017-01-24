@@ -43,7 +43,7 @@ Printing by New Millennium Print
 ![Scanned letter of transmittal]({% asset_path LOT_-_Word %})
 
 <details open data-label="content-accordion-1-example" aria-expanded="false">
-  <summary><h3>Read transcript for the letter of transmittal</h3></summary>
+  <summary><h3>Read the full text version of the letter of transmittal</h3></summary>
   <div class="accordion-panel" markdown="1">
 
 The Hon Angus Taylor MP<br>
