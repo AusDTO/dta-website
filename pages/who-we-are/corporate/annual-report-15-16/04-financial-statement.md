@@ -352,7 +352,7 @@ for the period ended 30 June 2016
     </tr>
     <tr>
       <td>Prepayments</td>
-      <td><a href="#non-financial-assets">2.2B</a></td>
+      <td><a href="#prepayments">2.2B</a></td>
       <td><strong>348</strong></td>
       <td>-</td>
     </tr>
