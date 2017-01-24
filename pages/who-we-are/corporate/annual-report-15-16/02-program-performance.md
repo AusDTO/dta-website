@@ -27,8 +27,8 @@ doc-nav:
 
 I, as the accountable authority of the Digital Transformation Office (DTO), present the 2015–16 annual performance statements of the DTO, as required under paragraph 39(1)(a) of the *Public Governance, Performance and Accountability Act 2013* (PGPA Act). In my opinion, these annual performance statements are based on properly maintained records, accurately reflect the performance of the entity, and comply with subsection 39(2) of the PGPA Act.
 
-Paul Shetler<br>
-Chief Executive Officer
+**Paul Shetler<br>
+Chief Executive Officer**
 
 {% include hx.html lvl=3 text="Purpose" %}
 
