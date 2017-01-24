@@ -180,6 +180,8 @@ The DTO does not administer any legislation.
 
   ![Image of DTO Organisation Chart]({% asset_path org-chart %})
   
+  **Figure 1** Structure at 30 June 2016
+  
 <details open data-label="content-accordion-1-example" aria-expanded="false">
   <summary><h4>Read the full text version of Figure 1</h4></summary>
   <div class="accordion-panel" markdown="1">
