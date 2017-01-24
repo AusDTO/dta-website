@@ -181,7 +181,7 @@ The DTO does not administer any legislation.
   ![Image of DTO Organisation Chart]({% asset_path org-chart %})
   
 <details open data-label="content-accordion-1-example" aria-expanded="false">
-  <summary><h3>DTO Organisational Chart</h3></summary>
+  <summary><h4>DTO Organisational Chart</h4></summary>
   <div class="accordion-panel" markdown="1">
   
 Chief Executive Officer<br>
