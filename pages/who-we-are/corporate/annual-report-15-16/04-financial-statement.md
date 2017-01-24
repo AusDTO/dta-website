@@ -170,13 +170,13 @@ for the period ended 30 June 2016
     </tr>
     <tr>
       <td>Depreciation and amortisation</td>
-      <td>2.2A</td>
+      <td><a href="#non-financial-assets">2.2A</a></td>
       <td><strong>848</strong></td>
       <td>278</td>
     </tr>
     <tr>
       <td>Write-down and impairment of assets</td>
-      <td>2.2A</td>
+      <td><a href="#non-financial-assets">2.2A</a></td>
       <td><strong>957</strong></td>
       <td>-</td>
     </tr>
@@ -200,7 +200,7 @@ for the period ended 30 June 2016
     </tr>
     <tr>
       <td>Resources received free of charge</td>
-      <td>1.2A</td>
+      <td><a href="#own-source-revenue-and-gains">1.2A</a></td>
       <td><strong>261</strong></td>
       <td>-</td>
     </tr>
@@ -316,7 +316,7 @@ for the period ended 30 June 2016
     </tr>
     <tr>
       <td>Trade and other receivables</td>
-      <td>2.1A</td>
+      <td><a href="#financial-assets">2.1A</a></td>
       <td><strong>10,451</strong></td>
       <td>286</td>
     </tr>
@@ -334,25 +334,25 @@ for the period ended 30 June 2016
     </tr>
     <tr>
       <td>Plant and equipment</td>
-      <td>2.2A</td>
+      <td><a href="#non-financial-assets">2.2A</a></td>
       <td><strong>527</strong></td>
       <td>1,948</td>
     </tr>
     <tr>
       <td>Leasehold improvements</td>
-      <td>2.2A</td>
+      <td><a href="#non-financial-assets">2.2A</a></td>
       <td><strong>1,506</strong></td>
       <td>-</td>
     </tr>
     <tr>
       <td>Intangibles</td>
-      <td>2.2A</td>
+      <td><a href="#non-financial-assets">2.2A</a></td>
       <td><strong>364</strong></td>
       <td>-</td>
     </tr>
     <tr>
       <td>Prepayments</td>
-      <td>2.2B</td>
+      <td><a href="#non-financial-assets">2.2B</a></td>
       <td><strong>348</strong></td>
       <td>-</td>
     </tr>
@@ -382,13 +382,13 @@ for the period ended 30 June 2016
     </tr>
     <tr>
       <td>Suppliers</td>
-      <td>2.3A</td>
+      <td><a href="#payables">2.3A</a></td>
       <td><strong>5,926</strong></td>
       <td>-</td>
     </tr>
     <tr>
       <td>Other payables</td>
-      <td>2.3B</td>
+      <td><a href="#payables">2.3B</a></td>
       <td><strong>100</strong></td>
       <td>-</td>
     </tr>
@@ -406,13 +406,13 @@ for the period ended 30 June 2016
     </tr>
     <tr>
       <td>Employee provisions</td>
-      <td>4.1A</td>
+      <td><a href="#employee-provisions">4.1A</a></td>
       <td><strong>1,573</strong></td>
       <td>880</td>
     </tr>
     <tr>
       <td>Make good provisions</td>
-      <td>2.4A</td>
+      <td><a href="#other-provisions">2.4A</a></td>
       <td><strong>325</strong></td>
       <td>-</td>
     </tr>
@@ -852,7 +852,7 @@ for the period ended 30 June 2016">
     </tr>
     <tr>
       <td><em><strong>Net cash from/(used by) operating activities</strong></em></td>
-      <td>3.2</td>
+      <td><a href="#cash-flow-reconciliation">3.2</a></td>
       <td><strong>1,615</strong></td>
       <td>-</td>
     </tr>
