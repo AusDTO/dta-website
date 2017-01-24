@@ -238,9 +238,9 @@
 	  },
 
 	  _togglePanel: function(event) {
-	    var toggle = event.target,
-	        elem = event.target.targetElem,
-	        panel = event.target.targetPanel,
+	    var toggle = event.currentTarget,
+	        elem = event.currentTarget.targetElem,
+	        panel = event.currentTarget.targetPanel,
 	        expanded = elem.getAttribute('aria-expanded') === 'true';
 
 	    event.preventDefault();
