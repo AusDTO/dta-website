@@ -1650,7 +1650,8 @@ A write-down of $957,000 was recognised in 2016 for Leasehold Improvements for t
 An item of property, plant and equipment is derecognised upon disposal or when no further future economic benefits are expected from its use or disposal.
   </div>
  </div>
-{% include hx.html text="Note 2.2B: Prepayments" %}  
+{% include hx.html lvl=5 text="Prepayments" %} 
+
 <table class="content-table" summary="Note 2.2B: Prepayments">
   <colgroup>
   <col />
