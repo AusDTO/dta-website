@@ -158,13 +158,13 @@ for the period ended 30 June 2016
     </tr>
     <tr>
       <td>Employee benefits</td>
-      <td>1.1A</td>
+      <td><a href="#expenses">1.1A</a></td>
       <td><strong>11,547</strong></td>
       <td>17,276</td>
     </tr>
     <tr>
       <td>Suppliers</td>
-      <td>1.1B</td>
+      <td><a href="#expenses">1.1B</a></td>
       <td><strong>15,509</strong></td>
       <td>11,365</td>
     </tr>
