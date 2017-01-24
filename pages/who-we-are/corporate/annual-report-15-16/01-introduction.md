@@ -180,7 +180,40 @@ The DTO does not administer any legislation.
 
   ![Image of DTO Organisation Chart]({% asset_path org-chart %})
   
-DTO Organisational Chart
+<details open data-label="content-accordion-1-example" aria-expanded="false">
+  <summary><h3>DTO Organisational Chart</h3></summary>
+  <div class="accordion-panel" markdown="1">
+  
+Chief Executive Officer<br>
+Paul Shetler
+
+Head of the Office of the Chief Executive  Officer<br>
+Daniel Searle
+
+Head of Business Operations/Chief Operating  Officer<br>
+Deborah Lewis
+
+Head of Delivery<br>
+Dan Pulham
+
+Head of Digital  Partnerships<br>
+Jose Del  Rio
+
+Head of Identity<br>
+Rachel Dixon
+
+Head of Strategy and Engagement<br>
+Maria MacNamara
+
+Head of Digital  Marketplace<br>
+Catherine Thompson
+
+Head of GOV.AU<br>
+Radi Kovacevic (acting)
+
+</div>
+
+</details>
 
 {% include hx.html lvl=3 text="Executive management" %}
 
