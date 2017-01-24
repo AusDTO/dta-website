@@ -33,7 +33,7 @@ doc-nav:
 ![Image of Auditor's Report Page 2]({% asset_path DTO_Audit_Opinion1 %})
 
 <details open data-label="content-accordion-1-example" aria-expanded="false">
-  <summary><h3>Read transcript for the independent auditor's report</h3></summary>
+  <summary><h3>Read the full text version of the independent auditor's report</h3></summary>
   <div class="accordion-panel" markdown="1">
 
 **INDEPENDENT AUDITOR’S REPORT**
@@ -1650,7 +1650,7 @@ A write-down of $957,000 was recognised in 2016 for Leasehold Improvements for t
 An item of property, plant and equipment is derecognised upon disposal or when no further future economic benefits are expected from its use or disposal.
   </div>
  </div>
-{% include hx.html lvl=4 text=" " %}  
+{% include hx.html text="Note 2.2B: Prepayments" %}  
 <table class="content-table" summary="Note 2.2B: Prepayments">
   <colgroup>
   <col />
