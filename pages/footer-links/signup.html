@@ -39,6 +39,21 @@ searchexcerpt: "Sign up to our mailing list and receive blog updates."
           <option value="Outside Australia">Outside Australia</option>
         </select>
       </div>
+      <fieldset>
+        <legend id="categories">Select the <a href="/tags/">tags</a> you are interested in (optional)</legend>
+        <p>If you do not select any, you will receive all blog updates.</p>
+        {% comment %}
+          If a new category needs to be added, it must be added to mailchimp first.
+          Afterwards grab the new category id by looking at the embedded form source code from
+          https://us12.admin.mailchimp.com/lists/integration/embeddedcode?id=256057
+        {% endcomment %}
+
+        <input type="checkbox" aria-describedby="categories" value="2" name="group[12013][2]" id="mce-group[12013]-12013-1"><label for="mce-group[12013]-12013-1">digital marketplace</label>
+        <input type="checkbox" aria-describedby="categories" value="8" name="group[12013][8]" id="mce-group[12013]-12013-0"><label for="mce-group[12013]-12013-0">digital transformation</label>
+        <input type="checkbox" aria-describedby="categories" value="1" name="group[12013][1]" id="mce-group[12013]-12013-2"><label for="mce-group[12013]-12013-2">dta news</label>
+        <input type="checkbox" aria-describedby="categories" value="16" name="group[12013][16]" id="mce-group[12013]-12013-3"><label for="mce-group[12013]-12013-3">gov.au</label>
+        <input type="checkbox" aria-describedby="categories" value="4" name="group[12013][4]" id="mce-group[12013]-12013-4"><label for="mce-group[12013]-12013-4">technology</label>
+      </fieldset>
 
       <div id="mce-responses" class="clear">
         <div class="response" id="mce-error-response" style="display:none"></div>
@@ -58,16 +73,16 @@ searchexcerpt: "Sign up to our mailing list and receive blog updates."
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
 <script type='text/javascript'>(function ($) {
-  window.fnames = new Array();
-  window.ftypes = new Array();
-  fnames[0] = 'EMAIL';
-  ftypes[0] = 'email';
-  fnames[1] = 'FNAME';
-  ftypes[1] = 'text';
-  fnames[2] = 'LNAME';
-  ftypes[2] = 'text';
-  fnames[3] = 'STATE';
-  ftypes[3] = 'dropdown';
+    window.fnames = new Array();
+    window.ftypes = new Array();
+    fnames[0] = 'EMAIL';
+    ftypes[0] = 'email';
+    fnames[1] = 'FNAME';
+    ftypes[1] = 'text';
+    fnames[2] = 'LNAME';
+    ftypes[2] = 'text';
+    fnames[3] = 'STATE';
+    ftypes[3] = 'dropdown';
 }(jQuery));
 var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
