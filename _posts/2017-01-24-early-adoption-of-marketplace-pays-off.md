@@ -2,8 +2,8 @@
 title: "Early adoption of Marketplace pays off"
 category: [news]
 tag: 'digital marketplace'
-thumbnail: /images/blog-thumbnails/modernising-mygov-thumb.png
-hero-image: /images/blog-content/modernising-mygov-hero.png
+thumbnail: /images/blog-thumbnails/marketplace-chris-oconnor-thumb.jpg
+hero-image: /images/blog-content/marketplace-chris-oconnor-content.jpg
 feed: true
 ---
 
