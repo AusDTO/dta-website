@@ -7,8 +7,6 @@ hero-image: /images/blog-content/marketplace-chris-oconnor-content.jpg
 feed: true
 ---
 
-# Early adoption of Marketplace pays off
-
 Local councils are starting to take advantage of the speed and ease of procurement that the Digital Marketplace brings.
  
 The City of Casey in Victoria published its first brief just eight days after our Beta release - an individual specialist opportunity for a developer experienced in Gravity forms. 
@@ -22,7 +20,7 @@ Currently there are 252 registered government buyers from 78 different agencies,
 ## Watch the video
 
 <div class="youtube-embed">
-  <iframe width="100%" height="400" src="https://youtu.be/c-KQqtmgm-I" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="400" src="https://www.youtube.com/embed/c-KQqtmgm-I" frameborder="0" allowfullscreen></iframe>
   
   <details open data-label="content-accordion-1-example" aria-expanded="false">
     <summary><h3>Read transcript - 2:19 min</h3></summary>
@@ -60,6 +58,6 @@ Chris: The simplicity of the language was a real strong point for my experience 
 
 If you work in government and have an email address ending in **.gov.au** you can [create a buyer account](https://marketplace.service.gov.au/buyers/signup) now. 
 
-If your government email address is different, you can request a buyer account by emailing mailto:marketplace@digital.gov.au
+If your government email address is different, you can request a buyer account by emailing [marketplace@digital.gov.au](mailto:marketplace@digital.gov.au).
 
-If you want to provide digital products or services to government through the Digital Marketplace register your interest by contacting mailto:marketplace@digital.gov.au
+If you want to provide digital products or services to government through the Digital Marketplace register your interest by contacting [marketplace@digital.gov.au](mailto:marketplace@digital.gov.au).
