@@ -1,7 +1,9 @@
 ---
 title: "Early adoption of Marketplace pays off"
-category: [news]
-tag: 'digital marketplace'
+category: blog
+tags: ['digital marketplace']
+author: Steven Berends
+author-excerpt: "Steven Berends is the Digital Marketplace Content Designer and can most often be found in the DTA Sydney office."
 thumbnail: /images/blog-thumbnails/marketplace-chris-oconnor-thumb.jpg
 hero-image: /images/blog-content/marketplace-chris-oconnor-content.jpg
 feed: true
@@ -56,7 +58,7 @@ Chris: The simplicity of the language was a real strong point for my experience 
 
 ## Want to join the community? 
 
-If you work in government and have an email address ending in **.gov.au** you can [create a buyer account](https://marketplace.service.gov.au/buyers/signup) now. 
+If you work in government and have an email address ending in **.gov.au** you can [create a buyer account now](https://marketplace.service.gov.au/buyers/signup).
 
 If your government email address is different, you can request a buyer account by emailing [marketplace@digital.gov.au](mailto:marketplace@digital.gov.au).
 
