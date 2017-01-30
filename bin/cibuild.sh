@@ -9,32 +9,18 @@ set -o pipefail
 # echo out each line of the shell as it executes
 set -x
 
-# Use JEKYLL_ENV to configure jekyll-assets
-export JEKYLL_ENV=production
+# Include build env vars
+source "$(dirname "$0")/buildrc"
 
 main() {
-  readonly GITBRANCH="${CIRCLE_BRANCH}"
-
-  # Use the branch name to set the url used by jekyll
-  case "${GITBRANCH}" in
-    master)
-      readonly SITE_URL="https://www.dta.gov.au"
-      ;;
-    develop)
-      readonly SITE_URL="https://dta.apps.staging.digital.gov.au"
-      ;;
-    "")
-      readonly SITE_URL="http://localhost:4000"
-      ;;
-    *)
-      readonly SITE_URL="https://dta-website-${GITBRANCH}.apps.staging.digital.gov.au"
-      ;;
-  esac
-
   mkdir -p _site
-  echo "url: \"${SITE_URL}\"">_site/_config-url.yml
+  echo "url: \"${DTA_SITE_URL}\"">${TMPDIR}/_config-url.yml
+  echo "baseurl: \"${DTA_SITE_BASEURL}\"">>${TMPDIR}/_config-url.yml
 
-  bundle exec jekyll build --config _config.yml,_site/_config-url.yml
+  # Use JEKYLL_ENV to configure jekyll-assets
+  export JEKYLL_ENV=production
+
+  bundle exec jekyll build --config _config.yml,${TMPDIR}/_config-url.yml
 }
 
 main $@
