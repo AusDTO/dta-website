@@ -6,6 +6,7 @@ author: Steven Berends
 author-excerpt: "Steven Berends is the Digital Marketplace Content Designer and can most often be found in the DTA Sydney office."
 thumbnail: /images/blog-thumbnails/marketplace-chris-oconnor-thumb.jpg
 hero-image: /images/blog-content/marketplace-chris-oconnor-content.jpg
+redirect_from: /blog/early-adoption-of-marketplace-pays-off/
 ---
 
 Local councils are starting to take advantage of the speed and ease of procurement that the Digital Marketplace brings.
