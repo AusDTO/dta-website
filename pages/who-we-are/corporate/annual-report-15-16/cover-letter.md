@@ -47,18 +47,21 @@ Printing by New Millennium Print
   <div class="accordion-panel" markdown="1">
 
 The Hon Angus Taylor MP<br>
-Assistant Minister for Cities and Digital Transformation Parliament House<br>
+Assistant Minister for Cities and Digital Transformation<br>
+Parliament House<br>
 CANBERRA  ACT  2600
 
 
 Dear Minister
 
-I have pleasure in presenting to you the annual report for the Digital Transformation Office (DTO) for the year ended 30 June 2016, in accordance with section 70 of the Public Service  Act 1999.
-The report has been prepared in accordance with section 46 of the Public Governance, Performance and Accountability Act 2013, sections  17AA  to  17AJ  of the Public Governance, Performance and Accountability Rule 2014 (PGPA Rule), and the relevant guidelines approved by the Joint Committee of Public Accounts and Audit.
+I have pleasure in presenting to you the annual report for the Digital Transformation Office (DTO) for the year ended 30 June 2016, in accordance with section 70 of the *Public Service  Act 1999*.
 
-I am satisfied that the DTO, in accordance with section 10 of the PGPA Rule, has prepared fraud risk assessments and fraud control plans; has put in place appropriate fraud prevention, detection, investigation and reporting mechanisms that meet the specific  needs of the entity; and has taken all reasonable measures to appropriately deal with fraud relating to the entity.
+The report has been prepared in accordance with section 46 of the *Public Governance, Performance and Accountability Act 2013*, sections  17AA to 17AJ of the Public Governance, Performance and Accountability Rule 2014 (PGPA Rule), and the relevant guidelines approved by the Joint Committee of Public Accounts and Audit.
 
-Yours sincerely.
+I am satisfied that the DTO, in accordance with section 10 of the PGPA Rule, has prepared fraud risk assessments and fraud control plans; has put in place appropriate fraud prevention, detection, investigation and reporting mechanisms that meet the specific needs of the entity; and has taken all reasonable measures to appropriately deal with fraud relating to the entity.
+
+Yours sincerely
+
 
 Paul Shetler<br>
 Chief Executive Officer
