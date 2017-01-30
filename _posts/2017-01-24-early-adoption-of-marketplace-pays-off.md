@@ -15,7 +15,7 @@ The City of Casey in Victoria published its first brief just eight days after ou
  
 In this interview, the Manager of Digital for City of Casey, Chris O'Connor, explains how happy he was to find the experience simple, clear and fast - even in its earliest Beta stage.
  
-The Digital Marketplace has been created so buyers from all levels of government can access digital expertise quickly and easily. 
+The [Digital Marketplace](https://marketplace.service.gov.au/) has been created so buyers from all levels of government can access digital expertise quickly and easily. 
  
 Currently there are 252 registered government buyers from 78 different agencies, including the Australian Tax Office, the ABC, the Department of Health and Department of Finance, Services and Innovation to name a few.
 
