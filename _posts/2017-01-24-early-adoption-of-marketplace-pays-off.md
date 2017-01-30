@@ -17,7 +17,7 @@ In this interview, the Manager of Digital for City of Casey, Chris O'Connor, exp
  
 The [Digital Marketplace](https://marketplace.service.gov.au/) has been created so buyers from all levels of government can access digital expertise quickly and easily. 
  
-Currently there are 252 registered government buyers from 78 different agencies, including the Australian Tax Office, the ABC, the Department of Health and Department of Finance, Services and Innovation to name a few.
+Currently there are 252 registered government buyers from 78 different agencies, including the Australian Tax Office, the ABC, the Department of Health and the NSW Department of Finance, Services and Innovation to name a few.
 
 ## Watch the video
 
