@@ -1,19 +1,18 @@
 ---
-title: "Early adoption of Marketplace pays off"
+title: "Early Marketplace adoption pays off"
 category: blog
 tags: ['digital marketplace']
 author: Steven Berends
 author-excerpt: "Steven Berends is the Digital Marketplace Content Designer and can most often be found in the DTA Sydney office."
 thumbnail: /images/blog-thumbnails/marketplace-chris-oconnor-thumb.jpg
 hero-image: /images/blog-content/marketplace-chris-oconnor-content.jpg
-feed: true
 ---
 
 Local councils are starting to take advantage of the speed and ease of procurement that the Digital Marketplace brings.
  
-The City of Casey in Victoria published its first brief just eight days after our Beta release - an individual specialist opportunity for a developer experienced in Gravity forms. 
+The City of Casey in Victoria published its first brief just eight days after our Beta release --- an individual specialist opportunity for a developer experienced in Gravity forms. 
  
-In this interview, the Manager of Digital for City of Casey, Chris O'Connor, explains how happy he was to find the experience simple, clear and fast - even in its earliest Beta stage.
+In this interview, the Manager of Digital for City of Casey, Chris O'Connor, explains how happy he was to find the experience simple, clear and fast --- even in its earliest Beta stage.
  
 The [Digital Marketplace](https://marketplace.service.gov.au/) has been created so buyers from all levels of government can access digital expertise quickly and easily. 
  
