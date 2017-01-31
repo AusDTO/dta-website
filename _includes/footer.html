@@ -31,9 +31,11 @@
           <li><a href="{{site.baseurl}}/disclaimer/">Disclaimer</a></li>
         </ul>
         <ul>
+          {% unless page.url == "/signup/" %}
           <li>
             {% include signup.html %}
           </li>
+          {% endunless %}
         </ul>
       </nav>
     </section>
