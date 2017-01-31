@@ -9,10 +9,9 @@ set -o pipefail
 # echo out each line of the shell as it executes
 set -x
 
-# use /tmp if TMPDIR is not defined
-if [ -z "$TMPDIR" ]; then
-    TMPDIR="/tmp"
-fi
+# Include build env vars
+source "$(dirname "$0")/buildrc"
 
 # Start a local copy of the site to test against
 bundle exec jekyll serve --no-watch --destination $TMPDIR/_pa11y_site
+

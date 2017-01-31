@@ -13,9 +13,14 @@ set -o pipefail
 # echo out each line of the shell as it executes
 set -x
 
+# Include build env vars
+source "$(dirname "$0")/buildrc"
+
 # Run jekyll hyde
 # Note - this will clobber sitemap.xml using the site.url, so config must have the correct url.
-bundle exec jekyll hyde  --config _config.yml,_site/_config-url.yml
+bundle exec jekyll hyde  --config _config.yml,${TMPDIR}/_config-url.yml
+
+DTA_SITE_URL_ESCAPED=${DTA_SITE_URL//:/\\:}
 
 # Run a html proofer over the site
 bundle exec htmlproofer _site  \
@@ -23,7 +28,8 @@ bundle exec htmlproofer _site  \
     --allow-hash-href \
     --url-ignore "/(mailto:.*)/" \
     --file-ignore /.*feed/index\.html/ \
-    --empty-alt-ignore
+    --empty-alt-ignore \
+    --url-swap "https\://www.dta.gov.au:,${DTA_SITE_URL_ESCAPED}${DTA_SITE_BASEURL}:,${DTA_SITE_BASEURL}:"
 
 # CI should have already started a webserver in the background for pa11y to test against, but it might not be ready yet
 echo "Waiting for webserver to start..."

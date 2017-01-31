@@ -59,9 +59,7 @@ The production branch is `master` which is continuously deployed by circleCI to 
 
 When starting a new change, branch from `develop`.
 
-If needed a branch can be continuously deployed by circleCI to a staging site at https://dta-website-branchname.apps.staging.digital.gov.au/. As long as the circleCI tests are passing, this staging site will be kept up to date with all commits to the branch.
-
-To enable continuously deploying a branch, add the branch name to `DEPLOY_BRANCHES` in `bin/cideploy.sh`. When you are finished you should remove the branch from `DEPLOY_BRANCHES` and delete the app by running `cf delete dta-website-<branchname>`.
+If needed a branch can be continuously deployed by circleCI to a staging site at https://dta-website-branchname.apps.staging.digital.gov.au/. As long as the circleCI tests are passing, this staging site will be kept up to date with all commits to the branch. To start continuously deploying a branch, add the branch name to `DEPLOY_BRANCHES` in `bin/buildrc`. We have a quota for the number of running apps, so when you are finished you should remove the branch from `DEPLOY_BRANCHES` and delete the app by running `cf delete dta-website-<branchname>`.
 
 When your change is ready, submit a PR to the `develop` branch. After the PR is merged, it will be deployed to [staging](https://dta.apps.staging.digital.gov.au/).
 
@@ -82,13 +80,14 @@ You should keep the content on a new branch, i.e. do NOT merge to `develop` or `
 
 When the content is ready to be published and approved for release, the content needs to first be merged into a branch in the [public repository](https://github.com/AusDTO/dta-website).
  
-This must be done on the command line. 
+This must be done on the command line:
  
 * `git clone git@github.com:AusDTO/dta-website.git`
 * `cd dta-website`
 * `git remote add private git@github.com:AusDTO/dta-website-private.git`
 * `git fetch private`
 * `git checkout -b private/branchname`
+* `git rebase -i private/develop` # squash any commits if required
 * `git push origin`
 
 The branch can now be worked on in the [public repository](https://github.com/AusDTO/dta-website) and merged via a PR to `develop` as normal.
