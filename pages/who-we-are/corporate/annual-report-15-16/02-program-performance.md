@@ -188,6 +188,134 @@ The DTO’s financial statements are presented in Part 4 of this annual report. 
 Tables 2 and 3 summarise the agency’s total resources and total expenses for the year.
 
 <table class="content-table" summary="Table 2 Resource statement">
+ <caption><strong>Table 2</strong> Resource statement</caption><br /><br />
+    <colgroup>
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+    </colgroup>
+    <thead>
+      <tr>
+        <th>&nbsp; </th>
+        <th>&nbsp; </th>
+        <th>Actual available appropriation <br />
+          for 2015–16</th>
+        <th>Payments <br />
+          made <br />
+          2015–16</th>
+        <th>Remaining balance <br />
+          2015–16</th>
+      </tr>
+      <tr>
+        <th>&nbsp; </th>
+        <th>&nbsp; </th>
+        <th>$’000<br />
+          (a)</th>
+        <th>$’000<br />
+          (b)</th>
+        <th>$’000<br />
+          (a) – (b)</th>
+      </tr>
+      </thead>
+    <tbody>
+      <tr>
+        <td><strong>Ordinary annual services</strong><sup>1</sup></td>
+        <td>&nbsp;</td>
+        <td />
+        <td />
+        <td />
+      </tr>
+      <tr>
+        <td>Departmental appropriation<sup>2</sup></td>
+        <td>&nbsp;</td>
+        <td>32,025</td>
+        <td>22,215</td>
+        <td>9,810</td>
+      </tr>
+      <tr>
+        <td>Total</td>
+        <td>&nbsp;</td>
+        <td>32,025</td>
+        <td>22,215</td>
+        <td>9,810</td>
+      </tr>
+      <tr>
+        <td>Total ordinary annual services</td>
+        <td>A</td>
+        <td>32,025</td>
+        <td>22,215</td>
+        <td />
+      </tr>
+      <tr>
+        <td colspan="5"></td>
+      </tr>
+      <tr>
+        <td><strong>Departmental non-operating</strong></td>
+        <td>&nbsp;</td>
+        <td />
+        <td />
+        <td />
+      </tr>
+      <tr>
+        <td>Equity injections</td>
+        <td>&nbsp;</td>
+        <td>2,226</td>
+        <td>–</td>
+        <td>2,226</td>
+      </tr>
+      <tr>
+        <td>Total</td>
+        <td>&nbsp;</td>
+        <td>2,226</td>
+        <td>–</td>
+        <td>2,226</td>
+      </tr>
+      <tr>
+        <td>Total other services</td>
+        <td>B</td>
+        <td>2,226</td>
+        <td>–</td>
+        <td />
+      </tr>
+      <tr>
+        <td colspan="5"></td>
+      </tr>
+      <tr>
+        <td>Total available annual appropriations and payments</td>
+        <td>&nbsp;</td>
+        <td>34,251</td>
+        <td>22,215</td>
+        <td />
+      </tr>
+      <tr>
+        <td><strong>Total resourcing</strong></td>
+        <td>&nbsp;</td>
+        <td />
+        <td />
+        <td />
+      </tr>
+      <tr>
+        <td>A+B</td>
+        <td>&nbsp;</td>
+        <td>34,251</td>
+        <td>22,215</td>
+        <td />
+      </tr>
+      <tr>
+        <td>Total net resourcing for DTO</td>
+        <td>&nbsp;</td>
+        <td>34,251</td>
+        <td>22,215</td>
+        <td />
+      </tr>
+    </tbody>
+  </table>
+  
+
+
+<table class="content-table" summary="Table 2 Resource statement">
  <caption><strong>Table 2</strong> Resource statement</caption><br/><br/>
     <colgroup>
     <col />
