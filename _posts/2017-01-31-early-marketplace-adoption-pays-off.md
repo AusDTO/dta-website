@@ -23,6 +23,8 @@ Currently there are 252 registered government buyers from 78 different agencies,
 
 <div class="youtube-embed">
   <iframe width="100%" height="400" src="https://www.youtube.com/embed/-4VrwW461tw" frameborder="0" allowfullscreen></iframe>
+
+  <p><em>Caption: Interview with Chris O’Connor the Manager of Digital, City of Casey - one of the first buyers in the Digital Marketplace.</em></p>
   
   <details open data-label="content-accordion-1-example" aria-expanded="false">
     <summary><h3>Read transcript - 2:19 min</h3></summary>
@@ -53,8 +55,6 @@ Chris: The simplicity of the language was a real strong point for my experience 
 </div>
   </details>
 </div>
-
-*Caption: Interview with Chris O'Connor the Manager of Digital, City of Casey - one of the first buyers in the Digital Marketplace.*
 
 ## Want to join the community? 
 
