@@ -12,7 +12,7 @@ shopt -s extglob
 # The master and develop branches are continuously deployed to production and staging.
 # You can also add additional branches here which will be deployed to a temporary staging site.
 # Separate branches with a | character. e.g. "+(branch1|branch2)"
-readonly DEPLOY_BRANCHES="+(annual-report)"
+readonly DEPLOY_BRANCHES="+(annual-report|uikit)"
 
 # setup basic auth on the container
 #
