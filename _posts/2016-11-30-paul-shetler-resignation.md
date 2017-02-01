@@ -1,10 +1,11 @@
 ---
 title: "Media Statement"
-category: [news, media-release]
-redirect_from: "/news/media-release/media-statement-paul-shetler-resignation/"
-tag: 'dta news'
+category: "news"
+redirect_from:
+- "/news/media-release/media-statement-paul-shetler-resignation/"
+- "/news/media-release/paul-shetler-resignation/"
+tag: "dta news"
 thumbnail: /images/blog-thumbnails/dta-logo-thumb.png
-feed: true
 ---
 
 The Digital Transformation Agency has today announced the resignation of the government’s Chief Digital Officer, Paul Shetler.

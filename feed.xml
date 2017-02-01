@@ -16,11 +16,9 @@ exclude_from_search: true
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% assign posts = site.empty-array %}
     {% for post in site.posts %}
-      {% if post.categories contains 'blog' %}
+      {% unless post.skip_feed == true %}
         {% assign posts = posts| push: post %}
-      {% elsif post.feed == true %}
-        {% assign posts = posts| push: post %}
-      {% endif %}
+      {% endunless %}
     {% endfor %}
 
     {% for post in posts limit:10 %}
