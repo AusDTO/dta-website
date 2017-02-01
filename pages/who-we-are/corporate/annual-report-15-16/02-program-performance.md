@@ -187,132 +187,132 @@ The DTO’s financial statements are presented in Part 4 of this annual report. 
 
 Tables 2 and 3 summarise the agency’s total resources and total expenses for the year.
 
-<table class="content-table" summary="Table 2 Resource statement">
- <caption><strong>Table 2</strong> Resource statement</caption><br /><br />
+<table class="content-table com_tab_07_back" summary="Table 2 Resource statement">
+ <caption><strong>Table 2</strong> Resource statement</caption>
     <colgroup>
-    <col />
-    <col />
-    <col />
-    <col />
-    <col />
+    <col>
+    <col>
+    <col>
+    <col>
+    <col>
     </colgroup>
     <thead>
       <tr>
-        <th>&nbsp; </th>
-        <th>&nbsp; </th>
-        <th>Actual available appropriation <br />
+        <td class="">&nbsp; </td>
+        <td class="">&nbsp; </td>
+        <th class="com_tab_07_shblue" id="bc1" headers=""><span class="com_tab_07_num">1,1</span>Actual available appropriation <br>
           for 2015–16</th>
-        <th>Payments <br />
-          made <br />
+        <th id="bc2" class="" headers="">Payments <br>
+          made <br>
           2015–16</th>
-        <th>Remaining balance <br />
+        <th id="bc3" class="" headers="">Remaining balance <br>
           2015–16</th>
       </tr>
       <tr>
-        <th>&nbsp; </th>
-        <th>&nbsp; </th>
-        <th>$’000<br />
-          (a)</th>
-        <th>$’000<br />
-          (b)</th>
-        <th>$’000<br />
-          (a) – (b)</th>
+        <td class="">&nbsp; </td>
+        <td class="">&nbsp; </td>
+        <td class="com_tab_07_sgreen" headers="bc1">$’000<br>
+          (a)</td>
+        <td class="" headers="bc2">$’000<br>
+          (b)</td>
+        <td class="" headers="bc3">$’000<br>
+          (a) – (b)</td>
       </tr>
       </thead>
     <tbody>
       <tr>
-        <td><strong>Ordinary annual services</strong><sup>1</sup></td>
+        <th id="br1" class=""><strong>Ordinary annual services</strong><sup>1</sup></th>
+        <td class="">&nbsp;</td>
+        <td class="">
+        </td><td class="">
+        </td><td class="">
+      </td></tr>
+      <tr>
+        <th id="br2" class="" headers="br1">Departmental appropriation<sup>2</sup></th>
+        <td class="">&nbsp;</td>
+        <td class="" headers="br1 br2 bc1">32,025</td>
+        <td class="" headers="br1 br2 bc2">22,215</td>
+        <td class="" headers="br1 br2 bc3">9,810</td>
+      </tr>
+      <tr>
+        <th class="" id="br3" headers="br1">Total</th>
+        <td class="">&nbsp;</td>
+        <td class="" headers="br1 br3 bc1">32,025</td>
+        <td class="" headers="br1 br3 bc2">22,215</td>
+        <td class="" headers="br1 br3 bc3">9,810</td>
+      </tr>
+      <tr>
+        <th id="br4" class="" headers="br1">Total ordinary annual services</th>
+        <td headers="br1 br4" class="">A</td>
+        <td class="" headers="br1 br4 bc1">32,025</td>
+        <td class="" headers="br1 br4 bc2">22,215</td>
+        <td class="">
+      </td></tr>
+      <tr>
+        <td colspan="5" class=""></td>
+      </tr>
+      <tr>
+        <th id="br5" class=""><strong>Departmental non-operating</strong></th>
         <td>&nbsp;</td>
-        <td />
-        <td />
-        <td />
+        <td class="">
+        </td><td class="">
+        </td><td class="">
+      </td></tr>
+      <tr>
+        <th id="br6" class="" headers="br5">Equity injections</th>
+        <td class="">&nbsp;</td>
+        <td class="" headers="br5 br6 bc1">2,226</td>
+        <td class="" headers="br5 br6 bc2">–</td>
+        <td class="" headers="br5 br6 bc3">2,226</td>
       </tr>
       <tr>
-        <td>Departmental appropriation<sup>2</sup></td>
+        <th id="br7" class="" headers="br5">Total</th>
+        <td class="">&nbsp;</td>
+        <td class="" headers="br5 br7 bc1">2,226</td>
+        <td class="" headers="br5 br7 bc2">–</td>
+        <td class="" headers="br5 br7 bc3">2,226</td>
+      </tr>
+      <tr>
+        <th id="br8" class="" headers="br5">Total other services</th>
+        <td headers="br5 br8">B</td>
+        <td class="" headers="br5 br8 bc1">2,226</td>
+        <td class="" headers="br5 br8 bc2">–</td>
+        <td class="">
+      </td></tr>
+      <tr>
+        <td colspan="5" class=""></td>
+      </tr>
+      <tr>
+        <th id="br9" headers="" class="">Total available annual appropriations and payments</th>
         <td>&nbsp;</td>
-        <td>32,025</td>
-        <td>22,215</td>
-        <td>9,810</td>
-      </tr>
+        <td headers="br9 bc1">34,251</td>
+        <td class="" headers="br9 bc2">22,215</td>
+        <td class="">
+      </td></tr>
       <tr>
-        <td>Total</td>
+        <th id="br10"><strong>Total resourcing</strong></th>
         <td>&nbsp;</td>
-        <td>32,025</td>
-        <td>22,215</td>
-        <td>9,810</td>
-      </tr>
+        <td>
+        </td><td>
+        </td><td>
+      </td></tr>
       <tr>
-        <td>Total ordinary annual services</td>
-        <td>A</td>
-        <td>32,025</td>
-        <td>22,215</td>
-        <td />
-      </tr>
-      <tr>
-        <td colspan="5"></td>
-      </tr>
-      <tr>
-        <td><strong>Departmental non-operating</strong></td>
+        <th id="br11" headers="br10">A+B</th>
         <td>&nbsp;</td>
-        <td />
-        <td />
-        <td />
-      </tr>
+        <td headers="br10 br11 bc1">34,251</td>
+        <td headers="br10 br11 bc2">22,215</td>
+        <td>
+      </td></tr>
       <tr>
-        <td>Equity injections</td>
+        <th id="br12" headers="br10">Total net resourcing for DTO</th>
         <td>&nbsp;</td>
-        <td>2,226</td>
-        <td>–</td>
-        <td>2,226</td>
-      </tr>
-      <tr>
-        <td>Total</td>
-        <td>&nbsp;</td>
-        <td>2,226</td>
-        <td>–</td>
-        <td>2,226</td>
-      </tr>
-      <tr>
-        <td>Total other services</td>
-        <td>B</td>
-        <td>2,226</td>
-        <td>–</td>
-        <td />
-      </tr>
-      <tr>
-        <td colspan="5"></td>
-      </tr>
-      <tr>
-        <td>Total available annual appropriations and payments</td>
-        <td>&nbsp;</td>
-        <td>34,251</td>
-        <td>22,215</td>
-        <td />
-      </tr>
-      <tr>
-        <td><strong>Total resourcing</strong></td>
-        <td>&nbsp;</td>
-        <td />
-        <td />
-        <td />
-      </tr>
-      <tr>
-        <td>A+B</td>
-        <td>&nbsp;</td>
-        <td>34,251</td>
-        <td>22,215</td>
-        <td />
-      </tr>
-      <tr>
-        <td>Total net resourcing for DTO</td>
-        <td>&nbsp;</td>
-        <td>34,251</td>
-        <td>22,215</td>
-        <td />
-      </tr>
+        <td headers="br10 br12 bc1">34,251</td>
+        <td headers="br10 br12 bc2">22,215</td>
+        <td>
+      </td></tr>
     </tbody>
   </table>
-  
+
 
 
 <table class="content-table" summary="Table 2 Resource statement">
