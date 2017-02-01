@@ -50,7 +50,7 @@ Chris: The benefit for us was, even if we do have to bring in our own procuremen
 
 On screen: Anything else you would like to share about your experience?
 
-Chris: The simplicity of the language was a real strong point for my experience of the Marketplace - not having the RFQs the ROIs and the tenders. I'm just someone who needs a solution to my problem, and anyone who can help me connect with people who provide that solution I'm really happy with, and if it's in plain English, all the better.
+Chris: The simplicity of the language was a real strong point for my experience of the Marketplace - not having the Request for Quotations (RFQs), the Return on Investments (ROIs) and the tenders. I'm just someone who needs a solution to my problem, and anyone who can help me connect with people who provide that solution I'm really happy with, and if it's in plain English, all the better.
 
 </div>
   </details>
