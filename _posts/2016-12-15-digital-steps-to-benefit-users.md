@@ -4,7 +4,6 @@ category: [news]
 tag: 'digital transformation'
 thumbnail: /images/blog-thumbnails/modernising-mygov-thumb.png
 hero-image: /images/blog-content/modernising-mygov-hero.png
-feed: true
 ---
  
 Two key elements of the digital transformation agenda have been released as another step towards changing how the government delivers digital services.
