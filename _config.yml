@@ -12,7 +12,7 @@ google_tag_manager: GTM-KR7JDF
 tag_dir: /tags # for tags pages created by jekyll-archives
 
 # Because there is no way to instantiate an empty array, and we need to merge two filtered
-# collections together -- this is used on the News page layout.
+# collections together -- this is used on the News page layout and feed.xml.
 empty-array: []
 
 collections:
@@ -148,8 +148,6 @@ prose:
               value: "blog"
             - name: "News"
               value: "[news]"
-            - name: "Media release"
-              value: "[news, media-release]"
       - name: "tag"
         field:
           element: "select"
