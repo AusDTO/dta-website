@@ -25,6 +25,13 @@ rm -f _site/pa11y-sitemap.xml
 # main script function
 #
 main() {
+
+  if [[ "${CIRCLE_PROJECT_REPONAME}" != "dta-website" ]]
+  then
+    echo "I will not deploy this repo"
+    exit 0
+  fi
+
   case "${GITBRANCH}" in
     master)
       cf api $CF_PROD_API
