@@ -1,15 +1,15 @@
 ---
-title: "Performance Dashboard - Practising what we preach"
+title: "Performance Dashboard – Practising what we preach"
 category: blog
 tags: ['digital transformation']
 author: James Broadbent
-author-excerpt: "James Broadbent is the Performance Dashboard Engagement Lead."
+author-excerpt: "James Broadbent is the Performance Dashboard Business Analyst and Engagement Lead."
 thumbnail: /images/blog-thumbnails/Dashboard-blog-thumb-image.jpg
 hero-image: /images/blog-content/Dashboard-blog-hero-image.jpg
 ---
 
-![James Broadbent, Performance Dashboard Engagement Lead discussing the dashboard.]({{site.url}}{{site.baseurl}}/images/blog-content/Dashboard-blog-hero-image.jpg)
-*James Broadbent, Performance Dashboard Engagement Lead discussing the dashboard.*
+![James Broadbent, Performance Dashboard Business Analyst and Engagement Lead discussing the dashboard.]({{site.url}}{{site.baseurl}}/images/blog-content/Dashboard-blog-hero-image.jpg)
+*James Broadbent, Performance Dashboard Business Analyst and Engagement Lead discussing the dashboard.*
 
 The DTA’s Performance Dashboard reports on the performance of government services. Now the Performance Dashboard is reporting on its own performance. We are the first service to report against the cost per transaction key performance indicator (KPI), and we’ve decided to report on a host of other metrics to really be transparent about how we are achieving our goals (you can see them on our [dashboard](https://dashboard.gov.au/dashboards/8-performance-dashboard-dashboard)). In our own journey applying the [Digital Service Standard](https://www.dta.gov.au/standard/) we have learned a number of lessons to share with other agencies.
 
