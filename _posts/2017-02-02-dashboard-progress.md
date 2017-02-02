@@ -4,13 +4,12 @@ category: [news]
 tag: 'dta news'
 thumbnail: /images/blog-thumbnails/dashboard-laptop-thumb.jpg
 hero-image: /images/blog-content/dashboard-laptop-content.jpg
+searchexcerpt: "The Digital Transformation Agency has delivered its first progress report on its Performance Dashboard platform after passing its beta assessment."
 feed: true
 ---
 
-![A phone, tablet and laptop showing the dashboard.]({{site.url}}{{site.baseurl}}/images/blog-content/dashboard-devicesx3.png)
-*A phone, tablet and laptop showing the dashboard.*
-
-The Digital Transformation Agency has delivered its first progress report on its Performance Dashboard platform after passing its beta assessment.
+![The Performance Dashboard running on multiple devices.]({{site.url}}{{site.baseurl}}/images/blog-content/dashboard-devicesx3.png)
+*Caption: The Performance Dashboard running on multiple devices.*
 
 Under the Digital Service Standard developed by the DTA last year, government agencies must now publicly report on the dashboard how their government services are performing once they've reached public beta phase.
 
