@@ -13,7 +13,7 @@ feed: true
 
 Under the Digital Service Standard developed by the DTA last year, government agencies must now publicly report on the dashboard how their government services are performing once they've reached public beta phase.
 
-DTA interim chief executive officer Nerida O’Loughlin said the dashboard itself had undergone a beta assessment to ensure it was meeting the standards.
+DTA interim chief executive officer Nerida O’Loughlin said the dashboard itself had undergone a [beta assessment](/standard/assessments/performance-dashboard-beta/) to ensure it was meeting the standards.
 
 “We built the Performance Dashboard for the sole purpose of giving government agencies somewhere to show the public how well their services are meeting user needs,” Ms O’Loughlin said.
 
