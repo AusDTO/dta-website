@@ -6,7 +6,7 @@ weight: 10
 ---
 <div class="design-and-delivery-discovery">
   <div class="youtube-embed">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/k3DNy06Ddvg" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/k3DNy06Ddvg?rel=0" frameborder="0" allowfullscreen></iframe>
     
     <details open data-label="content-accordion-1-example" aria-expanded="false">
         <summary><h2>Read transcript - What is discovery? - 3:53 min</h2></summary>

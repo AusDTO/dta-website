@@ -25,7 +25,7 @@ The myGov changes, set to roll out next year, will build on the improvements mad
 ## Watch the video
 
 <div class="youtube-embed">
-  <iframe width="100%" height="400" src="https://www.youtube.com/embed/GDWQ4ayr5D8" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="400" src="https://www.youtube.com/embed/GDWQ4ayr5D8?rel=0" frameborder="0" allowfullscreen></iframe>
   <details open data-label="content-accordion-1-example" aria-expanded="false">
     <summary><h3>Read transcript - 2:21 min</h3></summary>
     <div class="accordion-panel" markdown="1">

@@ -7,7 +7,7 @@ profile: "/images/david-hazlehurst-profile.jpg"
 read-time: 3
 category: blog
 ---
-<iframe allowfullscreen="" src="https://www.youtube.com/embed/SE79lT2pPbk" frameborder="0" height="315" width="516"></iframe>
+<iframe allowfullscreen="" src="https://www.youtube.com/embed/SE79lT2pPbk?rel=0" frameborder="0" height="315" width="516"></iframe>
 
 ## Transcript
 
