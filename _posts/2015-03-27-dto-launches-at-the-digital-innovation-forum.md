@@ -9,7 +9,7 @@ category: blog
 ---
 Communications Minister Malcolm Turnbull was recently joined by former White House CIO Vivek Kundra and a panel of experts to launch the DTO at the University of Technology Sydney.
 
-<iframe allowfullscreen="" src="https://www.youtube.com/embed/aIZ_Zqv7XoI" frameborder="0" height="315" width="560"></iframe>
+<iframe allowfullscreen="" src="https://www.youtube.com/embed/aIZ_Zqv7XoI?rel=0" frameborder="0" height="315" width="560"></iframe>
 
 **You may also be interested in:**
 

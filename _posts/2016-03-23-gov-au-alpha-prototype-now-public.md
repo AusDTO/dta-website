@@ -22,7 +22,7 @@ You can read about our [content model for GOV.AU](https://www.dto.gov.au/blog/go
 To show how a user would use GOV.AU we created a short story about Matt, a passionate cyclist, whose dream is to open his own bike shop. The information in the prototype is shaped around this storyline.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/0EcJGLiN6jE' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/0EcJGLiN6jE?rel=0' frameborder='0' allowfullscreen></iframe></div>
 
 [Watch the video on YouTube](https://youtu.be/0EcJGLiN6jE)
 
