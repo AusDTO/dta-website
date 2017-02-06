@@ -99,4 +99,28 @@
       counter-increment: item
     }
   }
+
+  table.financial {
+    th,
+    td {
+      max-width: 8em;
+      text-align: right;
+      &:first-child {
+        text-align: initial;
+      }
+    }
+
+    @include media($tablet) {
+      width: initial;
+      min-width: 38em;
+
+      th:first-child,
+      td:first-child {
+        max-width: 20em;
+      }
+      td:first-child[colspan] {
+        max-width: initial;
+      }
+    }
+  }
 }
