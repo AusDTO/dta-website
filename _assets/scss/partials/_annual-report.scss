@@ -1,37 +1,4 @@
-.annual-report-progress {
-  margin-top: $large-spacing;
-  border-top: solid 1px $light-grey;
-  max-width: 38em;
-  @include clearfix;
-  ul {
-    list-style: none;
-    margin-top: $small-spacing;
-    padding-left: 0;
-    li {
-      text-align: center;
-      a {
-        display: inline-block;
-        @include media($tablet) {
-          //max-width:16em;
-        }
-      }
-      div:first-child {
-        font-weight: bold;
-      }
-    }
-  }
-  @include media($tablet) {
-    .previous {
-      float: left;
-      width: 16em;
-    }
-    .next {
-      float: right;
-      width: 16em;
-    }
-  }
 
-}
 
 .annual-report {
   .boxed {

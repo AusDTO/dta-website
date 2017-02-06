@@ -15,5 +15,38 @@
   text-align: right;
   margin-top: $base-spacing;
   margin-bottom: $base-spacing;
-  max-width: 38rem;
+  max-width: 40rem;
+}
+
+.page-group-progress {
+  margin-top: $large-spacing;
+  border-top: solid 1px $light-grey;
+  max-width: 38em;
+
+  ul {
+    list-style: none;
+    margin-top: $small-spacing;
+    padding-left: 0;
+    li {
+      a {
+        //display: block;
+      }
+      a:first-child {
+        font-weight: bold;
+      }
+    }
+  }
+  @include media($tablet) {
+    .previous {
+      float: left;
+      max-width: 15em;
+      text-align: left;
+    }
+    .next {
+      float: right;
+      max-width: 15em;
+      text-align: right;
+    }
+  }
+  @include clearfix;
 }
