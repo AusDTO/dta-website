@@ -187,7 +187,7 @@ The DTO’s financial statements are presented in Part 4 of this annual report. 
 
 Tables 2 and 3 summarise the agency’s total resources and total expenses for the year.
 
-<table class="content-table com_tab_07_back" summary="Table 2 Resource statement">
+<table class="content-table financial" summary="Table 2 Resource statement">
  <caption><strong>Table 2</strong> Resource statement</caption>
     <colgroup>
     <col>
@@ -315,7 +315,7 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
 
 
 
-<table class="content-table" summary="Table 2 Resource statement">
+<table class="content-table financial" summary="Table 2 Resource statement">
  <caption><strong>Table 2</strong> Resource statement</caption><br/><br/>
     <colgroup>
     <col />
@@ -444,7 +444,7 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
   2. Includes an amount of $1.500 million in 2015–16 for the Departmental Capital Budget. For accounting purposes this amount has been designated as ‘contribution by owners’.
 
 
-<table class="content-table" summary="Expenses for Outcome 1">
+<table class="content-table financial" summary="Expenses for Outcome 1">
  <caption>  <strong>Table 3 </strong> Expenses for Outcome 1 </caption><br/><br/>
     <colgroup>
     <col />
