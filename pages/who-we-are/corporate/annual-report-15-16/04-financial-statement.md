@@ -1876,218 +1876,16 @@ Provision for the restoration of leased premises (makegood) is based on future o
 
 This section identifies the Digital Transformation Office funding structure.
 
-{% include hx.html lvl=4 text="3.1 Appropriations" %}
+{% include hx.html lvl=4 text="3.1 Appropriations" hide-back-to-top=1%}
 
-<table class="content-table financial" summary="Note 3.1A: Annual appropriations (‘recoverable GST exclusive’)">
-  <colgroup>
-  <col />
-  <col />
-  <col />
-  <col />
-  <col />
-  <col />
-  <col />
-  <col />
-  </colgroup>
-  <thead>
-    <tr>
-      <th colspan="8"><strong>Note 3.1A: Annual appropriations (‘recoverable GST exclusive’)</strong></th>
-    </tr>
-    <tr>
-      <th><strong>Annual Appropriations for 2016</strong></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-    </tr>
-    <tr>
-      <th></th>
-      <th colspan="2"><strong>Appropriation Act</strong></th>
-      <th colspan="2"><strong>PGPA Act</strong></th>
-      <th rowspan="2"><strong>Total <br />
-        appropriation</strong></th>
-      <th rowspan="2"><strong>Appropriation applied in 2016 (current and prior years)<sup>1</sup></strong></th>
-      <th></th>
-    </tr>
-    <tr>
-      <th></th>
-      <th><strong>Annual Appropriation</strong></th>
-      <th><strong>AFM</strong></th>
-      <th><strong>Section 74 receipts</strong></th>
-      <th><strong>Section 75 payments</strong></th>
-      <th><strong>Variance<sup>2</sup></strong></th>
-    </tr>
-    <tr>
-      <th></th>
-      <th><strong>$’000</strong></th>
-      <th><strong>$’000</strong></th>
-      <th><strong>$’000</strong></th>
-      <th><strong>$’000</strong></th>
-      <th><strong>$’000</strong></th>
-      <th><strong>$’000</strong></th>
-      <th><strong>$’000</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Departmental</strong></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ordinary annual services</td>
-      <td><strong>30,011</strong></td>
-      <td><strong>-</strong></td>
-      <td><strong>-</strong></td>
-      <td><strong>514</strong></td>
-      <td><strong>30,525</strong></td>
-      <td><strong>(20,715)</strong></td>
-      <td><strong>9,810</strong></td>
-    </tr>
-    <tr>
-      <td>Capital Budget<sup>3</sup></td>
-      <td><strong>1,500</strong></td>
-      <td><strong>-</strong></td>
-      <td><strong>-</strong></td>
-      <td><strong>-</strong></td>
-      <td><strong>1,500</strong></td>
-      <td><strong>(1,500)</strong></td>
-      <td><strong>-</strong></td>
-    </tr>
-    <tr>
-      <td>Other services</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Equity injections<sup>4</sup></td>
-      <td><strong>2,226</strong></td>
-      <td><strong>-</strong></td>
-      <td><strong>-</strong></td>
-      <td><strong>-</strong></td>
-      <td><strong>2,226</strong></td>
-      <td><strong>-</strong></td>
-      <td><strong>2,226</strong></td>
-    </tr>
-    <tr>
-      <td><strong>Total departmental</strong></td>
-      <td><strong>33,737</strong></td>
-      <td><strong>-</strong></td>
-      <td><strong>-</strong></td>
-      <td><strong>514</strong></td>
-      <td><strong>34,251</strong></td>
-      <td><strong>(22,215)</strong></td>
-      <td><strong>12,036</strong></td>
-    </tr>
-  </tbody>
-</table>
- <div class="notes indented">
-  <div markdown="1">
-   1. Shared Service Centre spends money from the Consolidated Revenue Fund (CRF) on behalf of DTO.
-   2. The variance in departmental ordinary annual services is mainly attributable to undrawn current year appropriations due a higher than expected accrued expense balance.
-   3. Departmental Capital Budgets are appropriated through Appropriation Acts (No. 1,3,5). They form part of ordinary annual services and are not separately identified in the Appropriation Acts.
-   4. The current year Equity injection is shown exclusive of the Section 51 Permanent Quarantine, which has reduced contributed equity by $2.226 million.
-   </div>
-  </div>
-  
-**Note 3.1B: Unspent annual appropriations (‘recoverable GST exclusive’)**
+[View the Appropriations tables on their own page](/who-we-are/corporate/annual-report/2015-16/4-financial-statements/appropriations-table/).
 
-<table class="content-table financial" summary="Note 3.1B: Unspent annual appropriations (‘recoverable GST exclusive’) ">
-  <colgroup>
-  <col />
-  <col />
-  </colgroup>
-  <thead>
-    <tr>
-      <th rowspan="2" />
-      <th><strong>2016</strong></th>
-    </tr>
-    <tr>
-      <th><strong>$’000</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Authority</strong></td>
-      <td />
-    </tr>
-    <tr>
-      <td><strong>Departmental<sup>1</sup></strong></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><em>Appropriation Act (No.1) 2015–16</em></td>
-      <td><strong>7,896</strong></td>
-    </tr>
-    <tr>
-      <td><em>Appropriation Act (No.1) 2015–16</em> - cash held by the department</td>
-      <td><strong>145</strong></td>
-    </tr>
-    <tr>
-      <td><em>Appropriation Act (No.3) 2015–16</em></td>
-      <td><strong>1,370</strong></td>
-    </tr>
-    <tr>
-      <td><em>Appropriation Act (No 2) 2015–16 </em>- Non Operating Equity Injection</td>
-      <td><strong>2,226</strong></td>
-    </tr>
-    <tr>
-      <td><em><strong>Total departmental</strong></em></td>
-      <td><strong>11,637</strong></td>
-    </tr>
-  </tbody>
-</table>
- <div class="notes indented">
-  <div markdown="1">
-   1 The current year Equity injection is shown exclusive of the Section 51 Permanent Quarantine, which has reduced contributed equity by $2.226 million.
-   </div>
-  </div>
-**Note 3.1C: Disclosure by agent in relation to annual and special appropriations (‘recoverable GST exclusive’)**
+<div class="visible-at-tablet" markdown="1">
 
-<table class="content-table financial" summary="Note 3.1C: Disclosure by agent in relation to annual and special appropriations (‘recoverable GST exclusive’)">
-  <colgroup>
-  <col />
-  <col />
-  </colgroup>
-  <thead>
-    <tr>
-      <th></th>
-      <th><strong>Shared Service Centre</strong><br><strong>2016</strong></th>
-    </tr>
-    <tr>
-      <th />
-      <th><strong>$’000</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Total receipts</td>
-      <td><strong>-</strong></td>
-    </tr>
-    <tr>
-      <td>Total payments</td>
-      <td><strong>22,215</strong></td>
-    </tr>
-  </tbody>
-</table>
- <div class="notes indented">
-  <div markdown="1">
-During 2015–16, the Shared Services Centre provided the DTO with Treasury services.
-  </div>
- </div>
+{% include annual-report/3.1-appropriations-tables.html %}
+
+</div>
+
 {% include hx.html lvl=4 text="3.2 Cash Flow Reconciliation" %}
 
 <table class="content-table financial" summary="&quot;&quot;">
@@ -2192,7 +1990,7 @@ During 2015–16, the Shared Services Centre provided the DTO with Treasury serv
 
 This section describes a range of employment and post employment benefits provided to our people and our relationships with other key people.
 
-{% include hx.html lvl=4 text="4.1 Employee Provisions" %}
+{% include hx.html lvl=4 text="4.1 Employee Provisions" hide-back-to-top=1 %}
 
 <table class="content-table financial" summary="&quot;&quot;">
   <colgroup>
@@ -2354,7 +2152,7 @@ During the year, the total number of senior management personnel that were utili
 
 This section analyses how the Digital Transformation Office manages financial risks within its operating environment.
 
-{% include hx.html lvl=4 text="5.1 Contingent Assets and Liabilities" %}
+{% include hx.html lvl=4 text="5.1 Contingent Assets and Liabilities" hide-back-to-top=1%}
 
 **Note 5.1A: Contingent assets and liabilities**
 
@@ -2523,9 +2321,9 @@ Fair value measurements at the end of the reporting period
    2 No revaluation has been performed in 2015–16 as all assets were transferred or purchased in the current year representing a proxy for fair value.
   </div>
  </div>
-{% include hx.html lvl=3 text="6. Other Information" %}
+{% include hx.html lvl=3 text="6. Other Information" hide-back-to-top=1 %}
 
-{% include hx.html lvl=4 text="6.1 Restructuring" %}
+{% include hx.html lvl=4 text="6.1 Restructuring" hide-back-to-top=1 %}
 
 **Note 6.1A: Departmental restructuring**
 
@@ -2628,6 +2426,6 @@ As part of the Administrative Arrangement Orders issued by the Government on 21 
   </tbody>
 </table>
 
-{% include hx.html lvl=4 text="6.2. Reporting of Outcomes" %}
+{% include hx.html lvl=4 text="6.2. Reporting of Outcomes" hide-back-to-top=1 %}
 
 As the Digital Transformation Office has one Outcome, the Reporting of Outcomes is disclosed in the Statement of Comprehensive Income and Statement of Financial Position.
