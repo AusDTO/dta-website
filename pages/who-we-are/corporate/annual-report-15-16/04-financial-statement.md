@@ -122,7 +122,7 @@ In our opinion, at the date of this statement, there are reasonable grounds to b
 {% include hx.html lvl=2 text="Statement of comprehensive income" %}
 for the period ended 30 June 2016
 
-<table class="content-table" summary="Digital Transformation Office Statement of comprehensive income for the period ended 30 June 2016">
+<table class="content-table financial" summary="Digital Transformation Office Statement of comprehensive income for the period ended 30 June 2016">
   <colgroup>
   <col />
   <col />
@@ -274,7 +274,7 @@ The above statement should be read in conjunction with the accompanying notes.
 {% include hx.html lvl=2 text="Statement of financial position" %}
 for the period ended 30 June 2016
 
-<table class="content-table" summary="Statement of financial position">
+<table class="content-table financial" summary="Statement of financial position">
   <colgroup>
   <col />
   <col />
@@ -479,7 +479,7 @@ The above statement should be read in conjunction with the accompanying notes.
 
 for the period ended 30 June 2016
 
-<table class="content-table" summary="Digital Transformation Office
+<table class="content-table financial" summary="Digital Transformation Office
 Statement of changes in equity
 
 for the period ended 30 June 2016">
@@ -636,7 +636,7 @@ The above statement should be read in conjunction with the accompanying notes.
 {% include hx.html lvl=2 text="Statement of changes in equity" %}
 for the period ended 30 June 2016
 
-<table class="content-table" summary="Digital Transformation Office
+<table class="content-table financial" summary="Digital Transformation Office
 Statement of changes in equity
 
 for the period ended 30 June 2016">
@@ -771,7 +771,7 @@ The above statement should be read in conjunction with the accompanying notes.
 {% include hx.html lvl=2 text="Cash flow statement" %}
 for the period ended 30 June 2016
 
-<table class="content-table" summary="Digital Transformation Office
+<table class="content-table financial" summary="Digital Transformation Office
 Cash flow statement
 
 for the period ended 30 June 2016">
@@ -1063,7 +1063,7 @@ This section analyses the financial performance of the Digital Transformation Of
 
 {% include hx.html lvl=4 text="1.1 Expenses" %}
 
-<table class="content-table" summary="1.1 Expenses">
+<table class="content-table financial" summary="1.1 Expenses">
   <colgroup>
   <col />
   <col />
@@ -1128,7 +1128,7 @@ This section analyses the financial performance of the Digital Transformation Of
 Accounting policies for employee related expenses is contained in the People and relationships section.
   </div>
  </div>
-<table class="content-table" summary="Digital Transformation Office
+<table class="content-table financial" summary="Digital Transformation Office
 Notes to and forming part of the financial statements
 
 for the period ended 30 June 2016">
@@ -1267,7 +1267,7 @@ A distinction is made between finance leases and operating leases. Finance lease
  </div>
 {% include hx.html lvl=4 text="1.2 Own-Source Revenue and Gains" %}
 
-<table class="content-table" summary="Note 1.2A: Resources received free of charge">
+<table class="content-table financial" summary="Note 1.2A: Resources received free of charge">
   <colgroup>
   <col />
   <col />
@@ -1306,7 +1306,7 @@ This section analyses the Digital Transformation Office’s assets used to gener
 
 {% include hx.html lvl=4 text="2.1 Financial Assets" %}
 
-<table class="content-table" summary="&quot;&quot;">
+<table class="content-table financial" summary="&quot;&quot;">
   <colgroup>
   <col />
   <col />
@@ -1427,7 +1427,7 @@ Receivables have been assessed for impairment and no allowance has been made as 
  </div>
 {% include hx.html lvl=4 text="2.2 Non-Financial Assets" %}
 
-<table class="content-table" summary="&quot;&quot;">
+<table class="content-table financial" summary="&quot;&quot;">
   <colgroup>
   <col />
   <col />
@@ -1583,7 +1583,7 @@ Amortisation rates apply to intangibles and are based of the useful life of 2 to
 
 Fair values for each class of asset are determined as shown below:
 
-<table class="content-table" summary="Revaluations">
+<table class="content-table financial" summary="Revaluations">
   <colgroup>
   <col />
   <col />
@@ -1614,7 +1614,7 @@ Depreciation rates (useful lives), residual values and methods are reviewed at e
 
 Depreciation rates applying to each class of depreciable asset are based on the following useful lives:
 
-<table class="content-table" summary="Depreciation rates applying to each class of depreciable asset are based on the following useful lives:">
+<table class="content-table financial" summary="Depreciation rates applying to each class of depreciable asset are based on the following useful lives:">
   <colgroup>
   <col />
   <col />
@@ -1652,7 +1652,7 @@ An item of property, plant and equipment is derecognised upon disposal or when n
  </div>
 {% include hx.html lvl=5 text="Prepayments" %} 
 
-<table class="content-table" summary="Note 2.2B: Prepayments">
+<table class="content-table financial" summary="Note 2.2B: Prepayments">
   <colgroup>
   <col />
   <col />
@@ -1705,7 +1705,7 @@ An item of property, plant and equipment is derecognised upon disposal or when n
 
 {% include hx.html lvl=3 text="2.3 Payables" %}
 
-<table class="content-table" summary="Note 2.3A: Suppliers">
+<table class="content-table financial" summary="Note 2.3A: Suppliers">
   <colgroup>
   <col />
   <col />
@@ -1756,7 +1756,7 @@ An item of property, plant and equipment is derecognised upon disposal or when n
 Settlement is usually made within 30 days.
   </div>
  </div>
-<table class="content-table" summary="Note 2.3B: Other payables">
+<table class="content-table financial" summary="Note 2.3B: Other payables">
   <colgroup>
   <col />
   <col />
@@ -1821,7 +1821,7 @@ Financial liabilities are recognised and derecognised upon ‘trade date’.
  </div>
 {% include hx.html lvl=4 text="2.4 Other Provisions" %}
 
-<table class="content-table" summary="Note 2.4A: Other provisions">
+<table class="content-table financial" summary="Note 2.4A: Other provisions">
   <colgroup>
   <col />
   <col />
@@ -1867,7 +1867,7 @@ Financial liabilities are recognised and derecognised upon ‘trade date’.
     </tr>
   </tbody>
 </table>
-<table class="content-table" summary="Make good Provision">
+<table class="content-table financial" summary="Make good Provision">
   <colgroup>
   <col />
   <col />
@@ -1933,7 +1933,7 @@ This section identifies the Digital Transformation Office funding structure.
 
 {% include hx.html lvl=4 text="3.1 Appropriations" %}
 
-<table class="content-table" summary="Note 3.1A: Annual appropriations (‘recoverable GST exclusive’)">
+<table class="content-table financial" summary="Note 3.1A: Annual appropriations (‘recoverable GST exclusive’)">
   <colgroup>
   <col />
   <col />
@@ -2060,7 +2060,7 @@ This section identifies the Digital Transformation Office funding structure.
   
 **Note 3.1B: Unspent annual appropriations (‘recoverable GST exclusive’)**
 
-<table class="content-table" summary="Note 3.1B: Unspent annual appropriations (‘recoverable GST exclusive’) ">
+<table class="content-table financial" summary="Note 3.1B: Unspent annual appropriations (‘recoverable GST exclusive’) ">
   <colgroup>
   <col />
   <col />
@@ -2112,7 +2112,7 @@ This section identifies the Digital Transformation Office funding structure.
   </div>
 **Note 3.1C: Disclosure by agent in relation to annual and special appropriations (‘recoverable GST exclusive’)**
 
-<table class="content-table" summary="Note 3.1C: Disclosure by agent in relation to annual and special appropriations (‘recoverable GST exclusive’)">
+<table class="content-table financial" summary="Note 3.1C: Disclosure by agent in relation to annual and special appropriations (‘recoverable GST exclusive’)">
   <colgroup>
   <col />
   <col />
@@ -2145,7 +2145,7 @@ During 2015–16, the Shared Services Centre provided the DTO with Treasury serv
  </div>
 {% include hx.html lvl=4 text="3.2 Cash Flow Reconciliation" %}
 
-<table class="content-table" summary="&quot;&quot;">
+<table class="content-table financial" summary="&quot;&quot;">
   <colgroup>
   <col />
   <col />
@@ -2249,7 +2249,7 @@ This section describes a range of employment and post employment benefits provid
 
 {% include hx.html lvl=4 text="4.1 Employee Provisions" %}
 
-<table class="content-table" summary="&quot;&quot;">
+<table class="content-table financial" summary="&quot;&quot;">
   <colgroup>
   <col />
   <col />
@@ -2322,7 +2322,7 @@ The liability for superannuation recognised as at 30 June represents outstanding
  </div>
 {% include hx.html lvl=4 text="4.2 Senior Management Personnel Remuneration" %}
 
-<table class="content-table" summary="&quot;&quot;">
+<table class="content-table financial" summary="&quot;&quot;">
   <colgroup>
   <col />
   <col />
@@ -2420,7 +2420,7 @@ Contingent liabilities and contingent assets are not recognised in the Statement
 
 {% include hx.html lvl=4 text="5.2 Financial Instruments" %}
 
-<table class="content-table" summary="Note 5.2A: Categories of financial instruments">
+<table class="content-table financial" summary="Note 5.2A: Categories of financial instruments">
   <colgroup>
   <col />
   <col />
@@ -2522,7 +2522,7 @@ Level 3: Inputs for the asset or liability that are not based on observable mark
 **Note 5.3A: Fair value measurements, valuation techniques and inputs used**
 
 Fair value measurements at the end of the reporting period	
-<table class="content-table" summary="&quot;&quot;">
+<table class="content-table financial" summary="&quot;&quot;">
   <colgroup>
   <col />
   <col />
@@ -2592,7 +2592,7 @@ During 2015/16, PM&C relinquished $0.989 million in plant and equipment to assis
 
 As part of the Administrative Arrangement Orders issued by the Government on 21 September 2015, the Gov 2.0 function (and associated assets and liabilities) was transferred from the Department of Finance.
 
-<table class="content-table" summary="Note 6.1A: Departmental restructuring">
+<table class="content-table financial" summary="Note 6.1A: Departmental restructuring">
   <colgroup>
   <col />
   <col />
