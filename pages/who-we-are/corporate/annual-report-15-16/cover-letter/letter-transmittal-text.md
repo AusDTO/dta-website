@@ -1,8 +1,8 @@
 ---
 title: Full text description of the letter of transmittal
-layout: basic
+layout: annual-report
 permalink: /who-we-are/corporate/annual-report/2015-16/cover-letter/letter-of-transmittal/
-localnav: annual-report
+localnav: annual-report-2015-16
 gov-speak: true
 searchexcerpt: Full text description of the Annual Report 2015-16 cover letter of transmittal.
 ---

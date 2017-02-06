@@ -1,10 +1,10 @@
 ---
 title: Full text description of the independent auditor's report
-layout: basic
+layout: annual-report
 permalink: /who-we-are/corporate/annual-report/2015-16/4-financial-statements/auditors-report/
-localnav: annual-report
+localnav: annual-report-2015-16
 gov-speak: true
-searchexcerpt: Full text description of the Annual Report 2015-16 iIdependent .
+searchexcerpt: Full text description of the Annual Report 2015-16 indepenent auditor's report.
 
 ---
 

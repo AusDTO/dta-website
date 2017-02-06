@@ -40,6 +40,6 @@ Printing by New Millennium Print
 
 {% include hx.html lvl=2 text="Letter of transmittal" %}
 
-[Read the full text version of the letter of transmittal](/who-we-are/corporate/annual-report/2015-16/cover-letter/letter-of-transmittal/)
+[Read the full text version of the letter of transmittal](/who-we-are/corporate/annual-report/2015-16/cover-letter/letter-of-transmittal/).
 
 ![Scanned letter of transmittal]({% asset_path LOT_-_Word %})
