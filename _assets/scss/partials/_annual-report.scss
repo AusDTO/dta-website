@@ -123,4 +123,12 @@
       }
     }
   }
+
+  .visible-at-tablet {
+    display: none;
+    @include media($tablet) {
+      display: initial;
+    }
+  }
+
 }
