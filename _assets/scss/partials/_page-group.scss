@@ -28,9 +28,6 @@
     margin-top: $small-spacing;
     padding-left: 0;
     li {
-      a {
-        //display: block;
-      }
       a:first-child {
         font-weight: bold;
       }
@@ -39,13 +36,18 @@
   @include media($tablet) {
     .previous {
       float: left;
-      max-width: 15em;
+      max-width: 13em;
       text-align: left;
     }
     .next {
       float: right;
-      max-width: 15em;
+      max-width: 13em;
       text-align: right;
+    }
+  }
+  @include media($desktop) {
+    .previous, .next {
+      max-width: 15em;
     }
   }
   @include clearfix;
