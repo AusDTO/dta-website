@@ -9,7 +9,7 @@ searchexcerpt: Full text description of the Government Digital Transformation Ro
 
 ![Thumbnail of the Government Digital Transformation Roadmap](/images/transformation-agenda/roadmap-thumbnail.png)
 
-[< Back to digital transformation agenda](/what-we-do/transformation-agenda/#government-digital-transformation-roadmap)
+[&larr; Back to digital transformation agenda](/what-we-do/transformation-agenda/#government-digital-transformation-roadmap)
 
 ## Digital Transformation Agenda
 
@@ -158,4 +158,4 @@ The following elements of the Program Management Strategy:
 
 <hr />
 
-[< Back to digital transformation agenda](/what-we-do/transformation-agenda/#government-digital-transformation-roadmap)
+[&larr; Back to digital transformation agenda](/what-we-do/transformation-agenda/#government-digital-transformation-roadmap)

@@ -39,8 +39,8 @@ searchexcerpt: "It will be simple and fast to get things done with government, t
       </a>
     </li>
     <li>
-      <a href="#related-news">
-        Related news
+      <a href="#related-news-and-blog-posts">
+        Related news and blog posts
       </a>
     </li>
   </ul>
@@ -136,22 +136,17 @@ Having problems seeing this image? [Open larger roadmap image]({{site.baseurl}}/
 
 [Read the full text version of this roadmap]({{site.baseurl}}/what-we-do/transformation-agenda/roadmap-text/).
 
-## Related news
+## Related news and blog posts
 
 <ul class="list-vertical--thirds latest-news">
-{% assign news = site.empty-array %}
-{% for post in site.posts %}
-  {% if post.categories contains 'news' %}
-    {% if post.tags contains 'digital transformation' %}
-      {% assign news = news | push: post %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
-        
-{% for post in news %}
-      
-  <li>
-    <figure>
+
+{% for tag in site.tags %}
+  {% assign t = tag | first %}
+  {% if t == 'digital transformation' %}
+    {% assign posts = tag | last %}
+    {% for post in posts limit:3 %}
+    <li>
+      <figure>
         {% if post.thumbnail %}
         <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ site.baseurl }}{{ post.thumbnail }}" alt="Read post {{ post.title }}"></a>
         {% else %}
@@ -171,10 +166,11 @@ Having problems seeing this image? [Open larger roadmap image]({{site.baseurl}}/
           {% endif %}
         </div>
       </article>
-  </li>
-            
-            
+    </li>
+    {% endfor %}
+  {% endif %}
 {% endfor %}
+
 </ul>
 
 </div>

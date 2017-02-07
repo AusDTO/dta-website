@@ -86,9 +86,10 @@ This must be done on the command line:
 * `cd dta-website`
 * `git remote add private git@github.com:AusDTO/dta-website-private.git`
 * `git fetch private`
-* `git checkout -b private/branchname`
-* `git rebase -i private/develop` # squash any commits if required
-* `git push origin`
+* `git checkout private/branchname`
+* `git checkout -b branchname`
+* `git rebase -i origin/develop` # squash any commits if required
+* `git push origin` # pushes the branch to the public repository
 
 The branch can now be worked on in the [public repository](https://github.com/AusDTO/dta-website) and merged via a PR to `develop` as normal.
 
