@@ -1528,7 +1528,7 @@ Amortisation rates apply to intangibles and are based of the useful life of 2 to
 
 Fair values for each class of asset are determined as shown below:
 
-<table class="content-table financial" summary="Revaluations">
+<table class="content-table" summary="Revaluations">
   <colgroup>
   <col />
   <col />
@@ -1559,7 +1559,7 @@ Depreciation rates (useful lives), residual values and methods are reviewed at e
 
 Depreciation rates applying to each class of depreciable asset are based on the following useful lives:
 
-<table class="content-table financial" summary="Depreciation rates applying to each class of depreciable asset are based on the following useful lives:">
+<table class="content-table" summary="Depreciation rates applying to each class of depreciable asset are based on the following useful lives:">
   <colgroup>
   <col />
   <col />
