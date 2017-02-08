@@ -176,46 +176,14 @@ The DTO does not administer any legislation.
 
 {% include hx.html lvl=3 text="Organisational structure" %}
 
-  The structure of the agency at 30 June 2016 is shown in Figure 1.
+The structure of the agency at 30 June 2016 is shown in Figure 1.
 
-  ![Image of DTO Organisation Chart]({% asset_path org-chart %})
-  
-  **Figure 1** Structure at 30 June 2016
-  
-<details open data-label="content-accordion-1-example" aria-expanded="false">
-  <summary><h4>Read the full text version of Figure 1</h4></summary>
-  <div class="accordion-panel" markdown="1">
-  
-Chief Executive Officer<br>
-Paul Shetler
+[Read the full text version of Figure 1 the DTO organisational structure]({{site.baseurl}}/who-we-are/corporate/annual-report/2015-16/1-introduction/organisational-structure/).
 
-Head of the Office of the Chief Executive  Officer<br>
-Daniel Searle
-
-Head of Business Operations/Chief Operating  Officer<br>
-Deborah Lewis
-
-Head of Delivery<br>
-Dan Pulham
-
-Head of Digital  Partnerships<br>
-Jose Del  Rio
-
-Head of Identity<br>
-Rachel Dixon
-
-Head of Strategy and Engagement<br>
-Maria MacNamara
-
-Head of Digital  Marketplace<br>
-Catherine Thompson
-
-Head of GOV.AU<br>
-Radi Kovacevic (acting)
-
-</div>
-
-</details>
+<figure>
+  <img src="{% asset_path org-chart %}" alt="Figure 1 DTO organisational chart, see above for link to full text description">
+  <figcaption><strong>Figure 1</strong> Structure at 30 June 2016</figcaption>
+</figure>
 
 {% include hx.html lvl=3 text="Executive management" %}
 

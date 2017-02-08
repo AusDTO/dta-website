@@ -5,7 +5,6 @@ permalink: /who-we-are/corporate/annual-report/2015-16/4-financial-statements/au
 localnav: annual-report-2015-16
 gov-speak: true
 searchexcerpt: Full text description of the Annual Report 2015-16 indepenent auditor's report.
-
 ---
 
 [&larr; Back to Annual Report 2015-16 financial statements](/who-we-are/corporate/annual-report/2015-16/4-financial-statements/#independent-auditors-report)
