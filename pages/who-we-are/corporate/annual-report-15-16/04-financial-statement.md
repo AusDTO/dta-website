@@ -1880,9 +1880,9 @@ This section identifies the Digital Transformation Office funding structure.
 
 [View the Appropriations tables on their own page](/who-we-are/corporate/annual-report/2015-16/4-financial-statements/appropriations-table/).
 
-<div class="visible-at-tablet" markdown="1">
+<div class="visible-at-tablet" markdown="1" head>
 
-{% include annual-report/3.1-appropriations-tables.html %}
+{% include annual-report/3.1-appropriations-tables.html heading_level=5%}
 
 </div>
 
