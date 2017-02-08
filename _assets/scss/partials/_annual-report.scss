@@ -1,5 +1,3 @@
-
-
 .annual-report {
   .boxed {
     max-width: 36em;
@@ -67,26 +65,38 @@
     }
   }
 
-  table.financial {
-    th,
-    td {
-      max-width: 8em;
-      text-align: right;
-      &:first-child {
-        text-align: initial;
-      }
+  table {
+    // The default agent sheet styles `<th>` as bold, however for an accessibile table, `<th>` can appear throughout
+    //`<tbody>`. For the annual report we override this, and instead use `<strong>` where necessary.
+    //Possibly this should be overridden globally in ui-kit.
+    thead th {
+      font-weight: bold;
+    }
+    tbody th {
+      font-weight: normal;
     }
 
-    @include media($tablet) {
-      width: initial;
-      min-width: 38em;
-
-      th:first-child,
-      td:first-child {
-        max-width: 20em;
+    .financial {
+      th,
+      td {
+        max-width: 8em;
+        text-align: right;
+        &:first-child {
+          text-align: initial;
+        }
       }
-      td:first-child[colspan] {
-        max-width: initial;
+
+      @include media($tablet) {
+        width: initial;
+        min-width: 38em;
+
+        th:first-child,
+        td:first-child {
+          max-width: 20em;
+        }
+        td:first-child[colspan] {
+          max-width: initial;
+        }
       }
     }
   }
@@ -97,5 +107,4 @@
       display: initial;
     }
   }
-
 }
