@@ -3,14 +3,15 @@ title: "Creating good content"
 category: blog
 tags: ['digital transformation']
 author: Libby Varcoe and Darren Menachemson
-author-excerpt: "Libby Varcoe is Content Community Lead at the Digital Transformation Agency
-Darren Menachemson is a Partner at ThinkPlace"
-thumbnail: /images/blog-thumbnails/Content-Design-Meet-Up-Thumb.jpg
+author-excerpt: "Libby Varcoe is Content Community Lead at the Digital Transformation Agency <br> Darren Menachemson is a Partner at ThinkPlace"
+thumbnail: /images/blog-thumbnails/Content-Design-Meet-Up-Thumb-1.jpg
 hero-image: /images/blog-content/Content-Design-Meet-Up-Hero.jpg
-searchexcerpt: "Government has a complicated relationship with content. We publish too much, information can be hard to understand, and users often find it hard to work out what we are asking them to do. Research shows that 50% of users of government services experience difficulty finding information online. Of those, 24% resort to making a telephone call.* This is despite the hard work that many Australian public servant content and web teams do on a daily basis.
+searchexcerpt: "Government has a complicated relationship with content. We publish too much, information can be hard to understand, and users often find it hard to work out what we are asking them to do. Research shows that 50% of users of government services experience difficulty finding information online. Of those, 24% resort to making a telephone call.* This is despite the hard work that many Australian public servant content and web teams do on a daily basis."
+---
 
-![ThinkPlace Director Darren Menachemson presenting government content research findings.](/images/blog-content/Content-Design-Meet-Up-Hero.jpg)
-*ThinkPlace Director Darren Menachemson presenting government content research findings at a content meet-up --- hosted by the DTA last year*
+![ThinkPlace Director Darren Menachemson presenting government content research findings.]({{site.url}}{{site.baseurl}}{{page.hero-image}})
+
+*Caption: ThinkPlace Director Darren Menachemson presenting government content research findings at a content meet-up --- hosted by the DTA last year*
 
 ## New research, new insights
 
@@ -60,7 +61,7 @@ The research returned many findings beyond the highlights we’ve mentioned. One
 
 ## Join the content design in government community
 
-The DTA has a community of practice for government people working in content. We hold meetups, events and share information and ideas. Please email content@digital.gov.au to join this community and for a copy of this research report. 
+The DTA has a community of practice for government people working in content. We hold meetups, events and share information and ideas. Please email mailto:content@digital.gov.au to join this community and for a copy of this research report. 
 
 
-*(KPMG study: 2015 Digital Ease of Use Index).
+*KPMG study: 2015 Digital Ease of Use Index.
