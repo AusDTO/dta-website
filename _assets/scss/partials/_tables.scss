@@ -3,6 +3,12 @@
     //Force table to not be like a table anymore
     table, thead, tbody, th, td, tr {
       display: block;
+      width:100%;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+      float:left;
+      clear:left;
     }
 
     //Hide table headers (but not display: none;, for accessibility)
