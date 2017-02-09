@@ -61,7 +61,7 @@ The research returned many findings beyond the highlights we’ve mentioned. One
 
 ## Join the content design in government community
 
-The DTA has a community of practice for government people working in content. We hold meetups, events and share information and ideas. Please email mailto:content@digital.gov.au to join this community and for a copy of this research report. 
+The DTA has a community of practice for government people working in content. We hold meetups, events and share information and ideas. Please email [content@digital.gov.au](mailto:content@digital.gov.au) to join this community and for a copy of this research report. 
 
 
 *KPMG study: 2015 Digital Ease of Use Index.
