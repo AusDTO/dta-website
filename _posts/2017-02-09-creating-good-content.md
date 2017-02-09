@@ -5,13 +5,12 @@ tags: ['digital transformation']
 author: Libby Varcoe and Darren Menachemson
 author-excerpt: "Libby Varcoe is Content Community Lead at the Digital Transformation Agency
 Darren Menachemson is a Partner at ThinkPlace"
-thumbnail: /images/blog-thumbnails/Dashboard-blog-thumb-image.jpg
-hero-image: /images/blog-content/Dashboard-blog-hero-image.jpg
-searchexcerpt: "Government has a complicated relationship with content. We publish too much, information can be hard to understand, and users often find it hard to work out what we are asking them to do. Research shows that 50% of users of government services experience difficulty finding information online. Of those, 24% resort to making a telephone call.* This is despite the hard work that many Australian public servant content and web teams do on a daily basis".
----
+thumbnail: /images/blog-thumbnails/Content-Design-Meet-Up-Thumb.jpg
+hero-image: /images/blog-content/Content-Design-Meet-Up-Hero.jpg
+searchexcerpt: "Government has a complicated relationship with content. We publish too much, information can be hard to understand, and users often find it hard to work out what we are asking them to do. Research shows that 50% of users of government services experience difficulty finding information online. Of those, 24% resort to making a telephone call.* This is despite the hard work that many Australian public servant content and web teams do on a daily basis.
 
-![James Broadbent, Performance Dashboard Business Analyst and Engagement Lead discussing the dashboard.]({{site.url}}{{site.baseurl}}/images/blog-content/Dashboard-blog-hero-image.jpg)
-*Caption: James Broadbent, Performance Dashboard Business Analyst and Engagement Lead discussing the dashboard.*
+![ThinkPlace Director Darren Menachemson presenting government content research findings.](/images/blog-content/Content-Design-Meet-Up-Hero.jpg)
+*ThinkPlace Director Darren Menachemson presenting government content research findings at a content meet-up --- hosted by the DTA last year*
 
 ## New research, new insights
 
@@ -25,11 +24,11 @@ Here are the key findings.
 
 ## Things go well ‘downstream’ if they are understood well ‘upstream’ 
 
-The research showed that content is at its best when its purpose is understood. This involves conversation and collaboration between the content/web team and all stakeholders — not at the middle or end of the project, but at the very beginning of the content’s lifecycle. 
+The research showed that content is at its best when its purpose is understood. This involves conversation and collaboration between the content/web team and all stakeholders --- not at the middle or end of the project, but at the very beginning of the content’s lifecycle. 
 
 When ‘the intent’ of a new or changing piece of content, its user outcome, its fit and alignment with other content and with the rest of the site, are all agreed and well understood by all stakeholders, the quality of the ultimate output and results are improved.
 
-It’s a case of spending a bit more time upfront to save time downstream — and for a better result.
+It’s a case of spending a bit more time upfront to save time downstream --- and for a better result.
 
 ## Usability often gets overlooked in the rush
 
