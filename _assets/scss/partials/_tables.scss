@@ -32,7 +32,7 @@
       top: $tiny-spacing;
       left: $tiny-spacing;
       width: 25%;
-      padding-right: 10px;
+      padding-right: $tiny-spacing;
       white-space: nowrap;
       content: attr(data-label);
       font-weight: bold;
