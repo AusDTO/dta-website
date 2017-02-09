@@ -66,6 +66,10 @@
   }
 
   table {
+    td {
+      vertical-align: top;
+    }
+
     // The default agent sheet styles `<th>` as bold, however for an accessibile table, `<th>` can appear throughout
     //`<tbody>`. For the annual report we override this, and instead use `<strong>` where necessary.
     //Possibly this should be overridden globally in ui-kit.
