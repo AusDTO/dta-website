@@ -131,7 +131,7 @@ The key performance indicators (KPIs) for 2015–16 were defined when the DTO co
     </thead>
     <tbody>
       <tr>
-        <td data-label="KPI">Improved levels of public satisfaction with the government services as measured by a public digital dashboard</td>
+        <td data-label="KPI-1">Improved levels of public satisfaction with the government services as measured by a public digital dashboard</td>
         <td data-label="Target">Positive change in stakeholder feedback</td>
         <td data-label="Action">The DTO conducted research to establish a baseline for user satisfaction, and published a summary of the results at www.dto.gov.au/blog/how-do-australians-really-feel-about-digital-government-services/.</td>
         <td data-label="Comment">The DTO has released the alpha of the Performance Dashboard, which reports on user satisfaction of government services.<br />
@@ -139,7 +139,7 @@ The key performance indicators (KPIs) for 2015–16 were defined when the DTO co
           The first tranche of service dashboards have been released.</td>
       </tr>
       <tr>
-        <td data-label="KPI">Increased use of common ICT platforms across government, with a resulting decline in entities developing systems for their individual use</td>
+        <td data-label="KPI-2">Increased use of common ICT platforms across government, with a resulting decline in entities developing systems for their individual use</td>
         <td data-label="Target">Number of agencies using common ICT platforms has increased</td>
         <td data-label="Action">An Australian Government moratorium prevents Commonwealth entities from investing in new, or duplicating, service delivery capability. This helps to limit the fragmenting of users’ experiences across government. <br />
           <br />
@@ -149,13 +149,13 @@ The key performance indicators (KPIs) for 2015–16 were defined when the DTO co
           The DTO is working with the Department of Finance to ensure that whole-of-government service delivery platforms are considered by agencies in their development of business cases under the ICT Investment Approval Process.</td>
       </tr>
       <tr>
-        <td data-label="KPI">Entities meeting the timeframes for digitising services specified in the Digital Transformation Plans</td>
+        <td data-label="KPI-3">Entities meeting the timeframes for digitising services specified in the Digital Transformation Plans</td>
         <td data-label="Target">90% of entities are on schedule to meet the requirement of each Digital Transformation Plan</td>
         <td data-label="Action">The DTO worked with Commonwealth entities to develop Digital Transformation Plans for the key service agencies, including the departments of Human Services and Immigration and Border Protection, and the Australian Taxation Office. </td>
         <td data-label="Comment">The publication of plans was delayed due to the election in July 2016.</td>
       </tr>
       <tr>
-        <td data-label="KPI">Entities adhering to the Digital Service Standard when designing new services or redesigning existing services</td>
+        <td data-label="KPI-4">Entities adhering to the Digital Service Standard when designing new services or redesigning existing services</td>
         <td data-label="Target">80% of agencies adhering to the Digital Service Standard for new services</td>
         <td data-label="Action">Since the release of the Digital Service Standard in May 2016, many Commonwealth entities have undertaken redesign or development of services in line with the standard. They include the DTO and the departments of Industry, Innovation and Science; Immigration and Border Protection; and Human Services.<br />
           <br />
