@@ -1,0 +1,372 @@
+---
+layout: basic
+title: "Corporate plan 2017–20"
+permalink: /who-we-are/corporate/plan/
+redirect_from: /corporate-plan/
+gov-speak: true
+localnav: who-we-are
+---
+
+<div class="corporate-plan-container" markdown="1">
+
+<nav class="index-links">
+  <h2>On this page</h2>
+  <ul>
+    <li><a href="#message-from-our-ceo">Message from our CEO</a></li>
+    <li><a href="#dtas-purpose-and-role">DTA's purpose and role</a></li>
+    <li><a href="#capability">Capability</a></li>
+    <li><a href="#operating-environment">Operating environment</a></li>
+    <li><a href="#strategic-priorities">Strategic priorities</a></li>
+    <li><a href="#managing-and-overseeing-risk">Managing and overseeing risk</a></li>
+    <li><a href="#compliance">Compliance</a></li>
+  </ul>
+</nav>
+
+{% include hx.html lvl=2 text="Message from our CEO" hide-back-to-top=1 %}
+
+As the accountable authority of the Digital Transformation Agency, I am pleased to present our 2017–18 corporate plan, which covers the periods of 2017–18 to 2020–21, as required under paragraph 35 (1)(b) of the *Public Governance, Performance and Accountability Act 2013.*
+
+This plan includes our purposes, activities and what we want to achieve for the next four years.
+
+I am committed to ensuring that the DTA is fully effective and trusted in carrying out our role. This plan will help equip us in strengthening our remit to successfully lead transformation across government and have central oversight of the government’s ICT agenda.
+
+Nerida O’Loughlin\\
+Interim Chief Executive
+
+<ul class="list-vertical corporate-plan-callout">
+  <li>
+    <article>
+      <h2 class="title">Our vision</h2>
+      <div class="content">Government services are transformed to better meet user needs.</div>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2 class="title">Our mission</h2>
+      <div class="content">We partner with departments and agencies to transform government services. We inspire, 
+      demonstrate, enable and assure successful service transformation.</div>
+    </article>
+  </li>
+</ul>
+
+{% include hx.html lvl=2 text="DTA's purpose and role" insert-hr=1 %}
+
+We constantly refresh and build upon our knowledge so we can lead and guide.
+
+Over the next four years we will work *with* departments and agencies, not independently of them, to develop solutions together, which can then be shared across the rest of government.
+
+This collaborative approach also helps us transfer skills and expertise, ideas and experience, and connects government to government, building greater capability across the Australian Public Service.
+
+We bring to our role a unique set of capabilities. We are focused on user-centred design, use agile methodologies, have strong technology skills as well as assurance capabilities.
+
+We are not responsible for every ICT and digital project underway in government. But we can help departments and agencies who are accountable to create and deliver their products effectively.
+
+{% include hx.html lvl=3 text="Our purpose statement" hide-back-to-top=1 %}
+
+> Over the next four years our clear mandate is to drive user-centered service delivery and improve transparency of the benefits, costs and risks 
+of ICT and digital investments made across the Australian Government
+
+{% include hx.html lvl=3 text="Our role" hide-back-to-top=1 %}
+
+{% include hx.html lvl=4 text="We will inspire" hide-back-to-top=1 %}
+
+<ul class="list-vertical--thirds">
+  <li><span>Set the vision and strategy for ICT and digital across government.</span></li>
+  <li><span>Push technology and design boundaries to deliver user-centred solutions to difficult problems.</span></li>
+  <li><span>Identify and demonstrate opportunities for ICT and digital transformation.</span></li>
+  <li><span>Show that users can be the centre of government services.</span></li>
+  <li><span>Advocate for new ideas, fresh thinking and better practice across government and with industry.</span></li>
+</ul>
+
+{% include hx.html lvl=4 text="We will enable" hide-back-to-top=1 %}
+
+<ul class="list-vertical--thirds">
+  <li><span>Build expertise in government in ICT and digital, user-centred design, procurement, delivery and assurance.</span></li>
+  <li><span>Establish specialist teams in the DTA or embedded with our partners.</span></li>
+  <li><span>Coordinate activity across government to make the most of investment and deliver better services.</span></li>
+  <li><span>Set frameworks and create standards that reflect international best practice.</span></li>
+  <li><span>Develop and/or support the development of whole-of-government platforms that can be used by many.</span></li>
+  <li><span>Establish governance for operations across government.</span></li>
+  <li><span>Identify and work to remove barriers to whole-of-government digital transformation and collaboration.</span></li>
+</ul>
+
+{% include hx.html lvl=4 text="We will assure" hide-back-to-top=1 %}
+
+<ul class="list-vertical--thirds">
+  <li><span>Establish a program management office which oversees all significant ICT and digital investments and provide advice to government on its collective investments, risks and future priorities.</span></li>
+  <li><span>Monitor and implement the Digital Service Standard and other relevant standards and government policies.</span></li>
+  <li><span>Create and implement a benefits realisation and management framework.</span></li>
+  <li><span>Optimise benefits from the government’s ICT investment portfolio.</span></li>
+  <li><span>Establish appropriate governance of the whole-of-government ICT and digital landscape.</span></li>
+  <li><span>Optimise financial, operational and risk management.</span></li>
+  <li><span>Monitor and report to government on work programs, expenditure and risk.</span></li>
+  <li><span>Track workforce and agency ICT and digital capability maturity.</span></li>
+</ul>
+
+{% include hx.html lvl=2 text="Capability" insert-hr=1 %}
+
+A skilled, motivated and flexible workforce is required to achieve our purpose. Over the period of the plan, our people strategy will identify and address future gaps in capability through workforce planning, leadership development and capability development.
+
+In addition to our own capability development,the Australian Public Service will need to build new ICT and digital capabilities to transform government services.
+
+New skills need to be future-proof and cater to users accessing government information and services through different channels.
+
+A contemporary skills set is user-centred and follows an agile approach teamed with fit-for-purpose technology capabilities.
+
+These will need to be embedded across government, at all levels.
+
+{% include hx.html lvl=3 text="Our culture and values" insert-hr=1 %}
+
+We support staff to build their capabilities. We encourage staff to work towards their career goals while ensuring we continue to support the government now and into the future. 
+
+{% include hx.html lvl=4 text="As Australian public servants" hide-back-to-top=1 %}
+
+We follow the Australian Public Service's ICARE values.
+
+{% include hx.html lvl=5 text="Impartial" hide-back-to-top=1 %}
+
+We are apolitical and provide the government with advice that is frank, honest, timely and based on the best available 
+evidence.
+
+{% include hx.html lvl=5 text="Committed to service" hide-back-to-top=1 %}
+    
+We are professional, objective, innovative and efficient, and work collaboratively to achieve the best results for the 
+Australian community and the government.
+
+{% include hx.html lvl=5 text="Accountable" hide-back-to-top=1 %}
+
+We are open and accountable to the Australian community under the law and within the framework of ministerial responsibility.
+
+{% include hx.html lvl=5 text="Respectful" hide-back-to-top=1 %}
+
+We respect all people, including their rights and their heritage.
+
+{% include hx.html lvl=5 text="Ethical" hide-back-to-top=1 %}
+
+We demonstrate leadership, are trustworthy, and act with integrity, in all that we do.
+
+{% include hx.html lvl=3 text="Our people" hide-back-to-top=1 %}
+
+- We are collaborative, consultative and committed to common success
+- We provide expert advice and work in partnership to deliver strategic, creative and future-focused products,  policy and services
+- We are optimistic, pro-active and resilient in finding ways to innovate
+- We seek to understand our users and our partners, their ambitions, constraints and capabilities
+
+{% include hx.html lvl=2 text="Operating environment" insert-hr=1 %} 
+
+The DTA's strategic priorities will be driven by three trends in our operating environment over the next four years.
+
+{% include hx.html lvl=3 text="User expectations" hide-back-to-top=1 %}
+
+People need government services to be as easy to access, simple to use and available as services provided by the private sector.
+
+They want the flexibility to access services through their choice of channels and not be told that they can't.
+
+These expectations are increasing as the quality gap between government and non-government services widens. This needs to be met.
+
+{% include hx.html lvl=3 text="Efficient government investment" hide-back-to-top=1 %}
+
+In 2015–16, non-corporate government agencies invested more than $6 billion in ICT. There are potential efficiencies from a more coordinated and collaborative approach to investment.
+
+There is also potential to build platforms that can be reused by others providing greater leverage of government funding.
+
+More coordinated and strategic oversight will improve risk identification and mitigation and ensure products deliver real benefits.
+
+{% include hx.html lvl=3 text="Service and technology innovation" hide-back-to-top=1 %}
+
+The current complexity of policy and regulation directly impacts on service delivery and innovation.
+
+Designing services that reflect user needs, and apply smart, efficient technologies, should be as much of a focus for government as it is for the non-government sector.
+
+By applying new ways of design thinking with technological innovation, previously unsolvable problems can be addressed.
+
+Building services that reflect real life events, not government structures will require strong collaboration but will better meet user needs.
+
+Better data collection and analytics will also help design and create better services.
+
+{% include hx.html lvl=3 text="The digital transformation agenda" hide-back-to-top=1 %}
+
+The government’s vision for digital transformation starts with user needs — that it will be simple and fast to get things done with government, through any channel. The government has developed a [digital transformation agenda](/what-we-do/transformation-agenda/) that consists of the following:
+
+- Owned by all government agencies
+- Coordinated and assisted by the DTA
+- Focused on changing the way government interacts with, and provides services to, users
+- Aimed at driving reform of policies and processes that stand in the way of transformation
+- Aligned with other whole-of-government reform agendas
+
+The digital transformation agenda will evolve over time as impediments are removed, strategies are delivered and benefits realised. Key performance indicators will be developed and made available publicly for initiatives that will deliver on the digital transformation agenda. Whole-of-government indicators will also be developed.
+
+{% include hx.html lvl=4 text="The digital transformation roadmap" hide-back-to-top=1 %}
+
+A digital transformation roadmap has been developed to recognise and track significant transformation projects across government over the next four years.
+
+<div class="roadmap">
+    <a href="{{site.baseurl}}/who-we-are/corporate/plan/roadmap/#image">
+      <img id="roadmap-image" src="{% asset_path roadmap %}" alt="Open image of the Digital Transformation Roadmap Gantt chart in a new window">
+    </a>
+</div>
+
+Having problems seeing this image? [Open larger roadmap image]({{site.baseurl}}/who-we-are/corporate/plan/roadmap/#image).
+
+[Read the full text version of this roadmap]({{site.baseurl}}/who-we-are/corporate/plan/roadmap-text/).
+
+{% include hx.html lvl=3 text="Strategic priorities" insert-hr=1 %}
+
+The government has set a single outcome for the DTA in its [Portfolio Budget Statement](https://www.dpmc.gov.au/resource-centre/pmc/portfolio-budget-statements-2016-2017):
+
+> To improve the user experience for all Australians accessing government information and services by leading the 
+design, development and continual enhancement of whole-of-government service delivery policies and standards, platforms 
+and joined-up services.
+
+Over the next four years, we have identified five strategic priorities that will drive digital transformation and guide our work over the life of this corporate plan.
+
+- The actions outlined below will support the delivery of these priorities
+- Performance criteria will be used to measure our success
+- Progress will be reported through our Annual Report
+
+This plan will also drive development of internal business and resource planning and performance management.
+
+{% include hx.html lvl=4 id="priority-1" text="Priority 1 &ndash; set ICT and digital vision and drive its achievement" hide-back-to-top=1 %}
+
+{% include hx.html lvl=5 id="priority-1-actions" text="Actions" hide-back-to-top=1 %}
+
+- Develop a whole-of-government ICT strategy and digital transformation roadmap.
+- Partner with Commonwealth agencies to deliver programs and products that are strategically important to the government's Digital Transformation Agenda.
+- Advocate within and beyond government for ICT and digital transformation.
+- Work with government agencies to develop a whole-of-government channel strategy so that users can access government services in the way that best suits them.
+- Work with government agencies to develop a whole-of-government content strategy to make it easier for people to understand and use government information services.
+- Develop operating and funding models for ICT and digital platforms that can be reused across government.
+
+{% include hx.html lvl=5 id="priority-1-how-we-measure-success" text="How we measure success" hide-back-to-top=1 %}
+
+- Deliver ICT and digital strategies that support the government's transformation agenda and are put in place and taken up by departments and agencies.
+- Develop and/or deliver ICT and digital platforms that are successfully used across government.
+- Advise government on progress in delivering on its digital transformation agenda and roadmap.
+
+{% include hx.html lvl=4 id="priority-2" text="Priority 2 &ndash; support government transformation through policy, product delivery, program management and capability" hide-back-to-top=1 %}
+
+{% include hx.html lvl=5 id="priority-2-actions" text="Actions" hide-back-to-top=1 %}
+
+- Build infrastructure and expertise to support agency and whole-of-government transformation efforts.
+- Support the development and integration of whole-of-government platforms.
+- Support and advise government on their key digital transformation efforts.
+- Develop policy that underpins and supports new digital transformation.
+- Drive product delivery focus to high value, high impact outcomes.
+- Undertake technology horizon scanning to provide expert strategic advice about future scenarios. 
+- Support the Australian Public Service build a contemporary digital skills set.
+
+{% include hx.html lvl=5 id="priority-2-how-we-measure-success" text="How we measure success" hide-back-to-top=1 %}
+
+- Outcomes of our work with government to build capability, develop products, policies and guidance that improve their ability to deliver digital transformation.
+- Prioritise and assess areas for reform and develop strategies to drive activity towards them.
+- Deliver DTA-specific products that aim to solve entrenched whole-of-government problems (ie procurement for small players, authentication etc).
+
+{% include hx.html lvl=4 id="priority-3" text="Priority 3 &ndash; improve ICT and digital investment governance" hide-back-to-top=1 %}
+
+{% include hx.html lvl=5 id="priority-3-actions" text="Actions" hide-back-to-top=1 %}
+
+- Establish a whole-of-government ICT and digital program management office to design and build reporting requirements, improve governance, and risk management standards.
+- Develop and implement a ICT and digital investment framework aligned with the government's ICT strategy and including advice to government on funding strategies and end-to-end project assurance.
+- Develop and implement a benefits assurance framework.
+- Provide analysis and advice to government on ICT and digital investments.
+- Implement workforce and agency capability initiatives.
+
+{% include hx.html lvl=5 id="priority-3-how-we-measure-success" text="How we measure success" hide-back-to-top=1 %}
+
+- We will have an investment framework for ICT and digital investment that is more strategic, coordinated and rigorous.
+- We will provide increased transparency of the government’s ICT and digital products, their costs, risks and implementation progress.
+- We will provide transparency of the benefits of ICT and digital project investment to both government and the community.
+
+{% include hx.html lvl=4 id="priority-4" text="Priority 4 &ndash; build productive relationships between the Australian Government, state and local governments, overseas governments and industry" hide-back-to-top=1 %}
+
+{% include hx.html lvl=5 id="priority-4-actions" text="Actions" hide-back-to-top=1 %}
+
+Develop and deliver a detailed DTA engagement plan that will be implemented around key initiatives. This plan includes:
+- a communications strategy
+- an agency stakeholder management strategy covering various tiers of government
+- a formalised industry engagement plan
+
+{% include hx.html lvl=5 id="priority-4-how-we-measure-success" text="How we measure success" hide-back-to-top=1 %}
+
+- All government agencies will have a clear understanding of the DTA's role.
+- Specialist cross-disciplinary teams working within the DTA and/or across government to successfully deliver on partner 
+products in other agencies.
+- We engage with departments and agencies at all levels to support the government’s digital transformation agenda.
+
+{% include hx.html lvl=4 id="priority-5" text="Priority 5 &ndash; develop an effective, well-managed, and capable DTA" hide-back-to-top=1 %}
+
+{% include hx.html lvl=5 id="priority-5-actions" text="Actions" hide-back-to-top=1 %}
+
+- Invest in our people and processes and build organisational capability in technology, design, delivery, strategy and policy.
+- Develop ICT and digital leadership capabilities across the agency.
+- Develop a shared vision of the DTA's culture and values.
+- Continually improve governance and accountability framework with strong performance reporting.
+
+{% include hx.html lvl=5 id="priority-5-how-we-measure-success" text="How we measure success" hide-back-to-top=1 %}
+      
+- The DTA is respected, highly skilled (across many areas) and can attract, grow and retain talented people.
+- The DTA has effective governance and accountability arrangements that are ‘light on red tape'.
+- DTA’s leaders build capability and promote the organisation's culture.
+
+{% include hx.html lvl=2 text="Managing and overseeing risk" insert-hr=1 %}
+
+A combination of structures, culture, policy and practice will help minimise and ideally prevent any negative impact on 
+the DTA's business objectives and achievements.
+
+The DTA manages risk in accordance with the *Australian and New Zealand Standard AS/NZS 31000:2009: Risk management 
+– Principles and Guidelines*.
+
+{% include hx.html lvl=3 text="The DTA's model for risk oversight and management" hide-back-to-top=1 %}
+
+{% include hx.html lvl=4 text="Structure" hide-back-to-top=1 %}
+- The CEO ensures appropriate frameworks are in place to manage risk.
+- The Executive Committee makes decisions in relation to risk management and escalated issues. 
+- The Audit and Risk Committee provides the CEO with assurance related to the management of risk.
+
+{% include hx.html lvl=4 text="Culture" hide-back-to-top=1 %}
+- Our people will be risk conscious in their day-to-day activities.
+- Our people will engage with reasonable levels of risk.
+- As an agency, we will proactively manage risks.
+
+{% include hx.html lvl=4 text="Policy" hide-back-to-top=1 %}
+- We will operate within our Risk Management Policy and Framework.
+- We will operate according to the Accountable Authority Instructions that govern our agency.
+
+{% include hx.html lvl=4 text="Practice" hide-back-to-top=1 %}
+- Our people will be trained regularly in risk management.
+- Our business streams and significant products and procurements will assess their risks and have in place risk management plans.
+- We will maintain an enterprise risk register.
+
+{% include hx.html lvl=2 text="Compliance" insert-hr=1%}
+    
+The DTA actively manages compliance with the requirements of the Public Governance, Performance and Accountability framework.
+
+{% include hx.html lvl=3 text="How we manage compliance" hide-back-to-top=1 %}
+
+{% include hx.html lvl=4 text="Prevention" hide-back-to-top=1 %}
+      
+<ul class="list-vertical--thirds">
+  <li><span>We will regularly train staff in compliance awareness activities.</span></li>
+  <li><span>We will have clear and concise policies detailing compliance requirements.</span></li>
+</ul>
+
+{% include hx.html lvl=4 text="Detection" hide-back-to-top=1 %}
+
+<ul class="list-vertical--thirds">
+  <li><span>Compliance checks will be incorporated into corporate business processes.</span></li>
+  <li><span>We will undertake periodic reviews of key risk areas (e.g. procurement).</span></li>
+</ul>
+
+{% include hx.html lvl=4 text="Assurance" hide-back-to-top=1 %}
+      
+<ul class="list-vertical--thirds">
+  <li><span>SES officials will produce bi-annual assurance statements. </span></li>
+  <li><span>There will be internal audits of key risk areas by independent external auditors.</span></li>
+  <li><span>The Audit Committee will provide advice to the CEO relating to compliance.</span></li>
+</ul>
+
+<div class="back-to-top-link">
+  <a href="#content">Back to top ↑</a>
+</div>
+
+</div>
