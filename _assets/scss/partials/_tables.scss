@@ -1,0 +1,47 @@
+.responsive-table {
+  @include media($mobile-only) {
+    //Force table to not be like a table anymore
+    table, thead, tbody, th, td, tr {
+      display: block;
+      width:100%;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+      float:left;
+      clear:left;
+    }
+
+    //Hide table headers (but not display: none;, for accessibility)
+    thead tr {
+      position: absolute;
+      top: -9999px;
+      left: -9999px;
+    }
+    tr {
+      border: 1px solid $grey;
+    }
+    td {
+      //Behave like a "row"
+      border: none;
+      border-bottom: 1px solid $light-grey;
+      position: relative;
+
+      //This was tweaked to match the target table headings, and may
+      //need to be changed later to match the tables that are using it.
+      padding-left: 30%;
+    }
+
+    td:before {
+      //Now like a table header
+      position: absolute;
+      //Top/left values mimic padding
+      top: $tiny-spacing;
+      left: $tiny-spacing;
+      width: 25%;
+      padding-right: $tiny-spacing;
+      white-space: nowrap;
+      content: attr(data-label);
+      font-weight: bold;
+    }
+  }
+}
