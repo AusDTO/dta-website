@@ -323,10 +323,10 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
 <table class="content-table financial" summary="Expenses for Outcome 1">
 <caption><strong>Table 3 </strong>Expenses for Outcome 1 </caption>
 <colgroup>
-<col></col>
-<col></col>
-<col></col>
-<col></col>
+<col>
+<col>
+<col>
+<col>
 </colgroup>
 <thead>
 <tr>
