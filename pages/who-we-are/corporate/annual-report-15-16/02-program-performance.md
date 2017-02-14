@@ -316,6 +316,7 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
 
   1. Appropriation Act (No.1) 2015–16 and Appropriation Act (No.3) 2015–16.
   2. Includes an amount of $1.500 million in 2015–16 for the Departmental Capital Budget. For accounting purposes this amount has been designated as ‘contribution by owners’.
+  
 
 
 
@@ -333,10 +334,10 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
 Outcome 1: To improve the user experience for all Australians accessing government information and services by leading the design, development and continual enhancement of whole-of-government service delivery policies and standards, platforms and joined-up services
 </th>
 <th id="cc1">
-Budget1 2015–16 $’000 (a)
+Budget<sup>1</sup> 2015–16 $’000 (a)
 </th>
 <th id="cc2">
-Actual expenses2 2015–16 $’000 (b)
+Actual expenses<sup>2</sup> 2015–16 $’000 (b)
 </th>
 <th id="cc3">
 Variation 2015–16 $’000 (a) – (b)
@@ -356,7 +357,7 @@ Departmental expenses
 </tr>
 <tr>
 <th id="cr4" headers="cr1 cr2 cr3">
-Departmental appropriation2
+Departmental appropriation<sup>2</sup>
 </th>
 <td headers="cr1 cr2 cr3 cr4 cc1">
 30,525
