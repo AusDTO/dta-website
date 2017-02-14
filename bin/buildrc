@@ -6,15 +6,18 @@ shopt -s extglob
 # The master and develop branches are continuously deployed to production and staging.
 # You can also add additional branches here which will be deployed to a temporary staging site.
 # Separate branches with a | character. e.g. "+(branch1|branch2)"
-export DEPLOY_BRANCHES="+(annual-report)"
+readonly DEPLOY_BRANCHES="+(annual-report)"
+
+# The git branch we are on
+readonly GITBRANCH="$(git symbolic-ref --short -q HEAD)"
+
+# The appname used if we deploy with 'cf push appname'
+readonly CF_PUSH_APPNAME="${CIRCLE_PROJECT_REPONAME}-`basename \"${GITBRANCH}\"`"
 
 # Use the branch name to set jekyll config:
 # - DTA_SITE_BASEURL - used in jekyll for site.baseurl
 # - DTA_SITE_URL - used in jekyll for site.url
-
 export DTA_SITE_BASEURL=""
-
-readonly GITBRANCH="$(git symbolic-ref --short -q HEAD)"
 case "${GITBRANCH}" in
   master)
     export DTA_SITE_URL="https://www.dta.gov.au"
@@ -23,7 +26,7 @@ case "${GITBRANCH}" in
     export DTA_SITE_URL="https://dta.apps.staging.digital.gov.au"
     ;;
   ${DEPLOY_BRANCHES})
-    export DTA_SITE_URL="https://dta-website-${GITBRANCH}.apps.staging.digital.gov.au"
+    export DTA_SITE_URL="https://${CF_PUSH_APPNAME}.apps.staging.digital.gov.au"
     ;;
   *)
     if [[ -n ${CIRCLECI+x} ]]
@@ -33,8 +36,8 @@ case "${GITBRANCH}" in
       export DTA_SITE_URL="https://${CIRCLE_BUILD_NUM}-71211972-gh.circle-artifacts.com"
       export DTA_SITE_BASEURL="/${CIRCLE_NODE_INDEX}${HOME}/${CIRCLE_PROJECT_REPONAME}/_site"
     else
-      # Assume the site is being built for cloud foundry
-      export DTA_SITE_URL="https://dta-website-${GITBRANCH}.apps.staging.digital.gov.au"
+      # Assume the site is being built locally for cloud foundry
+      export DTA_SITE_URL="https://${CF_PUSH_APPNAME}.apps.staging.digital.gov.au"
     fi
     ;;
 esac
