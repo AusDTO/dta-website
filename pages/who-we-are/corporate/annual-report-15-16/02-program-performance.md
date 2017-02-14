@@ -334,10 +334,10 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
 Outcome 1: To improve the user experience for all Australians accessing government information and services by leading the design, development and continual enhancement of whole-of-government service delivery policies and standards, platforms and joined-up services
 </th>
 <th id="cc1">
-Budget<sup>1</sup> 2015–16 $’000 (a)
+Budget<sup>1</sup> 2015–16 $’00<br>(a)
 </th>
 <th id="cc2">
-Actual expenses<sup>2</sup> 2015–16 $’000 (b)
+Actual expenses<sup>2</sup> 2015–16 $’000<br>(b)
 </th>
 <th id="cc3">
 Variation 2015–16 $’000<br>(a) – (b)
