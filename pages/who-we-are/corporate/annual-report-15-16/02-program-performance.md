@@ -340,14 +340,14 @@ Budget<sup>1</sup> 2015–16 $’000 (a)
 Actual expenses<sup>2</sup> 2015–16 $’000 (b)
 </th>
 <th id="cc3">
-Variation 2015–16 $’000 (a) – (b)
+Variation 2015–16 $’000<br>(a) – (b)
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th colspan="4" id="cr2">
-Program 1.1: The Digital Transformation Office
+<strong>Program 1.1: The Digital Transformation Office</strong>
 </th>
 </tr>
 <tr>
@@ -385,7 +385,7 @@ Expenses not requiring appropriation in the budget year
 </tr>
 <tr>
 <th id="cr6" headers="cr1 cr2 cr3">
-Total for Program 1.1
+<strong>Total for Program 1.1</strong>
 </th>
 <td headers="cr1 cr2 cr3 cr6 cc1">
 31,023
@@ -399,7 +399,7 @@ Total for Program 1.1
 </tr>
 <tr>
 <th id="cr7" headers="cr1 cr3">
-Total expenses for Outcome 1
+<strong>Total expenses for Outcome 1</strong>
 </th>
 <td headers="cr1 cr2 cr3 cr7 cc1">
 31,023
@@ -415,10 +415,10 @@ Total expenses for Outcome 1
 <td>
 </td>
 <th id="cr9" headers="cr1 cr2 cr8">
-2014–15
+<strong>2014–15</strong>
 </th>
 <th id="cr10" headers="cr1 cr2 cr8">
-2015–16
+<strong>2015–16</strong>
 </th>
 <th>
 </th>
