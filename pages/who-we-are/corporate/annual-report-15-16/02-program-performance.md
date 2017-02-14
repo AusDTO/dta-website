@@ -317,7 +317,8 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
   1. Appropriation Act (No.1) 2015–16 and Appropriation Act (No.3) 2015–16.
   2. Includes an amount of $1.500 million in 2015–16 for the Departmental Capital Budget. For accounting purposes this amount has been designated as ‘contribution by owners’.
 
-Unselect
+
+
 <table class="content-table financial" summary="Expenses for Outcome 1">
 <caption><strong>Table 3 </strong>Expenses for Outcome 1 </caption>
 <colgroup>
@@ -412,10 +413,10 @@ Total expenses for Outcome 1
 <tr>
 <td>
 </td>
-<th id="cr9">
+<th id="cr9" headers="cr1 cr2 cr8">
 2014–15
 </th>
-<th id="cr10">
+<th id="cr10" headers="cr1 cr2 cr8">
 2015–16
 </th>
 <th>
