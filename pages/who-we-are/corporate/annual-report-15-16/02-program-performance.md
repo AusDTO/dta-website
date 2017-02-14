@@ -317,6 +317,126 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
   1. Appropriation Act (No.1) 2015–16 and Appropriation Act (No.3) 2015–16.
   2. Includes an amount of $1.500 million in 2015–16 for the Departmental Capital Budget. For accounting purposes this amount has been designated as ‘contribution by owners’.
 
+Unselect
+<table class="content-table financial" summary="Expenses for Outcome 1">
+<caption><strong>Table 3 </strong>Expenses for Outcome 1 </caption>
+<colgroup>
+<col></col>
+<col></col>
+<col></col>
+<col></col>
+</colgroup>
+<thead>
+<tr>
+<th id="cr1">
+Outcome 1: To improve the user experience for all Australians accessing government information and services by leading the design, development and continual enhancement of whole-of-government service delivery policies and standards, platforms and joined-up services
+</th>
+<th id="cc1">
+Budget1 2015–16 $’000 (a)
+</th>
+<th id="cc2">
+Actual expenses2 2015–16 $’000 (b)
+</th>
+<th id="cc3">
+Variation 2015–16 $’000 (a) – (b)
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th colspan="4" id="cr2">
+Program 1.1: The Digital Transformation Office
+</th>
+</tr>
+<tr>
+<th colspan="4" id="cr3">
+Departmental expenses
+</th>
+</tr>
+<tr>
+<th id="cr4" headers="cr1 cr2 cr3">
+Departmental appropriation2
+</th>
+<td headers="cr1 cr2 cr3 cr4 cc1">
+30,525
+</td>
+<td headers="cr1 cr2 cr3 cr4 cc2">
+28,013
+</td>
+<td headers="cr1 cr2 cr3 cr4 cc3">
+2,512
+</td>
+</tr>
+<tr>
+<th id="cr5" headers="cr1 cr2 cr3">
+Expenses not requiring appropriation in the budget year
+</th>
+<td headers="cr1 cr2 cr3 cr5 cc1">
+498
+</td>
+<td headers="cr1 cr2 cr3 cr5 cc2">
+848
+</td>
+<td headers="cr1 cr2 cr3 cr5 cc3">
+350
+</td>
+</tr>
+<tr>
+<th id="cr6" headers="cr1 cr2 cr3">
+Total for Program 1.1
+</th>
+<td headers="cr1 cr2 cr3 cr6 cc1">
+31,023
+</td>
+<td headers="cr1 cr2 cr3 cr6 cc2">
+28,861
+</td>
+<td headers="cr1 cr2 cr3 cr6 cc3">
+2,862
+</td>
+</tr>
+<tr>
+<th id="cr7" headers="cr1 cr3">
+Total expenses for Outcome 1
+</th>
+<td headers="cr1 cr2 cr3 cr7 cc1">
+31,023
+</td>
+<td headers="cr1 cr2 cr3 cr7 cc2">
+28,861
+</td>
+<td headers="cr1 cr2 cr3 cr7 cc3">
+2,862
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<th id="cr9">
+2014–15
+</th>
+<th id="cr10">
+2015–16
+</th>
+<th>
+</th>
+</tr>
+<tr>
+<th id="cr8">
+Average staffing level (number)
+</th>
+<td headers="cr1 cr2 cr8 cr9">
+0
+</td>
+<td headers="cr1 cr2 cr8 cr10">
+37
+</td>
+<th>
+</th>
+</tr>
+</tbody>
+</table>
+
 
 <table class="content-table financial" summary="Expenses for Outcome 1">
  <caption>  <strong>Table 3 </strong> Expenses for Outcome 1 </caption><br/><br/>
