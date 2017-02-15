@@ -317,9 +317,8 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
   1. Appropriation Act (No.1) 2015–16 and Appropriation Act (No.3) 2015–16.
   2. Includes an amount of $1.500 million in 2015–16 for the Departmental Capital Budget. For accounting purposes this amount has been designated as ‘contribution by owners’.
   
-
-
-
+<br>
+<br>
 <table class="content-table financial" summary="Expenses for Outcome 1">
 <caption><strong>Table 3 </strong>Expenses for Outcome 1 </caption>
 <colgroup>
@@ -438,78 +437,5 @@ Average staffing level (number)
 </tr>
 </tbody>
 </table>
-
-
-<table class="content-table financial" summary="Expenses for Outcome 1">
- <caption>  <strong>Table 3 </strong> Expenses for Outcome 1 </caption><br/><br/>
-    <colgroup>
-    <col />
-    <col />
-    <col />
-    <col />
-    </colgroup>
-    <thead>
-      <tr>
-        <th>Outcome 1: To improve the user experience for all Australians accessing government information and services by leading the design, development and continual enhancement of whole-of-government service delivery policies and standards, platforms and joined-up services</th>
-        <th>Budget<sup>1</sup><br>
-          2015–16<br>
-          $’000<br>
-          (a)</th>
-        <th>Actual
-          expenses<sup>2</sup><br>
-          2015–16<br>
-          $’000<br>
-          (b)</th>
-        <th>Variation<br>
-          2015–16<br>
-          $’000<br>
-          (a) – (b)</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td colspan="4"><strong>Program 1.1: The Digital Transformation Office</strong></td>
-      </tr>
-      <tr>
-        <td colspan="4">Departmental expenses</td>
-      </tr>
-      <tr>
-        <td>Departmental appropriation<sup>2</sup></td>
-        <td>30,525</td>
-        <td>28,013</td>
-        <td>2,512</td>
-      </tr>
-      <tr>
-        <td>Expenses not requiring appropriation in the budget year</td>
-        <td>498</td>
-        <td>848</td>
-        <td>350</td>
-      </tr>
-      <tr>
-        <td><strong>Total for Program 1.1</strong></td>
-        <td>31,023</td>
-        <td>28,861</td>
-        <td>2,862</td>
-      </tr>
-      <tr>
-        <td><strong>Total expenses for Outcome 1</strong></td>
-        <td>31,023</td>
-        <td>28,861</td>
-        <td>2,862</td>
-      </tr>
-      <tr>
-        <td />
-        <td><strong>2014–15</strong></td>
-        <td><strong>2015–16</strong></td>
-        <td />
-      </tr>
-      <tr>
-        <td>Average staffing level (number)</td>
-        <td>0</td>
-        <td>37</td>
-        <td />
-      </tr>
-    </tbody>
- </table>
   1. Full-year budget, including any subsequent adjustment made to the 2015–16 Budget at Additional Estimates.
   2. Departmental appropriation combines ordinary annual services (Appropriation Act Nos 1, 3 and 5) and retained revenue receipts under section 74 of the *Public Governance, Performance and Accountability Act 2013*.
