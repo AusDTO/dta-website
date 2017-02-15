@@ -11,7 +11,7 @@ This is a list of contracts entered into by the Digital Transformation Agency, w
 * not been fully performed in the reporting period, or
 * were entered into during the reporting period.
 
-## 1 January 2015 – 31 December 2015
+## 1 January 2016 – 31 December 2016
 
 ### Procurement Contracts
 

@@ -19,21 +19,24 @@ basicauth() {
   fi
 }
 
+# Exit if we are not the public repo
+checkrepo() {
+  if [[ "${CIRCLE_PROJECT_REPONAME}" != "dta-website" ]]
+  then
+    echo "I will not deploy this repo"
+    exit 0
+  fi
+}
+
 # We dont need to deploy the pa11y-sitemap.xml
 rm -f _site/pa11y-sitemap.xml
 
 # main script function
 #
 main() {
-
-  if [[ "${CIRCLE_PROJECT_REPONAME}" != "dta-website" ]]
-  then
-    echo "I will not deploy this repo"
-    exit 0
-  fi
-
   case "${GITBRANCH}" in
     master)
+      checkrepo
       cf api $CF_PROD_API
       cf auth $CF_USER $CF_PASSWORD
       cf target -o $CF_ORG
@@ -41,6 +44,7 @@ main() {
       cf push -f manifest-production.yml
       ;;
     develop)
+      checkrepo
       basicauth
       cf api $CF_STAGING_API
       cf auth $CF_USER $CF_PASSWORD
