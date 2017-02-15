@@ -437,5 +437,6 @@ Average staffing level (number)
 </tr>
 </tbody>
 </table>
+
   1. Full-year budget, including any subsequent adjustment made to the 2015–16 Budget at Additional Estimates.
   2. Departmental appropriation combines ordinary annual services (Appropriation Act Nos 1, 3 and 5) and retained revenue receipts under section 74 of the *Public Governance, Performance and Accountability Act 2013*.
