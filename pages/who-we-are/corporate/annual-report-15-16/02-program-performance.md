@@ -314,12 +314,12 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
       </tr>
     </tbody>
   </table>
-  <ol>
-    <li>Appropriation Act (No.1) 2015–16 and Appropriation Act (No.3) 2015–16.</li>
-    <li>Includes an amount of $1.500 million in 2015–16 for the Departmental Capital Budget. For accounting purposes this amount has been designated as ‘contribution by owners’.</li>
-  </ol>
 </div>
 
+1. Appropriation Act (No.1) 2015–16 and Appropriation Act (No.3) 2015–16.
+2. Includes an amount of $1.500 million in 2015–16 for the Departmental Capital Budget. For accounting purposes this amount has been designated as ‘contribution by owners’.
+    
+<div class="horizontal-scroll-table-container">
 <table class="content-table financial" summary="Expenses for Outcome 1">
 <caption><strong>Table 3 </strong>Expenses for Outcome 1 </caption>
 <colgroup>
@@ -438,6 +438,7 @@ Average staffing level (number)
 </tr>
 </tbody>
 </table>
+</div>
 
-  1. Full-year budget, including any subsequent adjustment made to the 2015–16 Budget at Additional Estimates.
-  2. Departmental appropriation combines ordinary annual services (Appropriation Act Nos 1, 3 and 5) and retained revenue receipts under section 74 of the *Public Governance, Performance and Accountability Act 2013*.
+1. Full-year budget, including any subsequent adjustment made to the 2015–16 Budget at Additional Estimates.
+2. Departmental appropriation combines ordinary annual services (Appropriation Act Nos 1, 3 and 5) and retained revenue receipts under section 74 of the *Public Governance, Performance and Accountability Act 2013*.
