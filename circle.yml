@@ -2,6 +2,12 @@
 machine:
   ruby:
     version: 2.3.1
+  node:
+    version: 6.1.0 # required for accesslint-cli
+  environment:
+    ACCESSLINT_API_TOKEN: 7928e84fe59e42c6a27aa0fc840fb47e
+    ACCESSLINT_GITHUB_USER: bjgordon
+    ACCESSLINT_MASTER_BRANCH: develop
 
 general:
   artifacts:
@@ -14,10 +20,10 @@ dependencies:
 test:
   override:
     - bin/cibuild.sh
-    - bin/ciserve.sh:
-          background: true
     - bin/citest.sh
-
+test:
+  post:
+    - bin/ciserve.sh && bundle exec accesslint-ci scan http://localhost:4000
 deployment:
   all:
     branch: /.*/

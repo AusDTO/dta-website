@@ -46,4 +46,4 @@ done
 echo "Webserver has started"
 
 # Run pa11y accessibility tests
-node_modules/.bin/pa11y-ci --sitemap http://localhost:4000/pa11y-sitemap.xml
+# node_modules/.bin/pa11y-ci --sitemap http://localhost:4000/pa11y-sitemap.xml
