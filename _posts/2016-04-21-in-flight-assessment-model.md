@@ -10,7 +10,7 @@ thumbnail: /images/blog-thumbnails/agile-in-flight-assessment-thumbnail.jpg
 searchexcerpt: DTO transformation projects are now being assessed more regularly using an ‘in-flight’ model. This gives teams a chance to iterate based on regular feedback and work in a more agile way. DTO’s Head of the Digital Service Standard, Jacqui van Teulingen, explains.
 ---
 
-![]({{site.url}}{{page.hero-image}})
+![]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 *Image: A project team engaging with the assessors using an agile 'in-flight' model.*
 

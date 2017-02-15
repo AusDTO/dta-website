@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!--[if IE 7]>         <html lang="{{ page.lang | default: site.lang | default: "en" }}" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="{{ page.lang | default: site.lang | default: "en" }}" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="{{ page.lang | default: site.lang | default: "en" }}" class="no-js"> <!--<![endif]-->
+
+  {% include head.html %}
+
+  <body {% if page.url == "/" %} class="home"{% endif%}>
+
+    {% include google-tag-manager.html %}
+
+    <!-- Compatibility message --><!--[if lt IE 9]><p class="ua-notification">This site works better on a newer web browser (the software you use to access the internet).</p><![endif]-->
+
+    <nav class="skip-to">
+      <a href="#content">Skip to main content</a>
+    </nav>
+
+    {% include header.html
+      hide-search=true
+      hide-site-nav=true%}
+
+    <main role="main" class="fullscreen">
+      <article  id="content">
+          {{ content }}
+      </article>
+    </main>
+
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="{% asset_path main-ie8.js %}"></script>
+    <![endif]-->
+
+    <script type="text/javascript" src="{% asset_path ui-kit.js %}"></script>
+
+    <script async type="text/javascript" src="{% asset_path main.js %}"></script>
+
+  </body>
+</html>

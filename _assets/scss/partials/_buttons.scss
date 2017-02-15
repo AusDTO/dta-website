@@ -4,31 +4,3 @@
 	padding:10px 20px;
 	text-decoration:none;
 }
-
-.big-button {
-	-webkit-appearance:none;
-	-moz-appearance:caret;
-	background-color: $dta-blue;
-	color: #fff;
-	border-width: 0px;
-	text-transform: none;
-	font-size: 16px;
-	margin-right: 10px;
-	margin-top: 25px;
-	margin-bottom:30px;
-	padding:10px 18px;
-	height:auto;
-	font-family:'OpenSansBold',Arial,Helvetica Neue,Helvetica,sans-serif;
-	letter-spacing:0.06em;
-	cursor:pointer;
-	min-height:48px;
-	border:3px solid transparent;
-	text-decoration:none;
-	&:hover, &:focus {
-		color:#fff;
-		text-decoration:none;
-	}
-	&:focus {
-		border-color:#80bdfb;
-	}
-}

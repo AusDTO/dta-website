@@ -1,5 +1,5 @@
 ---
-layout: gov-au-post
+layout: post
 title: "Your questions answered: the GOV.AU prototype: (live event and webcast) this Wednesday 6 April"
 author: Radi Kovacevic
 profile: "/images/radi-kovacevic-profile.png"

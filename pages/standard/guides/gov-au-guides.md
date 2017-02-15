@@ -35,18 +35,18 @@ Style guidance and examples to help writers and editors create simpler, clearer,
 
 ## Where to go while the GOV.AU Guides are being developed
 
-### Content
+### Content {#content-links}
 
-- [Online writing style guide](https://www.dto.gov.au/standard/design-guides/online-writing/)
-- [Making content accessible](https://www.dto.gov.au/standard/design-guides/making-content-accessible/)
+- [Online writing style guide](https://www.dta.gov.au/standard/design-guides/online-writing/)
+- [Making content accessible](https://www.dta.gov.au/standard/design-guides/making-content-accessible/)
 
 ## Want to get involved?
 
-If you would like to give feedback on the GOV.AU Guides, please join a DTO Community for updates and opportunities to comment.
+If you would like to give feedback on the GOV.AU Guides, please join a DTA Community for updates and opportunities to comment.
 
 **Service Design Government Community**: email [leisa.reichelt@digital.gov.au](mailto:leisa.reichelt@digital.gov.au) Head of Service Design and Professional Communities.
 
-**Content Design Government Community**: email [libby.varcoe@digital.gov.au](mailto:libby.varcoe@digital.gov.au) GOV.AU Content Design Lead.
+**Content Design Government Community**: email [content@digital.gov.au](mailto:content@digital.gov.au). 
 
 Read a blog post about the [thinking behind the GOV.AU content style guide](/blog/walking-the-talk/).
 

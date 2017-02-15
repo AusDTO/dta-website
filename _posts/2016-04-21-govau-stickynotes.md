@@ -1,5 +1,5 @@
 ---
-layout: gov-au-post
+layout: post
 title: "Sticky notes, sticky notes & more sticky notes"
 author: Nicholas Keilar
 read-time: 2

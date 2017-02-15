@@ -5,51 +5,37 @@ permalink: /standard/assessments/
 breadcrumb: Assessment reports
 ---
 
-
+<div class="assessment-reports" markdown="1">
 
 All services in the [scope of the Digital Service Standard](/standard/scope-of-standard/) are [assessed against the Standard](/standard/meeting-standard/).
 
 We publish assessment reports to increase the transparency of government and help other teams build simpler, better and faster services for all users.
 
-<div>
+## View reports by
 
-  <!-- Nav tabs -->
-  <nav class="inline-tab-nav">
-    <h3>View by:</h3>
-    <ul role="tablist">
-      <li role="presentation">
-        <a href="#all" class="is-current" aria-controls="all" role="tab">
-          <span class="is-visuallyhidden">Show </span>All reports
-        </a>
-      </li>
-      <li role="presentation">
-        <a href="#dta-assessed" aria-controls="dto-assessed" role="tab">
-          <span class="is-visuallyhidden">Show only </span>DTA&ndash;led assessments
-        </a>
-      </li>
-      <li role="presentation">
-        <a href="#agency-assessed" aria-controls="agency-assessed" role="tab">
-          <span class="is-visuallyhidden">Show only </span>Self assessments
-        </a>
-      </li>
-      <li role="presentation">
-         <a href="#alpha-assessments" aria-controls="alpha" role="tab">
-           <span class="is-visuallyhidden">Show only </span>Alpha assessments
-         </a>
-      </li>
-      <li role="presentation">
-        <a href="#beta-assessments" aria-controls="beta" role="tab">
-          <span class="is-visuallyhidden">Show only </span>Beta assessments
-        </a>
-      </li>
-    </ul>
-  </nav>
+  <ul class="inline-links">
+    <li>
+      <a href="#all" class="is-current"><span class="is-visuallyhidden">Show </span>All reports</a>
+    </li>
+    <li>
+      <a href="#dta-assessed"><span class="is-visuallyhidden">Show only </span>DTA&ndash;led assessments</a>
+    </li>
+    <li>
+      <a href="#agency-assessed"><span class="is-visuallyhidden">Show only </span>Self assessments</a>
+    </li>
+    <li>
+      <a href="#alpha-assessments"><span class="is-visuallyhidden">Show only </span>Alpha assessments</a>
+    </li>
+    <li>
+      <a href="#beta-assessments"><span class="is-visuallyhidden">Show only </span>Beta assessments</a>
+    </li>
+  </ul>
 
   <!-- Tab panes -->
   <div class="tab-content">
 
     <div role="tabpanel" class="tab-pane active" id="all">
-    <h2 class="assessment-list-header"><span class="inner">All assessment reports</span></h2>
+      <h2 class="assessment-list-header"><span class="inner">All assessment reports</span></h2>
       {% include assessment-reports/assessment-reports-list.html %}
     </div>
 
@@ -73,8 +59,4 @@ We publish assessment reports to increase the transparency of government and hel
       {% include assessment-reports/assessment-reports-list-beta.html %}
     </div>
   </div>
-
 </div>
-
-
-

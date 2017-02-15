@@ -13,7 +13,7 @@ We do not automatically collect personal information about you when you visit th
 
 ## Scope
 
-This statement applies to the digital.gov.au website managed by the Digital Transformation Agency (DTA).
+This statement applies to the dta.gov.au website managed by the Digital Transformation Agency (DTA).
 
 ## Personal information
 

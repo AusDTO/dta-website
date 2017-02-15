@@ -4,14 +4,18 @@ title: "How the Digital Marketplace is being shaped by user needs"
 author: Robyn Prince Gillot
 author-excerpt: "Robyn Prince Gillot, is a researcher in the Digital Marketplace team, based in Sydney."
 category: blog
-tag: marketplace
-hero-image: marketplace-user-needs-content
-thumbnail: marketplace-user-needs-thumb
-searchexcerpt: "To make sure [we understand user needs](/standard/) in the two months since the Digital Marketplace Beta was released we’ve had 10 face-to-face meetings with government buyers and 13 with registered sellers, on average a meeting every second day. In response to their feedback, this is how we’ve iterated and improved the Marketplace."
+tag: "digital marketplace"
+hero-image: /images/blog-content/marketplace-user-needs-content.jpg
+thumbnail: /images/blog-thumbnails/marketplace-user-needs-thumb.jpg
 ---
 
-![The team standing in front of a card wall]({{site.url}}{{ page.hero-image | asset_path }})
-*Caption: Sharing feedback from buyers and sellers to help the team understand user needs*
+<div class="abstract" markdown="1">
+ 
+To make sure [we understand user needs]({{ site.url }}{{ site.baseurl }}/standard/) in the two months since the Digital Marketplace Beta was released we’ve had 10 face-to-face meetings with government buyers and 13 with registered sellers, on average a meeting every second day. In response to their feedback, this is how we’ve iterated and improved the Marketplace.
+ 
+</div>
+
+![The team standing in front of a card wall]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 ## We’ve made it easier for buyers to evaluate responses to briefs
 

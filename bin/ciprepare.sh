@@ -22,3 +22,4 @@ cf -v
 sudo apt-get update
 sudo apt-get install -qy apache2-utils
 
+npm install pa11y-ci@^0.5

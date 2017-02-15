@@ -1,9 +1,10 @@
 ---
 layout: basic
-permalink: /who-we-are/corporate/annual-report/
-redirect_from: /annual-report/2015-16/
-
 title: Annual Report 2015-16
+permalink: /who-we-are/corporate/annual-report/
+redirect_from: 
+- /annual-report/
+- /annual-report/2015-16/
 ---
 
 ## About this report

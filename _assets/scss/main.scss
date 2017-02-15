@@ -29,7 +29,7 @@ $dta-red: #d7002f;
 //not to be used for text. Only to be used as background with white text - minumium 20px and bold
 $discovery: #912b87;
 $alpha: #c52a72;
-$beta: #ef6a30;
+$beta: #cf4a10;
 $live: #859949;
 
 
@@ -37,15 +37,19 @@ $live: #859949;
 @import 'dto-ui-kit/assets/sass/ui-kit';
 
 // Import partials from `partials`
+@import 'partials/accordions';
 @import 'partials/assessment-reports';
 @import 'partials/blog';
 @import 'partials/blog-share-links';
-@import 'partials/blog-subscribe';
 @import 'partials/buttons';
 @import 'partials/contact';
 @import 'partials/criteria-page-header';
 @import 'partials/dss-criteria-list';
+@import 'partials/dss-design-and-delivery';
+@import 'partials/dss-glossary';
+@import 'partials/embed';
 @import 'partials/exemplars';
+@import 'partials/fullscreen';
 @import 'partials/guides';
 @import 'partials/header';
 @import 'partials/footer';
@@ -53,5 +57,7 @@ $live: #859949;
 @import 'partials/homepage';
 @import 'partials/icons';
 @import 'partials/recruiterbox';
-@import 'partials/social-media-list';
+@import 'partials/transformation-agenda';
+@import 'partials/signup';
 @import 'partials/site-search';
+@import 'partials/social-media-list';

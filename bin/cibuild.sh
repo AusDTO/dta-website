@@ -9,24 +9,18 @@ set -o pipefail
 # echo out each line of the shell as it executes
 set -x
 
-main() {
-  readonly GITBRANCH="${CIRCLE_BRANCH}"
+# Include build env vars
+source "$(dirname "$0")/buildrc"
 
-  case "${GITBRANCH}" in
-    master)
-      echo "Building with production jekyll config"
-      JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config-production.yml
-      ;;
-    develop)
-      echo "Building with development/staging jekyll config"
-      JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config-develop.yml
-      ;;
-    *)
-      echo "Building with normal jekyll config"
-      bundle exec jekyll build
-      exit 0
-      ;;
-  esac
+main() {
+  mkdir -p _site
+  echo "url: \"${DTA_SITE_URL}\"">${TMPDIR}/_config-url.yml
+  echo "baseurl: \"${DTA_SITE_BASEURL}\"">>${TMPDIR}/_config-url.yml
+
+  # Use JEKYLL_ENV to configure jekyll-assets
+  export JEKYLL_ENV=production
+
+  bundle exec jekyll build --config _config.yml,${TMPDIR}/_config-url.yml
 }
 
 main $@

@@ -11,7 +11,7 @@ The main changes are:
 - broadening the measurement requirements (updating 11)
 - removing a criterion (14) about users succeeding first time unaided.
 
-The [reasons for these changes to the Standard](/blog/standard-goes-live/) are discussed on the DTO blog.
+The [reasons for these changes to the Standard](/blog/standard-goes-live/) are discussed on the DTA blog.
 
 You can read the [changes between the Alpha and Beta version of the Digital Service Standard](https://github.com/AusDTO/Digital-Service-Standard/commit/34baa753039c6a) on GitHub.
 
@@ -47,11 +47,11 @@ Text removed from the standard has been <del>struck out</del>. Text added is mar
     <li>
       <div class="col-md-6 col-sm-12">
         <h3 class="">Previous version <span class="offscreen">of Criterion 3</span></h3>
-        <p>Design and build the <del>product</del> using the <a href="/standard/service-design-and-delivery-process/">service design and delivery process</a>, taking an agile and user-centred approach.</p>
+        <p>Design and build the <del>product</del> using the <a href="{{site.baseurl}}/standard/service-design-and-delivery-process/">service design and delivery process</a>, taking an agile and user-centred approach.</p>
       </div>                
       <div class="col-md-6 col-sm-12 border-left">
         <h3 class=""><span class="offscreen">Live version of criterion 3: </span>Updated</h3>
-        <p>Design and build the <ins>service</ins> using the <a href="/standard/service-design-and-delivery-process/">service design and delivery process</a>, taking an agile and user-centred approach.</p>
+        <p>Design and build the <ins>service</ins> using the <a href="{{site.baseurl}}/standard/service-design-and-delivery-process/">service design and delivery process</a>, taking an agile and user-centred approach.</p>
       </div>
     </li>
     

@@ -3,22 +3,23 @@ email: web.team@digital.gov.au
 description: > # this means to ignore newlines until "baseurl:"
   Driving the digital transformation of government information and services,
   making them simpler, clearer, faster.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # bin/cibuild.sh may override this
+url: "http://localhost:4000" # bin/cibuild.sh may override this
 permalink: "/:categories/:title/"
 timezone: Australia/Canberra
-
+twitter: DTA
 google_tag_manager: GTM-KR7JDF
+tag_dir: /tags # for tags pages created by jekyll-archives
 
 # Because there is no way to instantiate an empty array, and we need to merge two filtered
-# collections together -- this is used on the News page layout.
+# collections together -- this is used on the News page layout and feed.xml.
 empty-array: []
 
 collections:
   assessment-reports:
     output: true
   projects:
-    output: true
+    output: false
   teams:
     output: true
   leadership-group:
@@ -33,6 +34,8 @@ gems:
   - jekyll-assets
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-archives
+
 
 exclude:
   - .asset-cache
@@ -44,6 +47,9 @@ exclude:
   - circle.yml
   - README.md
   - manifest*.yml
+  - ld_library_path
+  - config.ru
+  - node_modules
 
 assets:
   assets:
@@ -51,14 +57,21 @@ assets:
     - "*.jpg"
     - "bundle.css"
   sources:
+    - _assets/js/vendor
     - _assets/scss
     - _assets/vendor
-    - images/blog-content
-    - images/blog-thumbnails
-    - images/leadership-group
+    - images/transformation-agenda
 
   cache: .asset-cache
   prefix: "/"
+
+jekyll-archives:
+  enabled:
+    - 'tags'
+  layout: tag-archive
+  permalinks:
+    tag: '/tags/:name/'
+
 
 defaults:
   -
@@ -66,12 +79,18 @@ defaults:
       path: "" # empty string means all files
     values:
       layout: "default"
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: post
 
-# Config for htt://prose.io editor.
+
+# Config for http://prose.io editor.
 prose:
   rooturl: ''
-  siteurl: 'https://dta.apps.staging.digital.gov.au/'
-  media: 'images/blog-content'
+  siteurl: 'https://www.dta.gov.au/'
+  media: '_assets/img/posts/'
   ignore:
     - _config.yml
     - _config-production.yml
@@ -96,21 +115,29 @@ prose:
     - /Staticfile.auth
     - README.md
     - Rakefile
-    
+
   metadata:
     _posts:
       - name: "layout"
         field:
-          element: "select"
-          label: "Layout"
-          placeholder: "Select Layout"
-          options:
-            - name: "Blog"
-              value: "blog"
-            - name: "News"
-              value: "news"
-            - name: "Media release"
-              value: "media-release"
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "hero-image"
+        field:
+          element: "text"
+          label: "Hero image (filename only)"
+      - name: "hero-image-alt"
+        field:
+          element: "text"
+          label: "Hero image alt text"
+      - name: "thumbnail"
+        field:
+          element: "text"
+          label: "Thumbnail image (filename only)"
       - name: "category"
         field:
           element: "select"
@@ -119,10 +146,8 @@ prose:
           options:
             - name: "Blog"
               value: "blog"
-            - name: "DTO News"
-              value: "[news, dto-news]"
-            - name: "Media release"
-              value: "[news, media-release]"
+            - name: "News"
+              value: "[news]"
       - name: "tag"
         field:
           element: "select"
@@ -132,29 +157,6 @@ prose:
             - name: "GOV.AU"
               value: "govau"
             - name: "Marketplace"
-              value: "Marketplace"
+              value: "marketplace"
             - name: "DTA News"
               value: "dta-news"
-      - name: "author"
-        field:
-          element: "select"
-          label: "Author"
-          placeholder: "Select Author"
-          options:
-            - name: "Paul Shetler"
-              value: "Paul Shetler"
-            - name: "Leisa Reichelt"
-              value: "Leisa Reichelt"
-            - name: "Matthew Landauer"
-              value: "Matthew Landauer"
-            - name: "Dan Searle"
-              value: "Dan Searle"
-            - name: "Jacqui van Teulingen"
-              value: "Jacqui van Teulingen"
-            - name: "Jordan Hatch"
-              value: "Jordan Hatch"
-    _staff:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "staff"

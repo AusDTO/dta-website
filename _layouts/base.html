@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--[if IE 7]>         <html lang="{{ page.lang | default: site.lang | default: "en" }}" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if lte IE 7]>         <html lang="{{ page.lang | default: site.lang | default: "en" }}" class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html lang="{{ page.lang | default: site.lang | default: "en" }}" class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html lang="{{ page.lang | default: site.lang | default: "en" }}" class="no-js"> <!--<![endif]-->
 
@@ -9,7 +9,6 @@
 
     {% include google-tag-manager.html %}
 
-    <!-- Yellow UA msg for anything older than IE9. Please remove me post end-Aug demo. -->
     <!-- Compatibility message --><!--[if lt IE 9]><p class="ua-notification">This site works better on a newer web browser (the software you use to access the internet).</p><![endif]-->
 
     <nav class="skip-to">
@@ -24,19 +23,19 @@
     {% endunless %}
 
     <main role="main">
-
-      {% unless page.url == "/" %}
       {% include local-nav.html %}
-      {% endunless %}
-
       {{ content }}
-
     </main>
 
     {% include footer.html %}
 
-    {% include javascript.html %}
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="{% asset_path main-ie8.js %}"></script>
+    <![endif]-->
 
-    {% include uikit_scripts.html %}
+    <script type="text/javascript" src="{% asset_path ui-kit.js %}"></script>
+
+    <script async type="text/javascript" src="{% asset_path main.js %}"></script>
+
   </body>
 </html>

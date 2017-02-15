@@ -21,14 +21,15 @@ module Jekyll
             'fields' => {
                 'title' => 10,
                 'categories' => 20,
-                'tags' => 20,
+                'tags' => 10,
+                'author' => 10,
                 'body' => 1
             },
             'js_dir' => 'search-engine'
         }.merge!(config['lunr_search'] || {})
 
         @js_dir = lunr_config['js_dir']
-        gem_lunr = File.join(File.dirname(__FILE__), "../../build/lunr.min.js")
+        gem_lunr = File.join(File.dirname(__FILE__), "../_assets/js/vendor/lunr.min.js")
         @lunr_path = File.exist?(gem_lunr) ? gem_lunr : File.join(@js_dir, File.basename(gem_lunr))
         raise "Could not find #{@lunr_path}" if !File.exist?(@lunr_path)
 
@@ -79,6 +80,8 @@ module Jekyll
               "id" => i,
               "title" => entry.title,
               "url" => entry.url,
+              "author" => entry.author,
+              "searchexcerpt" => entry.searchexcerpt,
               "date" => entry.date,
               "categories" => entry.categories,
               "tags" => entry.tags,
@@ -178,7 +181,8 @@ module Jekyll
       def prepare(item)
         layout = item.data["layout"]
         begin
-          item.data.delete("layout")
+          # item.data.delete("layout")
+          item.data["layout"] = nil
 
           if item.is_a?(Jekyll::Document)
             output = Jekyll::Renderer.new(@site, item).run
@@ -218,10 +222,24 @@ module Jekyll
           categories = site.data['categories']
           tags = site.data['tags']
           title, url = extract_title_and_url(site)
+          author = site.data['author']
+
           is_post = site.is_a?(Jekyll::Document)
           body = renderer.render(site)
 
-          SearchEntry.new(title, url, date, categories, tags, is_post, body, renderer)
+          #The searchexcerpt is shown under each result. In order of preference it is:
+          # 1. searchexcerpt from the page front matter
+          # 2. lede from the page front matter
+          # 3. First x words from the page content
+          searchexcerpt = site.data['searchexcerpt']
+          unless searchexcerpt
+            searchexcerpt = site.data['lede']
+          end
+          unless searchexcerpt
+            searchexcerpt = body.split[0...40].join(' ') + ' [...]'
+          end
+
+          SearchEntry.new(title, url, author, searchexcerpt, date, categories, tags, is_post, body, renderer)
         else
           raise 'Not supported'
         end
@@ -232,10 +250,10 @@ module Jekyll
         [ data['title'], data['url'] ]
       end
 
-      attr_reader :title, :url, :date, :categories, :tags, :is_post, :body, :collection
+      attr_reader :title, :url, :author, :searchexcerpt, :date, :categories, :tags, :is_post, :body, :collection
 
-      def initialize(title, url, date, categories, tags, is_post, body, collection)
-        @title, @url, @date, @categories, @tags, @is_post, @body, @collection = title, url, date, categories, tags, is_post, body, collection
+      def initialize(title, url, author, searchexcerpt, date, categories, tags, is_post, body, collection)
+        @title, @url, @author, @searchexcerpt, @date, @categories, @tags, @is_post, @body, @collection = title, url, author, searchexcerpt, date, categories, tags, is_post, body, collection
       end
 
       def strip_index_suffix_from_url!

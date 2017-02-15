@@ -1,0 +1,1 @@
+Images for annual reports

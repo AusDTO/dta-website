@@ -1,32 +1,52 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  {% unless page.layout == 'fullscreen' %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/images/icons/favicon.ico">
-
-  <!-- Social/unfurl  http://ogp.me/ , https://dev.twitter.com/cards/types/summary-->
-  <meta property="og:locale" content="en_AU" />
-  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta property="og:type" content="Website" />
-  <meta property="og:image" content="{{ site.url }}{% asset_path dta-unfurl %}" />
-  <meta property="og:url" content="{{ site.url }}" />
-  <meta property="og:description" content="{% if page.searchexcerpt %}{{ page.searchexcerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:description" content="{% if page.searchexcerpt %}{{ page.searchexcerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
-  <meta name="twitter:title" content="{{ page.title }}" />
-  <meta name="twitter:site" content="@DTO" />
-  <meta name="twitter:image" content="{{ site.url }}{% asset_path dta-unfurl %}" />
-
-  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-
-  <meta name="description" content="{% if page.searchexcerpt %}{{ page.searchexcerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  {% endunless %}
+  <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/images/icons/favicon.ico">
   <meta name="creator" content="Digital Transformation Agency">
-
-  {% if page.author %}<meta name="author" content="{{ page.author}}">{% endif %}
-
   <meta name="type" content="Text">
   <meta name="modified" content="{{ page.date | date: "%b %-d, %Y" }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@{{ site.twitter }}" />
+
+  {% if page.title %}
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta property="og:title" content="{{ page.title | xml_escape }}" />
+  <meta name="twitter:title" content="{{ page.title | xml_escape }}" />
+{% else %}
+  <title>{{ site.title }}</title>
+  <meta property="og:title" content="{{ site.title | xml_escape }}" />
+  <meta name="twitter:title" content="{{ site.title | xml_escape }}" />
+{% endif %}
+
+{% assign url= page.url | prepend: site.baseurl | prepend: site.url %}
+  <link rel="canonical" href="{{ url }}">
+  <meta property="og:url" content="{{ url }}" />
+
+{% if page.hero-image %}
+  {% assign social-image-url = page.hero-image | prepend: site.baseurl | prepend: site.url %}
+{% else %}
+  {% assign social-image-url = '/image/dta-unfurl.png' | prepend: site.baseurl | prepend: site.url %}
+{% endif %}
+  <meta property="og:image" content="{{ social-image-url }}" />
+  <meta name="twitter:image" content="{{ social-image-url }}" />
+
+{% if page.searchexcerpt %}
+  {% assign description = page.searchexcerpt | markdownify | strip_html %}
+{% elsif page.url == "/" %}
+  {% assign description = site.description %}
+{% endif %}
+{% if description %}
+  <meta name="description" content="{{ description | xml_escape }}">
+  <meta property="og:description" content="{{ description | xml_escape }}" />
+  <meta name="twitter:description" content="{{ description | truncate:160 | xml_escape }}" />
+{% endif %}
+
+
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
   {% include google_fonts.html %}
@@ -44,7 +64,6 @@
   })(document.documentElement)
   </script>
 
-  {% if page.knowledge_schema %}
   <!-- Schema for Google knowledge graph -->
   <script type="application/ld+json">
 {
@@ -54,7 +73,7 @@
   "url" : "https://www.dta.gov.au",
   "logo": "https://www.dta.gov.au/images/dta-snippet-logo.png",
   "sameAs" : [
-    "https://twitter.com/DTO",
+    "https://twitter.com/{{ site.twitter }}",
     "https://www.linkedin.com/company/digital-transformation-office",
     "https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A",
     "http://www.slideshare.net/DTO-slides"
@@ -65,6 +84,6 @@
     "query-input": "required name=search_term_string"
   }
 }
-</script>
-{% endif %}
+  </script>
+
 </head>

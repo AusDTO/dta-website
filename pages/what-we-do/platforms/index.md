@@ -8,16 +8,16 @@ localnav: what-we-do
 <ul class="list-small">
 
   <li>
-    <a href="/what-we-do/platforms/cloud/">cloud.gov.au</a>
+    <a href="{{site.baseurl}}/what-we-do/platforms/cloud/">cloud.gov.au</a>
   </li>
   <li>
-    <a href="/what-we-do/platforms/govau/">GOV.AU</a>
+    <a href="{{site.baseurl}}/what-we-do/platforms/govau/">GOV.AU</a>
   </li>
   <li>
-    <a href="/what-we-do/platforms/identity/">Identity</a>
+    <a href="{{site.baseurl}}/what-we-do/platforms/identity/">Identity</a>
   </li>
   <li>
-    <a href="/what-we-do/platforms/performance/">Performance dashboard</a>
+    <a href="{{site.baseurl}}/what-we-do/platforms/performance/">Performance dashboard</a>
   </li>  
 
 </ul>

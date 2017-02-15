@@ -21,7 +21,7 @@ There are a number of polices that require Australian Government agencies to con
 
 ## How do I?
 
-Agencies will need to consider cross-agency and whole-of-government re-use, not just intra-agency re-use. They will also need to ensure they have the appropriate governance structures in place for any shared solutions. The [ICT Customisation and Bespoke Development Policy (PDF 26 KB)](http://www.finance.gov.au/sites/default/files/ICT_Customisation_and_Bespoke_Development_Policy.pdf) provides governance principles for cross-agency solution sharing.
+Agencies will need to consider cross-agency and whole-of-government re-use, not just intra-agency re-use. They will also need to ensure they have the appropriate governance structures in place for any shared solutions. The [ICT Customisation and Bespoke Development Policy (PDF 26 KB)](http://www.finance.gov.au/sites/default/files/ICT_Customisation_and_Bespoke_Development_Policy_0.pdf) provides governance principles for cross-agency solution sharing.
 
 Agencies have the ability to publish, discover and consume common capabilities though [GovShare](https://www.govshare.gov.au/). GovShare is an online resource that allows government entities to:
 

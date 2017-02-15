@@ -23,6 +23,6 @@ Existing Australian Government and state and territory identity policy framework
 
 The Trusted Digital Identity Framework will establish the overarching requirements, structure, governance arrangements and interoperable standards for a trusted Australian digital identity system to ensure it is scalable, secure, simple to use and fair.
 
-Contact the authentication team: [authentication@dto.gov.au](mailto:authentication@dto.gov.au)
+Contact the authentication team: [authentication@dta.gov.au](mailto:authentication@dta.gov.au)
 
 **Last updated:** 5 January 2016

@@ -15,7 +15,7 @@ thumbnail: /images/blog-thumbnails/transformation-pass-thumbnail.jpg
 
 As one of the first transformation projects from the DTO’s delivery hub to go through the [Digital Service Standard’s assessment process](https://www.dto.gov.au/standard/meeting-standard/), we weren’t sure what to expect. We knew we had to be thoroughly prepared and we had a hard act to follow. One of our other DIBP teams had [already passed their assessment](https://www.dto.gov.au/blog/the-first-alpha-passes-its-service-assessment/).
 
-![]({{site.url}}{{page.hero-image}})
+![]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 *Image: The team walking the assessment panel through the service map.*
 

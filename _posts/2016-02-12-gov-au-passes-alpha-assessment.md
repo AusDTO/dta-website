@@ -1,5 +1,5 @@
 ---
-layout: gov-au-post
+layout: post
 title: GOV.AU passes Alpha assessment
 author: Jacqui van Teulingen
 profile: "/images/jacqui-van-teulingen-profile.png"
@@ -31,6 +31,6 @@ GOV.AU was assessed against the Australian [Digital Service Standard](https://ww
 
 Now that we’ve been given the green light to progress to Beta, our team will be taking on the expert recommendations to improve and refine GOV.AU as it moves into the next stage of its development. 
 
-![]({{site.url}}{{page.hero-image}})
+![]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 *Caption: The panel conducts the assessment from the UK with the GOV.AU team in Sydney over Google Hangouts*

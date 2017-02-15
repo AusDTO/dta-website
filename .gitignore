@@ -2,7 +2,9 @@ _site
 .sass-cache
 .asset-cache
 .jekyll-metadata
-dta-website.iml
+dta-website*.iml
 .idea
 .DS_Store
+node_modules
+/coverage
 
