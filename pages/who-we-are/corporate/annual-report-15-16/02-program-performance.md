@@ -187,138 +187,139 @@ The DTO recorded an operating surplus of $1.92 million for 2015–16. At 30 June
 The DTO’s financial statements are presented in Part 4 of this annual report. The Australian National Audit Office issued an unmodified audit opinion of the statements on 16 September 2016. As 2015–16 was the first year of operation for the DTO, there are no comparative figures presented in the financial statements.
 
 Tables 2 and 3 summarise the agency’s total resources and total expenses for the year.
-
-<table class="content-table financial" summary="Table 2 Resource statement">
- <caption><strong>Table 2</strong> Resource statement</caption>
-    <colgroup>
-    <col>
-    <col>
-    <col>
-    <col>
-    <col>
-    </colgroup>
-    <thead>
-      <tr>
-        <td>&nbsp; </td>
-        <td>&nbsp; </td>
-        <th id="bc1" headers="">Actual available appropriation <br>
-          for 2015–16</th>
-        <th id="bc2" headers="">Payments <br>
-          made <br>
-          2015–16</th>
-        <th id="bc3" headers="">Remaining balance <br>
-          2015–16</th>
-      </tr>
-      <tr>
-        <td>&nbsp; </td>
-        <td>&nbsp; </td>
-        <td headers="bc1">$’000<br>
-          (a)</td>
-        <td headers="bc2">$’000<br>
-          (b)</td>
-        <td headers="bc3">$’000<br>
-          (a) – (b)</td>
-      </tr>
+<div class="horizontal-scroll-table-container">
+  <table class="content-table financial" summary="Table 2 Resource statement">
+    <caption><strong>Table 2</strong> Resource statement</caption>
+      <colgroup>
+        <col>
+        <col>
+        <col>
+        <col>
+        <col>
+      </colgroup>
+      <thead>
+        <tr>
+          <td>&nbsp; </td>
+          <td>&nbsp; </td>
+          <th id="bc1" headers="">Actual available appropriation <br>
+            for 2015–16</th>
+          <th id="bc2" headers="">Payments <br>
+            made <br>
+            2015–16</th>
+          <th id="bc3" headers="">Remaining balance <br>
+            2015–16</th>
+        </tr>
+        <tr>
+          <td>&nbsp; </td>
+          <td>&nbsp; </td>
+          <td headers="bc1">$’000<br>
+            (a)</td>
+          <td headers="bc2">$’000<br>
+            (b)</td>
+          <td headers="bc3">$’000<br>
+            (a) – (b)</td>
+        </tr>
       </thead>
-    <tbody>
-      <tr>
-        <th id="br1"><strong>Ordinary annual services</strong><sup>1</sup></th>
-        <td>&nbsp;</td>
-        <td>
-        </td><td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <th id="br2" headers="br1">Departmental appropriation<sup>2</sup></th>
-        <td>&nbsp;</td>
-        <td headers="br1 br2 bc1">32,025</td>
-        <td headers="br1 br2 bc2">22,215</td>
-        <td headers="br1 br2 bc3">9,810</td>
-      </tr>
-      <tr>
-        <th id="br3" headers="br1">Total</th>
-        <td>&nbsp;</td>
-        <td headers="br1 br3 bc1">32,025</td>
-        <td headers="br1 br3 bc2">22,215</td>
-        <td headers="br1 br3 bc3">9,810</td>
-      </tr>
-      <tr>
-        <th id="br4" headers="br1">Total ordinary annual services</th>
-        <td headers="br1 br4">A</td>
-        <td headers="br1 br4 bc1">32,025</td>
-        <td headers="br1 br4 bc2">22,215</td>
-        <td>
-      </td></tr>
-      <tr>
-        <td colspan="5"></td>
-      </tr>
-      <tr>
-        <th id="br5"><strong>Departmental non-operating</strong></th>
-        <td>&nbsp;</td>
-        <td>
-        </td><td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <th id="br6" headers="br5">Equity injections</th>
-        <td>&nbsp;</td>
-        <td headers="br5 br6 bc1">2,226</td>
-        <td headers="br5 br6 bc2">–</td>
-        <td headers="br5 br6 bc3">2,226</td>
-      </tr>
-      <tr>
-        <th id="br7" headers="br5">Total</th>
-        <td>&nbsp;</td>
-        <td headers="br5 br7 bc1">2,226</td>
-        <td headers="br5 br7 bc2">–</td>
-        <td headers="br5 br7 bc3">2,226</td>
-      </tr>
-      <tr>
-        <th id="br8" headers="br5">Total other services</th>
-        <td headers="br5 br8">B</td>
-        <td headers="br5 br8 bc1">2,226</td>
-        <td headers="br5 br8 bc2">–</td>
-        <td>
-      </td></tr>
-      <tr>
-        <td colspan="5"></td>
-      </tr>
-      <tr>
-        <th id="br9" headers="">Total available annual appropriations and payments</th>
-        <td>&nbsp;</td>
-        <td headers="br9 bc1">34,251</td>
-        <td headers="br9 bc2">22,215</td>
-        <td>
-      </td></tr>
-      <tr>
-        <th id="br10"><strong>Total resourcing</strong></th>
-        <td>&nbsp;</td>
-        <td>
-        </td><td>
-        </td><td>
-      </td></tr>
+      <tbody>
+        <tr>
+          <th id="br1"><strong>Ordinary annual services</strong><sup>1</sup></th>
+          <td>&nbsp;</td>
+          <td>
+          </td><td>
+          </td><td>
+        </td></tr>
+        <tr>
+          <th id="br2" headers="br1">Departmental appropriation<sup>2</sup></th>
+          <td>&nbsp;</td>
+          <td headers="br1 br2 bc1">32,025</td>
+          <td headers="br1 br2 bc2">22,215</td>
+          <td headers="br1 br2 bc3">9,810</td>
+        </tr>
+        <tr>
+          <th id="br3" headers="br1">Total</th>
+          <td>&nbsp;</td>
+          <td headers="br1 br3 bc1">32,025</td>
+          <td headers="br1 br3 bc2">22,215</td>
+          <td headers="br1 br3 bc3">9,810</td>
+        </tr>
+        <tr>
+          <th id="br4" headers="br1">Total ordinary annual services</th>
+          <td headers="br1 br4">A</td>
+          <td headers="br1 br4 bc1">32,025</td>
+          <td headers="br1 br4 bc2">22,215</td>
+          <td>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="5"></td>
+        </tr>
+        <tr>
+          <th id="br5"><strong>Departmental non-operating</strong></th>
+          <td>&nbsp;</td>
+          <td>
+          </td><td>
+          </td><td>
+        </td></tr>
+        <tr>
+          <th id="br6" headers="br5">Equity injections</th>
+          <td>&nbsp;</td>
+          <td headers="br5 br6 bc1">2,226</td>
+          <td headers="br5 br6 bc2">–</td>
+          <td headers="br5 br6 bc3">2,226</td>
+        </tr>
+        <tr>
+          <th id="br7" headers="br5">Total</th>
+          <td>&nbsp;</td>
+          <td headers="br5 br7 bc1">2,226</td>
+          <td headers="br5 br7 bc2">–</td>
+          <td headers="br5 br7 bc3">2,226</td>
+        </tr>
+        <tr>
+          <th id="br8" headers="br5">Total other services</th>
+          <td headers="br5 br8">B</td>
+          <td headers="br5 br8 bc1">2,226</td>
+          <td headers="br5 br8 bc2">–</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td colspan="5"></td>
+        </tr>
+        <tr>
+          <th id="br9" headers="">Total available annual appropriations and payments</th>
+          <td>&nbsp;</td>
+          <td headers="br9 bc1">34,251</td>
+          <td headers="br9 bc2">22,215</td>
+          <td></td>
+        </tr>
+        <tr>
+          <th id="br10"><strong>Total resourcing</strong></th>
+          <td>&nbsp;</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
       <tr>
         <th id="br11" headers="br10">A+B</th>
         <td>&nbsp;</td>
         <td headers="br10 br11 bc1">34,251</td>
         <td headers="br10 br11 bc2">22,215</td>
-        <td>
-      </td></tr>
+        <td></td>
+      </tr>
       <tr>
         <th id="br12" headers="br10">Total net resourcing for DTO</th>
         <td>&nbsp;</td>
         <td headers="br10 br12 bc1">34,251</td>
         <td headers="br10 br12 bc2">22,215</td>
-        <td>
-      </td></tr>
+        <td></td>
+      </tr>
     </tbody>
   </table>
+  <ol>
+    <li>Appropriation Act (No.1) 2015–16 and Appropriation Act (No.3) 2015–16.</li>
+    <li>Includes an amount of $1.500 million in 2015–16 for the Departmental Capital Budget. For accounting purposes this amount has been designated as ‘contribution by owners’.</li>
+  </ol>
+</div>
 
-  1. Appropriation Act (No.1) 2015–16 and Appropriation Act (No.3) 2015–16.<br>
-  2. Includes an amount of $1.500 million in 2015–16 for the Departmental Capital Budget. For accounting purposes this amount has been designated as ‘contribution by owners’.
-  
-<br>
-<br>
 <table class="content-table financial" summary="Expenses for Outcome 1">
 <caption><strong>Table 3 </strong>Expenses for Outcome 1 </caption>
 <colgroup>

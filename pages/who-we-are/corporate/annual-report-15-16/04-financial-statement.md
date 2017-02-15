@@ -66,145 +66,146 @@ In our opinion, at the date of this statement, there are reasonable grounds to b
 
 {% include hx.html lvl=2 text="Statement of comprehensive income" %}
 for the period ended 30 June 2016
-
-<table class="content-table financial" summary="Digital Transformation Office Statement of comprehensive income for the period ended 30 June 2016">
-  <colgroup>
-  <col />
-  <col />
-  <col />
-  <col />
-  </colgroup>
-  <thead>
-    <tr>
-      <th />
-      <th />
-      <th>2016</th>
-      <th>Original budget</th>
-    </tr>
-    <tr>
-      <th />
-      <th>Notes</th>
-      <th><strong>$’000</strong></th>
-      <th>$’000</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>NET COST OF SERVICES</strong></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><strong>Expenses</strong></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Employee benefits</td>
-      <td><a href="#expenses">1.1A</a></td>
-      <td><strong>11,547</strong></td>
-      <td>17,276</td>
-    </tr>
-    <tr>
-      <td>Suppliers</td>
-      <td><a href="#expenses">1.1B</a></td>
-      <td><strong>15,509</strong></td>
-      <td>11,365</td>
-    </tr>
-    <tr>
-      <td>Depreciation and amortisation</td>
-      <td><a href="#non-financial-assets">2.2A</a></td>
-      <td><strong>848</strong></td>
-      <td>278</td>
-    </tr>
-    <tr>
-      <td>Write-down and impairment of assets</td>
-      <td><a href="#non-financial-assets">2.2A</a></td>
-      <td><strong>957</strong></td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td><em><strong>Total expenses</strong></em></td>
-      <td />
-      <td><strong>28,861</strong></td>
-      <td>28,919</td>
-    </tr>
-    <tr>
-      <td><strong>Own-source income</strong></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><strong>Own-source revenue</strong></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Resources received free of charge</td>
-      <td><a href="#own-source-revenue-and-gains">1.2A</a></td>
-      <td><strong>261</strong></td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td><em><strong>Total own-source revenue</strong></em></td>
-      <td></td>
-      <td><strong>261</strong></td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td><em><strong>Total own-source income</strong></em></td>
-      <td></td>
-      <td><strong>261</strong></td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td><em><strong>Net cost of services </strong></em></td>
-      <td></td>
-      <td><strong>28,600</strong></td>
-      <td>28,919</td>
-    </tr>
-    <tr>
-      <td>Revenue from Government</td>
-      <td></td>
-      <td><strong>30,525</strong></td>
-      <td>28,641</td>
-    </tr>
-    <tr>
-      <td colspan="2"><em><strong>Surplus/(Deficit) attributable to the Australian Government</strong></em></td>
-      <td><strong>1,925</strong></td>
-      <td>(278)</td>
-    </tr>
-    <tr>
-      <td><strong>OTHER COMPREHENSIVE INCOME</strong></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><strong>Items not subject to subsequent reclassification to net cost of services</strong></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Changes in asset revaluation surplus</td>
-      <td></td>
-      <td><strong>-</strong></td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td><em><strong>Total comprehensive income/(loss) attributable to the Australian Government</strong></em></td>
-      <td></td>
-      <td><strong>1,925</strong></td>
-      <td>(278)</td>
-    </tr>
-  </tbody>
-</table>
- <div class="notes indented">
+<div class="horizontal-scroll-table-container">
+  <table class="content-table financial" summary="Digital Transformation Office Statement of comprehensive income for the period ended 30 June 2016">
+    <colgroup>
+    <col />
+    <col />
+    <col />
+    <col />
+    </colgroup>
+    <thead>
+      <tr>
+        <th />
+        <th />
+        <th>2016</th>
+        <th>Original budget</th>
+      </tr>
+      <tr>
+        <th />
+        <th>Notes</th>
+        <th><strong>$’000</strong></th>
+        <th>$’000</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>NET COST OF SERVICES</strong></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><strong>Expenses</strong></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Employee benefits</td>
+        <td><a href="#expenses">1.1A</a></td>
+        <td><strong>11,547</strong></td>
+        <td>17,276</td>
+      </tr>
+      <tr>
+        <td>Suppliers</td>
+        <td><a href="#expenses">1.1B</a></td>
+        <td><strong>15,509</strong></td>
+        <td>11,365</td>
+      </tr>
+      <tr>
+        <td>Depreciation and amortisation</td>
+        <td><a href="#non-financial-assets">2.2A</a></td>
+        <td><strong>848</strong></td>
+        <td>278</td>
+      </tr>
+      <tr>
+        <td>Write-down and impairment of assets</td>
+        <td><a href="#non-financial-assets">2.2A</a></td>
+        <td><strong>957</strong></td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td><em><strong>Total expenses</strong></em></td>
+        <td />
+        <td><strong>28,861</strong></td>
+        <td>28,919</td>
+      </tr>
+      <tr>
+        <td><strong>Own-source income</strong></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><strong>Own-source revenue</strong></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Resources received free of charge</td>
+        <td><a href="#own-source-revenue-and-gains">1.2A</a></td>
+        <td><strong>261</strong></td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td><em><strong>Total own-source revenue</strong></em></td>
+        <td></td>
+        <td><strong>261</strong></td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td><em><strong>Total own-source income</strong></em></td>
+        <td></td>
+        <td><strong>261</strong></td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td><em><strong>Net cost of services </strong></em></td>
+        <td></td>
+        <td><strong>28,600</strong></td>
+        <td>28,919</td>
+      </tr>
+      <tr>
+        <td>Revenue from Government</td>
+        <td></td>
+        <td><strong>30,525</strong></td>
+        <td>28,641</td>
+      </tr>
+      <tr>
+        <td colspan="2"><em><strong>Surplus/(Deficit) attributable to the Australian Government</strong></em></td>
+        <td><strong>1,925</strong></td>
+        <td>(278)</td>
+      </tr>
+      <tr>
+        <td><strong>OTHER COMPREHENSIVE INCOME</strong></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><strong>Items not subject to subsequent reclassification to net cost of services</strong></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Changes in asset revaluation surplus</td>
+        <td></td>
+        <td><strong>-</strong></td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td><em><strong>Total comprehensive income/(loss) attributable to the Australian Government</strong></em></td>
+        <td></td>
+        <td><strong>1,925</strong></td>
+        <td>(278)</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="notes indented">
   <div markdown="1">
 **Budget Variance Commentary**
 

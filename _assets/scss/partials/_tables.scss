@@ -1,3 +1,6 @@
+/**
+For tables which suit a CSS responsive table approach. Collapses the table below the tablet breakpoint.
+ */
 .responsive-table {
   @include media($mobile-only) {
     //Force table to not be like a table anymore
@@ -42,6 +45,36 @@
       white-space: nowrap;
       content: attr(data-label);
       font-weight: bold;
+    }
+  }
+}
+
+/**
+For tables where the tabular structure must be kept intact even on mobile screens.
+Once the page width becomes smaller than the table, the container will mask the table to keep it within
+the page width. The user can then scroll left and right with their finger to view the table contents.
+The table must be wrapped in a div with this class.
+ */
+div.horizontal-scroll-table-container {
+  width:100%;
+  overflow:auto;
+
+  table {
+    td {
+      min-width: 8em;
+    }
+
+    @include media($tablet) {
+      td {
+        min-width: 10em;
+      }
+      th:first-child,
+      td:first-child {
+        max-width: 20em;
+      }
+      td:first-child[colspan] {
+        max-width: initial;
+      }
     }
   }
 }
