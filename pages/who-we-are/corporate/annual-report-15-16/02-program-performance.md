@@ -314,7 +314,7 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
     </tbody>
   </table>
 
-  1. Appropriation Act (No.1) 2015–16 and Appropriation Act (No.3) 2015–16.
+  1. Appropriation Act (No.1) 2015–16 and Appropriation Act (No.3) 2015–16.<br>
   2. Includes an amount of $1.500 million in 2015–16 for the Departmental Capital Budget. For accounting purposes this amount has been designated as ‘contribution by owners’.
   
 <br>
