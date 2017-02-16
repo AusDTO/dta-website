@@ -5,7 +5,7 @@
     <title>Digital Transformation Agency posts{% if include.tag %} tagged '{{include.tag}}'{% endif %}</title>
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ '/' | prepend: page.path | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <atom:link href="{{ '/' | append: page.path | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
