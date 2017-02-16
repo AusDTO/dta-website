@@ -1,0 +1,5 @@
+---
+layout: null
+exclude_from_search: true
+---
+{% include feed.liquid tag='technology' %}
