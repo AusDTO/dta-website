@@ -21,4 +21,4 @@ The office will also focus on establishing ongoing strategic partnerships across
 
 "We can always do better - better impact for government by doing more with every dollar and better impact for citizens by providing easier-to-use services”, said Angus Taylor, Assistant Minister for Digital Transformation. 
 
-Read Assistant Minister Taylor’s full statement in his [Media Release.]( http://ministers.dpmc.gov.au/taylor/2017/government-will-review-all-major-ict-projects)
+Read Assistant Minister Taylor’s full statement in his [media release.]( http://ministers.dpmc.gov.au/taylor/2017/government-will-review-all-major-ict-projects)
