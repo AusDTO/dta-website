@@ -70,7 +70,7 @@
       vertical-align: top;
     }
 
-    // The default agent sheet styles `<th>` as bold, however for an accessibile table, `<th>` can appear throughout
+    //The default agent sheet styles `<th>` as bold, however for an accessibile table, `<th>` can appear throughout
     //`<tbody>`. For the annual report we override this, and instead use `<strong>` where necessary.
     //Possibly this should be overridden globally in ui-kit.
     thead th {
@@ -83,7 +83,7 @@
     /**
     For financial tables, align the text to the right
      */
-    .financial {
+    &.financial {
       th,
       td {
         text-align: right;
