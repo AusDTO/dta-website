@@ -17,7 +17,7 @@ searchexcerpt: "Deciding whether or not something should be made open source can
 
 ### What is it?
 
-Equal parts product, community and collaboration. It might have started off as only your project but it's much more than that now. The community might now be dependant on this code.
+Equal parts product, community and collaboration. It might have started off as only your project but it's much more than that now. The community might now be dependent on this code.
  
 ### Why would I?
 
