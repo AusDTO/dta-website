@@ -53,6 +53,11 @@
   margin-bottom: $base-spacing;
   padding-bottom: $base-spacing;
   border-bottom: 1px dotted $border-colour;
+
+  img.shadow {
+    border-radius: $tiny-border-radius;
+    box-shadow: 0 0 8px $light-grey;
+  }
 }
 
 .post-author-bio {
