@@ -9,7 +9,7 @@ hero-image: /images/blog-content/github-screenshot-content.png
 searchexcerpt: "Deciding whether or not something should be made open source can be a tricky decision. Firstly, knowing what you're trying to achieve, and then understanding how you can get there, will make the decision a little easier. Here are three options to consider: collaborative open source, open source and closed source."
 ---
 
-![ThinkPlace Director Darren Menachemson presenting government content research findings.]({{site.url}}{{site.baseurl}}{{page.hero-image}})
+![Screenshot of the dto-digitalmarketplace-buyer-frontend repository on GitHub]({{site.url}}{{site.baseurl}}{{page.hero-image}}){:class="shadow"}
 
 *Caption: This image shows contributions to the DTA’s open source Digital Marketplace from the UK’s Government Digital Service and people in the community.*
 
