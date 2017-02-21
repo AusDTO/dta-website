@@ -63,6 +63,7 @@ Government code should be available to others unless there is a compelling reaso
 Start today! Sign your department up to an online open source community and add your product. We use [GitHub](https://github.com/ausdto) but you can use whatever works for you and your department.
 
 We have a [guide about sharing code](https://www.dta.gov.au/standard/design-guides/code-sharing/) that will give you more information about how to make your code open.
+
 At some point in your journey you will need to pick an open source license for your code.  The [Choose a License website](https://choosealicense.com/) is a good resource to get you started on the different types of licences available. They can be a little hard to read, so seek legal advice on the licenses if you're unsure.
 
 If you're struggling to get started, let us know! We're happy to give you a hand.
