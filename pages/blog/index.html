@@ -11,41 +11,9 @@ permalink: /blog/
   <h1>Blog</h1>
   <h2>Latest blog posts</h2>
 
-  <ul class="list-vertical">
+  <ul class="list-vertical latest-post-list">
     {% for post in site.categories['blog'] limit:4 %}
-    <li>
-      <figure>
-        {% if post.thumbnail %}
-        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ site.baseurl }}{{ post.thumbnail }}" alt="Read post {{ post.title }}"></a>
-        {% else %}
-        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ site.baseurl }}/images/blog-thumbnail-placeholder.png" alt="Read post {{ post.title }}"></a>
-        {% endif %}
-      </figure>
-      <article>
-        <h3>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
-        <div class="meta">
-          <time datetime="{{ post.date }}">{{ post.date | date: "%-d %b %Y" }}</time>
-          {{ post.author }}
-          <span class="tags">
-
-          </span>
-        </div>
-        {% if post.tags.size > 0 %}
-        <footer class="tags">
-          <dl>
-            <dt>Tags:</dt>
-            {% for tag in post.tags %}
-            {% if tag != '' %}
-            <dd><a href="{{site.baseurl}}{{site.tag_dir}}/{{tag | slugify }}/" >{{tag}}</a></dd>
-            {% endif %}
-            {% endfor %}
-          </dl>
-        </footer>
-        {% endif %}
-      </article>
-    </li>
+      {% include latest-post-list-item.html post=post show-tags=1 show-author=1%}
     {% endfor %}
   </ul>
 
@@ -66,8 +34,6 @@ permalink: /blog/
     {%endunless%}
     {% endfor %}
   </ul>
-
-
 
 </article>
 

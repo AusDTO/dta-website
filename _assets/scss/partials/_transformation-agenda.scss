@@ -1,4 +1,3 @@
-
 .transformation-agenda {
   .index-links {
     h2 {
@@ -6,8 +5,9 @@
       font-weight: $base-font-weight;
     }
   }
+  // Fix font size bug from .govspeak
   .list-vertical--thirds {
-    h4 {
+    h3, h4 {
       font-size: rem(18);
       margin-top: 0;
       @include ie-lte(8) {
@@ -24,27 +24,4 @@
       background-color: initial;
     }
   }
-
-  .latest-news {
-    h3,
-    div,
-    p {
-      flex: 0 0 100%;
-      font-size: rem(18);
-      margin-top: 0;
-    }
-    div.meta {
-      display: inline-block;
-      padding-top: $small-spacing;
-      time {
-        display: inline-block;
-      }
-      .tags {
-        margin-left: $tiny-spacing;
-      }
-    }
-
-  }
-
 }
-

@@ -5,8 +5,6 @@ permalink: /blog/all-posts/
 ---
 <ul class="list-horizontal">
 {% for post in site.categories['blog'] %}
-  <li>
-    {% include post-list-item.html %}
-  </li>
+  {% include post-list-item.html %}
 {% endfor %}
 </ul>

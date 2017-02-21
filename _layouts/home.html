@@ -12,7 +12,7 @@ layout: base
 
   <section class="news-media">
     <h2 class="home-heading">Latest news and blog posts</h2>
-    <ul class="list-vertical--fourths">
+    <ul class="list-vertical--fourths latest-post-list">
 
       {% for post in site.posts limit:8 %}
         {% assign url = post.url %}
@@ -20,29 +20,8 @@ layout: base
           {% assign url = post.external-url%}
         {% endif %}
 
-      <li>
-        <figure>
-          {% if post.thumbnail %}
-          <a href="{{ url }}"><img class="blog-thumbnail" src="{{site.baseurl}}{{ post.thumbnail }}" alt="Read post {{ post.title }}"></a>
-          {% else %}
-          <a href="{{ url }}"><img class="blog-thumbnail" src="{{site.baseurl}}/images/post-thumbnail-placeholder.png" alt="Read post {{ post.title }}"></a>
-          {% endif %}
-        </figure>
-        <article>
-          <h3>
-            <a href="{{ url }}">{{ post.title }}</a>
-          </h3>
-          <div class="meta">
-            <time datetime="{{ post.date }}">{{ post.date | date: "%-d %b %Y" }}</time>
-            {% if post.category contains "blog" %}
-            <a href="{{site.baseurl}}/blog/">Blog</a>
-            {% else %}
-            <a href="{{site.baseurl}}/news/">News</a>
-            {% endif %}
-            </span>
-          </div>
-        </article>
-      </li>
+      {% include latest-post-list-item.html post=post show-category=1 %}
+
       {% endfor %}
     </ul>
     <p><a class="see-more" href="/news/">See more news</a></p>
