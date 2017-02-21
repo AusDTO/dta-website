@@ -18,7 +18,7 @@ searchexcerpt: "Deciding whether or not something should be made open source can
 ### What is it?
 
 Equal parts product, community and collaboration. It might have started off as only your project but it's much more than that now. The community might now be dependent on this code.
- 
+
 ### Why would I?
 
 You have made something that solves your problems, and you know it will solve other people's as well. There are features you want implemented but you don't have the time.
@@ -57,13 +57,17 @@ If you have secrets littered through your closed source code, someone will event
 ### Why would I?
 
 Government code should be available to others unless there is a compelling reason. Everyone in the public service benefits from being able to reuse code that others have developed. We all work for the taxpayer and they should be able to see and use what they've paid for.
- 
+
 ### How do I?
 
 Start today! Sign your department up to an online open source community and add your product. We use [GitHub](https://github.com/ausdto) but you can use whatever works for you and your department.
 
+We have a [guide about sharing code](https://www.dta.gov.au/standard/design-guides/code-sharing/) that will give you more information about how to make your code open.
+
+At some point in your journey you will need to pick an open source license for your code.  The [Choose a License website](https://choosealicense.com/) is a good resource to get you started on the different types of licences available. They can be a little hard to read, so seek legal advice on the licenses if you're unsure.
+
 If you're struggling to get started, let us know! We're happy to give you a hand.
- 
+
 ### Anything else?
 
 Try to find some time to make your work easier for others to reuse and contribute to. If nothing else, it will help the people who take over maintaining what you're working on.
@@ -83,7 +87,7 @@ Security is a very valid reason, but you shouldn't use it as an excuse to close 
 There are lots of examples of world class security products that are open source. Talk with your department's [ITSA](http://www.asd.gov.au/publications/Information_Security_Manual_2016_Controls.pdf) (Information Technology Security Advisor) for specific advice.
 
 Many private sector organisations close their code to maintain control of their brand and their user experience, in government, we don’t have those issues.
- 
+
 ### How do I?
 
 Simple. Keep doing what you are already doing. **But remember:** having closed source code doesn't mean you can get lazy. People will still need to read and update your code, it could be around for a long, long time. Take pride in your work and code like the world is watching.
