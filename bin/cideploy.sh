@@ -54,12 +54,11 @@ main() {
       ;;
     ${DEPLOY_BRANCHES})
       basicauth
-      appname="${CIRCLE_PROJECT_REPONAME}-${GITBRANCH}"
       cf api $CF_STAGING_API
       cf auth $CF_USER $CF_PASSWORD
       cf target -o $CF_ORG
       cf target -s $CF_SPACE
-      cf push $appname
+      cf push "$CF_PUSH_APPNAME"
       ;;
     *)
       echo "I will not deploy this branch"
