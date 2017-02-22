@@ -42,6 +42,7 @@ During Beta you’ll have developed further working code and should be ready to 
 - [18F - Testing cookbook](https://pages.18f.gov/testing-cookbook/)
 - [GitHub and Government](https://government.github.com/)
 - [Government GitHub Community](https://government.github.com/community/)
-- [Wikipedia - Comparison of free and open-source software licences](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses)  
+- [Wikipedia - Comparison of free and open-source software licences](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses)
+- [DTA Blog - Making source code open](https://www.dta.gov.au/blog/making-source-code-open/)
 
-**Last updated**: 6 May 2016
+**Last updated**: 22 February 2017
