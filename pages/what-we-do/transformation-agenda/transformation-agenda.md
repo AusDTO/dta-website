@@ -138,35 +138,14 @@ Having problems seeing this image? [Open larger roadmap image]({{site.baseurl}}/
 
 ## Related news and blog posts
 
-<ul class="list-vertical--thirds latest-news">
+<ul class="list-vertical--thirds latest-post-list">
 
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% if t == 'digital transformation' %}
     {% assign posts = tag | last %}
     {% for post in posts limit:3 %}
-    <li>
-      <figure>
-        {% if post.thumbnail %}
-        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ site.baseurl }}{{ post.thumbnail }}" alt="Read post {{ post.title }}"></a>
-        {% else %}
-        <a href="{{ post.url }}"><img class="blog-thumbnail" src="{{ site.baseurl }}/images/post-thumbnail-placeholder.png" alt="Read post {{ post.title }}"></a>
-        {% endif %}
-      </figure>
-      <article>
-        <h3>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
-        <div class="meta">
-          <time datetime="{{ post.date }}">{{ post.date | date: "%-d %b %Y" }}</time>
-          {% if post.category contains "blog" %}
-          <a href="{{site.baseurl}}/blog/">Blog</a>
-          {% else %}
-          <a href="{{site.baseurl}}/news/">News</a>
-          {% endif %}
-        </div>
-      </article>
-    </li>
+    {% include latest-post-list-item.html post=post show-category=1 %}
     {% endfor %}
   {% endif %}
 {% endfor %}
