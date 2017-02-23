@@ -1,14 +1,14 @@
 ---
 title: "Digital Marketplace opens for new sellers"
 category: [news]
-tag: 'dta news'
+tag: 'digital marketplace'
 thumbnail: /images/blog-thumbnails/ipad-outside-THUMB-v2.png
 hero-image: /images/blog-content/ipad-outside-HERO-v2.png
 feed: true
 ---
 
-![A user interacting with the Digital Marketplace website.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
-*A user interacting with the Digital Marketplace website.*
+![A new seller joins the Digital Marketplace.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+*A new seller joins the Digital Marketplace.*
 
 The Digital Transformation Agency has today delivered its expanded Digital Marketplace, allowing new sellers to join and offering a greater range of digital services to government buyers.
 
