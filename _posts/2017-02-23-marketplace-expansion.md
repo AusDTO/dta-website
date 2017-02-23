@@ -2,8 +2,9 @@
 title: "Digital Marketplace opens for new sellers"
 category: [news]
 tag: 'dta news'
-thumbnail: /images/blog-thumbnails/ipad-outside-THUMB.jpg
-hero-image: /images/blog-content/ipad-outside-HERO.jpg
+thumbnail: /images/blog-thumbnails/ipad-outside-THUMB.png
+hero-image: /images/blog-content/ipad-outside-HERO.png
+feed: true
 ---
 
 ![A user interacting with the Digital Marketplace website.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
@@ -35,4 +36,4 @@ Ms O’Loughlin said another new feature was an option for government buyers to 
 
 It is expected the expansion of the marketplace will lead to a doubling of the number of registered sellers in the coming weeks.  
 
-The marketplace is being delivered as part of the National Innovation and Science Agenda. To join the Digital Marketplace as a buyer or seller, or to find out more, visit [gov.au/marketplace](gov.au/marketplace)
+The marketplace is being delivered as part of the National Innovation and Science Agenda. To join the Digital Marketplace as a buyer or seller, or to find out more, visit [gov.au/marketplace](https://marketplace.service.gov.au/)
