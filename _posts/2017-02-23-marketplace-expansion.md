@@ -2,12 +2,12 @@
 title: "Digital Marketplace opens for new sellers"
 category: [news]
 tag: 'dta news'
-thumbnail: /images/blog-thumbnails/dashboard-laptop-thumb.jpg
-hero-image: /images/blog-content/dashboard-laptop-content.jpg
+thumbnail: /images/blog-thumbnails/ipad-outside-THUMB.jpg
+hero-image: /images/blog-content/ipad-outside-HERO.jpg
 ---
 
-![Assistant Minister for Digital Transformation, Angus Taylor giving a presentation.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
-*Assistant Minister for Digital Transformation, Angus Taylor giving a presentation.*
+![A user interacting with the Digital Marketplace website.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+*A user interacting with the Digital Marketplace website.*
 
 The Digital Transformation Agency has today delivered its expanded Digital Marketplace, allowing new sellers to join and offering a greater range of digital services to government buyers.
 
@@ -35,4 +35,4 @@ Ms O’Loughlin said another new feature was an option for government buyers to 
 
 It is expected the expansion of the marketplace will lead to a doubling of the number of registered sellers in the coming weeks.  
 
-The marketplace is being delivered as part of the National Innovation and Science Agenda. To join the Digital Marketplace as a buyer or seller, or to find out more, visit [marketplace.service.gov.au/become-a-seller](https://marketplace.service.gov.au/become-a-seller)
+The marketplace is being delivered as part of the National Innovation and Science Agenda. To join the Digital Marketplace as a buyer or seller, or to find out more, visit [gov.au/marketplace](gov.au/marketplace)
