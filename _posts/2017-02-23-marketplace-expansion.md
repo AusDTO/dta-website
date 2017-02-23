@@ -2,8 +2,8 @@
 title: "Digital Marketplace opens for new sellers"
 category: [news]
 tag: 'dta news'
-thumbnail: /images/blog-thumbnails/ipad-outside-THUMB.png
-hero-image: /images/blog-content/ipad-outside-HERO.png
+thumbnail: /images/blog-thumbnails/ipad-outside-THUMB-v2.png
+hero-image: /images/blog-content/ipad-outside-HERO-v2.png
 feed: true
 ---
 
