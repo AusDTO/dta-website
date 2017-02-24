@@ -24,8 +24,8 @@ In February 2017, the marketplace opened to an unlimited number of sellers in an
 - Emerging technologies
 - Support and operations 
 - Content and publishing
-- Recruitment.
+- Recruitment
 
 The Marketplace also allows sellers to identify themselves as a number of business types including startups, small-to-medium enterprise, and Indigenous-owned or disability enterprises. This allows government to support the growth of these businesses.
 
-The [Digital Marketplace](https://marketplace.service.gov.au/) is being delivered by the DTA as part of the National Innovation and Science Agenda.
+The [Digital Marketplace](https://marketplace.service.gov.au/) is being delivered by the DTA as part of the [National Innovation and Science Agenda](http://www.innovation.gov.au/page/digital-marketplace).
