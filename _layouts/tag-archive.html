@@ -32,13 +32,9 @@ searchexcerpt: "Browse our posts by topic"
   <p>Archived news from the Digital Transformation Office.</p>
   {% endif %}
   <ul class="list-horizontal">
-
     {% for post in page.posts %}
-    <li>
       {% include post-list-item.html %}
-    </li>
     {% endfor %}
-
   </ul>
   {% endif %}
 </article>

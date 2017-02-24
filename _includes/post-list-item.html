@@ -1,15 +1,12 @@
-
+<li>
 {% assign url = post.url %}
 {% if post.external-url %}
   {% assign url = post.external-url%}
 {% endif %}
 
 <figure>
-
 {% if post.thumbnail %}
-  <a href="{{ url }}">
-    <img src="{{ post.thumbnail }}" alt="Read post {{ post.title }}" />
-  </a>
+  <img src="{{site.baseurl}}{{ post.thumbnail }}" alt="" />
 {% endif %}
 </figure>
 <article>
@@ -39,3 +36,4 @@
   </footer>
 {% endif %}
 </article>
+</li>

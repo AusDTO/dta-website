@@ -16,9 +16,7 @@ searchexcerpt: All the news from the Digital Transformation Agency.
         {% endif %}
     {% endfor %}
 
-    {% for post in news %}
-    <li>
-        {% include post-list-item.html %}
-    </li>
-    {% endfor %}
+  {% for post in news %}
+    {% include post-list-item.html %}
+  {% endfor %}
 </ul>
