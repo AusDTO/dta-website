@@ -1,3 +1,7 @@
+{% assign url = post.url %}
+{% if include.post.external-url %}
+  {% assign url = include.post.external-url%}
+{% endif %}
 <li>
   <article>
     <a href="{{ url }}">

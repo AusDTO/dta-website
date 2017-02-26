@@ -13,15 +13,8 @@ layout: base
   <section class="news-media">
     <h2 class="home-heading">Latest news and blog posts</h2>
     <ul class="list-vertical--fourths latest-post-list">
-
       {% for post in site.posts limit:8 %}
-        {% assign url = post.url %}
-        {% if post.external-url %}
-          {% assign url = post.external-url%}
-        {% endif %}
-
-      {% include latest-post-list-item.html post=post show-category=1 %}
-
+        {% include latest-post-list-item.html post=post show-category=1 %}
       {% endfor %}
     </ul>
     <p><a class="see-more" href="/news/">See more news</a></p>
