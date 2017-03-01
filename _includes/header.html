@@ -1,17 +1,16 @@
-<header class="dto--header" role="banner">
+<header role="banner">
   <section class="page-header">
     <div class="wrapper">
-      {% if page.url == "/" %}
       <div class="page-header__logo">
-        Digital Transformation Agency logo
+        {% if page.url == "/" %}
+          <img src="{{ site.baseurl }}/images/logo_dta_inline.svg" alt="Digital Transformation Agency logo">
+        {% else %}
+          <a href="{{ site.baseurl }}/">
+            <img src="{{ site.baseurl }}/images/logo_dta_inline.svg" alt="">
+            <span>Digital Transformation Agency homepage</span>
+          </a>
+        {% endif%}
       </div>
-      {% else %}
-      <a href="{{site.baseurl}}/" class="logo">
-        <div class="page-header__logo">
-          Digital Transition Agency homepage
-        </div>
-      </a>
-      {% endif %}
       {% unless include.hide-search %}
       <div class="site-search">
         <form action="/search/" role="search" method="get">
