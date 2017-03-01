@@ -2,13 +2,16 @@
 title: "Doing the hard work to make it simple"
 category: [blog]
 tag: 'digital marketplace'
+author: Steven Berends
+author-excerpt: "Steven Berends is the Digital Marketplace content designer."
 thumbnail: /images/blog-thumbnails/devicesx3_Marketplace_thumb (1).png
 hero-image: /images/blog-content/devicesx3_Marketplace_hero (1).png
 searchexcerpt: "Since our approach to market was published last Thursday, more than 350 new sellers have applied to join the Digital Marketplace. The marketplace expansion includes more sellers, more expertise and more features to make procurement simpler, clearer and faster. "
 ---
 
 ![The Digital Marketplace site shown on 3 devices.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
-*The Digital Marketplace site shown on 3 devices.*
+
+*Caption: The Digital Marketplace site shown on 3 devices.*
 
 With our latest release we believe we’ve made significant advances in breaking down barriers so that it’s easier for businesses of all sizes to work with government—and easier for government to work with business. 
 
@@ -72,6 +75,3 @@ In the meantime you can still create an account and publish new opportunities.
 If you work in government and have an email address ending in **.gov.au** [create a buyer account now](https://marketplace.service.gov.au/signup).
 
 If your government email address is different, you can request a buyer account by emailing [marketplace@digital.gov.au](mailto:marketplace@digital.gov.au).
-
-
-**Steven Berends is the Digital Marketplace content designer.**
