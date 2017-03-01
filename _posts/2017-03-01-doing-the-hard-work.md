@@ -71,7 +71,7 @@ In the meantime you can still create an account and publish new opportunities.
 
 If you work in government and have an email address ending in **.gov.au** [create a buyer account now](https://marketplace.service.gov.au/signup).
 
-If your government email address is different, you can request a buyer account by emailing mailto:marketplace@digital.gov.au.
+If your government email address is different, you can request a buyer account by emailing [marketplace@digital.gov.au](mailto:marketplace@digital.gov.au).
 
 
 **Steven Berends is the Digital Marketplace content designer.**
