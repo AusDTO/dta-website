@@ -2,13 +2,13 @@
 title: "Doing the hard work to make it simple"
 category: [blog]
 tag: 'digital marketplace'
-thumbnail: /images/blog-thumbnails/ipad-outside-THUMB-v2.png
-hero-image: /images/blog-content/ipad-outside-HERO-v2.png
+thumbnail: /images/blog-thumbnails/devicesx3_Marketplace_THUMB.png
+hero-image: /images/blog-content/devicesx3_Marketplace_HERO.png
 searchexcerpt: "Since our approach to market was published last Thursday, more than 300 new sellers have applied to join the Digital Marketplace. The marketplace expansion includes more sellers, more expertise and more features to make procurement simpler, clearer and faster. "
 ---
 
-![A new seller joins the Digital Marketplace.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
-*A new seller joins the Digital Marketplace.*
+![The Digital Marketplace site shown on 3 devices.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+*The Digital Marketplace site shown on 3 devices.*
 
 With our latest release we believe we’ve made significant advances in breaking down barriers so that it’s easier for businesses of all sizes to work with government—and easier for government to work with business. 
 
@@ -41,11 +41,15 @@ Before sellers can apply for an opportunity they need to be approved to join the
 The Digital Marketplace also hosts a directory of new-to-government non-panel sellers. Their application to the Digital Marketplace represents the first step in introducing themselves to government.
 
 ## New simple features
-*Search*—to help buyers find what they need more easily we’ve given them keyword search. A timely addition as seller profiles have been expanded to include case studies and badges to create a complete digital shopfront to government. 
-*Badging diversity*—through self-identification sellers can make it easier for buyers to find businesses who can contribute to their procurement diversity aims. For example, the ‘Indigenous’ badge can be displayed by businesses owned by Aboriginal and Torres Strait Islanders to help buyers meet targets set out in the Indigenous Procurement Policy.
-*Document management*—by storing sellers insurance and financial information centrally we make buyers’ due diligence simpler and avoid sellers having to supply the same documents many times.
-*Scalable contracts*—the Digital Marketplace panel legal agreement is now an online, modular contract that is designed to scale for procurements from simple to complex. 
-*Guidance and coaching*—the Digital Marketplace offers guidance and coaching to buyers on how to structure, write and assess briefs for the digital age. If you need a hand all you need to do is email us.
+**Search**—to help buyers find what they need more easily we’ve given them keyword search. A timely addition as seller profiles have been expanded to include case studies and badges to create a complete digital shopfront to government. 
+
+**Badging diversity**—through self-identification sellers can make it easier for buyers to find businesses who can contribute to their procurement diversity aims. For example, the ‘Indigenous’ badge can be displayed by businesses owned by Aboriginal and Torres Strait Islanders to help buyers meet targets set out in the [Indigenous Procurement Policy](https://www.dpmc.gov.au/indigenous-affairs/economic-development/indigenous-procurement-policy-ipp).
+
+**Document management**—by storing sellers insurance and financial information centrally we make buyers’ due diligence simpler and avoid sellers having to supply the same documents many times.
+
+**Scalable contracts**—the Digital Marketplace panel legal agreement is now an online, modular contract that is designed to scale for procurements from simple to complex. 
+
+**Guidance and coaching**—the Digital Marketplace offers guidance and coaching to buyers on how to structure, write and assess briefs for the digital age. If you need a hand all you need to do is [email us](mailto:marketplace@digital.gov.au).
 
 ## What this means for sellers
 We’ve made it easier for digital businesses of all sizes to work with government. With a single application to join the Digital Marketplace, that can be completed at any time, you can access opportunities published by hundreds of buyers across local, state, territory and federal government. 
@@ -54,10 +58,9 @@ The application can be completed quickly and easily and serves a dual purpose. F
 
 This application is now open to new sellers and to current sellers who wish to expand the services they offer.
 
-New sellers — join the Digital Marketplace now
+[New sellers — join the Digital Marketplace now](https://marketplace.service.gov.au/become-a-seller)
 
-Current sellers — update your seller profile now
-
+[Current sellers — update your seller profile now](https://marketplace.service.gov.au/login)
 
 ## What this means for buyers
 In a few weeks digital procurement is about to get easier. 
@@ -66,9 +69,9 @@ In compliance with Commonwealth Procurement Rules a minimum of 25 days must pass
 
 In the meantime you can still create an account and publish new opportunities. 
 
-If you work in government and have an email address ending in *.gov.au* create a buyer account now.
+If you work in government and have an email address ending in **.gov.au** [create a buyer account now](https://marketplace.service.gov.au/signup).
 
-If your government email address is different, you can request a buyer account by emailing marketplace@digital.gov.au.
+If your government email address is different, you can request a buyer account by emailing mailto:marketplace@digital.gov.au.
 
 
-*Steven Berends is the Digital Marketplace content designer.*
+**Steven Berends is the Digital Marketplace content designer.**
