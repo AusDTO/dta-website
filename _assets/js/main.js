@@ -9,3 +9,4 @@
 //= require search
 
 //= require assessment-tabs
+//= require site-logo
