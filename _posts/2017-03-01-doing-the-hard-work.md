@@ -2,9 +2,9 @@
 title: "Doing the hard work to make it simple"
 category: [blog]
 tag: 'digital marketplace'
-thumbnail: /images/blog-thumbnails/devicesx3_Marketplace_THUMB.png
-hero-image: /images/blog-content/devicesx3_Marketplace_HERO.png
-searchexcerpt: "Since our approach to market was published last Thursday, more than 300 new sellers have applied to join the Digital Marketplace. The marketplace expansion includes more sellers, more expertise and more features to make procurement simpler, clearer and faster. "
+thumbnail: /images/blog-thumbnails/devicesx3_Marketplace_thumb (1).png
+hero-image: /images/blog-content/devicesx3_Marketplace_hero (1).png
+searchexcerpt: "Since our approach to market was published last Thursday, more than 350 new sellers have applied to join the Digital Marketplace. The marketplace expansion includes more sellers, more expertise and more features to make procurement simpler, clearer and faster. "
 ---
 
 ![The Digital Marketplace site shown on 3 devices.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
@@ -34,7 +34,7 @@ In addition to services, sellers can showcase their digital products. This is a 
 Best of all, from now on we never close. New sellers can onboard at any time. 
 
 ## A balance of new and pre-qualified sellers
-Since our approach to market was published last Thursday, over 300 new sellers have applied to join. 
+Since our approach to market was published last Thursday, over 350 new sellers have applied to join. 
 
 Before sellers can apply for an opportunity they need to be approved to join the Digital Marketplace panel, which means they are appropriately assessed for digital expertise and corporate stability. 
 
