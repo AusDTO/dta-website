@@ -1,5 +1,5 @@
 ---
-title: "Hacking for good --- What is security testing?"
+title: "Hacking for good &mdash; What is security testing?"
 category: [blog]
 tag: 'technology'
 author: Stephen Bradshaw
@@ -15,7 +15,7 @@ searchexcerpt: "Security testing helps identify vulnerabilities in systems so th
 
 Security testing is used to find vulnerabilities in a system. As an ethical hacker at the DTA, I perform security testing on systems developed in-house at the DTA or in partnership with other government agencies. I work alongside, not outside, the product teams, helping them deliver better, secure products.
 
-This is the first in a series of blogs in which I look at security testing --- what is it, why do it, how we do it at the DTA and how developers and ethical hackers can work together.
+This is the first in a series of blogs in which I look at security testing &mdash; what is it, why do it, how we do it at the DTA and how developers and ethical hackers can work together.
 
 Security testing is one component of a larger program of activities used to secure a system. This includes a variety of practices, processes and assessments that look to manage the security of the system through its entire lifecycle.
 
