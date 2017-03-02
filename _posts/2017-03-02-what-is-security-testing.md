@@ -27,18 +27,29 @@ The tester will interact with the system with the goal of understanding exactly 
 
 The activities that comprise security testing fall into a number of categories. A system will be tested with some combination of them, based on the security tester’s assessment of what is most suitable in each situation. 
 
-**Source code review.** Reviewing the source code of an application for security issues. This can include:
+**Source code review** 
+
+Reviewing the source code of an application for security issues. This can include:
+
 - using third party source code analysers. These scan source code files for patterns associated with previously identified security issues.
 - using custom written tools to identify "interesting" code. These are tools written by the tester to perform a particular analysis task. One example of this would be checking for hard coded passwords or security keys.  
 - manual code review.  This is reading the code to understand what it does.  Depending on the size of the application, it is generally not feasible to read all of its code.  In this case, the tester will use various strategies to identify areas on which to focus. Finding interesting code through penetration testing is one such strategy.
 
-**Penetration testing.** Probing a running system in a structured fashion to detect vulnerabilities. There are references, such as the OWASP Testing Guide, which can be used to guide the testing process. Additionally, there are many free and open source tools to use in performing the testing. A running instance of the system is required for penetration testing. This will ideally be a development, test or staging server. Testing against production is also possible if special care is taken.
+**Penetration testing** 
 
-**Thoroughly investigating a local instance of the application.** Running a local copy of the service, and using various tools to probe it. This is an excellent method of understanding the ins and outs of how an application operates. Building the application allows you to identify the supporting services and configuration settings. Attaching debuggers and tracing allows the tester to associate code with user actions. Modifying the code allows the tester to get more output and reach "out of the way" code paths. This provides a view "behind the curtain" when penetration testing and reviewing code.
+Probing a running system in a structured fashion to detect vulnerabilities. There are references, such as the OWASP Testing Guide, which can be used to guide the testing process. Additionally, there are many free and open source tools to use in performing the testing. A running instance of the system is required for penetration testing. This will ideally be a development, test or staging server. Testing against production is also possible if special care is taken.
 
-**Security configuration reviews.**  Confirming that the system settings for supporting services are securely configured. Many services have security critical settings, and recommended secure configurations. This process confirms that the system is configured according to those guidelines.
+**Thoroughly investigating a local instance of the application** 
 
-**Scanning for vulnerabilities in supporting third party services and libraries.** Third party software has vulnerabilities which must be managed to use the software securely. You need to know when you are using vulnerable software, and install the needed updates. To detect vulnerable software, you need to use the correct tool. There are language and package manager specific tools to detect outdated software libraries. There are Operating System specific tools for detecting needed OS patches. There are vulnerability scanners that can detect missing vulnerabilities in many different products. None of the available tools provide complete coverage though. You need to understand the types of vulnerable software you are looking for to pick the correct tool/s.
+Running a local copy of the service, and using various tools to probe it. This is an excellent method of understanding the ins and outs of how an application operates. Building the application allows you to identify the supporting services and configuration settings. Attaching debuggers and tracing allows the tester to associate code with user actions. Modifying the code allows the tester to get more output and reach "out of the way" code paths. This provides a view "behind the curtain" when penetration testing and reviewing code.
+
+**Security configuration reviews**  
+
+Confirming that the system settings for supporting services are securely configured. Many services have security critical settings, and recommended secure configurations. This process confirms that the system is configured according to those guidelines.
+
+**Scanning for vulnerabilities in supporting third party services and libraries** 
+
+Third party software has vulnerabilities which must be managed to use the software securely. You need to know when you are using vulnerable software, and install the needed updates. To detect vulnerable software, you need to use the correct tool. There are language and package manager specific tools to detect outdated software libraries. There are Operating System specific tools for detecting needed OS patches. There are vulnerability scanners that can detect missing vulnerabilities in many different products. None of the available tools provide complete coverage though. You need to understand the types of vulnerable software you are looking for to pick the correct tool/s.
 
 The security tester will then report the vulnerabilities to the system owner, explaining why the vulnerability exists, how serious it is, how to reproduce it, and how to fix it. 
 
