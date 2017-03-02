@@ -1,5 +1,5 @@
 ---
-title: "Hacking for good &mdash; What is security testing?"
+title: "Hacking for good — What is security testing?"
 category: [blog]
 tag: 'technology'
 author: Stephen Bradshaw
