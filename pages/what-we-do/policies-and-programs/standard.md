@@ -3,6 +3,7 @@ layout: basic
 title: "Digital Service Standard"
 permalink: /what-we-do/policies-and-programs/standard/
 localnav: what-we-do
+tags: ["digital service standard things"]
 ---
 
 <div class="lede">
