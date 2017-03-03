@@ -196,3 +196,7 @@ To apply you must:
 - be willing to move to Canberra if required.
 
 Applications for the 2018 Program will open on 6 March 2017.
+
+## Contact us
+
+[ictentrylevelprograms@digital.gov.au](mailto:ictentrylevelprograms@digital.gov.au)
