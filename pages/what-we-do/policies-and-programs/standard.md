@@ -1,4 +1,9 @@
-## Digital Service Standard
+---
+layout: basic
+title: "Digital Service Standard"
+permalink: /what-we-do/policies-and-programs/standard/
+localnav: what-we-do
+---
 
 <div class="lede">
   <p>
@@ -18,7 +23,7 @@ The Standard applies to <a href="{{ site.baseurl }}/standard/scope-of-standard/"
 There are <a href="{{ site.baseurl }}/standard/meeting-standard/">assessments</a> at the Alpha, Beta and Live stages.
 </p>
 
-### Links
+## Links
 
 <ul class="list-small">
     <li>
