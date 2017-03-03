@@ -4,8 +4,8 @@ category: [blog]
 tag: 'digital transformation'
 author: Michelle Norris           
 author-excerpt: "Michelle Norris is the Director for all ICT entry level programs."
-thumbnail: /images/blog-thumbnails/Hacking-for-good-THUMB.png
-hero-image: /images/blog-content/Hacking-for-good-HERO.png
+thumbnail: /images/blog-thumbnails/DTA-ITC-App-Cadet-Program-THUMB.jpg
+hero-image: /images/blog-content/DTA-ITC-App-Cadet-Program-HERO.jpg
 searchexcerpt: "Are you wondering what ICT job opportunities exist for you to begin your career in the Australian Public Service?"
 ---
 
