@@ -1,7 +1,6 @@
 ---
 layout: basic
 title: "Policies and Programs"
-lede: "We provide strategic and policy leadership on whole-of-government and shared information and communications technology and digital service delivery, including ICT procurement policy"
 permalink: /what-we-do/policies-and-programs/
 redirect_from:
   - /our-work/standard/
@@ -9,6 +8,8 @@ redirect_from:
 localnav: what-we-do
 tags: "digital service standard things"
 ---
+
+We provide strategic and policy leadership on whole-of-government and shared information and communications technology and digital service delivery, including ICT procurement policy.
 
 <ul class="list-small">
 
