@@ -22,5 +22,10 @@
           url: "/what-we-do/platforms/govau/"
         - title: "Performance dashboard"
           url: "/what-we-do/platforms/performance/"
-    - title: "Policy"
-      url: "/what-we-do/policy/"
+    - title: "Policies and Programs"
+      url: "/what-we-do/policies-and-programs/"
+      grandchildren:
+        - title: "Digital Service Standard"
+          url: "/what-we-do/policies-and-programs/standard/"
+        - title: "ICT entry-level programs"
+          url: "/what-we-do/policies-and-programs/ict-entry/"
