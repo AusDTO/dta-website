@@ -5,9 +5,16 @@ permalink: /what-we-do/policies-and-programs/ict-entry/
 localnav: what-we-do
 ---
 
+
+
 <nav class="index-links">
   <h2>On this page</h2>
   <ul>
+    <li>
+      <a href="#introduction-to-digital-careers">
+        Introduction to digital careers
+      </a>
+    </li>
     <li>
       <a href="#australian-government-ict-apprenticeship-program">
         Australian Government ICT Apprenticeship Program
@@ -25,6 +32,20 @@ localnav: what-we-do
     </li>
   </ul>
 </nav> 
+
+## Introduction to digital careers
+
+Are you wondering what Information and Communications Technology (ICT) job opportunities exist for you to begin your career in the Australian Public Service?
+
+Our entry-level programs provide a great opportunity for those interested in developing their ICT skills whilst working as part of a supportive workforce that nurtures professional expertise and opportunities for skills development. 
+
+ICT Apprentices, Cadets and Graduates will experience:
+
+- a competitive starting salary
+- a permanent job
+- flexible working arrangements
+- training and study opportunities
+- plenty of support from managers and colleagues.
 
 ## Australian Government ICT Apprenticeship Program
 
