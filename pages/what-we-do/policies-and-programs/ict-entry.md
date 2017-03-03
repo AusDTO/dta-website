@@ -5,8 +5,6 @@ permalink: /what-we-do/policies-and-programs/ict-entry/
 localnav: what-we-do
 ---
 
-
-
 <nav class="index-links">
   <h2>On this page</h2>
   <ul>
@@ -28,6 +26,11 @@ localnav: what-we-do
     <li>
       <a href="#australian-government-ict-graduate-program">
         Australian Government ICT Graduate Program
+      </a>
+    </li>
+    <li>
+      <a href="#contact-us">
+        Contact us
       </a>
     </li>
   </ul>
