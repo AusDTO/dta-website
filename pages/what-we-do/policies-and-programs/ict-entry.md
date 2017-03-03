@@ -175,19 +175,20 @@ In addition, you will participate in learning and development activities which w
 
 ### Participating agencies
 
-Agencies participating on the Program in 2018 include;
+Agencies participating on the Program in 2018 include:
 
-Australian Criminal Intelligence Commission
-Australian Federal Police
-Australian Financial Security Authority
-Australian Transaction Reports and Analysis Centre (AUSTRAC)
-Bureau of Meteorology
-Department of Defence
-Department of Finance
-Department of Health
-Department of the Prime Minister and Cabinet
-Department of Social Services
-Department of Veterans' Affairs
+- Australian Criminal Intelligence Commission
+- Australian Federal Police
+- Australian Financial Security Authority
+- Australian Transaction Reports and Analysis Centre (AUSTRAC)
+- Bureau of Meteorology
+- Department of Defence
+- Department of Finance
+- Department of Health
+- Department of the Prime Minister and Cabinet
+- Department of Social Services
+- Department of Veterans' Affairs
+
 This is a live list and may be updated throughout the application process. Check back for updates!
 
 ### How do I apply?
