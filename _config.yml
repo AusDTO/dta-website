@@ -29,6 +29,7 @@ collections:
 
 # Build settings
 markdown: kramdown
+future: true # posts dated in the future will be published
 
 gems:
   - jekyll-assets
