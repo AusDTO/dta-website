@@ -9,9 +9,9 @@ hero-image: /images/blog-content/DTA-ITC-App-Cadet-Program-HERO.jpg
 searchexcerpt: "Are you wondering what ICT job opportunities exist for you to begin your career in the Australian Public Service?"
 ---
 
-![Hacking for good.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+![The 2017 ICT Cadets and Apprentices.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: Hacking for good.*
+*Caption: The 2017 ICT Cadets and Apprentices.*
 
 Our entry-level programs provide a great opportunity for those interested in developing their ICT skills in the Australian Public Service whilst working as part of a supportive workforce that nurtures professional expertise and opportunities for skills development.  
 
