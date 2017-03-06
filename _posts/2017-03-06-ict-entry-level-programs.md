@@ -13,11 +13,11 @@ searchexcerpt: "Are you wondering what ICT job opportunities exist for you to be
 
 *Caption: The 2017 ICT Cadets and Apprentices.*
 
-Our entry-level programs provide a great opportunity for those interested in developing their ICT skills in the Australian Public Service whilst working as part of a supportive workforce that nurtures professional expertise and opportunities for skills development.  
+Our entry-level programs provide a great opportunity for those interested in developing their ICT skills in the Australian Public Service while working as part of a supportive workforce that nurtures professional expertise and opportunities for skills development.  
 
 More than 1000 apprentices, cadets and graduates across 35 agencies have started their career with our programs since 2006. And earlier this year, we welcomed our 2017 intake of 144 talented ICT professionals into the APS across Australia. 
 
-We are now on the lookout for our class of 2018 ICT talent. Our 2017 apprentices, cadets and graduates will work in their home agencies whilst completing their formal qualification. Study support is provided and course fees are either partially or fully covered by their employer. Other learning and development opportunities, as well as mentoring, are also provided when you undertake this program.
+We are now on the lookout for our class of 2018 ICT talent. Our 2017 apprentices, cadets and graduates will work in their home agencies while completing their formal qualification. Study support is provided and course fees are either partially or fully covered by their employer. Other learning and development opportunities, as well as mentoring, are also provided when you undertake this program.
 
 ## What programs are available? 
 
@@ -39,4 +39,4 @@ Applications for the 2018 **ICT Graduate Program** open on 6 March 2017.
 
 All programs will begin in January or February 2018. 
 
-More information is available on the DTA website. To apply, either follow the link on the [DTA website](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-entry/) or head to [APSjobs](https://www.apsjobs.gov.au) for the application. Applications close on 7 April. Contact [ictentrylevelprograms@digital.gov.au](mailto:ictentrylevelprograms@digital.gov.au) for more information. 
+More information is available on the [DTA website](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-entry/). To apply, either follow the link on the [DTA website](https://www.dta.gov.au/who-we-are/corporate/jobs/#op-170375-2018-australian-government-ict-graduate-program) or head to [APSjobs](https://www.apsjobs.gov.au) for the application. Applications close on 7 April. Contact [ictentrylevelprograms@digital.gov.au](mailto:ictentrylevelprograms@digital.gov.au) for more information. 
