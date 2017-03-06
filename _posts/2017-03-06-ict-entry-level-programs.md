@@ -39,4 +39,4 @@ Applications for the 2018 **ICT Graduate Program** open on 6 March 2017.
 
 All programs will begin in January or February 2018. 
 
-More information is available on the [DTA website](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-entry/). To apply, either follow the link on the [DTA website](https://www.dta.gov.au/who-we-are/corporate/jobs/#op-170375-2018-australian-government-ict-graduate-program)or head to [APSjobs](https://www.apsjobs.gov.au) for the application. Applications close on 7 April. Contact [ictentrylevelprograms@digital.gov.au](mailto:ictentrylevelprograms@digital.gov.au) for more information. 
+More information is available on the [DTA website](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-entry/). To apply, either follow the link on the [DTA website](https://www.dta.gov.au/who-we-are/corporate/jobs/#op-170375-2018-australian-government-ict-graduate-program) or head to [APSjobs](https://www.apsjobs.gov.au) for the application. Applications close on 7 April. Contact [ictentrylevelprograms@digital.gov.au](mailto:ictentrylevelprograms@digital.gov.au) for more information. 
