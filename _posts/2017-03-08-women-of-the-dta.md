@@ -4,7 +4,7 @@ category: blog
 tags: ['digital transformation']
 author: Nerida O'Loughlin
 author-excerpt: "Nerida O'Loughlin is the Interim CEO at the DTA."
-hero-img: /images/blog-content/iwd-content.jpg
+hero-image: /images/blog-content/iwd-content.jpg
 thumbnail: /images/blog-thumbnails/iwd-thumb.jpg
 searchexcerpt: "In honour of International Women’s Day this year, we’re taking the opportunity to showcase the talents of some of the incredible women working at the DTA. A few of our colleagues, whose roles range from from user researcher to product manager, share their experiences of working in digital with us."
 ---
