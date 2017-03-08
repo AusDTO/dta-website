@@ -3,7 +3,7 @@ title: "Women of the DTA"
 category: blog
 tags: ['digital transformation']
 author: Nerida O'Loughlin
-author-excerpt: "Nerida O'Loughlin is the Interim CEO at the DTA "
+author-excerpt: "Nerida O'Loughlin is the Interim CEO at the DTA."
 hero-img: /images/blog-content/iwd-content.jpg
 thumbnail: /images/blog-thumbnails/iwd-thumb.jpg
 searchexcerpt: "In honour of International Women’s Day this year, we’re taking the opportunity to showcase the talents of some of the incredible women working at the DTA. A few of our colleagues, whose roles range from from user researcher to product manager, share their experiences of working in digital with us."
@@ -63,4 +63,4 @@ We have also recently opened applications for the Australian Public Service’s 
 
 Is there more that we at the DTA can do? Let us know in the comments or via our social media channels. 
 
-*[Australia’s Digital Pulse 2016](https://www2.deloitte.com/au/en/pages/economics/articles/australias-digital-pulse.html) | Deloitte Australia | Deloitte Access Economics report
+*[Australia’s Digital Pulse 2016](https://www2.deloitte.com/au/en/pages/economics/articles/australias-digital-pulse.html) \| Deloitte Australia \| Deloitte Access Economics report
