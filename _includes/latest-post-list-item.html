@@ -4,16 +4,18 @@
 {% endif %}
 <li>
   <article>
-    <a href="{{ url }}">
-      <figure>
-        {% if include.post.thumbnail %}
-        <img class="blog-thumbnail" src="{{site.baseurl}}{{ include.post.thumbnail }}" alt="">
-        {% else %}
-        <img class="blog-thumbnail" src="{{site.baseurl}}/images/post-thumbnail-placeholder.png" alt="">
-        {% endif %}
-      </figure>
-      <h3><span>{{ include.post.title }}</span></h3>
-    </a>
+    <div>
+      <a href="{{ url }}">
+        <figure>
+          {% if include.post.thumbnail %}
+          <img class="blog-thumbnail" src="{{site.baseurl}}{{ include.post.thumbnail }}" alt="">
+          {% else %}
+          <img class="blog-thumbnail" src="{{site.baseurl}}/images/post-thumbnail-placeholder.png" alt="">
+          {% endif %}
+        </figure>
+        <h3><span>{{ include.post.title }}</span></h3>
+      </a>
+    </div>
     <div class="meta">
       <time datetime="{{ post.date }}">{{ include.post.date | date: "%-d %b %Y" }}</time>
       {% if include.show-category %}
