@@ -26,7 +26,7 @@ DTA_SITE_URL_ESCAPED=${DTA_SITE_URL//:/\\:}
 bundle exec htmlproofer _site  \
     --disable-external \
     --allow-hash-href \
-    --url-ignore "/(mailto:.*)/" \
+    --url-ignore "/(mailto:.*)/,/(.*/jobs/#op.*)/" \
     --file-ignore /.*feed/index\.html/ \
     --empty-alt-ignore \
     --url-swap "https\://www.dta.gov.au:,${DTA_SITE_URL_ESCAPED}${DTA_SITE_BASEURL}:,${DTA_SITE_BASEURL}:"
