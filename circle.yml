@@ -20,10 +20,9 @@ dependencies:
 test:
   override:
     - bin/cibuild.sh
+    - bin/ciserve.sh:
+        background: true
     - bin/citest.sh
-test:
-  post:
-    - bin/ciserve.sh && bundle exec accesslint-ci scan http://localhost:4000
 deployment:
   all:
     branch: /.*/
