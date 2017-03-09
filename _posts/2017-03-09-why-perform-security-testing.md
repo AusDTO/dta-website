@@ -4,14 +4,14 @@ category: [blog]
 tag: 'technology'
 author: Stephen Bradshaw
 author-excerpt: "Stephen Bradshaw is an Ethical Hacker at the Digital Transformation Agency."
-thumbnail: /images/blog-thumbnails/Hacking-for-good-THUMB.png
-hero-image: /images/blog-content/Hacking-for-good-HERO.png
+thumbnail: /images/blog-thumbnails/blog2-Thumb.png
+hero-image: /images/blog-content/blog2-Hero.png
 searchexcerpt: "Security testing injects a much needed dose of reality into the process of securing a system."
 ---
 
-![Hacking for good.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+![The value of security testing.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: Hacking for good.*
+*Caption: The value of security testing.*
 
 Performing security testing takes time. It costs money. It requires access to expertise that is increasingly difficult to find in the current market.  You will have to put effort into utilising the output. So why should you do it? What value does it provide?
 
