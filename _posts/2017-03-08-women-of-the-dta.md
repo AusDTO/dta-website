@@ -59,7 +59,7 @@ Internally, we are focused on developing policies and programs that continue to 
 - developing a supportive culture that leads by example, and
 - strengthening leadership opportunities to drive progress in our workplace. 
 
-We have also recently opened applications for the Australian Public Service’s 2018 ICT Graduate Program which are available [here](https://www.dta.gov.au/who-we-are/corporate/jobs/#op-170375-2018-australian-government-ict-graduate-program). Additional entry pathways for an ICT career through our Cadet and Apprenticeship Programs will open for applications in June. 
+We have also recently opened applications for the Australian Public Service’s [2018 ICT Graduate Program](https://www.dta.gov.au/who-we-are/corporate/jobs/#op-170375-2018-australian-government-ict-graduate-program). Additional entry pathways for an ICT career through our Cadet and Apprenticeship Programs will open for applications in June. 
 
 Is there more that we at the DTA can do? Let us know in the comments or via our social media channels. 
 
