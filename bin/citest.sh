@@ -45,5 +45,8 @@ until $(curl --output /dev/null --silent --head --fail http://localhost:4000); d
 done
 echo "Webserver has started"
 
-# Run pa11y accessibility tests
+# Run accesslint accessibility tests
+bundle exec accesslint-ci scan http://localhost:4000
+
+# Run accesslint accessibility tests
 # node_modules/.bin/pa11y-ci --sitemap http://localhost:4000/pa11y-sitemap.xml
