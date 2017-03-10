@@ -21,16 +21,11 @@ dependencies:
     - npm install -g accesslint-cli
     - gem install accesslint-ci
 
-dependencies:
-  override:
-    - bin/ciprepare.sh
-
 test:
-  override:
-    - bin/cibuild.sh
-    - bin/ciserve.sh:
-        background: true
-    - bin/citest.sh
+  post:
+    - bundle exec jekyll serve --detach
+    - bundle exec accesslint-ci scan http://localhost:4000
+
 deployment:
   all:
     branch: /.*/

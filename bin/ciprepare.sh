@@ -23,4 +23,4 @@ sudo apt-get update
 sudo apt-get install -qy apache2-utils
 
 #Accesslint is needed for accessibilty testing
-npm install -g accesslint-cli@^1
+npm install -g accesslint-cli
