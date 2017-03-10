@@ -45,6 +45,4 @@ until $(curl --output /dev/null --silent --head --fail http://localhost:4000); d
 done
 echo "Webserver has started"
 
-# Run pa11y accessibility tests
-# circle is spuriously failing with the message "Phantom process failed", so temporarily disabled
-# node_modules/.bin/pa11y-ci --sitemap http://localhost:4000/pa11y-sitemap.xml
+bundle exec accesslint-ci scan http://localhost:4000

@@ -16,3 +16,4 @@ gem 'rake'
 
 gem 'rack-jekyll'
 gem 'puma'
+gem 'accesslint-ci'

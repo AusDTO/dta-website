@@ -2,10 +2,24 @@
 machine:
   ruby:
     version: 2.3.1
+  environment:
+    ACCESSLINT_MASTER_BRANCH: develop # the branch that PRs are being made to
+
+    # Go to https://accesslint.com and get an Accesslint API token.
+    # Add ACCESSLINT_API_TOKEN and ACCESSLINT_GITHUB_USER env vars to circle for this repo.
 
 general:
   artifacts:
     - "_site"
+    - "tmp"
+
+dependencies:
+  pre:
+    - gem install bundler
+    - bundle install
+  override:
+    - npm install -g accesslint-cli
+    - gem install accesslint-ci
 
 dependencies:
   override:
@@ -15,9 +29,8 @@ test:
   override:
     - bin/cibuild.sh
     - bin/ciserve.sh:
-          background: true
+        background: true
     - bin/citest.sh
-
 deployment:
   all:
     branch: /.*/
