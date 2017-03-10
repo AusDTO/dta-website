@@ -13,6 +13,9 @@ function isRetina() {
     return false;
 };
 
+// The site logo <img> is hidden on startup.
+// We check for a retina display, set the appropriate img src and then show the site logo.
+
 var el = document.getElementById("site-logo-img");
 var src = el.getAttribute("data-1x");
 if (isRetina()) {
@@ -21,4 +24,5 @@ if (isRetina()) {
 }
 el.setAttribute("src", src);
 
-el.className = el.className.replace("no-js","");
+//Show the logo
+el.className = el.className.replace("hidden","");
