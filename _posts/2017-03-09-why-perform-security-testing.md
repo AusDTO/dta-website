@@ -1,5 +1,5 @@
 ---
-title: "Security testing &mdash; a valuable reality check"
+title: "Security testing — a valuable reality check"
 category: [blog]
 tag: 'technology'
 author: Stephen Bradshaw
