@@ -12,6 +12,6 @@ set -x
 # Include build env vars
 source "$(dirname "$0")/buildrc"
 
-# Start a local copy of the site to test against
-bundle exec jekyll serve --no-watch --destination $TMPDIR/_accesslint_site
+# Start a local copy of the site to run accesslint against
+bundle exec jekyll serve --no-watch --destination $TMPDIR/_accesslint_site --limit_posts 5
 
