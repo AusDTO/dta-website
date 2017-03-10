@@ -23,7 +23,8 @@ dependencies:
 
 test:
   post:
-    - bundle exec jekyll serve --detach --limit_posts 5 && bundle exec accesslint-ci scan http://localhost:4000
+    - bundle exec jekyll serve --detach --limit_posts 5 && bundle exec accesslint-ci scan http://localhost:4000:
+        timeout: 3000
 
 deployment:
   all:
