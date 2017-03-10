@@ -4,8 +4,8 @@ category: [blog]
 tag: 'technology'
 author: Stephen Bradshaw
 author-excerpt: "Stephen Bradshaw is an Ethical Hacker at the Digital Transformation Agency."
-thumbnail: /images/blog-thumbnails/Hacking-for-good-THUMB.png
-hero-image: /images/blog-content/Hacking-for-good-HERO.png
+thumbnail: /images/blog-thumbnails/blog1-Thumb.png
+hero-image: /images/blog-content/blog1-Hero.png
 searchexcerpt: "Security testing helps identify vulnerabilities in systems so that they can be fixed. This makes these systems safer and more trustworthy. "
 ---
 
