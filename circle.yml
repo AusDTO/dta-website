@@ -19,11 +19,11 @@ dependencies:
     - bundle install
   override:
     - npm install -g accesslint-cli
-    - gem install accesslint-ci
+    #- gem install accesslint-ci
 
 test:
   post:
-    - bundle exec jekyll serve --detach --limit_posts 5 && bundle exec accesslint-ci scan http://localhost:4000:
+    - bundle exec jekyll serve --detach --limit_posts 1 --config="_config.yml,_config-accesslint.yml" --destination /tmp/_accesslint_site  --host 0.0.0.0 && bundle exec accesslint-ci scan http://localhost:4000:
         timeout: 3000
 
 deployment:
