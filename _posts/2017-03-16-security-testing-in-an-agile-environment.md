@@ -4,16 +4,14 @@ category: [blog]
 tag: 'technology'
 author: Stephen Bradshaw
 author-excerpt: "Stephen Bradshaw is an Ethical Hacker at the Digital Transformation Agency."
-thumbnail: /images/blog-thumbnails/blog2-Thumb.png
-hero-image: /images/blog-content/blog2-Hero.png
+thumbnail: /images/blog-thumbnails/blog3-Thumb.png
+hero-image: /images/blog-content/blog3-Hero.png
 searchexcerpt: "How is security testing performed at the DTA? What are the challenges and opportunities presented by the DTA environment to security testing?"
 ---
 
-![The value of security testing.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+![Security testing in an agile environment.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: The value of security testing.*
-
-Performing security testing takes time. It costs money. It requires access to expertise that is increasingly difficult to find in the current market.  You will have to put effort into utilising the output. So why should you do it? What value does it provide?
+*Security testing in an agile environment.*
 
 ## Security testing at the DTA
 
