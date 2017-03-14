@@ -11,7 +11,7 @@ searchexcerpt: "How is security testing performed at the DTA? What are the chall
 
 ![Security testing in an agile environment.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Security testing in an agile environment.*
+*Caption: Security testing in an agile environment.*
 
 ## Security testing at the DTA
 
