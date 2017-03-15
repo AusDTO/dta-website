@@ -3,15 +3,21 @@ $(document).ready(function(){
     $('.search-input').focus(function() {
         $.getJSON( "{{site.baseurl}}/search-engine/index.json");
     });
-    // If search-input has value add class that moves it in front of label
-    $('#site-search-text').on("propertychange input", function () { // input = ie9+, propertychange < ie9
-        element = $(this);
+
+    // If search input has value add class that moves it in front of label
+    function onSiteSearchChange(element) {
         if (element.val()) {
             element.addClass('has-value');
         } else {
             element.removeClass('has-value');
         }
+    }
+
+    $('#site-search-text').on("propertychange input", function () { // input = ie9+, propertychange < ie9
+        onSiteSearchChange($(this));
     });
+    onSiteSearchChange($('#site-search-text')); // Trigger a change on load so it works when back is pressed
+
     $(function() {
         $('#search-query').lunrSearch({
             indexUrl: '{{site.baseurl}}/search-engine/index.json',   // Url for the .json file containing search index data
