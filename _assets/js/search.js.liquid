@@ -4,9 +4,8 @@ $(document).ready(function(){
         $.getJSON( "{{site.baseurl}}/search-engine/index.json");
     });
 
-    // If search-input has value add class that moves it in front of label
-    function onSiteSearchChange() {
-        element = $(this);
+    // If search input has value add class that moves it in front of label
+    function onSiteSearchChange(element) {
         if (element.val()) {
             element.addClass('has-value');
         } else {
@@ -15,9 +14,9 @@ $(document).ready(function(){
     }
 
     $('#site-search-text').on("propertychange input", function () { // input = ie9+, propertychange < ie9
-        onSiteSearchChange();
+        onSiteSearchChange($(this));
     });
-    onSiteSearchChange(); // Trigger a change on load so it works when back is pressed
+    onSiteSearchChange($('#site-search-text')); // Trigger a change on load so it works when back is pressed
 
     $(function() {
         $('#search-query').lunrSearch({
