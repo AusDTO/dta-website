@@ -9,7 +9,7 @@ hero-image: /images/blog-content/blog3-Hero.png
 searchexcerpt: "How is security testing performed at the DTA? What are the challenges and opportunities presented by the DTA environment to security testing?"
 ---
 
-![Security testing in an agile environment.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+![ ]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 *Caption: Security testing in an agile environment.*
 
