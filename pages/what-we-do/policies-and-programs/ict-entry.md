@@ -188,6 +188,8 @@ Agencies participating on the Program in 2018 include:
 - Department of the Prime Minister and Cabinet
 - Department of Social Services
 - Department of Veterans' Affairs
+- Geoscience Australia
+- Digital Transformation Agency
 
 This is a live list and may be updated throughout the application process. Check back for updates!
 
