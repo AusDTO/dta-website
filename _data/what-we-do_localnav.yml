@@ -16,8 +16,8 @@
       grandchildren:
         - title: "cloud.gov.au"
           url: "/what-we-do/platforms/cloud/"
-        - title: "Digital identity"
-          url: "/what-we-do/platforms/identity/"
+        - title: "Govpass"
+          url: "/what-we-do/platforms/govpass/"
         - title: "GOV.AU"
           url: "/what-we-do/platforms/govau/"
         - title: "Performance dashboard"
