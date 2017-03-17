@@ -3,7 +3,7 @@ layout: basic
 title: "Govpass"
 lede: "The DTA’s Govpass project aims to make the process of proving who you are to government departments online simple, safe and secure."
 permalink: /what-we-do/platforms/govpass/
-redirect_from: /what-we-do/platforms/identity
+redirect_from: /what-we-do/platforms/identity/
 localnav: what-we-do
 ---
 
