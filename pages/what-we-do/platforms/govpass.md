@@ -35,3 +35,4 @@ The short term improvements will offer users a simpler and easier process of pro
 
 Longer term improvements will allow users to do more complex online transactions, meaning they may not need to visit a shop front at all, unless they choose to. 
 
+You can see more in our [latest blog and video](https://www.dta.gov.au/blog/govpass/). 
