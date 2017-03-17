@@ -14,7 +14,7 @@ localnav: what-we-do
     <a href="{{site.baseurl}}/what-we-do/platforms/govau/">GOV.AU</a>
   </li>
   <li>
-    <a href="{{site.baseurl}}/what-we-do/platforms/identity/">Identity</a>
+    <a href="{{site.baseurl}}/what-we-do/platforms/govpass/">Govpass</a>
   </li>
   <li>
     <a href="{{site.baseurl}}/what-we-do/platforms/performance/">Performance dashboard</a>
