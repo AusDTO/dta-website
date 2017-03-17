@@ -16,10 +16,10 @@
       grandchildren:
         - title: "cloud.gov.au"
           url: "/what-we-do/platforms/cloud/"
-        - title: "Govpass"
-          url: "/what-we-do/platforms/govpass/"
         - title: "GOV.AU"
           url: "/what-we-do/platforms/govau/"
+        - title: "Govpass"
+          url: "/what-we-do/platforms/govpass/"
         - title: "Performance dashboard"
           url: "/what-we-do/platforms/performance/"
     - title: "Policies and Programs"
