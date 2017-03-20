@@ -2,7 +2,6 @@
 layout: basic
 title: Public Interest Disclosure
 permalink: /who-we-are/corporate/public-interest-disclosure/
-lede: Senate Order for Department and Agency lists of contracts.
 ---
 
 ## About Public Interest Disclosure
@@ -36,13 +35,13 @@ Disclosures can be made:
 
 DTA prefers to have PIDs made in writing however you can also provide a disclosure in person, by telephone, openly or anonymously. 
 
-Contact authorised officers by:
+To contact authorised officers:
 
-**Email:** [PIDadvice@dta.gov.au](mailto:PIDadvice@dta.gov.au)
+- send an email to [PIDadvice@dta.gov.au](mailto:PIDadvice@dta.gov.au)
 
-**Mail:** PO Box 457, Canberra 2600
+- write to PO Box 457, Canberra 2600
 
-**Phone:** People Services on 0428 061 462 
+- or phone People Services on 0428 061 462 
 
 ## Protections offered under the PID Act
 
