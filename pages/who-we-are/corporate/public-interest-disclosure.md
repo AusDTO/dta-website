@@ -38,9 +38,7 @@ DTA prefers to have PIDs made in writing however you can also provide a disclosu
 To contact authorised officers:
 
 - send an email to [PIDadvice@dta.gov.au](mailto:PIDadvice@dta.gov.au)
-
 - write to PO Box 457, Canberra 2600
-
 - or phone People Services on 0428 061 462 
 
 ## Protections offered under the PID Act
