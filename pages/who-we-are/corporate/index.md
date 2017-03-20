@@ -18,6 +18,7 @@ localnav: who-we-are
   <li>
     <a href="{{site.baseurl}}/who-we-are/corporate/contracts/">List of contracts</a>
   </li>
+  <li>
+    <a href="{{site.baseurl}}/who-we-are/corporate/public-interest-disclosure/">Public Interest Disclosure</a>
+  </li>
 </ul>
-
-
