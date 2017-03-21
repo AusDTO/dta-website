@@ -20,7 +20,7 @@ We provide strategic and policy leadership on whole-of-government and shared inf
     <a href="{{site.baseurl}}/what-we-do/policies-and-programs/ict-entry/">ICT entry-level programs</a>
   </li> 
   <li>
-    <a href="{{site.baseurl}}/what-we-do/policies-and-programs/digital-investment-office/">Digital Investment Office</a>
+    <a href="{{site.baseurl}}/what-we-do/policies-and-programs/digital-investment-management-office/">Digital Investment Management Office</a>
   </li> 
 
 </ul>
