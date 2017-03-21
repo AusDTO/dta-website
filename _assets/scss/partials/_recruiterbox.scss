@@ -1,19 +1,32 @@
+
+/**
+Override the recruiterbox styling so it matches uikit
+ */
 .recruitment-form {
+
 	.rbox-widget {
+		.rbox-field-wrapper {
+			max-width: 38rem !important;
+		}
 		.rbox-checkbox-label {
-			padding-left: $base-spacing;
+			padding-left: $base-spacing !important;
 		}
 		input[type="checkbox"] {
-			position: relative;
-			cursor: pointer;
-			left: -$small-spacing;
-			height: auto;
-			width: auto;
-
+			position: relative !important;
+			cursor: pointer !important;
+			left: -$small-spacing !important;
+			height: auto !important;
+			width: auto !important;
+		}
+		input[type="text"], input[type="email"], textarea {
+			width: 100% !important;
+		}
+		textarea {
+			height:initial !important;
 		}
 		.rbox-opening-li:hover {
 			a {
-				text-decoration: initial;
+				text-decoration: initial !important;
 			}
 		}
 	}
