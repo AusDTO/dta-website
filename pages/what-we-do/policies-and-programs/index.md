@@ -14,13 +14,13 @@ We provide strategic and policy leadership on whole-of-government and shared inf
 <ul class="list-small">
 
   <li>
+    <a href="{{site.baseurl}}/what-we-do/policies-and-programs/digital-investment-management-office/">Digital Investment Management Office</a>
+  </li>
+  <li>
     <a href="{{site.baseurl}}/what-we-do/policies-and-programs/standard/">Digital Service Standard</a>
   </li>
   <li>
     <a href="{{site.baseurl}}/what-we-do/policies-and-programs/ict-entry/">ICT entry-level programs</a>
-  </li> 
-  <li>
-    <a href="{{site.baseurl}}/what-we-do/policies-and-programs/digital-investment-management-office/">Digital Investment Management Office</a>
-  </li> 
-
+  </li>
+   
 </ul>
