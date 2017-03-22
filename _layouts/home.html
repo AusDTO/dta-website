@@ -21,23 +21,6 @@ layout: base
     <p><a class="see-more" href="/blog/">See more blog posts</a></p>
   </section>
 
-  <section class="what-we-do">
-    <h2 class="home-heading">What we&rsquo;re involved in</h2>
-    <ul class="list-vertical--fourths">
-
-      {% for item in site.data.homepage_items %}
-      <li>
-        <article>
-          <h3>
-            <a href="{{ item.url }}">{{ item.title }}</a>
-          </h3>
-          <p>{{ item.description }}</p>
-        </article>
-      </li>
-      {% endfor %}
-    </ul>
-  </section>
-
   <div class="homepage-footer">
 
     <section class="leadership">

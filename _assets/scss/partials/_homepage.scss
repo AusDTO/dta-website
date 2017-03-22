@@ -13,7 +13,7 @@
   }
 }
 
-.news-media, .what-we-do {
+.news-media {
   @include media($tablet) {
     li:nth-child(-n+2) {
       border-top: none;
@@ -25,20 +25,6 @@
     li:nth-child(-n+4) {
       border-top: none;
       padding-top: 0;
-    }
-  }
-}
-
-.what-we-do {
-  @include media($desktop) {
-    li {
-      min-height: 10em;
-      border-left: solid 1px $light-grey;
-      padding: $small-spacing 0 $small-spacing $base-spacing;
-      margin-bottom: $base-spacing;
-      &:first-child {
-        border-left: none;
-      }
     }
   }
 }
