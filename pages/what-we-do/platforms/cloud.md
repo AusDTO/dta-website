@@ -11,7 +11,7 @@ cloud.gov.au is a faster, safer, standard way to change web apps without impacti
 
 As of October 2016, cloud.gov.au has 37 apps in production, and 225 apps in development across the [exemplar](/what-we-do/exemplars/) and [platforms](/what-we-do/platforms/) programs of work.
 
-DTA services running on cloud.gov.au include the [Digital Marketplace](/what-we-do/marketplace/), the [Performance Dashboard](/what-we-do/platforms/performance/), and the australia.gov.au [Media Release Service](https://media.australia.gov.au).
+DTA services running on cloud.gov.au include the [Digital Marketplace](/what-we-do/platforms/marketplace/), the [Performance Dashboard](/what-we-do/platforms/performance/), and the australia.gov.au [Media Release Service](https://media.australia.gov.au).
 
 We [publish real time performance statistics](http://status.cloud.gov.au) of both the cloud.gov.au platform itself, and the apps running on cloud.gov.au.
 
