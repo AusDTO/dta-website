@@ -18,7 +18,10 @@ Override the recruiterbox styling so it matches uikit
 			height: auto !important;
 			width: auto !important;
 		}
-		input[type="text"], input[type="email"], textarea {
+		input[type="text"],
+		input[type="email"],
+		input[type="url"],
+		textarea {
 			width: 100% !important;
 		}
 		textarea {
