@@ -11,9 +11,9 @@ searchexcerpt: "Security testers sometimes need a little help from their friends
 
 ![]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: Security testers and their developers.*
+*Caption: Security testers and developers.*
 
-Security testers don’t work in a vacuum. Their effectiveness is dependant on the actions of a number of other groups and one group whose actions have a significant impact on security testers are developers. 
+Security testers don’t work in a vacuum. Their effectiveness is dependent on the actions of a number of other groups and one group whose actions have a significant impact on security testers are developers. 
 
 This is especially true in the case of the DTA. Here security testers and developers work together more closely than is the norm. This close working relationship creates significant opportunities to gain improved outcomes through collaboration. The better each group understands each other, the better they can help each other work. And the better each group can help each other work, the better the shared outcomes they can achieve. 
 
