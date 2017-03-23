@@ -1,10 +1,12 @@
 ---
 layout: basic
-title: "Digital Marketplace"
+title: "Digital marketplace"
 lede: "The DTA is transforming how the Australian government buys digital services.
 The Digital Marketplace simplifies the process of government procurement and makes it easier for businesses of all sizes to access government contracts."
-permalink: /what-we-do/marketplace/
-redirect_from: /our-work/marketplace/
+permalink: /what-we-do/platforms/marketplace/
+redirect_from: 
+- /our-work/marketplace/
+- /what-we-do/marketplace/
 localnav: what-we-do
 ---
 

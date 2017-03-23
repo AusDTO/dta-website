@@ -11,6 +11,9 @@ localnav: what-we-do
     <a href="{{site.baseurl}}/what-we-do/platforms/cloud/">cloud.gov.au</a>
   </li>
   <li>
+    <a href="{{site.baseurl}}/what-we-do/platforms/marketplace/">Digital marketplace</a>
+  </li>
+  <li>
     <a href="{{site.baseurl}}/what-we-do/platforms/govau/">GOV.AU</a>
   </li>
   <li>
