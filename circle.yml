@@ -2,21 +2,29 @@
 machine:
   ruby:
     version: 2.3.1
+  environment:
+    ACCESSLINT_MASTER_BRANCH: develop # the branch that PRs are being made to
+
+    # Go to https://accesslint.com and get an Accesslint API token.
+    # Add ACCESSLINT_API_TOKEN and ACCESSLINT_GITHUB_USER env vars to circle for this repo.
 
 general:
   artifacts:
     - "_site"
+    - "tmp"
 
 dependencies:
+  pre:
+    - gem install bundler
+    - bundle install
   override:
-    - bin/ciprepare.sh
+    - npm install -g accesslint-cli
+    #- gem install accesslint-ci
 
 test:
-  override:
-    - bin/cibuild.sh
-    - bin/ciserve.sh:
-          background: true
-    - bin/citest.sh
+  post:
+    - bundle exec jekyll serve --detach --limit_posts 1 --config="_config.yml,_config-accesslint.yml" --destination /tmp/_accesslint_site  --host 0.0.0.0 && bundle exec accesslint-ci scan http://localhost:4000:
+        timeout: 3000
 
 deployment:
   all:
