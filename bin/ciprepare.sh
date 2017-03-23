@@ -22,4 +22,5 @@ cf -v
 sudo apt-get update
 sudo apt-get install -qy apache2-utils
 
-npm install pa11y-ci@^0.5
+# circle is spuriously failing with the message "Phantom process failed", so temporarily disabled
+# npm install pa11y-ci@^0.5
