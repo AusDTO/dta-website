@@ -1,8 +1,15 @@
 - title: "What we do"
   url: "/what-we-do/"
   children:
-    - title: "Budget initiatives"
-      url: "/what-we-do/budget/"
+    - title: "Policies and Programs"
+      url: "/what-we-do/policies-and-programs/"
+      grandchildren:
+        - title: "Digital Investment Management Office"
+          url: "/what-we-do/policies-and-programs/digital-investment-management-office/"
+        - title: "Digital Service Standard"
+          url: "/what-we-do/policies-and-programs/standard/"
+        - title: "ICT entry-level programs"
+          url: "/what-we-do/policies-and-programs/ict-entry/"
     - title: "Communities"
       url: "/what-we-do/communities/"
     - title: "Digital transformation agenda"
@@ -22,13 +29,5 @@
           url: "/what-we-do/platforms/govpass/"
         - title: "Performance dashboard"
           url: "/what-we-do/platforms/performance/"
-    - title: "Policies and Programs"
-      url: "/what-we-do/policies-and-programs/"
-      grandchildren:
-        - title: "Digital Investment Management Office"
-          url: "/what-we-do/policies-and-programs/digital-investment-management-office/"
-        - title: "Digital Service Standard"
-          url: "/what-we-do/policies-and-programs/standard/"
-        - title: "ICT entry-level programs"
-          url: "/what-we-do/policies-and-programs/ict-entry/"
-
+    - title: "Budget initiatives"
+      url: "/what-we-do/budget/"
