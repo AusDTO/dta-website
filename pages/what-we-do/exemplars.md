@@ -17,7 +17,7 @@ localnav: what-we-do
   <ul class="project-list dtp">
     {% for project in pages %}
 
-    	{% if project.programme == 'dtp' %}
+    	{% if project.program == 'dtp' %}
     	<li>{% include project-list.html %}</li>
     	{% endif %}
 

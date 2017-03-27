@@ -7,7 +7,7 @@ breadcrumb: Hobby or Business tool
 department: Department of Industry, Innovation and Science
 department-logo: /images/projects/industry-logo.png
 department-site: http://www.industry.gov.au
-programme: dtp
+program: dtp
 weight: 6
 phase: beta
 alpha_assessment: /standard/assessments/starting-a-business-alpha/

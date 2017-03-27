@@ -7,7 +7,7 @@ breadcrumb: Improving child care attendance reporting
 department: Department of Education and Training
 department-logo: /images/projects/Dept-edu-training.png
 department-site: https://www.education.gov.au/
-programme: dtp
+program: dtp
 weight: 1
 phase: beta
 start_date:

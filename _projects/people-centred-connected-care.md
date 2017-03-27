@@ -7,7 +7,7 @@ breadcrumb: Outpatient appointment booking
 department: ACT Government Health
 department-logo: /images/projects/act-health-logo.png
 department-site: http://www.health.act.gov.au/
-programme: dtp
+program: dtp
 weight: 2
 phase: beta
 end_date: 

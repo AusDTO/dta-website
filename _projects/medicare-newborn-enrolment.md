@@ -7,7 +7,7 @@ breadcrumb: Medicare newborn enrolment
 department: Department of Human Services
 department-logo: /images/projects/dhs-logo.png
 department-site: http://www.humanservices.gov.au/
-programme: dtp
+program: dtp
 weight: 3
 phase: beta
 end_date: 

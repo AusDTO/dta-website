@@ -7,7 +7,7 @@ breadcrumb: Appointment booking service
 department: Department of Immigration and Border Protection
 department-logo: /images/projects/immigration-logo.png
 department-site: https://www.border.gov.au/
-programme: dtp
+program: dtp
 weight: 4
 phase: beta
 start_date:

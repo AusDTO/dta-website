@@ -44,7 +44,7 @@ The Marketplace team will continue to develop hypotheses through Beta.
 
 ### Criterion 2 – Have a multi-disciplinary team
 
-By the end of Alpha, the team were fully staffed with a multi-disciplinary team. They developed an effective onboarding process for new team members. The latest team member commented they had access to all systems within two hours of starting and could see all interactions between members of the team, and had access to people of all levels of seniority within the programme. 
+By the end of Alpha, the team were fully staffed with a multi-disciplinary team. They developed an effective onboarding process for new team members. The latest team member commented they had access to all systems within two hours of starting and could see all interactions between members of the team, and had access to people of all levels of seniority within the program. 
 
 The team is not averse to conflict and team members felt that they were able to discuss ideas freely with one another to constructively reach consensus. Team members engaged in robust discussions, regardless of role, skillset, or seniority. We saw evidence of this during the in-flight check-ins and particularly during the Alpha assessment when the team spontaneously debated the implications of assessor feedback. 
 
@@ -122,7 +122,7 @@ The team has identified that it needs to expand the coverage of the automated in
 
 The assessment panel recommends the team spends time adapting their ways of working to ensure adequate testing of changes are performed before those changes are released to users. This testing should cover accessibility, usability, penetration and performance testing as required.
 
-There are opportunities for using the same automated release processes used in other DTO programmes of work that allow changes to be tested in production-like environments on-demand. 
+There are opportunities for using the same automated release processes used in other DTO programs of work that allow changes to be tested in production-like environments on-demand. 
 
 ### Criterion 11 - Measure performance
 

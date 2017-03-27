@@ -7,7 +7,7 @@ breadcrumb: Senior citizens entitlements
 department: Queensland government
 department-logo: /images/projects/qld-govt-logo.png
 department-site: https://www.qld.gov.au/
-programme: dtp
+program: dtp
 weight: 7
 end_date:
 beta_delivered_date: April 2016
