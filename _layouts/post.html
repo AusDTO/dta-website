@@ -53,10 +53,7 @@ breadcrumb_type: post
     <h2>Want to join the conversation?</h2>
     <a href="{{site.baseurl}}/blog/blog-moderation-guidelines/">Read our comment moderation guidelines</a>
   </section>
-  <section id="disqus_thread">
-    {% javascript disqus-init %}
-    <noscript>Please enable JavaScript to view the comments</noscript>
-  </section>
+  {% include disqus.liquid %}
   {% endif %}
 </article>
 

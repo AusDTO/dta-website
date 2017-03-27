@@ -1,0 +1,18 @@
+<section id="disqus_thread">
+  <script>
+      var disqus_config = function () {
+          this.page.url = "https://www.dta.gov.au{{page.url}}";
+          this.page.identifier = "https://www.dta.gov.au{{page.url}}";
+      };
+{% if jekyll.environment == "development" %}
+      var disqus_developer = 1; // This turns developer mode on
+{% endif %}
+      (function() {
+          var d = document, s = d.createElement('script');
+          s.src = 'https://ausdto.disqus.com/embed.js';
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the comments</noscript>
+</section>
