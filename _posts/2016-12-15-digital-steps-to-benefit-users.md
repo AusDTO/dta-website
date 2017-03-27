@@ -24,11 +24,12 @@ The myGov changes, set to roll out next year, will build on the improvements mad
 
 ## Watch the video
 
-<div class="youtube-embed">
-  <iframe width="100%" height="400" src="https://www.youtube.com/embed/GDWQ4ayr5D8?rel=0" frameborder="0" allowfullscreen></iframe>
-  <details open data-label="content-accordion-1-example" aria-expanded="false">
-    <summary><h3>Read transcript - 2:21 min</h3></summary>
-    <div class="accordion-panel" markdown="1">
+<div class="embed-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/GDWQ4ayr5D8?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+<details open data-label="content-accordion-1-example" aria-expanded="false">
+  <summary><h3>Read transcript - 2:21 min</h3></summary>
+  <div class="accordion-panel" markdown="1">
     
 Narrator: myGov is used by millions of people to make accessing online government services convenient and now we're planning to make it even simpler clearer and faster to use.
 
@@ -103,7 +104,5 @@ On screen: changes to myGov will make accessing government services simpler, cle
 [Music]
 
 On screen: Modernising myGov / Video by the Digital Transformation Agency 
-
 </div>
-  </details>
-</div>
+</details>

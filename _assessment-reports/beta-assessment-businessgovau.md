@@ -32,7 +32,7 @@ criteria-14-result: Not assessed
 User research for the Single Business Service business case raised concerns with the existing business.gov.au service. Customers:
 
 - “Don’t know what they don’t know”
-- have difficulty navigating the maze of programmes and information
+- have difficulty navigating the maze of programs and information
 - struggle to determine when/how/why information is relevant to them
 - expect service providers to proactively target information to them.
 

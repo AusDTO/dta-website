@@ -21,12 +21,13 @@ Currently there are 304 registered government buyers from 92 different agencies,
 
 ## Watch the video
 
-<div class="youtube-embed">
-  <iframe width="100%" height="400" src="https://www.youtube.com/embed/-4VrwW461tw?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="embed-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/-4VrwW461tw?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
-  <p><em>Caption: Interview with Chris O’Connor the Manager of Digital, City of Casey - one of the first buyers in the Digital Marketplace.</em></p>
+<p><em>Caption: Interview with Chris O’Connor the Manager of Digital, City of Casey - one of the first buyers in the Digital Marketplace.</em></p>
   
-  <details open data-label="content-accordion-1-example" aria-expanded="false">
+<details open data-label="content-accordion-1-example" aria-expanded="false">
     <summary><h3>Read transcript - 2:19 min</h3></summary>
     <div class="accordion-panel" markdown="1">
     
@@ -53,9 +54,8 @@ On screen: Anything else you would like to share about your experience?
 Chris: The simplicity of the language was a real strong point for my experience of the Marketplace - not having the <abbr title="Request for Quotation">RFQs</abbr>, the <abbr title="Return on Investment">ROIs</abbr> and the tenders. I'm just someone who needs a solution to my problem, and anyone who can help me connect with people who provide that solution I'm really happy with, and if it's in plain English, all the better.
 
 </div>
-  </details>
-</div>
-
+</details>
+  
 ## Want to join the community? 
 
 If you work in government and have an email address ending in **.gov.au** you can [create a buyer account now](https://marketplace.service.gov.au/buyers/signup).
