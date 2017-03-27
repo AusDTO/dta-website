@@ -9,12 +9,13 @@ thumbnail: /images/blog-thumbnails/iwd-thumb.jpg
 searchexcerpt: "In honour of International Women’s Day this year, we’re taking the opportunity to showcase the talents of some of the incredible women working at the DTA. A few of our colleagues, whose roles range from from user researcher to product manager, share their experiences of working in digital with us."
 ---
 
-<div class="youtube-embed">
-  <iframe width="100%" height="400" src="https://www.youtube.com/embed/1I3_ZJ74nzk?rel=0" frameborder="0" allowfullscreen></iframe>
-  <details open data-label="content-accordion-1-example" aria-expanded="false">
-    <summary><h3>Read transcript - 2:50 min</h3></summary>
-    <div class="accordion-panel" markdown="1">
-    
+<div class="embed-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/1I3_ZJ74nzk?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+<details open data-label="content-accordion-1-example" aria-expanded="false">
+  <summary><h3>Read transcript - 2:50 min</h3></summary>
+  <div class="accordion-panel" markdown="1">
+  
 Katherine: I have been involved in tech I guess since maybe I was like, well creating tech since I was probably about 13 when I did it as a hobby.
 
 Meera: So my background in tech started when I was very very young, I was really interested in computers, and I guess you would call me the 90's child who sort of was just mad about computers.
@@ -42,9 +43,8 @@ Kathleen: Start small, build your network, ask lots of questions and get in amon
 Mariam: I haven't faced any challenges working as a woman in technology or in this product management space here at the dta. I think the culture that we have here really encourages us to bring our skills and our experience to this space and to everything that we do. What's really valuable is that we start thinking about technology as technology. It's not about women in technology, it's not about what men bring versus what women bring, it's just technology and I think that creates an equal platform for all of us to come together and contribute in this space. 
 
 </div>
-  </details>
-</div>
-
+</details>
+  
 While the number of women working in the digital sector is on the rise, statistics show that women represent just 28 per cent* of Australia’s ICT workforce. 
 
 We need to be bold to change that figure.
