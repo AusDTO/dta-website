@@ -39,8 +39,6 @@ $live: #859949;
 // Import partials from `partials`
 @import 'partials/accordions';
 @import 'partials/assessment-reports';
-@import 'partials/blog';
-@import 'partials/blog-share-links';
 @import 'partials/buttons';
 @import 'partials/contact';
 @import 'partials/criteria-page-header';
@@ -57,6 +55,8 @@ $live: #859949;
 @import 'partials/homepage';
 @import 'partials/icons';
 @import 'partials/latest-post-list';
+@import 'partials/post';
+@import 'partials/post-share-links';
 @import 'partials/recruiterbox';
 @import 'partials/transformation-agenda';
 @import 'partials/signup';
