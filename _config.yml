@@ -39,7 +39,6 @@ gems:
 
 
 exclude:
-  - .asset-cache
   - _config-*.yml
   - Gemfile
   - Gemfile.lock
@@ -62,9 +61,6 @@ assets:
     - _assets/scss
     - _assets/vendor
     - images/transformation-agenda
-
-  cache: .asset-cache
-  prefix: "/"
 
 jekyll-archives:
   enabled:
