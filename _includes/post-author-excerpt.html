@@ -1,6 +1,6 @@
 {% if page.author-excerpt %}
   <section class="post-author-bio">
-    <p>{{ page.author-excerpt }}</p>
+    <p class="author-excerpt">{{ page.author-excerpt }}</p>
   </section>
 {% else %}
   {% for excerpt in site.staff %}
@@ -8,7 +8,7 @@
   {% if excerpt.title contains page.author %}
   <section class="post-author-bio">
     <img alt="Image of {{ page.author }}" src="{{ excerpt.profile-image }}">
-    <p>{{ excerpt.profile-excerpt }}</p>
+    <p class="author-excerpt">{{ excerpt.profile-excerpt }}</p>
 
     {% if excerpt.twitter-handle %}
     <div class="author--twitter">
