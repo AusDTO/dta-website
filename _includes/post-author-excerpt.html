@@ -7,7 +7,7 @@
 
   {% if excerpt.title contains page.author %}
   <section class="post-author-bio">
-    <img alt="Image of {{ page.author }}" src="{{ excerpt.profile-image }}">
+    <img alt="{{ page.author }}" src="{{site.baseurl}}{{ excerpt.profile-image }}">
     <p class="author-excerpt">{{ excerpt.profile-excerpt }}</p>
 
     {% if excerpt.twitter-handle %}
