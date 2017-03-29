@@ -33,6 +33,9 @@
 main {
   @include ie-clearfix;
 }
+main h1 {
+  clear: both;
+}
 
 // Test why the ie mixin doesn't suffice and that we have to use selectivizr's classes.
 .lt-ie9 .content-main {
