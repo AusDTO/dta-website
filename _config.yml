@@ -52,6 +52,7 @@ exclude:
   - node_modules
 
 assets:
+  prefix: "/"
   assets:
     - "*.png"
     - "*.jpg"
