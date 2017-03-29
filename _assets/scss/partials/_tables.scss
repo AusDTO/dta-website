@@ -1,0 +1,81 @@
+/**
+For tables which suit a CSS responsive table approach. Collapses the table below the tablet breakpoint.
+ */
+.responsive-table {
+  @include media($mobile-only) {
+    //Force table to not be like a table anymore
+    table, thead, tbody, th, td, tr {
+      display: block;
+      width: 100%;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+      float: left;
+      clear: left;
+    }
+
+    //Hide table headers (but not display: none;, for accessibility)
+    thead tr {
+      position: absolute;
+      top: -9999px;
+      left: -9999px;
+    }
+    tr {
+      border: 1px solid $grey;
+    }
+    td {
+      //Behave like a "row"
+      border: none;
+      border-bottom: 1px solid $light-grey;
+      position: relative;
+
+      //This was tweaked to match the target table headings, and may
+      //need to be changed later to match the tables that are using it.
+      padding-left: 30%;
+    }
+
+    td:before {
+      //Now like a table header
+      position: absolute;
+      //Top/left values mimic padding
+      top: $tiny-spacing;
+      left: $tiny-spacing;
+      width: 25%;
+      padding-right: $tiny-spacing;
+      white-space: nowrap;
+      content: attr(data-label);
+      font-weight: bold;
+    }
+  }
+}
+
+/**
+For tables where the tabular structure must be kept intact even on mobile screens.
+Once the page width becomes smaller than the table, the container will mask the table to keep it within
+the page width. The user can then scroll left and right with their finger to view the table contents.
+The table must be wrapped in a div with this class.
+ */
+div.horizontal-scroll-table-container {
+  width: 100%;
+  overflow: auto;
+
+  @include media($desktop) {
+    overflow: initial;
+  }
+
+  table {
+    @include media($tablet) {
+      th:first-child,
+      td:first-child {
+        max-width: 20em;
+      }
+      td:first-child[colspan] {
+        max-width: initial;
+      }
+    }
+    @include media($desktop) {
+      width: 900px;
+      max-width: 100%;
+    }
+  }
+}

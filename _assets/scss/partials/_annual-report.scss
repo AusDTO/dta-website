@@ -1,0 +1,103 @@
+.annual-report {
+  .boxed {
+    max-width: 36em;
+    margin: $base-spacing 0;
+    @include media($tablet) {
+      margin: $base-spacing $small-spacing;
+    }
+
+    padding: $medium-spacing $medium-spacing $medium-spacing $base-spacing;
+    color: $non-black;
+    background: $non-white;
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      margin-top: 0;
+    }
+    p:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+  .notes {
+    font-size: $small-font-size;
+    dl {
+      @include media($mobile) {
+        margin-bottom: 0;
+        dt {
+          display: inline-block;
+          vertical-align: top;
+          font-weight: bold;
+          width: 20%;
+          margin: 0 0 $tiny-spacing 0;
+          &:last-child {
+            margin-bottom: 0;
+          }
+        }
+        dd {
+          display: inline-block;
+          width: 79%;
+          margin: 0 0 $tiny-spacing 0;
+          margin-bottom: $tiny-spacing;
+          &:last-child {
+            margin-bottom: 0;
+          }
+        }
+      }
+    }
+  }
+
+  .financial-notes-index {
+    p {
+      padding-left: ($base-spacing * 2.2);
+      margin-bottom: $tiny-spacing;
+    }
+    ol {
+      counter-reset: item
+    }
+    li {
+      display: block
+    }
+    li:before {
+      content: counters(item, ".") ". ";
+      counter-increment: item
+    }
+  }
+
+  table {
+    margin-top: $large-spacing;
+
+    caption {
+      text-align: left;
+      padding-bottom: $base-spacing;
+    }
+
+    td {
+      vertical-align: top;
+    }
+
+    //The default agent sheet styles `<th>` as bold, however for an accessibile table, `<th>` can appear throughout
+    //`<tbody>`. For the annual report we override this, and instead use `<strong>` where necessary.
+    //Possibly this should be overridden globally in ui-kit.
+    thead th {
+      font-weight: bold;
+    }
+    tbody th {
+      font-weight: normal;
+    }
+
+    /**
+    For financial tables, align the text to the right
+     */
+    &.financial {
+      th,
+      td {
+        text-align: right;
+        &:first-child {
+          text-align: initial;
+        }
+      }
+    }
+  }
+}

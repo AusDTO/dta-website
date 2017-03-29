@@ -1,19 +1,20 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  {% unless page.layout == 'fullscreen' %}
+{% unless page.layout == 'fullscreen' %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {% endunless %}
+{% endunless %}
   <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/images/icons/favicon.ico">
   <meta name="creator" content="Digital Transformation Agency">
   <meta name="type" content="Text">
   <meta name="modified" content="{{ page.date | date: "%b %-d, %Y" }}">
+  {% if page.author %}<meta name="author" content="{{ page.author}}">{% endif %}
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@{{ site.twitter }}" />
 
-  {% if page.title %}
+{% if page.title %}
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta property="og:title" content="{{ page.title | xml_escape }}" />
   <meta name="twitter:title" content="{{ page.title | xml_escape }}" />
@@ -45,7 +46,6 @@
   <meta property="og:description" content="{{ description | xml_escape }}" />
   <meta name="twitter:description" content="{{ description | truncate:160 | xml_escape }}" />
 {% endif %}
-
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 

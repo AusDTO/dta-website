@@ -50,7 +50,6 @@
 }
 
 .post-body {
-  margin-bottom: $base-spacing;
   padding-bottom: $base-spacing;
   border-bottom: 1px dotted $border-colour;
 
@@ -61,9 +60,10 @@
 }
 
 .post-author-bio {
+  margin-top: $base-spacing;
   margin-bottom: $base-spacing;
   padding-top: $small-spacing;
-  padding-bottom: $base-spacing * 2;
+  padding-bottom: $base-spacing;
   border-bottom: 1px solid $border-colour;
 
   img {
@@ -74,10 +74,16 @@
     margin-right: $medium-spacing;
     margin-bottom: $base-spacing;
   }
+  .author-excerpt {
+    margin-bottom: $small-spacing;
+  }
+  .author--twitter {
+    padding-bottom: $base-spacing;
+  }
 
 }
 
-.moderation-policy {
+.post-moderation-policy {
   h2 {
     margin-bottom: $tiny-spacing;
   }
