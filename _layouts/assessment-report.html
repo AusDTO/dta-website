@@ -41,6 +41,10 @@ localnav: digital-service-standard
     {% if page.service-manager %}
       <dt>Service Manager</dt><dd>{{ page.service-manager }}</dd>
     {% endif %}
+
+    {% if page.product-manager %}
+      <dt>Product Manager</dt><dd>{{ page.product-manager }}</dd>
+    {% endif %}
   </dl>
 
     {% include assessment-reports/related-assessment-reports.html %}
