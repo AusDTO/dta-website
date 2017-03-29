@@ -2,7 +2,10 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+<h1>
+  {% if page.page_group.title %}<span class="page-group-title">{{ page.page_group.title }}</span>{% endif %}
+  {{ page.title }}
+</h1>
 
 {% if page.lede %}
 <div class="lede">
@@ -11,3 +14,25 @@ layout: default
 {% endif %}
 
 {{ content }}
+
+{% if page.page_group.nav.previous or page.page_group.nav.next%}
+<div class="back-to-top-link">
+  <a href="#content">Back to top &uarr;</a>
+</div>
+<div class="page-group-progress">
+  <ul>
+    {% if page.page_group.nav.previous %}
+    <li class="previous">
+      <a href="{{ page.page_group.nav.previous.href}}">Previous page</a>
+      <div>{{page.page_group.nav.previous.title}}</div>
+    </li>
+    {% endif %}
+    {% if page.page_group.nav.next %}
+    <li class="next">
+      <a href="{{page.page_group.nav.next.href}}">Next page</a>
+      <div>{{page.page_group.nav.next.title}}
+      </div>
+    </li>
+    {% endif %}
+</div>
+{% endif %}
