@@ -36,6 +36,10 @@
         {% if breadcrumb_page.breadcrumb %}
           {% assign label = breadcrumb_page.breadcrumb %}
         {% endif %}
+        {% unless label %}
+          {% comment %} If a URL segment doesn't have a page, dont include it in the breadcrumb{% endcomment %}
+          {% continue %}
+        {% endunless %}
         {% if forloop.last %}
 
         <li>{{ label }}</li>

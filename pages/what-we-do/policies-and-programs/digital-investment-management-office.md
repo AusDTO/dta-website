@@ -6,7 +6,7 @@ localnav: what-we-do
 --- 
 
 The Digital Investment Management Office has been set up within the DTA to 
-provide oversight of all significant government ICT and digital investment projects across government.
+provide oversight of all significant ICT and digital investment projects across government.
 
 Each year government spends around $6.2 billion on ICT investments. By developing new and more strategic approaches to investment analysis, governance, risk management and program and benefits management, we will be able to provide greater transparency and optimisation of the government’s investment portfolio.
 
