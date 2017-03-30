@@ -75,9 +75,11 @@ As the team moves into Beta, they should consider  extending some research time 
 
 The majority of the current team will return to original projects after the initial release of the service. Services at the National Blood Authority are supported by a common maintenance team, and this will make it difficult for any new members to develop empathy for the users.  Assessors recommend keeping the team together for as long as possible after launch. This will help keep institutional knowledge and research findings with the product but also provide a platform to learn and iterate the product.
 
-### Criterion 3: Agile and user-centered process
+### Criterion 3: Agile and user-centred process
 
 Assessors recommend the team create a ‘User storymap’, an easily referenceable architect to track how complete Beta is towards MVP and what features are in scope for future versions.
+
+### Criterion 4 to 13
 
 As the team progress through Beta, they’ll need to consider the following points: 
 
