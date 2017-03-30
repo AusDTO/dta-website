@@ -39,7 +39,7 @@ Up to this point of the Alpha assessment the team have been working well togethe
 
 ### Criterion 3 - Agile and user-centred process
 
-The team are using agile ceremonies and artefacts as well as integrating user-centered design practices into their day. They have demonstrated a great ability to pivot as requirements for the dashboard have changed over time. 
+The team are using agile ceremonies and artefacts as well as integrating user-centred design practices into their day. They have demonstrated a great ability to pivot as requirements for the dashboard have changed over time. 
 
 ### Criteria 6 - Consistent and responsive design 
 
