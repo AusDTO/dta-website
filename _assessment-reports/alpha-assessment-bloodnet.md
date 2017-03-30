@@ -29,7 +29,7 @@ criteria-13-result: Not assessed
 ---
 ## Areas of good performance
 
-### Criterion 1 - Understand user needs
+### Criterion 1: Understand user needs
 
 "We all feel the importance for the product because we've been to hospitals and seen how important it is" - quote from the team.
 
@@ -45,7 +45,7 @@ The prototypes that tested well had strong resemblance to the existing system. T
 
 The BloodNet team will continue to develop their hypotheses through Beta.
 
-### Criterion 2 - Have a multi-disciplinary team
+### Criterion 2: Have a multi-disciplinary team
 
 The team are very well  supported by their service manager and their organisation. National Blood Authority isn't a big department, and this is their first exposure to formally using the agile development methodology.  After building the case for the agile methodology, the organisation has fully supported this team.
 
@@ -55,7 +55,7 @@ Most team members are quite new to the product, but they are well supported by a
 
 The setup of their office has some limitations for colocating and working together, however the team have managed to create a working environment that supports the way they work. 
 
-### Criterion 3 - Agile and user-centred process
+### Criterion 3: Agile and user-centred process
 
 The team's delivery manager participated in one of the DTO's exemplar teams and is bringing that experience to the team. There was some initial hesitation from some members about working this way. After some coaching sessions and exposure to real users through their user research, everyone is embracing the new approach.
 
@@ -67,7 +67,7 @@ The team are honest about making mistakes, and are learning from them. Sizing of
 
 ## Recommendations
 
-### Criterion 1 - Understand user needs
+### Criterion 1: Understand user needs
 
 As the team moves into Beta, they should consider  extending some research time into how suppliers will interact and integrate with the system. As well as documenting the needs to suppliers.
 
