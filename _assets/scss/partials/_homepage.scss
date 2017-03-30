@@ -1,73 +1,75 @@
-.home-heading {
-  @include media($tablet) {
-    border-bottom: 6px solid $light-aqua;
-    padding-bottom: $tiny-spacing;
-  }
-}
-
-// Test to check if this can be removed post uikit 1.9.1/1.10.
-.about-dta {
-  .abstract {
-    max-width: 25 * $base-spacing;
-    border-bottom: 0;
-  }
-}
-
-.news-media {
-  @include media($tablet) {
-    li:nth-child(-n+2) {
-      border-top: none;
-      padding-top: 0;
-    }
-  }
-
-  @include media($desktop) {
-    li:nth-child(-n+4) {
-      border-top: none;
-      padding-top: 0;
-    }
-  }
-}
-
-// Shouldn't be necessary due to uikit's _grid-settings L#98 -- test after uikit 1.9.1/1.10.
-main {
-  @include ie-clearfix;
-}
-main h1 {
-  clear: both;
-}
-
-// Test why the ie mixin doesn't suffice and that we have to use selectivizr's classes.
-.lt-ie9 .content-main {
-  width: 70%;
-  float: left;
-}
-
-// FIX from treb
-.lt-ie9 .list-vertical--fourths,
-.lt-ie9 .list-vertical--thirds,
-.lt-ie9 .homepage-footer {
-  @include ie-clearfix; //FIXME! Blurg. Report to UI-Kit
-}
-
-.homepage-footer {
-  @include outer-container;
-  @include ie-clearfix;
-
-  .leadership {
+.home {
+  .home-heading {
     @include media($tablet) {
-      @include span-columns(6 of 12);
+      border-bottom: 6px solid $light-aqua;
+      padding-bottom: $tiny-spacing;
     }
   }
 
-  .social-media {
+  // Test to check if this can be removed post uikit 1.9.1/1.10.
+  .about-dta {
+    .abstract {
+      max-width: 25 * $base-spacing;
+      border-bottom: 0;
+    }
+  }
+
+  .list-vertical--fourths {
     @include media($tablet) {
-      @include span-columns(6 of 12);
+      li:nth-child(-n+2) {
+        border-top: none;
+        padding-top: 0;
+      }
     }
 
-    .social-media-links {
-      a {
-        display: inline-block;
+    @include media($desktop) {
+      li:nth-child(-n+4) {
+        border-top: none;
+        padding-top: 0;
+      }
+    }
+  }
+
+  // Shouldn't be necessary due to uikit's _grid-settings L#98 -- test after uikit 1.9.1/1.10.
+  main {
+    @include ie-clearfix;
+  }
+  main h1 {
+    clear: both;
+  }
+
+  // Test why the ie mixin doesn't suffice and that we have to use selectivizr's classes.
+  .lt-ie9 .content-main {
+    width: 70%;
+    float: left;
+  }
+
+  // FIX from treb
+  .lt-ie9 .list-vertical--fourths,
+  .lt-ie9 .list-vertical--thirds,
+  .lt-ie9 .homepage-footer {
+    @include ie-clearfix; //FIXME! Blurg. Report to UI-Kit
+  }
+
+  .homepage-footer {
+    @include outer-container;
+    @include ie-clearfix;
+
+    .leadership {
+      @include media($tablet) {
+        @include span-columns(6 of 12);
+      }
+    }
+
+    .social-media {
+      @include media($tablet) {
+        @include span-columns(6 of 12);
+      }
+
+      .social-media-links {
+        a {
+          display: inline-block;
+        }
       }
     }
   }
