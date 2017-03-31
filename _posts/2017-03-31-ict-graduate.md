@@ -4,8 +4,8 @@ category: [blog]
 tag: 'digital transformation'
 author: Eloise Aitken
 author-excerpt: "Eloise Aitken is a Software Engineer at Geoscience Australia."
-thumbnail: /images/blog-thumbnails/devicesx3_Marketplace_thumb (1).png
-hero-image: /images/blog-content/devicesx3_Marketplace_hero (1).png
+thumbnail: /images/blog-thumbnails/ICT_blog_sml.jpg
+hero-image: /images/blog-content/ICT_Blog_hero.jpg
 searchexcerpt: "The [ICT Graduate Program](https://www.dta.gov.au/who-we-are/corporate/jobs/#op-170375-2018-australian-government-ict-graduate-program) opened its doors to new graduates earlier this month. The program, which is run out of the DTA, gives graduates an entryway into ICT in government. Grads work with a dedicated mentor and have the opportunity to get involved with a range of learning and development opportunities whilst being embedded in a participating agency. 
 
 We asked one of our recent grads, Eloise Aitken, to recount her experiences in last year’s ICT grad program.
