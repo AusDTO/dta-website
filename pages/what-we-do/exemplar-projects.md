@@ -1,7 +1,7 @@
 ---
 title: Exemplar projects
 layout: basic
-permalink: /what-we-do/partnerships/
+permalink: /what-we-do/partnerships/exemplar-projects
 localnav: what-we-do
 gov-speak: true
 ---
