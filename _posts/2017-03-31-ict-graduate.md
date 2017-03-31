@@ -1,5 +1,5 @@
 ---
-title: "Doing the hard work to make it simple"
+title: "Rock star to tech star: an ICT grad story"
 category: [blog]
 tag: 'digital transformation'
 author: Eloise Aitken
