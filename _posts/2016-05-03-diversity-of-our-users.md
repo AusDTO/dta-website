@@ -28,7 +28,7 @@ Here are some of the important insights and issues raised.
 
 Many diverse communities are generally positive about using and accessing technology, however the maze of government agencies are difficult to navigate at times. 
 
-Our research for [GOV.AU](https://www.dto.gov.au/blog/gov-au/) confirms that  people often find it really difficult to understand what government wants them to do online regardless of their background. We hope that GOV.AU can demonstrate how government services can be designed around the users’ needs rather than the structure of government to provide simpler, clearer, faster access to services and information. 
+Our research for [GOV.AU](https://www.dta.gov.au/blog/gov-au/) confirms that  people often find it really difficult to understand what government wants them to do online regardless of their background. We hope that GOV.AU can demonstrate how government services can be designed around the users’ needs rather than the structure of government to provide simpler, clearer, faster access to services and information. 
 
 ## Some people have limited access to technology
 
@@ -42,23 +42,23 @@ There are lots of different images used to represent multilingual information, e
 
 <center><img src="{{ site.baseurl }}/images/blog-content/national-interpreter-symbol.png" alt="National Interpreter Symbol" height="150" width="150"></center>
 
-There is guidance on creating [inclusive services](https://www.dto.gov.au/standard/design-guides/inclusive-services/) on the DTO website. 
+There is guidance on creating [inclusive services](https://www.dta.gov.au/standard/design-guides/inclusive-services/) on the DTO website. 
 
 ## Nominees or representatives are not always the answer
 
 People who have family members or community support may be able to nominate a representative if they are unable to deal directly with government for language, health or other reasons. But some people, like newly arrived immigrants and refugees, may not have these contacts or networks to assist them. 
 
-Sometimes using a nominee may breach an individual’s privacy or could represent a conflict of interest. Our [digital identity project](https://www.dto.gov.au/our-work/identity/) on making it easier for people to prove who they are when using government services online will explore some of these issues.
+Sometimes using a nominee may breach an individual’s privacy or could represent a conflict of interest. Our [digital identity project](https://www.dta.gov.au/what-we-do/platforms/govpass/) on making it easier for people to prove who they are when using government services online will explore some of these issues.
  
 ## We need to include diverse communities early on in our research
 
-Including people from diverse communities during the [Discovery stage](https://www.dto.gov.au/standard/service-design-and-delivery-process/discovery/) of designing government services can ensure that their needs are considered from the beginning. Designing services with these groups in mind helps create services that are simpler and easier for all users.
+Including people from diverse communities during the [Discovery stage](https://www.dta.gov.au/standard/service-design-and-delivery-process/discovery/) of designing government services can ensure that their needs are considered from the beginning. Designing services with these groups in mind helps create services that are simpler and easier for all users.
 
 We need to learn more about people — about the context of their interactions with government, not just their demographic background — so that we can make informed decisions when designing services. 
 
 ## We can improve online content for diverse users
 
-Government needs to engage with diverse users across all stages of service design and delivery. The [Digital Service Standard](https://www.dto.gov.au/standard/) requires an understanding of user needs and their ongoing involvement throughout a project. 
+Government needs to engage with diverse users across all stages of service design and delivery. The [Digital Service Standard](https://www.dta.gov.au/standard/) requires an understanding of user needs and their ongoing involvement throughout a project. 
 
 There are a range of actions that agencies can undertake to improve their online content for users from diverse backgrounds including:
 

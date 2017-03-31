@@ -21,17 +21,17 @@ Best of all, sharing a common platform allows government agencies to stand on th
 
 The Digital Transformation Office’s work is focussed around three themes: building capability, developing policy and creating platforms. For each platform, we’re starting small, focussing on users, and working hand-in-hand with the rest of government. Here’s a brief overview of the five platforms that are on the way:
 
-## [GOV.AU](https://www.dto.gov.au/our-work/gov-au/)
+## [GOV.AU](https://www.dta.gov.au/our-work/gov-au/)
 GOV.AU is our platform to help government to deliver better services and information. When it is built, GOV.AU will provide a common approach to design, technology and content so that people have a simple, clear and consistent experience when they use government online. We’ve delivered an [Alpha prototype](https://www.gov.au/alpha/) and are now building this in Beta which we’ll release in August 2016.
 
-## [Digital Marketplace](https://www.dto.gov.au/our-work/marketplace/)
+## [Digital Marketplace](https://www.dta.gov.au/our-work/marketplace/)
 The Digital Marketplace will make it easier for digital suppliers to connect with government so they can help us deliver brilliant digital services. We’ll simplify IT procurement and create a catalogue where suppliers and buyers can engage. Expect to see an Alpha prototype of the platform in late 2016, with a Beta expected early 2017.
 
-## [Digital Identity](https://www.dto.gov.au/our-work/identity/)
+## [Digital Identity](https://www.dta.gov.au/what-we-do/platforms/govpass/)
 We're working to make it easier for people to prove they are who they say they are, when they need to access government services. The DTO is working towards a common approach to identity proofing and authentication so that people can prove their identity once and carry out any number of cross-agency transactions thereafter.
 
-## [Performance Dashboard](https://www.dto.gov.au/our-work/performance/)
+## [Performance Dashboard](https://www.dta.gov.au/our-work/performance/)
 Information about the performance of government services will be published on a new dashboard. By making this information easier to access, the dashboard will drive the continuous improvement of government services for users and increase government transparency. Next we will release an alpha of the dashboard, showcasing performance information about a live government service.
 
-## [cloud.gov.au](https://www.dto.gov.au/our-work/cloud/)
+## [cloud.gov.au](https://www.dta.gov.au/our-work/cloud/)
 cloud.gov.au will provide the infrastructure, monitoring, and delivery tools for teams in government to release and operate user-facing web applications easier. It also makes it simpler to adopt best practices in releasing software, and will simplify the security accreditation process for new services. So far, we’ve tested the platform with teams in our delivery hubs, and we’re now working on building a self-service interface.
