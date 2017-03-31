@@ -1,15 +1,29 @@
 ---
 layout: basic
 title: "Performance dashboard"
-lede: "We're publishing information about the performance of government services on a new dashboard."
+lede: "The DTA’s Performance Dashboard is a place for government to publicly report how its services are performing."
 permalink: /what-we-do/platforms/performance/
 redirect_from: /our-work/performance/
 localnav: what-we-do
 ---
 
-The [performance dashboard](https://www.dashboard.gov.au/) will publicly measure the performance of Australian Government services against the metrics defined by criterion 11 of the [Digital Service Standard](/standard).
+The Dashboard makes this data accessible to increase transparency and drive the continuous improvement of government services.
 
-By making this data more accessible, the dashboard will drive the continuous improvement of government services for users and increase government transparency.
+Each service has a dashboard, which reports its performance against a series of mandatory key performance indicators:
+
+- User satisfaction
+- Cost per transaction
+- Digital take-up
+- Completion rate.
+
+[Criterion 11](https://www.dta.gov.au/standard/11-measure-performance/) of the Digital Service Standard requires government services to report their performance against these KPIs. The dashboards also provide other insights so users and the owners of the services can track improvements over time.
+
+Read more about the dashboard in our blogs 
+
+- [Performance Dashboard – Practising what we preach](https://www.dta.gov.au/blog/dashboard-practising-what-we-preach/)
+- [DTA reports dashboard progress](https://www.dta.gov.au/news/dashboard-progress/)
+- [Performance Dashboard beta assessment](https://www.dta.gov.au/standard/assessments/performance-dashboard-beta/) 
+- [Performance Dashboard alpha assessment](https://www.dta.gov.au/standard/assessments/performance-dashboard-alpha/) 
 
 ## Links
 
