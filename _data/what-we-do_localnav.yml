@@ -18,11 +18,9 @@
         - title: "Communities"
           url: "/what-we-do/partnerships/communities"
         - title: "Exemplars"
-          url: "/what-we-do/exemplar-projects/"
+          url: "/what-we-do/partnerships/exemplar-projects/"
     - title: "Digital transformation agenda"
       url: "/what-we-do/transformation-agenda/"
-    - title: "Exemplars"
-      url: "/what-we-do/exemplars/"
     - title: "Platforms"
       url: "/what-we-do/platforms/"
       grandchildren:
