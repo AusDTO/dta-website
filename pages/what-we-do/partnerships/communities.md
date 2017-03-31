@@ -2,7 +2,6 @@
 title: Digital communities of practice
 layout: basic
 permalink: /what-we-do/partnerships/
-localnav: what-we-do
 gov-speak: true
 ---
 
