@@ -1,7 +1,7 @@
 ---
 title: Digital communities of practice
 layout: basic
-permalink: /what-we-do/partnerships/
+permalink: /what-we-do/
 localnav: what-we-do
 gov-speak: true
 ---
