@@ -14,4 +14,4 @@ Six exemplar projects have been hosted in our Sydney and Canberra design hubs. T
 
 We provided expertise in user research, service design and technical development and worked alongside staff from the service delivery agency.
 
-The digital products **link to current page** continue to be tested and it is expected a number will soon be rolled out to the public. 
+The [digital products](https://www.dta.gov.au/what-we-do/exemplars/) continue to be tested and it is expected a number will soon be rolled out to the public. 
