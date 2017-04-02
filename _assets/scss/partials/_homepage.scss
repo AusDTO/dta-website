@@ -30,6 +30,23 @@
     }
   }
 
+  .list-vertical--thirds {
+    @include media($tablet) {
+      li:nth-child(-n+2) {
+        border-top: none;
+        padding-top: 0;
+      }
+    }
+
+    @include media($desktop) {
+      li:nth-child(-n+3) {
+        border-top: none;
+        padding-top: 0;
+      }
+    }
+  }
+
+
   // Shouldn't be necessary due to uikit's _grid-settings L#98 -- test after uikit 1.9.1/1.10.
   main {
     @include ie-clearfix;

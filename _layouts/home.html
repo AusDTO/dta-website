@@ -23,19 +23,12 @@ layout: base
 
   <section>
     <h2 class="home-heading">Featured products</h2>
-    <ul class="list-vertical--fourths">
+    <ul class="list-vertical--thirds">
       {% for item in site.data.featured-products %}
       <li>
         <article>
           <div class="link">
             <a href="{{ item.url }}">
-              <figure>
-                {% if item.image %}
-                <img class="thumbnail" src="{{site.baseurl}}{{ item.image}}" alt="">
-                {% else %}
-                <img class="blog-thumbnail" src="{{site.baseurl}}/images/post-thumbnail-placeholder.png" alt="">
-                {% endif %}
-              </figure>
               <h3><span>{{ item.title }}</span></h3>
             </a>
           </div>
