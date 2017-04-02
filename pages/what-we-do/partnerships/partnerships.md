@@ -12,6 +12,6 @@ The DTA works in close partnership with other government agencies to challenge a
 
 These partnerships range in scale and duration—from providing short-term specialist skills, support and training to long-term intensive partnerships from which major new online services are developed and delivered.
 
-The DTA’s partnership role across government also includes leading communities of practice, managing in-house product delivery teams, building agile delivery teams inside other agencies.
+The DTA’s partnership role across government also includes leading communities of practice, managing in-house product delivery teams, and building agile delivery teams inside other agencies.
 
 We are currently working with the Department of Human Services and the Department of Health to transform a number of their services. DTA experts are embedded in these departments helping bring about both cultural and digital transformation. 
