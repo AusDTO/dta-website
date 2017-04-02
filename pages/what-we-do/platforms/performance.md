@@ -18,7 +18,7 @@ Each service has a dashboard, which reports its performance against a series of 
 
 [Criterion 11](https://www.dta.gov.au/standard/11-measure-performance/) of the Digital Service Standard requires government services to report their performance against these KPIs. The dashboards also provide other insights so users and the owners of the services can track improvements over time.
 
-Read more about the dashboard in our blogs
+Read more about the dashboard in our blogs:
 
 - [Performance Dashboard – Practising what we preach](https://www.dta.gov.au/blog/dashboard-practising-what-we-preach/) 
 - [DTA reports dashboard progress](https://www.dta.gov.au/news/dashboard-progress/)
