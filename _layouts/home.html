@@ -2,7 +2,7 @@
 layout: base
 ---
 
-<article id="content" class="content-listing">
+<article id="content" class="content-listing home">
 
   <header class="about-dta">
     <h1>Digital Transformation Agency</h1>
@@ -10,15 +10,33 @@ layout: base
       helping government transform services to be simple, clear and fast.</p>
   </header>
 
-  <section class="news-media">
+  <section>
     <h2 class="home-heading">Latest news and blog posts</h2>
-    <ul class="list-vertical--fourths latest-post-list">
+    <ul class="list-vertical--fourths">
       {% for post in site.posts limit:8 %}
         {% include latest-post-list-item.html post=post show-category=1 %}
       {% endfor %}
     </ul>
     <p><a class="see-more" href="/news/">See more news</a></p>
     <p><a class="see-more" href="/blog/">See more blog posts</a></p>
+  </section>
+
+  <section>
+    <h2 class="home-heading">Featured products</h2>
+    <ul class="list-vertical--thirds">
+      {% for item in site.data.featured-products %}
+      <li>
+        <article>
+          <div class="link">
+            <a href="{{ item.url }}">
+              <h3><span>{{ item.title }}</span></h3>
+            </a>
+          </div>
+          <p>{{ item.description }}</p>
+        </article>
+      </li>
+      {% endfor %}
+    </ul>
   </section>
 
   <div class="homepage-footer">
