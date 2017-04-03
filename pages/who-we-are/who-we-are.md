@@ -17,7 +17,7 @@ This includes expertise in:
 - user-centred research and design
 - agile delivery methodologies
 - technology design and build 
-- systems architecture, and
+- systems architecture
 - sophisticated procurement approaches.
 
 ## Like to learn more?
