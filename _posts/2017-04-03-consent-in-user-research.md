@@ -7,6 +7,7 @@ author-excerpt: "Gillian Bowan is a user researcher at the DTA."
 thumbnail: /images/blog-thumbnails/DIIS_Useability_sml.jpg
 hero-image: /images/blog-content/DIIS_Useability_hero (1).jpg
 searchexcerpt: "Working with users of our services is a core part of the work we do at DTA. In order to design better services for users, we need to test these on real people. Therefore it is in our best interests to intimately understand the issue of consent --- how it is given and what that process looks like. Gillian Bowan, user research at the DTA, explores this dynamic and how consent is much more than a checkbox."
+---
 
 ![User research taking place in an office setting.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
