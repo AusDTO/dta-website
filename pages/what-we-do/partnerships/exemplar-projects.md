@@ -3,7 +3,6 @@ title: Exemplar projects
 layout: basic
 permalink: /what-we-do/partnerships/exemplar-projects/
 localnav: what-we-do
-gov-speak: true
 ---
 
 The transformation of online government services involves both large and small scale change.
