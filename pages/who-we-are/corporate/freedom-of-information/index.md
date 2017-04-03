@@ -31,7 +31,7 @@ You can find more information about FOI on the website for the [Office of the Au
 
 ### Information Publication Scheme
 
-Under [section 8 of the *Freedom of Information Act 1982*](https://www.legislation.gov.au/Details/C2016C01042/Html/Text#_Toc465936492), we must publish certain information on our website. This is called the Information Publication Scheme. We have sorted the information into categories that other government departments use, for consistency and ease of access.
+Under [section 8 of the *Freedom of Information Act 1982*](https://www.legislation.gov.au/Details/C2017C00102/Html/Text#_Toc477343347), we must publish certain information on our website. This is called the Information Publication Scheme. We have sorted the information into categories that other government departments use, for consistency and ease of access.
 
 * [Information Publication Scheme Agency Plan](/who-we-are/corporate/freedom-of-information/information-publications-scheme-agency-plan/)
 * [Who we are](/who-we-are/)
