@@ -26,11 +26,11 @@ criteria-12-result: Not assessed
 criteria-13-result: Not assessed
 ---
 
-# The service passed the assessment because:
+**The service passed the assessment because:**
 
-The myGov team has met criteria 1 to 3 of the Digital Service Standard and shown sufficient progress towards meeting the remaining criteria. This report recommends the service proceed from Alpha to Beta stage.
+- The myGov team has met criteria 1 to 3 of the Digital Service Standard and shown sufficient progress towards meeting the remaining criteria. This report recommends the service proceed from Alpha to Beta stage.
 
-The team has conducted extensive user research throughout the Discovery and Alpha stages in line with the diversity and scale of the myGov user base. The technical and security design constraints for future work have been investigated with an improved product planned. A number of key issues and improvements have been identified and the potential way of working for Beta is beginning to be developed.
+- The team has conducted extensive user research throughout the Discovery and Alpha stages in line with the diversity and scale of the myGov user base. The technical and security design constraints for future work have been investigated with an improved product planned. A number of key issues and improvements have been identified and the potential way of working for Beta is beginning to be developed.
 
 ## Assessment detail
 
