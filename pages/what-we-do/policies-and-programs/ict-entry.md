@@ -201,7 +201,7 @@ To apply you must:
 - be able to pass a security and health assessment
 - be willing to move to Canberra if required.
 
-Applications for the 2018 Program will open on 6 March 2017.
+Applications for the 2018 Program are open now and will close on 16 April 2017.
 
 ## Contact us
 
