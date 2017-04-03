@@ -1,5 +1,5 @@
 ---
-title: "Consent in user research"
+title: "Informed consent in user research"
 category: [blog]
 tag: 'digital transformation'
 author: Gillian Bowan
