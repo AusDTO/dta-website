@@ -6,7 +6,6 @@ redirect_from:
  - /what-we-do/communities/
  - /our-work/communities/
 localnav: what-we-do
-gov-speak: true
 ---
 
 Our communities of practice bring together our government colleagues to collaborate, showcase work, solve problems and explore best practice. 
