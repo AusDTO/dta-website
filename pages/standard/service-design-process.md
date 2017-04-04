@@ -47,6 +47,6 @@ The service design and delivery process has 4 stages:
 
 ## Tools
 
-[Service design and delivery process poster (PDF 222 KB)]({{site.baseurl}}/files/service-design-and-delivery-process-a3.pdf)
+[Service design and delivery process poster (PDF 222 KB)]({{site.baseurl}}/files/DTA_DSS_Process-poster_WCAG.pdf)
 
-**Last updated:** 5 May 2016
+**Last updated:** 4 April 2017
