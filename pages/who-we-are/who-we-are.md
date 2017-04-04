@@ -8,19 +8,17 @@ redirect_from:
   - /about-us/
 ---
 
-The Digital Transformation Agency (DTA) has been established to assist the Government in guiding, overseeing and driving its digital and ICT transformation agendas. The DTA is an executive agency that sits in the Prime Minister and Cabinet portfolio. The responsible Minister for the DTA is the Assistant Minister for Cities and Digital Transformation, the Hon Angus Taylor MP.
+Digital transformation is about much more than making changes to a website. It’s about changing how we all undertake our day-to-day operations and how we design online services to be simpler, clearer and faster for users.
 
-The Digital Transformation Agency performs the following key functions:
+To successfully lead the government’s digital transformation efforts, we have staff with unique and wide-ranging capabilities. They have skills that many service delivery agencies need in a digital future.
 
-- to provide strategic and policy leadership on whole-of-government and shared information and communications technology and digital service delivery, including ICT procurement policy;
+This includes expertise in:
 
-- to design, develop, coordinate, deliver and monitor policies, standards, services and delivery platforms for whole-of-government shared ICT and digital service delivery;
-
-- to co-ordinate the funding of whole-of-government and shared ICT and digital service delivery platforms;
-
-- to manage a whole-of-government ICT program management office which will oversee all significant ICT and digital investments; and
-
-- to provide advice to the Minister on whole-of-government and shared ICT digital service delivery proposals.
+- user-centred research and design
+- agile delivery methodologies
+- technology design and build 
+- systems architecture
+- sophisticated procurement approaches.
 
 ## Like to learn more?
 

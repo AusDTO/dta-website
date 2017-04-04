@@ -2,13 +2,14 @@
 layout: standard
 title: Digital Service Standard
 permalink: /standard/
-searchexcerpt: The Digital Service Standard ensures government build services that are simpler, clearer and faster for all users.
+searchexcerpt: The Digital Service Standard ensures digital teams build government services that are simple, clear and fast.
 ---
 
-The Digital Service Standard ensures digital teams build government services that are simpler, clearer and faster for all users.
+<div class="lede">
+  <p>{{page.searchexcerpt}}</p>
+</div>
 
-[All services within the scope of the Digital Service Standard](/standard/scope-of-standard/) must work to meet the Standard. The Standard is now live and services will be assessed if design or redesign commences after 6 May 2016. You can check the [changes between the Live and Beta Standard](/standard/changes-to-standard/).
-
+All services which were designed or redesigned after 6 May 2016 fall within [the scope of the standard](/standard/scope-of-standard/) and must be assessed against it. You can check the [changes between the Live and Beta Standard](/standard/changes-to-standard/).
 
 <div class="dss-criteria-page-list">
 

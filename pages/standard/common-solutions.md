@@ -19,7 +19,7 @@ For businesses, were working on a Tell Us Once service using Australian Business
 ## myGov Inbox
 Another shared platform we're working on is the [myGov Inbox](https://my.gov.au). The myGov Inbox is a government digital mail service for people enabling them to receive government mail electronically rather than by paper. A few agencies like Centrelink and Medicare are already using the myGov Inbox and the Australian Tax Office will commence using it shortly.
 
-## Digital Identity
+## Govpass
 We're working on the development of a National Trusted Digital Identity Framework designed to ensure a consistent approach to identity, authentication and authorisation across all our services.
 
 We are working with agencies and the users of our services to see how best to improve and expand these common solutions across government. As with all new government services and solutions, Tell Us Once and myGov Inbox are built on open, interoperable standards.

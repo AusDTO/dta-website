@@ -8,15 +8,21 @@ redirect_from:
 localnav: what-we-do
 ---
 
-The Digital Transformation Agency has a whole-of-government remit and our responsibilities include:   
+Australians are more mobile, more connected and more reliant on technology than ever before.
 
-- providing strategic and policy leadership on whole-of-government and shared information and communications technology and digital service delivery, including ICT procurement policy;
+This is why government is working to improve how it delivers services online.
 
-- designing, developing, coordinating, delivering and monitoring policies, standards, services and delivery platforms for whole-of-government shared ICT and digital service delivery;
+Our agency was set up in 2015 to help government departments and agencies undergo digital transformation.
 
-- co-ordinating the funding of whole-of-government and shared ICT and digital service delivery platforms;
+Since then, our role has grown. We now have wide-ranging responsibilities to help lead transformation across government and have central oversight of the government’s ICT agenda.
 
-- managing a whole-of-government ICT program management office which will oversee all significant ICT and digital investments; and
+Our responsibilities include:
 
-- providing advice to the Minister on whole-of-government and shared ICT digital service delivery proposals.
-
+- leading the digital transformation of government services
+- working in partnership with government agencies to improve how they buy and deliver digital services
+- improving the way government buys and uses technology
+- using agile methods to deliver and continuously improve services for users
+- helping to build digital skills capability across government 
+- developing products and platforms for government agencies that can be reused
+- advising government about digital service delivery and shared platforms
+- providing greater transparency to government on ICT projects, costs, risks and opportunities.

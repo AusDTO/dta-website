@@ -7,11 +7,12 @@ redirect_from: /our-work/gov-au/
 localnav: what-we-do
 ---
 
-<a href="https://www.gov.au/alpha" class="big-button">See the prototype</a>
-<a href="{{ site.baseurl }}/blog/gov-au/">Read the blog</a>
+The GOV.AU project has a simple vision: to make it easier for users to get things done with government, without needing to know how government works.
 
-GOV.AU will draw on service design techniques to focus on the needs of users. It will join up services provided by different agencies and tiers of government, so people can get things done with government in a single journey.
+We developed Alpha and Beta in an agile way – starting small, iterating often and building a collaborative approach with our government stakeholders.
 
-We'll also be putting government information in one place.
+Adapting to change is a normal part of transformation projects. So is being flexible to the feedback we receive from our users as a project develops.
 
-The GOV.AU team also manages the [australia.gov.au](http://www.australia.gov.au/) website.
+GOV.AU is focused on delivering a whole-of-government program that identifies best practice and guides the creation, delivery and governance of useful and usable content. We are working on this in partnership with representatives from 30 government agencies. 
+
+We’ll continue to keep you updated on the progress of the GOV.AU project through our blog.

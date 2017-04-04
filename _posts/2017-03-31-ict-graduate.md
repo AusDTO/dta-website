@@ -10,7 +10,7 @@ searchexcerpt: "The [ICT Graduate Program](https://www.dta.gov.au/who-we-are/cor
 
 We asked one of our recent grads, Eloise Aitken, to recount her experiences in last year’s ICT grad program.
 
-Applications for positions in this year’s program will close on **Wednesday 12 April.**"
+Applications for positions in this year’s program will close on **Sunday 16 April.**"
 ---
 
 ![Eloise Aitken, ICT graduate stands in front of the Geoscience Australia building.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
