@@ -13,6 +13,6 @@ We developed Alpha and Beta in an agile way – starting small, iterating often 
 
 Adapting to change is a normal part of transformation projects. So is being flexible to the feedback we receive from our users as a project develops.
 
-GOV.AU is focused on delivering a whole-of-government program that mandates best practice and guides the creation, delivery and governance of useful and usable content. We are working on this in partnership with representatives from 30 government agencies. 
+GOV.AU is focused on delivering a whole-of-government program that identifies best practice and guides the creation, delivery and governance of useful and usable content. We are working on this in partnership with representatives from 30 government agencies. 
 
 We’ll continue to keep you updated on the progress of the GOV.AU project through our blog.
