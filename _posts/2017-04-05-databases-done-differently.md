@@ -61,8 +61,7 @@ In the Digital Marketplace project, we define our intended database structure in
 
 To reiterate, this process was previously drawn out by having to create migration files to manage every small change.Under our new workflow, we can now sync the database to the intended state with a single command. In keeping with our design principle -- [make things open: it makes them better](https://www.dta.gov.au/standard/design-principles/#make-things-open-it-makes-things-better) -- here’s the code showing how we built this in a few lines using migra diff tool library:
 
-from migra import Migration
-from sqlbag import S, temporary_database as temporary_db
+<pre><code>from migra import Migration from sqlbag import S, temporary_database as temporary_db
 
 def sync():
 	DB_URL = get_current_app_db_url()
@@ -85,7 +84,7 @@ def sync():
             	else:
                 	print('Not applying.')
         	else:
-            	print('Already synced.')
+            	print('Already synced.')</code></pre>
 
 While this is only a few lines of code, there’s a lot happening.
 
