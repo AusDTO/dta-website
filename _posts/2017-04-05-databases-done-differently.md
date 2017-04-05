@@ -5,8 +5,8 @@ tag: 'technology'
 author: Robert Lechte
 author-excerpt: "Robert Lechte is a Developer at the Digital Transformation Agency.
 GitHub: djrobstep"
-thumbnail: /images/blog-thumbnails/ICT_blog_sml.jpg
-hero-image: /images/blog-content/ICT_Blog_hero.jpg
+thumbnail: /images/blog-thumbnails/Techblog_sml.jpg
+hero-image: /images/blog-content/Techblog_hero.jpg
 searchexcerpt: "Diffs are a ubiquitous concept in software, used to represent changes between two data structures. At DTA, we’re trialling a new way to work with database diffs to make our migrations easier and more robust."
 ---
 
