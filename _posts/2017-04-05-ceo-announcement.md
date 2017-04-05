@@ -2,8 +2,8 @@
 title: "Gavin Slater announced as CEO of the Digital Transformation Agency"
 category: [news]
 tag: 'dta news'
-thumbnail: /images/blog-thumbnails/ICT_blog_sml.jpg
-hero-image: /images/blog-content/ICT_Blog_hero.jpg
+thumbnail: /images/blog-thumbnails/CEO_sml.png
+hero-image: /images/blog-content/CEO_hero.png
 ---
 
 ![Gavin Slater, CEO of the Digital Transformation Agency.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
