@@ -10,9 +10,9 @@ hero-image: /images/blog-content/Techblog_hero.jpg
 searchexcerpt: "Diffs are a ubiquitous concept in software, used to represent changes between two data structures. At DTA, we’re trialling a new way to work with database diffs to make our migrations easier and more robust."
 ---
 
-![Eloise Aitken, ICT graduate stands in front of the Geoscience Australia building.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+![Screenshot of a database “diff” — a representation of differences between two databases. In this case, one database needs a new sequence, table, and constraint to be added, and a column removed, to match the structure of another database.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: Eloise Aitken, ICT graduate at Geoscience Australia.*
+*Caption: Screenshot of a database “diff” — a representation of differences between two databases. In this case, one database needs a new sequence, table, and constraint to be added, and a column removed, to match the structure of another database.*
 
 One place that we’re using diffs successfully is in the Digital Marketplace. On the Digital Marketplace project, things change quickly. As we improve and enhance our code we need to make lots of changes, including how we store data in the application database. Changing the structure of your data is known in tech parlance as ‘database migration’. When your application and data is continually changing and evolving, that means lots of database migrations.
 
@@ -43,9 +43,9 @@ Our new approach to migrations involved new tools but more importantly, new conc
 
 As a result of challenging the status quo, database-related development tasks are faster and less painful, our deployments are much more robust and we’ve eliminated a lot of unwanted code. Overall, a big win!
 
+![An image showing that 2000 lines of old code have been removed](/images/blog-content/image01.png)
 
-
-Caption: It felt good to be able to remove over 2000 lines of old code.
+*Caption: It felt good to be able to remove over 2000 lines of old code.*
 
 ## How it works
 
