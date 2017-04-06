@@ -11,13 +11,13 @@ Speech transcript
 
 Firstly, I wish to acknowledge the traditional custodians of the land on which we meet today. I pay my respect to their elders past and present, their continuing culture and contribution to the life of this region. 
 
-I also acknowledge and welcome other Aboriginal and Torres Strait Islander people who may be attending today’s event.
+I also acknowledge and welcome other Aboriginal and Torres Strait Islander peoples who may be attending.
 
 Thank you to the Australian Information Industry Association for the opportunity to speak to you today about:
 
 **1. What users are telling us about government services.**
 
-**2. What we are doing to address their concerns; and**
+**2. What we are doing to address their concerns.**
 
 **3. How Stage 2 of the government’s Digital Transformation Agenda will further drive reform.**
 
@@ -27,7 +27,7 @@ At the outset, I will reiterate that the government’s ambition for simple, fas
 
 As you well know, last October, the government agreed a significantly expanded role for the new Digital Transformation Agency.
 
-The government has, effectively, put a;; relevant levers into one central agency to accelerate the delivery of its Digital Transformation Agenda. 
+The government has, effectively, put all relevant levers into one central agency to accelerate the delivery of its Digital Transformation Agenda. 
 
 Creating an agency that is involved end-to-end across the lifecycle of ICT and digital projects across government.
 
@@ -37,7 +37,7 @@ These changes reflect the government’s impatience at the pace of change and in
 
 **And we commonly hear these concerns replicated by the users of government services.**
 
-## What users are telling us about government services
+## What users are telling us about government services?
 
 Increasingly, there’s an expectation by users that government will deliver the same level of service as the private sector. 
 
@@ -85,7 +85,7 @@ For example, a user will be asked to provide a number of details in an online fo
 
 **Perhaps the most common message we hear in user research is that users shouldn’t have to understand govt to use a service.**
 
-Users don’t distinguish between governments or government departments.  Local, state, federal….DTA, DHS, ATO – we’re all simply government and they don’t need, or care, to know the difference.
+Users don’t distinguish between governments or government departments.  Local, state, federal…DTA, DHS, ATO --- we’re all simply government and they don’t need, or care, to know the difference.
 
 Users want a simple and seamless experience, where the onus isn’t on them to read and learn endless details and explanations about the tiers of government and who is responsible for what.
 
@@ -101,7 +101,7 @@ These are just some of the things we learn through doing user research.
 
 So the take away message is:
 
-**A service is for everyone – it must do its best to meet the needs of everyone.**
+**A service is for everyone --- it must do its best to meet the needs of everyone.**
 
 So with this in mind, it’s fair to ask:
 
@@ -126,11 +126,13 @@ We are working in close partnership with agencies to design, build and deliver n
 This avoids duplication, is more cost effective and allows better integration of services across government --- which ultimately, means better services for users.
 
 *Govpass*
+
 An example of this is our Govpass platform, which aims to make it easier for users to prove who they are when using all government online services.
 
 This will address the criticism from users that proving themselves to government is overly complicated and needs to be done every time they want to interact with a different government service.
 
 *The user journey*
+
 In terms of recognising the extent of a user’s journey, new technology is helping to remove the problems of inconsistent information.
 
 The Australian Tax Office’s virtual assistant “Alex”, responds to queries about personal tax, understands conversational language and learns from questions to improve answers.
@@ -157,13 +159,13 @@ The Standish Group’s 2016 CHAOS Report presented some interesting statistics o
 
 It found, the smaller the team and the shorter the timeframe for delivery, the more likely the project was to succeed. Only 1% of grand projects and only 6% of large projects were successful in comparison to 59% of small projects. 
 
-Across all sizes of projects, agile projects (40% success rate) outperformed waterfall projects (13% success rate) by a significant margin. And small agile projects performed the best with a (55% rate of success). 
+Across all sizes of projects, agile projects (40% success rate) outperformed waterfall projects (13% success rate) by a significant margin. And small agile projects performed the best (55% rate of success). 
 
 We currently have DTA experts embedded in multidisciplinary teams within other government agencies to help them implement agile project management, build skills capability, undertake user research, provide content design expertise and ultimately, deliver better services to the public.
 
 ## What else needs to be done?
 
-Digital transformation is not just about addressing the public facing aspects of a service—it requires changes to fundamental, behind-the-scenes operations and infrastructure. 
+Digital transformation is not just about addressing the public facing aspects of a service — it requires changes to fundamental, behind-the-scenes operations and infrastructure. 
 
 The way to do this is to ensure government is investing in the right technologies.
 
@@ -177,7 +179,7 @@ It positions us to have greater strategic oversight of ICT procurement across go
 
 *Early involvement in proposals*
 
-From the very early stages of a technology project proposal, the DTA will have a role  in working with agencies to ensure the right decisions are being made about the type of technology and project methodology being considered.
+From the very early stages of a technology project proposal, the DTA will have a role in working with agencies to ensure the right decisions are being made about the type of technology and project methodology being considered.
 
 This ensures that a project builds in realistic milestones in a staged approach, that allows adjustments to made where needed and reduces the risk of an unrealised investment.
 
@@ -203,7 +205,7 @@ It heard:
 
 We expect the taskforce will complete its work in the coming months and will identify ways to deliver benefits for business and government alike.
 
-On that last point, traditionally small to medium enterprises have faced considerable costs in time and money to participate in panels. 
+On that last point, traditionally small-to-medium enterprises have faced considerable costs in time and money to participate in panels. 
 
 Last year, 49% of ICT procurement contracts the government entered into were done via panel arrangements and standing offers, with only 27% done via open approaches to market. 
 
@@ -225,7 +227,7 @@ This included:
 
 *Digital Marketplace*
 
-Our Digital Marketplace is making good inroads to delivering benefits to small and medium enterprises by offering a new approach to procuring digital services.
+Our Digital Marketplace is making good inroads to delivering benefits to small-to-medium enterprises by offering a new approach to procuring digital services.
 
 The Marketplace brings together sellers and buyers, making transactions easier and faster, and levels the playing field for small-to-medium businesses. 
 
