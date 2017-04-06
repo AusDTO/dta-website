@@ -4,6 +4,7 @@ category: [blog]
 tag: 'technology'
 author: Robert Lechte
 author-excerpt: "Robert Lechte is a Developer at the Digital Transformation Agency.
+
 GitHub: djrobstep"
 thumbnail: /images/blog-thumbnails/dbdiff-thumb.png
 hero-image: /images/blog-content/dbdiff.png
@@ -125,4 +126,4 @@ You can discover more about the ‘migra’ diff tool at the official documentat
 
 [Visit the Digital Marketplace](https://marketplace.service.gov.au/)
 
-Join the Digital Marketplace as a [buyer](https://marketplace.service.gov.au/signup) or [seller](https://marketplace.service.gov.au/signup).
+Join the Digital Marketplace as a [buyer](https://marketplace.service.gov.au/signup) or [seller](https://marketplace.service.gov.au/signup)
