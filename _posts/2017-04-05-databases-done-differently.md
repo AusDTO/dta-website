@@ -6,13 +6,13 @@ author: Robert Lechte
 author-excerpt: "Robert Lechte is a Developer at the Digital Transformation Agency.
 GitHub: djrobstep"
 thumbnail: /images/blog-thumbnails/Techblog_sml.jpg
-hero-image: /images/blog-content/Techblog_hero.jpg
+hero-image: /images/blog-content/dbdiff.png
 searchexcerpt: "Diffs are a ubiquitous concept in software, used to represent changes between two data structures. At DTA, we’re trialling a new way to work with database diffs to make our migrations easier and more robust."
 ---
 
-![Screenshot of a database “diff” — a representation of differences between two databases. In this case, one database needs a new sequence, table, and constraint to be added, and a column removed, to match the structure of another database.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+![Screenshot of a database “diff” — a representation of differences between two databases. In this case, one database needs a new sequence, table, and constraint to be added to match the structure of another database.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: Screenshot of a database “diff” — a representation of differences between two databases. In this case, one database needs a new sequence, table, and constraint to be added, and a column removed, to match the structure of another database.*
+*Caption: Screenshot of a database “diff” — a representation of differences between two databases. In this case, one database needs a new sequence, table, and constraint to be added to match the structure of another database.*
 
 One place that we’re using diffs successfully is in the Digital Marketplace. On the Digital Marketplace project, things change quickly. As we improve and enhance our code we need to make lots of changes, including how we store data in the application database. Changing the structure of your data is known in tech parlance as ‘database migration’. When your application and data is continually changing and evolving, that means lots of database migrations.
 
