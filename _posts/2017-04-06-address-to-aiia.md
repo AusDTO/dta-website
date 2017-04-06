@@ -3,7 +3,6 @@ title: "Address to the AIIA: Navigating Digital Government Summit 2017"
 category: [news]
 tag: 'dta news'
 thumbnail: /images/blog-thumbnails/Nerida-thumb.jpg
-published: false
 ---
 
 **Release Date:** 5 April 2017
