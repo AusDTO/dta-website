@@ -2,7 +2,7 @@
 title: "Address to the AIIA: Navigating Digital Government Summit 2017"
 category: [news]
 tag: 'dta news'
-thumbnail: /images/blog-thumbnails/CEO_sml.png
+thumbnail: /images/blog-thumbnails/Nerida-thumb.jpg
 ---
 
 **Release Date:** 5 April 2017
@@ -245,3 +245,5 @@ The DTA welcomes our continuing engagement with the AIIA and its members as it p
 
 Thank you
 
+
+[View the presentation slidedeck PDF (374 KB)](/files/CEO-slides-WCAG.pdf)
