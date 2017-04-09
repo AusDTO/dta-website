@@ -1,7 +1,9 @@
 ---
 title: "DTA databases done differently with diffs"
 category: [blog]
-tag: 'technology'
+tags: 
+- 'technology'
+- 'digital marketplace'
 author: Robert Lechte
 author-excerpt: "Robert Lechte is a Developer at the Digital Transformation Agency.
 
