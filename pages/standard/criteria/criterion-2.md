@@ -1,10 +1,11 @@
 ---
 layout: criteria
 criteria-number: 2
-title: Have a multi-disciplinary team
-lede: Establish a sustainable multi-disciplinary team to design, build, operate and iterate the service, led by an experienced product manager with decision-making responsibility.
-permalink: /standard/2-multi-disciplinary-team/
-breadcrumb: 2. Have a multi-disciplinary team
+title: Have a multidisciplinary team
+lede: Establish a sustainable multidisciplinary team to design, build, operate and iterate the service, led by an experienced product manager with decision-making responsibility.
+permalink: /standard/2-multidisciplinary-team/
+redirect_from: /standard/2-multi-disciplinary-team/
+breadcrumb: 2. Have a multidisciplinary team
 ---
 ## Why it’s in the Standard
 Good government services are built quickly and iteratively, based on user needs. Your [digital delivery team](/standard/design-guides/the-team/) must be set up in the right way to do this. They need:

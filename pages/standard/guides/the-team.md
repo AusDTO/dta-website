@@ -9,7 +9,7 @@ topic_group:
 topic:
 - Building capability
 ---
-<a id="top" name="top"></a>This guide outlines the different skills required in a sustainable multi-disciplinary team to design, build, operate and iterate a digital service that is in the [scope of the Digital Service Standard](/standard/scope-of-standard/).
+<a id="top" name="top"></a>This guide outlines the different skills required in a sustainable multidisciplinary team to design, build, operate and iterate a digital service that is in the [scope of the Digital Service Standard](/standard/scope-of-standard/).
 
 The team should be located together, work closely through a Discovery stage, and then deliver ongoing iterations of user-centred services.
 

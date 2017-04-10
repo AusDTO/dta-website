@@ -45,7 +45,7 @@ The prototypes that tested well had strong resemblance to the existing system. T
 
 The BloodNet team will continue to develop their hypotheses through Beta.
 
-### Criterion 2: Have a multi-disciplinary team
+### Criterion 2: Have a multidisciplinary team
 
 The team are very well  supported by their service manager and their organisation. National Blood Authority isn't a big department, and this is their first exposure to formally using the agile development methodology.  After building the case for the agile methodology, the organisation has fully supported this team.
 
@@ -71,7 +71,7 @@ The team are honest about making mistakes, and are learning from them. Sizing of
 
 As the team moves into Beta, they should consider  extending some research time into how suppliers will interact and integrate with the system. As well as documenting the needs to suppliers.
 
-### Criterion 2: Have a multi-disciplinary team
+### Criterion 2: Have a multidisciplinary team
 
 The majority of the current team will return to original projects after the initial release of the service. Services at the National Blood Authority are supported by a common maintenance team, and this will make it difficult for any new members to develop empathy for the users.  Assessors recommend keeping the team together for as long as possible after launch. This will help keep institutional knowledge and research findings with the product but also provide a platform to learn and iterate the product.
 

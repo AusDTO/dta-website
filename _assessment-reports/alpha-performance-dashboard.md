@@ -33,7 +33,7 @@ The Performance dashboard has been assessed by the team and we have agreed that 
 
 A wide range of user and usability testing took place. 
 
-### Criterion 2 - Have a multi-disciplinary team
+### Criterion 2 - Have a multidisciplinary team
 
 Up to this point of the Alpha assessment the team have been working well together – all members participate and are involved in decision making. A data visualisation specialist has been added to the standard team construct. 
 
@@ -63,7 +63,7 @@ This process requires some streamlining with the generation of clear onboarding 
 
 The team have demonstrated some successes in working with partner agencies to free up the data required, however more work needs to be done from a communications  and senior engagement perspective to unblock relationships with agency partners.
 
-### Criterion 2 - Have a multi-disciplinary team
+### Criterion 2 - Have a multidisciplinary team
 
 The resource profile of the team has varied over time, through no fault of their own. A period of full resource availability and stability would serve the team well as they move to Beta phase.
 

@@ -23,8 +23,8 @@ All services which were designed or redesigned after 6 May 2016 fall within [the
     </li>
     
     <li>
-      <h3><a href="{{site.baseurl}}/standard/2-multi-disciplinary-team/">Have a multi-disciplinary team</a></h3>
-      <p>Establish a sustainable multi-disciplinary team to design, build, operate and iterate the service, led by an experienced product manager with decision-making responsibility.</p>
+      <h3><a href="{{site.baseurl}}/standard/2-multidisciplinary-team/">Have a multidisciplinary team</a></h3>
+      <p>Establish a sustainable multidisciplinary team to design, build, operate and iterate the service, led by an experienced product manager with decision-making responsibility.</p>
     </li>
     
     <li>

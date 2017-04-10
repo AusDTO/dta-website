@@ -42,9 +42,9 @@ The research participants highlighted the need to have the right policy and poli
 
 The Marketplace team will continue to develop hypotheses through Beta. 
 
-### Criterion 2 – Have a multi-disciplinary team
+### Criterion 2 – Have a multidisciplinary team
 
-By the end of Alpha, the team were fully staffed with a multi-disciplinary team. They developed an effective onboarding process for new team members. The latest team member commented they had access to all systems within two hours of starting and could see all interactions between members of the team, and had access to people of all levels of seniority within the program. 
+By the end of Alpha, the team were fully staffed with a multidisciplinary team. They developed an effective onboarding process for new team members. The latest team member commented they had access to all systems within two hours of starting and could see all interactions between members of the team, and had access to people of all levels of seniority within the program. 
 
 The team is not averse to conflict and team members felt that they were able to discuss ideas freely with one another to constructively reach consensus. Team members engaged in robust discussions, regardless of role, skillset, or seniority. We saw evidence of this during the in-flight check-ins and particularly during the Alpha assessment when the team spontaneously debated the implications of assessor feedback. 
 
@@ -82,7 +82,7 @@ The team will need to ensure that additional functionality being added to the Ma
 
 During Beta the team intends to work with their counterparts at GDS in the UK and 18F in the USA to get a better understanding of the procurement problems faced by their respective governments. This as an opportunity to collaborate on global procurement reform. 
 
-### Criterion 2 - Have a multi-disciplinary team
+### Criterion 2 - Have a multidisciplinary team
 
 The team has identified that they will need to reform and reshape the team as they move into Beta. The operational realities of running a service will need to be balanced with building new functionality to meet the identified user needs. 
 
@@ -98,7 +98,7 @@ The assessors recommend the team spends time optimising its deployment and relea
 
 Close attention needs to be paid to data classification and record management in line with APS requirements and the Information Security Manual. In particular, the assessment panel recommends that the team must pay attention to the intersection of privacy policy and technical implementation, particularly around data collected via analytics software. 
 
-The Marketplace team has engaged the ethical hacking group within the DTO to perform penetration tests of the software to be used in Beta. The team also has a person dedicated to legal and privacy and believes it is well placed to address these issues within their multi-disciplinary team.
+The Marketplace team has engaged the ethical hacking group within the DTO to perform penetration tests of the software to be used in Beta. The team also has a person dedicated to legal and privacy and believes it is well placed to address these issues within their multidisciplinary team.
 
 ### Criterion 6 - Consistent and responsive design
 
