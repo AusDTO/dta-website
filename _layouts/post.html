@@ -17,7 +17,8 @@ breadcrumb_type: post
       <div class="tags">
         <dl>
           <dt>Tags:</dt>
-          {% for tag in page.tags %}
+          {% assign sorted_tags = page.tags | sort %}
+          {% for tag in sorted_tags %}
           {% if tag != '' %}
           <dd><a href="{{ site.baseurl }}{{site.tag_dir}}/{{tag | slugify }}/" >{{tag}}</a></dd>
           {% endif %}
