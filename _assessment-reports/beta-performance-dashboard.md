@@ -110,7 +110,7 @@ They could consider improved collaboration with the internal communication team 
 
 This service's code is hosted in open source GitHub repositories:
 
-- github.com/AusDTO/dto-dashboard)
+- github.com/AusDTO/dto-dashboard
 - [https://github.com/AusDTO/cg-dashboard](https://github.com/AusDTO/cg-dashboard)
 
 ### Metrics
