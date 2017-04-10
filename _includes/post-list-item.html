@@ -27,10 +27,11 @@
   <footer class="tags">
     <dl>
       <dt>Tags:</dt>
-      {% for tag in post.tags %}
-      {% if tag != '' %}
-      <dd><a href="{{site.baseurl}}{{ site.tag_dir }}/{{ tag | slugify }}/">{%if tag=="dto-news"%}dto news{%else%}{{tag}}{%endif%}</a></dd>
-      {% endif %}
+      {% assign sorted_tags = post.tags | sort %}
+      {% for tag in sorted_tags %}
+        {% if tag != '' %}
+        <dd><a href="{{site.baseurl}}{{ site.tag_dir }}/{{ tag | slugify }}/">{%if tag=="dto-news"%}dto news{%else%}{{tag}}{%endif%}</a></dd>
+        {% endif %}
       {% endfor %}
     </dl>
   </footer>
