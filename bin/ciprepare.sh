@@ -9,14 +9,21 @@ set -o pipefail
 # echo out each line of the shell as it executes
 set -x
 
+# Include build env vars
+source "$(dirname "$0")/buildrc"
+
 # install all the needed ruby gems
 gem install --conservative bundler
 bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
 
-# install the cloud foundry cli tool
-curl -v -L -o cf-cli_amd64.deb 'https://cli.run.pivotal.io/stable?release=debian64&version=6.18.1&source=github-rel'
-sudo dpkg -i cf-cli_amd64.deb
-cf -v
+# install the cloud foundry cli tool if required
+case "${GITBRANCH}" in
+  master|develop|${DEPLOY_BRANCHES})
+    curl -v -L -o cf-cli_amd64.deb 'https://cli.run.pivotal.io/stable?release=debian64&version=6.18.1&source=github-rel'
+    sudo dpkg -i cf-cli_amd64.deb
+    cf -v
+    ;;
+esac
 
 # htpasswd is needed when setting up basicauth
 if [[ -n ${CF_BASIC_AUTH_PASSWORD+x} ]]
