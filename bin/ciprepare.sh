@@ -19,8 +19,8 @@ sudo dpkg -i cf-cli_amd64.deb
 cf -v
 
 # htpasswd is needed when setting up basicauth
-sudo apt-get update
-sudo apt-get install -qy apache2-utils
-
-# circle is spuriously failing with the message "Phantom process failed", so temporarily disabled
-# npm install pa11y-ci@^0.5
+if [[ -n ${CF_BASIC_AUTH_PASSWORD+x} ]]
+then
+  sudo apt-get update
+  sudo apt-get install -qy apache2-utils
+fi
