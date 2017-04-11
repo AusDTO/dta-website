@@ -227,7 +227,7 @@ for the period ended 30 June 2016
     </colgroup>
     <thead>
       <tr>
-        <th></th>
+        <td></td>
         <th><br><strong>Notes</strong></th>
         <th><strong>2016<br>$’000</strong></th>
         <th>Original budget<br>$’000</th>
@@ -429,7 +429,7 @@ for the period ended 30 June 2016
     </colgroup>
     <thead>
       <tr>
-        <th></th>
+        <td></td>
         <th><strong>2016<br>$’000</strong></th>
         <th>Original budget<br>$’000</th>
       </tr>
@@ -568,9 +568,6 @@ The above statement should be read in conjunction with the accompanying notes.
   </div>
  </div>
 
-{% include hx.html lvl=2 text="Statement of changes in equity" %}
-for the period ended 30 June 2016
-
 <div class="horizontal-scroll-table-container">
   <table class="content-table financial" summary="Digital Transformation Office
   Statement of changes in equity
@@ -583,7 +580,7 @@ for the period ended 30 June 2016
     </colgroup>
     <thead>
       <tr>
-        <th></th>
+        <td></td>
         <th><strong>2016<br>$’000</strong></th>
         <th>Original budget<br>$’000</th>
       </tr>
@@ -715,7 +712,7 @@ for the period ended 30 June 2016
     </colgroup>
     <thead>
       <tr>
-        <th></th>
+        <td></td>
         <th><br><strong>Notes</strong></th>
         <th><strong>2016<br>$’000</strong></th>
         <th>Original budget<br>$’000</th>
@@ -999,7 +996,7 @@ This section analyses the financial performance of the Digital Transformation Of
     </colgroup>
     <thead>
       <tr>
-        <th></th>
+        <td></td>
         <th><strong>2016<br>$’000</strong></th>
       </tr>
     </thead>
@@ -1065,7 +1062,7 @@ Accounting policies for employee related expenses is contained in the People and
     </colgroup>
     <thead>
       <tr>
-        <th></th>
+        <td></td>
         <th><strong>2016<br>$’000</strong></th>
       </tr>
     </thead>
@@ -1200,7 +1197,7 @@ A distinction is made between finance leases and operating leases. Finance lease
     <thead>
       <tr>
         <th><strong>Note 1.2A: Resources received free of charge</strong></th>
-        <th></th>
+        <td></td>
       </tr>
     </thead>
     <tbody>
@@ -1240,7 +1237,7 @@ This section analyses the Digital Transformation Office’s assets used to gener
     </colgroup>
     <thead>
       <tr>
-        <th></th>
+        <td></td>
         <th><strong>2016<br>$’000</strong></th>
       </tr>
     </thead>
@@ -1366,7 +1363,7 @@ Receivables have been assessed for impairment and no allowance has been made as 
           Reconciliation of the opening and closing balances of property, plant and equipment and intangibles for 2016</strong></th>
       </tr>
       <tr>
-        <th></th>
+        <td></td>
         <th>Leasehold improvements <br>$’000</th>
         <th><strong>Plant and equipment<br>$’000</strong></th>
         <th><strong>Computer software internally developed<br>$’000</strong></th>
@@ -1582,7 +1579,7 @@ An item of property, plant and equipment is derecognised upon disposal or when n
     </colgroup>
     <thead>
       <tr>
-        <th></th>
+        <td></td>
         <th><strong>2016<br>$’000</strong></th>
       </tr>
     </thead>
@@ -1633,7 +1630,7 @@ An item of property, plant and equipment is derecognised upon disposal or when n
     </colgroup>
     <thead>
       <tr>
-        <th></th>
+        <td></td>
         <th><strong>2016<br>$’000</strong></th>
       </tr>
     </thead>
@@ -1683,7 +1680,7 @@ Settlement is usually made within 30 days.
     <thead>
       <tr>
         <th>Note 2.3B: Other payables</th>
-        <th></th>
+        <td></td>
       </tr>
     </thead>
     <tbody>
@@ -1750,7 +1747,7 @@ Financial liabilities are recognised and derecognised upon ‘trade date’.
     </colgroup>
     <thead>
       <tr>
-        <th></th>
+        <td></td>
         <th><strong>2016<br>$’000</strong></th>
       </tr>
     </thead>
@@ -1795,7 +1792,7 @@ Financial liabilities are recognised and derecognised upon ‘trade date’.
     </colgroup>
     <thead>
       <tr>
-        <th></th>
+        <td></td>
         <th><strong>Make good Provision<br>$’000</strong></th>
         <th><strong>Total<br>$’000</strong></th>
       </tr>
@@ -1864,7 +1861,7 @@ This section identifies the Digital Transformation Office funding structure.
     </colgroup>
     <thead>
       <tr>
-        <th></th>
+        <td></td>
         <th colspan="2"><strong>Appropriation Act</strong></th>
         <th colspan="2"><strong>PGPA Act</strong></th>
         <th rowspan="2"><strong>Total <br />
@@ -1873,14 +1870,14 @@ This section identifies the Digital Transformation Office funding structure.
         <th rowspan="2"><strong>Variance<sup>2</sup></strong></th>
       </tr>
       <tr>
-        <th></th>
+        <td></td>
         <th><strong>Annual Appropriation</strong></th>
         <th><strong>AFM</strong></th>
         <th><strong>Section 74 receipts</strong></th>
         <th><strong>Section 75 payments</strong></th>
       </tr>
       <tr>
-        <th></th>
+        <td></td>
         <th><strong>$’000</strong></th>
         <th><strong>$’000</strong></th>
         <th><strong>$’000</strong></th>
@@ -1975,7 +1972,7 @@ This section identifies the Digital Transformation Office funding structure.
     </colgroup>
     <thead>
     <tr>
-      <th rowspan="2" />
+      <td rowspan="2" />
       <th><strong>2016<br>$’000</strong></th>
     </tr>
     </thead>
@@ -2027,7 +2024,7 @@ This section identifies the Digital Transformation Office funding structure.
     </colgroup>
     <thead>
     <tr>
-      <th></th>
+      <td></td>
       <th><strong>Shared Service Centre<br>2016<br>$’000</strong>
       </th>
     </tr>
@@ -2062,7 +2059,7 @@ During 2015–16, the Shared Services Centre provided the DTO with Treasury serv
     <thead>
       <tr>
         <th>Reconciliation of cash and cash equivalents as per Statement of Financial Position to Cash Flow Statement</th>
-        <th></th>
+        <td></td>
       </tr>
     </thead>
     <tbody>
@@ -2166,7 +2163,7 @@ This section describes a range of employment and post employment benefits provid
     </colgroup>
     <thead>
       <tr>
-        <th></th>
+        <td></td>
         <th><strong>2016<br>$’000</strong></th>
       </tr>
     </thead>
@@ -2236,7 +2233,7 @@ The liability for superannuation recognised as at 30 June represents outstanding
     </colgroup>
     <thead>
       <tr>
-        <th></th>
+        <td></td>
         <th><strong>2016<br>$’000</strong></th>
       </tr>
     </thead>
@@ -2331,7 +2328,7 @@ Contingent liabilities and contingent assets are not recognised in the Statement
     </colgroup>
     <thead>
       <tr>
-        <th></th>
+        <td></td>
         <th><strong>2016<br>$’000</strong></th>
       </tr>
     </thead>
@@ -2433,7 +2430,7 @@ Level 3: Inputs for the asset or liability that are not based on observable mark
     </colgroup>
     <thead>
       <tr>
-        <th></th>
+        <td></td>
         <th rowspan="2"><strong>2016<br>$’000</strong></th>
         <th rowspan="2"><strong>Category (Level 1, 2 or 3<sup>1</sup>)</strong></th>
         <th rowspan="2"><strong>Valuation Technique(s) and Inputs Used<sup>2</sup></strong></th>
@@ -2473,14 +2470,15 @@ Level 3: Inputs for the asset or liability that are not based on observable mark
    2 No revaluation has been performed in 2015–16 as all assets were transferred or purchased in the current year representing a proxy for fair value.
   </div>
  </div>
-{% include hx.html lvl=3 text="6. Other Information" hide-back-to-top=1 %}
+{% include hx.html lvl=3 text="6. Other Information" %}
 
 {% include hx.html lvl=4 text="6.1 Restructuring" hide-back-to-top=1 %}
 
 **Note 6.1A: Departmental restructuring**
 <div class="notes indented">
   <div markdown="1">
-{% include hx.html lvl=4 text="Restructuring" %}
+
+##### Restructuring {#restructuring-note}
 
 Net assets received from or relinquished to another Australian Government entity under a restructuring of administrative arrangements are adjusted at their book value directly against contributed equity.
 
@@ -2498,7 +2496,7 @@ As part of the Administrative Arrangement Orders issued by the Government on 21 
     </colgroup>
     <thead>
       <tr>
-        <th></th>
+        <td></td>
         <th><strong>Set up of DTO from PM&amp;C<br><br>$’000</strong></th>
         <th><strong>GOV 2.0 from Finance<br><br>$’000</strong></th>
         <th><strong>Total<br><br>$’000</strong></th>

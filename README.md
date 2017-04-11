@@ -28,15 +28,6 @@ To increase the speed of jekyll builds, you can replace the last step with `bin/
 
 ### Run tests locally
 
-Install pa11y-ci and it's dependencies with:
-
-1. `npm install -g phantomjs-prebuilt`
-2. `npm install pa11y-ci@^0.4`
-
-Make sure you have the app running locally with:
-
-`bundle exec jekyll serve`
-
 Run the tests with:
 
 `bin/citest.sh`
@@ -48,6 +39,19 @@ External links are not tested as part of CI in `bin/citest.sh` to keep test resu
 You can separately test external links with:
 
 `bin/checkexternal.sh`
+
+### Test accessibility
+
+The site can be tested for accessibility using pa11y.
+
+Install pa11y-ci and it's dependencies with:
+
+1. `npm install -g phantomjs-prebuilt`
+2. `npm install pa11y-ci@^0.4`
+ 
+You can then run the test with: 
+
+`bin/checkaccessibility.sh`
 
 ## Development Process
 
