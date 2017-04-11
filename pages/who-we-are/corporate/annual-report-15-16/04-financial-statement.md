@@ -568,9 +568,6 @@ The above statement should be read in conjunction with the accompanying notes.
   </div>
  </div>
 
-{% include hx.html lvl=2 text="Statement of changes in equity" %}
-for the period ended 30 June 2016
-
 <div class="horizontal-scroll-table-container">
   <table class="content-table financial" summary="Digital Transformation Office
   Statement of changes in equity
@@ -2471,14 +2468,15 @@ Level 3: Inputs for the asset or liability that are not based on observable mark
    2 No revaluation has been performed in 2015–16 as all assets were transferred or purchased in the current year representing a proxy for fair value.
   </div>
  </div>
-{% include hx.html lvl=3 text="6. Other Information" hide-back-to-top=1 %}
+{% include hx.html lvl=3 text="6. Other Information" %}
 
 {% include hx.html lvl=4 text="6.1 Restructuring" hide-back-to-top=1 %}
 
 **Note 6.1A: Departmental restructuring**
 <div class="notes indented">
   <div markdown="1">
-{% include hx.html lvl=4 text="Restructuring" %}
+
+##### Restructuring {#restructuring-note}
 
 Net assets received from or relinquished to another Australian Government entity under a restructuring of administrative arrangements are adjusted at their book value directly against contributed equity.
 
