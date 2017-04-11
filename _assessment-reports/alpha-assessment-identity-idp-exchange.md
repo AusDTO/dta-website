@@ -39,7 +39,7 @@ Throughout discovery and alpha the team have involved a wide range of participan
 - The team are able to show how aspects of the service have been designed in response to user needs identified in research. They have shown commitment to including more diverse participants as they proceed to the beta, in particular more users with different access needs. 
 - The team have taken a disciplined approach to capturing the research insights throughout the Alpha stage to ensure that all future work focuses on meeting user needs.
 
-### Criterion 2: have a multi-disciplinary team
+### Criterion 2: have a multidisciplinary team
 
 - The team grew rapidly throughout the Alpha stage and are now well positioned to move into beta.
 - The team are co-located and work cohesively to balance the user centred design prototyping and user research as well as technical spikes required to inform the architecture of the Beta stage.
@@ -61,7 +61,7 @@ Throughout discovery and alpha the team have involved a wide range of participan
 - There are many opportunities within the detail of the prototype design to improve the user experience for a wide range of users. Unmoderated usability testing will help to ensure these areas are identified and addressed throughout the Beta stage.
 - The team should continue to seek out a wider range of research participants to focus on the more difficult users from both an identity and digital literacy perspective as well as particular access needs.
 
-### Criterion 2: have a multi-disciplinary team
+### Criterion 2: have a multidisciplinary team
 
 - In the Beta stage the IDP and Exchange teams will separate to ensure that the Exchange service behaves as a true platform and does not privilege the Australian Government IDP (GovPass).
 - The team acknowledged they need to work on improving their communication and this will be a focus as they move into beta.

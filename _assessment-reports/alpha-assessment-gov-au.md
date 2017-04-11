@@ -43,7 +43,7 @@ Thank you for taking the time to show us this excellent start, the panel were im
 
 ## Reasons
 
-The GOV.AU team demonstrated a deep understanding of user needs, established a broad multi-disciplinary team and developed an alpha prototype based on the Digital Transformation Office’s (DTO) [service design and delivery process](https://www.dto.gov.au/standard/service-design-and-delivery-process/). All this was achieved in a tight 9-week period using an agile approach.
+The GOV.AU team demonstrated a deep understanding of user needs, established a broad multidisciplinary team and developed an alpha prototype based on the Digital Transformation Office’s (DTO) [service design and delivery process](https://www.dto.gov.au/standard/service-design-and-delivery-process/). All this was achieved in a tight 9-week period using an agile approach.
 
 ### User needs (Criteria 1)
 
@@ -63,7 +63,7 @@ The team validated that users trust well known and understood government service
 
 ### The team (Criteria 2)
 
-The team followed an agile approach using Kanban as the basis for working. From the first day, all the expected roles were in place to build a successful service, some of these roles were filled by contractors as it is difficult to find the skills needed within existing government organisations. The larger team was split across the three research areas, each smaller team being multi-disciplinary. Sprints were run over a week, timeboxed over a 9-week period. This appears to have left the team drained at the pace of expected delivery. But being agile in the processes around agile can be useful; the teams could trial 2-week sprints to give teams time to digest findings, prototype work and test it with users. Each team shared information through showcases and retrospectives.
+The team followed an agile approach using Kanban as the basis for working. From the first day, all the expected roles were in place to build a successful service, some of these roles were filled by contractors as it is difficult to find the skills needed within existing government organisations. The larger team was split across the three research areas, each smaller team being multidisciplinary. Sprints were run over a week, timeboxed over a 9-week period. This appears to have left the team drained at the pace of expected delivery. But being agile in the processes around agile can be useful; the teams could trial 2-week sprints to give teams time to digest findings, prototype work and test it with users. Each team shared information through showcases and retrospectives.
 
 The team know they will need to grow during the beta with the aim for roles to be filled primarily with public servants, although there may be some reliance on design agencies and there needs to be more capability built around the analyst and product management roles. It was encouraging that the experience of relatively small sub-teams has led to the decision to have larger sub-teams during the beta.
 

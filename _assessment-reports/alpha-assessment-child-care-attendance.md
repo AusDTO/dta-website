@@ -41,7 +41,7 @@ The team demonstrated a great commitment to user centred service design througho
 - The team talked to a broad range of users, then consolidated their insights.  The solution is expected to work across all providers, including Family Day Care, however the minimum viable product focuses on Long Day care. 
 - User needs identified in the broad research will be later used to inform the service roadmap. The team’s stakeholders participated in user research which helped to build empathy and visibility of the existing service. 
 
-### Criterion 2 - Have a multi-disciplinary team 
+### Criterion 2 - Have a multidisciplinary team 
 
 - The team has done great work overcoming resourcing and technical challenges from Discovery through Alpha stages.
 - They demonstrated good resource planning that will underpin the sustainability of the team going into Beta and beyond their 20 week time-box.  
@@ -63,7 +63,7 @@ The assessment panel makes the following recommendations:
 - The team must continue to address their known user research gaps. For example, the ongoing user research plan should include both providers and families in other states and people with disability and with diverse cultural and linguistic backgrounds. The team must consider how users with access needs will use the service. 
 - The team should continue to write user stories to focus on the user needs and ensure that user stories are evident in the team’s backlog. 
 
-### Criterion 2 - Have a multi-disciplinary team 
+### Criterion 2 - Have a multidisciplinary team 
 
 - The team will need to ensure they can onboard new team members, such as a developer, without slowing delivery progress. Sharing user empathy and understanding should be part of that process.
 - The team must continue to onboard additional technical people as they move through the Beta stage. This will be specifically relevant as the team begins to connect its data and systems.

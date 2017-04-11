@@ -51,7 +51,7 @@ The panel recommends the team consider the aspirational goals of the product, an
 * The team showed how the user needs they identified during discovery had informed their prototypes during alpha.
 * They have developed a solid understanding of user needs and pain points. These have been documented in a detailed and highly visual way - the “empathy wall” and mapping of user demographics were particularly impressive.
 
-### Multi-disciplinary team (Criterion 2)
+### Multidisciplinary team (Criterion 2)
 
 * The team was comprised largely of departmental staff, and specific steps have been taken to ensure expertise from specialist resources was shared across the team.
 * The panel notes that churn in the project is always a challenge - in an ideal world, key resources that were being ‘swapped out’ would have had time to handover, but ensuring shadowing within the team reduced the impact of this.
@@ -80,7 +80,7 @@ The assessment panel makes the following recommendations.
   * not become dependant on secondary research or on the activities of external projects
   * ensure user needs truly drive the detailed design of the service - in this case making the content as clear and simple as possible is critical
 
-### Multi-disciplinary team (Criterion 2)
+### Multidisciplinary team (Criterion 2)
 
 * In beta, the team should develop a plan early on for managing the governance of the product once it’s ‘Live’ and staff return to their various home agencies and roles.
 * The team should consider having a legal/policy expert embedded in the project, to  accelerate decisions around content.

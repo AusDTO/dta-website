@@ -36,11 +36,11 @@ Text removed from the standard has been <del>struck out</del>. Text added is mar
     <li>
       <div class="col-md-6 col-sm-12">
         <h3 class="">Previous version <span class="offscreen">of Criterion 2</span></h3>
-        <p>Establish a sustainable multi-disciplinary team <del>that can</del> design, build, operate and iterate the service, led by an experienced <del>service manager</del> with decision-making responsibility.</p>
+        <p>Establish a sustainable multidisciplinary team <del>that can</del> design, build, operate and iterate the service, led by an experienced <del>service manager</del> with decision-making responsibility.</p>
       </div>                
       <div class="col-md-6 col-sm-12 border-left">
         <h3 class=""><span class="offscreen">Live version of criterion 2: </span>Updated</h3>
-        <p>Establish a sustainable multi-disciplinary team <ins>to</ins> design, build, operate and iterate the service, led by an experienced <ins>product manager</ins> with decision-making responsibility. </p>
+        <p>Establish a sustainable multidisciplinary team <ins>to</ins> design, build, operate and iterate the service, led by an experienced <ins>product manager</ins> with decision-making responsibility. </p>
       </div>
     </li>
     

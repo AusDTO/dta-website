@@ -72,7 +72,7 @@ A fully functioning agile team is comprised of 3 kinds of roles:
 
 *   Service / Product Manager - responsible for creating products or services that meet user needs
 *   Delivery / Project Manager (Scrum Master, in the scrum methodology) - the agile expert responsible for removing blockers and also the facilitator at team meetings
-*   team members - self-organising and multi-disciplinary staff that produce user stories, carry out the Product Manager’s vision and are responsible for estimation of their output and speed.
+*   team members - self-organising and multidisciplinary staff that produce user stories, carry out the Product Manager’s vision and are responsible for estimation of their output and speed.
 
 Your team members should share knowledge and build partnerships based on openness, transparency, trust and mutual respect. They should be permitted to continuously improve, innovate and make mistakes but quickly learn from them!
 

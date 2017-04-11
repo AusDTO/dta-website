@@ -44,7 +44,7 @@ This research was done through contextual in-home interviews, usability testing,
 
 All members of the team participated in research and throughout the assessment referenced stories and learnings from the experience of real users who they had met and tested their prototypes with. While demonstrating the product and design decisions, these stories naturally surfaced making it clear that the product and the team had been directly driven by the needs of users.
 
-### Criterion 2: Have a multi-disciplinary team
+### Criterion 2: Have a multidisciplinary team
 
 Team members were represented from both DHS and DTA, providing an opportunity to strengthen the partnership between the two agencies, and enable capability uplift back into DHS as team members rolled back into their originating team.
 
@@ -80,7 +80,7 @@ Research should continue. The assessment team highly recommends, particularly as
 
 The team should continue to test with, and engage with, users from culturally and linguistically diverse backgrounds.
 
-### Criterion 2: Have a multi-disciplinary team
+### Criterion 2: Have a multidisciplinary team
 
 The team should consider an ongoing content design role to help with communicating how myGov works with linked-services, and providing consistency across the breadth of edge cases and other channels like call-centre support or the shopfront experience.
 

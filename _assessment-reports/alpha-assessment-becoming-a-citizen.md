@@ -59,7 +59,7 @@ The assessment panel makes the following recommendations to assist the team as t
 ### User needs - Criteria 1
 User research must continue throughout beta. User research should be conducted in each sprint throughout the beta stage. The team must make sure that design and research are integrated into the activities of each sprint and that the user interface continues to iterate throughout the beta stage.
 
-### Multi-disciplinary team - Criteria 2
+### Multidisciplinary team - Criteria 2
 Strong service management is needed for the beta stage and to ensure that the right skills are available at the right time during beta. The team will need to carefully manage issues around security clearances and systems access for team members to ensure there are no blockers during beta development.
 
 The team is established from, and reliant on, multiple suppliers. While there are plans to build modularised training to help support transfer of knowledge from suppliers, it needs to be prioritised so that this can happen during the beta phase.
@@ -72,7 +72,7 @@ A progressive enhancement approach should be adopted for beta to ensure that the
 
 For beta onwards, the team have decided to use Java with the Spring web framework, after reaching a compromise with the DIBP IT team. The team should be mindful of any assurance and security requirements and should start working through any issues that may arise early in the beta stage to avoid any delays in releasing the service to users.
 
-Throughout the beta, the team must make sure that they continue to work in a way that keeps feedback loops short, automates testing and deployment, and supports multi-disciplinary team working.
+Throughout the beta, the team must make sure that they continue to work in a way that keeps feedback loops short, automates testing and deployment, and supports multidisciplinary team working.
 
 ### Measures - Criteria 6
 There are opportunities to improve the team's understanding of the metrics and baseline measures of their service; for example the cost to the department for scheduling and rescheduling appointments.  We will expect to see the team has devised a clear set of metrics to measure when they return for their beta assessment.

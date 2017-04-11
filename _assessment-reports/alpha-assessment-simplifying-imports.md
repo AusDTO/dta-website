@@ -49,9 +49,9 @@ The assessment panel noted that:
 
 The team demonstrated a deep understanding of user needs. They showed strong evidence of much contextual user research carried out with many users of different types in different locations both inside and outside of government. They also interviewed different businesses and brokers. Overall they did research with 51 users outside government.
 
-### Multi-disciplinary team (Criteria 2)
+### Multidisciplinary team (Criteria 2)
 
-The team demonstrated that they were working in a multi-disciplinary team. The team demonstrated that they were pairing on most activities to ensure knowledge transfer between team members in the short term. They demonstrated how “good user research is a team sport”.  
+The team demonstrated that they were working in a multidisciplinary team. The team demonstrated that they were pairing on most activities to ensure knowledge transfer between team members in the short term. They demonstrated how “good user research is a team sport”.  
 
 ### Responsive design (Criteria 9)
 
@@ -65,7 +65,7 @@ The team demonstrated that they have done work with accessibility consultants an
 
 The assessment panel makes the following recommendations.
 
-### Multi-disciplinary team (Criteria 2)
+### Multidisciplinary team (Criteria 2)
 
 The team has a significant number of interim contractors, especially around user research, service design and development. The team will need to put in significant effort to ensure that the knowledge and capabilities will be transferred into the agency over the mid to long-term.
 
@@ -77,7 +77,7 @@ During Beta the team should continue to thoroughly test the new service in the c
 
 ### Data, tools and systems (Criteria 4)
 
-For Beta, the team have chosen technologies which closely align with the capabilities of the agency’s IT function. They should ensure that these technologies do not constrain an agile and multi-disciplinary approach during the development of the Beta service.
+For Beta, the team have chosen technologies which closely align with the capabilities of the agency’s IT function. They should ensure that these technologies do not constrain an agile and multidisciplinary approach during the development of the Beta service.
 
 ### Measures (Criteria 6)
 

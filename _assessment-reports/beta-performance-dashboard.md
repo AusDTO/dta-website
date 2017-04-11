@@ -33,9 +33,9 @@ Based on the information provided throughout the inflight assessment the Perform
 
 User research and testing is informing the product roadmap and feature deployment. We saw evidence of the continuing research and testing plans, user feedback and analytics. This informed decisions about new features such as an automated self-service area.
 
-### Criterion 2 - Have a multi-disciplinary team
+### Criterion 2 - Have a multidisciplinary team
 
-The team is fully staffed with a multi-disciplinary team. We saw a rapid improvement on product vision and improving service transparency. The team is working well together. All members understanding their roles, responsibilities and team processes. 
+The team is fully staffed with a multidisciplinary team. We saw a rapid improvement on product vision and improving service transparency. The team is working well together. All members understanding their roles, responsibilities and team processes. 
 
 ### Criterion 3 - Agile and user-centred process
 
@@ -75,7 +75,7 @@ The team is actively engaging with whole of government and seeking ongoing oppor
 
 We recommend that the team considers the following as they move through their Public Beta.
 
-### Criterion 2 - Have a multi-disciplinary team
+### Criterion 2 - Have a multidisciplinary team
 
 We encourage the team to look at options to ensure that all remote team members can participate in all team discussions.
 
@@ -108,10 +108,7 @@ They could consider improved collaboration with the internal communication team 
 
 ### Code
 
-This service's code is hosted in open source GitHub repositories:
-
-- [https://github.com/AusDTO/dto-dashboard](https://github.com/AusDTO/dto-dashboard)
-- [https://github.com/AusDTO/cg-dashboard](https://github.com/AusDTO/cg-dashboard)
+This service's code is hosted in an open source repository on GitHub.
 
 ### Metrics
 

@@ -17,7 +17,89 @@ We’re working on six Digital Transformation projects in collaboration with fou
 
 Here’s a snapshot of progress from each team working in the Delivery Hubs:
 
-![1 team in mobilisation, 3 teams in discovery, 1 team in Alpha, 1 team in Beta and 0 teams in live.](/images/blog-banners/delivery-hub-2.jpg)
+<style>
+{% comment %}A snapshot of the styling at the time this blog post was written{% endcomment %}
+.post-project-phase-counter {
+  display: block;
+  margin-bottom: 3em;
+  overflow: hidden;
+}
+.post-project-phase-counter .project-phase-column {
+  width: 20%;
+  padding-left: 10px;
+  float: left;
+  min-width: 8em;
+}
+@media screen and (max-width: 768px) {
+  .post-project-phase-counter .project-phase-column {
+    width: 100%;
+    padding-left: 0;
+  }
+}
+.post-project-phase-counter .project-phase-column:first-child {
+  padding-left: 0;
+}
+.post-project-phase-counter .project-phase-column .mobilisation, .post-project-phase-counter .project-phase-column .discovery, .post-project-phase-counter .project-phase-column .alpha, .post-project-phase-counter .project-phase-column .beta, .post-project-phase-counter .project-phase-column .live {
+  color: #fff;
+  font-weight: 700;
+  font-size: 20px;
+  padding: 8px;
+  text-align: center;
+  margin-top: 0;
+}
+.post-project-phase-counter .project-phase-column .mobilisation {
+  background-color: #636363;
+}
+.post-project-phase-counter .project-phase-column .discovery {
+  background-color: #912b87;
+}
+.post-project-phase-counter .project-phase-column .alpha {
+  background-color: #c52a72;
+}
+.post-project-phase-counter .project-phase-column .beta {
+  background-color: #cf4a10;
+}
+.post-project-phase-counter .project-phase-column .live {
+  background-color: #859949;
+}
+.post-project-phase-counter .project-phase-column .count {
+  font-weight: 700;
+  font-size: 80px;
+  text-align: center;
+}
+.post-project-phase-counter .project-phase-column .description {
+  font-size: 15px;
+}
+
+</style>
+
+<div class="post-project-phase-counter">
+<div class="project-phase-column">
+<h2 class="mobilisation">Mobilisation</h2>
+<div class="count">1</div>
+</div>
+
+<div class="project-phase-column">
+<h2 class="discovery">Discovery</h2>
+<div class="count">3</div>
+</div>
+
+<div class="project-phase-column">
+<h2 class="alpha">Alpha</h2>
+<div class="count">1</div>
+</div>
+
+<div class="project-phase-column">
+<h2 class="beta">Beta</h2>
+<div class="count">1</div>
+</div>
+
+<div class="project-phase-column">
+<h2 class="live">Live</h2>
+<div class="count">0</div>
+</div>
+
+</div>
 
 Our work with the Department of Immigration and Border Protection on the citizenship appointment booking service is now in Beta. Keep an eye out for the public release in March 2016.
 

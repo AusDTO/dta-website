@@ -59,7 +59,7 @@ There are around 300,000 newborns enrolled for Medicare annually through a manua
 
 The team demonstrated a solid understanding of user needs gained through a thorough user research process, including site visits at DHS service centres, intercepting both before and after enrolment, and conducted contextual face to face interviews with expectant and new parents. The team met with Aboriginal and Torres Strait Islander, low English and migrant parents and expectant parents. The team gained good insight into where government services feature throughout pregnancy and in the first few weeks of parenthood, and concluded that the Medicare enrolment often had no relevance to parents until such time as they needed to seek medical attention for their newborn.
 
-### Multi-disciplinary teams (Criteria 2)
+### Multidisciplinary teams (Criteria 2)
 
 The team is co-located within DTO, is predominantly drawn from DHS resources, and brings together a good mix of subject matter expertise. There have been some roles adapted to fit the needs of the team. The team recognise that the absence of a digital interface does not remove the need for ongoing user research and the service design capability. This new service may introduce new user needs that will need to be met through new touch points and the longer term removal of existing touchpoints and support of those new needs may require further extension or change of the team makeup.
 
@@ -101,7 +101,7 @@ The team adapted well to a very new way of working for government services and a
 
 The team should aim to further understand the other users to the service and ensure their needs are not overlooked. A greater understanding of the needs of hospital staff, including midwives, administrators and ICT support staff, will further help inform the design of this service, and its potential iterations to a live service.
 
-### Multi-disciplinary teams (Criteria 2)
+### Multidisciplinary teams (Criteria 2)
 
 The team should consider what changes may be required to further iterate the service past the Gold Coast University Hospital Beta. They will need to consider the particular user research and service design capabilities needed for a true service change (not just a digital service implementation).
 
