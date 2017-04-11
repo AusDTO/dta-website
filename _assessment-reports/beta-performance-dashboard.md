@@ -108,7 +108,7 @@ They could consider improved collaboration with the internal communication team 
 
 ### Code
 
-This service's code is hosted in open source GitHub repositories:
+This service's code is hosted in an open source GitHub repository:
 
 - github.com/AusDTO/dto-dashboard
 
