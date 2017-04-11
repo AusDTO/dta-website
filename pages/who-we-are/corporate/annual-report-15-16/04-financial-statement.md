@@ -700,8 +700,6 @@ The above statement should be read in conjunction with the accompanying notes.
   </div>
  </div>
 
-{% include hx.html lvl=2 text="Cash flow statement" %}
-for the period ended 30 June 2016
 <div class="horizontal-scroll-table-container">
   <table class="content-table financial" summary="Digital Transformation Office
   Cash flow statement
