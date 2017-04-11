@@ -10,7 +10,7 @@ www.dta.gov.au is a [Jekyll website](http://jekyllrb.com/).
 
 **Ensure you have the pre-requisites installed:**
 
-- [Ruby 2.3.1](https://www.ruby-lang.org/en/documentation/installation/)
+- [Ruby 2.3.3](https://www.ruby-lang.org/en/documentation/installation/)
 - [rbenv](https://github.com/rbenv/rbenv)
 - [Bundler](http://bundler.io/)
 - [Node.js](https://nodejs.org) (For pa11y tests)
