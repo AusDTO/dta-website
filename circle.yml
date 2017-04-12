@@ -14,8 +14,6 @@ dependencies:
 test:
   override:
     - bin/cibuild.sh
-    - bin/ciserve.sh:
-          background: true
     - bin/citest.sh
 
 deployment:
