@@ -1,7 +1,7 @@
 ---
 title: "Sketching in code to build online services"
 category: [blog]
-tags:'technology'
+tags: 'technology'
 author: Simon Schwartz
 author-excerpt: "Simon Schwartz is a frontend developer at the Digital Transformation Agency."
 thumbnail: /images/blog-thumbnails/dbdiff-thumb.png
