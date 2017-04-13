@@ -1,5 +1,5 @@
 ---
-title: "Sketch in code to build online services"
+title: "Sketching in code to build online services"
 category: [blog]
 tags:'technology'
 author: Simon Schwartz
