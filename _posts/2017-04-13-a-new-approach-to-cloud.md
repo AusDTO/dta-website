@@ -5,7 +5,7 @@ tags:
 - 'technology'
 - 'digital marketplace'
 author: Andrew McGalliard
-author-excerpt: "Robert Lechte is a Developer at the Digital Transformation Agency.
+author-excerpt: "Robert Lechte is a Developer at the Digital Transformation Agency." 
 thumbnail: /images/blog-thumbnails/dbdiff-thumb.png
 hero-image: /images/blog-content/dbdiff.png
 searchexcerpt: "Cloud has a lot to offer government. Greater data storage capacity, cost savings, convenience and increased flexibility for running ICT services are just a few potential benefits. But investment in cloud technologies still represents less than one per cent of government’s annual ICT spend. At the DTA, we’ve started a discovery process to develop a strategy that will help government adopt cloud technologies."
