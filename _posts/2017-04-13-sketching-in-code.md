@@ -16,13 +16,13 @@ A great online service is the result of bringing together excellent design and c
 
 It is no use if a designer gives a developer a set of high fidelity specs that don’t consider the constraints of the technology the product is being built in, or the browsers it will be displayed on.
 
-Luckily, this is a pretty easy problem to solve—allow designers and developer to work closely together, and sketch in code. At the DTA, this approach is business as usual, and produces great results.
+Luckily, this is a pretty easy problem to solve — allow designers and developer to work closely together, and sketch in code. At the DTA, this approach is business as usual, and produces great results.
 
 ## Ideas are cheap, actually making stuff is where you begin to win the battle
 
 It is good practice to test your ideas early. By doing this you are able to identify some of the constraints you may face — whether it is navigation, layout, accessibility or mobile responsiveness. The best way to do this is by sketching in code, prototyping your work early and iterating quickly.
 
-When developing a product you need to sketch out what it will look like—prototype it. Prototyping takes an idea or hypothesis and demonstrates how you plan to address it. It makes sure that your idea (or your team’s idea) is valid. It makes it easy for others to have a shared understanding of what you are trying to do.
+When developing a product you need to sketch out what it will look like — prototype it. Prototyping takes an idea or hypothesis and demonstrates how you plan to address it. It makes sure that your idea (or your team’s idea) is valid. It makes it easy for others to have a shared understanding of what you are trying to do.
 
 Prototyping could be done with a design program, or even on paper. However, sketching in code has a number of practical benefits over these approaches.
 
@@ -89,7 +89,7 @@ Commit messages and pull requests could also be brief and merely name the piece 
 
 ### Keep the tech simple
 
-Evaluate how you want to build the prototype. Remember that the most important thing is to be able to build ideas out quickly. Some ideas you build will get disproved and you will have to delete them anyway. For static prototypes we use [Jekyll[(https://jekyllrb.com/), a static site generator. For interactive prototypes that need to persist data such as decision tools or forms, we use [React](https://facebook.github.io/react/). The key is to choose a technology that makes it quick and easy to build and iterate the team’s ideas.
+Evaluate how you want to build the prototype. Remember that the most important thing is to be able to build ideas out quickly. Some ideas you build will get disproved and you will have to delete them anyway. For static prototypes we use [Jekyll](https://jekyllrb.com/), a static site generator. For interactive prototypes that need to persist data such as decision tools or forms, we use [React](https://facebook.github.io/react/). The key is to choose a technology that makes it quick and easy to build and iterate the team’s ideas.
 
 ### Fake it if you can
 
