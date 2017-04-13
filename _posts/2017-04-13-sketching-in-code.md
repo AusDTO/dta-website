@@ -4,13 +4,13 @@ category: [blog]
 tags: 'technology'
 author: Simon Schwartz
 author-excerpt: "Simon Schwartz is a frontend developer at the Digital Transformation Agency."
-thumbnail: /images/blog-thumbnails/dbdiff-thumb.png
-hero-image: /images/blog-content/dbdiff.png
+thumbnail: /images/blog-thumbnails/Sketch_in_code_sml.png
+hero-image: /images/blog-content/Sketch_in_code_hero.png
 ---
 
-![Screenshot of a database “diff” — a representation of differences between two databases. In this case, one database needs a new sequence, table, and constraint to be added to match the structure of another database.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+!Four developers working together in an office.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: Screenshot of a database “diff” — a representation of differences between two databases. In this case, one database needs a new sequence, table, and constraint to be added to match the structure of another database.*
+*Caption: DTA developers at work.*
 
 A great online service is the result of bringing together excellent design and code. To deliver these services it is critical designers and developers work together. 
 
