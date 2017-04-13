@@ -8,7 +8,7 @@ thumbnail: /images/blog-thumbnails/Sketch_in_code_sml.png
 hero-image: /images/blog-content/Sketch_in_code_hero.png
 ---
 
-!Four developers working together in an office.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+![Four developers working together in an office.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 *Caption: DTA developers at work.*
 
@@ -16,11 +16,11 @@ A great online service is the result of bringing together excellent design and c
 
 It is no use if a designer gives a developer a set of high fidelity specs that don’t consider the constraints of the technology the product is being built in, or the browsers it will be displayed on.
 
-Luckily, this is a pretty easy problem to solve—allow designers and developer to work closely together, and sketch in code. At the DTA, this approach is BAU, and produces great results.
+Luckily, this is a pretty easy problem to solve—allow designers and developer to work closely together, and sketch in code. At the DTA, this approach is business as usual, and produces great results.
 
 ## Ideas are cheap, actually making stuff is where you begin to win the battle
 
-It is good practice to test your ideas early. By doing this you are able to identify some of the constraints you may face—whether it is navigation, layout, accessibility or mobile responsiveness. The best way to do this is by sketching in code, prototyping your work early and iterating quickly.
+It is good practice to test your ideas early. By doing this you are able to identify some of the constraints you may face — whether it is navigation, layout, accessibility or mobile responsiveness. The best way to do this is by sketching in code, prototyping your work early and iterating quickly.
 
 When developing a product you need to sketch out what it will look like—prototype it. Prototyping takes an idea or hypothesis and demonstrates how you plan to address it. It makes sure that your idea (or your team’s idea) is valid. It makes it easy for others to have a shared understanding of what you are trying to do.
 
@@ -70,11 +70,11 @@ It is important to remember that prototyping shouldn’t be the same as building
 
 I recommend the following guidelines for prototyping.
 
-## You don't need to build it right, until you know you are building the right thing
+### You don't need to build it right, until you know you are building the right thing
 
 In most cases it is more valuable to have a rough, low fidelity prototype that covers the entire user journey you are testing. Testing well built, high fidelity features in isolation won’t give you as many meaningful user insights during usability testing. 
 
-## Don’t waste time on code quality
+### Don’t waste time on code quality
 
 The goal is to test your ideas, not build production ready code. Your prototyping code should be designed to be thrown away. It’s important not to get attached to it, as it could and should change rapidly based on user feedback. You need to be fast and loose.
 
@@ -87,20 +87,19 @@ Depending on what you need to test with your prototype, it may be viable to omit
 
 Commit messages and pull requests could also be brief and merely name the piece of work being done.
 
-## Keep the tech simple
+### Keep the tech simple
 
-Evaluate how you want to build the prototype. Remember that the most important thing is to be able to build ideas out quickly. Some ideas you build will get disproved and you will have to delete them anyway. For static prototypes we use Jekyll, a static site generator. For interactive prototypes that need to persist data such as decision tools or forms, we use React. The key is to choose a technology that makes it quick and easy to build and iterate the team’s ideas.
+Evaluate how you want to build the prototype. Remember that the most important thing is to be able to build ideas out quickly. Some ideas you build will get disproved and you will have to delete them anyway. For static prototypes we use [Jekyll[(https://jekyllrb.com/), a static site generator. For interactive prototypes that need to persist data such as decision tools or forms, we use [React](https://facebook.github.io/react/). The key is to choose a technology that makes it quick and easy to build and iterate the team’s ideas.
 
-## Fake it if you can
+### Fake it if you can
 
 Evaluate whether you need to integrate with existing services or real data. It may be simpler to fake interactions with JavaScript than to integrate with production systems. You need to decide whether it is viable to test your ideas without using real data.
 
-## Make it easy for everyone to contribute
+### Make it easy for everyone to contribute
 
 Try to make it easy for non-technical people in the team to contribute to the prototype. While this isn’t critical it’s always better to harness the collective intelligence of the team. We should remove the developers as blockers for ideas getting into the prototype. This may be showing your team mates how to edit markdown files in GitHub, or editing a JSON blob consumed by your prototype.
 
 ## Want to learn more?
 
-DTA Service design handbook - [http://ausdto.github.io/service-handbook/alpha/](http://ausdto.github.io/service-handbook/alpha/)
-
-Jalpha, a rubygem for scaffolding out new opinionated Jekyll projects - https://github.com/AusDTO/jalpha
+- [DTA Service design handbook](http://ausdto.github.io/service-handbook/alpha/)
+- [Jalpha](https://github.com/AusDTO/jalpha), a rubygem for scaffolding out new opinionated Jekyll projects
