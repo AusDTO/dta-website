@@ -36,7 +36,7 @@ Sketching in code forces you to understand how you are structuring the HTML on y
 
 ## Understand the simplest way to solve a problem
 Many problems can be solved using existing frameworks or libraries. If you start by finding the simplest solution in code first it can save time from building bespoke functionality.
-
+
 ## Responsive design
 
 It is much easier to understand how your page layouts respond when designing in the browser. It is hard to address these constraints if you are designing and building your prototype in anything other than code.
