@@ -46,8 +46,8 @@ The site can be tested for accessibility using pa11y.
 
 Install pa11y-ci and it's dependencies with:
 
-1. `npm install -g phantomjs-prebuilt`
-2. `npm install pa11y-ci@^0.4`
+1. `npm install -g phantomjs-prebuilt@2.1`
+2. `npm install pa11y-ci@^1.1`
  
 You can then run the test with: 
 
