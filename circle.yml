@@ -1,7 +1,7 @@
 ---
 machine:
   ruby:
-    version: 2.3.1
+    version: 2.3.3
 
 general:
   artifacts:
@@ -14,8 +14,6 @@ dependencies:
 test:
   override:
     - bin/cibuild.sh
-    - bin/ciserve.sh:
-          background: true
     - bin/citest.sh
 
 deployment:
