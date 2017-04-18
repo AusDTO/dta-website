@@ -4,8 +4,8 @@ category: [blog]
 tags: 'technology'
 author: Simon Schwartz
 author-excerpt: "Simon Schwartz is a frontend developer at the Digital Transformation Agency."
-thumbnail: /images/blog-thumbnails/Sketch_in_code_sml.png
-hero-image: /images/blog-content/Sketch_in_code_hero.png
+thumbnail: /images/blog-thumbnails/sketching-in-code-thumbnail.jpg
+hero-image: /images/blog-content/sketching-in-code-banner.jpg
 ---
 
 ![Four developers working together in an office.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
