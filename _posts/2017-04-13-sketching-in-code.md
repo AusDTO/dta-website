@@ -18,7 +18,7 @@ It is no use if a designer gives a developer a set of high fidelity specs that d
 
 Luckily, this is a pretty easy problem to solve — allow designers and developer to work closely together, and sketch in code. At the DTA, this approach is business as usual, and produces great results.
 
-## Ideas are cheap, actually making stuff is where you begin to win the battle
+> Ideas are cheap, actually making stuff is where you begin to win the battle
 
 It is good practice to test your ideas early. By doing this you are able to identify some of the constraints you may face — whether it is navigation, layout, accessibility or mobile responsiveness. The best way to do this is by sketching in code, prototyping your work early and iterating quickly.
 
@@ -45,26 +45,26 @@ It is much easier to understand how your page layouts respond when designing in 
 
 Having a codified prototype means that you can host your prototype on the web. This means that:
 
-- all your team can see the latest version of the prototype
-- if you version control code it’s easy to have history of the prototype
-- showing people a real thing on their real device is magical
-- it’s quick and easy to make changes and perform a/b testing
+- All your team can see the latest version of the prototype.
+- If you version control code it’s easy to have history of the prototype.
+- Showing people a real thing on their real device is magical.
+- It’s quick and easy to make changes and perform a/b testing.
 
 ## Easy to test
 
 A critical part of the prototyping design process is testing the prototype with users. This is how we get feedback about whether our ideas are valid. Sketching in code will allow you to:
-- test your prototype on a real device (or a user’s own device)
-- test your prototype across mobile and desktop
-- test with remote users
-- add analytics or screen record user interactions
-- test with people who use assistive technology, this includes users with diverse abilities such as vision impairment, mobility impairment and age related impairments
+- Test your prototype on a real device (or a user’s own device).
+- Test your prototype across mobile and desktop.
+- Test with remote users.
+- Add analytics or screen record user interactions.
+- Test with people who use assistive technology, this includes users with diverse abilities such as vision impairment, mobility impairment and age related impairments.
 
 ## How to do it
 
 The outcome of prototyping is to:
 
-- define a clear and shared understanding of what you are going to build in beta
-- confirm your original idea or hypothesis is valid
+- Define a clear and shared understanding of what you are going to build in beta.
+- Confirm your original idea or hypothesis is valid.
 
 It is important to remember that prototyping shouldn’t be the same as building production software. It’s about rapidly testing and validating ideas before committing to building production software.
 
