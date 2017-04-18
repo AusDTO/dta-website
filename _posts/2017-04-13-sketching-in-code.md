@@ -74,7 +74,7 @@ I recommend the following guidelines for prototyping.
 
 In most cases it is more valuable to have a rough, low fidelity prototype that covers the entire user journey you are testing. Testing well built, high fidelity features in isolation won’t give you as many meaningful user insights during usability testing. 
 
-### Don’t waste time on code quality
+### Don’t waste time on code quality when prototyping
 
 The goal is to test your ideas, not build production ready code. Your prototyping code should be designed to be thrown away. It’s important not to get attached to it, as it could and should change rapidly based on user feedback. You need to be fast and loose.
 
