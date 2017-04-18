@@ -19,7 +19,6 @@ It is no use if a designer gives a developer a set of high fidelity specs that d
 Luckily, this is a pretty easy problem to solve — allow designers and developer to work closely together, and sketch in code. At the DTA, this approach is business as usual, and produces great results.
 
 > Ideas are cheap, actually making stuff is where you begin to win the battle.
-{: .pullquote}
 
 It is good practice to test your ideas early. By doing this you are able to identify some of the constraints you may face — whether it is navigation, layout, accessibility or mobile responsiveness. The best way to do this is by sketching in code, prototyping your work early and iterating quickly.
 
