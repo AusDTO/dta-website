@@ -1,7 +1,7 @@
 ---
 title: "A new approach to cloud"
 category: [blog]
-tags: 'digital transformation'
+tag: 'digital transformation'
 author: Andrew McGalliard
 author-excerpt: "Andrew McGalliard is the Director of ICT strategy and policy at the Digital Transformation Agency." 
 thumbnail: /images/blog-thumbnails/cloud_thumb.png
