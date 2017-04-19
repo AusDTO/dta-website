@@ -1,19 +1,13 @@
 ---
 title: "A new approach to cloud"
 category: [blog]
-tags: 
-- 'technology'
-- 'digital marketplace'
+tags: 'digital transformation'
 author: Andrew McGalliard
 author-excerpt: "Andrew McGalliard is the Director of ICT strategy and policy at the Digital Transformation Agency." 
 thumbnail: /images/blog-thumbnails/cloud_thumb.png
 hero-image: /images/blog-content/Cloud_hero.png
 searchexcerpt: "Cloud has a lot to offer government. Greater data storage capacity, cost savings, convenience and increased flexibility for running ICT services are just a few potential benefits. At the DTA, we’ve started a discovery process to develop a strategy that will help government agencies choose cloud technologies, if and when appropriate."
 ---
-
-![A new approach to cloud.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
-
-*Caption: A new approach to cloud.*
 
 Most of us use cloud services, whether we realise it or not. We use cloud to contact friends and to share stories, images and news through social media and we use cloud storage services to store our data and information from computers and smartphones. Cloud offers the convenience of accessing computing services as we need them, via the internet. 
 
