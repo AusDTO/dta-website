@@ -434,7 +434,7 @@ To link to files, such as PDF or DOCX, add the format and the size of the file i
 
 >**For example:**
 >
-> The [Digital Service Standard poster (PDF 83 KB)](/files/DTO_Digital-Service-Standard_CRITERIA-A4_August 2016.pdf).
+> The [Digital Service Standard poster (PDF 110 KB)](/files/Digital Service Criteria 2017 poster-WCAG.pdf).
 
 ### <a id="proofread" name="proofread"></a>Proofread
 
