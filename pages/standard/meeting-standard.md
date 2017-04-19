@@ -70,7 +70,7 @@ As the service moves towards the Live stage, the assessment and digital delivery
 
 If you are moving from staged assessment to in-flight, you might spend more time on the first check-in meeting to help the assessment team understand the product.
 
-Your meetings should focus on progress against the Digital Service Standard, documented using a red, amber, green (RAG) kanban. You can use the [Digital Service Standard kanban poster (PDF 117 KB)](/Digital Service Standard - Kanban poster-WCAG.pdf) to help with this. Both teams work together to make sure the service meets all of the requirements for each criterion in the current stage.
+Your meetings should focus on progress against the Digital Service Standard, documented using a red, amber, green (RAG) kanban. You can use the [Digital Service Standard kanban poster (PDF 117 KB)](/files/Digital Service Standard - Kanban poster-WCAG.pdf) to help with this. Both teams work together to make sure the service meets all of the requirements for each criterion in the current stage.
 
 The assessors document what the teams have done well since the last meeting and make recommendations for the next period of work. The assessors will also provide guidance to the team to help them continue to work more closely to the Standard and achieve successful outcomes for their project.
 
