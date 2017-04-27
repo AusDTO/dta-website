@@ -1,0 +1,38 @@
+.corporate-plan-container {
+
+  .corporate-plan-callout {
+    li {
+      border-top: none;
+    }
+
+    .title {
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+
+    .content {
+      padding-top: $medium-spacing;
+      border-top: 6px solid $light-aqua;
+      margin-top: $base-spacing * 1.4;
+    }
+  }
+
+  .index-links {
+    //todo this is a bug in gov-speak which should be fixed globally
+    h2 {
+      font-size: rem(17);
+      font-weight: $base-font-weight;
+    }
+  }
+
+  .roadmap {
+    width: 100%;
+    a {
+      border-bottom: 0;
+    }
+    a:hover {
+      background-color: initial;
+    }
+  }
+
+}

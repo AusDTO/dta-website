@@ -7,8 +7,11 @@ localnav: who-we-are
 
 <ul class="list-small">
   <li>
-      <a href="{{site.baseurl}}/who-we-are/corporate/annual-report/">Annual report</a>
-    </li>
+    <a href="{{site.baseurl}}/who-we-are/corporate/annual-report/">Annual report</a>
+  </li>
+  <li>
+    <a href="{{site.baseurl}}/who-we-are/corporate/plan/">Corporate plan</a>
+  </li>
   <li>
     <a href="{{site.baseurl}}/who-we-are/corporate/freedom-of-information/">Freedom of information</a>
   </li>
