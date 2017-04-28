@@ -12,7 +12,7 @@ The Digital Service Standard mandates a set of criteria which must be followed b
  
 It sets out best practice for how teams are formed, how they work and how they design and deliver a service. It’s best practice as it requires expertise and considerable effort to achieve it. 
 
-The purpose of assessing services against the standard ensures that we are meeting the user need for all users, that our services are safe and secure and that they are readily able to adapt, change and improve over time.  You don’t need to be perfect to pass, but services do need to demonstrate that they are on track with each of the relevant criteria for the delivery stage they are in—alpha, beta or live.The Digital Marketplace has just undergone its beta assessment and has one remaining criterion to meet.
+The purpose of assessing services against the standard ensures that we are meeting the user need for all users, that our services are safe and secure and that they are readily able to adapt, change and improve over time.  You don’t need to be perfect to pass, but services do need to demonstrate that they are on track with each of the relevant criteria for the delivery stage they are in—alpha, beta or live. The Digital Marketplace has just undergone its beta assessment and has one remaining criterion to meet.
 
 Meeting the standard in a government environment is challenging. Agencies have legacy environments, pressing deadlines, a diverse user base and complicated dependencies. 
 
@@ -22,7 +22,7 @@ A service that does ‘not pass’ when is it assessed is provided with recommen
 
 Ideally, teams would start working on those remediations and come back for reassessment when they are ready. It would be great to see teams regularly reporting on how they are progressing on the criteria they haven’t yet met. At reassessment, we focus only on the ‘not passed’ criteria. 
 
-Today, we’ve published the beta assessment [link] for the Digital Marketplace, which includes a ‘not pass’ for criterion 9. While the team has a working service with high take-up and lots of great feedback, they are still to demonstrate that they are able to meet all criteria. 
+Today, we’ve published the beta assessment for the Digital Marketplace, which includes a ‘not pass’ for criterion 9. While the team has a working service with high take-up and lots of great feedback, they are still to demonstrate that they are able to meet all criteria. 
 
 Not passing an assessment should not be seen as a failure, it’s a first attempt in our learning. Assessment enables us to have rapid expert feedback on how we are going against the Standard and where the gaps might be. 
 
