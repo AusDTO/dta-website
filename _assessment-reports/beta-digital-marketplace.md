@@ -8,7 +8,7 @@ department: Digital Transformation Agency
 date: 2017-03-15
 assessment-type: Digital Transformation Agency-led
 assessment-stage: Beta
-result: Not Pass
+result: Not pass
 lead-assessor: Alastair Parker
 product-manager: Catherine Thompson
 
@@ -39,12 +39,12 @@ The Digital Marketplace team has worked towards better understanding user needs 
 
 Prior to the release of their latest feature (which allows sellers to onboard to the marketplace at any time) the team worked with 20 active sellers, piloting the work to date and conducting user interviews. The product backlog was informed and prioritised by this feedback.
 
-The product is publically available and the team has a number of additional inputs that give valuable insight into pain points and user needs:
+The product is publicly available and the team has a number of additional inputs that give valuable insight into pain points and user needs:
 
-- agency collaboration - there is a dedicated engagement role in the team
-- helpdesk - user enquiries, feedback and issue management
+- agency collaboration --- there is a dedicated engagement role in the team
+- helpdesk --- user enquiries, feedback and issue management
 - website analytics
-- product manager - who conducts extensive stakeholder engagement
+- product manager --- who conducts extensive stakeholder engagement
 - market surveys
 
 ### Criterion 2: Have a multidisciplinary team 
@@ -59,11 +59,12 @@ The team doesn’t have any capability gaps, but they know they need to increase
 
 The team is autonomous and feel empowered to make decisions based on the information at hand. 
 
-### Criterion 3: Agile and user-centered process 
+### Criterion 3: Agile and user-centred process 
 
 The Digital Marketplace team used a fit-for-purpose approach to Agile techniques and practices during the Beta stage. This became necessary as they moved to a public product that operates as a business.
 
-Their approach is a combination of Scrum and Kanban. They work with a 2-week cadence for showcases and retrospectives, but use a “just in time” breakdown of features and flow of work.
+Their approach is a combination of Scrum and Kanban. They work with a 
+2-week cadence for showcases and retrospectives, but use a “just in time” breakdown of features and flow of work.
 
 The team has a very collaborative Definition of Done: a number of people are involved in the story kickoff, and use all data and information available to them to validate what is needed. At the completion of the story, if everyone is satisfied with the form and function the task is considered done.
 
@@ -80,12 +81,15 @@ Taking code from others has had some impacts on architecture, testing and access
 Other impacts included:
 
 **Architecture**
+
 The GDS open source code is hosted across many GitHub repositories. This isn't wrong or bad, but it does mean the team need to touch several repositories to make a small change.
 
 **Testing**
+
 The team worked to integrate the existing GDS tests into their testing strategy. This has taken more time than expected but the whole team see the value in doing it.
 
 **Accessibility** 
+
 Implementing the GDS code in the Digital Marketplace has required additional work to improve accessibility.
 
 The  team made changes based on automated tools to improve the quality of the service as the site continued to be operated.
@@ -160,12 +164,6 @@ The team has recruited a dedicated engagement lead, but the whole team helps.
 
 The existing tool used by government to buy services is email. Despite the limitations of email, people have become comfortable with it. This is the biggest challenge for the team. This problem needs to approached in different ways. There will need to be legal and policy changes broadly across government to support this style of procurement.
 
-
-
-
-
-
-
 ## Recommendations
 
 ### Criterion 5: Make it secure
@@ -194,7 +192,7 @@ The team should also include automated accessibility testing as part of their ro
 
 ## Follow the service
 
-Visit the [Digital Marketplace](https://marketplace.service.gov.au/)
+Visit the [Digital Marketplace.](https://marketplace.service.gov.au/)
 
 ### Code
 
