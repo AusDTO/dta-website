@@ -17,7 +17,7 @@ localnav: digital-service-standard
       <dt>Department / Agency</dt><dd>{{ page.department }}</dd>
     {% endif %}
     {% if page.date %}
-      <dt>Date of Assessment</dt><dd>{{ page.date | date: '%B %d, %Y' }}</dd>
+      <dt>Date of Assessment</dt><dd>{{ page.date | date: '%e %B %Y' }}</dd>
     {% endif %}
 
     {% if page.self-assessment == true %}
