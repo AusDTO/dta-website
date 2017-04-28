@@ -4,7 +4,7 @@ category: [blog]
 tag: 'digital transformation'
 author: Jacqui van Teulingen
 author-excerpt: "Jacqui van Teulingen is the Head of Digital Service Standard at the DTA." 
-thumbnail: /images/blog-thumbnails/Marketplace.png
+thumbnail: /images/blog-thumbnails/hardworkmakesimple.png
 searchexcerpt: "Today, we have published the first “not pass” assessment report – and it’s for one of our own platforms. In this blog, Jacqui van Teulingen from the Digital Service Standard team discusses some of the challenges faced by teams working to meet the standard, including the DTA’s Digital Marketplace."
 ---
 
