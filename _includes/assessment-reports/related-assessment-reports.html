@@ -11,7 +11,7 @@
   <h2>Other assessment reports for {{page.title}}</h2>
   {% for report in site.assessment-reports %}
     {% if report.title == page.title and report.assessment-stage != page.assessment-stage%}
-     <a href="{{report.url}}">{{ report.assessment-stage }} assessment - {{report.date | date: '%B %d, %Y'}}</a>
+     <a href="{{report.url}}">{{ report.assessment-stage }} assessment - {{report.date | date: '%e %B %Y'}}</a>
     {% endif %}
   {% endfor %}
   </div>
