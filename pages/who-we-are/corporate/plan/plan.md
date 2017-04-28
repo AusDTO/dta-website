@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "Corporate plan 2017–&#x2060;20"
+title: "Corporate plan 2017–20"
 permalink: /who-we-are/corporate/plan/
 redirect_from: /corporate-plan/
 gov-speak: true
