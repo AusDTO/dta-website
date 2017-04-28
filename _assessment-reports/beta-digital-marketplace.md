@@ -27,10 +27,6 @@ criteria-12-result: Pass
 criteria-13-result: Pass
 ---
 
-Other assessment reports for Digital Marketplace
-
-[Alpha assessment](https://www.dta.gov.au/standard/assessments/digital-marketplace-alpha/) - 1 August 2016  
-
 **The service did not pass the assessment because:**
 
 - Accessibility issues may prevent some users from accessing the service. More work needs to be done before the service can pass criterion 9. 
