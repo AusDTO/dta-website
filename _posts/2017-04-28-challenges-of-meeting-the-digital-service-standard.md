@@ -22,7 +22,7 @@ A service that does ‘not pass’ when is it assessed is provided with recommen
 
 Ideally, teams would start working on those remediations and come back for reassessment when they are ready. It would be great to see teams regularly reporting on how they are progressing on the criteria they haven’t yet met. At reassessment, we focus only on the ‘not passed’ criteria. 
 
-Today, we’ve published the beta assessment for the Digital Marketplace, which includes a ‘not pass’ for criterion 9. While the team has a working service with high take-up and lots of great feedback, they are still to demonstrate that they are able to meet all criteria. 
+Today, we’ve published the [beta assessment](https://www.dta.gov.au/standard/assessments/digital-marketplace-beta/) for the Digital Marketplace, which includes a ‘not pass’ for criterion 9. While the team has a working service with high take-up and lots of great feedback, they are still to demonstrate that they are able to meet all criteria. 
 
 Not passing an assessment should not be seen as a failure, it’s a first attempt in our learning. Assessment enables us to have rapid expert feedback on how we are going against the Standard and where the gaps might be. 
 
