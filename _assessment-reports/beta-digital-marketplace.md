@@ -8,7 +8,7 @@ department: Digital Transformation Agency
 date: 2017-03-15
 assessment-type: Digital Transformation Agency-led
 assessment-stage: Beta
-result: Not Pass
+result: Not pass
 lead-assessor: Alastair Parker
 product-manager: Catherine Thompson
 
@@ -59,7 +59,7 @@ The team doesn’t have any capability gaps, but they know they need to increase
 
 The team is autonomous and feel empowered to make decisions based on the information at hand. 
 
-### Criterion 3: Agile and user-centered process 
+### Criterion 3: Agile and user-centred process 
 
 The Digital Marketplace team used a fit-for-purpose approach to Agile techniques and practices during the Beta stage. This became necessary as they moved to a public product that operates as a business.
 
@@ -81,12 +81,15 @@ Taking code from others has had some impacts on architecture, testing and access
 Other impacts included:
 
 **Architecture**
+
 The GDS open source code is hosted across many GitHub repositories. This isn't wrong or bad, but it does mean the team need to touch several repositories to make a small change.
 
 **Testing**
+
 The team worked to integrate the existing GDS tests into their testing strategy. This has taken more time than expected but the whole team see the value in doing it.
 
 **Accessibility** 
+
 Implementing the GDS code in the Digital Marketplace has required additional work to improve accessibility.
 
 The  team made changes based on automated tools to improve the quality of the service as the site continued to be operated.
@@ -189,7 +192,7 @@ The team should also include automated accessibility testing as part of their ro
 
 ## Follow the service
 
-Visit the [Digital Marketplace](https://marketplace.service.gov.au/)
+Visit the [Digital Marketplace.](https://marketplace.service.gov.au/)
 
 ### Code
 
