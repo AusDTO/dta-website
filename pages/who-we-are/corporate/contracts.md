@@ -2,6 +2,7 @@
 layout: basic
 title: List of contracts
 permalink: /who-we-are/corporate/contracts/
+localnav: who-we-are
 redirect_from: /contracts/
 lede: Senate Order for Department and Agency lists of contracts.
 ---

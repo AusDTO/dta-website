@@ -2,6 +2,7 @@
 layout: basic
 title: Freedom of Information (FOI)
 permalink: /who-we-are/corporate/freedom-of-information/
+localnav: who-we-are
 redirect_from: /freedom-of-information/
 breadcrumb: Freedom of Information
 ---
