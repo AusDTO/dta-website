@@ -5,8 +5,8 @@ permalink: /who-we-are/leadership/
 localnav: who-we-are
 ---
 
-## Nerida O'Loughlin - Interim CEO
+## Gavin Slater -- Chief Executive Officer
 
-Nerida O'Loughlin was appointed as Interim Chief Executive Officer of the new Digital Transformation Agency on 22 October 2016.  
+Gavin Slater was appointed as CEO of the Digital Transformation Agency of the Australian Government on 1 May 2017. Gavin has spent 30 years in the private sector working in the Financial Services sector. More recently he was a member, for a period of 7 years, of the Group Executive Team of National Australia Bank --- a top 5 ASX listed multinational company. During this time he was also a Director of the Bank of New Zealand for a period of 5 years.
 
-Nerida has been a Deputy Secretary in the Department of Communications and the Arts since  2011. She led the Digital Television Switchover Program which was successfully concluded in 2013 and most recently was responsible for the Content, Arts and Strategy Divisions covering a diverse range of policy, program and project areas.  Nerida joined the Department from the Australian Communications and Media Authority. Prior to that she had held senior positions in the Victorian and Commonwealth Governments working on policy and programs, predominantly across the technology and cultural sectors.
+He has a proven track record in delivering large scale transformation in response to digital disruption and changing customer preferences.

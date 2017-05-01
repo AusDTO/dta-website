@@ -18,7 +18,7 @@ Meeting the standard in a government environment is challenging. Agencies have l
 
 However, we see teams all over government making big efforts to change they way they work to better align with the standard. For many, this is going to take time and commitment to achieve and, for some, multiple attempts at meeting all criteria. 
 
-A service that does ‘not pass’ when is it assessed is provided with recommendations which help the team focus on what they need to do to meet the  standard when they are reassessed. 
+A service that does ‘not pass’ when it is assessed is provided with recommendations which help the team focus on what they need to do to meet the  standard when they are reassessed. 
 
 Ideally, teams would start working on those remediations and come back for reassessment when they are ready. It would be great to see teams regularly reporting on how they are progressing on the criteria they haven’t yet met. At reassessment, we focus only on the ‘not passed’ criteria. 
 
