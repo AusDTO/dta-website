@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "Digital marketplace"
+title: "Digital Marketplace"
 lede: "The DTA is transforming how the Australian government buys digital services.
 The Digital Marketplace simplifies the process of government procurement and makes it easier for businesses of all sizes to access government contracts."
 permalink: /what-we-do/platforms/marketplace/
@@ -28,6 +28,6 @@ In February 2017, the marketplace opened to an unlimited number of sellers in an
 - Content and publishing
 - Recruitment
 
-The Marketplace also allows sellers to identify themselves as a number of business types including startups, small-to-medium enterprise, and Indigenous-owned or disability enterprises. This allows government to support the growth of these businesses.
+The marketplace also allows sellers to identify themselves as a number of business types including startups, small-to-medium enterprise, and Indigenous-owned or disability enterprises. This allows government to support the growth of these businesses.
 
 The [Digital Marketplace](https://marketplace.service.gov.au/) is being delivered by the DTA as part of the [National Innovation and Science Agenda](http://www.innovation.gov.au/page/digital-marketplace).
