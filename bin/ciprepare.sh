@@ -18,12 +18,20 @@ bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=
 
 # install the cloud foundry cli tool if required
 case "${GITBRANCH}" in
-  master|develop|${DEPLOY_BRANCHES})
+  master|develop)
     curl -v -L -o cf-cli_amd64.deb 'https://cli.run.pivotal.io/stable?release=debian64&version=6.18.1&source=github-rel'
     sudo dpkg -i cf-cli_amd64.deb
     cf -v
     ;;
 esac
+
+#todo DRY
+if [[ -n ${CI_PULL_REQUEST+x} ]]
+then
+  curl -v -L -o cf-cli_amd64.deb 'https://cli.run.pivotal.io/stable?release=debian64&version=6.18.1&source=github-rel'
+  sudo dpkg -i cf-cli_amd64.deb
+  cf -v
+fi
 
 # htpasswd is needed when setting up basicauth
 if [[ -n ${CF_BASIC_AUTH_PASSWORD+x} ]]
