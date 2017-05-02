@@ -4,16 +4,37 @@
 [![Stories in Ready](https://badge.waffle.io/AusDTO/dta-website.png?label=ready&title=Ready)](https://waffle.io/AusDTO/dta-website)
 [![Code Climate](https://codeclimate.com/github/AusDTO/dta-website/badges/gpa.svg)](https://codeclimate.com/github/AusDTO/dta-website)
 
+## Technology
+
 www.dta.gov.au is a [Jekyll website](http://jekyllrb.com/).
 
-## Installation
-
-**Ensure you have the pre-requisites installed:**
+### Dependencies
 
 - [Ruby 2.3.3](https://www.ruby-lang.org/en/documentation/installation/)
 - [rbenv](https://github.com/rbenv/rbenv)
 - [Bundler](http://bundler.io/)
-- [Node.js](https://nodejs.org) (For pa11y tests)
+- [Node.js](https://nodejs.org)
+
+*To get a local development environment on MacOS:*
+
+```
+# install homebrew
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+# install rbenv
+brew install rbenv ruby-build
+
+# Add rbenv to bash so that it loads every time you open a terminal
+echo 'if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi' >> ~/.bash_profile
+source ~/.bash_profile
+
+# Install Ruby
+rbenv install 2.3.3
+
+# Install Bundler
+gem install bundler
+```
+
+### Run the site locally
 
 Run each of the following commands to get the site running locally:
 
@@ -24,7 +45,8 @@ Run each of the following commands to get the site running locally:
 
 You should be able to see the site at: http://127.0.0.1:4000
 
-To increase the speed of jekyll builds, you can replace the last step with `bin/servefast.sh`. This will disable the search plugin and only render the latest post.
+To increase the speed of jekyll builds, you can replace the last step with `bin/servefast.sh`. This will disable the 
+search plugin and only render the latest post.
 
 ### Run tests locally
 
