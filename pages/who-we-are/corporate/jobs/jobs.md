@@ -2,6 +2,7 @@
 layout: basic
 title: Jobs
 permalink: /who-we-are/corporate/jobs/
+localnav: who-we-are
 redirect_from:
   - /careers/
   - /jobs/
