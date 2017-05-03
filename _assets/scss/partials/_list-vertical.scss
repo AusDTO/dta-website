@@ -3,6 +3,7 @@
 .list-vertical--fourths {
   div.link {
     padding-bottom:$small-spacing;
+    max-width: 100%;
     a {
       border-bottom: initial;
       &:hover {
