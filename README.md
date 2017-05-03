@@ -15,7 +15,7 @@ www.dta.gov.au is a [Jekyll website](http://jekyllrb.com/).
 - [Bundler](http://bundler.io/)
 - [Node.js](https://nodejs.org)
 
-*To get a local development environment on MacOS:*
+**To get a local development environment on macOS:**
 
 ```
 # install homebrew
@@ -30,29 +30,39 @@ source ~/.bash_profile
 # Install Ruby
 rbenv install 2.3.3
 
-# Install Bundler
+# Install node.js 
+brew install node
+
+# Clone the repo into the current directory
+git clone git@github.com:AusDTO/dta-website.git
+
+# Install Bundler and install all gem dependencies
+cd dta-website
 gem install bundler
+bundler install
 ```
 
 ### Run the site locally
 
-Run each of the following commands to get the site running locally:
+After installing the dependencies you can run the site locally with:
 
-1. `git clone git@github.com:AusDTO/dta-website.git`
-2. `cd dta-website`
-3. `bundle install`
-4. `bundle exec jekyll serve`
+`bundle exec jekyll serve`
 
-You should be able to see the site at: http://127.0.0.1:4000
+You should then be able to see the site at: http://127.0.0.1:4000
 
-To increase the speed of jekyll builds, you can replace the last step with `bin/servefast.sh`. This will disable the 
-search plugin and only render the latest post.
+Whenever you make a change, it can take up to 30 seconds for jekyll to re-build the site and show your change. You may 
+instead wish to start the site with `bin/servefast.sh`. This will reduce the build time by disabling the search plugin 
+and only rendering the latest post.
 
 ### Run tests locally
 
-Run the tests with:
+The test are automatically run in CircleCI, but you can run the tests locally with:
 
-`bin/citest.sh`
+```
+bin/cibuild.sh
+
+bin/citest.sh
+```
 
 ### Test external links
 
@@ -89,12 +99,7 @@ If needed a branch can be continuously deployed by circleCI to a staging site at
 
 When your change is ready, submit a PR to the `develop` branch. After the PR is merged, it will be deployed to [staging](https://dta.apps.staging.digital.gov.au/).
 
-When ready for a production deploy, merge the `develop` branch to `master`. You can do this through Github [with a PR](https://github.com/AusDTO/dta-website/compare/master...develop) or from the command line:
-
-* `git checkout master`
-* `⁠git pull`
-* `git merge --no-ff develop`
-* `git push origin master`
+When ready for a production deploy, merge the `develop` branch to `master`. You can do this through Github [with a PR](https://github.com/AusDTO/dta-website/compare/master...develop).
 
 ## Working with embargoed content
 
