@@ -12,7 +12,8 @@ readonly DEPLOY_BRANCHES="+(web-updates)"
 readonly GITBRANCH="$(git symbolic-ref --short -q HEAD)"
 
 # The appname used if we deploy with 'cf push appname'
-readonly CF_PUSH_APPNAME="${CIRCLE_PROJECT_REPONAME}-`basename \"${GITBRANCH}\"`"
+# (not used for master and develop, which use manifests instead)
+readonly CF_PUSH_APPNAME="pr-`basename ${CI_PULL_REQUEST}`-${CIRCLE_PROJECT_REPONAME}"
 
 # Use the branch name to set jekyll config:
 # - DTA_SITE_BASEURL - used in jekyll for site.baseurl
@@ -25,20 +26,8 @@ case "${GITBRANCH}" in
   develop)
     export DTA_SITE_URL="https://dta.apps.staging.digital.gov.au"
     ;;
-  ${DEPLOY_BRANCHES})
-    export DTA_SITE_URL="https://${CF_PUSH_APPNAME}.apps.staging.digital.gov.au"
-    ;;
   *)
-    if [[ -n ${CIRCLECI+x} ]]
-    then
-      # Configure jekyll to be statically hosted on circleci.
-      # TODO remove hardcoded parameters as much as possible - but where does 71211972 come from?
-      export DTA_SITE_URL="https://${CIRCLE_BUILD_NUM}-71211972-gh.circle-artifacts.com"
-      export DTA_SITE_BASEURL="/${CIRCLE_NODE_INDEX}${HOME}/${CIRCLE_PROJECT_REPONAME}/_site"
-    else
-      # Assume the site is being built locally for cloud foundry
-      export DTA_SITE_URL="https://${CF_PUSH_APPNAME}.apps.staging.digital.gov.au"
-    fi
+    export DTA_SITE_URL="https://${CF_PUSH_APPNAME}.apps.staging.digital.gov.au"
     ;;
 esac
 
