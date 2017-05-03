@@ -28,6 +28,9 @@ checkrepo() {
   fi
 }
 
+# We dont need to deploy the pa11y-sitemap.xml
+rm -f _site/pa11y-sitemap.xml
+
 # main script function
 #
 main() {
@@ -49,18 +52,17 @@ main() {
       cf target -s $CF_SPACE
       cf push -f manifest-develop.yml
       ;;
+    ${DEPLOY_BRANCHES})
+      basicauth
+      cf api $CF_STAGING_API
+      cf auth $CF_USER $CF_PASSWORD
+      cf target -o $CF_ORG
+      cf target -s $CF_SPACE
+      cf push "$CF_PUSH_APPNAME"
+      ;;
     *)
-      if [[ "${CI_PULL_REQUEST}" == "" ]]
-      then
-        echo "I only deploy PRs"
-      else
-        basicauth
-        cf api $CF_STAGING_API
-        cf auth $CF_QAFIRE_USER $CF_QAFIRE_PASSWORD
-        cf target -o $CF_QAFIRE_ORG
-        cf target -s $CF_QAFIRE_SPACE
-        cf push "$CF_PUSH_APPNAME"
-      fi
+      echo "I will not deploy this branch"
+      exit 0
       ;;
   esac
 }
