@@ -4,8 +4,8 @@ category: [blog]
 tag: 'digital transformation'
 author: Gillian Bowan
 author-excerpt: "Gillian Bowan is a user researcher at the DTA."
-thumbnail: /images/blog-thumbnails/user_research_thumb.png
-hero-image: /images/blog-content/user_research.png
+thumbnail: /images/blog-thumbnails/user-research-thumb.jpg
+hero-image: /images/blog-content/user-research-hero.jpg
 searchexcerpt: "To design better services, we need to understand our users. At DTA, user researchers work with members of the public to better understand user needs.  Ensuring we have informed consent is an important part of how we make sure that the research we do poses no risk to those who are helping us."
 ---
 
