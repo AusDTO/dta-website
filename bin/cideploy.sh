@@ -28,15 +28,13 @@ checkrepo() {
   fi
 }
 
-# We dont need to deploy the pa11y-sitemap.xml
-rm -f _site/pa11y-sitemap.xml
-
 # main script function
 #
 main() {
   case "${GITBRANCH}" in
     master)
       checkrepo
+      mv _site/nginx-production.conf _site/nginx.conf
       cf api $CF_PROD_API
       cf auth $CF_USER $CF_PASSWORD
       cf target -o $CF_ORG
