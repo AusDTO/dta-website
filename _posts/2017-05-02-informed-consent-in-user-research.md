@@ -9,6 +9,10 @@ hero-image: /images/blog-content/user-research-hero.jpg
 searchexcerpt: "To design better services, we need to understand our users. At DTA, user researchers work with members of the public to better understand user needs.  Ensuring we have informed consent is an important part of how we make sure that the research we do poses no risk to those who are helping us."
 ---
 
+![User research being conducted at the DTA office.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+
+*Caption: User research being conducted at the DTA.*
+
 ## How do we get informed consent?
 We need informed consent from each person we speak with, so we start by explaining what’s involved. We need to be certain they understand the kind of tasks they'll be asked to complete and how we'll use their information.
 
