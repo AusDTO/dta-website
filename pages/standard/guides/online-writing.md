@@ -5,6 +5,7 @@ permalink: /standard/design-guides/online-writing/
 redirect_from:
   - /design-guides/guide/online-writing
 lede: Style guide for digital content
+redirect_to: https://guides.service.gov.au/content-guide/
 topic_group:
 - Website design and development
 topic:
