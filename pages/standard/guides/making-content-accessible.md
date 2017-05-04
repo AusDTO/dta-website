@@ -2,6 +2,7 @@
 layout: guide
 title: Making content accessible
 permalink: /standard/design-guides/making-content-accessible/
+redirect_to: https://guides.service.gov.au/content-guide/accessibility-inclusivity/
 topic_group:
 - User-centred design
 topic:

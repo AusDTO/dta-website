@@ -6,6 +6,7 @@ redirect_from: "/standard/design-guides/inclusive-services/"
 breadcrumb: Inclusive services
 lede: Making sure services meet the needs of all users
 redirect_from: /design-guides/guide/inclusive-services
+redirect_to: https://guides.service.gov.au/content-guide/accessibility-inclusivity/
 topic_group:
   - "User-centred design"
 topic:

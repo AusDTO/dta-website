@@ -5,6 +5,7 @@ permalink: /standard/design-guides/testing-web-accessibility/
 redirect_from:
   - /design-guides/guide/testing-web-accessibility
   - /standard/how-apply-standard/testing-web-accessibility
+redirect_to: https://guides.service.gov.au/content-guide/accessibility-inclusivity/
 lede: Ensuring government services are accessible to everyone
 topic_group:
 - User-centred design
