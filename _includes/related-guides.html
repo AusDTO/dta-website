@@ -1,4 +1,4 @@
-{% if page.type == subguide %}
+
 <h2 class="block__title">Related guides</h2>
 <ul>
 
@@ -10,20 +10,15 @@
 <!-- Omits current page from list -->
 {% if post.url == page.url %}
 {% else %}
+
 <!-- Omits any content with type: subguide from list -->
-{% if post.type == subguide %}
+
 <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-{% else %}
-{% endif %}
 {% endif %}
 {% endif %}
 
 {% endfor %}
 
 {% endfor %}
-
-{% else %}
-
 
 </ul>
-{% endif %}
