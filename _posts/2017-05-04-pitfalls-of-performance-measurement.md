@@ -9,6 +9,10 @@ hero-image: /images/blog-content/Bridge_hero.jpg
 searchexcerpt: "We all thought we were doing a great job...how could this happen?"
 ---
 
+![An image of a misaligned bridge.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+
+*Caption: An image of a misaligned bridge.*
+
 Measuring performance is pretty much a part of the workplace psyche these days, but do we take it for granted? Do we really understand why it’s important? 
 
 The DTA’s Performance Dashboard is all about measurement, but it is important that the right things are measured at the right time — that product teams identify early in the process what metrics will show them how well they have met their users needs. 
