@@ -2,12 +2,14 @@
 title: "The pitfalls of performance measurement"
 category: [blog]
 tag: 'digital transformation'
-author: 
-author-excerpt: "at the Digital Transformation Agency." 
-thumbnail: /images/blog-thumbnails/cloud_thumb.png
-hero-image: /images/blog-content/Cloud_hero.png
-searchexcerpt: "Measuring performance is pretty much a part of the workplace psyche these days, but do we take it for granted? Do we really understand why it’s important? "
+author: James Broadbent
+author-excerpt: "James is the Engagement Lead for the Performance Dashboard at the Digital Transformation Agency." 
+thumbnail: /images/blog-thumbnails/Bridge_thumb.jpg
+hero-image: /images/blog-content/Bridge_hero.jpg
+searchexcerpt: "We all thought we were doing a great job...how could this happen?"
 ---
+
+Measuring performance is pretty much a part of the workplace psyche these days, but do we take it for granted? Do we really understand why it’s important? 
 
 The DTA’s Performance Dashboard is all about measurement, but it is important that the right things are measured at the right time — that product teams identify early in the process what metrics will show them how well they have met their users needs. 
 
