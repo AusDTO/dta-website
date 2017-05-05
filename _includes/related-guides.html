@@ -1,23 +1,25 @@
-
-<h2 class="block__title">Related guides</h2>
-<ul>
-
 {% for tag in page.topic_group %}
 
-{% for post in site.pages reversed %}
+  {% for post in site.pages %}
 
-{% if post.topic_group contains tag %}
-<!-- Omits current page from list -->
-{% if post.url == page.url %}
-{% else %}
-
-<!-- Omits any content with type: subguide from list -->
-
-<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-{% endif %}
-{% endif %}
+    {% if post.topic_group contains tag %}
+      <!-- Omits current page from list -->
+      {% if post.url == page.url %}
+      {% else %}
+      <!-- Omits any content with type: subguide from list -->
+      {% if post.type == subguide %}
+        {% unless heading_inserted %}
+          {% assign heading_inserted = true %}
+            <h2 class="block__title">Related guides</h2>
+            <ul>
+        {% endunless %}
+        <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endif %}
+    {% endif %}
+  {% endfor %}
 
 {% endfor %}
-
-{% endfor %}
+{% if heading_inserted %}
 </ul>
+{% endif %}
