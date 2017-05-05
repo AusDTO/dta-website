@@ -32,7 +32,7 @@ The OAIC’s [APP guidelines](http://www.oaic.gov.au/privacy/applying-privacy-la
 
 ### <a id="identify" name="identify"></a>Identify personal information
 
-[Personal information](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-b-key-concepts#personal-information) is information or an opinion about an identified individual, or an individual who is reasonably identifiable. What constitutes personal information can be dynamic and will vary, depending on whether an individual can be identified or is reasonably identifiable in the particular circumstances. It can be a lot more than a name and address. For instance, the Privacy Commissioner has determined that <a href="http://www.austlii.edu.au/au/cases/cth/AICmr/2015/35.html" data-proofer-ignore>metadata may constitute personal information</a>.
+[Personal information](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-b-key-concepts#personal-information) is information or an opinion about an identified individual, or an individual who is reasonably identifiable. What constitutes personal information can be dynamic and will vary, depending on whether an individual can be identified or is reasonably identifiable in the particular circumstances. It can be a lot more than a name and address.
 
 ### <a id="understand" name="understand"></a>Understand what you are collecting and what you are going to do with it
 
