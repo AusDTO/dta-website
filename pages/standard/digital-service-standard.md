@@ -89,12 +89,12 @@ All services which were designed or redesigned after 6 May 2016 fall within [the
 Contact the Digital Service Standard team: <a href="mailto:standard@digital.gov.au?subject=Feedback%20on%20the%20Standard">standard@digital.gov.au</a>.
 
 ## Tools
-[Digital Service Standard poster (PDF 110 KB)](/files/Digital Service Criteria 2017 poster-WCAG.pdf)
+[Digital Service Standard poster (PDF 110 KB)](/files/Digital Service Criteria 2017 poster-WCAG (1).pdf)
 
-[Digital Service Standard kanban poster (PDF 117 KB)](/files/Digital Service Standard - Kanban poster-WCAG.pdf)
+[Digital Service Standard kanban poster (PDF 116 KB)](/files/Digital Service Standard - Kanban poster-WCAG (1).pdf)
 
 [Digital transformation culture posters (PDF 109 KB)]({{site.baseurl}}/files/dta-culture-posters-wcag.pdf)
 
 *The Digital Service Standard has been adapted from the [UK Government’s Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) under the [Open Government Licence v2.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/).*
 
-**Last updated:** 19 April 2017
+**Last updated:** 10 May 2017
