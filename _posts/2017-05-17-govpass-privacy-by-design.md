@@ -4,14 +4,9 @@ category: [blog]
 tag: 'digital transformation'
 author: Jacob Suidgeest
 author-excerpt: "James Suidgeest is a Policy Advisor and Privacy Specialist in the Govpass team."
-thumbnail: /images/blog-thumbnails/Bridge_thumb.jpg
-hero-image: /images/blog-content/Bridge_hero.jpg
+thumbnail: /images/blog-thumbnails/Privacy-by-design.png
 searchexcerpt: "DTA is proud to be a partner in this year’s [Privacy Awareness Week.](https://www.oaic.gov.au/paw2017/) Privacy is a core component of Govpass. Jacob Suidgeest, our privacy adviser, explains how the program is putting users’ privacy first. "
 ---
-
-![An image of a misaligned bridge.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
-
-*Caption: An image of a misaligned bridge.*
 
 [Govpass](https://www.dta.gov.au/blog/govpass/) will make it easier for people to prove who they are when using government services online. People have told us that to use Govpass, they need to trust that their personal information is protected and that they have control over where it is going. So we have sought to ‘build’ privacy into the design of Govpass. 
 
