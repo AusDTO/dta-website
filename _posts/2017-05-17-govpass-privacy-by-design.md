@@ -49,3 +49,5 @@ Two practical ways we are ensuring privacy in the design of Govpass is:
 
 - by commissioning a series of independent Privacy Impact Assessments (PIA) to identify and mitigate privacy risks. Access the [first PIA](https://www.dta.gov.au/files/DTA_TDIF_Alpha_Initial_PIA.pdf). 
 - employing and seeking advice from people with a detailed knowledge and commitment to protecting privacy. 
+
+Find out more information about [Privacy Awareness Week](https://www.oaic.gov.au/paw2017/).
