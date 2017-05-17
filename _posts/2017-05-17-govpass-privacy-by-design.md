@@ -10,7 +10,7 @@ searchexcerpt: "DTA is proud to be a partner in this year’s [Privacy Awareness
 
 [Govpass](https://www.dta.gov.au/blog/govpass/) will make it easier for people to prove who they are when using government services online. People have told us that to use Govpass, they need to trust that their personal information is protected and that they have control over where it is going. So we have sought to ‘build’ privacy into the design of Govpass. 
 
-## What is Privacy by design? 
+## What is privacy by design? 
 
 Privacy by design is a method to embed privacy into the design and architecture of products or projects. 
 
