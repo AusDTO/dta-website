@@ -7,7 +7,7 @@ redirect_from: /our-work/performance/
 localnav: what-we-do
 ---
 
-The Dashboard makes this data accessible to increase transparency and drive the continuous improvement of government services.
+[The Dashboard](https://dashboard.gov.au/) makes this data accessible to increase transparency and drive the continuous improvement of government services.
 
 Each service has a dashboard, which reports its performance against a series of mandatory key performance indicators:
 
