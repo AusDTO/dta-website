@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "2015-16 Digital Transformation Agenda Budget initiatives"
+title: "2017–18 Budget measures"
 breadcrumb: 2017-18 Budget
 permalink: /what-we-do/budget/
 redirect_from: /budget/
@@ -12,9 +12,9 @@ A total of $70.1 million over the next four years will help us to deliver on sta
 
 We have received funding for a number of our programs and products, as well as increased resources to deliver digital government services, over the next four years.
 
-Our Digital Investment Management Office will receive a boost of $1.5 million over three years to continue its work to oversee, review and report on new and existing ICT and digital projects.
+Our [Digital Investment Management Office](https://www.dta.gov.au/what-we-do/policies-and-programs/digital-investment-management-office/) will receive a boost of $1.5 million over three years to continue its work to oversee, review and report on new and existing ICT and digital projects.
 
-$15.2 million will go towards the second stage of the government’s Govpass program, including a platform that will allow Australians to identify themselves easily and safely when using government online services.
+$15.2 million will go towards the second stage of the government’s [Govpass program](https://www.dta.gov.au/what-we-do/platforms/govpass/), including a platform that will allow Australians to identify themselves easily and safely when using government online services.
 
 $10.7 million will be invested over the next four years to establish and deliver a new cyber security function that will add to our expanded remit to provide government with improved oversight of major ICT investmentment and projects, and to provide advice to departments and agencies.
 
@@ -26,4 +26,4 @@ Projects supported through the Modernisation Fund includes funding four new plat
 
 Building digital capability across the public service remains a key focus. An overall spend of $13.9 will be dedicated to attracting, building and retaining digital talent. We will receive $9.3 million and $4.6 million will go to the Australian Public Service Commission. 
 
-You can read more about the government’s investment in digital government delivery, and the new cyber security function to sit within the DTA, in Assistant Minister Taylor’s media statements.
+You can read more about [the government’s investment in digital government delivery](http://ministers.dpmc.gov.au/taylor/2017/budget-commits-70m-boost-digital-government-delivery), and the [new cyber security function](http://ministers.dpmc.gov.au/taylor/2017/106-million-boost-strengthen-cyber-security-through-dta) to sit within the DTA, in Assistant Minister Taylor’s media statements.
