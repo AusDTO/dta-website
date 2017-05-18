@@ -1,11 +1,2 @@
-- title: "2015-16 Budget"
+- title: "2017-18 Budget"
   url: "/what-we-do/budget/"
-  children:
-    - title: "New service for individuals"
-      url: "/what-we-do/budget/new-services-for-individuals/"
-    - title: "New service for business"
-      url: "/what-we-do/budget/new-services-for-business/"
-    - title: "Trusted Digital Identity Framework"
-      url: "/what-we-do/budget/trusted-digital-identity-framework/"
-    - title: "Better grants administration"
-      url: "/what-we-do/budget/better-grants-administration/"

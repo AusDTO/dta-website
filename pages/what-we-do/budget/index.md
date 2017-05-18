@@ -1,30 +1,29 @@
 ---
 layout: basic
-title: "2015-16 Digital Transformation Agenda Budget initiatives"
-breadcrumb: 2015-16 Budget
+title: "2017–18 Budget measures"
+breadcrumb: 2017-18 Budget
 permalink: /what-we-do/budget/
 redirect_from: /budget/
 localnav: budget
-lede: The Government is investing in the Digital Transformation Agenda (the Agenda) to drive innovation and make it easier for individuals and businesses to access government services.
+lede: An injection of $70m in funding to support ICT and digital measures in the 2017–18 budget will allow us to continue our work to make it easier for all Australians to access digital government services.
 ---
 
-This year’s Budget provides $254.7m over four years from 2015-16 to support the initial implementation of the Agenda. This includes $95.4m to fund the operation of the Digital Transformation Office as well as funding for the implementation of the projects that form stage one of the Agenda. More information can be found in the Minister for Communications, the Hon Malcolm Turnbull’s [media release](http://www.minister.communications.gov.au/malcolm_turnbull/news/investing_in_digital_transformation).
+A total of $70.1 million over the next four years will help us to deliver on stage two of the digital transformation agenda.
 
-Our CEO highlights the transformation in his [2015-16 Budget blog](/blog/the-digital-transformation-agenda-in-the-2015-16-federal-budget/). Further information on stage-one projects is below.
+We have received funding for a number of our programs and products, as well as increased resources to deliver digital government services, over the next four years.
 
-## New services for individuals
-The Government is committed to radically transforming service delivery to Australians. This will be achieved through a number of [new services for individuals](/budget/new-services-for-individuals/), which will make it easier and faster for people to access services across multiple agencies.
+Our [Digital Investment Management Office](https://www.dta.gov.au/what-we-do/policies-and-programs/digital-investment-management-office/) will receive a boost of $1.5 million over three years to continue its work to oversee, review and report on new and existing ICT and digital projects.
 
-## New services for business
-The Government is also committed to making it quicker and more affordable for business to transact with government online and will deliver [new services for business](/budget/new-services-for-business/).
+$15.2 million will go towards the second stage of the government’s [Govpass program](https://www.dta.gov.au/what-we-do/platforms/govpass/), including a platform that will allow Australians to identify themselves easily and safely when using government online services.
 
-The Agenda will also support the implementation of Streamlining Business Registration announced in the [Growing Jobs and Small Business package](http://www.budget.gov.au/2015-16/content/glossy/sml_bus/html/sml_bus-04.htm). This will simplify the process of registering a business.
+$10.7 million will be invested over the next four years to establish and deliver a new cyber security function that will add to our expanded remit to provide government with improved oversight of major ICT investmentment and projects, and to provide advice to departments and agencies.
 
-## The Digital Service Standard
-The [Digital Service Standard](/standard/) will establish a consistent digital-by-design approach to government service delivery. It will apply to all government agencies to make services simpler and easier to use.
+With this new function, we will work with agencies to determine if a major ICT project is properly prepared to deal with cyber security risks. This addresses an important recommendation out of last year’s eCensus review, which found many agencies were struggling to keep up with constantly changing cyber threats. 
 
-## Trusted Digital Identity Framework
-The [Trusted Digital Identity Framework](/budget/trusted-digital-identity-framework/) will provide individuals and businesses with easier ways to access government services through the use of government or private digital identities.
+Several projects have received funding through the government’s Modernisation Fund, a fund that supports reforms delivering government services using leading technologies, and using a collaborative approach.
 
-## Better grants administration
-The [better grants administration](/budget/better-grants-administration/) initiative will streamline and simplify grants administration processes across 12 agencies, making the management of grants simpler and more efficient for government, applicants, and grant recipients.
+Projects supported through the Modernisation Fund includes funding four new platform capabilities – this has received $33.6 million over three years. Work will focus on creating shared platforms that can be used by multiple government agencies. This includes a ‘Tell us Once’ beta, which will deliver on the government’s election commitment where Australians will only need to update their details once. We also continue to work with other agencies on the discovery, alpha and beta phases of other platforms to deliver simpler and faster digital services.
+
+Building digital capability across the public service remains a key focus. An overall spend of $13.9 will be dedicated to attracting, building and retaining digital talent. We will receive $9.3 million and $4.6 million will go to the Australian Public Service Commission. 
+
+You can read more about [the government’s investment in digital government delivery](http://ministers.dpmc.gov.au/taylor/2017/budget-commits-70m-boost-digital-government-delivery), and the [new cyber security function](http://ministers.dpmc.gov.au/taylor/2017/106-million-boost-strengthen-cyber-security-through-dta) to sit within the DTA, in Assistant Minister Taylor’s media statements.
