@@ -4,23 +4,25 @@ category: [blog]
 tag: 'technology'
 author: Jonathan Conway
 author-excerpt: "Front End Developer "
-thumbnail: /images/blog-thumbnails/Privacy-by-design.png
+thumbnail: /images/blog-thumbnails/Accessibility-blog-THUMB.png
 searchexcerpt: "Standards such as the Web Content Accessibility Guidelines (WCAG) are useful tools for building accessible platforms. However, at the DTA, we have been going beyond the guidelines, by ensuring all multidisciplinary team members take responsibility for accessibility. This blog gives some insight into how we create accessible products at the DTA."
 ---
 
 ## Accessibility is everyone’s responsibility
 
-We make the accessibility of our products and services the responsibility of each team member. Whether you are a developer, a researcher or a delivery manager, everyone needs to be thinking about accessibility when they do their work. This ensures that products are accessible from the start, and don’t need to be retrofitted with accessible features. 
+We make the accessibility of our products and services the responsibility of each team member. Whether you are a developer, a researcher or a delivery manager, everyone has a responsibility to do their bit to contribute to accessibility. This ensures that products are accessible from the start, and don’t need to be retrofitted with accessible features. 
 
 ## User research is a team sport
+
+We do user research with a diverse audience, including people with access needs, from the beginning of the project and all the way through. 
 
 Going out and researching how diverse users interact with government services online has given us invaluable insights into accessibility. Through conversations with users, and, by observing where and how they use services – their location, physical space and assistive technology – we build empathy and gain a greater understanding of what accessibility means for them.
 
 User research isn’t just for researchers – all disciplines should participate. At the DTA, designers and developers regularly attend user research sessions with diverse users. In these sessions they can see first-hand how, for example, a blind person or someone from a non-English-speaking background interacts with what they’ve built. By listening, asking questions and observing, they gain an understanding of people’s unique challenges. They can then incorporate this understanding into their work.
 
-In one particular project where we spoke to vision impaired users, we found they often relied on online services due to their limited mobility. They embraced, but equally often struggled with, technology. Users were highly proficient with certain assistive technologies, such as screen-readers, braille-readers and even specially designed, lo-fi equipment such as a cardboard document scanners. However, they also found technology frustrating and challenging. For example, web forms were sometimes difficult to navigate, with certain elements being skipped over and pop-ups appearing that the user wasn’t aware of.
+Even our policy people have learned about how the way they are designing policy can have an impact on the accessibility of the service and make changes to ensure the service is designed to be more accessible from the ground up. Making services less digital and requiring users to produce particular documents can make services less accessible and these changes often need to be addressed in the policy design. 
 
-These learnings were then incorporated back into the service design and development cycle. We began to rethink our designs to support the needs of these users. For example, we looked at adjusting page elements and features to prepare the user for the upcoming task. 
+Learnings from user research are incorporated back into the service design and development cycle. We can rethink our design to support the needs of users with a wide range of access needs. 
 
 ## Accessible design
 
@@ -31,7 +33,7 @@ Some recent examples of accessibility challenges brought to the clinics include:
   - display of focus states using clear visual indicators
   - handling of form errors and validation in a clear, consistent manner
 
-We apply findings from clinics, as well as accessibility research, guidelines and best practices, to the UI Kit, our common pattern library. By doing so, we can work toward consistent and accessible design across all government services.
+We apply findings from clinics, as well as accessibility research, guidelines and best practices, to the [UI Kit](https://gov-au-ui-kit.apps.staging.digital.gov.au/), our common pattern library. By doing so, we can work toward consistent and accessible design across all government services.
 
 ## Accessible technology
 
