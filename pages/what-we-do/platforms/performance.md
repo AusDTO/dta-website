@@ -20,6 +20,7 @@ Each service has a dashboard, which reports its performance against a series of 
 
 Read more about the dashboard in our blogs:
 
+- [The pitfalls of performance measurement](https://www.dta.gov.au/blog/pitfalls-of-performance-measurement/)
 - [Performance Dashboard – Practising what we preach](https://www.dta.gov.au/blog/dashboard-practising-what-we-preach/) 
 - [DTA reports dashboard progress](https://www.dta.gov.au/news/dashboard-progress/)
 - [Performance dashboard — Beta assessment](https://www.dta.gov.au/standard/assessments/performance-dashboard-beta/)
@@ -27,4 +28,5 @@ Read more about the dashboard in our blogs:
 
 ## Links
 
+* [https://dashboard.gov.au/](https://dashboard.gov.au/)
 * Contact: [performance-dashboard@digital.gov.au](mailto:performance-dashboard@digital.gov.au)
