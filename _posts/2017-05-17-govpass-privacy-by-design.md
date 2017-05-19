@@ -3,7 +3,7 @@ title: "Govpass — Privacy by design"
 category: [blog]
 tag: 'digital transformation'
 author: Jacob Suidgeest
-author-excerpt: "James Suidgeest is a Policy Advisor and Privacy Specialist in the Govpass team."
+author-excerpt: "Jacob Suidgeest is a Policy Advisor and Privacy Specialist in the Govpass team."
 thumbnail: /images/blog-thumbnails/Privacy-by-design.png
 searchexcerpt: "DTA is proud to be a partner in this year’s Privacy Awareness Week. Privacy is a core component of Govpass. Jacob Suidgeest, our privacy adviser, explains how the program is putting users’ privacy first."
 ---
