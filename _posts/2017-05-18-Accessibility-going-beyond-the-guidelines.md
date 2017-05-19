@@ -1,5 +1,5 @@
 ---
-title: "Accessibility - going beyond the guidelines"
+title: "Accessibility — going beyond the guidelines"
 category: [blog]
 tag: 'technology'
 author: Jonathan Conway
@@ -71,4 +71,4 @@ Making services accessible to all people, regardless of their physical, sensory 
 
 ------------------
 
-Check out the [Web Content Accessibility Guidelines](https://www.w3.org/WAI/intro/wcag) for how you can ensure you your websites and online services are accessible. 
+Check out the [Web Content Accessibility Guidelines](https://www.w3.org/WAI/intro/wcag) for how you can ensure your websites and online services are accessible. 
