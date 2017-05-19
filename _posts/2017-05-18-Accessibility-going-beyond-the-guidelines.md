@@ -1,5 +1,5 @@
 ---
-title: "Accessibility - going beyond the guidelines"
+title: "Accessibility — going beyond the guidelines"
 category: [blog]
 tag: 'technology'
 author: Jonathan Conway
