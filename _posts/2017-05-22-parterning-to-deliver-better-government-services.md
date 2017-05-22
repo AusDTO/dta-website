@@ -25,7 +25,7 @@ Transforming government service delivery requires adopting new methodologies and
 
 Transforming large organisations, particularly complex government agencies, can take time to get right. This means it can also take time for people using government to see evidence of change. However, there is a larger story playing out behind the scenes that details the progress and change taking place. 
 
-Most large government organisations have well defined structures and processes that dictate how they delivery digital services—these were established well before we landed in the digital age. 
+Most large government organisations have well defined structures and processes that dictate how they deliver digital services — these were established well before we landed in the digital age. 
 
 Projects tend to run along traditional ICT project management lines, in what is known as a waterfall approach. The waterfall approach progresses projects along a linear path. It provides easily identifiable milestones in the development process and is best suited to projects where the requirements and scope are fixed.
 
@@ -39,7 +39,7 @@ DTA staff are currently embedded in the Department of Health and the Department 
 
 Working alongside subject matter experts to do user research, project design and delivery gives the team a chance to learn by doing, and also highlights what changes an agency might need to make to continue working in the new way.
 
-Doing this work in close partnership and onsite in the partner agency gives the tam an opportunity to demonstrate the value of new ways of working to staff and executives close to the project, as they are able to see the benefits first hand.
+Doing this work in close partnership and onsite in the partner agency gives the team an opportunity to demonstrate the value of new ways of working to staff and executives close to the project, as they are able to see the benefits first hand.
 
 ## Building digital capability within government
 
