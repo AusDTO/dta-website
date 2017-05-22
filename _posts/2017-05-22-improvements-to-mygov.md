@@ -12,7 +12,7 @@ hero-image: /images/blog-content/MyGov-laptop-user-HERO-22-05-17-3.jpg
 
 Millions of Australians use myGov to do business with government. So it’s important we find ways to make the user experience as simple, clear and fast as possible. 
 
-Since mid-2016 the Department of Human Services and the DTA have been working together to deliver improvements to myGov. Some of the first changes were rolled out at the end of last year [link to December blog and video], including making it possible for users to sign in with their email address rather than a system generated user name.
+Since mid-2016 the Department of Human Services and the DTA have been working together to deliver improvements to myGov. Some of the first changes were rolled out at the end of [last year](https://www.dta.gov.au/news/digital-steps-to-benefit-users/), including making it possible for users to sign in with their email address rather than a system generated user name.
 
 A new look and feel for the service has now been rolled out. This latest update to the service was shaped by user research, which told us it was difficult to find services, some information was hard to understand, and users wanted to be confident they were on a trusted government site.
 
