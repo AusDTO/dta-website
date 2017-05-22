@@ -2,13 +2,13 @@
 title: "Agency partnership delivers myGov improvements"
 category: [blog]
 tag: 'dta news'
-thumbnail: /images/blog-thumbnails/ICT_blog_sml.jpg
-hero-image: /images/blog-content/ICT_Blog_hero.jpg
+thumbnail: /images/blog-thumbnails/MyGov-laptop-user-THUMB-22-05-17-3.jpg
+hero-image: /images/blog-content/MyGov-laptop-user-HERO-22-05-17-3.jpg
 ---
 
-![Eloise Aitken, ICT graduate stands in front of the Geoscience Australia building.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+![A user navigates the new look myGov on a laptop.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: Eloise Aitken, ICT graduate at Geoscience Australia.*
+*Caption: A user navigates the new look myGov.*
 
 Millions of Australians use myGov to do business with government. So it’s important we find ways to make the user experience as simple, clear and fast as possible. 
 
