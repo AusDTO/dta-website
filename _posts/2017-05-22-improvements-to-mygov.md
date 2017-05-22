@@ -1,6 +1,6 @@
 ---
 title: "Agency partnership delivers myGov improvements"
-category: [blog]
+category: [news]
 tag: 'dta news'
 thumbnail: /images/blog-thumbnails/MyGov-laptop-user-THUMB-22-05-17-3.jpg
 hero-image: /images/blog-content/MyGov-laptop-user-HERO-22-05-17-3.jpg
