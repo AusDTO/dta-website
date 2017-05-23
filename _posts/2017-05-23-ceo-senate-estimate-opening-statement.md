@@ -63,6 +63,9 @@ And we’ll be doing more user research over the coming weeks to see how this ha
 
 This is a brief summary of some of what’s been achieved this year and what our next phase of work entails.
 
-I would like to thank the committee for giving me this opportunity to provide my opening statement and welcome your questions. Also thanks to interim CEO, Nerida O’Loughlin, and the DTA leadership team during this transition period.
+I would like to thank the committee for giving me this opportunity to provide my opening statement and welcome your questions. 
+
+I’d also like to thank Nerida O’Loughlin for her leadership during this transition.
 
 And I ask that you give me some allowance for my first appearance at estimates and permit me to defer questions to my senior executive.
+
