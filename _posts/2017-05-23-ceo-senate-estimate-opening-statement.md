@@ -12,7 +12,8 @@ Chair, I would like to make a brief opening statement.
 
 My name is Gavin Slater and I’m the Chief Executive Officer of the Digital Transformation Agency. Appointed on the 1 May 2017, I’m delighted to have this opportunity to lead the DTA. 
 
-I have a strong interest in digital transformation with 30 years experience working in financial services leading large scale and complex transformation programs that lead to better outcomes for customers.                                                                                                                                                              
+I have a strong interest in digital transformation with 30 years experience working in financial services leading large scale and complex transformation programs that lead to better outcomes for customers. 
+
 I’m looking forward to bringing my skills and experience --- and my passion --- to this role to help to improve services to benefit all Australians and work with my colleagues across government. 
 
 I’ve spent the past couple of weeks on a pathway of discovery about what the DTA is working on and where things are at.
