@@ -10,11 +10,11 @@ hero-image: /images/blog-content/CEO_hero.png
 
 Chair, I would like to make a brief opening statement.
 
-My name is Gavin Slater and I’m the Chief Executive Officer of the Digital Transformation Agency. Appointed 1 May 2017, I’m delighted to have this opportunity to lead the DTA. 
+My name is Gavin Slater and I’m the Chief Executive Officer of the Digital Transformation Agency. Appointed on the 1 May 2017, I’m delighted to have this opportunity to lead the DTA. 
 
-I have a strong interest in digital transformation with 30 years experience working in financial services leading large scale and complex transformation programs that lead to better outcomes for customers. 
-                                                                                                                                                             
+I have a strong interest in digital transformation with 30 years experience working in financial services leading large scale and complex transformation programs that lead to better outcomes for customers.                                                                                                                                                              
 I’m looking forward to bringing my skills and experience — and my passion — to this role to help to improve services to benefit all Australians and work with my colleagues across government. 
+
 I’ve spent the past couple of weeks on a pathway of discovery about what the DTA is working on and where things are at.
 
 There’s still plenty of listening and learning for me to do but I would like to take this opportunity to highlight some of the important work the DTA has been doing across its oversight, policy and delivery roles, and some of our priorities going forward.
@@ -23,7 +23,7 @@ Last week we completed the machinery-of-government process to move across new fu
 
 This completes the establishment of the new DTA with the expanded set of roles and responsibilities agreed by the government in October 2016.
 
-The government has also announced in the 2017–18 budget, that it will invest an additional $70.1 million over four years to drive the second stage of the digital transformation agenda.
+The government has also announced in the 2017-18 budget, that it will invest an additional $70.1 million over four years to drive the second stage of the digital transformation agenda.
 
 This will support our work on shared government platforms, a new cybersecurity function, digital capability building across the public service and continued work on Govpass – our digital identity program.
 
@@ -31,7 +31,7 @@ This gives the DTA the funding and remit to deliver on the government’s digita
 
 I would like to update the committee on some of the DTA’s more recent achievements since it was created seven months ago.
 
-In terms of our oversight and advisory role, the DTA has provided extensive advice to government, departments and agencies on ICT projects through the 2017 – 18 Budget process. 
+In terms of our oversight and advisory role, the DTA has provided extensive advice to government, departments and agencies on ICT projects through the 2017-18 Budget process. 
 
 This has been influential in reshaping projects to ensure they align with the government’s digital transformation agenda.
 
