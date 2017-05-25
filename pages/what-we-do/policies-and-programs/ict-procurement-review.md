@@ -12,6 +12,6 @@ The review taskforce is assessing ICT procurement across government. The final r
 - improve the way government buys ICT good and services
 - make it easier for startups and small and medium businesses to compete for government ICT contracts
 
-[Download the consultation paper (PDF, 14 pages, 836kb](/files/ICT-Procurement-Taskforce-Consultation-Paper-WCAG2.pdf) for more information about the review.
+[Download the consultation paper (PDF, 14 pages, 836kb)](/files/ICT-Procurement-Taskforce-Consultation-Paper-WCAG2.pdf) for more information about the review.
 
 The final report will be delivered to government mid 2017.
