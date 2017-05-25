@@ -5,9 +5,9 @@ permalink: /what-we-do/policies-and-programs/ict-procurement/
 localnav: what-we-do
 ---
 
-Responsibility for some government ICT procurement moved from the Department of Finance to the Digital Transformation Agency in May 2017. This move gives the DTA greater strategic oversight of ICT procurement across government.
+Responsibility for some whole of government ICT procurement moved from the Department of Finance to the Digital Transformation Agency in May 2017. This move gives the DTA greater strategic oversight of ICT procurement across government.
 
-Our role is to set up and oversee arrangements to purchase some of the ICT products and services the government needs. We also provide advice and guidance to government agencies about how to develop sound ICT contracts.
+Our role is to set up and oversee arrangements to purchase some of the ICT products and services to satisfy whole of government needs. We also provide advice and guidance to government agencies about how to develop sound ICT contracts.
 
 ## Coordinated procurement
 
@@ -17,7 +17,7 @@ When the government wants to buy ICT products or services, a tender is put out f
 
 Non-Corporate Commonwealth Entities are required to use coordinated procurement arrangements where they exist.
 
-Below is a list of coordinated procurement panels that we manage.
+We manage the following ICT procurement panels:
 
 - [Data Centre Facilities Panel](http://www.finance.gov.au/policy-guides-procurement/data-centres/data-centre-facilities-panel/)
 - [Data Centre Facilities Supplies Panel](https://www.finance.gov.au/policy-guides-procurement/data-centres/data-centres-facilities-supplies-panel/)
@@ -25,7 +25,8 @@ Below is a list of coordinated procurement panels that we manage.
 - [Microsoft Volume Sourcing Arrangement](http://www.finance.gov.au/policy-guides-procurement/mvsa/) (including the Large Account Reseller Agreement)
 - [Mobile Panel](http://www.finance.gov.au/policy-guides-procurement/australian-government-telecommunications-arrangements/telecommunications-panels/)
 - [Telecommunications Services Panel](http://www.finance.gov.au/policy-guides-procurement/australian-government-telecommunications-arrangements/telecommunications-panels/)
-- [Cloud Services Panel](https://www.finance.gov.au/policy-guides-procurement/cloud-services-panel/)
+
+The DTA also manages the [Cloud Services Panel](https://www.finance.gov.au/policy-guides-procurement/cloud-services-panel/) which government organisations can choose to use.
 
 ## SourceIT model contracts
 
