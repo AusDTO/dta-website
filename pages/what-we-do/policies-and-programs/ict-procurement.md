@@ -33,4 +33,4 @@ Below is a list of coordinated procurement panels that we manage.
 
 ## Reviewing how we buy products and services
 
-We are also reviewing how government buys ICT products and services, and exploring how we can make ICT procurement a simpler and faster process for everyone involved.
+We are also [reviewing how government buys ICT products and services](/what-we-do/policies-and-programs/ict-procurement/ict-procurement-review/), and exploring how we can make ICT procurement a simpler and faster process for everyone involved.
