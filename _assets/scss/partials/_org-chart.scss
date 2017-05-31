@@ -1,0 +1,42 @@
+.org-chart {
+
+  .org-counter {
+    display: block;
+    margin-bottom: 3em;
+    overflow: hidden;
+
+    .org-column {
+      width: 25%;
+      padding-left: 32px;
+      float: left;
+      @media screen and (max-width: $tablet-minwidth) {
+        width: 100%;
+        padding-left: 0;
+
+      }
+      &:first-child {
+        padding-left: 9px;
+      }
+      .org {
+        color: #000;
+        font-weight: 750;
+        font-size: 22px;
+        padding: 0;
+        text-align: left;
+        margin-top: 0;
+
+
+      }
+
+
+      .count {
+        //font-weight: 700;
+        //font-size: 80px;
+        //text-align: center;
+      }
+      .description {
+        font-size: 15px;
+      }
+    }
+  }
+  }
