@@ -52,7 +52,6 @@ The Digital Marketplace is a new way for government (including local government)
 ### Share your project
 
 No matter what stage your project is at, share it with other councils on our [collaboration platform](https://marketplace.service.gov.au/collaborate/project/new){:target="_blank"} and connect with like-minded people building smarter communities. 
-
 <br>
 
 The [Digital Marketplace](https://www.dta.gov.au/what-we-do/platforms/marketplace/) is in beta and we welcome your feedback. 
