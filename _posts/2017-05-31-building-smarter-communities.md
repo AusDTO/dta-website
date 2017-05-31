@@ -6,12 +6,12 @@ author: Catherine Thompson
 author-excerpt: "Catherine Thompson is Head of the Digital Marketpalce at the DTA."
 thumbnail: /images/blog-thumbnails/smartcities_thumb.png
 hero-image: /images/blog-content/smartcities_Hero.png
-searchexcerpt: "The Digital Marketplace has been working with local governments to help build smarter communities around Australia. Service designer Neil Dunbar talks about how local councils can get involved. "
+searchexcerpt: "The Digital Marketplace has been working with local governments to help build smarter communities around Australia. Catherine Thompson talks about how local councils can get involved."
 ---
 
-![A DTA Delivery Manager leading a delivery team at the Department of Human Services.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+![A Map of Australia showing 106 future ready councils, along with sellers involved in the Marketplace.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: A DTA Delivery Manager working with a delivery team at the Department of Human Services.*
+*Caption: A Map of Australia showing councils that are involved in building smarter cities.*
 
 It’s the week of the [Australian Smart Communities Association conference](http://ascaconference.org.au/) in Adelaide and I’m excited to be writing about how the Digital Marketplace is supporting the excellent work of local governments around Australia. 
 
@@ -21,7 +21,7 @@ The research revealed some great ideas about building smarter communities includ
 - continually engaging the people in the community to understand their evolving needs
 - using data to inform and drive change
 - improving services, such as waste management, through technology trials
-- getting buy in and building capability to deliver and scale “smart” projects.
+- getting buy in and building capability to deliver and scale 'smart' projects
 
 ## What are we doing for councils?
 
@@ -47,7 +47,7 @@ urban challenges, take ideas forward and learn from each other. [Register for a 
 
 ### Post a brief on the Digital Marketplace
 
-The Digital Marketplace is a new way for government (including local government) to buy digital services. Currently, about 25% of registered buyers are from local government. Any council can sign up and post a brief on the Digital Marketplace to find [digital expertise](https://marketplace.service.gov.au/digital-marketplace/opportunities/434) or realise a [digital outcome](https://marketplace.service.gov.au/digital-marketplace/opportunities/429). 
+The Digital Marketplace is a new way for government (including local government) to buy digital services. Currently, about 25% of registered buyers are from local government. Any council can [sign up](https://marketplace.service.gov.au/signup) and post a brief on the Digital Marketplace to find [digital expertise](https://marketplace.service.gov.au/digital-marketplace/opportunities/434) or realise a [digital outcome](https://marketplace.service.gov.au/digital-marketplace/opportunities/429). 
 
 ### Share your project
 
@@ -55,4 +55,4 @@ No matter what stage your project is at, share it with other councils on our [co
 
 The [Digital Marketplace](https://www.dta.gov.au/what-we-do/platforms/marketplace/) is in beta and we welcome your feedback. 
 
-The [ASCA conference](https://www.dta.gov.au/what-we-do/platforms/marketplace/) is on from the 29th to the 31st of May in Adelaide.
+The [ASCA conference](http://ascaconference.org.au/){:target="_blank"} is on from the 29th to the 31st of May in Adelaide.
