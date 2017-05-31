@@ -53,8 +53,9 @@ The Digital Marketplace is a new way for government (including local government)
 
 No matter what stage your project is at, share it with other councils on our [collaboration platform](https://marketplace.service.gov.au/collaborate/project/new){:target="_blank"} and connect with like-minded people building smarter communities. 
 
+<br>
+
 The [Digital Marketplace](https://www.dta.gov.au/what-we-do/platforms/marketplace/) is in beta and we welcome your feedback. 
 
-The [ASCA conference](http://ascaconference.org.au/){:target="_blank"} is on from the 29th to the 31st of May in Adelaide.
-
+<br>
 Read the [media release](http://ministers.dpmc.gov.au/taylor/2017/online-platform-councils-collaborate-smart-city-projects){:target="_blank"} from Assistant Minister for Digital Transformation Angus Taylor.
