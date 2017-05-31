@@ -67,7 +67,7 @@ permalink: /who-we-are/organisation-structure/
 
         <h4>Peter Alexander</h4>
 
-        Catherine Thompson, Angela Chow, Drew Andison, Martin Ward, Mundi Tomilson and Jeff Moss
+        Catherine Thompson, Angela Chow, Drew Andison, Martin Ward, Mundi Tomlinson and Jeff Moss
 
         <hr style="border-top: 1px #fff solid; border-bottom:6px #5bcbe3 solid;">
         <ul><li>ICT Procurement</li>
