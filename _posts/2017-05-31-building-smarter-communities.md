@@ -3,7 +3,7 @@ title: "Building smarter communities"
 category: [blog]
 tag: 'digital marketplace'
 author: Catherine Thompson
-author-excerpt: "Catherine Thompson is Head of the [Digital Marketplace](https://www.dta.gov.au/what-we-do/platforms/marketplace/) at the DTA."
+author-excerpt: "Catherine Thompson is Head of the Digital Marketplace at the DTA."
 thumbnail: /images/blog-thumbnails/smartcities_thumb.png
 hero-image: /images/blog-content/smartcities_Hero.png
 searchexcerpt: "The Digital Marketplace has been working with local governments to help build smarter communities around Australia. Catherine Thompson talks about how local councils can get involved."
