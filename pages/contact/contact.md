@@ -62,6 +62,10 @@ For enquiries about the Identity program, please send an email to [identity@digi
 
 For enquiries about the Performance Dashboard, please send an email to [performance-dashboard@digital.gov.au](mailto:performance-dashboard@digital.gov.au).
 
+## ICT procurement
+
+For enquiries about ICT procurement, please send an email to [ictprocurement@dta.gov.au](mailto:ictprocurement@dta.gov.au).
+
 ## Our mailing address
 
 Digital Transformation Agency<br/>
