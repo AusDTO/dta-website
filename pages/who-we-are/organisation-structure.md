@@ -21,7 +21,7 @@ permalink: /who-we-are/organisation-structure/
         <ul><li>Finance, risk and procurement</li>
           <li>People Services</li>
           <li>Business Services and Technology</li>
-          <li>Ministerial and parliamentary, services</li>
+          <li>Ministerial and parliamentary services</li>
         </ul>
         <hr style="border-top: 1px #fff solid; border-bottom:3px #5bcbe3 solid;">
       </div>
@@ -34,10 +34,10 @@ permalink: /who-we-are/organisation-structure/
         <h4>Genine Johnson</h4>
         <br><br><br><br>
         <hr style="border-top: 1px #fff solid; border-bottom:6px #5bcbe3 solid;">
-        <ul><li>Strategy, media and comms</li>
+        <ul><li>Strategy, media and communications</li>
           <li>Reputational management/ horizon scanning</li>
-          <li>Comms products, incl. website</li>
-          <li>Internal comms, events support and DTA brand management</li>
+          <li>Communication products, including website</li>
+          <li>Internal communications, events support and DTA brand management</li>
           <li>DTA engagement project</li>
           <li>Design, AV and multimedia</li>
         </ul>
