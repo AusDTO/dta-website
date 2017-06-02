@@ -64,7 +64,7 @@ For enquiries about the Performance Dashboard, please send an email to [performa
 
 ## ICT procurement
 
-For enquiries about ICT procurement, please send an email to [ictprocurement@dta.gov.au](mailto:ictprocurement@dta.gov.au).
+For enquiries about Australian Government ICT procurement, please send an email to [ictprocurement@dta.gov.au](mailto:ictprocurement@dta.gov.au).
 
 ## Our mailing address
 
