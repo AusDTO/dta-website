@@ -38,7 +38,7 @@ Our offices are at:
 
 ## Digital Marketplace
 
-If you have any questions about the Digital Marketplace, or if you would like to register your interest in being a seller, please email [marketplace@digital.gov.au](mailto:marketplace@digital.gov.au)
+If you have any questions about the Digital Marketplace, or if you would like to register your interest in being a seller, please email [marketplace@digital.gov.au](mailto:marketplace@digital.gov.au).
 
 ## Events and media
 
@@ -61,6 +61,10 @@ For enquiries about the Identity program, please send an email to [identity@digi
 ## Performance Dashboard
 
 For enquiries about the Performance Dashboard, please send an email to [performance-dashboard@digital.gov.au](mailto:performance-dashboard@digital.gov.au).
+
+## ICT procurement
+
+For enquiries about Australian Government ICT procurement, please send an email to [ictprocurement@dta.gov.au](mailto:ictprocurement@dta.gov.au).
 
 ## Our mailing address
 
