@@ -88,7 +88,7 @@ permalink: /who-we-are/organisation-structure/
         <div><div class="org-column">
           <h3  class="org" style="width:200%" class="home-heading">Capability leads</h3>
 
-            <h4 style="width:200%">Jose Del Rio, Leisa Reichelt and Peter Alexander</h4>
+            <h4 style="width:100%">Jose Del Rio, Leisa Reichelt and Peter Alexander</h4>
 
             <hr style="border-top: 1px #fff solid; border-bottom:6px #5bcbe3 solid; width:200%">
             <ul style="width:200%"><li>Technology</li>
