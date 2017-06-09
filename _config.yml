@@ -8,7 +8,6 @@ url: "http://localhost:4000" # bin/cibuild.sh may override this
 permalink: "/:categories/:title/"
 timezone: Australia/Canberra
 twitter: DTA
-google_tag_manager: GTM-KR7JDF
 tag_dir: /tags # for tags pages created by jekyll-archives
 
 # Because there is no way to instantiate an empty array, and we need to merge two filtered
