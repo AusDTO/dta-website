@@ -7,7 +7,7 @@
 //= require 'vendor/URI'
 //= require 'vendor/jquery.lunr.search'
 //= require search
-//= require 'vendor/jquery.scrolldepth.min.js'
+//= require 'vendor/jquery.scrolldepth.min'
 
 //= require assessment-tabs
 //= require site-logo
