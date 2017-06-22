@@ -11,7 +11,7 @@ searchexcerpt: "Earlier in June our accessibility lead Andrew Arch spoke at the 
 
 ![Post-it notes with graphic representations of different disabilities]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: Post-it notes with graphic representations of different disabilities*
+*Caption: Post-it notes with graphic representations of different disabilities.*
 
 Accessibility has been a government priority for many years. 
 
@@ -31,7 +31,7 @@ When we're involved from the start of the project, the benefit is increased. We�
 
 ## The culture of accessibility
 
-If everything we build needs to be accessible, accessibility needs to be part of our culture. his means considering the needs of people with disability throughout the development of a service. Often this also reveals insights into the non-digital side and how they could improve. Again, it's not just the technical requirements we need to think about.
+If everything we build needs to be accessible, accessibility needs to be part of our culture. This means considering the needs of people with disability throughout the development of a service. Often this also reveals insights into the non-digital side and how they could improve. Again, it's not just the technical requirements we need to think about.
 
 Building a culture of accessibility also means making it a priority for all disciplines involved in delivering a service. This includes everything from user research through to content development, interaction and front-end development, as well as usability testing. We discussed this in more detail in last month’s blog: [Accessibility — going beyond the guidelines](https://www.dta.gov.au/blog/Accessibility-going-beyond-the-guidelines/). 
 
@@ -57,4 +57,4 @@ For example:
 
 [12. Don’t forget the non-digital experience](https://www.dta.gov.au/standard/12-non-digital-experience/) – ensure that people who use the digital service have alternatives and that it's easy to switch between.
 
-Including people with disability during all stages of development will ensure all users can interact government, when and where they choose. This is part of our commitment to make government services simple, clearer and faster for everyone.
+Including people with disability during all stages of development will ensure all users can interact with government, when and where they choose. This is part of our commitment to make government services simple, clearer and faster for everyone.
