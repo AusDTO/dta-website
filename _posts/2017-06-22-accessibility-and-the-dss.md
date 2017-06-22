@@ -4,14 +4,14 @@ category: [blog]
 tag: 'digital transformation'
 author: Andrew Arch
 author-excerpt: "Andrew Arch is the lead on accessibility and inclusivity at the DTA."
-thumbnail: /images/blog-thumbnails/smartcities_thumb.png
-hero-image: /images/blog-content/smartcities_Hero.png
+thumbnail: /images/blog-thumbnails/Accessibility_thumb.png
+hero-image: /images/blog-content/Accessibility_hero.png
 searchexcerpt: "Earlier in June our accessibility lead Andrew Arch spoke at the Inclusive Design 24 online event about our move from WCAG 2.0 conformance to user-centred design."
 ---
 
-![A Map of Australia showing 106 future ready councils, along with sellers involved in the Marketplace.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+![Post-it notes with graphic representations of different disabilities]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: A Map of Australia showing councils that are involved in building smarter cities.*
+*Caption: Post-it notes with graphic representations of different disabilities*
 
 Accessibility has been a government priority for many years. 
 
