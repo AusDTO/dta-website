@@ -8,5 +8,8 @@
 //= require 'vendor/jquery.lunr.search'
 //= require search
 
+
 //= require assessment-tabs
 //= require site-logo
+
+//= require 'vendor/jquery.scrolldepth.min'

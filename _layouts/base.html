@@ -36,5 +36,10 @@
 
     <script async type="text/javascript" src="{% asset_path main.js %}"></script>
     {% include analytics.html %}
+    <script>
+       jQuery(function() {
+       jQuery.scrollDepth();
+       });
+    </script>
   </body>
 </html>
