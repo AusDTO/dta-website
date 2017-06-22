@@ -21,7 +21,7 @@ Accessibility must go beyond the technical requirements. As I covered in my pres
 
 The [Digital Service Standard](https://www.dta.gov.au/standard/) has been designed with accessibility as a core focus. It aims to help make government services easier, simpler and faster for all users — including those with disability. By understanding and addressing user needs, we improve the user experience for everyone.
  
-The Digital Standard continues to require WCAG 2.0 conformance for all government digital services. But, it also requires teams to go further.
+The Digital Service Standard continues to require WCAG 2.0 conformance for all government digital services. But, it also requires teams to go further.
 
 ## The Digital Service Standard
 
@@ -45,7 +45,7 @@ There are some criteria which are critical to meeting the needs of people with d
 
 For example:
 
-[1. Understand user needs](https://www.dta.gov.au/standard/1-user-needs/) – include users with different needs. For example, needs arising from disability, cultural diversity, literacy and remoteness. This Discovery research can also reveal issues with the policy behind a service that might need addressing.
+[1. Understand user needs](https://www.dta.gov.au/standard/1-user-needs/) – include users with different needs. For example, needs arising from disability, cultural diversity, literacy and remoteness. This research can also reveal issues with the policy behind a service that might need addressing.
 
 [3. Agile and user-centred process](https://www.dta.gov.au/standard/3-agile-and-user-centred/) – include users with different needs in all stages of development and prototyping.
 
