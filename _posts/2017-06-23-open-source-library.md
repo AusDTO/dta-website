@@ -1,12 +1,12 @@
 ---
-title: "Reducing duplication through collaboration"
+title: "Open Source Collaborating"
 category: [blog]
 tag: 'digital marketplace'
 author: Catherine Thompson
 author-excerpt: "Catherine Thompson is Head of the Digital Marketplace at the DTA."
 thumbnail: /images/blog-thumbnails/Opensource_thumb.png
 hero-image: /images/blog-content/Open_source.png
-searchexcerpt: "The Marketplace is cutting time, cost, waste, and service duplication by making it easier to reuse the great work done by others."
+searchexcerpt: "The Marketplace is cutting time, cost, waste, and service duplication by making it easier to re-use the great work done by others."
 ---
 
 ![An illustration showing books on a shelf]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
@@ -17,7 +17,7 @@ In late May, we released [Collaborate](https://marketplace.service.gov.au/collab
  
 Collaborate is a place for local governments to share and publish their early stage Smart Community projects in order to avoid duplicated effort. It provides an opportunity for councils to learn from each other and to help identify possibilities for closer cooperation. 
  
-Collaborate is a minimum viable product --- a small-scale first-pass at delivering a solution to the challenges identified in our user research around innovation. This research focused on how local governments were creating their Smart Community agendas We found several councils starting similar programs of work with no simple way for them to connect and learn from each other.  
+Collaborate is a minimum viable product --- a small-scale first-pass at delivering a solution to the challenges identified in our user research around innovation. This research focused on how local governments were creating their Smart Community agendas. We found several councils starting similar programs of work with no simple way for them to connect and learn from each other.  
  
 This got us thinking about the valuable services, features and designs that have already been developed by digital teams in government, and how we could make them available for reuse by other teams. We believe there’s value in being able to reuse services, plug-ins, APIs, design templates and even user research --- this is the gold we want to mine. 
  
@@ -31,7 +31,7 @@ The many benefits of this approach include:
  
 - **dramatically reducing time to see value** --- our own Marketplace used open source code from the UK to deliver a transacting platform in just five weeks --- five months ahead of the original schedule
  
-- **reducing effort through adaptive re-use** --- existing services can be efficiently re-purposed for new uses. For example, the citizenship interview booking service we feature started life as a tool for scheduling  prison appointments. It’s suitable for many other applications of agreeing people, place, and time
+- **reducing effort through adaptive re-use** --- existing services can be efficiently repurposed for new uses. For example, the citizenship interview booking service we feature started life as a tool for scheduling  prison appointments. It’s suitable for many other applications of agreeing people, place, and time
  
 - **boosting capability and learning** --- studying how other teams have worked through their challenge can really help new projects conquer their learning curve on new projects
  
