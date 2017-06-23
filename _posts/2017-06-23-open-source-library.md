@@ -1,5 +1,5 @@
 ---
-title: "Open Source Collaborating"
+title: "Open source collaborating"
 category: [blog]
 tag: 'digital marketplace'
 author: Catherine Thompson
@@ -43,7 +43,7 @@ We launched [the library](https://marketplace.service.gov.au/collaborate/code) t
  
 Some of the things we’re showcasing initially are: 
 - popular GovCMS design templates
-- an appointment booking service developed by the DTO
+- an appointment booking service 
 - hard rubbish collection and pet registration services developed by the City of Casey
 - an early stage version of the design templates in the DTA’s UI-Kit.
 
