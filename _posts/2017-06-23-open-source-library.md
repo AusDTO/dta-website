@@ -4,14 +4,14 @@ category: [blog]
 tag: 'digital marketplace'
 author: Catherine Thompson
 author-excerpt: "Catherine Thompson is Head of the Digital Marketplace at the DTA."
-thumbnail: /images/blog-thumbnails/Accessibility_thumb.png
-hero-image: /images/blog-content/Accessibility_hero.png
+thumbnail: /images/blog-thumbnails/Opensource_thumb.png
+hero-image: /images/blog-content/Open_source.png
 searchexcerpt: "The Marketplace is cutting time, cost, waste, and service duplication by making it easier to reuse the great work done by others."
 ---
 
-![Post-it notes with graphic representations of different disabilities]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+![An illustration showing books on a shelf]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: Post-it notes with graphic representations of different disabilities.*
+*Caption: An illustration showing books on a shelf.*
 
 In late May, we released [Collaborate](https://marketplace.service.gov.au/collaborate). 
  
