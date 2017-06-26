@@ -92,14 +92,27 @@ You will also have the opportunity to participate in networking events where you
 
 In addition, you will participate in training activities that will provide you with the skills and knowledge you need to become a high performing Australian Government employee.
 
+### Participating agencies
+
+Agencies participating on the Program in 2018 include:
+
+- Bureau of Meteorology (Melbourne)
+- Commonwealth Director of Public Prosecutions (Sydney and Melbourne) 
+- Department of Agriculture (Canberra)
+- Department of Defence - Australian Signals Directorate (Canberra)
+- Department of Human Services (Canberra and Adelaide)
+- Department of Immigration and Border Protection (Canberra)
+
+This is a live list and may be updated throughout the application process. Check back for updates!
+
 ### How do I apply?
 
 To apply you must:
 - be an Australian Citizen
-- have completed your Year 12 Certificate or equivalent by January 2017
+- have completed your Year 12 Certificate or equivalent by January 2018
 - be able to pass a security assessment.
 
-Applications for the 2017 Program are now closed. Applications for the 2018 program will be open in June 2017.
+Applications for the 2018 Program will open on 26 June 2017.
 
 ## Australian Government ICT Cadetship Program
 
@@ -134,15 +147,28 @@ You will also have the opportunity to participate in networking events where you
 
 In addition, you will participate in training activities that will provide you with the skills and knowledge you need to become a high performing Australian Government employee.
 
+### Participating agencies
+
+Agencies participating on the Program in 2018 include:
+
+- Australian Securities and Investments Commission (Sydney)
+- Department of Defence - Australian Signals Directorate (Canberra)
+- Department of Defence - Chief Information Officers Group (Canberra)
+- Department of Human Services (Canberra and Adelaide)
+- Department of Immigration and Border Protection (Canberra)
+- Department of Social Services (Canberra)
+
+This is a live list and may be updated throughout the application process. Check back for updates!
+
 ### How do I apply?
 
 To apply you must:
 - be an Australian Citizen
-- have completed the first year (full-time equivalent) of your undergraduate degree in ICT, or your undergraduate degree with an ICT major, by January 2017
+- have completed the first year (full-time equivalent) of your undergraduate degree in ICT, or your undergraduate degree with an ICT major, by January 2018
 - be able to complete your university studies in a minimum of 18 months and a maximum of 3 years
 - be able to pass a security assessment.
 
-Applications for the 2017 Program are now closed.  Applications for the 2018 program will open in June 2017.
+Applications for the 2018 Program will open 26 June 2017.
 
 ## Australian Government ICT Graduate Program
 
