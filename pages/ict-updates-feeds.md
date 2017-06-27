@@ -11,6 +11,6 @@ Add our RSS feed to your reader to keep up to date with our latest news and upda
 
 
 
-[Subscribe to all RSS feeds]({{site.url}}{{site.baseurl}}/feed)
+[Subscribe to all RSS feeds]({{site.url}}{{site.baseurl}}/feeds)
 
 
