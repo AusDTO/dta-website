@@ -17,7 +17,7 @@ localnav: what-we-do
 
 <h2>Latest news and updates</h2>
 
-<a class="rss" href="{{ "/ict-updates-feeds/" | prepend: site.baseurl }}">Add news and updates to your RSS feed</a>
+<a class="rss" href="{{ "/what-we-do/policies-and-programs/ict-procurement/ict-procurement-updates/ict-updates-feeds/" | prepend: site.baseurl }}">Add news and updates to your RSS feed</a>
 
 
 <ul class="list-horizontal">
