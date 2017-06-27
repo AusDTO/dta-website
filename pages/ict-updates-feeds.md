@@ -9,6 +9,8 @@ Add our RSS feed to your reader to keep up to date with our latest news and upda
 
 [{{site.url}}{{site.baseurl}}/feed-ict-procurement.xml]({{site.url}}{{site.baseurl}}/feed-ict-procurement.xml)
 
+[See all our RSS feeds]({{site.url}}{{site.baseurl}}/feed)
+
 You can also use a feed for another specific [category]({{site.baseurl}}/tags/):
 
 <ul>
