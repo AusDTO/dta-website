@@ -7,7 +7,7 @@ permalink: /what-we-do/policies-and-programs/ict-procurement/ict-updates-feed/
 
 Add our RSS feed to your reader to keep up to date with our latest news and updates on ICT procurement.
 
-[{{site.url}}{{site.baseurl}}/feed.xml]({{site.url}}{{site.baseurl}}/feed-ict-procurement.xml)
+[{{site.url}}{{site.baseurl}}/feed-ict-procurement.xml]({{site.url}}{{site.baseurl}}/feed-ict-procurement.xml)
 
 You can also use a feed for another specific [category]({{site.baseurl}}/tags/):
 
