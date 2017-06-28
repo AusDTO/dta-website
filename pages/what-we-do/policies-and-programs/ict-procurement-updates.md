@@ -34,7 +34,7 @@ localnav: what-we-do
 </ul>
 
 
-  <a class="see-more" href="{{site.baseurl}}/what-we-do/policies-and-programs/ict-procurement/ict-procurement-updates/all-ict-updates/">See all updates</a>
+  <a class="see-more" href="{{site.baseurl}}/what-we-do/policies-and-programs/ict-procurement/ict-procurement-updates/all-updates/">See all updates</a>
 
 
 </article>
