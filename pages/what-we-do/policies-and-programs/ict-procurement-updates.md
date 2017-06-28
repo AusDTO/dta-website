@@ -12,7 +12,7 @@ localnav: what-we-do
 
 <h2>Contact us</h2>
 
-<p>If you have any questions or feedback you can contact the ICT procurement team at <a href="mailto:ICTProcurement@dta.gov.au">ICTProcurement@dta.gov.au</a>. </p>
+<p>If you have any questions or feedback you can contact the ICT procurement team at <a href="mailto:ictprocurement@dta.gov.au">ictprocurement@dta.gov.au</a>. </p>
 
 <h2>Latest news and updates</h2>
 
