@@ -1,6 +1,8 @@
 ---
+title: DTA organisation structure
 layout: base
 permalink: /who-we-are/organisation-structure/
+searchexcerpt: "Please find an overview of high-level organisation structure of DTA."
 ---
 <article id="content" class="content-listing home">
 <header class="about-dta">
