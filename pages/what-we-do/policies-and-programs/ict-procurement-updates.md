@@ -6,7 +6,7 @@ permalink: /what-we-do/policies-and-programs/ict-procurement/ict-procurement-upd
 localnav: what-we-do
 ---
 
-<article  id="content" class="content-main">
+<article  id="content">
 
 <p>Here you can find news and updates about ICT procurement. We will share information about changes to panels, opportunities to join, and requests for your feedback.</p>
 
