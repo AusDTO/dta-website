@@ -2,6 +2,7 @@
 title: "A new approach to ICT procurement"
 tag: 'ict-procurement'
 author: Sample content
+category: ict-procurement
 author-excerpt: "Testing at the Digital Transformation Agency." 
 searchexcerpt: "Cloud has a lot to offer government. Greater data storage capacity, cost savings, convenience and increased flexibility for running ICT services are just a few potential benefits. At the DTA, we’ve started a discovery process to develop a strategy that will help government agencies choose cloud technologies, if and when appropriate."
 ---
