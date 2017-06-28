@@ -13,7 +13,7 @@ searchexcerpt: "White box? Grey box? Black box? What exactly do these terms mean
 
 *Caption: White Grey Black.*
 
-If you have ever been a consumer of [security testing](https://www.dta.gov.au/tags/technology/) services, you may have heard the terms white box, grey box and black box. Did you ever wonder what these meant? Or how choosing one ‘box’ over another could impact final results?
+If you have ever been a consumer of [security testing](https://www.dta.gov.au/blog/what-is-security-testing/) services, you may have heard the terms white box, grey box and black box. Did you ever wonder what these meant? Or how choosing one ‘box’ over another could impact final results?
 
 In this blog post I’ll try to shine a light on what these terms mean in the context of security testing, provide some guidance about which ‘box’ is best for you and explain our preference in this area at DTA.
 
@@ -90,9 +90,9 @@ Organisations who are new to technical security assessments should carefully wei
 
 The second reason I advise against a black box test in the first instance is that there are significant differences in approach between an ‘evil hacker’ and an ‘ethical hacker’ which could impact on the ability to get results.  Some of the most relevant differences are:
 
-- an evil hacker does not need to be careful when assessing your system. They can try risky things without caring about the consequences. An ethical hacker has to be careful
-- an evil hacker can spend as much time as they want trying to break into a system. An ethical hacker only has a limited amount of time to test each system
-- an evil hacker finding a vulnerability in your system is bad – they will use it against you. An ethical hacker finding a vulnerability in your system is good – they will tell you about it and help fix it. In other words, you DO want ethical hackers to find vulnerabilities, so you should make it easy for them.
+- An evil hacker does not need to be careful when assessing your system. They can try risky things without caring about the consequences. An ethical hacker has to be careful.
+- An evil hacker can spend as much time as they want trying to break into a system. An ethical hacker only has a limited amount of time to test each system.
+- An evil hacker finding a vulnerability in your system is bad – they will use it against you. An ethical hacker finding a vulnerability in your system is good – they will tell you about it and help fix it. In other words, you DO want ethical hackers to find vulnerabilities, so you should make it easy for them.
 
 ### We want to maintain strict control over our code/documentation/design diagrams!
 
