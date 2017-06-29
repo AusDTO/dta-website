@@ -2,7 +2,8 @@
 layout: basic
 title: All ICT procurement updates
 localnav: what-we-do
-permalink: /what-we-do/policies-and-programs/ict-procurement/ict-procurement-updates/all-updates/
+permalink: /what-we-do/policies-and-programs/ict-procurement/updates/all/
+breadcrumb: All
 ---
 
 <ul class="list-horizontal">
