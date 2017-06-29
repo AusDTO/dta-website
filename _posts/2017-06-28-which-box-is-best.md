@@ -90,9 +90,9 @@ Organisations who are new to technical security assessments should carefully wei
 
 The second reason I advise against a black box test in the first instance is that there are significant differences in approach between an ‘evil hacker’ and an ‘ethical hacker’ which could impact on the ability to get results.  Some of the most relevant differences are:
 
-- An evil hacker does not need to be careful when assessing your system. They can try risky things without caring about the consequences. An ethical hacker has to be careful.
-- An evil hacker can spend as much time as they want trying to break into a system. An ethical hacker only has a limited amount of time to test each system.
-- An evil hacker finding a vulnerability in your system is bad – they will use it against you. An ethical hacker finding a vulnerability in your system is good – they will tell you about it and help fix it. In other words, you DO want ethical hackers to find vulnerabilities, so you should make it easy for them.
+- an evil hacker does not need to be careful when assessing your system. They can try risky things without caring about the consequences. An ethical hacker has to be careful
+- an evil hacker can spend as much time as they want trying to break into a system. An ethical hacker only has a limited amount of time to test each system
+- an evil hacker finding a vulnerability in your system is bad – they will use it against you. An ethical hacker finding a vulnerability in your system is good – they will tell you about it and help fix it. In other words, you DO want ethical hackers to find vulnerabilities, so you should make it easy for them.
 
 ### We want to maintain strict control over our code/documentation/design diagrams!
 
