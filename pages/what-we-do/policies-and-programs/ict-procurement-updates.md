@@ -4,6 +4,7 @@ layout: basic
 searchexcerpt: Get the latest updates about ICT procurement for the Australian Government.
 permalink: /what-we-do/policies-and-programs/ict-procurement/updates/
 localnav: what-we-do
+breadcrumb: Updates
 ---
 
 <article  id="content">
