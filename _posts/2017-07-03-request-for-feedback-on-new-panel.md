@@ -2,11 +2,9 @@
 title: "Request for feedback on a new Software Licensing and Services Panel"
 category: [ict-procurement-update]
 tag: 'ict-procurement'
-searchexcerpt: "From March 2018, non-corporate Commonwealth entities will be required to use the Microsoft Licensing category of the panel if they choose to purchase Microsoft software. The panel category will replace the existing reseller arrangement for Microsoft licensing that is due to expire in March 2018."
+searchexcerpt: "The Digital Transformation Agency (DTA) is setting up a Software Licensing and Services Panel to help software providers sell to government."
 localnav: what-we-do
 ---
-
-The Digital Transformation Agency (DTA) is setting up a Software Licensing and Services Panel to help software providers sell to government.
 
 Initially, the panel will have one category – Microsoft Licensing. In the future, more categories will be added for other software licensing and related services.
 
