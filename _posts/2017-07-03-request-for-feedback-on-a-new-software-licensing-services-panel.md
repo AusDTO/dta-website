@@ -22,7 +22,7 @@ The panel will also be available for government business enterprises and state a
 Thank you to the agencies that have already provided feedback on the first drafts of the statement of requirements and head agreement. 
 
 We would now like to invite anyone to submit feedback before the documents are finalised. Please have a read of the documents below and
-[submit your comments here](https://www.surveymonkey.net/r/Preview/?sm=Z5y2k_2BA0nVzTwTAcr6ENrNxa3UANH8OKUqsJoj6SSno5ooUwvWzPYKPzEhXYfWpx) by 5pm (AEST) on 14th July 2017.
+[submit your comments here](https://www.surveymonkey.com/r/26R6RSN) by 5pm (AEST) on 14th July 2017.
 - Statement of requirements
 - Head agreement
 
