@@ -49,6 +49,6 @@ Large scale studies including surveys, focus groups and random control trials (p
  
 Both qualitative and quantitative research is important and necessary, but in service design, we should always start with rich, qualitative insights.
 
-## Join the Service Design Community 
+### Join the Service Design Community 
 
 If you’d like to talk more about this with many others who work in government and care about user research and design, please join the DTA’s service design community.
