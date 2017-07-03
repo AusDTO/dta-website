@@ -4,14 +4,14 @@ category: [blog]
 tag: 'digital transformation'
 author: Leisa Reichelt
 author-excerpt: "Leisa Reichelt is the Head of Service Design at the Digital Transformation."
-thumbnail: /images/blog-thumbnails/whitegreyblack_thumb.png
-hero-image: /images/blog-content/whitegreyblack_hero.png
-searchexcerpt: "Research is not a new phenomenon in government. When you start a new project it is very  possible that there is a wheelbarrow-full of previous, relevant research for you to review. Most policy, for example, is evidence based. Similarly when it comes to service delivery, there is often no shortage of research – often in the form of market research."
+thumbnail: /images/blog-thumbnails/Pony-Thumb.png
+hero-image: /images/blog-content/Pony-Hero.png
+searchexcerpt: "Research is not a new phenomenon in government. When you start a new project it is very possible that there is a wheelbarrow-full of previous, relevant research for you to review. Most policy, for example, is evidence based. Similarly when it comes to service delivery, there is often no shortage of research – often in the form of market research."
 ---
 
-![]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+![An illustration of a pony with a rainbow coloured mane.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: White Grey Black.*
+*Caption: 'I want a pony' – a demonstration of a want, not a need.*
 
 ## Market research goes wide not deep
 
