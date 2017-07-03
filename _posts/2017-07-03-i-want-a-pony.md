@@ -51,4 +51,4 @@ Both qualitative and quantitative research is important and necessary, but in se
 
 ### Join the Service Design Community 
 
-If you’d like to talk more about this with many others who work in government and care about user research and design, please join the DTA’s service design community.
+If you’d like to talk more about this with many others who work in government and care about user research and design, please [join the DTA’s service design community](https://digitalservicestandardaus.tumblr.com/).
