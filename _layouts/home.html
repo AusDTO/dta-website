@@ -13,18 +13,9 @@ layout: base
   <section>
     <h2 class="home-heading">Latest news and blog posts</h2>
     <ul class="list-vertical--fourths">
-      {% assign blog-and-news-posts = site.empty-array %}
-        {% for post in site.posts %}
-          {% if post.categories contains 'blog' %}
-          {% assign blog-and-news-posts = blog-and-news-posts | push: post %}
-          {% elsif post.categories contains 'news' %}
-          {% assign blog-and-news-posts = blog-and-news-posts | push: post %}
-          {% endif %}
-        {% endfor %}
-
-        {% for post in blog-and-news-posts limit:8 %}
-          {% include latest-post-list-item.html post=post show-category=1 %}
-        {% endfor %}
+      {% for post in site.posts limit:8 %}
+        {% include latest-post-list-item.html post=post show-category=1 %}
+      {% endfor %}
     </ul>
     <p><a class="see-more" href="/news/">See more news</a></p>
     <p><a class="see-more" href="/blog/">See more blog posts</a></p>

@@ -14,7 +14,6 @@ breadcrumb_type: post
     <div class="post-meta">
       <p>{% if blog %}{{ page.author }} &mdash; {% endif %}{{ page.date | date: "%b %-d, %Y" }}</p>
       {% if page.tags.size > 0 %}
-      {% unless page.categories contains 'ict-procurement-update' %}
       <div class="tags">
         <dl>
           <dt>Tags:</dt>
@@ -26,7 +25,6 @@ breadcrumb_type: post
           {% endfor %}
         </dl>
       </div>
-      {% endunless %}
       {% endif %}
     </div>
   </header>

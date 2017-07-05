@@ -14,6 +14,4 @@ The review taskforce is assessing ICT procurement across government. The final r
 
 [Download the consultation paper (PDF, 14 pages, 836kb)](/files/ICT-Procurement-Taskforce-Consultation-Paper-WCAG2.pdf) for more information about the review.
 
-Any questions can be sent to [ictprocurement@dta.gov.au](mailto:ictprocurement@dta.gov.au)
-
 The final report will be delivered to government mid 2017.

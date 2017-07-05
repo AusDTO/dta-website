@@ -9,8 +9,6 @@ Responsibility for some whole of government ICT procurement moved from the Depar
 
 Our role is to set up and oversee arrangements to purchase some of the ICT products and services to satisfy whole of government needs. We also provide advice and guidance to government agencies about how to develop sound ICT contracts.
 
-[See ICT procurement updates](/what-we-do/policies-and-programs/ict-procurement/updates/)
-
 ## Coordinated procurement
 
 We identify opportunities where government agencies can pool resources to buy products and services through a [coordinated procurement arrangement](https://www.finance.gov.au/procurement/wog-procurement/coordinated-procurement.html). This makes it easier and cheaper for agencies to buy ICT products and services.
