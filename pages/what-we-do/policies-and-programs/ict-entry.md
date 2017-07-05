@@ -102,6 +102,7 @@ Agencies participating on the Program in 2018 include:
 - Department of Defence - Australian Signals Directorate (Canberra)
 - Department of Human Services (Canberra and Adelaide)
 - Department of Immigration and Border Protection (Canberra)
+- Australian Federal Police (Canberra)
 
 This is a live list and may be updated throughout the application process. Check back for updates!
 
