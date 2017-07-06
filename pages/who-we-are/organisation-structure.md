@@ -6,9 +6,7 @@ searchexcerpt: "Please find an overview of high-level organisation structure of 
 ---
 
 
-<header class="about-dta">
-<h1>DTA organisation structure</h1>
-</header>
+## DTA organisation structure
 
 ![Image showing the DTA organisation structure as on 1 July 2017](/images/DTA_Org_chart_2017_July.png)
 
