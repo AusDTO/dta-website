@@ -1,8 +1,8 @@
 ---
 title: DTA organisation structure
 layout: base
-permalink: /who-we-are/organisation/
-searchexcerpt: "Please find an overview of high-level organisation structure of DTA as on 1 July 2017."
+permalink: /who-we-are/organisation-structure/
+
 ---
 
 
