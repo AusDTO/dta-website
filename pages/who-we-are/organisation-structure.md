@@ -3,6 +3,7 @@ title: DTA organisation structure
 layout: base
 permalink: /who-we-are/organisation-structure/
 ---
+<article id="content" class="content-listing home">
 
 ## DTA organisation structure
 
@@ -10,3 +11,4 @@ permalink: /who-we-are/organisation-structure/
 
 Download: [DTA organisation chart (PDF 148kb)](/files/DTA_Orgchart_2017_July.pdf)
 
+</article>
