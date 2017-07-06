@@ -33,4 +33,7 @@ The official approach to market for the Software Licensing and Services Panel wi
 You must be an approved Microsoft Licensing Solutions Provider to be appointed to the Microsoft Licensing category of the panel.
 
 
+&nbsp; 
+
+&nbsp;
 If you are unable to access any of the links above, or need help with access, please contact us at [ictprocurement@dta.gov.au](mailto:ictprocurememnt@dta.gov.au)
