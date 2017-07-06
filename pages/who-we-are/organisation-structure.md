@@ -2,9 +2,7 @@
 title: DTA organisation structure
 layout: base
 permalink: /who-we-are/organisation-structure/
-
 ---
-
 
 ## DTA organisation structure
 
