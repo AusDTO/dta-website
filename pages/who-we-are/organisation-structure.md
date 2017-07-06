@@ -10,7 +10,7 @@ permalink: /who-we-are/organisation-structure/
 ## DTA organisation structure
 
 
-![Image showing the DTA organisation structure as on 1 July 2017](/images/Orgchart_July_17.svg)
+![Image showing the DTA organisation structure as on 1 July 2017](/images/DTA_Org_chart_2017_July.png)
 
 
 Download: [DTA organisation chart (PDF 148kb)](/files/DTA_Orgchart_2017_July.pdf)
