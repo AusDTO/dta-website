@@ -31,3 +31,6 @@ We would now like to invite anyone to submit feedback before the documents are f
 The official approach to market for the Software Licensing and Services Panel will be available on AusTender from late July 2017. [Register with AusTender](https://www.tenders.gov.au/){:target="_blank"} for updates.
 
 You must be an approved Microsoft Licensing Solutions Provider to be appointed to the Microsoft Licensing category of the panel.
+
+
+If you are unable to access any of the links above, or need help with access, please contact us at [ictprocurement@dta.gov.au](mailto:ictprocurememnt@dta.gov.au)
