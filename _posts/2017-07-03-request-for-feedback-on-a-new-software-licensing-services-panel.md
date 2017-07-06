@@ -35,6 +35,5 @@ You must be an approved Microsoft Licensing Solutions Provider to be appointed t
 
 &nbsp; 
 
-&nbsp;
 
 If you are unable to access any of the links above, or need help with access, please contact us at [ictprocurement@dta.gov.au](mailto:ictprocurememnt@dta.gov.au)
