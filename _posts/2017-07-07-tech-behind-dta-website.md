@@ -27,7 +27,7 @@ WARNING: it’s about to get technical
 
 ## The tech behind the site 
 
-The DTA website is built with [Jekyll](https://jekyllrb.com/) — an open source static website generator. The site content is mostly written in [markdown](https://en.wikipedia.org/wiki/Markdown). Jekyll only runs whenever the content changes, and it generates a set of HTML, CSS and JavaScript files. These files are easily hosted on a basic web server.
+The DTA website is built with [Jekyll](https://jekyllrb.com/) — an open source static website generator. The site content is mostly written in [Markdown](https://en.wikipedia.org/wiki/Markdown). Jekyll only runs whenever the content changes, and it generates a set of HTML, CSS and JavaScript files. These files are easily hosted on a basic web server.
 
 We have found this simple tech approach to be very cheap compared to the alternatives, but is still powerful enough to suit our publishing needs.
 
@@ -63,7 +63,7 @@ The DTA website is hosted on [cloud.gov.au](https://www.dta.gov.au/what-we-do/pl
 
 Cloud.gov.au has an API which allows deployments to be entirely automated. We specify the [static build pack](http://docs.cloudfoundry.org/buildpacks/staticfile/index.html) in our [manifest file](https://github.com/AusDTO/dta-website/blob/develop/manifest-production.yml), and the platform takes care of provisioning a server and inserting the built website files. This means our exposure to security attacks is minimised, and we do not have to spend time regularly applying platform updates.
 
-We use [Cloudfront](https://github.com/AusDTO/dta-website/blob/develop/manifest-production.yml) as our content delivery network, and requests are routed to a HTTPS termination layer on cloud.gov.au before being forwarded to our web server.
+We use [Cloudfront](https://aws.amazon.com/cloudfront/) as our content delivery network, and requests are routed to a HTTPS termination layer on cloud.gov.au before being forwarded to our web server.
 
 ## Testing
 
@@ -83,7 +83,7 @@ A static site on its own has limitations, but this is where external services ar
 - [Recruiterbox](https://recruiterbox.com/) for showing [our open jobs](https://www.dta.gov.au/who-we-are/corporate/jobs/)
 - [Google Apps Script](https://www.google.com/script/start/) for receiving form submissions
 
-Site search is something you might expect to be an external service, but we use [client-side JavaScript](https://www.google.com/script/start/). We could improve our search with an external service, but for our current usage this is free and fast.
+Site search is something you might expect to be an external service, but we use [client-side JavaScript](https://github.com/slashdotdash/jekyll-lunr-js-search). We could improve our search with an external service, but for our current usage this is free and fast.
 
 ## Things we’ve learnt
 
