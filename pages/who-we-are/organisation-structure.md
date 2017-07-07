@@ -11,7 +11,7 @@ searchexcerpt: "Please find the DTA organisation chart as on 1 July 2017."
 
 
 
-![Image showing the DTA organisation structure as on 1 July 2017](/images/DTA_Org_chart_2017_July.png)
+![Image showing the DTA organisation structure as on 1 July 2017](/images/Orgchart_July_17.svg)
 
 
 
