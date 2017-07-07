@@ -2,7 +2,7 @@
 title: DTA organisation structure
 layout: base
 permalink: /who-we-are/organisation-structure/
-searchexcerpt: "Please find the DTA organisation chart as on 1 July 2017."
+searchexcerpt: "Find the DTA organisation chart as on 1 July 2017."
 ---
 
 <article id="content" class="content-listing home" markdown="1">
