@@ -11,7 +11,7 @@ searchexcerpt: "The DTA website is an important part of our online presence. But
 
 ![An illustration of a pony with a rainbow coloured mane.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: 'I want a pony' – a demonstration of a want, not a need.*
+*Caption: Extract of HTML source code from the DTA website.*
 
 The technical needs for our [website](https://www.dta.gov.au/) are relatively simple. We took a minimum viable product (MVP) approach to development – creating a simple static site – with a view that we would iterate and evolve the website as the DTA grows.
 
