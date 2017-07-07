@@ -13,7 +13,7 @@ searchexcerpt: "The DTA website is an important part of our online presence. But
 
 *Caption: Extract of HTML source code from the DTA website.*
 
-The technical needs for our [website](https://www.dta.gov.au/) are relatively simple. We took a minimum viable product (MVP) approach to development – creating a simple static site – with a view that we would iterate and evolve the website as the DTA grows.
+The technical needs for our [website](https://www.dta.gov.au/) are relatively simple. We took a minimum viable product (MVP) approach to development --- creating a simple static site --- with a view that we would iterate and evolve the website as the DTA grows.
 
 Our site needs to be able to:
 - allow publishing of simple, informative content
@@ -23,11 +23,11 @@ Our site needs to be able to:
 
 We’ve found that a simple static site meets our needs for the moment and is cheap, fast, secure, and easy to work with.
 
-WARNING: it’s about to get technical 
+WARNING: it’s about to get technical. 
 
 ## The tech behind the site 
 
-The DTA website is built with [Jekyll](https://jekyllrb.com/) — an open source static website generator. The site content is mostly written in [Markdown](https://en.wikipedia.org/wiki/Markdown). Jekyll only runs whenever the content changes, and it generates a set of HTML, CSS and JavaScript files. These files are easily hosted on a basic web server.
+The DTA website is built with [Jekyll](https://jekyllrb.com/) --- an open source static website generator. The site content is mostly written in [Markdown](https://en.wikipedia.org/wiki/Markdown). Jekyll only runs whenever the content changes, and it generates a set of HTML, CSS and JavaScript files. These files are easily hosted on a basic web server.
 
 We have found this simple tech approach to be very cheap compared to the alternatives, but is still powerful enough to suit our publishing needs.
 
@@ -35,13 +35,13 @@ We have found this simple tech approach to be very cheap compared to the alterna
 
 The DTA website is styled using the [UI-Kit](https://github.com/AusDTO/gov-au-ui-kit) and the [DTA Design Guide](http://guides.service.gov.au/design-guide/). 
 
-The UI-Kit is a whole-of-government toolkit being created by the DTA to provide government with a set of accessible web components to use on their websites. Agencies can use it instead of creating custom designs and styles for their sites — the intention is to create more consistency across government sites. It is designed to meet high accessibility standards required for the [Digital Service Standard](https://www.dta.gov.au/standard/). 
+The UI-Kit is a whole-of-government toolkit created by the DTA to provide government with a set of accessible web components to use on their websites. Agencies can use it instead of creating custom designs and styles for their sites --- the intention is to create more consistency across government sites. It is designed to meet high accessibility standards required for the [Digital Service Standard](https://www.dta.gov.au/standard/). 
 
-We still sometimes need to write our own CSS, but the UI-Kit gives us an easy to use starting point
+We still sometimes need to write our own CSS, but the UI-Kit gives us an easy to use starting point.
 
 ## Publishing content 
 
-For our MVP static site we do not have a content management system (CMS). The website source files are stored on [GitHub](https://github.com/), a code hosting platform with powerful collaboration tools used across all DTA delivery teams. Our publishers work in [Markdown](https://daringfireball.net/projects/markdown/), using the GitHub web interface.
+For our MVP static site we do not have a content management system (CMS). The website source files are stored on [GitHub](https://github.com/), a code hosting platform with powerful collaboration tools used across all DTA delivery teams. Our publishers mostly work in [Markdown](https://daringfireball.net/projects/markdown/), using the GitHub web interface.
 
 We use a [public repository on GitHub](https://github.com/AusDTO/dta-website) and our publishing workflow is based around [branches](https://www.atlassian.com/git/tutorials/using-branches). This allows us to track all changes made to the site, and the use of branches helps us to isolate and preview changes before they are published. 
 
@@ -59,7 +59,7 @@ Our website is a Commonwealth record and needs to be managed in accordance with 
 
 ## Hosting our site — cloud.gov.au
 
-The DTA website is hosted on [cloud.gov.au](https://www.dta.gov.au/what-we-do/platforms/cloud/) – the platform the DTA is developing to make it easier for government to build digital services. Cloud.gov.au saves time and effort by managing infrastructure, so a team can focus on building the service.
+The DTA website is hosted on [cloud.gov.au](https://www.dta.gov.au/what-we-do/platforms/cloud/) --- the platform the DTA is developing to make it easier for government to build digital services. Cloud.gov.au saves time and effort by managing infrastructure, so a team can focus on building the service.
 
 Cloud.gov.au has an API which allows deployments to be entirely automated. We specify the [static build pack](http://docs.cloudfoundry.org/buildpacks/staticfile/index.html) in our [manifest file](https://github.com/AusDTO/dta-website/blob/develop/manifest-production.yml), and the platform takes care of provisioning a server and inserting the built website files. This means our exposure to security attacks is minimised, and we do not have to spend time regularly applying platform updates.
 
@@ -73,13 +73,13 @@ We also have ad-hoc tests that run on a local copy of the site. We can:
 - check for broken external links
 - test all pages for obvious accessibility using [pa11y-ci](https://github.com/pa11y/ci) (recognising we still need to undertake manual testing)
 
-We have found these are best kept out of CI — we want our CI to be fast, and having build dependencies on every external server puts us at risk of outages. 
+We have found these are best kept out of CI --- we want our CI to be fast, and having build dependencies on every external server puts us at risk of outages. 
 
 ## External services and plugins
 
 A static site on its own has limitations, but this is where external services are useful. The ones we currently use are:
 - [Disqus](https://disqus.com/) for our blog commenting system
-- [Youtube](https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A) for hosting our videos
+- [YouTube](https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A) for hosting our videos
 - [Recruiterbox](https://recruiterbox.com/) for showing [our open jobs](https://www.dta.gov.au/who-we-are/corporate/jobs/)
 - [Google Apps Script](https://www.google.com/script/start/) for receiving form submissions
 
@@ -89,7 +89,7 @@ Site search is something you might expect to be an external service, but we use 
 
 We don’t have a sophisticated system managing our site, so a lot of the complexity in the website is more exposed to our content publishers. Adding a new or changed template needs someone who knows HTML and CSS. However, having such close control over the generated markup makes it easier to create semantically correct content, which helps with accessibility.
 
-Content publishers are likely to have never used git, and so need to be trained up in basic use of GitHub. This keeps us consistent with the rest of the agency, and it’s actually really cool to see non-developers using GitHub.
+Content publishers are likely to have never used Git, and so need to be trained up in basic use of GitHub. This keeps us consistent with the rest of the agency, and it’s actually really cool to see non-developers using GitHub.
 
 Our [GitHub repository](https://github.com/AusDTO/dta-website) is public, so embargoed content can’t be added there until it is ready for release. Most of the time this isn’t an issue, but occasionally we’ll use a private repository to prepare content, which is then merged to the public repository when it is ready for release.
 
