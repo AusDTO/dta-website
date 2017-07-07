@@ -4,9 +4,9 @@ layout: base
 permalink: /who-we-are/organisation-structure/
 ---
 
-<article id="content" class="content-listing home">
+<article id="content" class="content-listing home" markdown="1">
 
-<h1>DTA organisation structure</h1>
+## DTA organisation structure
 
 
 
