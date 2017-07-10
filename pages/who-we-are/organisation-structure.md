@@ -6,6 +6,7 @@ searchexcerpt: "Find an overview of high-level organisation structure of DTA. Th
 ---
 
 <article id="content" class="content-listing home" markdown="1">
+
 ## DTA organisation structure
 
 
