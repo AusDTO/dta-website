@@ -7,6 +7,7 @@ author-excerpt: "Brendan Gordon is a Developer at the Digital Transformation Age
 thumbnail: /images/blog-thumbnails/Blog-Thumb-DTA-website.png
 hero-image: /images/blog-content/Blog-Hero-DTA-website.png
 searchexcerpt: "The DTA website is an important part of our online presence. But as a small agency we have found our needs can be met with a simple static site. In this blog post we share our approach to development and the technology behind the DTA website."
+published: false
 ---
 
 ![An illustration of a pony with a rainbow coloured mane.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
