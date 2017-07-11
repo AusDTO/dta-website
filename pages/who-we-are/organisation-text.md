@@ -6,7 +6,7 @@ localnav: who-we-are
 searchexcerpt: Full text description of the DTA organisation structure as on 1 July 2017.
 ---
 
-![Thumbnail of the Government Digital Transformation Roadmap](/images/DTA_Orgchart_2017_Julyv3.png)
+![Thumbnail of the DTA organisation structure](/images/DTA_Orgchart_2017_Julyv3.png)
 
 [&larr; Back to DTA organisation structure](/who-we-are/organisation-structure/)
 
