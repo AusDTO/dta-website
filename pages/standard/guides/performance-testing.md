@@ -114,6 +114,7 @@ For new services (and for verification of existing service analytics), you shoul
 </table>
 </div>
 
+<br>
 <h4 id="example-active-testing-and-support-matrix---mobile-access">Example active testing and support matrix - mobile access</h4>
 
 <div class="horizontal-scroll-table-container">
