@@ -3,7 +3,6 @@ title: Full text description of the DTA organisation structure
 layout: basic
 permalink: /who-we-are/organisation-structure/organisation-text/
 localnav: who-we-are
-gov-speak: true
 searchexcerpt: Full text description of the DTA organisation structure as on 1 July 2017.
 ---
 
