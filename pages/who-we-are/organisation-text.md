@@ -14,28 +14,28 @@ searchexcerpt: Full text description of the DTA organisation structure as on 1 J
 
 <ul class="list-highlighted">
   <li>
-    <span>Gavin Slater </span>Chief Executive Officer
+    <span>Gavin Slater </span><br>Chief Executive Officer
   </li>
   <li>
-    <span>GP de Wet </span>Chief Finance Officer
+    <span>GP de Wet </span><br>Chief Finance Officer
   </li>
   <li>
-    <span>Jo Cantle </span>Chief People Officer
+    <span>Jo Cantle </span><br>Chief People Officer
   </li>
   <li>
-    <span>Genine Johnson </span>A/g Chief Communication Officer
+    <span>Genine Johnson </span><br>A/g Chief Communication Officer
   </li>
   <li>
-    <span>Jose del Rio </span>A/g Chief Strategy Officer
+    <span>Jose del Rio </span><br>A/g Chief Strategy Officer
   </li>
   <li>
-    <span>Peter Alexander </span>Chief Digital Officer
+    <span>Peter Alexander </span><br>Chief Digital Officer
   </li>
   <li>
-    <span>Radi Kovacevic </span>A/g Chief Investment Officer
+    <span>Radi Kovacevic </span><br>A/g Chief Investment Officer
   </li>
   <li>
-    <span>Angela Chow </span>A/g Chief Procurement Officer
+    <span>Angela Chow </span><br>A/g Chief Procurement Officer
   </li>
 </ul>
 
