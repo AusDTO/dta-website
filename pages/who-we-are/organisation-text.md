@@ -11,28 +11,28 @@ searchexcerpt: Full text description of the DTA organisation structure as on 1 J
 [&larr; Back to DTA organisation structure](/who-we-are/organisation-structure/)
 
 ## Gavin Slater
-### Chief Executive Officer
+Chief Executive Officer
 
-## GP de Wet
-### Chief Finance Officer
+### GP de Wet
+Chief Finance Officer
 
-## Jo Cantle
-### Chief People Officer
+### Jo Cantle
+Chief People Officer
 
-## Genine Johnson 
-### A/g Chief Communication Officer
+### Genine Johnson 
+A/g Chief Communication Officer
 
-## Jose del Rio 
-### A/g Chief Strategy Officer
+### Jose del Rio 
+A/g Chief Strategy Officer
 
-## Peter Alexander
-### Chief Digital Officer
+### Peter Alexander
+Chief Digital Officer
 
-## Radi Kovacevic
-### A/g Chief Investment Officer
+### Radi Kovacevic
+A/g Chief Investment Officer
 
-## Angela Chow
-### A/g Chief Procurement Officer
+### Angela Chow
+A/g Chief Procurement Officer
 
 <hr />
 
