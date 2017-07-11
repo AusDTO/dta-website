@@ -35,32 +35,166 @@ For new services (and for verification of existing service analytics), you shoul
 *   Support (including fixing production defects), but not actively test, any additional browser/OS combination used by more than 2% of users. Accept there may be cosmetic (for example font size and spacing) issues for this group.
 
 #### Example active testing and support matrix - desktop
+<div class="horizontal-scroll-table-container">
+<table class="content-table">
+  <thead>
+    <tr>
+      <th>Browser</th>
+      <th>Windows 7</th>
+      <th>Windows XP</th>
+      <th>Linux</th>
+      <th>Mac OS X 10.x</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>22.79% - Internet Explorer 11.0</td>
+      <td>Test and support</td>
+      <td>Support</td>
+      <td>Support</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>19.08% - Internet Explorer 8.0</td>
+      <td>Support</td>
+      <td>Support</td>
+      <td>Test and support</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>15.10% - Chrome 40</td>
+      <td> </td>
+      <td> </td>
+      <td>Test and support</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>8.43% - Firefox 35</td>
+      <td>Test and support</td>
+      <td>Support</td>
+      <td>Test and support</td>
+      <td>Support</td>
+    </tr>
+    <tr>
+      <td>8.03% - Internet Explorer 9.0</td>
+      <td>Support</td>
+      <td>Support</td>
+      <td>Support</td>
+      <td>Support</td>
+    </tr>
+    <tr>
+      <td>5.43% - Internet Explorer 10.0</td>
+      <td>Test and support</td>
+      <td>Support</td>
+      <td>Test and support</td>
+      <td>Test and support</td>
+    </tr>
+    <tr>
+      <td>2.65% - Chrome 36</td>
+      <td>Test and support</td>
+      <td>Support</td>
+      <td>Support</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2.32% - Safari 8.0</td>
+      <td>Test and support</td>
+      <td>Support</td>
+      <td>Support</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1.31% - Internet Explorer 6.0</td>
+      <td>Test and support</td>
+      <td>Support</td>
+      <td> </td>
+      <td>Support</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-| Browser | Windows 7 | Windows XP | Linux | Mac OS X 10.x |
-| --- | --- | --- | --- | --- |
-| 22.79% - Internet Explorer 11.0  | Test and support  | Support | Support |  |
-| 19.08% - Internet Explorer 8.0 | Support | Support | Test and support |  |
-| 15.10% - Chrome 40 |  |  | Test and support |  |
-| 8.43% - Firefox 35 | Test and support | Support | Test and support | Support |
-| 8.03% - Internet Explorer 9.0 | Support | Support | Support | Support |
-| 5.43% - Internet Explorer 10.0 | Test and support | Support | Test and support | Test and support |
-| 2.65% - Chrome 36 | Test and support | Support | Support |  |
-| 2.32% - Safari 8.0 | Test and support | Support | Support |  |
-| 1.31% - Internet Explorer 6.0 | Test and support | Support |  | Support |
+<br>
+<h4 id="example-active-testing-and-support-matrix---mobile-access">Example active testing and support matrix - mobile access</h4>
 
-#### Example active testing and support matrix - mobile access
-
-| Browser | iOS | Android | Blackberry | Symbian |
-| --- | --- | --- | --- | --- |
-| 21.66% - Safari 8.0  | Test and support  | Support | Support |  |
-| 14.54% - Android Browser 4.0  | Support |  Support  | Test and support  |  |
-| 11.75% - Chrome 40 | Test and support |  |  |  |
-| 8.69% - Safari 7.0  | Test and support  | Support | Test and support | Support |
-| 6.32% - Safari 600  | Support | Support | Support | Support |
-| 4.29% - Chrome 28  | Test and support | Support | Test and support | Test and support |
-| 2.86% - Chrome 30  | Test and support  | Support | Support |  |
-| 2.36% - Opera Mini 7.5 | Test and support  | Support | Support |  |
-| 1.98% - Chrome 39  | Test and support  | Support | Support |  |
+<div class="horizontal-scroll-table-container">
+<table class="content-table">
+  <thead>
+    <tr>
+      <th>Browser</th>
+      <th>iOS</th>
+      <th>Android</th>
+      <th>Blackberry</th>
+      <th>Symbian</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>21.66% - Safari 8.0</td>
+      <td>Test and support</td>
+      <td>Support</td>
+      <td>Support</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>14.54% - Android Browser 4.0</td>
+      <td>Support</td>
+      <td>Support</td>
+      <td>Test and support</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>11.75% - Chrome 40</td>
+      <td>Test and support</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>8.69% - Safari 7.0</td>
+      <td>Test and support</td>
+      <td>Support</td>
+      <td>Test and support</td>
+      <td>Support</td>
+    </tr>
+    <tr>
+      <td>6.32% - Safari 600</td>
+      <td>Support</td>
+      <td>Support</td>
+      <td>Support</td>
+      <td>Support</td>
+    </tr>
+    <tr>
+      <td>4.29% - Chrome 28</td>
+      <td>Test and support</td>
+      <td>Support</td>
+      <td>Test and support</td>
+      <td>Test and support</td>
+    </tr>
+    <tr>
+      <td>2.86% - Chrome 30</td>
+      <td>Test and support</td>
+      <td>Support</td>
+      <td>Support</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2.36% - Opera Mini 7.5</td>
+      <td>Test and support</td>
+      <td>Support</td>
+      <td>Support</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1.98% - Chrome 39</td>
+      <td>Test and support</td>
+      <td>Support</td>
+      <td>Support</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 You might also decide to support the latest stable version of each browser plus a single version back, or test against any browsers currently supported by each vendor. Be aware that you may have to make an exception if a significant portion of your user base is using an unsupported browser.
 
