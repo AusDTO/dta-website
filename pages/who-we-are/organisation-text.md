@@ -17,7 +17,7 @@ searchexcerpt: Full text description of the DTA organisation structure as on 1 J
 ### Chief Finance Officer
 
 ## Jo Cantle
-Chief People Officer
+### Chief People Officer
 
 ## Genine Johnson 
 ### A/g Chief Communication Officer
