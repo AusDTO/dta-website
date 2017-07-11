@@ -16,6 +16,8 @@ searchexcerpt: "Find an overview of high-level organisation structure of DTA. Th
 
 Having problems seeing this image? [Open larger DTA organisation structure image (PDF 135kb)](/files/DTA_Orgchart_2017_Julyv2.pdf)
 
+
 [Read the full text version of DTA organisation chart](/who-we-are/organisation-structure/organisation-text/)
+
 
 </article>
