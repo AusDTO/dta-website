@@ -35,8 +35,8 @@ For new services (and for verification of existing service analytics), you shoul
 *   Support (including fixing production defects), but not actively test, any additional browser/OS combination used by more than 2% of users. Accept there may be cosmetic (for example font size and spacing) issues for this group.
 
 #### Example active testing and support matrix - desktop
-
-<table class="content-table responsive-table">
+<div class="horizontal-scroll-table-container">
+<table class="content-table">
   <thead>
     <tr>
       <th>Browser</th>
@@ -112,10 +112,12 @@ For new services (and for verification of existing service analytics), you shoul
     </tr>
   </tbody>
 </table>
+</div>
 
 <h4 id="example-active-testing-and-support-matrix---mobile-access">Example active testing and support matrix - mobile access</h4>
 
-<table class="content-table responsive-table">
+<div class="horizontal-scroll-table-container">
+<table class="content-table">
   <thead>
     <tr>
       <th>Browser</th>
@@ -191,6 +193,7 @@ For new services (and for verification of existing service analytics), you shoul
     </tr>
   </tbody>
 </table>
+</div>
 
 You might also decide to support the latest stable version of each browser plus a single version back, or test against any browsers currently supported by each vendor. Be aware that you may have to make an exception if a significant portion of your user base is using an unsupported browser.
 
