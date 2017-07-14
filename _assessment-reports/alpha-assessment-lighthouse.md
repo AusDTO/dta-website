@@ -4,11 +4,11 @@ title: Lighthouse
 breadcrumb: Lighthouse		
 permalink:	/standard/assessments/alpha-assessment-lighthouse/
 report-excerpt: The Veteran Centric Reform (VCR) Lighthouse Project has been approved to progress a deep user engagement.  The Lighthouse is a 20 week project to address a significant pain point for Department of Veterans’ Affairs (DVA) clients.  The service is being developed using the Digital Service Standard with a view to addressing the pain points using digital experience. 
-department/agency: Department of Veteran’s Affairs			
+department: Department of Veteran’s Affairs			
 date: 2016-09-05
 assessment type: Agency self assessment
 assessment-stage: Alpha
-result of assessment: Pass
+result: Pass
 lead-assessor: Emma Borough
 product-manager: Mark Travers
 
