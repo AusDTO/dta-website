@@ -7,7 +7,7 @@ searchexcerpt: "The Digital Transformation Agency (DTA) is seeking feedback on t
 localnav: what-we-do
 ---
 
-Initially, the panel will have one category --– Microsoft Licensing. In the future, more categories will be added for other software licensing and related services. Dates for additional categories are not yet set. 
+Initially, the panel will have one category --- Microsoft Licensing. In the future, more categories will be added for other software licensing and related services. Dates for additional categories are not yet set. 
 
 From March 2018, non-corporate Commonwealth entities will be required to use the Microsoft Licensing category of the panel if they choose to purchase Microsoft software. The panel category will replace the
 [existing reseller arrangement for Microsoft licensing](https://www.tenders.gov.au/?event=public.son.view&SONUUID=0F279B6E-D833-4077-62FD9AACE4EF582E){:target="_blank"} that is due to expire in March 2018. 
