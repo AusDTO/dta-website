@@ -7,7 +7,6 @@ author-excerpt: "Brendan Gordon is a Developer at the Digital Transformation Age
 thumbnail: /images/blog-thumbnails/Blog-Thumb-DTA-website.png
 hero-image: /images/blog-content/Blog-Hero-DTA-website.png
 searchexcerpt: "Our website continues to change to reflect the changes in our work, and will continue to grow and adapt as we do. In this blog, we share our approach to how we developed the website and the technology that sits behind it."
-published: false
 ---
 
 ![Extract of HTML source code from the DTA website.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
