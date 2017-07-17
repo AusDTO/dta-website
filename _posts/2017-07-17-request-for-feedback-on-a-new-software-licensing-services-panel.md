@@ -20,8 +20,8 @@ Thank you to the agencies that have already provided feedback on the first draft
 
 We would now like to invite anyone to submit feedback before the documents are finalised. Please have a read of the documents below and
 [submit your comments here](https://www.surveymonkey.com/r/26R6RSN){:target="_blank"} by 5pm (AEST) on 28th July 2017.
-- [Statement of requirements (PDF 275kb)]({{site.baseurl}}/files/ict-procurement/SLS Statement of Requirement (Category 1) - WCAG.pdf)
-- [Head agreement (PDF 991kb)]({{site.baseurl}}/files/ict-procurement/SLS Head Agreement- WCAG.pdf)
+- [Statement of requirements (PDF 275kb)]({{site.baseurl}}/files/ict-procurement/SLS Statement of Requirement (Category 1) - WCAG.pdf){:target="_blank"}
+- [Head agreement (PDF 991kb)]({{site.baseurl}}/files/ict-procurement/SLS Head Agreement- WCAG.pdf){:target="_blank"}
 
 ## Join the panel
 
