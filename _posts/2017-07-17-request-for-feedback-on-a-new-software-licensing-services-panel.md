@@ -12,7 +12,7 @@ Initially, the panel will have one category – Microsoft Licensing. In the futu
 From March 2018, non-corporate Commonwealth entities will be required to use the Microsoft Licensing category of the panel if they choose to purchase Microsoft software. The panel category will replace the
 [existing reseller arrangement for Microsoft licensing](https://www.tenders.gov.au/?event=public.son.view&SONUUID=0F279B6E-D833-4077-62FD9AACE4EF582E){:target="_blank"} that is due to expire in March 2018. 
 
-The panel will also be available for government business enterprises and state and territory government to use.
+The panel will also be available for government business enterprises and state and territory governments to use.
 
 ## Leave feedback
 
