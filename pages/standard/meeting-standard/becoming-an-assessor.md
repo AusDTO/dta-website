@@ -29,4 +29,4 @@ After your first assessment report is published, you will be recognised as an ac
 
 For further information please contact your agency’s Digital Transformation Coordinator or Digital Service Standard team. 
 
-If you have any questions about this process please contact DTA on mailto:standard@digital.gov.au
+If you have any questions about this process please contact DTA on [standard@digital.gov.au](mailto:standard@digital.gov.au)
