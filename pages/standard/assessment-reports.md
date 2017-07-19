@@ -9,6 +9,8 @@ breadcrumb: Assessment reports
 
 All services in the [scope of the Digital Service Standard](/standard/scope-of-standard/) are [assessed against the Standard](/standard/meeting-standard/).
 
+Assessments are completed by a team of [assessors](https://www.dta.gov.au/standard/meeting-standard/becoming-an-assessor).
+
 We publish assessment reports to increase the transparency of government and help other teams build simpler, better and faster services for all users.
 
 ## View reports by
