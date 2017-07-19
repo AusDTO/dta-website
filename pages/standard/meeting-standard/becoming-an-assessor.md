@@ -15,7 +15,7 @@ To become an assessor, you will need to:
 
 2. Be nominated by the team responsible for digital transformation in your agency, usually a digital transformation coordinator or team
 
-3. Attend an Assessing against the Digital Service Standard course
+3. Attend an [Assessing against the Digital Service Standard](https://www.dta.gov.au/standard/meeting-standard/training) course
 
 After completing training you will arrange with your agency to:
 
