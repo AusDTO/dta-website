@@ -1,11 +1,9 @@
 ---
 layout: standard
-title: Staged assessment process
+title: Becoming an assessor
 permalink: /standard/meeting-standard/becoming-an-assessor/
 searchexcerpt: All services that fall under the scope of the Standard must be assessed by a team of assessors.
 ---
-
-## Becoming an assessor
 
 All services that fall under the [scope of the Standard](https://www.dta.gov.au/standard/scope-of-standard/) must be assessed by a team of assessors. 
 
@@ -31,4 +29,4 @@ After your first assessment report is published, you will be recognised as an ac
 
 For further information please contact your agency’s Digital Transformation Coordinator or Digital Service Standard team. 
 
-If you have any questions about this process please contact DTA on mailto:standard@digital.gov.au. 
+If you have any questions about this process please contact DTA on mailto:standard@digital.gov.au
