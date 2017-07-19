@@ -1,7 +1,7 @@
 ---
 layout: standard
 title: Staged assessment process
-permalink: /standard/meeting-standard/staged-assessment-process/
+permalink: /standard/meeting-standard/becoming-an-assessor/
 searchexcerpt: All services that fall under the scope of the Standard must be assessed by a team of assessors.
 ---
 
