@@ -14,7 +14,7 @@ breadcrumb: Updates
 <h2>Contact us</h2>
 
 <p>If you have any questions or feedback you can contact the ICT procurement team at <a href="mailto:ictprocurement@dta.gov.au">ictprocurement@dta.gov.au</a>. </p>
-
+<hr>
 <h2>Latest news and updates</h2>
 
 <a class="rss" href="{{ "/what-we-do/policies-and-programs/ict-procurement/ict-updates-feeds/" | prepend: site.baseurl }}">Add news and updates to your RSS feed</a>

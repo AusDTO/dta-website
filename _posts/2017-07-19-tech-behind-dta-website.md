@@ -6,8 +6,7 @@ author: Brendan Gordon
 author-excerpt: "Brendan Gordon is a Developer at the Digital Transformation Agency."
 thumbnail: /images/blog-thumbnails/Blog-Thumb-DTA-website.png
 hero-image: /images/blog-content/Blog-Hero-DTA-website.png
-searchexcerpt: "Our website continues to change to reflect the changes in our work, and will continue to grow and adapt as we do. In this blog, we share our approach to how we developed the website and the technology that sits behind it."
-published: false
+searchexcerpt: "Our website continues to change to reflect the changes in our work, and will continue to grow and adapt as we do. In this post, we share our approach to how we developed the website and the technology that sits behind it."
 ---
 
 ![Extract of HTML source code from the DTA website.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
@@ -65,7 +64,7 @@ Each part of the deployment happens automatically whenever the ‘develop’ or 
 
 Our website is a Commonwealth record and needs to be managed in accordance with the Archives Act 1983 and the [National Archives of Australia guidance](http://www.naa.gov.au/Images/archweb_guide_tcm16-47165.pdf). Since every change to the site is tracked in version control, we can easily meet this requirement by going back and rebuilding the site as it was at any point in time.
 
-Publishing content via GitHub is not the best solution for everyone. This was the simplest solution for us because we have in-house technical skills available and an ability to share those skills among the people involved in content management. Working without a content management system means that we need to have developers available to help with publishing – this is not possible for everyone. 
+Publishing content via GitHub is not the best solution for everyone. This was the simplest solution for us because we have in-house technical skills available and an ability to share those skills among the people involved in content management. Working without a content management system means that we are more reliant on our developers --- this is not possible for everyone. 
 
 ## Hosting our site — cloud.gov.au
 
