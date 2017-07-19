@@ -64,4 +64,4 @@ If you cannot attend the listed dates, you can [register your interest](mailto:s
 
 ## Get in touch
 
-If you have any questions about training for the Digital Service Standard, please email the Standard team at mailto:standard@digital.gov.au 
+If you have any questions about training for the Digital Service Standard, please email the Standard team at [standard@digital.gov.au](mailto:standard@digital.gov.au) 
