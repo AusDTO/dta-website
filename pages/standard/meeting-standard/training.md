@@ -33,7 +33,7 @@ If you cannot attend the listed dates, you can [register your interest](mailto:s
 
 ## Assessing against the Digital Service Standard
 
-This training is for government employees who will assess service teams against the Digital Service Standard. Attending this training is one step in the process of becoming an accredited assessor. 
+This training is for government employees who will assess service teams against the Digital Service Standard. Attending this training is one step in the process of [becoming an accredited assessor](https://www.dta.gov.au/standard/meeting-standard/becoming-an-assessor). 
 
 ### Who is it for?
 
@@ -41,7 +41,7 @@ This training is for people who already have a basic knowledge of the Digital Se
 
 You should have experience working on digital services that meet the Standard, or at a minimum, have extensive experience in a relevant subject matter (such as user research, agile delivery, product management, technology development or similar). You are someone who thinks like a coach or mentor, rather than an auditor. 
 
-This training alone does not provide accreditation as an assessor but is a required step in the accreditation process. Participants for this course should be selected and nominated through their agency.
+This training alone does not provide accreditation as an assessor but is a [required step in the accreditation](https://www.dta.gov.au/standard/meeting-standard/becoming-an-assessor) process. Participants for this course should be selected and nominated through their agency.
 
 Places for the course are strictly limited. Priority will be given to government employees who have been nominated or assigned to assess a service within their agency.
 
