@@ -39,7 +39,7 @@ We have found this simple tech approach to be very cheap compared to the alterna
 
 ## Using the UI-Kit 
 
-The DTA website is styled using the [UI-Kit](https://github.com/AusDTO/gov-au-ui-kit) and the [DTA Design Guide](http://guides.service.gov.au/design-guide/). This allowed us to save time and money by using styling that already exists as the foundation for our website. 
+The DTA website is styled using the [UI-Kit](https://github.com/govau/uikit) and the [DTA Design Guide](http://guides.service.gov.au/design-guide/). This allowed us to save time and money by using styling that already exists as the foundation for our website. 
 
 The UI-Kit is a whole-of-government toolkit being created by the DTA to give government a set of accessible web components to use on their websites. Agencies can use it instead of creating custom designs and styles for their sites --- the intention is to create more consistency across government sites. It is designed to meet the accessibility standards required by the [Digital Service Standard](https://www.dta.gov.au/standard/). 
 
