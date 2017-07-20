@@ -8,12 +8,10 @@
     - title: "Meeting the Standard"
       url: "/standard/meeting-standard/"
       grandchildren:
-        - title: "Becoming an assessor"
-          url: "/standard/meeting-standard/becoming-an-assessor/"
-        - title: "Training"
-          url: "/standard/meeting-standard/training/"
         - title: "Staged assessment process"
           url: "/standard/meeting-standard/staged-assessment-process/"
+        - title: "Becoming an assessor"
+          url: "/standard/meeting-standard/becoming-an-assessor/"
     - title: "Assessment reports"
       url: "/standard/assessments/"
     - title: "Design principles"
@@ -23,6 +21,8 @@
       grandchildren:
         - title: "Discovery"
           url: "/standard/service-design-and-delivery-process/discovery/"
+    - title: "Training"
+          url: "/standard/meeting-standard/training/"
     - title: "Guides"
       url: "/standard/design-guides/"
     - title: "Common solutions"
