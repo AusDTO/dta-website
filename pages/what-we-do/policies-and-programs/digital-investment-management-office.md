@@ -3,6 +3,7 @@ title: Digital Investment Management Office
 layout: basic
 permalink: /what-we-do/policies-and-programs/digital-investment-management-office/
 localnav: what-we-do
+searchexcerpt: "The Digital Investment Management Office has been set up within the DTA to provide oversight of all significant ICT and digital investment projects across government."
 --- 
 
 The Digital Investment Management Office has been set up within the DTA to 
