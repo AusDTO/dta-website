@@ -4,6 +4,7 @@ title: BloodNet
 breadcrumb: BloodNet		
 permalink:	/standard/assessments/alpha-assessment-bloodnet/
 report-excerpt: Australia's online blood ordering and inventory management system. BloodNet is a web-based system that allows staff in health facilities across Australia to order blood and blood products in a standardised way and to do so, quickly, easily and securely from the Australian Red Cross Blood Service (Blood Service).
+searchexcerpt: "During Alpha, the BloodNet team explored the current system and its users. BloodNet was developed 10 years ago and is used today by nearly all hospitals and laboratories that purchase blood products."
 
 department: National Blood Authority			
 date: 2017-03-16
