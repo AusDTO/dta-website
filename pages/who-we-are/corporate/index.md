@@ -3,6 +3,7 @@ layout: basic
 title: Corporate information
 permalink: /who-we-are/corporate/
 localnav: who-we-are
+searchexcerpt: "Find information on DTA's Corporate Plan, Annual Report, employment opportunities, Freedom of Information process and Public Interest Disclosure."
 ---
 
 <ul class="list-small">
