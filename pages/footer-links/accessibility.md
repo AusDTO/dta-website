@@ -4,6 +4,7 @@ title: Accessibility
 permalink: /accessibility/
 breadcrumb: Accessibility
 lede: The Digital Transformation Agency (DTA) website has been designed to meet the Australian Government standard established for web accessibility.
+searchexcerpt: "Our website aims to meet the Australian Government’s web accessibility requirements, including meeting the World Wide Web Consortium’s Web Content Accessibility Guidelines version 2.0 (WCAG 2.0) at level AA."
 ---
 Our website aims to meet the Australian Government’s web accessibility requirements, including meeting the World Wide Web Consortium’s [Web Content Accessibility Guidelines version 2.0 (WCAG 2.0)](http://www.w3.org/TR/WCAG20/) at level AA.
 
