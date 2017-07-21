@@ -1,9 +1,9 @@
 ---
-title: "The Apprentice"
+title: "The apprentice"
 category: [blog]
 tag: 'digital transformation'
 author: Charmian Beecham
-author-excerpt: "Charmian is part of our team who manage the ICT Entry Level Programs. She is also a Career Development and Support Officers who support the cadets, apprentices and graduates during their program."
+author-excerpt: "Charmian is part of our team who manage the ICT Entry Level Programs. She is also a Career Development and Support Officer who support the cadets, apprentices and graduates during their program."
 thumbnail: /images/blog-thumbnails/blog-image-THUMB-1.jpg
 hero-image: /images/blog-content/blog-image-HERO-1.jpg
 searchexcerpt: "[Applications for the 2018 ICT Apprenticeship and Cadetship Programs](/who-we-are/corporate/jobs/) are open. This year we’re offering about 100 positions in each program --- more than ever before! We’ve been catching up with some of the current cadets and apprentices to find out more about their programs --- what made them apply, if the job has been what they expected, and what their plans for the future are."
