@@ -6,6 +6,7 @@ redirect_from:
  - /what-we-do/communities/
  - /our-work/communities/
 localnav: what-we-do
+searchexcerpt: "Our communities of practice bring together our government colleagues to collaborate, showcase work, solve problems and explore best practice. The communities are open to anyone in local, state and federal government to join."
 ---
 
 Our communities of practice bring together our government colleagues to collaborate, showcase work, solve problems and explore best practice. 
