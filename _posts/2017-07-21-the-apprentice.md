@@ -9,7 +9,7 @@ hero-image: /images/blog-content/blog-image-HERO-1.jpg
 searchexcerpt: "[Applications for the 2018 ICT Apprenticeship and Cadetship Programs](/who-we-are/corporate/jobs/) are open. This year we’re offering about 100 positions in each program --- more than ever before! We’ve been catching up with some of the current cadets and apprentices to find out more about their programs --- what made them apply, if the job has been what they expected, and what their plans for the future are."
 ---
 
-![ICT apprentices, cadets and grads build model out of lego at this year's networking day.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+![ICT apprentices, cadets and grads build models out of lego at this year's networking day.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 *Caption: ICT apprentices, cadets and grads at this year's networking day.*
 
