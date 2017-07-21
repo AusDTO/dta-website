@@ -33,7 +33,7 @@ While working mainly in hospitality, Naomi was teaching herself to code using on
 
 Fast forward 10 years and Naomi was thinking about heading home when her sister shared an advertisement for the apprentice program. The program looked like a great way to work towards a qualification to complement her growing interest in ICT. Because the apprenticeship program doesn’t require a specific qualification, Naomi felt confident in applying. 
 
-**“I thought this was a great opportunity...they’re paying you to learn which is pretty amazing.”**
+>“I thought this was a great opportunity...they’re paying you to learn which is pretty amazing.”
 
 Naomi’s application went through all the stages of other apprentices, with a few geographic twists. She did her first interview on the phone while still living overseas and then headed home to Perth.
 
@@ -41,7 +41,7 @@ One of the interesting and fun parts of the interview process for all the entry-
 
 Applicants are usually required to come to Canberra for their second interview and the speed dating, but as Naomi was some distance away, she attended remotely. This meant she was on a laptop screen and was moved around the room to meet each agency!
 
-**“The speed dating was a great experience...even though I’d already worked out which agency was my favourite!”**
+>“The speed dating was a great experience...even though I’d already worked out which agency was my favourite!”
 
 Naomi was one of 45 successful applicants for the apprentice program who started in 2016. She picked herself up and moved to Canberra—not quite as far as Germany, but still a big move. 
 
@@ -55,7 +55,7 @@ Something we hear from apprentices and cadets is that the public service is not 
 
 Naomi is supported to work on her own projects, but also finds her colleagues are ready and willing to share their own knowledge.
 
-**“I listen and I learn from my colleagues. They take me along whenever they go to do things.”**
+>“I listen and I learn from my colleagues. They take me along whenever they go to do things.”
 
 Naomi has also been able to take advantage of the extensive in-house training offered by her agency, as well as the learning and development opportunities offered by our program. You may think there is no creativity in ICT but the Lego towers built at the recent training day would beg to differ!
 
@@ -63,6 +63,6 @@ Throughout her time as an apprentice Naomi has completed courses in interview sk
 
 Naomi will complete her apprenticeship in December and plans to stay with her current team. And her advice to those considering applying for a position as an ICT apprentice or cadet?
 
-**“Go for it! It’s a really good opportunity for people who have a passion for IT but don’t yet have qualifications. It’s certainly an industry to get into. It is a part of everyone’s lives now.”**
+>“Go for it! It’s a really good opportunity for people who have a passion for IT but don’t yet have qualifications. It’s certainly an industry to get into. It is a part of everyone’s lives now.”
 
 Keep an eye out on our [DTA Facebook page](https://www.facebook.com/DigitalTransformationAgency/) over the next couple of weeks to see other apprentices and cadets talk about their experiences. You can also follow the [ICT Entry Level Program Facebook page](https://www.facebook.com/ictentrylevel/) for updates about the program including online Q&A sessions.
