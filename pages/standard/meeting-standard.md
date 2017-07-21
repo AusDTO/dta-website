@@ -3,6 +3,7 @@ layout: standard
 title: Meeting the Standard
 permalink: /standard/meeting-standard/
 lede: How services are assessed
+searchexcerpt: "The DTA will arrange a team of experts to review your service against the Standard and give you recommendations on how you can make your service simpler, clearer and faster."
 ---
 All services within the [scope of the Digital Service Standard](/standard/scope-of-standard/) (the Standard) are assessed against the Standard.
 
