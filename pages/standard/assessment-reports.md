@@ -3,6 +3,7 @@ layout: standard
 title: Assessment reports
 permalink: /standard/assessments/
 breadcrumb: Assessment reports
+searchexcerpt: "All services in the scope of the Digital Service Standard are assessed against the Standard. We publish assessment reports to increase the transparency of government and help other teams build simpler, better and faster services for all users."
 ---
 
 <div class="assessment-reports" markdown="1">
