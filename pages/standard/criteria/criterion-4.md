@@ -5,6 +5,7 @@ title: Understand tools and systems
 lede: Understand the tools and systems required to build, host, operate and measure the service and how to adopt, adapt or procure them.
 permalink: /standard/4-tools-and-systems/
 breadcrumb: 4. Understand tools and systems
+searchexcerpt: "The technology you choose to build your service must help you respond quickly and regularly to the needs and expectations of users."
 ---
 ## Why it’s in the Standard
 The technology you choose to build your service must help you respond quickly and regularly to the needs and expectations of users. This criterion ensures you:
