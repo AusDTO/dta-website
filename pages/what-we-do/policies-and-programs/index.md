@@ -7,6 +7,7 @@ redirect_from:
   - /what-we-do/policy/
 localnav: what-we-do
 tags: "digital service standard things"
+searchexcerpt: "We provide strategic and policy leadership on whole-of-government and shared information and communications technology and digital service delivery, including ICT procurement policy."
 ---
 
 We provide strategic and policy leadership on whole-of-government and shared information and communications technology and digital service delivery, including ICT procurement policy.
