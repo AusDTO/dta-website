@@ -5,6 +5,7 @@ lede: "The DTA’s Govpass project aims to make the process of proving who you a
 permalink: /what-we-do/platforms/govpass/
 redirect_from: /what-we-do/platforms/identity/
 localnav: what-we-do
+searchexcerpt: "The DTA’s Govpass project aims to make the process of proving who you are to government services online simple, safe and secure."
 ---
 
 Currently in its beta stage of development, Govpass will offer users quick and simple options to prove who they are.
