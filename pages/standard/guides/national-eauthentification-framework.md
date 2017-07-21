@@ -9,6 +9,7 @@ topic_group:
 - Website design and development
 topic:
 - Security
+searchexcerpt: "The National e-Authentication Framework (NeAF) is a better practice approach to authenticating the identity of individual users and websites. The NeAF is intended for use by agencies at all levels of government as well as businesses working with government."
 ---
 The National e-Authentication Framework (NeAF) is a better practice approach to authenticating the identity of individual users and websites. The NeAF is intended for use by agencies at all levels of government as well as businesses working with government. The principles provide a foundation for building consistent authentication products.
 
