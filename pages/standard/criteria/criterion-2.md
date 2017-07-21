@@ -6,6 +6,7 @@ lede: Establish a sustainable multidisciplinary team to design, build, operate a
 permalink: /standard/2-multidisciplinary-team/
 redirect_from: /standard/2-multi-disciplinary-team/
 breadcrumb: 2. Have a multidisciplinary team
+searchexcerpt: "Good government services are built quickly and iteratively, based on user needs. Your digital delivery team must be set up in the right way to do this. "
 ---
 ## Why it’s in the Standard
 Good government services are built quickly and iteratively, based on user needs. Your [digital delivery team](/standard/design-guides/the-team/) must be set up in the right way to do this. They need:
