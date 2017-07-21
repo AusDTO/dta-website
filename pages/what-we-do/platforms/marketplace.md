@@ -8,6 +8,7 @@ redirect_from:
 - /our-work/marketplace/
 - /what-we-do/marketplace/
 localnav: what-we-do
+searchexcerpt: "The marketplace simplifies the procurement process and removes barriers, particularly for smaller businesses who may have previously had difficulty connecting with government."
 ---
 
 The Australian government spends more than $6 billion on ICT and digital services each year. The marketplace simplifies the procurement process and removes barriers, particularly for smaller businesses who may have previously had difficulty connecting with government.
