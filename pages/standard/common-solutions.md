@@ -6,6 +6,7 @@ lede: Using common solutions to design better services
 weight: 70
 redirect_from: /standard/common-government-solutions/
 phase: 'Alpha'
+searchexcerpt: "We can improve the user experience and efficiency of our services by using common government solutions and shared platforms wherever possible."
 ---
 We can improve the user experience and efficiency of our services by using common government solutions and shared platforms wherever possible.
 
