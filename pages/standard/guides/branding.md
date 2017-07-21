@@ -8,6 +8,7 @@ topic_group:
 - Website design and development
 topic:
 - Website design
+searchexcerpt: "Australian Government transactional and information services, including websites and print publications, must use common branding."
 ---
 Australian Government transactional and information services, including websites and print publications, must use common branding.
 
