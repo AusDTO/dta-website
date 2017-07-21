@@ -3,6 +3,7 @@ layout: basic
 title: "Secure cloud"
 permalink: /what-we-do/policies-and-programs/secure-cloud/
 localnav: what-we-do
+searchexcerpt: "Current government policy requires agencies to consider cloud solutions as a priority when rolling out or replacing ICT infrastructure, applications or services."
 ---
 
 There are many misconceptions about cloud technology --- about how it works and how secure it is.
