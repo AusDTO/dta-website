@@ -5,6 +5,7 @@ title: Understand user needs
 lede: Understand user needs. Research to develop a deep knowledge of the users and their context for using the service.
 permalink: /standard/1-user-needs/
 breadcrumb: 1. Understand user needs
+searchexcerpt: "You need to understand the people who use your service (your users) and what they want to do (their user needs) in order to build a service that works for them."
 ---
 ## Why it’s in the Standard
 You need to understand the people who use your service (your users) and what they want to do (their user needs) in order to build a service that works for them. You need to understand users and their needs from their point of view and not solely through the lens of the project you have been tasked with. 
