@@ -4,6 +4,9 @@ title: Digital Marketplace
 breadcrumb: Digital Marketplace		
 permalink:	/standard/assessments/digital-marketplace-beta/
 report-excerpt: The Digital Marketplace simplifies the process of government procurement and makes it easier for businesses of all sizes to access government contracts.
+
+searchexcerpt: "The Digital Marketplace team has worked towards better understanding user needs and iterating the product accordingly through Beta stage."
+
 department: Digital Transformation Agency			
 date: 2017-03-15
 assessment-type: Digital Transformation Agency-led

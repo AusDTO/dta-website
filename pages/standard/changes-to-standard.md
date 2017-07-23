@@ -2,6 +2,7 @@
 layout: standard
 title: Changes to the Digital Service Standard
 permalink: /standard/changes-to-standard/
+searchexcerpt: "On 6 May 2016 the Digital Service Standard became live. This page details the changes between the Live version (13 criteria) and the Beta version (14 criteria)."
 ---
 On 6 May 2016 the [Digital Service Standard](/standard) became live. This page details the changes between the Live version (13 criteria) and the Beta version (14 criteria).
 

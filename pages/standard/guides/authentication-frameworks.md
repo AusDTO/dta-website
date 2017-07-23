@@ -8,6 +8,7 @@ topic_group:
 - Website design and development
 topic:
 - Security
+searchexcerpt: "Trust is essential to the government agencies that deliver services, and the users of these services. We need authentication frameworks, policies, standards and technologies that help establish and maintain the required levels of trust."
 ---
 Trust is essential to the government agencies that deliver services, and the users of these services. We need authentication frameworks, policies, standards and technologies that help establish and maintain the required levels of trust.
 

@@ -3,6 +3,7 @@ title: Partnerships
 layout: basic
 permalink: /what-we-do/partnerships/
 localnav: what-we-do
+searchexcerpt: "The DTA works in close partnership with other government agencies to challenge and change the way services are traditionally delivered, and make them better."
 ---
 
 Building and delivering excellent services online requires a transformation of the way services are designed and delivered by government.

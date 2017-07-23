@@ -5,6 +5,7 @@ title: Make it secure
 lede: Identify the data and information the service will use or create. Put appropriate legal, privacy and security measures in place.
 permalink: /standard/5-make-it-secure/
 breadcrumb: 5. Make it secure
+searchexcerpt: "If a service cannot guarantee confidentiality, integrity and availability of the system, people will not use it."
 ---
 ## Why it’s in the Standard
 People who use government services must have confidence that:

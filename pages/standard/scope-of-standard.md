@@ -4,6 +4,7 @@ title: Scope of the Digital Service Standard
 permalink: /standard/scope-of-standard/
 redirect_from: /standard/scope-digital-service-standard/
 breadcrumb: Scope of the Standard
+searchexcerpt: "The Digital Service Standard (the Standard) applies to public facing Australian Government (federal) services owned by non-corporate Commonwealth entities."
 ---
 The [Digital Service Standard](/standard/) (the Standard) applies to public facing Australian Government (federal) services owned by [non-corporate Commonwealth entities](http://www.finance.gov.au/resource-management/governance/#flipchart).
 

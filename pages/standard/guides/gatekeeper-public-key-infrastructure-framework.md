@@ -11,6 +11,7 @@ topic_group:
 - Website design and development
 topic:
 - Security
+searchexcerpt: "The Gatekeeper Public Key Infrastructure (PKI) Framework governs the use of digital keys and certificates by the Australian Government to assure the identity of subscribers to authentication services."
 ---
 The Gatekeeper Public Key Infrastructure (PKI) Framework governs the use of digital keys and certificates by the Australian Government to assure the identity of subscribers to authentication services. Subscribers can include individual users, organisations and non-human devices, such as applications and computers.
 

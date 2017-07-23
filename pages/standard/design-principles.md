@@ -5,6 +5,7 @@ permalink: /standard/design-principles/
 redirect_from: /standard/principles-digital-service-design/
 lede: Guiding principles to design better services
 phase: 'Alpha'
+searchexcerpt: "Find DTA's 10 principles that need to inform all service design. Like the UK Government Design Principles, we’ll be adding examples to show you how we have been using them."
 ---
 The following principles need to inform all service design. Like the [UK Government Design Principles](https://www.gov.uk/design-principles), we'll be adding examples to show you how we have been using them.
 

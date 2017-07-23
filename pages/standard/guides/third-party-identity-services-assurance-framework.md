@@ -10,6 +10,8 @@ topic_group:
 - Website design and development
 topic:
 - Security
+
+searchexcerpt: "The Third Party Identity Services Assurance Framework is an Australian Government approach for accreditation of identity services offered by commercial service providers to government agencies."
 ---
 The Third Party Identity Services Assurance Framework is an Australian Government approach for accreditation of identity services offered by commercial service providers to government agencies. The Assurance Framework describes 4 levels of assurance (LOA) with performance outcomes and standards for identity service providers working with government.
 

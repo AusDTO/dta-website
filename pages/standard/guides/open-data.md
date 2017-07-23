@@ -7,6 +7,7 @@ topic_group:
 - Website design and development
 topic:
 - Data sharing
+searchexcerpt: "Governments have a significant amount of data that can be published publicly. Where this data is made available in a machine-readable way, digital services can leverage it to support improved information and service delivery for users."
 ---
 <a id="top" name="top"></a>Governments have a significant amount of data that can be published publicly. Where this data is made available in a machine-readable way, digital services can leverage it to support improved information and service delivery for users.<span style="font-size: 0.92em;"> </span>Examples of data in Australian government include the location and quality of broadband connections, the number of people receiving different types of support from Centrelink, or the boundaries for federal elections.
 

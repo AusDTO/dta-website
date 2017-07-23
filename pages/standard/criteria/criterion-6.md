@@ -5,6 +5,7 @@ title: Consistent and responsive design
 lede: Build the service with responsive design methods using common design patterns and the style guide for digital content
 permalink: /standard/6-consistent-and-responsive/
 breadcrumb: 6. Consistent and responsive design
+searhexcerpt: "Using responsive design, following common design patterns and style guidance for digital content, and making sure the service is accessible means it will be simpler, clearer and faster for all users. It will also be available on the platforms and devices that users choose."
 ---
 ## Why it’s in the Standard
 Using responsive design, following common design patterns and style guidance for digital content, and [making sure the service is accessible](/standard/design-guides/inclusive-services/) means it will be simpler, clearer and faster for all users. It will also be available on the [platforms and devices that users choose](/blog/what-do-we-mean-by-digital/).

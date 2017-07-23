@@ -9,6 +9,7 @@ topic_group:
 - Website design and development
 topic:
 - Agile development
+searchexcerpt: "Agile development is about iterating quickly to deliver value to your users. The benefit is that teams can quickly adapt and align services with user needs in rapidly changing environments."
 ---
 Agile development is about iterating quickly to deliver value to your users. In contrast to traditional development methodologies like [waterfall](https://en.wikipedia.org/wiki/Waterfall_model), agile development requires [continuous delivery](#continuousdelivery), improvement and feedback from users. The benefit is that teams can quickly adapt and align services with [user needs](#userstories) in rapidly changing environments.
 

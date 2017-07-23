@@ -7,6 +7,7 @@ topic_group:
 - Website design and development
 topic:
 - Security
+searchexcerpt: "The Trusted Digital Identity Framework will establish the overarching requirements, structure, governance arrangements and interoperable standards for a trusted Australian digital identity system to ensure it is scalable, secure, simple to use and fair."
 ---
 Users of digital government services need to be able to sign in securely and conveniently to access services and records, and be confident that their data is secure and their privacy protected. Government also needs to be confident that users are who they say they are. Identity assurance is a means of delivering the required confidence to both users and government.
 

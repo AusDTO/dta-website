@@ -5,6 +5,7 @@ permalink: /standard/12-non-digital-experience/
 title: Don’t forget the non-digital experience
 lede: Ensure that people who use the digital service can also use the other available channels if needed, without repetition or confusion.
 breadcrumb: 12. Don’t forget the non-digital experience
+searchexcerpt: "We need to make sure users’ transitions between non-digital and digital channels, when they need to happen, are as smooth as possible."
 ---
 
 ## Why it’s in the Standard

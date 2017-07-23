@@ -8,6 +8,7 @@ topic_group:
 - Website design and development
 topic:
 - Data sharing
+searchexcerpt: "APIs allow the private sector to use government data holdings in new ways that generate significant value for the community and economy."
 ---
 Agencies that use systems designed in a modular and API-enabled way are more able to leverage new and better technologies as they emerge, instead of being locked into strictly defined and less flexible traditional large systems.
 

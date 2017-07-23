@@ -5,6 +5,7 @@ permalink: /who-we-are/corporate/plan/
 redirect_from: /corporate-plan/
 gov-speak: true
 localnav: who-we-are
+searchexcerpt: "Over the next four years we will work with departments and agencies, not independently of them, to develop solutions together, which can then be shared across the rest of government."
 ---
 
 <div class="corporate-plan-container" markdown="1">

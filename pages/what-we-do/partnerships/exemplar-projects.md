@@ -3,6 +3,7 @@ title: Exemplar projects
 layout: basic
 permalink: /what-we-do/partnerships/exemplar-projects/
 localnav: what-we-do
+searchexcerpt: "The DTA works closely with other government agencies to transform individual services while also offering advice and expertise to drive whole-of-government transformation."
 ---
 
 The transformation of online government services involves both large and small scale change.

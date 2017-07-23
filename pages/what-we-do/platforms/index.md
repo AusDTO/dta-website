@@ -3,6 +3,7 @@ layout: basic
 title: "Platforms"
 permalink: /what-we-do/platforms/
 localnav: what-we-do
+searchexcerpt: "Find information on common solutions developed by DTA, such as Cloud, Digital Marketplace, Performance Dashboard and Govpass."
 ---
 
 <ul class="list-small">

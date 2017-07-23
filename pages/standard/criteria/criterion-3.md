@@ -6,6 +6,7 @@ lede: Design and build the service using the service design and delivery process
 permalink: /standard/3-agile-and-user-centred/
 redirect_from: /standard/3-agile-and-user-centered/
 breadcrumb: 3. Agile and user-centred process
+searchexcerpt: "Designing services in a user-centred way means that the services you deliver will be easy to use and convenient for the people who need to use them, helping them to stay in the digital channel."
 ---
 ## Why it’s in the Standard
 Designing services in a user-centred way means that the services you deliver will be easy to use and convenient for the people who need to use them, helping them to stay in the digital channel.
