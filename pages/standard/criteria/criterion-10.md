@@ -5,6 +5,7 @@ title: Test the service
 lede: Test the service from end to end, in an environment that replicates the live version.
 permalink: /standard/10-test-the-service/
 breadcrumb: Test the service
+searchexcerpt: "You cannot wait until the service is live to discover problems that stop people from using the service. You need to rigorously and comprehensively test every part of the service during development."
 ---
 
 ## Why it’s in the Standard

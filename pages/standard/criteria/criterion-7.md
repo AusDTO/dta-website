@@ -5,6 +5,7 @@ title: Use open standards and common platforms
 lede: Build using open standards and common government platforms where appropriate. 
 permalink: /standard/7-open-standards-and-common-platforms/
 breadcrumb: 7. Use open standards and common platforms
+searchexcerpt: "Using open standards and common government platforms helps you to meet the needs of your users by building with proven solutions; make users’ experience of government more consistent, which generates trust; save time and money by reusing things that are already available; be more efficient by sharing data appropriately and move between different technologies when you need to, avoiding vendor lock-in."
 ---
 ## Why it’s in the Standard
 Using [open standards](https://en.wikipedia.org/wiki/Open_standard) and common government platforms helps you to: 

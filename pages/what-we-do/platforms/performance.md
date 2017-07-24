@@ -5,6 +5,7 @@ lede: "The DTA’s Performance Dashboard is a place for government to publicly r
 permalink: /what-we-do/platforms/performance/
 redirect_from: /our-work/performance/
 localnav: what-we-do
+searchexcerpt: "The DTA’s Performance Dashboard is a place for government to publicly report how its services are performing."
 ---
 
 [The Dashboard](https://dashboard.gov.au/) makes this data accessible to increase transparency and drive the continuous improvement of government services.

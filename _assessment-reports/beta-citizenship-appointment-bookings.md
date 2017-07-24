@@ -6,6 +6,8 @@ permalink: /standard/assessments/appointment-booking-service-beta/
 
 report-excerpt: The aim of the Australian Citizenship appointment booking service is to enable users to book, or reschedule, an appointment for a citizenship test or a time to come in and prove who they are through an in-person identity verification appointment. At the moment, these types of appointments are scheduled by the department. As a result, many appointments need to be rescheduled as they are inconvenient for the user. This causes delays and increases calls and interactions. This could be avoided if the user was able to select an appointment time and date that was convenient to them.
 
+searchexcerpt: "The Citizenship appointment bookings service began before the Digital Service Standard became live. This means the service was assessed against the beta version of the Standard. The team is in the process of transitioning to the live Standard."
+
 department: Department of Immigration and Border Protection
 date: 2016-05-03
 result: Pass

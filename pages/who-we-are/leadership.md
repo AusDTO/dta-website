@@ -3,6 +3,7 @@ layout: basic
 title: Leadership
 permalink: /who-we-are/leadership/
 localnav: who-we-are
+searchexcerpt: "Gavin Slater was appointed as CEO of the Digital Transformation Agency of the Australian Government on 1 May 2017. Gavin has spent 30 years in the private sector working in the Financial Services sector. "
 ---
 
 ## Gavin Slater -- Chief Executive Officer

@@ -5,6 +5,7 @@ title: Encourage everyone to use the digital service
 lede: Encourage users to choose the digital service and consolidate or phase out existing alternative channels where appropriate.
 permalink: /standard/13-encourage-use-of-the-digital-service/
 breadcrumb: 13. Encourage everyone to use the digital service
+searchexcerpt: "We still need to help users who are unable to use digital channels and provide support to those who need it. But we want to ensure digital channels are used whenever possible and to scale back, or phase out, alternative channels when we can."
 ---
 
 ## Why it’s in the Standard

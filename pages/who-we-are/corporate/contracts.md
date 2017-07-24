@@ -5,6 +5,7 @@ permalink: /who-we-are/corporate/contracts/
 localnav: who-we-are
 redirect_from: /contracts/
 lede: Senate Order for Department and Agency lists of contracts.
+searchexcerpt: "Find a list of contracts entered into by the Digital Transformation Agency, with a consideration to the value of $100,000 or more, that have not been fully performed in the reporting period, or were entered into during the reporting period."
 ---
 
 This is a list of contracts entered into by the Digital Transformation Agency, with a consideration to the value of $100,000 or more, that have:

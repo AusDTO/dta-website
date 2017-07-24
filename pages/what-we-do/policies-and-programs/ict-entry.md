@@ -3,6 +3,7 @@ title: ICT entry-level programs
 layout: basic
 permalink: /what-we-do/policies-and-programs/ict-entry/
 localnav: what-we-do
+searchexcerpt: "Our entry-level programs provide a great opportunity for those interested in developing their ICT skills whilst working as part of a supportive workforce that nurtures professional expertise and opportunities for skills development."
 ---
 
 <nav class="index-links">

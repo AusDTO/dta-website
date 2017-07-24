@@ -6,6 +6,7 @@ redirect_from:
   - /our-work/
   - /projects/
 localnav: what-we-do
+searchexcerpt: DTA was set up in 2015 to help government departments and agencies undergo digital transformation. Since then, our role has grown. We now have wide-ranging responsibilities to help lead transformation across government and have central oversight of the government’s ICT agenda.
 ---
 
 Australians are more mobile, more connected and more reliant on technology than ever before.

@@ -3,6 +3,7 @@ layout: standard
 title: Discovery
 permalink: /standard/service-design-and-delivery-process/discovery/
 weight: 10
+searchexcerpt: "The purpose of the Discovery process is to help the team get a deep understanding of the problems they are setting out to address in the service delivery by understanding users, their needs and their experience with the system."
 ---
 <div class="design-and-delivery-discovery">
   <div class="embed-container">

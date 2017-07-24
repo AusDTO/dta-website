@@ -7,6 +7,7 @@ redirect_from:
 - /annual-report/
 - /annual-report/2015-16/
 - /who-we-are/corporate/annual-report/2015-16/
+searchexcerpt: "This annual report covers the performance, accountability and financial reporting of the Digital Transformation Office (DTO) for the financial year ending on 30 June 2016."
 ---
 
 ## About this report

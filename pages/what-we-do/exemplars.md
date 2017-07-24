@@ -5,6 +5,7 @@ lede: "We're working with government agencies to help transform services."
 permalink: /what-we-do/exemplars/
 redirect_from: /our-work/transformation/
 localnav: what-we-do
+searchexcerpt: "The DTA works closely with other government agencies to transform individual services while also offering advice and expertise to drive whole-of-government transformation."
 ---
 
 {% include project-counter.html %}

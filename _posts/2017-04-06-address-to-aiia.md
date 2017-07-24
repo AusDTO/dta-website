@@ -3,6 +3,7 @@ title: "Address to the AIIA: Navigating Digital Government Summit 2017"
 category: [news]
 tag: 'dta news'
 thumbnail: /images/blog-thumbnails/Nerida-thumb.jpg
+searchexcerpt: "At the outset, I will reiterate that the government’s ambition for simple, fast and easy government services remains central to its Digital Transformation Agenda."
 ---
 
 **Release Date:** 5 April 2017

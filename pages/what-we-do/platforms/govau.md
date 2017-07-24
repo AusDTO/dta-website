@@ -5,6 +5,7 @@ lede: "We're making it simpler, clearer and faster for people to access governme
 permalink: /what-we-do/platforms/govau/
 redirect_from: /our-work/gov-au/
 localnav: what-we-do
+searchexcerpt: "The GOV.AU project has a simple vision: to make it easier for users to get things done with government, without needing to know how government works."
 ---
 
 The GOV.AU project has a simple vision: to make it easier for users to get things done with government, without needing to know how government works.

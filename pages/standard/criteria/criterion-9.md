@@ -5,6 +5,7 @@ title: Make it accessible
 lede: Ensure the service is accessible to all users regardless of their ability and environment. 
 permalink: /standard/9-make-it-accessible/
 breadcrumb: 9. Make it accessible
+searchexcerpt: "You need to make sure everyone who needs your service can use it. This includes people with disabilities and older people, and people who can’t use, or struggle with, digital services."
 ---
 
 ## Why it’s in the Standard

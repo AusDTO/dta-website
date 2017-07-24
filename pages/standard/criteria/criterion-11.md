@@ -5,6 +5,7 @@ title: Measure performance
 lede: Measure performance against KPIs set out in the guides. Report on public dashboard.
 permalink: /standard/11-measure-performance/
 breadcrumb: 11. Measure performance
+searchexcerpt: "Every service must aim for continuous improvement. Metrics are an important starting point for discussions about a service’s strengths and weaknesses. By identifying and capturing the right metrics - with the right tools - you can make sure all your decisions to improve the service are supported by data."
 ---
 
 ## Why it’s in the Standard

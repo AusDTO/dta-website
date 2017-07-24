@@ -5,6 +5,7 @@ title: Make source code open
 lede: Make all new source code open by default. 
 permalink: /standard/8-make-source-code-open/
 breadcrumb: 8. Make source code open
+searchexcerpt: "It’s important to share your source code so others with a similar need can reuse it. Open source helps to reduce costs for your project and others’, avoid lock-in, stop duplication, increase transparency, add benefits, from improvements by other developers."
 ---
 
 ## Why it’s in the Standard

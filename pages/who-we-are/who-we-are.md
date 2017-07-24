@@ -6,6 +6,7 @@ localnav: who-we-are
 redirect_from:
   - /about/
   - /about-us/
+searchexcerpt: Digital transformation is about changing how we all undertake our day-to-day operations and how we design online services to be simpler, clearer and faster for users. We have staff with unique and wide-ranging capabilities to successfully lead the government’s digital transformation efforts. 
 ---
 
 Digital transformation is about much more than making changes to a website. It’s about changing how we all undertake our day-to-day operations and how we design online services to be simpler, clearer and faster for users.

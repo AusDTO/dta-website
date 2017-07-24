@@ -2,6 +2,7 @@
 layout: standard
 title: Staged assessment process
 permalink: /standard/meeting-standard/staged-assessment-process/
+searchexcerpt: "The staged assessment process uses 3 assessments against the Digital Service Standard across the stages of the service design and delivery process."
 ---
 All services within the [scope of the Digital Service Standard](/standard/scope-of-standard/) (the Standard) will be assessed against the Standard. Depending on the service, this will follow either the staged assessment process or the [in-flight assessment process](/standard/meeting-standard/#inflight).
 

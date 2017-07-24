@@ -3,6 +3,7 @@ title: ICT procurement review
 layout: basic
 permalink: /what-we-do/policies-and-programs/ict-procurement/ict-procurement-review/
 localnav: what-we-do
+searchexcerpt: "A review into how government buys ICT products and services began in October 2016. The review taskforce is assessing ICT procurement across government."
 ---
 
 A review into how government buys ICT products and services began in October 2016. It moved over from the Department of the Prime Minister and Cabinet to the DTA in February 2017.

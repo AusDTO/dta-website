@@ -3,6 +3,7 @@ layout: standard
 title: Moratorium on service investment
 permalink: /standard/moratorium/
 breadcrumb: Moratorium
+searchexcerpt: "The Australian Government has established a moratorium that stops Commonwealth (federal) agencies from investing in new, or duplicating, service delivery capability."
 ---
 The Australian Government has established a moratorium that stops Commonwealth (federal) agencies from investing in new, or duplicating, service delivery capability. The moratorium is an important tool to help government limit the fragmenting of users’ experience across the Australian Government.
 

@@ -4,6 +4,7 @@ category: [news]
 tag: 'dta news'
 thumbnail: /images/blog-thumbnails/MyGov-laptop-user-THUMB-22-05-17-3.jpg
 hero-image: /images/blog-content/MyGov-laptop-user-HERO-22-05-17-3.jpg
+searchexcerpt: "Since mid-2016 the Department of Human Services and the DTA have been working together to deliver improvements to myGov."
 ---
 
 ![A user navigates the new look myGov on a laptop.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})

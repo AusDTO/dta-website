@@ -7,6 +7,7 @@ lede: Helping you meet the Digital Service Standard.
 weight: 50
 phase: 'Alpha'
 redirect_from: /design-guides/
+searchexcerpt: The guides are a growing collection of information to help Australian Government agencies meet the Digital Service Standard. The Digital Service Standard helps us to build services that are simpler, faster and easier for all users.
 ---
 The guides are a growing collection of information to help Australian Government agencies meet the [Digital Service Standard](/standard/). The Digital Service Standard helps us to build services that are simpler, faster and easier for all users.
 
