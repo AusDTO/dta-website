@@ -28,13 +28,24 @@
   <link rel="canonical" href="{{ url }}">
   <meta property="og:url" content="{{ url }}" />
 
-{% if page.hero-image %}
-  {% assign social-image-url = page.hero-image | prepend: site.baseurl | prepend: site.url %}
+{% if page.facebook-image %}
+  {% assign facebook-image-url = page.facebook-image | prepend: site.baseurl | prepend: site.url %}
+{% elsif page.hero-image %}
+  {% assign facebook-image-url = page.hero-image | prepend: site.baseurl | prepend: site.url %}
 {% else %}
-  {% assign social-image-url = '/image/dta-unfurl.png' | prepend: site.baseurl | prepend: site.url %}
+  {% assign facebook-image-url = '/images/dta-unfurl.png' | prepend: site.baseurl | prepend: site.url %}
 {% endif %}
-  <meta property="og:image" content="{{ social-image-url }}" />
-  <meta name="twitter:image" content="{{ social-image-url }}" />
+
+{% if page.twitter-image %}
+  {% assign twitter-image-url = page.twitter-image | prepend: site.baseurl | prepend: site.url %}
+{% elsif page.hero-image %}
+  {% assign twitter-image-url = page.hero-image | prepend: site.baseurl | prepend: site.url %}
+{% else %}
+  {% assign twitter-image-url = '/images/dta-unfurl.png' | prepend: site.baseurl | prepend: site.url %}
+{% endif %}
+
+  <meta property="og:image" content="{{ facebook-image-url }}" />
+  <meta name="twitter:image" content="{{ twitter-image-url }}" />
 
 {% if page.searchexcerpt %}
   {% assign description = page.searchexcerpt | markdownify | strip_html %}
