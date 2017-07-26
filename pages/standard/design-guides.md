@@ -5,7 +5,6 @@ permalink: /standard/design-guides/
 breadcrumb: Design guides
 lede: Guidance to help you meet the Digital Service Standard.
 weight: 50
-phase: 'Alpha'
 redirect_from: /design-guides/
 ---
 
