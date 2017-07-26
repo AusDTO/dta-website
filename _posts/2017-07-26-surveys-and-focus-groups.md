@@ -9,9 +9,9 @@ hero-image: /images/blog-content/fake_survey_hero.png
 searchexcerpt: "Surveys and focus groups aren’t used much in our user-centred design process. These are the reasons why."
 ---
 
-![Extract of HTML source code from the DTA website.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+![A user filling out a survey on a smart phone.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: Extract of HTML source code from the DTA website.*
+*Caption: A user filling out a survey.*
 
 ## You can’t get authentic, actionable insights in a few clicks
 
