@@ -66,11 +66,11 @@ When we are testing content, we might provide a real-life scenario that represen
 
 A scenario might be something like this:
 
-*Samantha is 41. She is a single mother of a 14-year-old boy. 
+*Samantha is 41. She is a single mother of a 14-year-old boy.* 
 
 The building company she worked for has recently gone out of business and she's now working part-time at the local supermarket while looking for work.
 
-*How much can she earn each fortnight before her payment stops?
+*How much can she earn each fortnight before her payment stops?*
 
 We can do task-based testing in a moderated environment. This is where the user researcher is in the room (or on a video conference) with the participant and asking them about how they are interpreting the design and information as they move through the task. This helps us understand what people are thinking and why they are making the decisions they do and let’s us understand how to improve the design to work better.
 
