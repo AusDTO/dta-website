@@ -13,16 +13,16 @@ Our communities of practice bring together our government colleagues to collabor
 
 The communities are open to anyone in local, state and federal government to join.
 
-We’re also documenting best practice for building digital services in the [design guides](https://www.dta.gov.au/standard/design-guides/) and [service handbook](http://ausdto.github.io/service-handbook/).
+We are also [currently expanding and updating our guidance](https://www.dta.gov.au/standard/design-guides/) to help Australian Government teams understand and meet the Digital Service Standard.
 
 ## Content design community
 
-This is a community for people who write, edit or manage content in any part of the Australian government (including state and local government). 
+This is a community for people who write, edit or manage content in any part of the Australian government (including state and local government). Members can contribute ideas to the [GOV.AU Content Guide](https://guides.service.gov.au/content-guide/).
 [Join the community](https://docs.google.com/a/digital.gov.au/forms/d/1FDc92Hb2VXa0DBf03CCOXK2ih5SfF7aNFrFscj7W09s/viewform?edit_requested=true) (you need a ‘gov.au’ email address).
 
 ## Service design community
 
-This is an community for people who are involved in service design in any part of the Australian government (including state and local government). 
+This is a community for people who are involved in service design in any part of the Australian government (including state and local government). 
 [Join the community](https://docs.google.com/a/digital.gov.au/forms/d/e/1FAIpQLSew8K2LIZNFI8k1r9a3p6gQuIkuJ8b-7Yl99HI0W_gTZRgjkg/viewform?c=0&w=1)
 
 ## P3M community
