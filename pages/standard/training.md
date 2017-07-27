@@ -1,7 +1,7 @@
 ---
 layout: standard
 title: Digital Service Standard Training
-permalink: /standard/meeting-standard/training/
+permalink: /standard/training/
 searchexcerpt: The DTA offers training courses for government employees to help service teams meet the Digital Service Standard.
 ---
 
