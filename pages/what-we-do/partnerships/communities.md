@@ -13,7 +13,7 @@ Our communities of practice bring together our government colleagues to collabor
 
 The communities are open to anyone in local, state and federal government to join.
 
-We are also [currently expanding and updating our guidance](https://www.dta.gov.au/standard/design-guides/) to help Australian Government teams understand and meet the Digital Service Standard.
+We are [currently expanding and updating our guidance](https://www.dta.gov.au/standard/design-guides/) to help Australian Government teams understand and meet the Digital Service Standard.
 
 ## Content design community
 
