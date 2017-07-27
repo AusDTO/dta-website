@@ -31,7 +31,7 @@ As researchers, we have a pretty diverse toolkit of research techniques and it i
 
 Surveys and focus groups are research techniques widely used in market research where we want to understand the size of a market and how to reach and attract them. But most of the time, designing government services is not like marketing.
  
-Randomised Control Trials (RCTs) are widely used by Behavioural Economists to understand how best to influence behaviour in a desired direction. Most of the time, designing government services is not like Behavioural Economics.
+Randomised control trials are widely used by behavioural economists to understand how best to influence behaviour in a desired direction. Most of the time, designing government services is not like behavioural economics.
 
 The job that multi-disciplinary teams have to do when designing government services is simple but difficult. We need to make sure that the service works for the widest possible audience. Everyone who wants to use that digital government service should be able to.
 
@@ -46,7 +46,7 @@ When we achieve this level of usability in a government service we are more like
 
 Government services work when people understand what government wants them to do. Success also means they’re able to use the service as quickly and easily as possible without making errors. These are the outcomes that the user researcher needs to prioritise. 
 
-To achieve this we use observational research techniques and iterative processes that predate both the internet and computers --- having their foundations in ergonomics and later in human computer interaction (HCI). 
+To achieve this we use observational research techniques and iterative processes that predate both the internet and computers --- having their foundations in ergonomics and later in human computer interaction. 
 
 There are 3 important things our user researchers and their multi-disciplinary teams keep in mind as they do their work to understand whether services are usable and how the team might make them more usable:
 
@@ -58,7 +58,7 @@ There are 3 important things our user researchers and their multi-disciplinary t
 
 ## Setting real-life tasks is more valuable than ‘tell us what you think’
 
-We used task-based usability as one of the main research tools when we are evaluating the design of digital services and iterating to improve them in the Alpha, Beta and live stages.
+We used task-based usability as one of the main research tools when we are evaluating the design of digital services and iterating to improve them in the Alpha, Beta and Live stages.
 
 To do this we come up with  examples of important tasks that people need to do to complete that service. For example we might ask them to register for a service and complete a registration form as if they were doing it for real. 
 
@@ -78,4 +78,4 @@ Task-based testing can also be done in an unmoderated environment. This is where
 
 Both of these approaches give the team valuable insights into how well a service is performing. But critically we also learn what we can do to make the service work better for users.
 
-Of course there are times to use surveys and RCTs --- no research method is in itself inherently bad. But if you’re in the business of designing government services and making them work better for users (which means better outcomes for government too) then you need to make sure you’re not automatically defaulting to research tools that don’t let you dig as deep as our users deserve.
+Of course there are times to use surveys and randomised control trials --- no research method is in itself inherently bad. But if you’re in the business of designing government services and making them work better for users (which means better outcomes for government too) then you need to make sure you’re not automatically defaulting to research tools that don’t let you dig as deep as our users deserve.
