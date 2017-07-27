@@ -31,7 +31,7 @@ As researchers, we have a pretty diverse toolkit of research techniques and it i
 
 Surveys and focus groups are research techniques widely used in market research where we want to understand the size of a market and how to reach and attract them. But most of the time, designing government services is not like marketing.
  
-Randomised control trials are widely used by behavioural economists to understand how best to influence behaviour in a desired direction. Most of the time, designing government services is not like behavioural economics.
+Randomised control trials are widely used in behavioural economics to understand how best to influence behaviour in a desired direction. Most of the time, designing government services is not like behavioural economics.
 
 The job that multi-disciplinary teams have to do when designing government services is simple but difficult. We need to make sure that the service works for the widest possible audience. Everyone who wants to use that digital government service should be able to.
 
