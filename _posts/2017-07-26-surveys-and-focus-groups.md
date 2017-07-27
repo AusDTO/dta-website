@@ -68,7 +68,7 @@ A scenario might be something like this:
 
 *Samantha is 41. She is a single mother of a 14-year-old boy.* 
 
-The building company she worked for has recently gone out of business and she's now working part-time at the local supermarket while looking for work.
+*The building company she worked for has recently gone out of business and she's now working part-time at the local supermarket while looking for work.*
 
 *How much can she earn each fortnight before her payment stops?*
 
