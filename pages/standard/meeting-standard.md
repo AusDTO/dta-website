@@ -33,7 +33,7 @@ Your service will be assessed as it moves through the stages of the [service des
 * [in-flight assessment](#inflight) - regular check-ins by a team of experts as you design and develop your service
 * [staged assessment](/standard/meeting-standard/staged-assessment-process/) - assessments at 3 points in the service design and delivery process.
 
-All DTA-led assessments on high volume transactional services will be in-flight assessments.
+DTA-led assessments on high volume transactional services will use the model most appropriate for the service and available resources.
 
 For agency self-assessments on all other services, you may choose to use the [in-flight process](#inflight) or the [staged assessment process](/standard/meeting-standard/staged-assessment-process/).
 
@@ -57,7 +57,7 @@ The assessing team will generally include 3 assessors (one of which is nominated
 * technology
 * agile delivery.
 
-You can contact the DTA Standard team by emailing [standard@digital.gov.au](mailto:standard@digital.gov.au) for help on setting up an assessment team. Assessment teams are assigned during the mobilisation / kick-off stage, before the service enters Discovery, so that assessors are involved as early as possible in the project.
+You can contact the DTA Standard team by emailing [standard@digital.gov.au](mailto:standard@digital.gov.au) for help on setting up an assessment team. 
 
 ### <a id="inflight"></a>In-flight assessment process
 
@@ -65,7 +65,7 @@ The in-flight assessment focuses on continuous improvement and learning for the 
 
 #### Meet with assessors regularly
 
-Your digital delivery team will meet with the assessment team for at least 1 hour once a week during the Discovery, Alpha and Beta stages, until the service is launched as a public beta.
+Your digital delivery team will meet with the assessment at regular intervals during the Discovery, Alpha and Beta stages, until the service is launched as a public beta.
 
 As the service moves towards the Live stage, the assessment and digital delivery teams may consider moving check-ins to longer intervals, but they should happen at least monthly.
 
@@ -113,4 +113,4 @@ You will also need to check:
 
 * DTA blog: [Moving to an agile ‘in-flight’ assessment model](/blog/in-flight-assessment-model/)
 
-**Last updated:** 19 April 2017
+**Last updated:** 28 July 2017
