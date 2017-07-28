@@ -19,7 +19,7 @@ The DTA has also kicked off discovery work with the Australian Public Service Co
 
 Read the media release
 
-Read transcript – 
+[Read transcript](/pages/transcripts/digital-capability.md) – 3:06 min
 
 <div class="embed-container">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/rZAykQeqTtY" frameborder="0" allowfullscreen></iframe>
