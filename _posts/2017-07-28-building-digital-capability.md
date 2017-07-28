@@ -1,5 +1,5 @@
 ---
-title: "High demand for digital skills training as government boosts investment in IT capability"
+title: "Building digital capability to drive transformation"
 category: [news]
 tag: 'dta news'
 thumbnail: /images/blog-thumbnails/thumb2.png
@@ -18,3 +18,9 @@ The DTA’s ICT Entry-Level programs bring new talent into digital roles across 
 The DTA has also kicked off discovery work with the Australian Public Service Commission to build capability through a number of digital literacy training programs. These programs will focus on upskilling staff, developing digital skills at a senior executive level, and attracting and retaining digital talent within the public service.
 
 Read the media release
+
+Read transcript – 
+
+<div class="embed-container">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/rZAykQeqTtY" frameborder="0" allowfullscreen></iframe>
+</div>
