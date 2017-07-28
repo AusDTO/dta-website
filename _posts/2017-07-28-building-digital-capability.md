@@ -19,7 +19,7 @@ The DTA has also kicked off discovery work with the Australian Public Service Co
 
 Read the [media release](https://ministers.pmc.gov.au/taylor/2017/high-demand-digital-skills-training-government-boosts-investment-it-capability)
 
-[Read transcript](https://www.dta.gov.au/digital-capability) – 3:06 min
+[Read transcript](/digital-capability/) – 3:06 min
 
 <div class="embed-container">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/rZAykQeqTtY" frameborder="0" allowfullscreen></iframe>
