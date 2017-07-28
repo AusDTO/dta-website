@@ -17,7 +17,7 @@ The DTA’s ICT Entry-Level programs bring new talent into digital roles across 
 
 The DTA has also kicked off discovery work with the Australian Public Service Commission to build capability through a number of digital literacy training programs. These programs will focus on upskilling staff, developing digital skills at a senior executive level, and attracting and retaining digital talent within the public service.
 
-Read the media release
+Read the [media release](https://ministers.pmc.gov.au/taylor/2017/high-demand-digital-skills-training-government-boosts-investment-it-capability)
 
 [Read transcript](https://www.dta.gov.au/digital-capability) – 3:06 min
 
