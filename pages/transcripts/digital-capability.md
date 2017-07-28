@@ -10,14 +10,14 @@ permalink: /digital-capability/
 
 **Michelle Norris:** The Australian Government ICT Entry-Level Programs help build the digital capability of government by ensuring we have the right skills and the right people to address the emerging ICT technologies and issues the government has to face in the future.
 
-The Entry-Level Programs has a really strong focus on increasing diversity amongst our ICT employees. It’s an area agencies are particularly focussed on at the moment.
+The Entry-Level Programs has a really strong focus on increasing diversity amongst our ICT employees. It’s an area agencies are particularly focused on at the moment.
 
-We have around 40% of our ICT workforce are female and the Entry-Level Programs are one means that agencies can use to
-increase their female participation in their ICT workforce.
+We have around 40% of our ICT workforce are female and the entry level programs are one means that agencies can use to
+increase their female participation in the ICT workforce.
 
 **Libby Varcoe:** People expect us to be doing really good things, they expect a very high service level from the Australian Government. 
 
-People don’t go to government because they want to, it’s because they either have to or they need to, and we really need to honour that and make sure that’s a seamless experience.
+People don’t go to government because they want to. It’s because they either have to or they need to, and we really need to honour that and make sure that’s a seamless experience.
 
 By bringing in new skills, by mixing it up, by really challenging ourselves within our disciplines.
 
@@ -29,7 +29,7 @@ We’re creating guidance from the DTA to really support the work that’s being
 
 What that product involves and delivers is really a design system and a pattern library, and what that brings to government is guidance and documentation on usability, accessibility, and general guidance about how you might implement those patterns.
 
-**Rod Molina:** We build those skills by working in partnership with agencies. What we do is we go and we work together. We bring all the hard skills, but more importantly we bring the experience doing it, aiming always for building a new culture, how we can work better together, how we can collaborate and how we can build better services for our users.
+**Rod Molina:** We build those skills by working in partnership with agencies. What we do is we go and we work together. We bring all the hard skills, but more importantly we bring the experience doing it --- aiming always for building a new culture --- how we can work better together, how we can collaborate and how we can build better services for our users.
 
 **Jo Hill:** Personally I’ve been working on a day to day level with a number of individuals at a department, helping to essentially train them up as user researchers. 
 
