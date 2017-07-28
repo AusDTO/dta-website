@@ -4,7 +4,7 @@ title: Building digital and ICT capability in government
 permalink: /digital-capability/
 ---
 
-## Building digital and ICT capability in government – transcript
+## Transcript
 
 **Gavin Slater:** The DTA has a vital role role to play in building digital capability across government, and my vision is for us to create an environment where we can bring staff from government through the DTA, get them to work on real issues and real problems, using techniques like user-centred design, rapid prototyping, building a solution, testing it, being prepared to fail and try again.
 
