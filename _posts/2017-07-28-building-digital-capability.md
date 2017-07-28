@@ -9,7 +9,7 @@ Programs to lift the digital skills of the Australian Public Service are being d
 
 Assistant Minister for Digital Transformation, Angus Taylor, said skilled staff were crucial to delivering effective digital services and the government needs to keep up with the private sector. 
 
-“We want the next group of digital superstars to see government as a great place to start their career”, Assistant Minister Taylor said. 
+“We want the next group of digital superstars to see government as a great place to start their career," Assistant Minister Taylor said. 
 
 The DTA’s ICT Entry-Level programs bring new talent into digital roles across government. Up to 1000 people are expected to apply for the current intake in which 200 apprentices and cadets will be placed in government agencies. This will be the largest intake in the programs' 10 year history which has seen over 1000 people start their digital careers in government.
 
