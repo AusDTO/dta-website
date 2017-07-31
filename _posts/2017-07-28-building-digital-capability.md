@@ -2,7 +2,7 @@
 title: "Building digital capability to drive transformation"
 category: [news]
 tag: 'dta news'
-thumbnail: /images/blog-thumbnails/thumb2.png
+thumbnail: /images/blog-thumbnails/video-Thumb.png
 ---
 
 Programs to lift the digital skills of the Australian Public Service are being designed and delivered by the DTA as part of the government’s digital transformation agenda.
