@@ -1,7 +1,7 @@
 ---
 title: Gavin Slater
 position: Chief Executive Officer
-image: /images/leadership-group/Gavin_Slater_bio_150v2.jpg
+image: /images/leadership-group/CEO-Gavin-Slater-150px.jpg
 exclude_from_search: true
 ---
 
