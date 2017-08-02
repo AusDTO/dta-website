@@ -34,8 +34,11 @@ breadcrumb_type: post
   <div class="abstract">
     {{ page.searchexcerpt | markdownify }}
   </div>
-
-  <section class="post-body">
+  {% if page.tags contains 'dta download' %}
+    <section class="post-body dta-download">
+  {% else %}
+    <section class="post-body">
+  {% endif %}
     {{ content }}
   </section>
 
