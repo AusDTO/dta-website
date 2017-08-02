@@ -6,7 +6,7 @@ author: Andy Kempson
 author-excerpt: "Andy Kempson is a Career Development Support Officer in the APS Capability team."
 thumbnail: /images/blog-thumbnails/ICT-CDSO-Andy-Kempson-THUMB-1.jpg
 hero-image: /images/blog-content/ICT-CDSO-Andy-Kempson-HERO-1.jpg
-searchexcerpt: "Over the past 10 years the Australian Government’s ICT entry-level program has kicked off the ICT careers of over 1000 people – helping to build the digital capability of the APS. And the best news? More than 80% of those people have successfully completed their program with the support of career development support officers like Andy Kempson. Here Andy talks about his role."
+searchexcerpt: "Over the past 10 years the Australian Government’s ICT entry-level program has kicked off the ICT careers of over 1000 people --- helping to build the digital capability of the APS. And the best news? More than 80% of those people have successfully completed their program with the support of career development support officers like Andy Kempson. Here Andy talks about his role."
 ---
 
 ![Andy Kempson having coffee with an ICT entry level program student.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
@@ -17,7 +17,7 @@ searchexcerpt: "Over the past 10 years the Australian Government’s ICT entry-l
 
 As a career development support officer (support officer), I provide support and assistance for approximately 45 participants across our [ICT entry-level programs](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-entry/). Every participant has a dedicated support officer from their first day, helping them gain the most from their experience. 
 
-I meet with them fortnightly and then monthly for the duration of the program, which can be up to three years. I spend time getting to know each participant – usually face-to-face over a coffee. Although the support officers are based in Canberra, we also travel to visit our interstate participants, as well as catching up on the phone monthly.
+I meet with them fortnightly and then monthly for the duration of the program, which can be up to three years. I spend time getting to know each participant --- usually face-to-face over a coffee. Although the support officers are based in Canberra, we also travel to visit our interstate participants, as well as catching up on the phone monthly.
 
 These meetings are valuable as they give the participant an opportunity to raise any concerns or pressing issues relating to their work, study and life generally. 
 
