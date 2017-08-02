@@ -9,9 +9,9 @@ hero-image: /images/blog-content/ICT-CDSO-Andy-Kempson-HERO-1.jpg
 searchexcerpt: "Over the past 10 years the Australian Government’s ICT entry-level program has kicked off the ICT careers of over 1000 people --- helping to build the digital capability of the APS. And the best news? More than 80% of those people have successfully completed their program with the support of career development support officers like Andy Kempson. Here Andy talks about his role."
 ---
 
-![Andy Kempson having coffee with an ICT entry level program student.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+![Andy Kempson having coffee with an ICT entry-level program participant.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: Andy Kempson with an ICT entry level program student.*
+*Caption: Andy Kempson with an ICT entry-level program participant.*
 
 ## Getting to know the program participants
 
@@ -57,7 +57,7 @@ I am absolutely passionate about our programs and proud to represent all of my p
 
 Find out more about our ICT entry-level programs. There are about 250 positions to be filled in 2018 and application are now open. 
 
-- Apprenticeship program --- applications close on Friday 4th August
-- Cadetship program --- applications close Friday 11th August 
+- Apprenticeship program --- [applications close on Friday 4th August](https://www.dta.gov.au/who-we-are/corporate/jobs/#op-193387-2018-australian-government-ict-apprenticeship-program)
+- Cadetship program --- [applications close Friday 11th August](https://www.dta.gov.au/who-we-are/corporate/jobs/#op-192930-2018-australian-government-ict-cadetship-program) 
 
-Check out our facebook page for all up-to-date information about the ICT entry-level programs. You can ask us any questions or participate in live Q&A sessions. 
+Check out our [facebook page](https://www.facebook.com/ictentrylevel/) for all up-to-date information about the ICT entry-level programs. You can ask us any questions or participate in live Q&A sessions. 
