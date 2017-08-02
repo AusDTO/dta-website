@@ -57,6 +57,23 @@
     border-radius: $tiny-border-radius;
     box-shadow: 0 0 8px $light-grey;
   }
+  &.dta-download {
+    @include media($desktop) {
+      p {
+        padding-left: 41%;
+        img {
+          margin-left: -100%;
+        }
+      }
+      img {
+        float: left;
+        width: 94%;
+        height: auto;
+        margin-right: $medium-spacing;
+        margin-bottom: $medium-spacing;
+      }
+    }
+  }
 }
 
 .post-author-bio {
@@ -110,4 +127,3 @@
 span.tags {
   margin-left: $tiny-spacing;
 }
-
