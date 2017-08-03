@@ -219,8 +219,8 @@ Secondly, another piece of key feedback i’ve received is the lack of willingne
 A third bit of feedback relates to the level of upfront investment smaller companies have to make to achieve the necessary security clearances for their staff and their product solutions before they can work with government.
 
 Clearly these are not easy issues to solve, but I am committed to the DTA doing everything possible to address these barriers to entry.
- 
-*Priority 5
+
+*Priority 5*
 
 Our fifth priority is to establish a sustainable program focused on helping uplift the digital capability of staff across the public service.  
 
