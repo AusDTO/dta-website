@@ -18,7 +18,7 @@ This work builds on work already being done across government to improve informa
 
 Released iteratively in [an Agile way](https://www.dta.gov.au/standard/design-guides/agile/), the content strategy guidance:
 
-- includes best practice advice for the creation, delivery and  of useful and usable content
+- includes best practice advice for the creation, delivery and management of useful and usable content
 
 - addresses the daily challenges that stop many agencies from publishing clear, user-centered content
 
