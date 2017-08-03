@@ -1,0 +1,449 @@
+1
+00:00:00,000 --> 00:00:02,583
+
+2
+00:00:12,638 --> 00:00:14,395
+- [Narrator] Simple isn't the first word that springs
+
+3
+00:00:14,395 --> 00:00:16,699
+to mind when describing government.
+
+4
+00:00:16,699 --> 00:00:18,942
+Interacting with us can be complex.
+
+5
+00:00:18,942 --> 00:00:20,779
+We're here to change that.
+
+6
+00:00:20,779 --> 00:00:23,250
+Using a government service
+shouldn't be stressful,
+
+7
+00:00:23,250 --> 00:00:25,266
+confusing, or daunting.
+
+8
+00:00:25,266 --> 00:00:27,474
+It's our job to build services
+that are simple enough
+
+9
+00:00:27,474 --> 00:00:31,000
+that people can do what they
+need to do the first time,
+
+10
+00:00:31,000 --> 00:00:32,297
+without having to ask for help.
+
+11
+00:00:32,297 --> 00:00:33,530
+- I think frustration comes in a lot
+
+12
+00:00:33,530 --> 00:00:34,704
+of different forms for people,
+
+13
+00:00:34,704 --> 00:00:38,486
+because people have different
+expectations about services.
+
+14
+00:00:38,486 --> 00:00:41,714
+And I think, quite often, their
+expectations are really low
+
+15
+00:00:41,714 --> 00:00:43,273
+for government services.
+
+16
+00:00:43,273 --> 00:00:45,938
+So being frustrated can be
+simply closing the computer
+
+17
+00:00:45,938 --> 00:00:48,038
+and saying, "Oh it's me.”
+
+18
+00:00:48,038 --> 00:00:49,346
+"I didn't know how to do that.”
+
+19
+00:00:49,346 --> 00:00:51,506
+"I'll just try again later."
+
+20
+00:00:51,506 --> 00:00:55,554
+And they see themselves as the
+failure in that experience.
+
+21
+00:00:55,554 --> 00:00:58,133
+But as a trained researcher, you can start
+
+22
+00:00:58,133 --> 00:01:00,639
+to see that's not their fault at all,
+
+23
+00:01:00,639 --> 00:01:02,505
+and that's something probably
+
+24
+00:01:02,505 --> 00:01:05,564
+quite small we haven't
+managed to communicate.
+
+25
+00:01:05,564 --> 00:01:08,169
+- [Narrator] It should also be simple
+to build government services.
+
+26
+00:01:08,169 --> 00:01:11,493
+We make it simple by reusing
+what others have already built,
+
+27
+00:01:11,493 --> 00:01:15,561
+so we can do less and focus
+more on what our users need.
+
+28
+00:01:15,561 --> 00:01:17,179
+Creating a digital service isn't
+
+29
+00:01:17,179 --> 00:01:20,085
+just digitising a paper
+form or extracting bits
+
+30
+00:01:20,085 --> 00:01:22,748
+of policy and sticking
+them up on a website.
+
+31
+00:01:22,748 --> 00:01:25,593
+Often we need to re-think
+the whole experience,
+
+32
+00:01:25,593 --> 00:01:27,573
+simplifying things so that people can do
+
+33
+00:01:27,573 --> 00:01:30,101
+what they need to do quickly and easily.
+
+34
+00:01:30,101 --> 00:01:32,756
+We need to be constantly
+checking that things just work
+
+35
+00:01:32,756 --> 00:01:35,349
+for users, a wide range of users,
+
+36
+00:01:35,349 --> 00:01:37,592
+trying different things until they do.
+
+37
+00:01:37,592 --> 00:01:38,475
+It's about figuring out
+
+38
+00:01:38,475 --> 00:01:41,502
+which tool will get the
+job done and using it.
+
+39
+00:01:41,502 --> 00:01:44,155
+When we design with simplicity,
+people get what they need
+
+40
+00:01:44,155 --> 00:01:46,664
+to do and how they need to do it.
+
+41
+00:01:46,664 --> 00:01:48,427
+By reusing patterns,
+
+42
+00:01:48,427 --> 00:01:50,716
+we give users a consistent
+experience no matter
+
+43
+00:01:50,716 --> 00:01:52,699
+which agency they're dealing with
+
+44
+00:01:52,699 --> 00:01:54,392
+or what device they're using.
+
+45
+00:01:54,392 --> 00:01:57,185
+That goes for those who use our
+services every now and then,
+
+46
+00:01:57,185 --> 00:01:59,563
+and those who use them more frequently.
+
+47
+00:01:59,563 --> 00:02:00,446
+Keeping everything as simple
+
+48
+00:02:00,446 --> 00:02:02,861
+as possible is also more cost-effective.
+
+49
+00:02:02,861 --> 00:02:05,368
+Using common platforms
+and systems means we build
+
+50
+00:02:05,368 --> 00:02:07,317
+or buy the technology once,
+
+51
+00:02:07,317 --> 00:02:09,966
+and reuse it many times across agencies.
+
+52
+00:02:09,966 --> 00:02:12,760
+We write open-source code
+so that it can be shared
+
+53
+00:02:12,760 --> 00:02:14,587
+and reused by others.
+
+54
+00:02:14,587 --> 00:02:17,406
+And we make this simple
+by being open by default,
+
+55
+00:02:17,406 --> 00:02:19,531
+so that others can
+learn from our solutions
+
+56
+00:02:19,531 --> 00:02:22,654
+and expand upon them, contributing
+back to the community.
+
+57
+00:02:22,654 --> 00:02:25,491
+Sharing saves time and it saves money.
+
+58
+00:02:25,491 --> 00:02:27,780
+You only have to look at
+our Digital Marketplace,
+
+59
+00:02:27,780 --> 00:02:30,038
+released five months ahead of
+schedule because we were able
+
+60
+00:02:30,038 --> 00:02:31,984
+to reuse open source code
+
+61
+00:02:31,984 --> 00:02:34,492
+from the U.K.'s Digital Marketplace.
+
+62
+00:02:34,492 --> 00:02:37,456
+And now Digital Marketplace
+U.K. is incorporating one
+
+63
+00:02:37,456 --> 00:02:40,348
+of our new features, our
+digital working order,
+
+64
+00:02:40,348 --> 00:02:41,931
+into their service.
+
+65
+00:02:43,887 --> 00:02:46,265
+So you can see, it's win-win.
+
+66
+00:02:46,265 --> 00:02:48,508
+Best of all, whenever
+someone makes an improvement
+
+67
+00:02:48,508 --> 00:02:51,820
+to the code, everyone benefits.
+
+68
+00:02:51,820 --> 00:02:52,653
+And of course, content
+
+69
+00:02:52,653 --> 00:02:55,481
+and the language we use
+must be simple, too.
+
+70
+00:02:55,481 --> 00:02:58,496
+We should do less, wherever possible.
+
+71
+00:02:58,496 --> 00:03:01,082
+If we put fewer questions
+in the form, less clutter
+
+72
+00:03:01,082 --> 00:03:04,396
+in the interface, fewer
+steps in the process,
+
+73
+00:03:04,396 --> 00:03:06,111
+we help to make it simpler.
+
+74
+00:03:06,111 --> 00:03:08,582
+- Simple and clear is
+about the language we use
+
+75
+00:03:08,582 --> 00:03:10,922
+and the way we present the product,
+
+76
+00:03:10,922 --> 00:03:14,190
+the service that we're
+designing to go digital.
+
+77
+00:03:14,190 --> 00:03:16,423
+Can people actually understand
+
+78
+00:03:16,423 --> 00:03:18,640
+what it is they're expected to do?
+
+79
+00:03:18,640 --> 00:03:21,998
+As public servants, we
+tend to write, typically,
+
+80
+00:03:21,998 --> 00:03:23,456
+at a university level, because most
+
+81
+00:03:23,456 --> 00:03:27,183
+of us have got university
+degrees of one sort or another.
+
+82
+00:03:27,183 --> 00:03:28,777
+That isn't our audience.
+
+83
+00:03:28,777 --> 00:03:30,194
+That isn't the general public.
+
+84
+00:03:30,194 --> 00:03:33,519
+We need to be presenting our services
+
+85
+00:03:33,519 --> 00:03:35,639
+in a language people can understand
+
+86
+00:03:35,639 --> 00:03:37,505
+and that the process
+that we're taking them
+
+87
+00:03:37,505 --> 00:03:41,380
+through is clear and
+straightforward for them.
+
+88
+00:03:41,380 --> 00:03:42,555
+- [Narrator] But we also need to acknowledge
+
+89
+00:03:42,555 --> 00:03:45,339
+that making something simple is hard work,
+
+90
+00:03:45,339 --> 00:03:49,023
+especially when it involves
+complex information and systems.
+
+91
+00:03:49,023 --> 00:03:50,859
+The best way to achieve simplicity is
+
+92
+00:03:50,859 --> 00:03:52,983
+through a process of iteration.
+
+93
+00:03:52,983 --> 00:03:54,939
+That is, we try something,
+
+94
+00:03:54,939 --> 00:03:57,599
+we learn from it, and
+we try something else.
+
+95
+00:03:57,599 --> 00:04:00,494
+It's the build, learn, measure cycle.
+
+96
+00:04:00,494 --> 00:04:03,975
+It takes a lot of time, but
+we need to do the hard work
+
+97
+00:04:03,975 --> 00:04:06,206
+to make it simple for our users.
+
+98
+00:04:06,206 --> 00:04:08,967
+It's challenging, but
+it's worth the effort.
+
+99
+00:04:08,967 --> 00:04:11,787
+And you can start today
+by asking yourself,
+
+100
+00:04:11,787 --> 00:04:14,209
+how might we make everything we write,
+
+101
+00:04:14,209 --> 00:04:17,829
+even inside government, as
+simple and clear as possible?
+
+102
+00:04:17,829 --> 00:04:20,412

@@ -1,0 +1,499 @@
+1
+00:00:00,411 --> 00:00:02,994
+
+2
+00:00:12,966 --> 00:00:15,133
+- [Narrator] The world is changing fast.
+
+3
+00:00:15,133 --> 00:00:18,139
+Despite our best intentions,
+many government services
+
+4
+00:00:18,139 --> 00:00:20,209
+are being left behind.
+
+5
+00:00:20,209 --> 00:00:22,134
+To make government fit
+for the 21st century,
+
+6
+00:00:22,134 --> 00:00:24,772
+we're introducing a new
+and better way of working
+
+7
+00:00:24,772 --> 00:00:28,884
+and the Digital Service
+Standard will be your guide.
+
+8
+00:00:28,884 --> 00:00:33,332
+So here is the Digital Service
+Standard in Plain English.
+
+9
+00:00:33,332 --> 00:00:34,569
+Here's some people.
+
+10
+00:00:34,569 --> 00:00:39,165
+Jack, Jill, Me, you, my mom, your dad,
+
+11
+00:00:39,165 --> 00:00:41,513
+the guy who makes you
+coffee in the morning,
+
+12
+00:00:41,513 --> 00:00:44,152
+your GP and his grandad.
+
+13
+00:00:44,152 --> 00:00:46,623
+All of them use government services
+
+14
+00:00:46,623 --> 00:00:47,779
+because to get things done,
+
+15
+00:00:47,779 --> 00:00:50,189
+we need to use government services.
+
+16
+00:00:50,189 --> 00:00:51,565
+If they want a holiday in Europe,
+
+17
+00:00:51,565 --> 00:00:55,015
+they'll need to get a passport and so on.
+
+18
+00:00:55,015 --> 00:00:56,184
+For some of them, it's easy.
+
+19
+00:00:56,184 --> 00:00:58,895
+For others, it's not so easy.
+
+20
+00:00:58,895 --> 00:01:00,963
+Some services are transactional.
+
+21
+00:01:00,963 --> 00:01:02,917
+Others just give you
+information to help you
+
+22
+00:01:02,917 --> 00:01:04,555
+make decisions about things.
+
+23
+00:01:04,555 --> 00:01:06,823
+All of them use some IT.
+
+24
+00:01:06,823 --> 00:01:09,394
+We want them to become more
+digital because they're
+
+25
+00:01:09,394 --> 00:01:14,377
+simple, clear, and fast, and it's cheaper.
+
+26
+00:01:14,377 --> 00:01:16,224
+Services are delivered
+by government agencies,
+
+27
+00:01:16,224 --> 00:01:19,402
+that's us, using bits of technology,
+
+28
+00:01:19,402 --> 00:01:21,800
+usually provided by big suppliers
+
+29
+00:01:21,800 --> 00:01:23,911
+through long-term contracts.
+
+30
+00:01:23,911 --> 00:01:26,204
+It's expensive, it's hard to change,
+
+31
+00:01:26,204 --> 00:01:28,917
+and usually, it's not that great.
+
+32
+00:01:28,917 --> 00:01:31,126
+This is what people tell us all the time.
+
+33
+00:01:31,126 --> 00:01:34,196
+It needs to change and the
+way we're gonna change it
+
+34
+00:01:34,196 --> 00:01:36,883
+is to make new technology
+services delivered
+
+35
+00:01:36,883 --> 00:01:39,484
+over the internet, but we
+won't be going it alone.
+
+36
+00:01:39,484 --> 00:01:42,363
+We'll be doing it together, guided by the
+
+37
+00:01:42,363 --> 00:01:44,078
+Digital Service Standard.
+
+38
+00:01:44,078 --> 00:01:45,807
+Let's break it down.
+
+39
+00:01:45,807 --> 00:01:50,408
+A service is made up of people,
+process, and technology.
+
+40
+00:01:50,408 --> 00:01:52,789
+When our starting point is people,
+
+41
+00:01:52,789 --> 00:01:55,203
+my mom, the guy who makes you coffee,
+
+42
+00:01:55,203 --> 00:01:57,867
+and understanding what
+they're trying to do
+
+43
+00:01:57,867 --> 00:01:59,340
+in their busy lives.
+
+44
+00:01:59,340 --> 00:02:02,788
+We can make a better service
+and we can do it faster
+
+45
+00:02:02,788 --> 00:02:06,244
+if we, that's us in government,
+have all the right people
+
+46
+00:02:06,244 --> 00:02:09,663
+with the right skills
+making the service together,
+
+47
+00:02:09,663 --> 00:02:11,973
+continually checking in with users.
+
+48
+00:02:11,973 --> 00:02:16,275
+This way, we know we're
+making the right thing.
+
+49
+00:02:16,275 --> 00:02:18,333
+Then we come to the process part.
+
+50
+00:02:18,333 --> 00:02:22,500
+We spend time learning what
+people need then ask ourselves,
+
+51
+00:02:23,587 --> 00:02:25,467
+how might we meet that need?
+
+52
+00:02:25,467 --> 00:02:27,494
+We build some prototypes
+and we ask people,
+
+53
+00:02:27,494 --> 00:02:31,929
+my mom and the guy who makes
+you coffee, to try them out.
+
+54
+00:02:31,929 --> 00:02:34,794
+We learn from how people
+use our prototypes
+
+55
+00:02:34,794 --> 00:02:37,348
+and then we build what works best
+
+56
+00:02:37,348 --> 00:02:39,738
+and start operating the service.
+
+57
+00:02:39,738 --> 00:02:43,953
+And that brings us to the
+exciting part, the technology.
+
+58
+00:02:43,953 --> 00:02:45,880
+Let's make it simple.
+
+59
+00:02:45,880 --> 00:02:48,546
+Our services are made up of layers.
+
+60
+00:02:48,546 --> 00:02:51,282
+The first layer is where
+people interact with us
+
+61
+00:02:51,282 --> 00:02:55,160
+via a paper form, a
+telephone call, or commonly,
+
+62
+00:02:55,160 --> 00:02:57,075
+a website or app.
+
+63
+00:02:57,075 --> 00:02:59,872
+We present information
+to people on this layer.
+
+64
+00:02:59,872 --> 00:03:03,638
+If we use words that people
+understand, they'll get it.
+
+65
+00:03:03,638 --> 00:03:07,445
+We also need to make sure
+people can access our services
+
+66
+00:03:07,445 --> 00:03:09,714
+and that they don't have
+to tell us the same things
+
+67
+00:03:09,714 --> 00:03:12,477
+over and over, making it easier for people
+
+68
+00:03:12,477 --> 00:03:14,186
+to get things done.
+
+69
+00:03:14,186 --> 00:03:17,411
+The next layer is where all
+the service-y things go.
+
+70
+00:03:17,411 --> 00:03:22,058
+These can be service specific
+things like calculating tax,
+
+71
+00:03:22,058 --> 00:03:25,812
+or it might be something that
+is used across many services
+
+72
+00:03:25,812 --> 00:03:29,107
+like making a payment, verifying identity,
+
+73
+00:03:29,107 --> 00:03:32,884
+or making sure things
+are kept safe and secure.
+
+74
+00:03:32,884 --> 00:03:34,883
+Or they could be machinery kind of things
+
+75
+00:03:34,883 --> 00:03:38,419
+like sophisticated IT services, databases,
+
+76
+00:03:38,419 --> 00:03:40,502
+storage, mainframes, etc.
+
+77
+00:03:41,563 --> 00:03:43,499
+And as everything become more digital,
+
+78
+00:03:43,499 --> 00:03:47,275
+we become able to build
+services in a modular way
+
+79
+00:03:47,275 --> 00:03:50,313
+using modular parts
+that can be swapped out
+
+80
+00:03:50,313 --> 00:03:53,266
+without effecting other
+parts and if we need to,
+
+81
+00:03:53,266 --> 00:03:56,674
+we can buy different parts
+from different suppliers
+
+82
+00:03:56,674 --> 00:04:00,090
+instead of all of it from just one or two.
+
+83
+00:04:00,090 --> 00:04:03,019
+As we go through each of our
+services, untangling them,
+
+84
+00:04:03,019 --> 00:04:05,544
+we'll know what all the common parts are
+
+85
+00:04:05,544 --> 00:04:08,680
+and then we can borrow
+those parts from each other,
+
+86
+00:04:08,680 --> 00:04:12,286
+improving them as we need,
+or just reusing them.
+
+87
+00:04:12,286 --> 00:04:14,590
+They cost a lot so we
+don't want to keep on
+
+88
+00:04:14,590 --> 00:04:17,366
+buying the same parts every
+time we have the same need.
+
+89
+00:04:17,366 --> 00:04:20,474
+By sharing parts, we
+don't have to build things
+
+90
+00:04:20,474 --> 00:04:21,904
+from scratch every time.
+
+91
+00:04:21,904 --> 00:04:24,560
+This way, we save more
+money and we can make
+
+92
+00:04:24,560 --> 00:04:28,491
+new services better, cheaper, and faster.
+
+93
+00:04:28,491 --> 00:04:30,502
+Oh, just one more thing.
+
+94
+00:04:30,502 --> 00:04:34,697
+Making our new services
+in this way is a big job.
+
+95
+00:04:34,697 --> 00:04:38,716
+We've got lots of services and
+lots of people who use them.
+
+96
+00:04:38,716 --> 00:04:41,842
+If we can stay on top of what's
+happening for those people
+
+97
+00:04:41,842 --> 00:04:44,127
+and respond to their needs quickly,
+
+98
+00:04:44,127 --> 00:04:46,162
+then people will have more trust
+
+99
+00:04:46,162 --> 00:04:48,042
+in what we do here in government.
+
+100
+00:04:48,042 --> 00:04:49,883
+So as you build new services,
+
+101
+00:04:49,883 --> 00:04:52,260
+make sure you tell people, yep,
+
+102
+00:04:52,260 --> 00:04:56,276
+my mom and the coffee guy,
+you've made a new service.
+
+103
+00:04:56,276 --> 00:04:59,387
+Invite them to try it out
+and make sure you give them
+
+104
+00:04:59,387 --> 00:05:02,420
+an easy way to let you know
+if it does the job for them.
+
+105
+00:05:02,420 --> 00:05:05,400
+That way, you'll be sure
+to know what's working
+
+106
+00:05:05,400 --> 00:05:08,625
+and what's not, so you can
+continue to make it even better,
+
+107
+00:05:08,625 --> 00:05:11,883
+and pretty soon, more
+and more people will use
+
+108
+00:05:11,883 --> 00:05:16,327
+the new services because
+they're simple, clear, and fast.
+
+109
+00:05:16,327 --> 00:05:20,327
+And that friends is the
+Digital Service Standard
+
+110
+00:05:21,516 --> 00:05:22,712
+in Plain English.
+
+111
+00:05:22,712 --> 00:05:26,795
+Try it out and be sure to
+let us know how you go.
+
