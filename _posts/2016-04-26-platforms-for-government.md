@@ -21,7 +21,7 @@ Best of all, sharing a common platform allows government agencies to stand on th
 
 The Digital Transformation Office’s work is focussed around three themes: building capability, developing policy and creating platforms. For each platform, we’re starting small, focussing on users, and working hand-in-hand with the rest of government. Here’s a brief overview of the five platforms that are on the way:
 
-## [GOV.AU](https://www.dta.gov.au/our-work/gov-au/)
+## GOV.AU
 GOV.AU is our platform to help government to deliver better services and information. When it is built, GOV.AU will provide a common approach to design, technology and content so that people have a simple, clear and consistent experience when they use government online. We’ve delivered an [Alpha prototype](https://www.gov.au/alpha/) and are now building this in Beta which we’ll release in August 2016.
 
 ## [Digital Marketplace](https://www.dta.gov.au/our-work/marketplace/)
