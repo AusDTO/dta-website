@@ -4,6 +4,8 @@
     - title: "Policies and Programs"
       url: "/what-we-do/policies-and-programs/"
       grandchildren:
+        - title: "Content strategy"
+          url: "/what-we-do/platforms/content-strategy/"
         - title: "Digital Investment Management Office"
           url: "/what-we-do/policies-and-programs/digital-investment-management-office/"
         - title: "Digital Service Standard"
@@ -30,8 +32,6 @@
           url: "/what-we-do/platforms/cloud/"
         - title: "Digital Marketplace"
           url: "/what-we-do/platforms/marketplace/"
-        - title: "Content strategy"
-          url: "/what-we-do/platforms/content-strategy/"
         - title: "Govpass"
           url: "/what-we-do/platforms/govpass/"
         - title: "Performance dashboard"
