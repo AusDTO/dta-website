@@ -30,8 +30,8 @@ Fast forward to today and I have a new formula: **CC + CT = VC.**  
 
 I believe it starts and ends with having an obsession with the customer when one is thinking about and designing service delivery outcomes.  
 
-All the research in this space – across both public and private sectors --- four themes consistently present themselves.
- 
+All the research in this space --- across both public and private sectors --- four themes consistently present themselves.
+
 People want their information and service interactions to be:
 
 1. safe and secure
@@ -40,7 +40,7 @@ People want their information and service interactions to be:
 4. valued and respected.
 
 For any organisation, an important driver of customer centricity starts with the culture of that organisation and the tone that is set from the top. It’s how the senior executives turn up and how they role model that they genuinely care about customer outcomes. For example, do they ensure that the customer is at the heart of policy development?
- 
+
 This constant leadership by example needs to translate into all aspects of the operating rhythm of an organisation:
 
 - the designing of policies
@@ -157,14 +157,16 @@ The value from these conversations is that they’ve also helped me to shape the
 
 In outlining these priorities, it’s important to keep in mind that while the DTA will play a pivotal role, we alone can’t deliver them --- we’ll need the help and support of all agencies across government.
 
-Priority 1
+*Priority 1*
+
 The first priority is to develop a clear digital service delivery roadmap for the whole of government to ensure our money is being invested in the transformation initiatives that will have the biggest impact on people using our digital services.
- 
+
 For example, being able to register a company more easily, onboard staff, or sign-up and receive welfare payments.
 
 Getting this right is important to increase the pace of of value creation I referred to earlier.
 
-Priority 2
+*Priority 2*
+
 Having identified those initiatives that will have the most favourable impact, we now need to focus our collective efforts across the public service to improving the core platforms that support these big service transactions and life events.
 
 It shouldn’t come as a surprise. This means there needs to be ongoing regular delivery of increased functionality and improved user experience across platforms, like myTax, myHealth, myGov and business-facing platforms.
@@ -175,7 +177,7 @@ A key initiative underpinning all of this, and in my view, directly linked to th
 
 Our ambition must be to provide a quick and easy way for people to prove themselves online, so they can access government services in a simple, easy and secure way.
 
-**Priority 3**
+*Priority 3*
 
 Our third priority is to continue building out our capability to effectively monitor the performance of the whole-of- government ICT project portfolio.
 
@@ -187,7 +189,8 @@ I can’t see why we shouldn’t adopt a similar mindset when considering the go
 
 This ongoing monitoring allows us to identify successful initiatives, key delivery risks, areas of duplication, provide advice on remediation, and opportunities to leverage common platforms and cloud services.
 
-Priority 4
+*Priority 4*
+
 Our fourth priority is to continue to level the playing field for small and medium Australian businesses looking to do business with government.
 
 There is no shortage of Australian companies with the capabilities and solutions that government needs.
@@ -205,7 +208,7 @@ These stats show me that more needs to be done.
 
 As I said earlier, I have been spending some of my time meeting with small business owners to hear about their experiences in dealing with government and trying to grow their businesses. There are a number of common themes coming from these
 discussions.
- 
+
 Firstly, there is a view that greater transparency is required around what various vendors are charging for their services, particularly as it relates to system integrators. Some might balk at the idea and say our fees and terms are commercial
 in confidence. But why should it be any different to what you and I as consumers experience in all other areas of our lives?
 
@@ -217,7 +220,8 @@ A third bit of feedback relates to the level of upfront investment smaller compa
 
 Clearly these are not easy issues to solve, but I am committed to the DTA doing everything possible to address these barriers to entry.
  
-Priority 5
+*Priority 5
+
 Our fifth priority is to establish a sustainable program focused on helping uplift the digital capability of staff across the public service.  
 
 We all know that there’s an ever growing shortage of digital skills across the Australian economy.
@@ -248,7 +252,7 @@ We are also working with the Australian Public Service Commission to look at way
 As I think about these 5 priorities, I have an overall ambition to see a significant step up in public–private partnerships and participation.
 
 I’ve spoken a couple of times now with the AIIA about how we can formalise a partnership with the AIIA --- how we can work more closely together to find solutions, share knowledge and ideas, and uplift skills capability.
- 
+
 Whether it be in the domains of service delivery, solution design, hosting services, capability uplift, cyber security --- the reality is that within the APS we do not have all the capability and capacity that is needed to deliver.  
 
 Partnering effectively with the private sector will be key to our collective success.
