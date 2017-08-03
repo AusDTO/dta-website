@@ -3,7 +3,7 @@ title: "Address to the AIIA: Gavin Slater"
 category: [news]
 tag: 'dta news'
 thumbnail: /images/blog-thumbnails/CEO-Gavin-Slater-THUMB.png
-searchexcerpt: "The DTA's Gavin Slater spoke to the AIIA on value creation, customer centricity and building productive relationships in his first address as CEO."
+searchexcerpt: "The DTA's Gavin Slater spoke to the Australian Information Industry Association on value creation, customer centricity and building productive relationships in his first address as CEO."
 ---
 
 **Release Date:** 3 August 2017
@@ -20,17 +20,17 @@ As part of my tool kit, I used a formula: **NT + OO = EOO.**  
 
 **New technology + old organisation = expensive old organisation**
 
-My point was --- simply replacing one piece of old technology with new technology would not lead to better outcomes. Re-engineering end-to- end processes, reviewing policies and work practices, and uplifting staff capability was needed to bring about real change.  
+My point was --- simply replacing one piece of old technology with new technology would not lead to better outcomes. Re-engineering end-to-end processes, reviewing policies and work practices, and uplifting staff capability was needed to bring about real change.  
 
 Interestingly, back then, the world “culture” was less used, but no doubt was implicit in the change equation.
 
 Fast forward to today and I have a new formula: **CC + CT = VC.**  
 
-**Customer centricity plus connected technology (platforms) = value creation**  
+**Customer centricity + connected technology (platforms) = value creation**  
 
 I believe it starts and ends with having an obsession with the customer when one is thinking about and designing service delivery outcomes.  
 
-All the research in this space --- across both public and private sectors --- four themes consistently present themselves.
+In all the research in this space --- across both public and private sectors --- four themes consistently present themselves.
 
 People want their information and service interactions to be:
 
@@ -55,11 +55,11 @@ Uber often gets used as an example --- and it’s a good one.
 
 Consider what they have:
 
-- they have connected technologies, such as google maps, a payment system, a booking system and an existing transport system
+- they have connected technologies, such as Google Maps, a payment system, a booking system and an existing transport system
 - they have no need to buy a fleet of cars  
 - they deliver a safe, secure, easy 24x7 service, which they continue to refine and improve through analytics
 - they have a way to refine their profiles on users with every Uber trip
-- they most importantly, started with a customer orientation.
+- they, most importantly, started with a customer orientation.
 
 Compare this to the Melbourne taxi industry, that has the same access to all these technologies, yet delivers quite a different experience for the customer.
 
@@ -93,7 +93,7 @@ More than 5 million people now have a My Health Record.
 
 **SmartGates**
 
-There's terrific innovation coming out of Immigration. They are upgrading the technology used to process people at Australian international airports.
+There's terrific innovation coming out of the Department of Immigration. They are upgrading the technology used to process people at Australian international airports.
 
 Travellers will eventually be able to pass through immigration without needing to produce their passport --- it will all be done through facial recognition technology.
 
@@ -109,7 +109,7 @@ But perhaps a more pertinent question is --- is enough value being created and i
 
 Based on some industry surveys, and comparisons to other sectors, it’s probably reasonable to conclude that more can be done:
 
-- the Boston Consulting Group showed that 46 % of Australians had trouble while using online government services (2016)
+- the Boston Consulting Group showed that 46% of Australians had trouble while using online government services (2016)
 - a UserZoom study found that users attempting to find information on federal government websites achieved success only 2 out of 19 attempts (2016)
 
 **The Government’s digital transformation ambition**
@@ -154,7 +154,7 @@ Having identified those initiatives that will have the most favourable impact, w
 
 It shouldn’t come as a surprise. This means there needs to be ongoing regular delivery of increased functionality and improved user experience across platforms, like myTax, myHealth, myGov and business-facing platforms.
 
-Related to this, there is a strong case to rationalise and simplify the thousand-odd government websites and millions of pages of content that users have to navigate and understand. Let me be clear, i'm not saying one website is the answer.
+Related to this, there is a strong case to rationalise and simplify the thousand-odd government websites and millions of pages of content that users have to navigate and understand. Let me be clear, I'm not saying one website is the answer.
 
 A key initiative underpinning all of this, and in my view, directly linked to the significant creation of value, is solving for how individuals and businesses identify, verify and authenticate themselves through our online channels.
 
@@ -196,7 +196,7 @@ Firstly, there is a view that greater transparency is required around what vario
 
 We have transparency with our grocery prices, our housing prices, cars --- it enables us to make choices and seek out the best value deal.
 
-Secondly, another piece of key feedback i’ve received is the lack of willingness on the part of government to move away from large entrenched supplier relationships, and being willing to give a smaller company a go due to the perceived delivery risk of doing so.
+Secondly, another piece of key feedback I’ve received is the lack of willingness on the part of government to move away from large entrenched supplier relationships, and being willing to give a smaller company a go due to the perceived delivery risk of doing so.
 
 A third bit of feedback relates to the level of upfront investment smaller companies have to make to achieve the necessary security clearances for their staff and their product solutions before they can work with government.
 
@@ -216,7 +216,7 @@ There’s real opportunity here for us to partner with the public, private and e
 
 **Relationships with the private sector**
 
-As I think about these 5 priorities, I have an overall ambition to see a significant step up in public–private partnerships and participation.
+As I think about these five priorities, I have an overall ambition to see a significant step up in public–private partnerships and participation.
 
 I’ve spoken a couple of times now with the AIIA about how we can formalise a partnership with the AIIA --- how we can work more closely together to find solutions, share knowledge and ideas, and uplift skills capability.
 
