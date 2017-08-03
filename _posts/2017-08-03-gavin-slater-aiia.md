@@ -3,12 +3,12 @@ title: "Address to the AIIA: Gavin Slater"
 category: [news]
 tag: 'dta news'
 thumbnail: /images/blog-thumbnails/CEO-Gavin-Slater-THUMB.png
-searchexcerpt: "DTA CEO Gavin Slater addressed the AIIA on Thursday, 3 August 2017."
+searchexcerpt: "The DTA's Gavin Slater spoke to the AIIA on value creation, customer centricity and building productive relationships in his first address as CEO."
 ---
 
 **Release Date:** 3 August 2017
 
-Speaking remarks
+Speaking remarks (Check against delivery)
 
 The first time I thought about technology and how it could enable a better outcome was in 1986 when I started my first full time job as a batch processing clerk in the local bank branch.  
 
@@ -39,17 +39,9 @@ People want their information and service interactions to be:
 3. 24 x 7
 4. valued and respected.
 
-For any organisation, an important driver of customer centricity starts with the culture of that organisation and the tone that is set from the top. It’s how the senior executives turn up and how they role model that they genuinely care about customer outcomes. For example, do they ensure that the customer is at the heart of policy development?
+For any organisation, an important driver of customer centricity starts with the culture of that organisation and the tone that is set from the top. Senior leaders play a big role in making sure they're getting good outcomes for customers.
 
-This constant leadership by example needs to translate into all aspects of the operating rhythm of an organisation:
-
-- the designing of policies
-- work practices
-- configuration of technology
-- training
-- products
-- communications
-- performance dashboards.
+This constant leadership by example needs to translate into all aspects of the operating rhythm of an organisation.
 
 From my experience, it requires consistency of leadership and focus to deliver long lasting change.
 
@@ -69,6 +61,8 @@ Consider what they have:
 - they have a way to refine their profiles on users with every Uber trip
 - they most importantly, started with a customer orientation.
 
+Compare this to the Melbourne taxi industry, that has the same access to all these technologies, yet delivers quite a different experience for the customer.
+
 If you get customer centricity right, coupled with a platform strategy, the result is value creation, which presents itself in a variety of ways:
 
 Firstly, you consistently deliver a better service outcome that is transparent and measurable for all users of that service. This builds transparency and loyalty, which leads to increased uptake of that service.
@@ -77,21 +71,17 @@ Secondly, you deliver better outcomes for shareholders --- in the case of the pr
 
 So what is the relevance of this to government? Specifically, the provision of information and services to individuals and businesses.
 
-In 2015, Deloitte estimated there were about 811 million service transactions at the federal and state level each year.
+In 2015, Deloitte estimated there were about 811 million service transactions at the federal and state level each year --- it's probably more now.
 
 Of these, 40% were completed using traditional channels, such as shopfront or counter interactions, and telephone and mail.
 
 Examples of these services include registering details, signing up for benefits, making claims, lodging tax returns, registering a business, passing through immigration, clearing goods that have been imported.
 
-So, using the **CC + CT = VC** formula, is there value being created for individuals and businesses?
-
-I believe the following examples prove that value **is** being created.
+So, using the **CC + CT = VC** formula, is there value being created for individuals and businesses? Yes, there is.
 
 **myTax**
 
-myTax saw the numbers of citizens lodging their tax online increase from 1.7 million in 2014–15 to 3.5 million in 2015–16.
-
-This financial year, there were an extra 250,000 tax returns lodged in the first three weeks compared to this time last year.
+I met with the tax commissioner, John Lloyd this week, and he said the numbers of citizens lodging their tax online increase from 1.7 million in 2014–15 to 3.5 million in 2015–16.
 
 The ATO’s mission is to deliver a service outcome that’s infrequent, quick and painless --- a bit like what a visit to the dentist should be.
 
@@ -99,21 +89,19 @@ The ATO’s mission is to deliver a service outcome that’s infrequent, quick a
 
 My Health Record now has more 10,000 healthcare providers connected and gives them access from anywhere, and at any time, to important information online about medical conditions, treatments, and medicines.
 
-An average of one new record is created every 38 seconds and more than 5 million people now have a My Health Record.
+More than 5 million people now have a My Health Record.
 
 **SmartGates**
 
-Immigration announced last week that it’s upgrading the technology used to process people at Australian international airports.
+There's terrific innovation coming out of Immigration. They are upgrading the technology used to process people at Australian international airports.
 
 Travellers will eventually be able to pass through immigration without needing to produce their passport --- it will all be done through facial recognition technology.
-
-Already, the existing SmartGates have significantly improved the processing of travellers through immigration with one SmartGate able to process more than 110 people an hour, and as many as 150 people during busy periods.
 
 **myGov**
 
 myGov now has about 9 to 10 million active accounts and almost 290,000 transactions are completed on a daily basis.
 
-Recent improvements have made it available on mobile devices and there’s improved navigation and content. This work is ongoing.
+We're making continual improvements to myGov, in partnership with DHS.
 
 From these few examples --- and there are many more --- I do believe value is being created.
 
@@ -123,7 +111,6 @@ Based on some industry surveys, and comparisons to other sectors, it’s probabl
 
 - the Boston Consulting Group showed that 46 % of Australians had trouble while using online government services (2016)
 - a UserZoom study found that users attempting to find information on federal government websites achieved success only 2 out of 19 attempts (2016)
-- customer satisfaction for the banking industry’s online channels consistently exceeds 80%.
 
 **The Government’s digital transformation ambition**
 
@@ -139,15 +126,11 @@ Delivering better service outcomes for Australia is important, and it matters to
 
 **My first three months**
 
-I’m not sure if anyone had the chance to witness one of my first experiences, which was senate estimates. I’d been in the job just a couple of weeks. It was what some might refer to as a “baptism of fire”. InnovationAus kindly ran an online article with a large photo of me and the headline “Welcome to estimates Mr Slater”. And my new colleagues kindly framed it for me.
-
-Perhaps my first lesson in government --- be careful who you accept dinner invitations from. In fairness to me, it was my first full week in Canberra --- I was a bit like my kids at a theme park --- I wanted to go on all the rides.  
-
-Since then, I’ve been using my two ears and one mouth --- used in those proportions --- to listen and to seek to learn and understand the history and the context of the DTA, and its role in delivering on the government’s ambitions.
+I’ve been using my two ears and one mouth --- used in those proportions --- to listen and to seek to learn and understand the history and the context of the DTA, and its role in delivering on the government’s ambitions.
 
 I have met with lots of people, in government and the public service --- including secretaries, CIOs, advisers and ministers --- businesses, vendors, industry associations and advisory firms.
 
-These conversations --- including those I’ve had with many of you in the room --- have allowed me to, in some cases, repair relationships, and importantly, lay the foundation for new relationships going forward.
+These conversations --- including those I’ve had with many of you in the room --- have allowed me to, in some cases, repair relationships, and build new ones.
 
 People are appreciative of being treated respectfully, being heard, being listened to and being involved in our work and helping to come up with solutions.
 
@@ -171,7 +154,7 @@ Having identified those initiatives that will have the most favourable impact, w
 
 It shouldn’t come as a surprise. This means there needs to be ongoing regular delivery of increased functionality and improved user experience across platforms, like myTax, myHealth, myGov and business-facing platforms.
 
-Related to this, there is a strong case to rationalise and simplify the thousand-odd government websites and millions of pages of content that users have to navigate and understand.
+Related to this, there is a strong case to rationalise and simplify the thousand-odd government websites and millions of pages of content that users have to navigate and understand. Let me be clear, i'm not saying one website is the answer.
 
 A key initiative underpinning all of this, and in my view, directly linked to the significant creation of value, is solving for how individuals and businesses identify, verify and authenticate themselves through our online channels.
 
@@ -209,8 +192,7 @@ These stats show me that more needs to be done.
 As I said earlier, I have been spending some of my time meeting with small business owners to hear about their experiences in dealing with government and trying to grow their businesses. There are a number of common themes coming from these
 discussions.
 
-Firstly, there is a view that greater transparency is required around what various vendors are charging for their services, particularly as it relates to system integrators. Some might balk at the idea and say our fees and terms are commercial
-in confidence. But why should it be any different to what you and I as consumers experience in all other areas of our lives?
+Firstly, there is a view that greater transparency is required around what various vendors are charging for their services, particularly as it relates to system integrators. 
 
 We have transparency with our grocery prices, our housing prices, cars --- it enables us to make choices and seek out the best value deal.
 
@@ -232,28 +214,11 @@ It will be where they can learn how to approach issues with a fresh perspective 
 
 There’s real opportunity here for us to partner with the public, private and educational sectors.
 
-**ICT graduate programs**
-
-We also have an eye on future digital talent.
-
-The DTA now has responsibility for the government’s ICT entry-level programs --- that brings ICT graduates, cadets and apprentices into agencies across the government.
-
-We aim to place about 250 digital entry-level staff in government agencies across Australia over the next 12 months.
-
-We are also working with the Australian Public Service Commission to look at ways to:
-
-- attract new talent
-- retain existing digital talent
-- place training opportunities on the Digital Marketplace
-- develop digital skills in leadership across the Public Service.
-
 **Relationships with the private sector**
 
 As I think about these 5 priorities, I have an overall ambition to see a significant step up in public–private partnerships and participation.
 
 I’ve spoken a couple of times now with the AIIA about how we can formalise a partnership with the AIIA --- how we can work more closely together to find solutions, share knowledge and ideas, and uplift skills capability.
-
-Whether it be in the domains of service delivery, solution design, hosting services, capability uplift, cyber security --- the reality is that within the APS we do not have all the capability and capacity that is needed to deliver.  
 
 Partnering effectively with the private sector will be key to our collective success.
 
