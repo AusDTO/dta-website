@@ -64,11 +64,11 @@ Click on the hyperlinks to download the file.
 - [Digital Service Standard kanban (.pdf, 116KB)](/files/training-materials/dss-resources/Digital Service Standard - Kanban poster-WCAG.pdf)
 - [DTA culture posters (.pdf, 109KB)](/files/training-materials/dss-resources/DTA - Culture posters.pdf)
 - [Getting started appreciation cards (.pdf, 15KB)](/files/training-materials/dss-resources/DTA - Getting started appreciation cards.pdf)
-- [Getting started course overview (.pdf 160 KB)](/files/training-materials/dss-resources/Getting Started Course Overview.pdf)
+- [Getting started course overview (.pdf 160 KB)](/files/training-materials/dss-resources/Getting_started_course_overview.pdf)
 
 ## Let us know what you think
 
-We’d love to hear what you think about the training or suggestions for improvement. Let us know by emailing [standard@digital.gov.au](mailto:standard@digital.gov.au)
+We’d love to hear what you think about the training or suggestions for improvement. Let us know by emailing [standard@digital.gov.au](mailto:standard@digital.gov.au).
 
 ## Get updates
 
