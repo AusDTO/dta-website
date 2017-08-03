@@ -30,4 +30,4 @@ We are regularly releasing topics. [See what’s available](https://guides.servi
 
 ## Want to be a part of this content strategy?
 
-Government teams who would like to be involved in the creation, research and feedback of the content strategy guidance are welcome to join our working group. Please email [content.workgroup@digital.gov.au)](mailto:content.workgroup@digital.gov.au)
+Government teams who would like to be involved in the creation, research and feedback of the content strategy guidance are welcome to join our working group. Please email [content.workgroup@digital.gov.au](mailto:content.workgroup@digital.gov.au)
