@@ -180,7 +180,7 @@ Our ambition must be to provide a quick and easy way for people to prove themsel
 
 *Priority 3*
 
-Our third priority is to continue building out our capability to effectively monitor the performance of the whole-of government ICT project portfolio.
+Our third priority is to continue building out our capability to effectively monitor the performance of the whole-of-government ICT project portfolio.
 
 In my view, it’s important that we approach this with a mindset that I’m familiar with in the private sector. For example, venture capitalists would treat this portfolio of projects as a portfolio of businesses they’ve invested in.
 
