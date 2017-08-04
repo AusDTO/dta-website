@@ -28,7 +28,7 @@ Interestingly, back then, the world “culture” was less used, but no doubt wa
 
 Fast forward to today and I have a new formula: **CC + CT = VC.**  
 
-**Customer centricity plus connected technology (platforms) = value creation**  
+**Customer centricity + connected technology (platforms) = value creation**  
 
 I believe it starts and ends with having an obsession with the customer when one is thinking about and designing service delivery outcomes.  
 
@@ -39,7 +39,7 @@ People want their information and service interactions to be:
 1. safe and secure
 2. easy and simple
 3. 24 x 7
-4. valued and respected.
+4. valued and respected
 
 For any organisation, an important driver of customer centricity starts with the culture of that organisation and the tone that is set from the top. Senior leaders play a big role in making sure they're getting good outcomes for customers. 
 
@@ -53,7 +53,7 @@ This constant leadership by example needs to translate into all aspects of the o
 - training
 - products
 - communications
-- performance dashboards...basically everything.  
+- performance dashboards...basically everything  
 
 From my experience, it requires consistency of leadership and focus to deliver long lasting change.
 
@@ -71,7 +71,7 @@ Consider what they have:
 - they have no need to buy a fleet of cars  
 - they deliver a safe, secure, easy 24x7 service, which they continue to refine and improve through analytics
 - they have a way to refine their profiles on users with every Uber trip
-- they, most importantly, started with a customer orientation.
+- they, most importantly, started with a customer orientation
 
 Compare this to the Melbourne taxi industry, that has the same access to all these technologies, yet delivers quite a different experience for the customer.
 
@@ -97,7 +97,7 @@ I believe the following examples prove that value **is** being created.
 
 **myTax**
 
-I met with the tax commissioner, John Lloyd this week, and he said the numbers of citizens lodging their tax online increase from 1.7 million in 2014–15 to 3.5 million in 2015–16. 
+I met with the tax commissioner, John Lloyd, this week and he said the numbers of citizens lodging their tax online increase from 1.7 million in 2014–15 to 3.5 million in 2015–16. 
 
 The ATO’s mission is to deliver a service outcome that’s infrequent, quick and painless --- a bit like what a visit to the dentist should be.
 
@@ -180,7 +180,7 @@ Our ambition must be to provide a quick and easy way for people to prove themsel
 
 *Priority 3*
 
-Our third priority is to continue building out our capability to effectively monitor the performance of the whole-of- government ICT project portfolio.
+Our third priority is to continue building out our capability to effectively monitor the performance of the whole-of government ICT project portfolio.
 
 In my view, it’s important that we approach this with a mindset that I’m familiar with in the private sector. For example, venture capitalists would treat this portfolio of projects as a portfolio of businesses they’ve invested in.
 
@@ -237,7 +237,7 @@ There’s real opportunity here for us to partner with the public, private and e
 
 As I think about these 5 priorities, I have an overall ambition to see a significant step up in public–private partnerships and participation.
 
-I’ve spoken a couple of times now with John, Rob and Suz about how we can formalise a partnership with the AIIA --- how we can work more closely together to find solutions, share knowledge and ideas, and uplift skills capability.
+I’ve spoken a couple of times now with the AIIA about how we can formalise a partnership with them --- how we can work more closely together to find solutions, share knowledge and ideas, and uplift skills capability.
 
 The reality is that within the APS we do not have **all** the capability and capacity that is needed to deliver.
 
