@@ -8,7 +8,7 @@ searchexcerpt: "The DTA's Gavin Slater spoke to the Australian Information Indus
 
 **Release Date:** 3 August 2017
 
-Speaking remarks (Check against delivery)
+Speaking remarks (check against delivery)
 
 The first time I thought about technology and how it could enable a better outcome was in 1986 when I started my first full time job as a batch processing clerk in the local bank branch.  
 
@@ -71,7 +71,7 @@ Consider what they have:
 - they have no need to buy a fleet of cars  
 - they deliver a safe, secure, easy 24x7 service, which they continue to refine and improve through analytics
 - they have a way to refine their profiles on users with every Uber trip
-- they, most importantly, started with a customer orientation
+- they, most importantly, started with a customer orientation.
 
 Compare this to the Melbourne taxi industry, that has the same access to all these technologies, yet delivers quite a different experience for the customer.
 
