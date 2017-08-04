@@ -3,7 +3,7 @@
 path: _site/
 instances: 1
 memory: 64M
-disk_quota: 256M
+disk_quota: 512M
 buildpack: staticfile_buildpack
 host: dta
 applications:
