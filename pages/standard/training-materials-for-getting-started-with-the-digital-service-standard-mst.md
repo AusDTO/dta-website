@@ -5,13 +5,11 @@ permalink: /standard/training-materials-for-getting-started-with-the-digital-ser
 exclude_from_search: true
 ---
 
-The “Getting started” training program is free to you to use with your staff.
+The Getting started training program is free to you to use with your staff.
 
 It is designed to help Australian Government agencies build internal capability and understanding of how to apply the Digital Service Standard.
 
 Other organisations, governments and academic institutions are also able to use the training, in accordance with the copyright conditions.
-
-We will occasionally send you updates about this training when they are released. Information collected will be held in accordance with our [privacy policy](/privacy-statement/).
 
 ## Training downloads
 
@@ -75,6 +73,8 @@ We’d love to hear what you think about the training or suggestions for improve
 If you have not already signed up to receive updates to the training materials, please enter your email address below.
 
 {% include training-materials-form.html %}
+
+We will occasionally send you updates about this training when they are released. Information collected will be held in accordance with our [privacy policy](/privacy-statement/).
 
 ## Copyright
 
