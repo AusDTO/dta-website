@@ -2,7 +2,7 @@
 layout: basic
 title: "Content strategy"
 lede: "We're helping government teams to better manage, remove and improve the quality of government content so that it’s simpler, clearer and faster."
-permalink: /what-we-do/platforms/content-strategy/
+permalink: /what-we-do/policies-and-programs/content-strategy/
 redirect_from: /our-work/gov-au/
 localnav: what-we-do
 searchexcerpt: "We're helping government teams to better manage, remove and improve the quality of government content so that it’s simpler, clearer and faster."
