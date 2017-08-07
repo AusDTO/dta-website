@@ -23,6 +23,16 @@ At the end of the course, you will have an improved understanding of:
 - the mandate for the Standard and its scope
 - your role in supporting digital transformation and contributing to simple, clear and fast services
 
+### Agency-led training
+You can deliver this course within your agency and customise it for your staff. The DTA can provide ‘train-the-trainer’ sessions for agencies upon request.
+
+Enter your email to get access to the training materials.
+
+{% include training-materials-form.html %}
+
+We will occasionally send you updates about this training when they are released. Information collected will be held in accordance with our [privacy policy](/privacy-statement/).
+
+
 ### Register for training sessions at the DTA
 
 We will be holding training sessions in both Sydney and Canberra in the coming months.

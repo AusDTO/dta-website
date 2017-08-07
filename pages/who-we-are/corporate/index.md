@@ -14,6 +14,9 @@ searchexcerpt: "Find information on DTA's Corporate Plan, Annual Report, employm
     <a href="{{site.baseurl}}/who-we-are/corporate/plan/">Corporate plan</a>
   </li>
   <li>
+    <a href="{{site.baseurl}}/who-we-are/corporate/executive-remuneration/">Executive remuneration</a>
+  </li>
+  <li>
     <a href="{{site.baseurl}}/who-we-are/corporate/freedom-of-information/">Freedom of information</a>
   </li>
   <li>
