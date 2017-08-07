@@ -6,6 +6,8 @@ author: Chris Marmo and Katie Vasey from PaperGiant
 author-excerpt: "PaperGiant was commissioned by the DTA to conduct this research following a successful bid on the Digital Marketplace."
 thumbnail: /images/blog-thumbnails/DOALO-blog-THUMB.jpg
 hero-image: /images/blog-content/DOALO-blog-HERO.jpg
+facebook-image: /images/blog-content/DOALO-blog-FACEBOOK.jpg
+twitter-image: /images/blog-content/DOALO-blog-TWITTER.jpg
 searchexcerpt: "When you're planning research with vulnerable users who are sharing difficult experiences, it is important to take steps to look after both your participants and your research team. Here's some tips on how to prepare, from a team who were researching one of the most difficult subjects — death."
 ---
 
