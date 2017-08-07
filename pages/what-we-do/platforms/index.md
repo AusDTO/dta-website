@@ -15,7 +15,7 @@ searchexcerpt: "Find information on common solutions developed by DTA, such as C
     <a href="{{site.baseurl}}/what-we-do/platforms/marketplace/">Digital marketplace</a>
   </li>
   <li>
-    <a href="{{site.baseurl}}/what-we-do/platforms/content-strategy/">Content strategy</a>
+    <a href="{{site.baseurl}}/what-we-do/policies-and-programs/content-strategy/">Content strategy</a>
   </li>
   <li>
     <a href="{{site.baseurl}}/what-we-do/platforms/govpass/">Govpass</a>
