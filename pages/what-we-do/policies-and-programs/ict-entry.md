@@ -114,7 +114,7 @@ To apply you must:
 - have completed your Year 12 Certificate or equivalent by January 2018
 - be able to pass a security assessment.
 
-Applications are now open and will close on 4 August 2017. [Click here to apply for the 2018 Australian Government ICT Apprenticeship Program](https://ausdta.recruiterbox.com/jobs/fk0my2u).
+Applications for the 2018 program are now closed.
 
 ## Australian Government ICT Cadetship Program
 
