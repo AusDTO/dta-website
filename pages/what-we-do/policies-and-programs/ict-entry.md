@@ -101,7 +101,7 @@ Agencies participating on the Program in 2018 include:
 - Commonwealth Director of Public Prosecutions (Sydney and Melbourne) 
 - Department of Agriculture (Canberra)
 - Department of Defence - Australian Signals Directorate (Canberra)
-- Department of Human Services (Canberra and Adelaide)
+- Department of Human Services (Canberra)
 - Department of Immigration and Border Protection (Canberra)
 - Australian Federal Police (Canberra)
 
@@ -156,7 +156,7 @@ Agencies participating on the Program in 2018 include:
 - Australian Securities and Investments Commission (Sydney)
 - Department of Defence - Australian Signals Directorate (Canberra)
 - Department of Defence - Chief Information Officers Group (Canberra)
-- Department of Human Services (Canberra and Adelaide)
+- Department of Human Services (Canberra)
 - Department of Immigration and Border Protection (Canberra)
 - Department of Social Services (Canberra)
 
