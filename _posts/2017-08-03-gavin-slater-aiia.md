@@ -8,7 +8,7 @@ searchexcerpt: "The DTA's Gavin Slater spoke to the Australian Information Indus
 
 **Release Date:** 3 August 2017
 
-Speaking remarks (check against delivery)
+*Speaking remarks (check against delivery)*
 
 The first time I thought about technology and how it could enable a better outcome was in 1986 when I started my first full time job as a batch processing clerk in the local bank branch.  
 
