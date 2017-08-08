@@ -21,4 +21,4 @@ This year we’re offering about 100 positions in the ICT apprenticeship and cad
 
 Over the past 10 years the Australian Government’s ICT entry-level program has kicked off the ICT careers of over 1000 people — helping to build the digital capability of the APS. And the best news? More than 80% of those people have successfully completed their program with the support of career development support officers like Andy Kempson. Here Andy talks about his role.
 
-[Supporting new talent in the APS](https://www.dta.gov.au/blog/supporting-new-talent-in-the-aps/))
+[Supporting new talent in the APS](https://www.dta.gov.au/blog/supporting-new-talent-in-the-aps/)
