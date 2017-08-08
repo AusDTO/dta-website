@@ -9,6 +9,8 @@ searchexcerpt: This is the searchexcerpt! Fusce dapibus, tellus ac cursus commod
 
 ![Thumbnail](/images/blog-thumbnails/blog-image-THUMB-1.jpg)
 
+![ ]({{ site.url }}{{ site.baseurl }}/images/blog-thumbnails/blog-image-THUMB-1.jpg)
+
 ### [The Apprentice](https://www.dta.gov.au/blog/the-apprentice/)
 
 This year we’re offering about 100 positions in the ICT apprenticeship and cadetship programs — more than ever before! We’ve been catching up with some of the current cadets and apprentices to find out more about their programs — what made them apply, if the job has been what they expected, and what their plans for the future are.
