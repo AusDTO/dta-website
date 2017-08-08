@@ -11,7 +11,7 @@ searchexcerpt: Interested in learning more about how the DTA is building digital
 
 ### [Building digital capability to drive transformation](https://www.dta.gov.au/news/building-digital-capability/)
 
-The DTA is designing and delivering programs to lift the digital skills of the Australian Public Service as part of the government's digital transformation agenda. We explain how in this video blog.
+We explain how the DTA is designing and delivering programs to lift the digital skills of the Australian Public Service as part of the government's digital transformation agenda.
 
 ***
 
@@ -19,7 +19,7 @@ The DTA is designing and delivering programs to lift the digital skills of the A
 
 ### [The Apprentice](https://www.dta.gov.au/blog/the-apprentice/)
 
-In this blog post, we catch up with some of the current ICT cadets and apprentices to find out more about their programs — what made them apply, if the job has been what they expected, and what their plans for the future are.
+In this blog post, we catch up with some of the current ICT cadets and apprentices to find out more about their programs.
 
 ***
 
@@ -27,6 +27,6 @@ In this blog post, we catch up with some of the current ICT cadets and apprentic
 
 ### [Supporting new talent in the APS](https://www.dta.gov.au/blog/supporting-new-talent-in-the-aps/)
 
-Over the past 10 years the Australian Government’s ICT entry-level program has kicked off the ICT careers of over 1000 people — helping to build the digital capability of the APS. In this post, we explain how we're supporting participants along the way.
+Over the past 10 years the Australian Government’s ICT entry-level program has kicked off the ICT careers of over 1000 people — we explain how we're supporting participants along the way.
 
 ***
