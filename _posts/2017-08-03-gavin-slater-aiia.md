@@ -97,7 +97,7 @@ I believe the following examples prove that value **is** being created.
 
 **myTax**
 
-I met with the tax commissioner, John Lloyd, this week and he said the numbers of citizens lodging their tax online increase from 1.7 million in 2014–15 to 3.5 million in 2015–16. 
+I met with the tax commissioner, Chris Jordan, this week and he said the numbers of citizens lodging their tax online increase from 1.7 million in 2014–15 to 3.5 million in 2015–16. 
 
 The ATO’s mission is to deliver a service outcome that’s infrequent, quick and painless --- a bit like what a visit to the dentist should be.
 
