@@ -4,7 +4,7 @@ category: [blog]
 tags:
   - dta download
 thumbnail: /images/blog-thumbnails/video-Thumb.png
-searchexcerpt: This is the searchexcerpt! Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Sed posuere consectetur est at lobortis. Donec id elit non mi porta gravida at eget metus.
+searchexcerpt: Interested in learning more about how the DTA is building digital capability in the APS? Here's a wrap up of our latest blog posts on the topic. 
 ---
 
 ![ ]({{ site.url }}{{ site.baseurl }}/images/blog-thumbnails/video-Thumb.png)
