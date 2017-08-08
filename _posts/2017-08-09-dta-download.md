@@ -1,5 +1,5 @@
 ---
-title: "DTA Download --- digital capability"
+title: "DTA Download"
 category: [blog]
 tags:
   - dta download
@@ -17,11 +17,12 @@ We explain how the DTA is designing and delivering programs to lift the digital 
 
 ![ ]({{ site.url }}{{ site.baseurl }}/images/blog-thumbnails/blog-image-THUMB-1.jpg)
 
-### [The Apprentice](https://www.dta.gov.au/blog/the-apprentice/)
+### [The apprentice](https://www.dta.gov.au/blog/the-apprentice/)
 
 In this blog post, we catch up with some of the current ICT cadets and apprentices to find out more about their programs.
 
 ***
+
 
 ![ ]({{ site.url }}{{ site.baseurl }}/images/blog-thumbnails/ICT-CDSO-Andy-Kempson-THUMB-1.jpg)
 
