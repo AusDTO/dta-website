@@ -4,6 +4,7 @@ title: "Content strategy"
 lede: "We're helping government teams to better manage, remove and improve the quality of government content so that it’s simpler, clearer and faster."
 permalink: /what-we-do/policies-and-programs/content-strategy/
 redirect_from: /our-work/gov-au/
+redirect_from: /what-we-do/platforms/govau/
 localnav: what-we-do
 searchexcerpt: "We're helping government teams to better manage, remove and improve the quality of government content so that it’s simpler, clearer and faster."
 ---
