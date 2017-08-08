@@ -7,8 +7,6 @@ thumbnail: /images/blog-thumbnails/video-Thumb.png
 searchexcerpt: This is the searchexcerpt! Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Sed posuere consectetur est at lobortis. Donec id elit non mi porta gravida at eget metus.
 ---
 
-![Thumbnail](/images/blog-thumbnails/blog-image-THUMB-1.jpg)
-
 ![ ]({{ site.url }}{{ site.baseurl }}/images/blog-thumbnails/blog-image-THUMB-1.jpg)
 
 ### [The Apprentice](https://www.dta.gov.au/blog/the-apprentice/)
