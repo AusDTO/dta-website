@@ -3,7 +3,7 @@ title: "DTA Playback — August"
 category: [blog]
 tags:
   - dta download
-thumbnail: /images/Playback-THUMB.png
+thumbnail: /images/Playback-THUMB (1).png
 twitter-image: /images/Playback-TWITTER.png
 searchexcerpt: Interested in learning more about how we're building digital capability in the APS? Here's a wrap up of our latest blog posts on the topic.
 ---
