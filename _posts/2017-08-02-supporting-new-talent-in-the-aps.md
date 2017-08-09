@@ -55,7 +55,7 @@ I am absolutely passionate about our programs and proud to represent all of my p
 
 ## Get involved in the program
 
-Find out more about our [ICT entry-level programs](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-entry/). There are about 250 positions to be filled in 2018 and application are now open. 
+Find out more about our [ICT entry-level programs](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-entry/). There are up to 200 positions to be filled in 2018 and applications are now open. 
 
 - Apprenticeship program --- [applications close on Friday 4 August](https://www.dta.gov.au/who-we-are/corporate/jobs/#op-193387-2018-australian-government-ict-apprenticeship-program)
 - Cadetship program --- [applications close Friday 11 August](https://www.dta.gov.au/who-we-are/corporate/jobs/#op-192930-2018-australian-government-ict-cadetship-program) 
