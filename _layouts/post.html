@@ -3,16 +3,29 @@ layout: base
 breadcrumb_type: post
 ---
 {% if page.categories contains 'blog' %}
-{% assign blog = true %}
+  {% assign blog = true %}
 {% else %}
-{% assign blog = false %}
+  {% assign blog = false %}
+{% endif %}
+
+{% if page.tags contains 'dta download' %}
+  {% assign dtadownload = true %}
+{% else %}
+  {% assign dtadownload = false %}
 {% endif %}
 
 <article id="content" class="content-main">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <div class="post-meta">
-      <p>{% if blog %}{{ page.author }} &mdash; {% endif %}{{ page.date | date: "%b %-d, %Y" }}</p>
+      <p>
+        {% if blog %}
+          {% if dtadownload %}
+          {% else %}
+            {{ page.author }} &mdash;
+          {% endif %}
+        {% endif %}
+        {{ page.date | date: "%b %-d, %Y" }}</p>
       {% if page.tags.size > 0 %}
       {% unless page.categories contains 'ict-procurement-update' %}
       <div class="tags">
@@ -31,10 +44,16 @@ breadcrumb_type: post
     </div>
   </header>
 
-  <div class="abstract">
-    {{ page.searchexcerpt | markdownify }}
-  </div>
-  {% if page.tags contains 'dta download' %}
+  {% if dtadownload %}
+    <div class="abstract dta-download">
+      {{ page.searchexcerpt | markdownify }}
+    </div>
+  {% else %}
+    <div class="abstract">
+      {{ page.searchexcerpt | markdownify }}
+    </div>
+  {% endif %}
+  {% if dtadownload %}
     <section class="post-body dta-download">
   {% else %}
     <section class="post-body">
@@ -50,7 +69,9 @@ breadcrumb_type: post
   </section>
   {% endunless %}
 
-  {% include post-author-excerpt.html %}
+  {% unless dtadownload %}
+    {% include post-author-excerpt.html %}
+  {% endunless %}
 
   {% include social-links.html %}
 
