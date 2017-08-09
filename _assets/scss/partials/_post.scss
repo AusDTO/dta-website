@@ -49,7 +49,8 @@
   }
 }
 
-.abstract.dta-download {
+.abstract.dta-download,
+.abstract.dta-playback {
   margin-bottom: $large-spacing;
 }
 
@@ -61,7 +62,8 @@
     border-radius: $tiny-border-radius;
     box-shadow: 0 0 8px $light-grey;
   }
-  &.dta-download {
+  &.dta-download,
+  &.dta-playback {
     @include media($desktop) {
       h2 {
         margin-top: 0;
