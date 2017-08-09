@@ -1,5 +1,5 @@
 ---
-title: "DTA Playback — August"
+title: "DTA Playback — digital capability"
 category: [blog]
 tags:
   - dta download
