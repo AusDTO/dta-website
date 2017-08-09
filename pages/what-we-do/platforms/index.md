@@ -15,9 +15,6 @@ searchexcerpt: "Find information on common solutions developed by DTA, such as C
     <a href="{{site.baseurl}}/what-we-do/platforms/marketplace/">Digital marketplace</a>
   </li>
   <li>
-    <a href="{{site.baseurl}}/what-we-do/platforms/govau/">GOV.AU</a>
-  </li>
-  <li>
     <a href="{{site.baseurl}}/what-we-do/platforms/govpass/">Govpass</a>
   </li>
   <li>

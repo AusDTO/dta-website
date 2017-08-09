@@ -58,15 +58,6 @@ Phone: (02) 6234 4059 <br>
 Fax: (02) 6234 4111<br>
 Email: [georgina.adams@blakedawson.com](mailto:georgina.adams@blakedawson.com)
 
-### Clayton Utz
-
-**Contact:** David Kreltszheim, Special Counsel – E-Business <br>
-Level 18, 33 Collins Street <br>
-Melbourne VIC 3000 <br>
-Phone: (03) 9286 6970 <br>
-Fax: (03) 9629 8488 <br>
-Email: [dkreltszheim@claytonutz.com](mailto:dkreltszheim@claytonutz.com)
-
 ### Norton Rose Australia
 
 **Contact:** Bernard J O'Shea, Partner <br>

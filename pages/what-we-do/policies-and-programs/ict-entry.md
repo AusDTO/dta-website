@@ -101,7 +101,7 @@ Agencies participating on the Program in 2018 include:
 - Commonwealth Director of Public Prosecutions (Sydney and Melbourne) 
 - Department of Agriculture (Canberra)
 - Department of Defence - Australian Signals Directorate (Canberra)
-- Department of Human Services (Canberra and Adelaide)
+- Department of Human Services (Canberra)
 - Department of Immigration and Border Protection (Canberra)
 - Australian Federal Police (Canberra)
 
@@ -114,7 +114,7 @@ To apply you must:
 - have completed your Year 12 Certificate or equivalent by January 2018
 - be able to pass a security assessment.
 
-Applications are now open and will close on 4 August 2017. [Click here to apply for the 2018 Australian Government ICT Apprenticeship Program](https://ausdta.recruiterbox.com/jobs/fk0my2u).
+Applications for the 2018 program are now closed.
 
 ## Australian Government ICT Cadetship Program
 
@@ -156,7 +156,7 @@ Agencies participating on the Program in 2018 include:
 - Australian Securities and Investments Commission (Sydney)
 - Department of Defence - Australian Signals Directorate (Canberra)
 - Department of Defence - Chief Information Officers Group (Canberra)
-- Department of Human Services (Canberra and Adelaide)
+- Department of Human Services (Canberra)
 - Department of Immigration and Border Protection (Canberra)
 - Department of Social Services (Canberra)
 
