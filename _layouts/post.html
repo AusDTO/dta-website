@@ -8,10 +8,10 @@ breadcrumb_type: post
   {% assign blog = false %}
 {% endif %}
 
-{% if page.tags contains 'dta download' %}
-  {% assign dtadownload = true %}
+{% if page.tags contains 'dta playback' %}
+  {% assign dtaplayback = true %}
 {% else %}
-  {% assign dtadownload = false %}
+  {% assign dtaplayback = false %}
 {% endif %}
 
 <article id="content" class="content-main">
@@ -20,7 +20,7 @@ breadcrumb_type: post
     <div class="post-meta">
       <p>
         {% if blog %}
-          {% if dtadownload %}
+          {% if dtaplayback %}
           {% else %}
             {{ page.author }} &mdash;
           {% endif %}
@@ -44,8 +44,8 @@ breadcrumb_type: post
     </div>
   </header>
 
-  {% if dtadownload %}
-    <div class="abstract dta-download">
+  {% if dtaplayback %}
+    <div class="abstract dta-playback">
       {{ page.searchexcerpt | markdownify }}
     </div>
   {% else %}
@@ -53,8 +53,8 @@ breadcrumb_type: post
       {{ page.searchexcerpt | markdownify }}
     </div>
   {% endif %}
-  {% if dtadownload %}
-    <section class="post-body dta-download">
+  {% if dtaplayback %}
+    <section class="post-body dta-playback">
   {% else %}
     <section class="post-body">
   {% endif %}
@@ -69,7 +69,7 @@ breadcrumb_type: post
   </section>
   {% endunless %}
 
-  {% unless dtadownload %}
+  {% unless dtaplayback %}
     {% include post-author-excerpt.html %}
   {% endunless %}
 
