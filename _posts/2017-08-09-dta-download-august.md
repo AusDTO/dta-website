@@ -4,7 +4,7 @@ category: [blog]
 tags:
   - dta download
 thumbnail: /images/blog-thumbnails/video-Thumb.png
-searchexcerpt: Interested in learning more about how the DTA is building digital capability in the APS? Here's a wrap up of our latest blog posts on the topic.
+searchexcerpt: Interested in learning more about how we are building digital capability in the APS? Here's a wrap up of our latest blog posts on the topic.
 ---
 
 ![A text based image containing the words building digital and ICT capability in government.]({{ site.url }}{{ site.baseurl }}/images/blog-thumbnails/video-Thumb.png)
