@@ -79,4 +79,4 @@ We can help you to:
 
 We will share news and updates on our [updates page](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-procurement/updates/).
 
-If you need further help, send us an email at [ictprocurement@dta.gov.au](ictprocurement@dta.gov.au)
+If you need further help, send us an email at [ictprocurement@dta.gov.au](mailto:ictprocurement@dta.gov.au)
