@@ -6,8 +6,6 @@ localnav: who-we-are
 searchexcerpt: "The way we engage with you should help you through change within your organisation."
 ---
 
-## How we engage
-
 We work with people from across sectors and industries to deliver digital transformation. 
 
 Together we collaborate, showcase work, solve problems and explore best practice. We do this through a range of forums, roundtables and communities of practice. 
