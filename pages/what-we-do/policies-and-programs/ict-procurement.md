@@ -3,38 +3,94 @@ title: ICT procurement
 layout: basic
 permalink: /what-we-do/policies-and-programs/ict-procurement/
 localnav: what-we-do
-searchexcerpt: "Our role is to set up and oversee arrangements to purchase some of the ICT products and services to satisfy whole of government needs. We also provide advice and guidance to government agencies about how to develop sound ICT contracts."
+searchexcerpt: "The Digital Transformation Agency is making it simpler, easier and faster for government departments and agencies to buy Information and Communications Technology (ICT). This page will give you more information about ICT procurement in government."
 ---
 
-Responsibility for some whole of government ICT procurement moved from the Department of Finance to the Digital Transformation Agency in May 2017. This move gives the DTA greater strategic oversight of ICT procurement across government.
+The DTA sets up and manages coordinated [ICT procurement arrangements](/what-we-do/policies-and-programs/ict-procurement/buying) that help agencies when buying commonly used ICT products and services.
 
-Our role is to set up and oversee arrangements to purchase some of the ICT products and services to satisfy whole of government needs. We also provide advice and guidance to government agencies about how to develop sound ICT contracts.
+## Updates
 
-[See ICT procurement updates](/what-we-do/policies-and-programs/ict-procurement/updates/)
+You can stay up to date with ICT procurement news and requests for feedback on our [updates page](/what-we-do/policies-and-programs/ict-procurement/updates/).
 
-## Coordinated procurement
+### Looking for a panel?
 
-We identify opportunities where government agencies can pool resources to buy products and services through a [coordinated procurement arrangement](https://www.finance.gov.au/procurement/wog-procurement/coordinated-procurement.html). This makes it easier and cheaper for agencies to buy ICT products and services.
+Click straight through to our ICT procurement panels:
 
-When the government wants to buy ICT products or services, a tender is put out for expressions of interest from suppliers. Following an assessment of these suppliers, which includes a value for money evaluation, some suppliers will be selected to join the procurement panel. A government agency can then buy a product or service directly from this panel without having to go through a new procurement process.
+- [Cloud Services Panel SON2914302](http://www.finance.gov.au/policy-guides-procurement/cloud-services-panel/)
+- [Data Centre Panel SON2402841](http://www.finance.gov.au/tags/data-centres/)
+- [ICT Hardware Panel SON3295723](http://www.finance.gov.au/policy-guides-procurement/whole-of-government-ict-hardware-panel/)
+- [Mobile Panel SON2589631](http://www.finance.gov.au/policy-guides-procurement/australian-government-telecommunications-arrangements/telecommunications-panels/#Mobile_Panel)
+- [Telecommunications Services Panel SON3386916](http://www.finance.gov.au/policy-guides-procurement/australian-government-telecommunications-arrangements/telecommunications-panels/)
 
-Non-Corporate Commonwealth Entities are required to use coordinated procurement arrangements where they exist.
+### Or for a volume sourcing arrangement?
 
-We manage the following ICT procurement panels:
+- [Microsoft](http://www.finance.gov.au/policy-guides-procurement/mvsa/)
 
-- [Data Centre Facilities Panel](http://www.finance.gov.au/policy-guides-procurement/data-centres/data-centre-facilities-panel/)
-- [Data Centre Facilities Supplies Panel](https://www.finance.gov.au/policy-guides-procurement/data-centres/data-centres-facilities-supplies-panel/)
-- [ICT Hardware and Associated Services Panel](https://www.finance.gov.au/policy-guides-procurement/whole-of-government-ict-hardware-panel/)
-- [Microsoft Volume Sourcing Arrangement](http://www.finance.gov.au/policy-guides-procurement/mvsa/) (including the Large Account Reseller Agreement)
-- [Mobile Panel](http://www.finance.gov.au/policy-guides-procurement/australian-government-telecommunications-arrangements/telecommunications-panels/)
-- [Telecommunications Services Panel](http://www.finance.gov.au/policy-guides-procurement/australian-government-telecommunications-arrangements/telecommunications-panels/)
+### Or need digital specialists for your project?
 
-The DTA also manages the [Cloud Services Panel](https://www.finance.gov.au/policy-guides-procurement/cloud-services-panel/) which government organisations can choose to use.
+Check out the [Digital Marketplace](https://marketplace.service.gov.au/).
 
-## SourceIT model contracts
+## On this page
 
-[Source IT model contracts](http://www.finance.gov.au/policy-guides-procurement/sourceit-model-contracts/) are a suite of templates to help agencies develop sound commercial ICT agreements. They encourage good business practice and minimise the risk of conflict and disagreements.
+- [What is coordinated procurement?](#what-is-coordinated-procurement)
+- [Buying ICT products for government](#buying-ict-products-for-government)
+- [Selling ICT products to government](#selling-ict-products-to-government)
+- [Example ICT contracts](#example-ict-contracts)
+- [Policies](#policies)
+- [Reviewing how we buy products and services](#reviewing-how-we-buy-products-and-services)
+- [Contact us](#contact-us)
+
+## What is coordinated procurement?
+
+Coordinated procurement is when government departments and agencies work together to buy products and services they commonly use. This makes it easier for departments and agencies because it:
+
+- simplifies the process
+- reduces administrative costs
+- improves terms and conditions
+- secures value for money
+
+In collaboration with departments and agencies, the DTA manages a range of ICT coordinated procurement arrangements and contracts.
+
+## Buying ICT products for government
+
+The DTA helps government departments and agencies buy the ICT products and services they need.
+
+This is often done through panels and volume sourcing arrangements, and depends on the type of product being purchased.
+
+If you are from a government department or agency, you can find out more about [buying ICT products for government](/what-we-do/policies-and-programs/ict-procurement/buying).
+
+## Selling ICT products to government
+
+Government looks to purchase ICT products and services that demonstrate [value for money](https://www.finance.gov.au/procurement/procurement-policy-and-guidance/commonwealth-procurement-rules/) for the Australian taxpayer.
+
+The government must also follow certain rules when buying goods and services as described in the [*Commonwealth Procurement Rules*](https://www.finance.gov.au/procurement/procurement-policy-and-guidance/commonwealth-procurement-rules/).
+
+If you want to sell ICT products or services to government, learn more about [finding opportunities, submitting applications and winning business](/what-we-do/policies-and-programs/ict-procurement/selling).
+
+## Example ICT Contracts
+
+The DTA has examples of model contracts for buying ICT products or services. These are called the [SourceIT model contracts](http://www.finance.gov.au/policy-guides-procurement/sourceit-model-contracts/).
+
+SourceIT contracts can help you to buy software or related services that are not covered by a panel or volume sourcing arrangement. They are template contracts that help you to minimise the risk of conflict and disagreements between parties.
+
+The DTA can help with general information on the SourceIT contracts but specific procurement and legal information should be sought from your own department.
+
+## Policies
+
+The DTA manages ICT coordinated procurement arrangements. These arrangements are formed in line with the coordinated procurement contracting framework overseen by the Department of Finance.
 
 ## Reviewing how we buy products and services
 
-We are also [reviewing how government buys ICT products and services](/what-we-do/policies-and-programs/ict-procurement/ict-procurement-review/), and exploring how we can make ICT procurement a simpler and faster process for everyone involved.
+We are currently [reviewing how government buys ICT products and services](/what-we-do/policies-and-programs/ict-procurement/ict-procurement-review/), and exploring how we can make ICT procurement a simpler and faster process for everyone involved.
+
+## Procurement Taskforce
+
+Information about the [Procurement Taskforce](/what-we-do/policies-and-programs/ict-procurement/ict-procurement-review/) is available from the DTA website.
+
+## Contact us
+
+For any questions related to ICT procurement you can contact us at [ictprocurement@dta.gov.au](mailto:ictprocurement@dta.gov.au)
+
+---
+
+The responsibility for whole of government ICT procurement moved from the Department of Finance to the Digital Transformation Agency in May 2017. This move is part of the agency’s expanded responsibility to deliver on the government’s Digital Transformation Agenda.
