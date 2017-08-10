@@ -89,7 +89,7 @@ Information about the [Procurement Taskforce](/what-we-do/policies-and-programs/
 
 ## Contact us
 
-For any questions related to ICT procurement you can contact us at [ictprocurement@dta.gov.au](ictprocurement@dta.gov.au)
+For any questions related to ICT procurement you can contact us at [ictprocurement@dta.gov.au](mailto:ictprocurement@dta.gov.au)
 
 ---
 

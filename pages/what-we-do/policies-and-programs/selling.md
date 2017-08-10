@@ -1,7 +1,7 @@
 ---
 title: Selling ICT products and services to government
 layout: basic
-permalink: /what-we-do/policies-and-programs/ict-procurement/selling
+permalink: /what-we-do/policies-and-programs/ict-procurement/selling/
 localnav: what-we-do
 searchexcerpt: "Any size and type of business can sell to the Australian Government. If you sell Information and Communications Technology (ICT), this information will help you understand how to sell your products and services to the Australian Government. "
 ---
@@ -56,7 +56,7 @@ The panel submission process:
 
 If your submission is successful, you must sign an agreement with the Commonwealth of Australia (as represented by the DTA) and be able to respond to quote requests by government entities.
 
-You will be offered feedback if your submission is unsuccessful. 
+You will be offered feedback if your submission is unsuccessful.
 
 ### Win business
 
