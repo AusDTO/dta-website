@@ -12,11 +12,11 @@ searchexcerpt: "Our communities of practice bring together our government collea
 
 The communities are open to anyone in local, state, territory and federal government to join.
 
-We are [currently expanding and updating our guidance](https://www.dta.gov.au/standard/design-guides/) to help Australian Government teams understand and meet the Digital Service Standard.
+We continue to [expand and update our guidance](https://www.dta.gov.au/standard/design-guides/) to help teams across government understand and meet the Digital Service Standard.
 
 ## Content design community
 
-This is a community for people who write, edit or manage content in any part of the Australian government (including state and local government). Members can contribute ideas to the [GOV.AU Content Guide](https://guides.service.gov.au/content-guide/).
+This is a community for people who write, edit or manage content in any part of the Australian government (including state and local government). Members can contribute ideas to the [Content Guide](https://guides.service.gov.au/content-guide/).
 
 [Join the content design community](https://docs.google.com/a/digital.gov.au/forms/d/1FDc92Hb2VXa0DBf03CCOXK2ih5SfF7aNFrFscj7W09s/viewform?edit_requested=true) (you need a ‘gov.au’ email address).
 
