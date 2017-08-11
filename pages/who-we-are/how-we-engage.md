@@ -48,7 +48,7 @@ We also work closely with private sector organisations on various digital transf
 
 #### Non-government sector 
 
-We are establishing formal engagements with the not-for-profit and non-government sector to work through challenges arising from digital transformation work. Organisations include:
+We are establishing formal engagements with the not-for-profit and non-government sector. Organisations include:
 
 - advocacy groups
 - privacy groups 
