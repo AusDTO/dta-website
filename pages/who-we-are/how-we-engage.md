@@ -18,34 +18,35 @@ We regularly engage with agencies across the Australian Government in both forma
 
 #### Digital 10 
 
-Meeting monthly the Digital 10 Working Group brings together Chief Information Officers and Deputy Secretaries from the major portfolios driving digital transformation including the Departments of:
+Every month we host the Digital 10 Working Group to bring together Chief Information Officers and senior executives that represent:
 
-- Prime Minister and Cabinet 
-- Health
-- Defence
-- Border Protection and Immigration 
-- Industry, Innovation and Science
-- Human Services
-- Finance
-- Attorney General
+- Department of Prime Minister and Cabinet 
+- Department of Health
+- Department of Defence
+- Department of Immigration and Border Protection 
+- Department of Industry, Innovation and Science
+- Department of Human Services
+- Department of Finance
+- Attorney General’s Department
 - Australian Taxation Office
 - Australian Digital Health Agency
 
+
 #### CIO forum 
 
-Every six weeks we host a forum just for Chief Information Officers (CIOs) within the Australian Government. In this forum, CIOs are encouraged to share experiences from the private sector, showcase transformation work and collaborate on challenges. 
+Every six weeks we host a forum for Chief Information Officers (CIOs) across government. 
 
 #### PMO roundtable 
 
-Every six weeks we chair leaders in the Program Management Offices of major portfolios driving digital transformation.  
+Every six weeks we chair a roundtable of leaders from Program or Portfolio Management Offices (PMO’s) across government. 
 
-#### Private Sector 
+#### Private sector 
 
-We are exploring a formal partnership with the Australian Information Industry Association (AIIA) for greater private and public sector collaboration on digital transformation. 
+We are exploring a formal partnership with the Australian Information Industry Association for greater private and public sector collaboration on digital transformation. 
 
 We also work closely with private sector organisations on various digital transformation projects. 
 
-#### Non-Government Sector 
+#### Non-government sector 
 
 We are establishing formal engagements with the not-for-profit and non-government sector to work through challenges arising from digital transformation work. Organisations include:
 
@@ -69,7 +70,7 @@ We represent Australia internationally on the Organisation for Economic Cooperat
 
 #### Open Government Partnership 
 
-We are supporting the delivery of four commitments as part of Australia’s first [Open Government National Action Plan](https://ogpau.pmc.gov.au/commitment/51-open-government-forum) delivered by the Department Prime Minister and Cabinet to strengthen governance: 
+We are supporting the delivery of four commitments as part of Australia’s first [Open Government National Action Plan](https://ogpau.pmc.gov.au/commitment/51-open-government-forum) to: 
 
 - promote transparency
 - empower citizens
