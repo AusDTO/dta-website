@@ -7,7 +7,7 @@ lede: Remuneration tables for DTA executive staff.
 searchexcerpt: "The two tables outline the cash remuneration at an aggregate level, within dollar ranges (or bands) for substantive senior executives and highly paid individuals, and show the numbers of employees within each band."
 ---
 
-The two tables below outline the cash remuneration at an aggregate level, within dollar ranges (or bands) for substantive senior executives and highly paid individuals, and show the numbers of employees within each band.
+The two tables below show the total cash remuneration for senior executives and other highly paid employees. It also shows the number of employees within each range or band.
 
 <div class="horizontal-scroll-table-container">
   <table class="content-table" summary="Table A shows the average annual reportable cash remuneration paid to substantive executives during the reporting period.">
