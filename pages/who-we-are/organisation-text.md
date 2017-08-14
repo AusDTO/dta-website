@@ -32,7 +32,7 @@ searchexcerpt: Full text description of the DTA organisation structure as on 1 J
     <span>Peter Alexander </span><br>Chief Digital Officer
   </li>
   <li>
-    <span>Radi Kovacevic </span><br>Acting Chief Investment Officer
+    <span>Craig Rice </span><br>Acting Chief Investment and Advisory Officer
   </li>
   <li>
     <span>Angela Chow </span><br>Acting Chief Procurement Officer
