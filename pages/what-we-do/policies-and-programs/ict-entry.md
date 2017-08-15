@@ -170,7 +170,7 @@ To apply you must:
 - be able to complete your university studies in a minimum of 18 months and a maximum of 3 years
 - be able to pass a security assessment.
 
-Applications are now open and will close on 11 August 2017. [Click here to apply for the 2018 Australian Government ICT Cadetship Program](https://ausdta.recruiterbox.com/jobs/fk0mgb2).
+Applications for the 2018 program are now closed.
 
 ## Australian Government ICT Graduate Program
 
@@ -229,7 +229,7 @@ To apply you must:
 - be able to pass a security and health assessment
 - be willing to move to Canberra if required.
 
-Applications for the 2018 Program are open now and will close on 16 April 2017.
+Applications for the 2018 Program are now closed.
 
 ## Contact us
 
