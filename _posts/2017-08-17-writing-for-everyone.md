@@ -3,7 +3,7 @@ title: "Writing for everyone"
 category: [blog]
 tag: 'digital transformation'
 author: Libby Varcoe
-author-excerpt: "Libby Varcoe is Content Community Lead at the Digital Transformation Agency."
+author-excerpt: "Libby Varcoe is Content Design Lead at the Digital Transformation Agency."
 thumbnail: /images/blog-thumbnails/plain-english_thumb.png
 hero-image: /images/blog-content/plain-english_Hero.png
 twitter-image: /images/blog-content/plain-english_twitter.png
