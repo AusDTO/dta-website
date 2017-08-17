@@ -2,12 +2,8 @@
 title: "Software Licensing and Services Panel — Request For Tender released"
 category: [ict-procurement-update]
 tag: 'ict-procurement'
-author: Libby Varcoe
-author-excerpt: "Libby Varcoe is Content Design Lead at the Digital Transformation Agency."
-thumbnail: /images/blog-thumbnails/plain-english_thumb.png
-hero-image: /images/blog-content/plain-english_Hero.png
-twitter-image: /images/blog-content/plain-english_twitter.png
 searchexcerpt: "The Software Licensing and Services Panel is now open for tender submissions."
+localnav: what-we-do
 ---
 
 The new whole-of-government panel will be appointing suppliers for one category — Microsoft Licensing Solutions Provider. 
