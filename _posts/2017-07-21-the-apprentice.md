@@ -55,7 +55,7 @@ Something we hear from apprentices and cadets is that the public service is not 
 
 Naomi is supported to work on her own projects, but also finds her colleagues are ready and willing to share their own knowledge.
 
-> “I listen and I learn from my colleagues. They take me along whenever they go to do things.”
+>I listen and I learn from my colleagues. They take me along whenever they go to do things.
 
 Naomi has also been able to take advantage of the extensive in-house training offered by her agency, as well as the learning and development opportunities offered by our program. You may think there is no creativity in ICT but the Lego towers built at the recent training day would beg to differ!
 
