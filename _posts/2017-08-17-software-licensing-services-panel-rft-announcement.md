@@ -13,7 +13,7 @@ In the future, the panel will be reopened to add additional suppliers and catego
 The request for tender documents available on AusTender have taken into account all feedback provided through our [previous notification](https://www.dta.gov.au/ict-procurement-update/request-for-feedback-on-a-new-software-licensing-services-panel/). 
 
 ## How to apply
-Tender submissions must be lodged through AusTender.
+Tender submissions must be [lodged through AusTender](https://www.tenders.gov.au/?event=public.atm.show&ATMUUID=7F4C32B5-0968-6025-74AF5136EB33444D).
 
 You must be an approved Microsoft Licensing Solutions Provider to be appointed to the Microsoft Licensing Solutions Provider category of the panel.
 
