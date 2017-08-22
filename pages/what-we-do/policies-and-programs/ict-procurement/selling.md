@@ -19,8 +19,13 @@ Government departments and agencies usually buy ICT products and services throug
       </a>
     </li>
     <li>
-      <a href="#procurement-rules">
+       <a href="#procurement-rules">
         Procurement Rules
+      </a>
+    </li>
+    <li>  
+      <a href="#stay-updated">
+        Stay updated
       </a>
     </li>
   </ul>
