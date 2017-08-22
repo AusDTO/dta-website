@@ -2,7 +2,6 @@
 title: Buying ICT products for government
 layout: basic
 permalink: /what-we-do/policies-and-programs/buying-ict-products-for-government
-localnav: what-we-do
 searchexerpt: Find out how to buy ICT product and services through coordinated procurement arrangements. 
 lede: Buying ICT products and services for your department or agency is made easier through ICT coordinated procurement arrangements. These are set up to save your agency time and money.
 ---
@@ -26,8 +25,8 @@ lede: Buying ICT products and services for your department or agency is made eas
       </a>
     </li>
     <li>
-      <a href="#how-the-dta-can-help">
-        How the DTA can help
+      <a href="#how-we-can-help">
+        How we can help
       </a>
     </li>
   </ul>
