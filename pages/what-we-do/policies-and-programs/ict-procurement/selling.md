@@ -35,7 +35,7 @@ Government departments and agencies usually buy ICT products and services throug
 
 ### Search for opportunities
 
-Opportunities to sell to the Australian Government are published on [AusTender](https://www.tenders.gov.au/). Government agencies also publish their [annual procurement plans](https://www.tenders.gov.au/event=public.APP.list&tab=List%20By%20Agency).
+Opportunities to sell to the Australian Government are published on [AusTender](https://www.tenders.gov.au/). Government agencies also publish their [annual procurement plans](https://www.tenders.gov.au/?event=public.APP.list&tab=List%20By%20Agency).
 
 To stay up to date, register your business through AusTender and follow the progress of planned procurements by adding the proposals to your watch list. 
 
