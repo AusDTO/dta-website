@@ -16,7 +16,7 @@ lede: Buying ICT products and services for your department or agency is made eas
     </li>
     <li>
       <a href="#procurement-rules">
-        Procurement Rules
+        Procurement rules
       </a>
     </li>
     <li>
