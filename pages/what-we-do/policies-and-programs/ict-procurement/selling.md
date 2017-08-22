@@ -1,7 +1,7 @@
 ---
 title: Selling ICT products and services to government
 layout: basic
-permalink: /what-we-do/policies-and-programs/selling-ict-products-to-government
+permalink: /what-we-do/policies-and-programs/ict-procurement/selling/
 searchexerpt: Find out how to sell ICT products and services to the Australian Government. 
 lede: Any size and type of business can sell to the Australian Government. If you sell Information and Communication Technology (ICT), this information will help you understand how to sell your products and services to the Australian Government. 
 ---
