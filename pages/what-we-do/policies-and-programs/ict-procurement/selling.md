@@ -78,11 +78,11 @@ You will be offered feedback if your submission is unsuccessful.
 
 To win business with the government, you will need to demonstrate that you offer [value for money](http://sellingtogov.finance.gov.au/guide/getting-selected-to-supply-to-government). 
 
-The [Department of Finance](http://sellingtogov.finance.gov.au/) provides general advice about winning business with the Australian Government. 
+The [Department of Finance provides general advice](http://sellingtogov.finance.gov.au/) about winning business with the Australian Government. 
 
 ## Procurement rules
 
-Australian Government departments and agencies follow the Commonwealth Procurement Rules when making purchases. The basic principle of government procurement is value for money. 
+Australian Government departments and agencies follow the [Commonwealth Procurement Rules](https://www.finance.gov.au/procurement/procurement-policy-and-guidance/commonwealth-procurement-rules/) when making purchases. The basic principle of government procurement is value for money. 
 
 It is useful to understand how agencies buy ICT products and services before becoming a seller.
 
