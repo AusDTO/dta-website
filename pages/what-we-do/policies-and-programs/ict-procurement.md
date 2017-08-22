@@ -7,6 +7,8 @@ searchexerpt: Learn about buying and selling ICT in the Australian Government
 lede: The Digital Transformation Agency is making it simpler, easier and faster for government departments and agencies to buy Information and Communication Technology (ICT). This page will give you more information about ICT procurement in government.
 ---
 
+<p class= "callout"> The ICT Procurement Taskforce reviewed how government purchases ICT products and services. The final report was released on 23 August 2017. Read the report and the government’s response to the recommendations. </p>
+
 The DTA sets up and manages coordinated ICT procurement arrangements that help agencies when buying commonly used ICT products and services.
 
 You can stay up to date with ICT procurement news and requests for feedback on our [updates](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-procurement/updates/) page. 
