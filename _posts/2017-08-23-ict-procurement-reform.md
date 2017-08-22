@@ -5,10 +5,6 @@ tag: 'dta news'
 thumbnail: /images/blog-thumbnails/ICT_thumb.png
 ---
 
-![Extract of HTML source code from the DTA website.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
-
-*Caption: Extract of HTML source code from the DTA website.*
-
 Assistant Minister for Digital Transformation, Angus Taylor, has welcomed the *ICT procurement taskforce report* and announced the first steps in the reforms.
 
 The taskforce consulted widely with industry and government and identified key areas for improvement to ICT procurement. In particular, small to medium enterprises will benefit from the reforms.
