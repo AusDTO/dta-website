@@ -121,4 +121,4 @@ For any questions related to ICT procurement you can contact us at [ictprocureme
 
 ***
 
-The responsibility for whole of government ICT procurement moved from the Department of Finance to the Digital Transformation Agency in May 2017. This move is part of the agency’s expanded responsibility to deliver on the government’s [digital transformation agenda](https://www.dta.gov.au/what-we-do/transformation-agenda/). 
+The responsibility for whole of government ICT procurement moved from the Department of Finance to the Digital Transformation Agency in May 2017. This move is part of the agency’s expanded responsibility to deliver on the government’s [Digital Transformation Agenda](https://www.dta.gov.au/what-we-do/transformation-agenda/). 
