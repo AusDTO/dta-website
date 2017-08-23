@@ -15,4 +15,6 @@ Work will continue over the next 12 months to deliver more pathways to improve c
 
 The DTA’s increased oversight of the government’s ICT investment portfolio and work underway on building digital capability will address the calls for a more strategic approach to ICT procurement and a stronger technical workforce. 
 
+[Read the media release](https://ministers.pmc.gov.au/taylor/2017/reforms-it-procurement-inject-650mill-small-businesses)
+
 [Download the ICT Procurement Taskforce Report](http://ict-procurement.digital.gov.au/assets/documents/ICT-procurement-taskforce-report_WCAG.pdf) 
