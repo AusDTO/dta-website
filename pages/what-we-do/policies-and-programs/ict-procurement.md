@@ -4,7 +4,7 @@ layout: basic
 permalink: /what-we-do/policies-and-programs/ict-procurement/
 localnav: what-we-do
 searchexerpt: Our role is to set up and oversee arrangements to purchase some of the ICT products and services to satisfy whole of government needs. We also provide advice and guidance to government agencies about how to develop sound ICT contracts.
-lede: The Digital Transformation Agency is making it simpler, easier and faster for government departments and agencies to buy Information and Communication Technology (ICT). This page will give you more information about ICT procurement in government.
+redirect_from: /ict-procurement/
 ---
 
 <p class= "callout"> The ICT Procurement Taskforce reviewed how government purchases ICT products and services. The final report was released on 23 August 2017. Read [the report and the government’s response to the recommendations](http://ict-procurement.digital.gov.au/assets/documents/ICT-procurement-taskforce-report_WCAG.pdf). </p>
