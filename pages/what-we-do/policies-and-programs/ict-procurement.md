@@ -7,9 +7,9 @@ searchexerpt: Learn about buying and selling ICT in the Australian Government
 lede: The Digital Transformation Agency is making it simpler, easier and faster for government departments and agencies to buy Information and Communication Technology (ICT). This page will give you more information about ICT procurement in government.
 ---
 
-<p class= "callout"> The ICT Procurement Taskforce reviewed how government purchases ICT products and services. The final report was released on 23 August 2017. Read the report and the government’s response to the recommendations. </p>
+<p class= "callout"> The ICT Procurement Taskforce reviewed how government purchases ICT products and services. The final report was released on 23 August 2017. Read [the report and the government’s response to the recommendations](http://ict-procurement.digital.gov.au/assets/documents/ICT-procurement-taskforce-report_WCAG.pdf). </p>
 
-The DTA sets up and manages coordinated ICT procurement arrangements that help agencies when buying commonly used ICT products and services.
+The DTA sets up and manages coordinated [ICT procurement arrangements](/what-we-do/policies-and-programs/ict-procurement/buying/) that help agencies when buying commonly used ICT products and services.
 
 You can stay up to date with ICT procurement news and requests for feedback on our [updates](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-procurement/updates/) page. 
 
@@ -89,7 +89,7 @@ The DTA helps government departments and agencies buy the ICT products and servi
 
 This is often done through panels and volume sourcing arrangements, and depends on the type of product being purchased. 
 
-If you are from a government department or agency, you can find out more about [buying ICT products for government](. 
+If you are from a government department or agency, you can find out more about [buying ICT products for government](/what-we-do/policies-and-programs/ict-procurement/buying/). 
 
 ## Selling ICT products to government
 
@@ -97,7 +97,7 @@ Government looks to purchase ICT products and services that demonstrate [value f
 
 The government must also follow certain rules when buying goods and services as described in the [Commonwealth Procurement Rules](https://www.finance.gov.au/procurement/procurement-policy-and-guidance/commonwealth-procurement-rules/).
 
-If you want to sell ICT products or services to government, learn more about finding opportunities, submitting applications and winning business. 
+If you want to sell ICT products or services to government, learn more about [finding opportunities, submitting applications and winning business](/what-we-do/policies-and-programs/ict-procurement/selling/). 
 
 ## Example ICT Contracts
 
