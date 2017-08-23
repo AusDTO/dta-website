@@ -3,7 +3,8 @@ title: ICT procurement
 layout: basic
 permalink: /what-we-do/policies-and-programs/ict-procurement/
 localnav: what-we-do
-searchexcerpt: "Our role is to set up and oversee arrangements to purchase some of the ICT products and services to satisfy whole of government needs. We also provide advice and guidance to government agencies about how to develop sound ICT contracts."
+searchexcerpt: "Learn about buying and selling ICT in the Australian Government."
+lede: The Digital Transformation Agency is making it simpler, easier and faster for government departments and agencies to buy Information and Communication Technology (ICT). This page will give you more information about ICT procurement in government.
 redirect_from:
 - /ict-procurement/
 ---
