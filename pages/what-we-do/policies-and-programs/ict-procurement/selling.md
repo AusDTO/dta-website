@@ -84,7 +84,7 @@ The [Department of Finance provides general advice](http://sellingtogov.finance.
 
 Australian Government departments and agencies follow the [Commonwealth Procurement Rules](https://www.finance.gov.au/procurement/procurement-policy-and-guidance/commonwealth-procurement-rules/) when making purchases. The basic principle of government procurement is value for money. 
 
-It is useful to understand how agencies buy ICT products and services before becoming a seller.
+It is useful to [understand how agencies buy ICT products and services](/what-we-do/policies-and-programs/ict-procurement/buying/) before becoming a seller.
 
 ## Stay updated
 
