@@ -9,11 +9,11 @@ redirect_from:
 - /ict-procurement/
 ---
 
-<p class= "callout"> The ICT Procurement Taskforce reviewed how government purchases ICT products and services. The final report was released on 23 August 2017. Read <a href="http://ict-procurement.digital.gov.au/assets/documents/ICT-procurement-taskforce-report_WCAG.pdf">the report and the government’s response to the recommendations</a>.</p>
+<p class= "callout"> The ICT Procurement Taskforce reviewed how government purchases ICT products and services. The final report was released on 23 August 2017. Read <a href="/what-we-do/policies-and-programs/ict-procurement/ict-procurement-review/ ">the report and the government’s response to the recommendations</a>.</p>
 
 The DTA sets up and manages coordinated [ICT procurement arrangements](/what-we-do/policies-and-programs/ict-procurement/buying/) that help agencies when buying commonly used ICT products and services.
 
-You can stay up to date with ICT procurement news and requests for feedback on our [updates](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-procurement/updates/) page. 
+You can stay up to date with ICT procurement news and requests for feedback on our [updates](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-procurement/updates/) page.
 
 ## Looking for a panel?
 
@@ -31,7 +31,7 @@ Click straight through to our ICT procurement panels:
 
 ## Or need digital or ICT services for your project?
 
-Check out the [Digital Marketplace](https://marketplace.service.gov.au/). 
+Check out the [Digital Marketplace](https://marketplace.service.gov.au/).
 
 <nav class="index-links">
   <h2>On this page</h2>
@@ -72,7 +72,7 @@ Check out the [Digital Marketplace](https://marketplace.service.gov.au/).
       </a>
     </li>
   </ul>
-</nav> 
+</nav>
 
 ## What is coordinated procurement?
 
@@ -83,31 +83,31 @@ Coordinated procurement is when government departments and agencies work togethe
 - improves terms and conditions
 - secures value for money
 
-In collaboration with departments and agencies, the DTA manages a range of ICT coordinated procurement arrangements and contracts. 
+In collaboration with departments and agencies, the DTA manages a range of ICT coordinated procurement arrangements and contracts.
 
 ## Buying ICT products for government
 
 The DTA helps government departments and agencies buy the ICT products and services they need.
 
-This is often done through panels and volume sourcing arrangements, and depends on the type of product being purchased. 
+This is often done through panels and volume sourcing arrangements, and depends on the type of product being purchased.
 
-If you are from a government department or agency, you can find out more about [buying ICT products for government](/what-we-do/policies-and-programs/ict-procurement/buying/). 
+If you are from a government department or agency, you can find out more about [buying ICT products for government](/what-we-do/policies-and-programs/ict-procurement/buying/).
 
 ## Selling ICT products to government
 
-Government looks to purchase ICT products and services that demonstrate [value for money](https://www.finance.gov.au/procurement/procurement-policy-and-guidance/commonwealth-procurement-rules/) for the Australian taxpayer. 
+Government looks to purchase ICT products and services that demonstrate [value for money](https://www.finance.gov.au/procurement/procurement-policy-and-guidance/commonwealth-procurement-rules/) for the Australian taxpayer.
 
 The government must also follow certain rules when buying goods and services as described in the [Commonwealth Procurement Rules](https://www.finance.gov.au/procurement/procurement-policy-and-guidance/commonwealth-procurement-rules/).
 
-If you want to sell ICT products or services to government, learn more about [finding opportunities, submitting applications and winning business](/what-we-do/policies-and-programs/ict-procurement/selling/). 
+If you want to sell ICT products or services to government, learn more about [finding opportunities, submitting applications and winning business](/what-we-do/policies-and-programs/ict-procurement/selling/).
 
 ## Example ICT Contracts
 
-The DTA has examples of model contracts for buying ICT products or services. These are called the [SourceIT model contracts](http://www.finance.gov.au/policy-guides-procurement/sourceit-model-contracts/). 
+The DTA has examples of model contracts for buying ICT products or services. These are called the [SourceIT model contracts](http://www.finance.gov.au/policy-guides-procurement/sourceit-model-contracts/).
 
-SourceIT contracts can help you to buy software or related services that are not covered by a panel or volume sourcing arrangement. They are template contracts that help you to minimise the risk of conflict and disagreements between parties. 
+SourceIT contracts can help you to buy software or related services that are not covered by a panel or volume sourcing arrangement. They are template contracts that help you to minimise the risk of conflict and disagreements between parties.
 
-The DTA can help with general information on the SourceIT contracts but specific procurement and legal information should be sought from your own department. 
+The DTA can help with general information on the SourceIT contracts but specific procurement and legal information should be sought from your own department.
 
 ## Policies
 
@@ -123,4 +123,4 @@ For any questions related to ICT procurement you can contact us at [ictprocureme
 
 ***
 
-The responsibility for whole of government ICT procurement moved from the Department of Finance to the Digital Transformation Agency in May 2017. This move is part of the agency’s expanded responsibility to deliver on the government’s [Digital Transformation Agenda](https://www.dta.gov.au/what-we-do/transformation-agenda/). 
+The responsibility for whole of government ICT procurement moved from the Department of Finance to the Digital Transformation Agency in May 2017. This move is part of the agency’s expanded responsibility to deliver on the government’s [Digital Transformation Agenda](https://www.dta.gov.au/what-we-do/transformation-agenda/).
