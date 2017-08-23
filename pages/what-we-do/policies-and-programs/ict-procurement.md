@@ -3,7 +3,7 @@ title: ICT procurement
 layout: basic
 permalink: /what-we-do/policies-and-programs/ict-procurement/
 localnav: what-we-do
-searchexerpt: "Our role is to set up and oversee arrangements to purchase some of the ICT products and services to satisfy whole of government needs. We also provide advice and guidance to government agencies about how to develop sound ICT contracts."
+searchexcerpt: "Our role is to set up and oversee arrangements to purchase some of the ICT products and services to satisfy whole of government needs. We also provide advice and guidance to government agencies about how to develop sound ICT contracts."
 redirect_from:
 - /ict-procurement/
 ---
