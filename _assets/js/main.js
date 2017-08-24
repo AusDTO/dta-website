@@ -13,4 +13,5 @@
 //= require site-logo
 
 //= require analytics
+//= require event-tracking
 //= require scrolldepth
