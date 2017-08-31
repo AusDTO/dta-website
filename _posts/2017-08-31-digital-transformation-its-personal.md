@@ -10,9 +10,9 @@ twitter-image: /images/blog-thumbnails/james_Twitter.png
 searchexcerpt: "James Burnett took the leap from the private sector to help improve government services. For him, the experience has been personal. In this post, he shares his work helping agencies to get started with digital transformation — and how this is improving the experience for our users."
 ---
 
-![James Burnett delivering training on getting started with the Digital Service Standard.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+![James Burnett delivering training on assessing against the Digital Service Standard.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: James Burnett delivering training on getting started with the Digital Service Standard.*
+*Caption: James Burnett delivering training on assessing against the Digital Service Standard.*
 
 ## Taking the leap from the private sector
 
