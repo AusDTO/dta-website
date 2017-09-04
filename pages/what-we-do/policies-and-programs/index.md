@@ -15,6 +15,9 @@ We provide strategic and policy leadership on whole-of-government and shared inf
 <ul class="list-small">
 
   <li>
+    <a href="{{site.baseurl}}/what-we-do/policies-and-programs/content-strategy/">Content strategy</a>
+  </li>
+  <li>
     <a href="{{site.baseurl}}/what-we-do/policies-and-programs/digital-investment-management-office/">Digital Investment Management Office</a>
   </li>
   <li>
