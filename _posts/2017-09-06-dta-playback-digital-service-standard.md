@@ -24,7 +24,7 @@ In this post we explain why we made the move from WCAG 2.0 conformance to user-c
 
 ***
 
-![An image with the words do the hard work to make it simple.]({{ site.url }}{{ site.baseurl }}/images/blog-/images/blog-thumbnails/hardworkmakesimple.png)
+![An image with the words do the hard work to make it simple.]({{ site.url }}{{ site.baseurl }}/images/blog-thumbnails/hardworkmakesimple.png)
 
 ## [The challenges of meeting the Digital Service Standard](/blog/challenges-of-meeting-the-digital-service-standard/)
 
