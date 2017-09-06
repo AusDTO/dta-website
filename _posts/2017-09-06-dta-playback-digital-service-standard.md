@@ -5,7 +5,7 @@ tags:
   - dta playback
 thumbnail: /images/Playback-THUMB (1).png
 twitter-image: /images/Playback-TWITTER.png
-searchexcerpt: Interested in learning more about how we're building digital capability in the APS? Here's a wrap up of our latest blog posts on the topic.
+searchexcerpt: Here's a few blog posts from our archives that will help you understand the Digital Service Standard, and how it's helping to improve governnment digital services for Australians.
 ---
 
 ![James Burnett delivering training on assessing against the digital service standard.]({{ site.url }}{{ site.baseurl }}/images/blog-thumbnails/James_thumb.png)
