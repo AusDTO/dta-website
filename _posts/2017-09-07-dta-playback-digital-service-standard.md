@@ -8,19 +8,19 @@ twitter-image: /images/Playback-TWITTER.png
 searchexcerpt: Here's a few blog posts from our archives that explain some of the different aspects of the Digital Service Standard, and how agencies can overcome the challenges of meeting the Standard to improve government digital services for Australians. 
 ---
 
-![James Burnett delivering training on assessing against the digital service standard.]({{ site.url }}{{ site.baseurl }}/images/blog-thumbnails/James_thumb.png)
-
-## [Digital transformation — it's personal](/blog/digital-transformation-its-personal/)
-
-In this post, our digital trainer James Burnett shares his work helping agencies to get started with digital transformation — and explains how this is improving the experience for our users.
-
-***
-
 ![Post-it notes with graphic representations of different disabilities.]({{ site.url }}{{ site.baseurl }}/images/blog-thumbnails/Accessibility_thumb.png)
 
 ## [Accessibility and the Digital Service Standard](/blog/accessibility-and-the-dss/)
 
 In this post we explain why we made the move from WCAG 2.0 conformance to user-centred design, and how the Digital Service Standard is helping to make digital services more accessible.
+
+***
+
+![James Burnett delivering training on assessing against the digital service standard.]({{ site.url }}{{ site.baseurl }}/images/blog-thumbnails/James_thumb.png)
+
+## [Digital transformation — it's personal](/blog/digital-transformation-its-personal/)
+
+In this post, our digital trainer James Burnett shares his work helping agencies to get started with digital transformation — and explains how this is improving the experience for our users.
 
 ***
 
