@@ -1,11 +1,13 @@
 ---
-title: "DTA Playback — digital service standard"
+title: "DTA Playback — what makes better digital services"
 category: [blog]
 tags:
   - dta playback
 thumbnail: /images/Playback-THUMB (1).png
 twitter-image: /images/Playback-TWITTER.png
-searchexcerpt: Here's a few blog posts from our archives that will help you understand the Digital Service Standard, and how it's helping to improve governnment digital services for Australians.
+searchexcerpt: Here's a few blog posts from our archives that explain some of the different aspects of the Digital Service Standard, and how agencies can overcome the challenges of meeting the Standard to improve government digital services for Australians. 
+
+will help you understand the Digital Service Standard, and how it's helping to improve governnment digital services for Australians.
 ---
 
 ![James Burnett delivering training on assessing against the digital service standard.]({{ site.url }}{{ site.baseurl }}/images/blog-thumbnails/James_thumb.png)
