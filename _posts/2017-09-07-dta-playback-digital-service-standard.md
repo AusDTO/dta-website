@@ -5,7 +5,7 @@ tags:
   - dta playback
 thumbnail: /images/Playback-THUMB (1).png
 twitter-image: /images/Playback-TWITTER.png
-searchexcerpt: Here's a few blog posts from our archives that explain some of the different aspects of the Digital Service Standard, and how agencies can overcome the challenges of meeting the Standard to improve government digital services for Australians. 
+searchexcerpt: Using the Digital Service Standard can be challenging. Read some of the blogs from our archives that talk about different aspects of the Standard and how to work through the challenges.
 ---
 
 ![Post-it notes with graphic representations of different disabilities.]({{ site.url }}{{ site.baseurl }}/images/blog-thumbnails/Accessibility_thumb.png)
