@@ -42,17 +42,17 @@ The team has conducted extensive user research throughout the Discovery, Alpha a
 
 ### Criterion 1: Understand user needs
 
-The team have extensively tested and iterated the Private Beta product based on user feedback, completing a wide range of user testing and fast, prioritised iterative design cycles. There were five primary user engagement activities undertaken over the private beta period:
+The team have extensively tested and iterated the Private Beta product based on user feedback, completing a wide range of user testing and fast, prioritised iterative design cycles. There were five primary user engagement activities undertaken over the Private Beta period:
 
 1. *A restricted Private Beta testing period* with a selected internal business area. This involved 150 employees testing how the beta site performed when completing business as usual tasks, and providing general feedback on the look and feel. 22 feedback emails were received, and a number of improvement opportunities and bugs were identified and fixed.
 
-2. *Lab based usability testing.* The team undertook lab based usability testing with 30 users which focused on task completion for 17 major tasks that comprise 85% of website traffic. The research sample included a focus on users with particular needs and backgrounds, including a number of users with low literacy, low digital literacy, visual limitations, over 65s, English as a second language, and new migrants. The sample also included users from a range of metropolitan and regional locations across Australia.
+2. *Lab-based usability testing.* The team undertook lab based usability testing with 30 users which focused on task completion for 17 major tasks that comprise 85% of website traffic. The research sample included a focus on users with particular needs and backgrounds, including a number of users with low literacy, low digital literacy, visual limitations, over 65s, English as a second language, and new migrants. The sample also included users from a range of metropolitan and regional locations across Australia.
 
 3. *Expanded Private Beta.* The team extended testing to an additional 400 staff members representing a horizontal slice of the organisation, ensuring all key stakeholder groups were represented. A significant amount of feedback was received through this testing and the team have generally prioritised and actioned improvements within a day or two of receipt.
 
 4. *Accessibility testing.* Accessibility testing was undertaken with two legally blind users using assistive technology, as well as a heuristic review by a usability expert using a screen reader. Automated accessibility testing was also undertaken, and the site has been reviewed in accordance with, and is compliant to WCAG 2.0 AA.
 
-5. *Remote area user testing and research.8 The team visited remote locations in South Australia and New South Wales with the department’s Remote Service Mobile Unit and gained a wide range of new insights into how customers in these locations view and interact with the department and its website. 
+5. *Remote area user testing and research.* The team visited remote locations in South Australia and New South Wales with the department’s Remote Service Mobile Unit and gained a wide range of new insights into how customers in these locations view and interact with the department and its website. 
 
 In all an extensive range of user research was undertaken during Private Beta, leading to significant refinements to the user interface over only a relatively small amount of time.
 
@@ -121,7 +121,7 @@ The existing version of the website will be kept as a roll back option should th
 The team have put a lot of effort into identifying relevant KPIs to track the performance of the new website. The following metrics have been identified, and will be tracked by the team from the beginning of Public Beta through to live:
 
 - *Cost per transaction.* The team are working with the DTA Dashboard team to define this metric. One solution being considered is to divide the total website budget by the number of annual sessions.
-- *Digital take up.8 The team will utilise existing data from the department’s website reporting dashboard on items such as page views and sessions.
+- *Digital take up.* The team will utilise existing data from the department’s website reporting dashboard on items such as page views and sessions.
 - *User satisfaction.* User satisfaction will be gauged through short surveys on the Beta site, as well as qualitatively through face to face user testing sessions and through comparing web analytics data.
 - *Task completion.* Task completion is difficult to track in the unauthenticated space, so web analytics will be employed where possible, in addition to a question on task completion on Beta site surveys.
 
