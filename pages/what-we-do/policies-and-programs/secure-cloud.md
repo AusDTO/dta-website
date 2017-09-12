@@ -8,7 +8,7 @@ searchexcerpt: "The current government cloud computing policy encourages agencie
 
 Using cloud technology can reduce costs, lift productivity and deliver better services.
 
-A review of the 2016 eCensus highlighted that cloud computing offers significant security benefits and should be considered as a service option for government. 
+A [review of the 2016 eCensus](http://parlinfo.aph.gov.au/parlInfo/download/publications/tabledpapers/a41f4f25-a08e-49a7-9b5f-d2c8af94f5c5/upload_pdf/Review%20of%20the%202016%20eCensus%20-%20final%20report.pdf){:target="_blank"} highlighted that cloud computing offers significant security benefits and should be considered as a service option for government. 
 
 The DTA is looking into ways to make it easier for government to invest in cloud technologies.
 
