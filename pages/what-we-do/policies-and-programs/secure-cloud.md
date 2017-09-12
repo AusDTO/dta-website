@@ -3,23 +3,25 @@ layout: basic
 title: "Secure cloud"
 permalink: /what-we-do/policies-and-programs/secure-cloud/
 localnav: what-we-do
-searchexcerpt: "Current government policy requires agencies to consider cloud solutions as a priority when rolling out or replacing ICT infrastructure, applications or services."
+searchexcerpt: "The current government cloud computing policy encourages agencies to use cloud technology where possible."
 ---
 
-There are many misconceptions about cloud technology --- about how it works and how secure it is.
+Using cloud technology can reduce costs, lift productivity and deliver better services.
 
-But using cloud technology can reduce costs, lift productivity and deliver better services. 
+A review of the 2016 eCensus highlighted that cloud computing offers significant security benefits and should be considered as a service option for government. 
 
-A review of the 2016 eCensus highlighted that cloud computing is a service option government should consider as it offers significant security benefits.
+The DTA is looking into ways to make it easier for government to invest in cloud technologies.
 
-Current government policy requires agencies to consider cloud solutions as a priority when rolling out or replacing ICT infrastructure, applications or services.
+## Cloud policy
 
-However, investment in cloud technologies still represents less than one per cent of government’s annual ICT spend.
+The current [Australian Government Cloud Computing Policy](/files/Australian Government Cloud Computing Policy 3.0-WCAG.pdf) requires agencies to use cloud solutions where possible --- when they are fit for purpose, offer the best value for money and adequately manage risk. The policy document outlines the goals and actions of the policy, the Australian Government’s definition of cloud computing, and related policies, standards and guidance. 
 
-The DTA will be working in partnership with government agencies and with commercial providers to develop a Secure Cloud Strategy that will make it easier for government to take up cloud technologies. 
+The DTA will be working in partnership with government agencies and with commercial providers to develop a Secure Cloud Strategy that will replace the 2014 policy, and make it easier for government to start using cloud technologies.
 
-The strategy will explore the challenges and options available for agencies moving to cloud solutions.
+The strategy will look at the challenges and options available for agencies moving to cloud solutions. We’re currently in the discovery phase of the project. It is expected the strategy will be finalised in late 2017.
 
-Ultimately, cloud services must be able to provide the security, integrity and availability required for critical government systems.
+For more information about the Cloud Computing Policy and the Secure Cloud Strategy you can email [secure.cloud@digital.gov.au](mailto:secure.cloud@digital.gov.au)
 
-We’re currently in the discovery phase of the project. It is expected the strategy will be finalised later this year.
+***
+
+Responsibility for the Australian Government Cloud Computing Policy moved from the Department of Finance to the Digital Transformation Agency in December 2016.
