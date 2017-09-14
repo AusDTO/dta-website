@@ -34,4 +34,4 @@ The great thing about the way we’re working and this agile process is we’re 
 
 <br />
 
-If you have difficulty accessing this content please contact [webteam@digital.gov.au](mailto:webteam@digital.gov.au)
+If you have difficulty accessing this content please contact [web.team@digital.gov.au](mailto:web.team@digital.gov.au)
