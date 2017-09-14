@@ -10,7 +10,7 @@ searchexcerpt: "Recently we worked closely with the Department of Human Services
 ---
 
 <details open data-label="content-accordion-1-example" aria-expanded="false">
-  <summary><h3>Read transcript - 1:19 min</h3></summary>
+  <summary><h3>Read transcript - 2:31 min</h3></summary>
   <div class="accordion-panel" markdown="1">
   
 Music plays
@@ -40,10 +40,8 @@ The great thing about the way we’re working and this agile process is we’re 
 On screen:
 Website upgrade project
 Partnering with the Department of Human Services
-
 Video by the Digital Transformation Agency
 in partnership with the Department of Human Services
-
 dta.gov.au
 Production: 8 September 2017
 
@@ -52,5 +50,5 @@ Music fades
 </div>
 </details>
 <div class="embed-container">
-<iframe src="https://www.youtube-nocookie.com/embed/bspux5CZcyc?rel=0" frameborder="0" allowfullscreen></iframe>    
+<iframe src="https://www.youtube.com/embed/O5xE5y4D_Jo" frameborder="0" allowfullscreen></iframe>    
 </div>
