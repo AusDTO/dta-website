@@ -12,10 +12,7 @@ searchexcerpt: "Recently we worked closely with the Department of Human Services
 <details open data-label="content-accordion-1-example" aria-expanded="false">
   <summary><h3>Read transcript - 1:19 min</h3></summary>
   <div class="accordion-panel" markdown="1">
-  <iframe src="https://www.youtube-nocookie.com/embed/bspux5CZcyc?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="embed-container">
-    
+  
 Music plays
 
 On screen:
@@ -54,3 +51,6 @@ Music fades
        
 </div>
 </details>
+<div class="embed-container">
+<iframe src="https://www.youtube-nocookie.com/embed/bspux5CZcyc?rel=0" frameborder="0" allowfullscreen></iframe>    
+</div>
