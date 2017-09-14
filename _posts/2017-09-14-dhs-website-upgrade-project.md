@@ -38,11 +38,17 @@ For this project, we spent a lot of time in Discovery, really understanding the 
 The great thing about the way we’re working and this agile process is we’re looking more at those stories and bringing them to the fore; getting out and talking to our customers and our staff. There is a wealth of knowledge in the frontline of Department of Human Services; thousands of staff that work with customers everyday who want to make a difference to their lives, and can really help us better shape services around the needs of the people that use those services. 
 
 On screen:
+
 Website upgrade project
+
 Partnering with the Department of Human Services
+
 Video by the Digital Transformation Agency
+
 in partnership with the Department of Human Services
+
 dta.gov.au
+
 Production: 8 September 2017
 
 Music fades
