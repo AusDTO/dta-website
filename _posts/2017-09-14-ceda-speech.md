@@ -1,5 +1,5 @@
 ---
-title: "Address to CEDA &mdash; Gavin Slater"
+title: "Address to CEDA — Gavin Slater"
 category: [news]
 tag: 'dta news'
 thumbnail: /images/blog-thumbnails/Human_impact.png 
