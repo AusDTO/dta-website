@@ -4,8 +4,7 @@ category: [blog]
 tag: 'digital transformation'
 author: Paul Short
 author-excerpt: "Paul Short is the Director of Agile Marketing at the Department of Human Services."
-thumbnail: /images/blog-thumbnails/James_thumb.png
-twitter-image: /images/blog-thumbnails/james_Twitter.png
+thumbnail: /images/blog-thumbnails/DHS-Website-upgrade-thumb.jpg
 searchexcerpt: "Recently we worked closely with the Department of Human Services (DHS) to improve the user experience of their website. Paul Short from DHS shares his experience partnering with us on this project."
 ---
 
