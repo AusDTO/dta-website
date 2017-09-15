@@ -2,7 +2,7 @@
 title: "Address to CEDA — Gavin Slater"
 category: [news]
 tag: 'dta news'
-thumbnail: /images/blog-thumbnails/Human_impact.png 
+thumbnail: /images/blog-thumbnails/ceda_thumb.png 
 searchexcerpt: "Our CEO Gavin Slater spoke at an event hosted by the Committee for Economic Development of Australia in Melbourne on the human impact of digital transformation. Read the transcript of the speech."
 ---
 Friday 8 September, 2017
@@ -97,4 +97,7 @@ That ability to prove who you are once, and then as you deal with that organisat
 
 There is huge opportunity both for government and private sector. Numbers have been thrown in terms of what it would mean for the economy, but you’re talking billions and billions of dollars, in terms of real productivity savings, time spent and improved customer outcome.
 
-I think fundamentally it comes down to culture. You can have all the technology in the world, the best and the brightest people in the world, people that work out the policy changes that need to happen, the changes to your risk appetite, the changes to your work practice and redesigning processes &mdash; but the question is, do you care enough about it? You talk about customer centricity, but do you care enough about it to affect the change? And from personal experience, unless it starts at the very top of an organisation, at the chief executives and the board, and the senior management team in the way they role model, the way they turn up day-in and day-out, have real empathy and can talk with credibility about what their customers experience with their organisation because they’ve tried it themselves. If you don’t have that culture and orientation starting at the very top, then I think you’ll always struggle.      
+I think fundamentally it comes down to culture. You can have all the technology in the world, the best and the brightest people in the world, people that work out the policy changes that need to happen, the changes to your risk appetite, the changes to your work practice and redesigning processes &mdash; but the question is, do you care enough about it? You talk about customer centricity, but do you care enough about it to affect the change? And from personal experience, unless it starts at the very top of an organisation, at the chief executives and the board, and the senior management team in the way they role model, the way they turn up day-in and day-out, have real empathy and can talk with credibility about what their customers experience with their organisation because they’ve tried it themselves. If you don’t have that culture and orientation starting at the very top, then I think you’ll always struggle.
+
+<br>
+Image credit CEDA 2017  
