@@ -33,12 +33,12 @@ lede: The DTA is committed to improving gender diversity in senior IT roles with
 </nav>
 
 <h2 id="What-are-the-Women-in-IT-programs">What are the Women in IT programs?</h2>
-<p>The women in IT programs support the career progression of women currently working in Information Technology (IT) in the Australian Public Service (APS). The goal is to attract and retain talented women with IT skills within the APS, and to increase the gender diversity of senior IT employees. </p>
+<p>The Women in IT programs support the career progression of women currently working in Information Technology (IT) in the Australian Public Service (APS). The goal is to attract and retain talented women with IT skills within the APS, and to increase the gender diversity of senior IT employees. </p>
 
 <p>The program is made up of a number of different streams for women (and those who identify as female) at different stages in their careers.</p>
 
-<h3>Executive Mentoring Program</h3>
-<p>The Women in IT Executive Mentoring program is for talented EL2 women who are looking to progress their career within IT.</p>
+<h3>Executive mentoring program</h3>
+<p>The Women in IT executive mentoring program is for talented EL2 women who are looking to progress their career within IT.</p>
 
 <p>In this program, mentees are matched with a mentor (typically a CIO) from another department or agency for 12 months. The program involves:</p>
 <ul>
@@ -51,7 +51,7 @@ lede: The DTA is committed to improving gender diversity in senior IT roles with
 <p>The program begins in April/May each year and runs for 12 months. More information will be provided on this program early 2018.</p>
 
 <h3>EL1 coaching program</h3>
-<p>The women in IT coaching program is for talented EL1 women who are looking to gain leadership skills within their field.</p>
+<p>The Women in IT coaching program is for talented EL1 women who are looking to gain leadership skills within their field.</p>
 <p>This 12 month program provides high quality executive coaching in small groups to help women develop and nurture their leadership skills. It includes:</p>
 <ul>
 <li>10 facilitated training sessions (3 hours each)</li>
@@ -93,7 +93,7 @@ lede: The DTA is committed to improving gender diversity in senior IT roles with
 <p>If you have any questions about the process you can contact <a href="mailto:womeninIT@digital.gov.au?Subject=Women%20in%20IT" target="_top">womeninIT@digital.gov.au</a></p>
 
 <h2 id="History-and-funding">History and funding</h2>
-<p>The women in IT programs were founded by Dell Australia and New Zealand in 2005 and were launched for government in 2007 &mdash; in collaboration with the Department of Finance.</p>
+<p>The Women in IT programs were founded by Dell Australia and New Zealand in 2005 and were launched for government in 2007 &mdash; in collaboration with the Department of Finance.</p>
 <p>In December 2016, responsibility for and coordination of the programs moved from the Department of Finance to the Digital Transformation Agency.</p>
 <p>Dell supports Orijen Consulting to facilitate and manage the day-to-day activities of the programs. Agencies and departments are invoiced directly by Orijen for participation.</p>
 
