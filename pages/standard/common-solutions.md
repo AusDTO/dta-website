@@ -33,6 +33,6 @@ We are working with agencies and the users of our services to see how best to im
 * [govCMS](https://www.govcms.gov.au/) - a whole-of-government content management system and website hosting
 * [Agency Solutions register](https://www.govshare.gov.au/item-search/?type=solutions) - existing APS ICT solutions and artefacts (requires Australian Government email address)
 * [Standard Business Reporting](http://www.sbr.gov.au/) - a standardised approach to reporting to government for business
-* [ABR data for government](https://abr.gov.au/) - an online service for government departments to access the public and non-public data from the Australian Business Register
+* [ABR data for government](https://abr.gov.au/For-Government-agencies/Accessing-ABR-data/ABR-data-products-and-services/) - an online service for government departments to access the public and non-public data from the Australian Business Register
 
-**Last updated:** 19 September 2017
+**Last updated:** 21 September 2017
