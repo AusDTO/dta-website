@@ -5,7 +5,6 @@ tags:
   - dta playback
 thumbnail: /images/blog-thumbnails/Playback-tiles-V2-THUMB.png
 searchexcerpt: Using the Digital Service Standard can be challenging. Read some of the blogs from our archives that talk about different aspects of the Standard and how to work through the challenges.
-published: false
 ---
 
 ![Post-it notes with graphic representations of different disabilities.]({{ site.url }}{{ site.baseurl }}/images/blog-thumbnails/Accessibility_thumb.png)
