@@ -4,7 +4,9 @@ category: [blog]
 tag: 'digital transformation'
 author: Shane Sithamparanathan
 author-excerpt: "Shane Sithamparanathan is the delivery manager for the BloodNet project/program"
-thumbnail: /images/blog-thumbnails/DHS-Website-upgrade-thumb.jpg
+thumbnail: /images/blog-thumbnails/Bloodnet_thumb (1).png
+hero-image: /images/blog-content/Bloodnet_hero (1).png
+twitter-image: /images/blog-thumbnails/bloodnet_twitter (1).png
 searchexcerpt: "The National Blood Authority (NBA) --- Australia’s essential blood ordering service --- is transforming its blood ordering and monitoring platform. Delivery manager Shane Sithamparanathan talks about how they successfully passed their alpha assessment and are heading full steam into beta."
 ---
 
