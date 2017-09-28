@@ -18,10 +18,10 @@ Sound like you? We'd love to hear from you.
 
 ### Vacancies through recruitment firms
 
-#### Chief Strategy Officer
+#### [Chief Strategy Officer](/who-we-are/corporate/jobs/chief-strategy-officer/)
 Location: Canberra City
 
-#### Chief Procurement Officer
+#### [Chief Procurement Officer](/who-we-are/corporate/jobs/chief-procurement-officer/)
 Location: Canberra City
 
 
