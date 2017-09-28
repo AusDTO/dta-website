@@ -16,6 +16,14 @@ Sound like you? We'd love to hear from you.
 
 [Before you apply](/who-we-are/corporate/jobs/before-you-apply/)
 
+### Vacancies through recruitment firms
+
+### Chief Strategy Officer
+Location: Canberra City
+
+### Chief Procurement Officer
+Location: Canberra City
+
 <div class="recruitment-form">
 
 <script id="rbox-loader-script" type="text/javascript">
