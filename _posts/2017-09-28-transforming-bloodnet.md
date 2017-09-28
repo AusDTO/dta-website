@@ -1,5 +1,5 @@
 ---
-title: "Guest Blog: Transforming Bloodnet"
+title: "Guest Blog — Transforming Bloodnet"
 category: [blog]
 tag: 'digital transformation'
 author: Shane Sithamparanathan
