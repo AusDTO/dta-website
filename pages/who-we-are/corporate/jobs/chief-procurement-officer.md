@@ -10,7 +10,7 @@ Over the next 4 years the Commonwealth Government will invest over $10 Billion i
 
 The Chief Procurement Officer reports to the DTA’s CEO and will provide oversight of and strategic input into the Whole of Government portfolio of major digital investments.
 
-**Expectation regarding candidates**
+### Expectation regarding candidates
 
 The role requires an individual to be an outstanding leader and manager with a substantive record of achievement and reputation for innovation and delivery of results.
 
@@ -18,15 +18,15 @@ The successful candidate’s experience will have been in a large, matrix based 
 
 Their formal qualifications and technical capability will be supported by exceptional stakeholder engagement ability, evidence of successful delivery of high- profile ICT and digital transformation programmes and outstanding team leadership skills.  
 
-**Primary purpose of the role**
+### Primary purpose of the role
 
 The role of the Chief Procurement Officer leads and shapes the strategic direction of work across the DTA, the APS and industry to deliver and identify innovative solutions and business improvement opportunities for the Government’s ICT procurement. This person will develop and maintain a Whole of Government framework for ICT procurement and policy principles, establishing new pathways for procurement, including innovative and experimental catalogue based e-procurement.
 
-**Application procedure**
+### Application procedure
 
-To obtain information for candidates, including the role description, or to apply, please email applications.australia@ngs-global.com. If further information is required after reviewing the documentation and DTA website, please contact Mark Lelliott or Regina Ocampo on 1300 138 863. Applications are required by COB 9 October, 2017. A concurrent search is being undertaken.
+To obtain information for candidates, including the role description, or to apply, please email [applications.australia@ngs-global.com](mailto:applications.australia@ngs-global.com). If further information is required after reviewing the documentation and DTA website, please contact Mark Lelliott or Regina Ocampo on 1300 138 863. Applications are required by COB 9 October, 2017. A concurrent search is being undertaken.
 
-**Eligibility**
+### Eligibility
 
 This position is subject to the following eligibility requirements:
 
