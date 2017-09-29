@@ -7,7 +7,7 @@ author-excerpt: "Shane Sithamparanathan is the delivery manager for the BloodNet
 thumbnail: /images/blog-thumbnails/Bloodnet_thumb (1).png
 hero-image: /images/blog-content/Bloodnet_hero (1).png
 twitter-image: /images/blog-thumbnails/bloodnet_twitter (1).png
-searchexcerpt: "The National Blood Authority (NBA) --- Australia’s essential blood ordering service --- is transforming its digital platform. Delivery manager Shane Sithamparanathan talks about how they successfully passed their alpha assessment and are heading full steam into beta."
+searchexcerpt: "The National Blood Authority (NBA) --- Australia’s essential blood ordering service --- is transforming its digital platform. Delivery manager Shane Sithamparanathan talks about how they successfully passed their alpha assessment and are full steam ahead in beta."
 ---
 
 ![Staff working in the National Blood Authority Office in front of data management screens.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
@@ -20,23 +20,23 @@ The NBA manages the ordering of blood and blood products around Australia. We op
 
 The NBA received feedback that our platform was not meeting user needs. Hospitals had difficulty filling in forms and were unsure how to track the status of their orders. 
 
-The Queensland Department of Health first developed an online system for ordering and tracking blood products called ORBS (Ordering, Receipting Blood System) in 2009. This was so successful that it was proposed to the NBA as a national system in 2010. A bespoke application called BloodNet was developed. Since 2010, new functionalities have been added to the platform. 
+The Queensland Department of Health first developed an online system for ordering and tracking blood products called ORBS (Ordering, Receipting Blood System) in 2009. This was so successful that it was proposed to the NBA as a national system in 2010. A bespoke application called BloodNet was developed. Since 2010, new functionalities have been added.
 
-Whilst BloodNet has been the fulfilling basic requirement of ordering and receipting blood and blood products, added functionalities have significantly reduced the system’s response time. Hospitals found the system to be running slow and the look and feel dull and outdated.
+While BloodNet has been fulfilling the basic requirement of ordering and receipting blood and blood products, new functionality has significantly reduced the system’s response time. Hospitals found the system to be running slow and the look and feel dull and outdated.
 
-The new BloodNet version 5 is transforming the way current BloodNet is operating and aims to not only upgrade the technology and platforms, but also give its user interface a fresh new look.  In addition, we are improving data structures, cleaning our legacy data and improving data quality to decrease slowness of the system.  
+BloodNet version 5 is transforming the way BloodNet is operating and aims to not only upgrade the technology and platforms, but also give its user interface a fresh new look.  In addition, we are improving data structures, cleaning our legacy data and improving data quality to decrease slowness of the system.  
 
 ## Using the Digital Service Standard
 
-The NBA has been using the Digital Service Standard to ensure our services are simple, clear, and in line with user’s needs. Our team takes full ownership of what we do and we empathise with our end users and their pain points. I am very proud of the work we have done.
+The NBA has been using the [Digital Service Standard](https://www.dta.gov.au/standard/) to ensure our services are simple, clear, and in line with user’s needs. Our team takes full ownership of what we do and we empathise with our end users and their pain points. I am very proud of the work we have done.
 
-Digital transformation is a big organisational cultural change and challenge. Our senior management is very supportive and actively guides the team to deliver the new wave of BloodNet 5.
+Digital transformation is a big organisational cultural change and challenge. Our senior management is very supportive and actively guides the team to deliver the new wave of BloodNet version 5.
 
 We worked hard to align our deliverables with DTA’s Digital Service Standard criteria. We made a number of team and organisational adjustments to meet the criteria.
 
 ### Brought a multi-disciplinary team in-house
 
-The team consists of: delivery manager, product manager, user researchers, system architect, developers and ethical hackers.
+The team consisted of: delivery manager, product manager, user researchers, system architect, developers and ethical hackers.
 
 ### Upskilled internal staff 
 
@@ -58,7 +58,7 @@ With the development of empathy maps, user journeys, and service blueprints, the
 
 ## Challenges in meeting the Digital Service Standard
 
-Whilst the DTA is a great source of information, the team encountered the following challenges:
+While the DTA was a great source of information, the team encountered the following challenges:
 
 ### Assessments
 
@@ -66,13 +66,15 @@ The format of the Digital Service Standard assessment and types of questions tha
 
 ### Cultural change
 
-There were initially a few challenges with the concept of digital transformation and agile delivery within the organisation. During the discovery the team’s mindset evolved and now user-centred delivery is a core part of our work. I now encourage all team members to participate in user research and I have managed to take them to research across the country --- this has really helped build their empathy for users. 
+There were initially a few challenges with the concept of digital transformation and agile delivery within the organisation. During the discovery the team’s mindset evolved and now user-centred delivery is a core part of our work. 
+
+I now encourage all team members to participate in user research and I take them with me to research across the country --- this has really helped build their empathy for users.
 
 ## Where to now?
 
-The beta phase is keeping the team well occupied with details analysis and further development and research. 
+We are now in Beta and spending time on detailed analysis as well as further research and development. 
 
-We organised our biggest user reference group event on 27th July 2017. Over 30 end-user representatives visited our National office in Canberra, and attended a workshop run by our Product Owner Rebecca Helandma and the project team. 
+In July, we organised our biggest user reference group event. Over 30 end-user representatives visited our National office in Canberra, and attended a workshop run by our Product Owner Rebecca Helandma and the project team. 
 
 We received constructive feedback and we are excited to incorporate it into our upcoming sprints. Because we are an agile team, it is very easy for us to include essential improvements suggested by our end users. 
 
