@@ -20,7 +20,7 @@ The NBA manages the ordering of blood and blood products around Australia. We op
 
 The NBA received feedback that our platform was not meeting user needs. Hospitals had difficulty filling in forms and were unsure how to track the status of their orders. 
 
-The Queensland Department of Health first developed an online system for ordering and tracking blood products called ORBS (Ordering, Receipting Blood System) in 2009. This was so successful that it was proposed to the NBA as a national system in 2010. A bespoke application called BloodNet was developed. Since 2010, new functionalities have been added.
+The Queensland Department of Health first developed an online system for ordering and tracking blood products called ORBS (Ordering, Receipting Blood System) in 2009. This was so successful that it was proposed to the NBA as a national system in 2010. A bespoke application called BloodNet was developed. Since 2010, new functionality has been added.
 
 While BloodNet has been fulfilling the basic requirement of ordering and receipting blood and blood products, new functionality has significantly reduced the system’s response time. Hospitals found the system to be running slow and the look and feel dull and outdated.
 
