@@ -115,7 +115,7 @@ The DTA manages ICT coordinated procurement arrangements. These arrangements are
 
 ## Reviewing how we buy products and services
 
-The ICT Procurement Taskforce [reviewed how government buys ICT products and services](https://dta.apps.staging.digital.gov.au/what-we-do/policies-and-programs/ict-procurement/ict-procurement-review/). This review explored how we can make ICT procurement a simpler and faster process for everyone involved.
+The ICT Procurement Taskforce [reviewed how government buys ICT products and services](/what-we-do/policies-and-programs/ict-procurement/ict-procurement-review/). This review explored how we can make ICT procurement a simpler and faster process for everyone involved.
 
 ## Contact us
 
