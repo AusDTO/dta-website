@@ -23,6 +23,6 @@ We’ll keep you updated on the process, so check back on our site in a few mont
 
 ## Business as usual
 
-Even though we are having a look at the Standard, we still need to continue using it. ok coIf your service is [in scope](https://www.dta.gov.au/standard/scope-of-standard/), you should continue to use the Standard.
+During this time, the Standard will still apply. So if your service is [in scope](https://www.dta.gov.au/standard/scope-of-standard/), you should continue using it.
 
 Any questions about the research we are doing or the Digital Service Standard can be sent to [standard@digital.gov.au](mailto:standard@digital.gov.au)
