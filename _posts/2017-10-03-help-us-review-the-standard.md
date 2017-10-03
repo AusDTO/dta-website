@@ -21,7 +21,7 @@ Over the next few weeks we will also be conducting research interviews with a ra
 
 We’ll keep you updated on the process, so check back on our site in a few months. 
 
-##Business as usual
+## Business as usual
 
 If your service is [in scope](https://www.dta.gov.au/standard/scope-of-standard/), you should continue to use the Standard.
 
