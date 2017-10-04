@@ -106,7 +106,7 @@ The team appreciated the opportunity to have 'in-flight' check-ins as it helped 
 ## Recommendations
 
 - The team felt that multidisciplinary teams undertaking Agile and user-centred projects would benefit from a Sprint 0 (or mobilisation phase) to bring the team together and build a shared understanding, establish toolkit and processes for the project before commencing Discovery.
-- Ongoing DHS teams should consider the processes for obtaining informed consent for user research and ensure they are rigorous and participants are aware of the nature of consent, particularly  how and what their information will be used for. DHS has been sent a link to a blog post, [_Ensuring informed consent in user research_](https://www.dta.gov.au/blog/informed-consent-in-user-research/) as a guide to consent in research.
+- Ongoing DHS teams should consider the processes for obtaining informed consent for user research and ensure they are rigorous and participants are aware of the nature of consent, particularly  how and what their information will be used for. DHS has been sent a link to a blog post, [_Ensuring informed consent in user research_](/blog/informed-consent-in-user-research/) as a guide to consent in research.
 - The team should have a mechanism for participants to withdraw consent at any time after research sessions and records kept about what participants have consented to.
 - The team needs to ensure that the users research findings are fully appreciated by the individual product teams and that user research continues as the MVP is developed and/or the processes removing paper are refined.
 - The final set of information collection principles developed should closely align with the Digital Service Standard.
