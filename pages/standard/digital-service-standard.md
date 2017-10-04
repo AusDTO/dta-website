@@ -8,6 +8,14 @@ searchexcerpt: The Digital Service Standard ensures digital teams build governme
   <p>{{page.searchexcerpt}}</p>
 </div>
 
+<p class= "callout"> At the DTA we regularly evaluate all of our products to determine if they are meeting our users’ needs.
+<br/>
+<br/>
+If you have used the standard in your work, we would love to <a href="https://www.surveymonkey.com/r/BG8RHYP">get your feedback</a>.
+<br/>
+<br/>
+In the coming weeks we will also be conducting research interviews with a range of regular users. If you have any questions about this process please email <a href="mailto:standard@digital.gov.au">standard@digital.gov.au </a> </p>
+
 <p>All services which were designed or redesigned after 6 May 2016 fall within <a href="/standard/scope-of-standard/">the scope of the standard</a> and must be assessed against it. You can check the <a href="/standard/changes-to-standard/">changes between the Live and Beta Standard</a>.</p>
 
 <div class="dss-criteria-page-list">
