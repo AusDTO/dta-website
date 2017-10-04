@@ -7,18 +7,18 @@ author-excerpt: "Shane Sithamparanathan is the delivery manager for the BloodNet
 thumbnail: /images/blog-thumbnails/Bloodnet_thumb (1).png
 hero-image: /images/blog-content/Bloodnet_hero (1).png
 twitter-image: /images/blog-thumbnails/bloodnet_twitter (1).png
-searchexcerpt: "The National Blood Authority (NBA) --- Australia’s essential blood ordering service --- is transforming its digital platform. Delivery manager Shane Sithamparanathan talks about how they successfully passed their alpha assessment and are full steam ahead in beta."
+searchexcerpt: "The National Blood Authority (NBA) &mdash; Australia’s essential blood ordering service &mdash; is transforming its digital platform. Delivery manager Shane Sithamparanathan talks about how they successfully passed their alpha assessment and are full steam ahead in beta."
 ---
 
 ![Staff working in the National Blood Authority Office in front of data management screens.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 *Caption: The National Blood Authority office.*
 
-The NBA manages the ordering of blood and blood products around Australia. We operate a 24-hour service to ensure that essential life saving blood and blood products get to where they’re needed. Approximately 28,000 litres of blood are ordered and tracked through our platform each month. 
+The NBA manages the ordering of blood and blood products around Australia. We operate a 24-hour service to ensure that essential life saving blood and blood products get to where they’re needed. Approximately 28,000 litres of blood are ordered and tracked through our platform each month.
 
 ## The need for transformation
 
-The NBA received feedback that our platform was not meeting user needs. Hospitals had difficulty filling in forms and were unsure how to track the status of their orders. 
+The NBA received feedback that our platform was not meeting user needs. Hospitals had difficulty filling in forms and were unsure how to track the status of their orders.
 
 The Queensland Department of Health first developed an online system for ordering and tracking blood products called ORBS (Ordering, Receipting Blood System) in 2009. This was so successful that it was proposed to the NBA as a national system in 2010. A bespoke application called BloodNet was developed. Since 2010, new functionality has been added.
 
@@ -38,7 +38,7 @@ We worked hard to align our deliverables with DTA’s Digital Service Standard c
 
 The team consisted of: delivery manager, product manager, user researchers, system architect, developers and ethical hackers.
 
-### Upskilled internal staff 
+### Upskilled internal staff
 
 Since the concept of the Digital Service Standard is new to the NBA, an expert delivery manager with knowledge and experience of the Digital Service Standard was specifically included to guide and upskill the team.
 
@@ -66,27 +66,27 @@ The format of the Digital Service Standard assessment and types of questions tha
 
 ### Cultural change
 
-There were initially a few challenges with the concept of digital transformation and agile delivery within the organisation. During the discovery the team’s mindset evolved and now user-centred delivery is a core part of our work. 
+There were initially a few challenges with the concept of digital transformation and agile delivery within the organisation. During the discovery the team’s mindset evolved and now user-centred delivery is a core part of our work.
 
 I now encourage all team members to participate in user research and I take them with me to research across the country --- this has really helped build their empathy for users.
 
 ## Where to now?
 
-We are now in Beta and spending time on detailed analysis as well as further research and development. 
+We are now in Beta and spending time on detailed analysis as well as further research and development.
 
-In July, we organised our biggest user reference group event. Over 30 end-user representatives visited our National office in Canberra, and attended a workshop run by our Product Owner Rebecca Helandma and the project team. 
+In July, we organised our biggest user reference group event. Over 30 end-user representatives visited our National office in Canberra, and attended a workshop run by our Product Owner Rebecca Helandma and the project team.
 
-We received constructive feedback and we are excited to incorporate it into our upcoming sprints. Because we are an agile team, it is very easy for us to include essential improvements suggested by our end users. 
+We received constructive feedback and we are excited to incorporate it into our upcoming sprints. Because we are an agile team, it is very easy for us to include essential improvements suggested by our end users.
 
 Some of the things we’re working on right now include:
 
-- ensuring the system is built for longevity and ease of maintenance 
+- ensuring the system is built for longevity and ease of maintenance
 - setting up our release process and transition plans for users
 - identifying appropriate metrics and KPIs for the performance dashboard
 - continuing user research and testing to make sure we are on the right track
- 
-The team has designed a simpler platform that makes it faster and easier for hospitals to order and receive life-saving blood products. 
 
-We are the first agency --- that is required to use the Digital Service Standard --- to pass its alpha assessment independently. 
+The team has designed a simpler platform that makes it faster and easier for hospitals to order and receive life-saving blood products.
 
-The NBA is a great example of how a smaller agency can build their digital capability by bringing digital skills in-house and upskilling existing employees. We hope that other agencies can learn from our experience. 
+We are the first agency --- that is required to use the Digital Service Standard --- to pass its alpha assessment independently.
+
+The NBA is a great example of how a smaller agency can build their digital capability by bringing digital skills in-house and upskilling existing employees. We hope that other agencies can learn from our experience.

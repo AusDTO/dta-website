@@ -19,7 +19,7 @@ bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=
 # install the cloud foundry cli tool if required
 case "${GITBRANCH}" in
   master|develop|${DEPLOY_BRANCHES})
-    curl -v -L -o cf-cli_amd64.deb 'https://cli.run.pivotal.io/stable?release=debian64&version=6.18.1&source=github-rel'
+    curl -v -L -o cf-cli_amd64.deb 'https://cli.run.pivotal.io/stable?release=debian64&version=6.32.0&source=github-rel'
     sudo dpkg -i cf-cli_amd64.deb
     cf -v
     ;;
