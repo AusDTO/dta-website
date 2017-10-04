@@ -55,10 +55,10 @@ The team visited 14 locations, interviewed 118 people over 87 hours of research.
 - In community centres (12)
 
 #### Staff
-- Service Centre [25]
-- Call centre [3]
-- Processing [15]
-- Others [5]
+- Service Centre (25)
+- Call centre (3)
+- Processing (15)
+- Others (5)
 
 The customers included people from city, metropolitan and country locations and also included a few people with disability and from different cultural backgrounds. The team acknowledges that additional user research is needed with people from rural and remote locations and to include more cultural, linguistic and ability diversity.
 
