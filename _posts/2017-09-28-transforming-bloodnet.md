@@ -7,14 +7,14 @@ author-excerpt: "Shane Sithamparanathan is the delivery manager for the BloodNet
 thumbnail: /images/blog-thumbnails/Bloodnet_thumb (1).png
 hero-image: /images/blog-content/Bloodnet_hero (1).png
 twitter-image: /images/blog-thumbnails/bloodnet_twitter (1).png
-searchexcerpt: "The National Blood Authority (NBA) &mdash; Australia’s essential blood ordering service &mdash; is transforming its digital platform. Delivery manager Shane Sithamparanathan talks about how they successfully passed their alpha assessment and are full steam ahead in beta."
+searchexcerpt: "The National Blood Authority's essential blood ordering service is transforming its digital platform. Delivery manager Shane Sithamparanathan talks about how they successfully passed their alpha assessment and are full steam ahead in beta."
 ---
 
 ![Staff working in the National Blood Authority Office in front of data management screens.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 *Caption: The National Blood Authority office.*
 
-The NBA manages the ordering of blood and blood products around Australia. We operate a 24-hour service to ensure that essential life saving blood and blood products get to where they’re needed. Approximately 28,000 litres of blood are ordered and tracked through our platform each month.
+The National Blood Authority (NBA) manages the ordering of blood and blood products around Australia. We operate a 24-hour service to ensure that essential life saving blood and blood products get to where they’re needed. Approximately 28,000 litres of blood are ordered and tracked through our platform each month.
 
 ## The need for transformation
 
