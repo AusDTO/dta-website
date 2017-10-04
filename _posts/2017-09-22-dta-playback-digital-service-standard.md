@@ -7,6 +7,14 @@ thumbnail: /images/blog-thumbnails/Playback-tiles-V2-THUMB.png
 searchexcerpt: Using the Digital Service Standard can be challenging. Read some of the blogs from our archives that talk about different aspects of the Standard and how to work through the challenges.
 ---
 
+![Post-it notes with graphic representations of different disabilities.]({{ site.url }}{{ site.baseurl }}/images/blog-thumbnails/Bloodnet_thumb (1).png)
+
+## [Guest Blog — Transforming Bloodnet](/blog/transforming-bloodnet/)
+
+In this guest post, we learn how the National Blood Authority is transforming it's digital platform — an essential service that manages the ordering of blood across Australia.
+
+***
+
 ![Post-it notes with graphic representations of different disabilities.]({{ site.url }}{{ site.baseurl }}/images/blog-thumbnails/Accessibility_thumb.png)
 
 ## [Accessibility and the Digital Service Standard](/blog/accessibility-and-the-dss/)
