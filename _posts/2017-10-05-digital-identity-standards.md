@@ -18,4 +18,4 @@ Read Assistant Minister Angus Taylor’s [media release](https://ministers.pmc.g
 
 Find out more about the [Govpass digital identity project](https://www.dta.gov.au/what-we-do/platforms/govpass/).
 
-Read our blogs for an [overview of Govpass](https://www.dta.gov.au/blog/govpass/) and its [privacy by design](https://www.dta.gov.au/blog/govpass-privacy-by-design/).
+Read our blogs for an [overview of Govpass](https://www.dta.gov.au/blog/govpass/) and [how it's designed with privacy in mind](https://www.dta.gov.au/blog/govpass-privacy-by-design/).
