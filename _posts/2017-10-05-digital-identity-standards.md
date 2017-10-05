@@ -15,5 +15,7 @@ The framework is now in a private beta phase.  It sets out the policies and requ
 The DTA has been consulting closely with key stakeholders, including government, industry and privacy advocates over the past 12 months to draft the framework. Public consultation on the framework will begin towards the end of this year.
 
 Read Assistant Minister Angus Taylor’s [media release](https://ministers.pmc.gov.au/taylor/2017/national-standards-support-government-digital-id).
+
 Find out more about the [Govpass digital identity project](https://www.dta.gov.au/what-we-do/platforms/govpass/).
+
 Read our blogs for an [overview of Govpass](https://www.dta.gov.au/blog/govpass/) and its [privacy by design](https://www.dta.gov.au/blog/govpass-privacy-by-design/).
