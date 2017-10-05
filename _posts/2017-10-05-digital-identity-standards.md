@@ -16,4 +16,4 @@ The DTA has been consulting closely with key stakeholders, including government,
 
 Read Assistant Minister Angus Taylor’s [media release](https://ministers.pmc.gov.au/taylor/2017/national-standards-support-government-digital-id).
 Find out more about the [Govpass digital identity project](https://www.dta.gov.au/what-we-do/platforms/govpass/).
-Read our March and May blogs for an [overview of Govpass](https://www.dta.gov.au/blog/govpass/) and its [privacy by design](https://www.dta.gov.au/blog/govpass-privacy-by-design/).
+Read our blogs for an [overview of Govpass](https://www.dta.gov.au/blog/govpass/) and its [privacy by design](https://www.dta.gov.au/blog/govpass-privacy-by-design/).
