@@ -4,7 +4,7 @@ category: [news]
 tag: 'dta news'
 thumbnail: /images/blog-thumbnails/Senate-Inquiry-DTA-thumb.png
 twitter-image: /images/blog-twitter/Senate-Inquiry-Twitter.png
-permalink: /who-we-are/corporate/senate-inquiry-submission
+permalink: /who-we-are/corporate/senate-inquiry-submission/
 localnav: who-we-are
 searchexcerpt: The Australian Senate is holding an inquiry into the digital delivery of government services. In September we provided our submission.
 ---
