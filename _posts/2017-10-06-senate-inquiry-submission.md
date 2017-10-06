@@ -6,7 +6,7 @@ thumbnail: /images/blog-thumbnails/Senate-Inquiry-DTA-thumb.png
 twitter-image: /images/blog-twitter/Senate-Inquiry-Twitter.png
 permalink: /who-we-are/corporate/senate-inquiry-submission/
 localnav: who-we-are
-searchexcerpt: The Australian Senate is holding an inquiry into the digital delivery of government services. In September we provided our submission.
+searchexcerpt: The Australian Senate is holding an inquiry into the digital delivery of government services. 
 ---
 
 The Finance and Public Administration Committee is reviewing whether government agencies can deliver services that uphold privacy and security, are reliable and usable, and deliver value for money.
