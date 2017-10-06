@@ -1,5 +1,5 @@
 ---
-title: "New national digital identity standards"
+title: "Senate inquiry submission"
 category: [news]
 tag: 'dta news'
 thumbnail: /images/blog-thumbnails/Senate-Inquiry-DTA-thumb.png
@@ -11,7 +11,7 @@ searchexcerpt: The Australian Senate is holding an inquiry into the digital deli
 
 The Finance and Public Administration Committee is reviewing whether government agencies can deliver services that uphold privacy and security, are reliable and usable, and deliver value for money.
 
-[Our submissions](http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Finance_and_Public_Administration/digitaldelivery/Submissions) outlines the DTA’s responsibilities to support the Australian Government’s digital transformation agenda, which focuses on delivering better and more accessible services to individuals and businesses.
+[Our submission](http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Finance_and_Public_Administration/digitaldelivery/Submissions) outlines the DTA’s responsibilities to support the Australian Government’s digital transformation agenda, which focuses on delivering better and more accessible services to individuals and businesses.
 
 ## Submission summary
 
