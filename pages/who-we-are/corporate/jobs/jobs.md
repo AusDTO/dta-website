@@ -16,16 +16,6 @@ Sound like you? We'd love to hear from you.
 
 [Before you apply](/who-we-are/corporate/jobs/before-you-apply/)
 
-### Senior Executive Vacancies
-
-#### [Chief Strategy Officer](/who-we-are/corporate/jobs/chief-strategy-officer/)
-Location: Canberra City
-
-#### [Chief Procurement Officer](/who-we-are/corporate/jobs/chief-procurement-officer/)
-Location: Canberra City
-
-<br>
-
 <div class="recruitment-form">
 
 <script id="rbox-loader-script" type="text/javascript">
