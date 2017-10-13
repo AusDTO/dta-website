@@ -111,7 +111,7 @@ The DTA can help with general information on the SourceIT contracts but specific
 
 ## Policies
 
-The DTA manages ICT coordinated procurement arrangements. These arrangements are formed in line with the [coordinated procurement](https://www.finance.gov.au/procurement/wog-procurement/coordinated-procurement.html) contracting framework overseen by the Department of Finance. The DTA also manages the government’s ICT Contract Capped Term and Value Policy.
+The DTA manages ICT coordinated procurement arrangements. These arrangements are formed in line with the [coordinated procurement](https://www.finance.gov.au/procurement/wog-procurement/coordinated-procurement.html) contracting framework overseen by the Department of Finance. The DTA also manages the government’s [ICT Contract Capped Term and Value Policy](/what-we-do/policies-and-programs/ict-procurement/ict-capped-term-value-policy/).
 
 ## Reviewing how we buy products and services
 
