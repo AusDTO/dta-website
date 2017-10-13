@@ -16,7 +16,7 @@ Exemptions from this policy can only be granted jointly by the requesting NCCEâ€
 
 Contracts that will automatically be exempt from this policy are those:
 
-- where the overall procurement applies paragraph 2.6 of the Commonwealth Procurement Rules (CPRs) , and/or
+- where the overall procurement applies paragraph 2.6 of the [Commonwealth Procurement Rules (CPRs)](https://www.finance.gov.au/procurement/procurement-policy-and-guidance/commonwealth-procurement-rules/), and/or
 - subject to paragraph 4.9 of the CPRs (whole-of-government ICT coordinated procurements)
 
 ## Key points:
@@ -42,4 +42,4 @@ Entitiesâ€™ contractual commitments must be consistent with paragraphs 10.30 and
 
 ## Contact
 
-If you have any questions regarding this policy, please send an email to [ictprocurement@dta.gov.au](mailto:ictprocurement@dta.gov.au).
+If you have any questions regarding this policy, please send an email to [ictprocurement@dta.gov.au](mailto:ictprocurement@dta.gov.au)
