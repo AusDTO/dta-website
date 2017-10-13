@@ -92,7 +92,7 @@ There is an understanding that the use of tools, coding and system data manageme
 
 ### Criterion 5: Make it secure
 
-The solution has been through an Amazon Web Services “Well Architected” review, with critical improvements addressed post review.
+The solution has been through an Amazon Web Services 'Well Architected' review, with critical improvements addressed post review.
 
 Security has been reviewed by the IP Australia ICT Security team. ITSEC have been working directly with the team and have passed the tool. System logging is limited to a single log which the vendor can provide reports from. The team can access these logs and investigate directly also. User behaviour and system occurrences are detailed.
 
@@ -140,7 +140,7 @@ Vision Australia completed a second review of IP Discovery and have noted the re
 
 Usability testing has been part of the overall build process with testing taking place on developed items when complete. Testing has taken advantage of heatmap tools to support findings.
 
-Service is being designed to support common contemporary browser versions --- IE 9 and above, Firefox, Chrome. etc.
+Service is being designed to support common contemporary browser versions --- IE 9 and above, Firefox, Chrome etc.
 
 **Recommendations for criterion 9:**
 
