@@ -5,7 +5,7 @@ breadcrumb: Australian Trade Mark Search
 permalink:    /standard/assessments/australian-trade-mark-search-beta/
 report-excerpt: Australian Trade Marks Search is the search and information discovery system for public trade marks data.
 department: IP Australia
-date: 2016-10-30
+date: 2016-12-21
 result: Pass
 assessment-stage: Beta
 self-assessment: true
