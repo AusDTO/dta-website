@@ -4,7 +4,7 @@ category: [blog]
 tag: 'digital transformation'
 author: Felicity Hitchcock
 author-excerpt: "Felicity Hitchcock is a product manager at the DTA."
-thumbnail: /images/blog-thumbnails/Govpass_thumb.png
+thumbnail: /images/blog-thumbnails/Govpass_thumb (1).png
 searchexcerpt: "We have been building a solution which will allow you to create a digital identity to use with government services."
 ---
 
