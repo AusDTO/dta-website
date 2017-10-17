@@ -5,30 +5,32 @@ tag: 'digital transformation'
 author: Felicity Hitchcock
 author-excerpt: "Felicity Hitchcock is a product manager at the DTA."
 thumbnail: /images/blog-thumbnails/Govpass_thumb.png
-searchexcerpt: "The Digital Transformation Agency has been building a solution which will allow you to create a digital identity for use with government services online."
+searchexcerpt: "We have been building a solution which will allow you to create a digital identity to use with government services."
 ---
 
-We know that many people would like the choice of being able to access government services online.
+Many people would like the choice of being able to access government services online.
 
-At the moment, even if you can do part of the process online, you might be familiar with taking 100 points of ID to a government service centre to have your identity checked in person.
+At the moment, even if you can do part of the process online, you still need to take 100 points of ID to a government service centre to have your identity checked in person.
 
-Govpass will let you complete this process entirely online on your tablet, phone or computer.
+Govpass will let you complete this process entirely online on your computer, phone or tablet.
 
-To create your Govpass you’ll be asked to enter details from some identity documents --- such as your Australian birth certificate, passport, driver’s licence and Medicare card --- to verify your identity.
+## How it works
 
-The details for these documents will be checked within seconds. For example, your Medicare card details will be checked with the Medicare office and your birth certificate will be verified against the records of the state where you were born. 
+To create your Govpass you’ll be asked to enter details from some of your identity documents --- such as your Australian birth certificate, passport, driver’s licence and Medicare card. This information will be used to verify your identity.
 
-You’ll also need to confirm your photo ID with Govpass. You’ll be able to do this online, using the camera on your device. 
+The details for these documents will be checked against existing government records within seconds. For example, your Medicare card details will be checked with the Medicare office and your birth certificate will be verified against the records of the state where you were born. 
 
-Only your basic contact details are kept by Govpass Your photo will be checked against the record of either your driver’s licence or passport and then Govpass deletes it. 
+You’ll also need to confirm that you match your photo ID. You’ll be able to do this online, using the camera on your device. Your photo will be checked against the photo ID you provided, and then Govpass deletes it.
 
-Importantly, you’ll only have to go through this process once to create your Govpass digital identity. The whole process will take between 5 and 10 minutes.
+## Create once, use it over and over
 
-Your Govpass will be trusted by government services online so you’ll be able to use it over and over again to do business with different . 
+You’ll only have to go through this process once to create your Govpass digital identity. The whole process takes between 5 and 10 minutes.
 
-Govpass is in limited testing. Next year it is expected the service will be tested with a broader number of services and users.
+Your Govpass will be trusted by government services online. You’ll be able to use it over and over again, each time you use a different government service. 
 
-Watch the video to see how easy it will be to set up a Govpass. Read Assistant Minister Taylor’s media release about [Govpass](https://analytics.google.com/analytics/web/#home/a61222473w95864898p99993137/).
+Govpass is currently being tested privately with a few select services. Next year it is expected that it will be tested with a broader number of services and users.
+
+Watch the video to see how easy it will be to set up a Govpass. 
 
 <div class="embed-container">
   <iframe src="https://www.youtube.com/embed/5EkLDNMALBs?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -147,7 +149,9 @@ On screen: Govpass: Simple, clear, fast and secure
 </div>
 </details>
 
-Read more about the DTA’s work on digital identity:
+Read Assistant Minister Taylor’s media release about [Govpass](https://ministers.pmc.gov.au/taylor/2017/what-govpass-digital-id-would-look-australians).
+
+You can read more about the DTA’s work on digital identity:
 
 - [Govpass --- Privacy by design](https://www.dta.gov.au/blog/govpass-privacy-by-design/)
 - [Making online access simple and secure](https://www.dta.gov.au/blog/govpass/)
