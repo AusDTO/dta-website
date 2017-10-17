@@ -3,8 +3,7 @@ title: "Creating a Govpass digital identity"
 category: [blog]
 tag: 'digital transformation'
 author: DTA Communications
-thumbnail: /images/blog-thumbnails/ICT-CDSO-Andy-Kempson-THUMB-1.jpg
-hero-image: /images/blog-content/ICT-CDSO-Andy-Kempson-HERO-1.jpg
+thumbnail: /images/blog-thumbnails/Govpass_thumb.png
 searchexcerpt: "The Digital Transformation Agency has been building a solution which will allow you to create a digital identity for use with government services online."
 ---
 
@@ -28,7 +27,7 @@ Your Govpass will be trusted by government services online so you’ll be able t
 
 Govpass is in limited testing. Next year it is expected the service will be tested with a broader number of services and users.
 
-Watch the video to see how easy it will be to set up a Govpass. Read Assistant Minister Taylor’s media release about Govpass.
+Watch the video to see how easy it will be to set up a Govpass. Read Assistant Minister Taylor’s media release about [Govpass](https://analytics.google.com/analytics/web/#home/a61222473w95864898p99993137/).
 
 <div class="embed-container">
   <iframe src="https://www.youtube.com/embed/5EkLDNMALBs?rel=0" frameborder="0" allowfullscreen></iframe>
