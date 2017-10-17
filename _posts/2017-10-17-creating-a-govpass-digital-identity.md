@@ -2,7 +2,8 @@
 title: "Creating a Govpass digital identity"
 category: [blog]
 tag: 'digital transformation'
-author: DTA Communications
+author: Felicity Hitchcock
+author-excerpt: "Felicity Hitchcock is a product manager at the DTA."
 thumbnail: /images/blog-thumbnails/Govpass_thumb.png
 searchexcerpt: "The Digital Transformation Agency has been building a solution which will allow you to create a digital identity for use with government services online."
 ---
