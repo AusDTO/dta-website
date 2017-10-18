@@ -3,10 +3,10 @@ title: Full text description of the DTA organisation structure
 layout: basic
 permalink: /who-we-are/organisation-structure/organisation-text/
 localnav: who-we-are
-searchexcerpt: Full text description of the DTA organisation structure as on 1 July 2017.
+searchexcerpt: Full text description of the DTA organisation structure as on 18 October 2017.
 ---
 
-![Thumbnail of the DTA organisation structure](/images/DTA_Orgchart_2017_Aug.png)
+![Thumbnail of the DTA organisation structure](/images/DTA_Orgchart_2017_October.png)
 
 [&larr; Back to DTA organisation structure](/who-we-are/organisation-structure/)
 
@@ -32,7 +32,7 @@ searchexcerpt: Full text description of the DTA organisation structure as on 1 J
     <span>Peter Alexander </span><br>Chief Digital Officer
   </li>
   <li>
-    <span>Craig Rice </span><br>Acting Chief Investment and Advisory Officer
+    <span>Lesley Seebeck </span><br>Chief Investment and Advisory Officer
   </li>
   <li>
     <span>Angela Chow </span><br>Acting Chief Procurement Officer
