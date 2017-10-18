@@ -7,7 +7,7 @@ searchexcerpt: "The Australian Government has established a moratorium that stop
 ---
 The Australian Government has established a moratorium that stops Commonwealth (federal) agencies from investing in new, or duplicating, service delivery capability. The moratorium is an important tool to help government limit the fragmenting of users’ experience across the Australian Government.
 
-If you are the project owner for a service delivery product, it is your responsibility to assess whether the moratorium applies to your proposed investment. You can talk to your Digital Transformation Coordinator or the Digital Transformation Agency ([standard@digital.gov.au](mailto:standard@digital.gov.au)) for help with this.
+If you are the project owner for a service delivery product, it is your responsibility to assess whether the moratorium applies to your proposed investment. You can talk to your Digital Transformation Coordinator or the Digital Transformation Agency ([dimo@dta.gov.au](mailto:dimo@dta.gov.au)) for help with this.
 
 ## Scope
 The moratorium applies to investments in service delivery capability made by Australian Government non-corporate Commonwealth entities under *[section 11(b) of the Public Governance, Performance and Accountability Act 2013](https://www.legislation.gov.au/Details/C2016C00414/Html/Text#_Toc450312934)*.
@@ -43,7 +43,7 @@ Some service delivery investments are exempt from the moratorium.
 
 You need to notify your agency’s Digital Transformation Coordinator if your service is automatically exempt. The Digital Transformation Coordinator must then advise the Digital Transformation Agency. The Digital Transformation Agency will confirm whether an automatic exemption applies.
 
-You can also **apply for an exemption**. You should contact the Digital Transformation Agency ([standard@digital.gov.au](mailto:standard@digital.gov.au)) to work with your agency. Your minister can then write to the Assistant Minister for Cities and Digital Transformation to request exemption.
+You can also **apply for an exemption**. You should contact the Digital Transformation Agency ([dimo@dta.gov.au](mailto:dimo@dta.gov.au)) to work with your agency. Your minister can then write to the Assistant Minister for Cities and Digital Transformation to request exemption.
 
 Some investments that **may be granted exemption** include:
 
