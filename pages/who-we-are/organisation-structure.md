@@ -11,10 +11,10 @@ searchexcerpt: "Find an overview of high-level organisation structure of DTA. Th
 <h1>DTA organisation structure</h1>
 </header>
 
-![An overview of high-level organisation structure of DTA as on 14 August 2017. The DTA consists of 7 key areas covering finance, people, communication, strategy, digital products and skills, investment and procurement.](/images/DTA_Orgchart_2017_Aug.png)
+![An overview of high-level organisation structure of DTA as on 18 October 2017. The DTA consists of 7 key areas covering finance, people, communication, strategy, digital products and skills, investment and procurement.](/images/DTA_Orgchart_2017_October.png)
 
 
-Having problems seeing this image? [Open larger DTA organisation structure image (PDF 136kb)](/files/DTA_Orgchart_2017_Aug.pdf)
+Having problems seeing this image? [Open larger DTA organisation structure image (PDF 136kb)](/files/DTA_Orgchart_2017_October.pdf)
 
 
 [Read the full text version of DTA organisation structure](/who-we-are/organisation-structure/organisation-text/)
