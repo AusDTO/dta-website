@@ -13,7 +13,7 @@ The technology you choose to build your service must help you respond quickly an
 * consider all the risks and constraints associated with the technology you choose
 * avoid contracts that lock you into particular solutions and limit your ability to make decisions to improve the service
 * build a sustainable system that can be easily managed once live
-* identify the required infrastructure to successfully and continuously deliver the digital service 
+* identify the required infrastructure to successfully and continuously deliver the digital service
 * have a procurement approach that will not restrict, inhibit or limit ongoing and future service delivery
 * consider existing tools and systems and avoid unnecessary fragmentation and/or costs
 * consider appropriate tools and systems already in use in government
@@ -23,12 +23,12 @@ The technology you choose to build your service must help you respond quickly an
 During the Alpha stage you should be thinking about what you need to build the service. You should:
 
 * review the types of tools and systems already available
-* identify potential development tools and software to build the product 
+* identify potential development tools and software to build the product
 * identify the appropriate languages, frameworks, and other technical choices that are required to build the product
 * understand who will own the intellectual property
 * understand any data requirements of the service
 * understand the development tool chain required for Beta
-* understand the existing IT systems, data stores and in-flight processes for the service 
+* understand the existing IT systems, data stores and in-flight processes for the service
 * understand any potential external dependencies or integrations that would be required to build the product
 * know the initial and ongoing costs for proposed tools and systems. 
 
@@ -39,7 +39,7 @@ During the Beta stage you will be building the service and testing prototypes wi
 * procure the appropriate tools, systems and contractual arrangements and ensure you are getting value for money
 * have the ability to conduct technical health checks of the service
 * arrange for appropriate ongoing technical support and service level agreements for underlying or dependent services
-* outsource decision-making about technology only where appropriate. 
+* outsource decision-making about technology only where appropriate.
 
 By the time you go live you should have in place:
 
@@ -48,7 +48,6 @@ By the time you go live you should have in place:
 * evidence or artefacts that demonstrate you achieved the objective of the criteria for the Live stage.
 
 ## Guidance related to this criterion
-* [Common solutions](/standard/common-solutions/)
 * [Australian Government ICT Policies, guide and procurement](http://www.finance.gov.au/policy-guides-procurement/whole-of-government-ict-policies/)
 
 ## Further reading  
