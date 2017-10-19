@@ -2,13 +2,13 @@
 layout: criteria
 criteria-number: 7
 title: Use open standards and common platforms
-lede: Build using open standards and common government platforms where appropriate. 
+lede: Build using open standards and common government platforms where appropriate.
 permalink: /standard/7-open-standards-and-common-platforms/
 breadcrumb: 7. Use open standards and common platforms
 searchexcerpt: "Using open standards and common government platforms helps you to meet the needs of your users by building with proven solutions; make users’ experience of government more consistent, which generates trust; save time and money by reusing things that are already available; be more efficient by sharing data appropriately and move between different technologies when you need to, avoiding vendor lock-in."
 ---
 ## Why it’s in the Standard
-Using [open standards](https://en.wikipedia.org/wiki/Open_standard) and common government platforms helps you to: 
+Using [open standards](https://en.wikipedia.org/wiki/Open_standard) and common government platforms helps you to:
 
 * meet the needs of your users by building with proven solutions
 * make users’ experience of government more consistent, which generates trust
@@ -21,7 +21,7 @@ During Alpha you should understand what open standards and common platforms can 
 
 * build using the open standards of HTML, CSS and JavaScript to develop prototypes
 * follow government better practice and standards in the design of the service
-* identify tools, systems, processes that can be adopted or reused from other services 
+* identify tools, systems, processes that can be adopted or reused from other services
 * search for similar solutions in other jurisdictions.
 
 During Beta and as you go live you should continue applying government solutions while also:
@@ -31,7 +31,6 @@ During Beta and as you go live you should continue applying government solutions
 * addressing any common user needs in a way that is consistent with the rest of government.
 
 ## Guidance related to this criterion
-* [Common solutions](/standard/common-solutions/)
 * [Australian Government ICT Policy Guides and Procurement](http://finance.gov.au/policy-guides-procurement/)
 
 ## Further reading  
