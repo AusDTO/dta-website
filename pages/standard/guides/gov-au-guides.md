@@ -42,12 +42,8 @@ Style guidance and examples to help writers and editors create simpler, clearer,
 
 ## Want to get involved?
 
-If you would like to give feedback on the GOV.AU Guides, please join a DTA Community for updates and opportunities to comment.
-
-**Service Design Government Community**: email [leisa.reichelt@digital.gov.au](mailto:leisa.reichelt@digital.gov.au) Head of Service Design and Professional Communities.
-
-**Content Design Government Community**: email [content@digital.gov.au](mailto:content@digital.gov.au). 
+If you would like to give feedback on the GOV.AU Guides, please join a [DTA Community](/what-we-do/partnerships/communities/) for updates and opportunities to comment.
 
 Read a blog post about the [thinking behind the GOV.AU content style guide](/blog/walking-the-talk/).
 
-**Last updated**:  24 June 2016
+**Last updated**:  18 October 2016
