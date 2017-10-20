@@ -50,10 +50,6 @@ If you are a journalist and have a media enquiry, please send an email to [media
 
 For enquiries about the Digital Service Standard and service assessments, please send an email to [standard@digital.gov.au](mailto:standard@digital.gov.au).
 
-## Policy and governance
-
-For any other policy and governance enquiries, please send an email to [policy@digital.gov.au](mailto:policy@digital.gov.au).
-
 ## Identity
 
 For enquiries about the Identity program, please send an email to [identity@digital.gov.au](mailto:identity@digital.gov.au).

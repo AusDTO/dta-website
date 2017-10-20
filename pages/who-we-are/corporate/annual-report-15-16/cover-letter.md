@@ -18,10 +18,9 @@ Enquiries regarding the content of the annual report and the use of this documen
 <a name="contact"></a>Head of Strategy and Engagement <br>
 Digital Transformation Office PO Box 457<br>
 CANBERRA ACT 2601<br>
-Email: policy@digital.gov.au<br>
 Website: www.dto.gov.au
 
-View the [PDF version](/annual-report/2015-16) of the DTO Annual Report 2015–16. 
+View the [PDF version](/annual-report/2015-16) of the DTO Annual Report 2015–16.
 
 ISSN 2206-9879 (Print)<br>
 ISSN 2206-9887 (Online)
