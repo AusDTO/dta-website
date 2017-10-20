@@ -35,6 +35,7 @@ main() {
     master)
       checkrepo
       mv _site/nginx-production.conf _site/nginx.conf
+      mv _site/robots-production.txt _site/robots.txt
       cf api $CF_PROD_API
       cf auth $CF_USER $CF_PASSWORD
       cf target -o $CF_ORG
