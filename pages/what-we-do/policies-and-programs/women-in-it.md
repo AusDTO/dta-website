@@ -67,8 +67,7 @@ lede: The DTA is committed to improving gender diversity in senior IT roles with
 </ol>
 <p>You can <a href="/files/DTA_women-in-IT-coaching-course-outline.pdf" download>download the course outline</a> for more information.</p>
 <p>CIOs or agencies will be asked to nominate talented EL1 women from their department or agency to participate in this program.</p>
-<p>Nominations open on Monday 18 September 2017 and close Monday 2 October. Booking forms are due by Friday 13 October. Participation is only confirmed after the booking form has been received.</p>
-<p>The program begins 25 October 2017.</p>
+<p>Nominations for this program are now closed.</p>
 <p>Cost: $5,000.00‑$6,600.00 (GST inclusive) per participant excluding travel. The costs will depend on the final number of participants, and their location.</p>
 <p>The program will be delivered in Canberra as well as in other cities (Sydney, Melbourne, Adelaide or Brisbane) depending on interest. Sessions outside of Canberra will only be run if there are 8 or more participants in that location. Please note that participants outside of Canberra may be required to attend a small number of events in Canberra. Funding for this travel would need to be provided by the agency.</p>
 <h3>APS 5&ndash;6 career development</h3>
