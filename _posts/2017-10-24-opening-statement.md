@@ -1,5 +1,5 @@
 ---
-title: "Opening statement to the Australian Senate"
+title: "Senate Estimates opening statement"
 category: [news]
 tag: 'dta news'
 thumbnail: /images/blog-thumbnails/Estimates_Thumb.png
@@ -31,15 +31,11 @@ And finally, we undertake ongoing monitoring of the ICT portfolio. We provide ad
 
 I would now like to touch on some of the key whole-of-government priorities we are working on.
 
-***
-
 Last week we released a private beta of the Govpass technology platform, which is a critical initiative that will give people the option to create a digital identity so they can more easily access government online services.
 
 We are currently trialling the technology and we anticipate testing it more broadly next year.
 
 We’ve also released the latest version of the rules and standards that will form a framework for a nationally-consistent approach to digital identity. We are currently consulting with government, industry and privacy groups on this and we’ll shortly be releasing it for broader public comment.
-
-***
 
 The second focus of work I’d like to share with you is our responsibility for ICT procurement, including setting up and managing ICT coordinated procurement arrangements. 
 
@@ -50,8 +46,6 @@ For example, a new strategic arrangement with SAP was announced last week. Under
 We have also completed a review of how government undertakes ICT procurement. Based on the review findings, we have established a cap to limit ICT contracts to a maximum of $100 million and/or three years’ duration. The intent of this cap is to benefit small and medium enterprises who will now have the opportunity to bid for smaller individual components of larger projects.
 
 We are continuing to work with industry and government on more reforms to improve coordination and reduce duplication of ICT products and services across government, as well as identify new ways to make the procurement process quicker, easier and more cost effective.
-
-***
 
 Our new investment oversight and advisory role of major government ICT projects is another key piece of work we are doing.
 
@@ -69,8 +63,6 @@ As we continue to collect and analyse information, we’ll also gain a stronger 
 
 Which brings me to the fourth key area of focus I’d like to talk about --- building digital capability.
 
-***
-
 It’s crucial that public servants are well placed to deliver and support the government’s digital transformation ambitions.
 
 One example of our work in this area is with the Australian Public Service Commission to design training programs to upskill the public service. These will help to attract and retain digital talent across government, provide digital training to agencies, and deliver a digital transformation leadership program to senior public servants.
@@ -80,8 +72,6 @@ We’re continuing to roll out Digital Service Standard training across the publ
 We’re bringing in fresh talent to the public service through the whole-of-government ICT entry level programs that we now manage. We expect to place about 170 ICT graduates, cadets and apprentices in departments and agencies in the coming year.
 
 We’ve also set aside space in our Sydney and Canberra offices where we can collaborate with the private sector and external experts, and offer agencies training and hands-on learning opportunities to transform government services using new approaches and methodologies.
-
-*** 
 
 I thank the senators for allowing me the opportunity to provide an opening statement.
 
