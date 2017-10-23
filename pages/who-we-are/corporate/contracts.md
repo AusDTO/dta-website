@@ -19,10 +19,10 @@ You can find a list of our procurement contracts on the [AusTender Senate Order 
 
 No non-procurement contracts were entered into by the Digital Transformation Agency during the reporting period.
 
-## Estimated cost of complying with this order
+### Estimated cost of complying with this order
 
 $500
 
-## Method used to estimate the cost
+### Method used to estimate the cost
 
 Applying average salary and on-costs to the number of hours spent by staff across various classifications to collect and analyse the information.
