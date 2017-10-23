@@ -2,14 +2,14 @@
 title: "Opening statement to the Australian Senate"
 category: [news]
 tag: 'dta news'
-thumbnail: /images/blog-thumbnails/dta-logo-thumb.png
-twitter-image: /images/blog-thumbnails/dta-logo-thumb.png
+thumbnail: /images/blog-thumbnails/Estimates_Thumb.png
+twitter-image: /images/blog-twitter/Estimates_Twitter.png
 searchexcerpt: This opening statement was tabled by our Chief Executive Officer Gavin Slater at Senate Estimates on 23 October 2017. 
 ---
 
 Chair, I would like to make a brief opening statement.
 
-I have been in this role for six months and have been spent considerable time meeting with hundreds of people across government and in the private sector — to listen, learn and discover, and to build relationships.
+I have been in this role for six months and have spent considerable time meeting with hundreds of people across government and in the private sector — to listen, learn and discover, and to build relationships.
 
 I’ve also spent time making changes to the agency to better align our work to the government’s key objectives, which are to:
 
@@ -57,7 +57,7 @@ Our new investment oversight and advisory role of major government ICT projects 
 
 It is providing some important early insights to government about where its major ICT investment is being directed and how major projects are tracking against their intended delivery schedule and benefits.
 
-Just six months into this work, we have established a good baseline of information that  we can continue to build on as we collect more detailed information about major projects.
+Just six months into this work, we have established a good baseline of information that we can continue to build on as we collect more detailed information about major projects.
 
 We’ve identified 72 projects that fall within the scope of being above $10M and we are engaging actively on 17 of these.
 
