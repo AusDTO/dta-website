@@ -61,3 +61,33 @@ main {
   }
 }
 
+/*
+Badges
+Markup: templates/badges.html
+Style guide: Typography.8 Badges
+
+This has been brought in here as UI Kit is no longer maintained and we need to
+adjust the appearance of badges.
+*/
+
+$badges: (
+  'default':  $badge-colour--default,
+  'alpha':    $badge-colour--alpha,
+  'beta':     $badge-colour--beta,
+  'error':    $badge-colour--error,
+  'success':  $badge-colour--success,
+  'live':     $badge-colour--success,
+);
+
+@each $badge-type, $colour in $badges {
+  .badge--#{$badge-type} {
+    display: inline-block;
+    background-color: $colour;
+    border-radius: $large-border-radius;
+    padding: $tiny-spacing $small-spacing;
+    line-height: 1;
+    letter-spacing: 1px;
+    color: lighten($colour, 75%) !important;
+    font-size: rem(14);
+  }
+}
