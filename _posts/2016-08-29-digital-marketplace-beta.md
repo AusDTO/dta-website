@@ -9,8 +9,7 @@ thumbnail: /images/blog-thumbnails/digital_marketplace_thumb.png
 searchexcerpt:
 ---
 
-![Paul Shetler with Angus Taylor and Digital Marketplace Team]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
-*Caption: Paul Shetler with Angus Taylor and Digital Marketplace Team*
+![The Digital Marketplace]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 Today marks the next stage in the creation of DTO’s Digital Marketplace, with [the release of the Beta](https://gov.au/marketplace) – meaning we have started to transform how government buys digital and technology services. It is now easier for businesses to sell their services to government.
 
