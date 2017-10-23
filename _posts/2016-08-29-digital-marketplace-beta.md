@@ -4,9 +4,9 @@ title: Digital Marketplace goes to Beta
 author: Catherine Thompson
 category: blog
 tag: [dto-news, "digital marketplace"]
-hero-image: /images/blog-content/marketplace-hero.jpg
-thumbnail: /images/blog-thumbnails/marketplace-thumb.jpg
-searchexcerpt: 
+hero-image: /images/blog-content/digital_marketplace_hero.png
+thumbnail: /images/blog-thumbnails/digital_marketplace_thumb.png
+searchexcerpt:
 ---
 
 ![Paul Shetler with Angus Taylor and Digital Marketplace Team]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
