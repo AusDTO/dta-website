@@ -4,39 +4,25 @@ title: List of contracts
 permalink: /who-we-are/corporate/contracts/
 localnav: who-we-are
 redirect_from: /contracts/
-lede: Senate Order for Department and Agency lists of contracts.
-searchexcerpt: "Find a list of contracts entered into by the Digital Transformation Agency, with a consideration to the value of $100,000 or more, that have not been fully performed in the reporting period, or were entered into during the reporting period."
+lede: The Senate Order for entity contracts requires non-corporate Commonwealth Entities to list all procurement contracts of $100,000 or more on the AusTender website, and list non-procurement contracts on their entity websites.
+searchexcerpt: "A list of contracts entered into by the Digital Transformation Agency, with a consideration to the value of $100,000 or more, that have not been fully performed in the reporting period, or were entered into during the reporting period."
 ---
 
-This is a list of contracts entered into by the Digital Transformation Agency, with a consideration to the value of $100,000 or more, that have:
+## Senate Order for entity contracts – 30 June 2016 to 31 July 2017
 
-* not been fully performed in the reporting period, or
-* were entered into during the reporting period.
+You can find a list of our procurement contracts on the (AusTender Senate Order Report)[https://www.tenders.gov.au/?event=public.senateOrder.list]. This is a list of contracts entered into by the Digital Transformation Agency that have:
 
-## 1 January 2016 – 31 December 2016
+- a value of $100 000 or more
+- not been fully performed in the reporting period or were entered into during the reporting period
 
-### Procurement Contracts
+## Non-procurement contracts
 
-Digital Transformation Agency procurement contracts are available through the [AusTender Senate Order Report](https://www.tenders.gov.au/?event=public.senateOrder.list) located on the [AusTender](https://www.tenders.gov.au/) website.
+No non-procurement contracts were entered into by the Digital Transformation Agency during the reporting period.
 
-### Non-Procurement Contracts
+## Estimated cost of complying with this order
 
-#### Nil response
+$500
 
-The Digital Transformation Agency reports a **nil response** for this period. No Non-Procurement Contracts were entered into by the Digital Transformation Agency during the reporting period.
-
-#### Estimated cost of complying with this order
-
-$618.50
-
-#### Method used to estimate the cost
+## Method used to estimate the cost
 
 Applying average salary and on-costs to the number of hours spent by staff across various classifications to collect and analyse the information.
-
-## Why we publish this information
-
-On 20 June 2001, the Senate agreed to an Order requiring each Minister to table a letter advising that a list of contracts in respect of each entity administered by that Minister has been placed on the Internet, with access to the list through the entity home page.
-
-The letter must be tabled no later than two calendar months after the end of the calendar and financial years.
-
-An amendment to the Order of 14 May 2015 requires all procurement contracts be listed in a report on the AusTender website, with non-procurement contracts to be listed on entity websites.
