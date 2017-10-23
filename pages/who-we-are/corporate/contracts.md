@@ -10,7 +10,7 @@ searchexcerpt: "A list of contracts entered into by the Digital Transformation A
 
 ## Senate Order for entity contracts – 30 June 2016 to 31 July 2017
 
-You can find a list of our procurement contracts on the (AusTender Senate Order Report)[https://www.tenders.gov.au/?event=public.senateOrder.list]. This is a list of contracts entered into by the Digital Transformation Agency that have:
+You can find a list of our procurement contracts on the [AusTender Senate Order Report](https://www.tenders.gov.au/?event=public.senateOrder.list). This is a list of contracts entered into by the Digital Transformation Agency that have:
 
 - a value of $100 000 or more
 - not been fully performed in the reporting period or were entered into during the reporting period
