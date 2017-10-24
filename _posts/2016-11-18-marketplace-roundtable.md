@@ -37,7 +37,7 @@ Creating more opportunities for conversation between buyers and sellers is somet
 
 We’re also working on modernising contracts. We’ve recently released the digital work order feature that allows for contracts to be created in the Marketplace. The work order allows flexibility over the work and payment approach. In future, we’re also looking at bringing more of the payment steps online with e-Invoicing and procure to pay.
 
-Allowing unsolicited ideas from sellers is [already an option](https://marketplace.service.gov.au/pitch) of our Digital Marketplace Beta release. Admittedly, this is currently only a basic capability, but it’s one we will expand with the creation of our ideation platform.
+Allowing unsolicited ideas from sellers is already an option of our Digital Marketplace Beta release. Admittedly, this is currently only a basic capability, but it’s one we will expand with the creation of our ideation platform.
 
 Improving the visibility of deal flow is something we’re addressing through our metrics and dashboard which will make Digital Marketplace interactions more transparent.
 

@@ -47,7 +47,7 @@ State and territory government:
 - [Service NSW](http://www.service.nsw.gov.au/)
 - [Service Tasmania](http://www.service.tas.gov.au/)
 - [Queensland Government One-Stop Shop](http://www.qld.gov.au/dsitia/initiatives/one-stop-shop/)
-- [Victoria Services](http://www.vic.gov.au/services.html)
+- [Victoria Services](https://www.vic.gov.au/services.html)
 
 International government:
 
