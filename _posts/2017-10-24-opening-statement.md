@@ -72,7 +72,3 @@ We’re continuing to roll out Digital Service Standard training across the publ
 We’re bringing in fresh talent to the public service through the whole-of-government ICT entry level programs that we now manage. We expect to place about 170 ICT graduates, cadets and apprentices in departments and agencies in the coming year.
 
 We’ve also set aside space in our Sydney and Canberra offices where we can collaborate with the private sector and external experts, and offer agencies training and hands-on learning opportunities to transform government services using new approaches and methodologies.
-
-I thank the senators for allowing me the opportunity to provide an opening statement.
-
-I welcome your questions.
