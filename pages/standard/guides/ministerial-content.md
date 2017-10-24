@@ -11,7 +11,7 @@ topic:
 ---
 Australian Government departments and agencies are guided by the [Australian Public Service (APS) Values](http://www.apsc.gov.au/working-in-the-aps/your-rights-and-responsibilities-as-an-aps-employee). The APS Values require agencies to provide high-quality, professional support to the government on the basis that support is free from political bias and political influence. This includes maintaining its impartial, apolitical, professional nature while maintaining websites.
 
->**Legislative requirement**: APS employees and agency heads have related responsibilities for the control and management of public property and the expenditure of public funds, as set out in the [_Public Governance, Performance and Accountability Act 2013_](https://www.comlaw.gov.au/Details/C2013A00123/).
+>**Legislative requirement**: APS employees and agency heads have related responsibilities for the control and management of public property and the expenditure of public funds, as set out in the [_Public Governance, Performance and Accountability Act 2013_](https://www.legislation.gov.au/Details/C2013A00123/).
 
 ## Agency and ministerial websites
 
