@@ -11,15 +11,15 @@ topic:
 ---
 The collection, use, disclosure and storage of personal information by most Australian Government agencies and some private sector organisations is tightly regulated.
 
-If you do not properly address privacy issues, it can impact on the community’s trust in the Australian Government and undermine the success of your digital service. It may also result in your agency breaching the _[Privacy Act 1988](https://www.comlaw.gov.au/Details/C2015C00279)_ (Privacy Act).
+If you do not properly address privacy issues, it can impact on the community’s trust in the Australian Government and undermine the success of your digital service. It may also result in your agency breaching the _[Privacy Act 1988](https://www.legislation.gov.au/Details/C2015C00089)_ (Privacy Act).
 
 The [Office of the Australian Information Commissioner](http://www.oaic.gov.au/) (OAIC) is responsible for privacy functions under the Privacy Act and other laws. It has a number of privacy regulatory powers, including the power to investigate complaints made by individuals about alleged breaches of the Privacy Act.
 
-The OAIC’s [APP guidelines](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/) outline the mandatory requirements of the Australian Privacy Principles ([APPs](https://www.comlaw.gov.au/Details/C2015C00089/Html/Text#_Toc414890137)), how the OAIC will interpret the APPs, and matters it may take into account when exercising functions and powers under the Privacy Act.
+The OAIC’s [APP guidelines](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/) outline the mandatory requirements of the Australian Privacy Principles ([APPs](https://www.legislation.gov.au/Details/C2015C00089/Html/Text#_Toc414890137)), how the OAIC will interpret the APPs, and matters it may take into account when exercising functions and powers under the Privacy Act.
 
 ## Why must I?
 
->**Legislative requirement**: the [Privacy Act](https://www.comlaw.gov.au/Details/C2015C00279) regulates the handling of personal information about individuals. The Privacy Act contains 13 APPs that set out standards and obligations that apply to most Australian Government agencies when they handle personal information.
+>**Legislative requirement**: the [Privacy Act](https://www.legislation.gov.au/Details/C2015C00279) regulates the handling of personal information about individuals. The Privacy Act contains 13 APPs that set out standards and obligations that apply to most Australian Government agencies when they handle personal information.
 
 ## How do I?
 
