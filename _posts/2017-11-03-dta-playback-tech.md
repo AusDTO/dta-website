@@ -4,7 +4,7 @@ category: [blog]
 tags:
   - dta playback
 thumbnail: /images/blog-thumbnails/Playback-tiles-V2-THUMB.png
-searchexcerpt: From diffs and databases to A/B coding, our latest DTA playback takes a look at some of our [tech blogs](https://www.dta.gov.au/tags/technology/) from the archives. 
+searchexcerpt: From diffs and databases to A/B coding, our latest DTA playback takes a look at some of our tech blogs
 
 ![A monotone image tile with the words white grey black and the dta logo.]({{ site.url }}{{ site.baseurl }}/images/blog-thumbnails/whitegreyblack_thumb.png)
 
