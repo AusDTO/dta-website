@@ -60,7 +60,7 @@ If you are looking to purchase SAP products or services, you can get in touch us
 
 ## Get in touch
 
-You can send any questions about this arrangement to [ICTprocurement@dta.gov.au](mailto:ICTprocurement@dta.gov.au) or call (02) 6215 1597.
+You can send any questions about this arrangement to [ICTprocurement@dta.gov.au](mailto:ICTprocurement@dta.gov.au) or call (02) 6120 8705.
 
 ## Policy information
 
