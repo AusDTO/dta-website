@@ -18,8 +18,8 @@ You can also use a feed for a specific [tag]({{site.baseurl}}/tags/):
 
     {% for tag in tag_words %}
       {% unless tag == '' %}
-        {% assign feed = '/feed-' | append: tag || append:'.xml' %}
-  <li><a href="{{site.url}}{{ site.baseurl }}{{ feed }}">{{site.url}}{{ site.baseurl }}{{ feed }}</a></li>
+        {% assign feed = '/feed-' | append: tag | append:'.xml' %}
+          <li><a href="{{site.url}}{{ site.baseurl }}{{ feed }}">{{site.url}}{{ site.baseurl }}{{ feed }}</a></li>
       {% endunless %}
     {% endfor %}
 </ul>
