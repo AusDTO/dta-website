@@ -31,7 +31,7 @@ lede: The SAP arrangement aims to make it easier for agencies to purchase SAP pr
       </a>
     </li>
     <li>
-      <a href="#legal-and-policy-information">
+      <a href="#policy-information">
         Legal and policy information
       </a>
     </li>
