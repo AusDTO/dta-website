@@ -40,9 +40,9 @@ lede: The SAP arrangement aims to make it easier for agencies to purchase SAP pr
 
 ## Who is this for?
 
-The SAP whole of government arrangement is mandatory for non-corporate Commonwealth entities when they  decide to purchase SAP products and services. 
+The SAP whole of government arrangement is mandatory for non-corporate Commonwealth entities when they decide to purchase SAP products and services. 
 
-Corporate Commonwealth entities may choose to join  this arrangement. 
+Corporate Commonwealth entities may choose to join this arrangement. 
 
 ## Products and services included
 
@@ -56,11 +56,11 @@ The SAP services that are included in this arrangement are:
 
 For non-corporate Commonwealth entities that already use SAP, this arrangement covers your existing contracts. 
 
-If you looking to purchase SAP products or services, you can get in touch using the details below. 
+If you are looking to purchase SAP products or services, you can get in touch using the details below. 
 
 ## Get in touch
 
-You can any questions about this arrangement to [ICTprocurement@dta.gov.au](mailto:ICTprocurement@dta.gov.au) or call (02) 6215 1597.
+You can send any questions about this arrangement to [ICTprocurement@dta.gov.au](mailto:ICTprocurement@dta.gov.au) or call (02) 6215 1597.
 
 ## Policy information
 
