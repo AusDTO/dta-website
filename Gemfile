@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 ruby '2.3.3'
 
-gem 'jekyll'
-gem 'kramdown'
+gem 'jekyll', '3.5.1'
+gem 'kramdown', '1.12.0'
 gem 'jekyll-assets'
 gem 'jekyll-redirect-from'
 gem 'jekyll-sitemap'
