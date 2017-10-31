@@ -42,7 +42,7 @@ lede: The SAP arrangement aims to make it easier for agencies to purchase SAP pr
 
 The SAP whole of government arrangement is mandatory for non-corporate Commonwealth entities when they decide to purchase SAP products and services. 
 
-Corporate Commonwealth entities may choose to join this arrangement. 
+Corporate Commonwealth entities can choose to join this arrangement. 
 
 ## Products and services included
 
