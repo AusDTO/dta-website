@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 ruby '2.3.3'
 
-gem 'jekyll', '3.3.0'
+gem 'jekyll', '3.5.1'
 gem 'kramdown', '1.12.0'
 gem 'jekyll-assets'
 gem 'jekyll-redirect-from'

@@ -28,9 +28,10 @@ collections:
 
 # Build settings
 markdown: kramdown
+
 future: true # posts dated in the future will be published
 
-gems:
+plugins:
   - jekyll-assets
   - jekyll-redirect-from
   - jekyll-sitemap
