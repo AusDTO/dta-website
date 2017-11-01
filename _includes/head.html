@@ -96,8 +96,10 @@
   }
 }
   </script>
+
   {% unless site.url == 'https://www.dta.gov.au' %}
+    <!-- These lines are added on local and staging sites to prevent Google indexing results and to verify the site on Search Console. -->
     <meta name="robots" content="noindex">
+    <meta name="google-site-verification" content="nzOeUJ7ZKJlvq-I3sUWnHMZdGEM75W2H0gSL0jrFsP0" />
   {% endunless %}
-  <meta name="google-site-verification" content="nzOeUJ7ZKJlvq-I3sUWnHMZdGEM75W2H0gSL0jrFsP0" />
 </head>
