@@ -23,10 +23,10 @@ case "${GITBRANCH}" in
     export DTA_SITE_URL="https://www.dta.gov.au"
     ;;
   develop)
-    export DTA_SITE_URL="https://dta.apps.staging.digital.gov.au"
+    export DTA_SITE_URL="https://${CIRCLE_PROJECT_REPONAME}.apps.y.cld.gov.au"
     ;;
   ${DEPLOY_BRANCHES})
-    export DTA_SITE_URL="https://${CF_PUSH_APPNAME}.apps.staging.digital.gov.au"
+    export DTA_SITE_URL="https://${CF_PUSH_APPNAME}.apps.y.cld.gov.au"
     ;;
   *)
     if [[ -n ${CIRCLECI+x} ]]
@@ -37,7 +37,7 @@ case "${GITBRANCH}" in
       export DTA_SITE_BASEURL="/${CIRCLE_NODE_INDEX}${HOME}/${CIRCLE_PROJECT_REPONAME}/_site"
     else
       # Assume the site is being built locally for cloud foundry
-      export DTA_SITE_URL="https://${CF_PUSH_APPNAME}.apps.staging.digital.gov.au"
+      export DTA_SITE_URL="https://${CF_PUSH_APPNAME}.apps.y.cld.gov.au"
     fi
     ;;
 esac

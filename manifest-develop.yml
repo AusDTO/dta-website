@@ -5,7 +5,9 @@ instances: 1
 memory: 64M
 disk_quota: 1G
 buildpack: staticfile_buildpack
-host: dta
+host: dta-website
 applications:
-- name: dta-blue
-- name: dta-green
+- name: dta-website-blue
+- name: dta-website-green
+env:
+  FORCE_HTTPS: true
