@@ -13,3 +13,5 @@ domains:
 applications:
 - name: dta-site-blue
 - name: dta-site-green
+env:
+  FORCE_HTTPS: true

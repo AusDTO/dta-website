@@ -9,3 +9,5 @@ host: dta-website
 applications:
 - name: dta-website-blue
 - name: dta-website-green
+env:
+  FORCE_HTTPS: true
