@@ -3,7 +3,8 @@ title: "DTA Playback — tech"
 category: [blog]
 tags:
   - dta playback
-thumbnail: /images/blog-thumbnails/Playback-tiles-V2-THUMB.png
+thumbnail: /images/blog-thumbnails/playback3-thumb.png
+twitter-image: /images/blog-twitter/playback3-Twitter.png
 searchexcerpt: From database diffs to the ABCs of A/B coding, we playback some tech blogs from our archives.
 ---
 
