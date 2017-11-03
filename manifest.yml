@@ -5,5 +5,4 @@ instances: 1
 memory: 64M
 disk_quota: 1G
 buildpack: staticfile_buildpack
-env:
-  FORCE_HTTPS: true
+
