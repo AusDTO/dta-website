@@ -1,34 +1,49 @@
 ---
 layout: basic
 title: "Content strategy"
-lede: "We're helping government teams to better manage, remove and improve the quality of government content so that it’s simpler, clearer and faster."
+lede: "Helping to better manage, remove and improve the quality of government content so that online information is simpler and clearer."
 permalink: /what-we-do/policies-and-programs/content-strategy/
 redirect_from: /our-work/gov-au/
 redirect_from: /what-we-do/platforms/govau/
 localnav: what-we-do
 searchexcerpt: "We're helping government teams to better manage, remove and improve the quality of government content so that it’s simpler, clearer and faster."
+hero-image: /images/blog-content/GOV.AU working group-6.jpg
 ---
 
 ## A content strategy --- by government, for government
 
-The DTA has come together with over 30 government agencies to co-create guidance that helps government teams to implement their own content strategies, to help get their digital estates in order. 
+The DTA has come together with 40  government agencies to co-create this guidance. The aim is to help Australian government teams manage their digital estate.
 
-This work builds on work already being done across government to improve information and services for users and taps into valuable public service expertise. It is part of the DTA’s vision to make it easier for users to get things done with government --- without needing to know how government is structured.
+This builds on work across government to improve information and services for users. It is part of DTA’s vision to make it easier to interact with government.
 
-## Guidance that addresses government needs
+![Content strategy team member presenting to monthly working group.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-Released iteratively in [an Agile way](https://www.dta.gov.au/standard/design-guides/agile/), the content strategy guidance:
+*Caption: Our monthly working group forum involves representatives from all levels of government.*
 
-- includes best practice advice for the creation, delivery and management of useful and usable content
+### Now available
 
-- addresses the daily challenges that stop many agencies from publishing clear, user-centered content
+The content strategy guidance is being delivered in phases, using agile delivery methods. The following modules (beta) are now available. More guidance will be released soon.
 
-- encourages agencies to reduce and regularly maintain the size of their digital estates, making it easier for users to find what they need, when they need it
+### [Governing content](https://guides.service.gov.au/governing-content/)
 
-- covers a range of topics including content auditing, removing content, creating accessible content, user-centred content, Search Engine Optimisation (SEO), content governance (workflows, sign-offs and publishing check-points) and more.
+Guidance to help your agency align the goals of your content strategy and meet government requirements for quality content.
 
-We are regularly releasing topics. [See what’s available](https://guides.service.gov.au/content-strategy/)
+### [Content auditing](https://guides.service.gov.au/content-strategy/content-auditing/)
 
-## Want to be a part of this content strategy?
+With millions of gov.au web pages, we need to reduce the clutter. A content audit is where we begin.
 
-Government teams who would like to be involved in the creation, research and feedback of the content strategy guidance are welcome to join our working group. Please email [content.workgroup@digital.gov.au](mailto:content.workgroup@digital.gov.au)
+### [Removing content](https://guides.service.gov.au/content-strategy/removing-content/)
+
+Remove unwanted and out-of-date content.
+
+### [Getting buy-in](https://guides.service.gov.au/content-strategy/getting-buy-in/)
+
+Get support from the top level of your organisation to improve content and workflow.
+
+### [Creating user-centred content](https://guides.service.gov.au/creating-user-centred-content/)
+
+Create content that your users will find valuable and easy to use.
+
+## Want to be part of this content strategy guidance?
+
+Government teams who would like to join the working group can email [content.workgroup@digital.gov.au](mailto:content.workgroup@digital.gov.au)
