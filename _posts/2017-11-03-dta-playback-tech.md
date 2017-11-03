@@ -4,14 +4,14 @@ category: [blog]
 tags:
   - dta playback
 thumbnail: /images/blog-thumbnails/Playback-tiles-V2-THUMB.png
-searchexcerpt: From database diffs to the ABCs of A/B coding, our latest DTA playback takes a look at some of our tech blogs from the archives.
+searchexcerpt: From database diffs to the ABCs of A/B coding, we playback some tech blogs from our archives.
 ---
 
 ![A monotone image tile with the words white grey black and the dta logo.]({{ site.url }}{{ site.baseurl }}/images/blog-thumbnails/whitegreyblack_thumb.png)
 
 ## [Which box is best?](https://www.dta.gov.au/blog/which-box-is-best/)
 
-We explore the terms white, grey and black box in the context of security testing, and explain which method of testing is best.
+We explore the terms white, grey and black box in the context of security testing, and explain which method works.
 
 ***
 
@@ -19,7 +19,7 @@ We explore the terms white, grey and black box in the context of security testin
 
 ## [DTA databases done differently with diffs](https://www.dta.gov.au/blog/databases-done-differently/)
 
-In this post we explain how and why we're trialling a new way to work with database diffs to make our migrations easier and more robust.
+How and why we've trialed a new way to work with database diffs, making our migrations easier and more robust.
 
 ***
 
@@ -27,7 +27,7 @@ In this post we explain how and why we're trialling a new way to work with datab
 
 ## [Security testing in an agile environment](https://www.dta.gov.au/blog/security-testing-in-an-agile-environment/)
 
-Here's how we perform security testing at the DTA — along with the challenges and opportunities our environment brings.
+Here's how we perform security testing along with the challenges and opportunities our environment brings.
 
 ***
 
@@ -35,4 +35,4 @@ Here's how we perform security testing at the DTA — along with the challenges 
 
 ## [A/B coding — show, don't tell](https://www.dta.gov.au/blog/ab-coding/)
 
-In this post we explain a little about A/B coding, and how it allows developers to show rather than tell.
+A little about A/B coding and how it allows developers to show the thing rather than just tell.
