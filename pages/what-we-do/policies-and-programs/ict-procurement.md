@@ -26,8 +26,9 @@ Click straight through to our ICT procurement panels:
 - [Telecommunications Services Panel](http://www.finance.gov.au/policy-guides-procurement/australian-government-telecommunications-arrangements/telecommunications-panels/) SON3386916
 - [Digital Marketplace Panel](https://marketplace.service.gov.au/) SON3413842
 
-## Or for a volume sourcing arrangement?
+## Or software licensing and associated services?
 - [Microsoft](http://www.finance.gov.au/policy-guides-procurement/mvsa/)
+- [SAP](/what-we-do/policies-and-programs/ict-procurement/sap-arrangement/)
 
 ## Or need digital or ICT services for your project?
 
