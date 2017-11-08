@@ -6,7 +6,7 @@ profile: "/images/yiannis-godfrey-profile.jpg"
 read-time: 3
 category: blog
 tag: dto-news
-searchexcerpt: Delivery Managers play a key role at the DTO. Yiannis Godfrey reveals what the role of a Delivery Mangager is and what they do.
+searchexcerpt: Delivery Managers play a key role at the DTO. Yiannis Godfrey reveals what the role of a Delivery Manager is and what they do.
 ---
 You might have seen, we’ve been advertising for Delivery Managers. [In fact, we’re looking for one right now]({{ site.url }}{{ site.baseurl }}/careers/).
 
