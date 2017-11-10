@@ -1,6 +1,5 @@
 ---
-layout: guide
-title: API
+title: Application Programming Interfaces (APIs)
 permalink: /standard/design-guides/api/
 lede: Developing services that people can reuse.
 redirect_from: /design-guides/guide/api
