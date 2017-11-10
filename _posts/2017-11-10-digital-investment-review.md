@@ -8,6 +8,8 @@ searchexcerpt: The DTA’s new oversight and advisory role is giving government 
 ---
 ![Image titled portfolio size with the text 72 projects with lifetime value of $7.24 billion across 21 agencies.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
+*Caption: an image showing information about ICT investment across agencies.
+
 Six months into this unprecedented oversight work, the government is gaining insights into where ICT investment is being directed and how those investments are performing.
 
 ## Early insights
