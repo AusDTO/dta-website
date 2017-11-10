@@ -2,8 +2,8 @@
 title: "Oversight delivers early insights"
 category: [news]
 tag: 'dta news'
-thumbnail: /images/blog-thumbnails/dta-logo-thumb.png
-twitter-image: /images/blog-thumbnails/dta-logo-thumb.png
+thumbnail: /images/blog-thumbnails/DIR-thumb.png
+hero-image: /images/blog-content/DIR-Hero.png
 searchexcerpt: The DTA’s new oversight and advisory role is giving government a clearer picture of how major ICT projects are tracking in terms of their health and delivery of benefits. Dr Lesley Seebeck, our Chief Investment and Advisory Officer, talks about the early insights being gained from the data collection work to date.
 ---
 
