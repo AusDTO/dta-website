@@ -20,7 +20,7 @@ Good cyber security strategists understand their job is to minimise harm when th
 
 Standards are a tremendously valuable starting point. They are often based on lessons we have learned the hard way and help us to avoid making the same mistakes again. They can also be updated with new thinking to help organisations prepare for and avoid risks introduced by new technology.
 
-As the industry has gained experience the list of preventative controls has grown. For example, when things have gone wrong, a post incident review will ask 'what would have prevented this?' with the answer being added to the list.
+As the industry has gained experience the list of preventative controls has grown. For example, when things have gone wrong, a post incident review will ask &lsquo;what would have prevented this?&rsquo; with the answer being added to the list.
 
 It’s an approach that makes sense because we all 'know’ prevention is cheaper and more effective than cure. And while a good post incident review also looks at how the incident came to light and how effective the response was, because we 'know' prevention is better that focuses our energy on coming up with ways to avoid the same thing happening again.
 
