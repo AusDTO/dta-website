@@ -12,7 +12,7 @@ searchexcerpt: "In cyber security the use of preventative controls is the ruling
 
 ![A tile with an image of a padlock, the words cyber security and detect vs prevent.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: An image illustrating cyber security.*
+*Caption: An image describing detection and prevention in cyber security.*
 
 Good cyber security strategists understand their job is to minimise harm when the assets they protect are actively targeted by a determined and skilled opponent. That is, cyber security occurs in an adversarial context. This critical point is often misunderstood, but organisations need to consider it when deciding how they allocate their efforts between activities that prevent or detect and respond to cyber intrusions.
 
