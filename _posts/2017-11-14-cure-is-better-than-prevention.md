@@ -3,7 +3,7 @@ title: "When cure is better than prevention"
 category: [blog]
 tag: 'technology'
 author: Clem Colman
-author-excerpt: "Clem Colman is a cyber security adviser at the DTA."
+author-excerpt: "Clem Colman is a cyber security adviser at the DTA. The DTA's cyber security unit works with Australian Government agencies to improve cyber security posture through review, collaboration and innovation."
 thumbnail: /images/blog-thumbnails/Cyber_thumb.png
 hero-image: /images/blog-content/Cyber_hero.png
 twitter-image: /images/blog-twitter/Cyber_twitter.png
@@ -18,11 +18,11 @@ Good cyber security strategists understand their job is to minimise harm when th
 
 ## Preventative controls are good but...
 
-Standards are a tremendously valuable starting point.  They are often based on lessons we have learned the hard way and help us to avoid making the same mistakes again. They can also be updated with new thinking to help organisations prepare for and avoid risks introduced by new technology.
+Standards are a tremendously valuable starting point. They are often based on lessons we have learned the hard way and help us to avoid making the same mistakes again. They can also be updated with new thinking to help organisations prepare for and avoid risks introduced by new technology.
 
-As the industry has gained experience the list of preventative controls has grown. For example, when things have gone wrong, a post incident review will ask “what would have prevented this?” with the answer being added to the list.
+As the industry has gained experience the list of preventative controls has grown. For example, when things have gone wrong, a post incident review will ask 'what would have prevented this?' with the answer being added to the list.
 
-It’s an approach that makes sense because we all ‘know’ prevention is cheaper and more effective than cure. And while a good post incident review also looks at how the incident came to light and how effective the response was, because we 'know' prevention is better that focuses our energy on coming up with ways to avoid the same thing happening again.
+It’s an approach that makes sense because we all 'know’ prevention is cheaper and more effective than cure. And while a good post incident review also looks at how the incident came to light and how effective the response was, because we 'know' prevention is better that focuses our energy on coming up with ways to avoid the same thing happening again.
 
 There are now lots of preventative controls. This isn’t a bad thing, but the reality for many organisations is they exhaust their resources before they can implement every control on the list.
 
@@ -30,19 +30,19 @@ The fact cyber security managers don’t have enough budget to do everything the
 
 ## The bad guys like easy wins too
 
-If, for whatever reason, your organisation becomes a target for a cyber adversary they will develop an attack plan which disarms or bypasses as many of your defences as possible. To take this threat seriously is to understand you are dealing with a thinking human being who will seek to target your organisation where it is weakest. As Chinese military strategist and philosopher Sun Tzu  put it “You may advance and be absolutely irresistible, if you make for the enemy's weak points”. 
+If, for whatever reason, your organisation becomes a target for a cyber adversary they will develop an attack plan which disarms or bypasses as many of your defences as possible. To take this threat seriously is to understand you are dealing with a thinking human being who will seek to target your organisation where it is weakest. As Chinese military strategist and philosopher Sun Tzu  put it 'You may advance and be absolutely irresistible, if you make for the enemy's weak points'. 
 
 Watching some of the best penetration (pen) testers work, they are frighteningly good at rendering most of your security investment irrelevant by carefully choosing their tactics and targeting weak spots.
 
 ## What’s wrong here?
 
-Often I see customers respond to a pen tester finding weaknesses by asking the question “how do we prevent this?” It’s a fair question but I think it misses a greater point. As I noted in “A Slice of Reality” pen testers are going to pick one angle and attack you through it. But chances are this wasn’t their only point of attack. And when customers are asking themselves how they could have prevented an attack, they should probably ask “why didn’t we detect this?” first.
+Often I see customers respond to a pen tester finding weaknesses by asking the question 'how do we prevent this?'. It’s a fair question but I think it misses a greater point. As I noted in 'A Slice of Reality' pen testers are going to pick one angle and attack you through it. But chances are this wasn’t their only point of attack. And when customers are asking themselves how they could have prevented an attack, they should probably ask 'why didn’t we detect this?' first.
 
 The idea prevention is better than a cure appears to be the product of three key beliefs:
 
-1. Prevention is more effective and economical
-2. Preventative controls are based on learned experience making them the best response
-3. It is possible to predict the paths an adversary will use to attack and block them off
+1. Prevention is more effective and economical.
+2. Preventative controls are based on learned experience making them the best response.
+3. It is possible to predict the paths an adversary will use to attack and block them off.
 
 I suspect our belief in prevention is founded in its everyday application to environmental risks (e.g. medicine, health and safety), where it is very effective. However,  slippery floors don’t willfully try to trip people up. 
 
@@ -77,5 +77,3 @@ Building a credible detection and response capability is something I’ll discus
 ## Takeaway
 
 I’m not suggesting cyber security strategists abandon preventative controls. However, I become more and more convinced we have the emphasis in the wrong place and need to pivot more of our resources to building better detection and response capabilities.
-
-*The DTA's cyber security unit works with Australian Government agencies to improve cyber security posture through review, collaboration and innovation.*
