@@ -9,7 +9,7 @@ searchexcerpt: This opening statement was tabled by our Chief Executive Officer 
 
 Good evening senators and thank you for the opportunity to appear before you today.  
 
-I would like to add a short opening statement to the one that I tabled at the last hearing.
+I would like to add a short opening statement to the one that I tabled at the [last hearing](https://www.dta.gov.au/news/opening-statement/).
 
 I want to take this opportunity to briefly share my perspectives on digital transformation after six months in the CEO role.
 
