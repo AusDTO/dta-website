@@ -12,11 +12,11 @@ I would like to add a short opening statement to the one that I tabled at the [l
 
 I want to take this opportunity to briefly share my perspectives on digital transformation after six months in the CEO role.
 
-As the committee may well be aware, I have worked in the financial services sector for 30 years and more notably, in the latter years, led large scale and complex whole-of-business transformation programs.  
+As the committee may well be aware, I have worked in the financial services sector for 30 years, and more notably, in the latter years, led large scale and complex whole-of-business transformation programs.  
 
 These programs all had similar ambitions to that of the federal government.
 
-Firstly, to support the desire of individuals and businesses to be able to do more digitally – to be empowered to access the information and services they need at a time, place and method of their choosing.
+Firstly, to support the desire of individuals and businesses to be able to do more digitally --- to be empowered to access the information and services they need at a time, place and method of their choosing.
 
 Secondly, to have an improved service experience that is easy, accessible, safe and secure.
 
