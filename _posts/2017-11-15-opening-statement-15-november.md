@@ -2,8 +2,7 @@
 title: "Senate Estimates opening statement"
 category: [news]
 tag: 'dta news'
-thumbnail: /images/blog-thumbnails/Estimates_Thumb.png
-twitter-image: /images/blog-twitter/Estimates_Twitter.png
+thumbnail: /images/blog-thumbnails/gavin-esimates-green-tie.jpg
 searchexcerpt: This opening statement was tabled by our Chief Executive Officer Gavin Slater at Senate Estimates on 15 November 2017. 
 ---
 
