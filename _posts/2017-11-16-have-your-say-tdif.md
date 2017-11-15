@@ -25,5 +25,3 @@ Read more about our work on digital identity in our blogs:
 - [Creating a Govpass digital identity](https://www.dta.gov.au/blog/creating-a-govpass-digital-identity/)
 - [New national digital identity standards](https://www.dta.gov.au/news/digital-identity-standards/)
 - [Govpass --- privacy by design](https://www.dta.gov.au/blog/govpass-privacy-by-design/)
-
-Read Assistant Minister Taylor’s media release 
