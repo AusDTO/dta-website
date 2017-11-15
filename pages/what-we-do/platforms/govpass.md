@@ -49,4 +49,4 @@ You can see more in our latest blogs:
 - [Making online access simple and secure](https://www.dta.gov.au/blog/govpass/)
 
 
-You can now [have your say on the draft Trusted Digital Identity Framework](https://engage-digital.engagementhub.com.au/). Consultation will be open until 8 December 2017.
+You can now [have your say on the draft Trusted Digital Identity Framework](https://engage.digital.gov.au/). Consultation will be open until 8 December 2017.
