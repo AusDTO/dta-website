@@ -6,7 +6,7 @@ thumbnail: /images/blog-thumbnails/Tiles - TDIF consultation - thumbnail 2.png
 twitter-image: /images/blog-twitter/Tiles - TDIF consultation - Twitter.png
 ---
 
-The DTA is looking for your [feedback](https://engage.digital.gov.au) on our draft Trusted Digital Identity Framework.
+The DTA is looking for your [feedback](https://engage-digital.engagementhub.com.au/) on our draft Trusted Digital Identity Framework.
 
 The framework outlines the important rules and standards for the government’s digital identity program, Govpass. 
 
@@ -18,7 +18,7 @@ There are 14 key documents that make up the framework. These detail requirements
 
 It is essential that we spend the time to get the framework right. It will provide the foundation to make sure we deliver a consistent approach to digital identity across Australia --- for both users and identity providers. 
 
-You can provide [feedback](link https://engage.digital.gov.au) online until Friday 8 December. We’ll be publishing a summary of the feedback we receive as well as how it will be addressed in early 2018.
+You can provide [feedback](https://engage-digital.engagementhub.com.au/) online until Friday 8 December. We’ll be publishing a summary of the feedback we receive as well as how it will be addressed in early 2018.
 
 Read more about our work on digital identity in our blogs:
 
