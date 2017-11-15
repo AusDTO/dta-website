@@ -24,6 +24,6 @@ The Trusted Digital Identity Framework will establish the overarching requiremen
 
 Contact the authentication team: [authentication@dta.gov.au](mailto:authentication@dta.gov.au)
 
-You can now [have your say on the draft Trusted Digital Identity Framework](https://engage-digital.engagementhub.com.au/). Consultation will be open until 8 December 2017.
+You can now [have your say on the draft Trusted Digital Identity Framework](https://engage.digital.gov.au/). Consultation will be open until 8 December 2017.
 
 **Last updated:** 16 November 2017
