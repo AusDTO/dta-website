@@ -1,7 +1,7 @@
 ---
 title: "Digital Marketplace supports smart cities"
 category: [blog]
-tag: 'smart cities'
+tag: 'digital marketplace'
 author: Megan Henry
 author-excerpt: "Megan Henry is the service manager of the Digital Marketplace."
 thumbnail: /images/blog-thumbnails/DTA-smart-cities-THUMB.png
