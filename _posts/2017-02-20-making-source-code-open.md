@@ -84,7 +84,7 @@ Once teams understand more about what open source is, and isn’t, they find the
 
 Security is a very valid reason, but you shouldn't use it as an excuse to close everything. Keeping passwords and keys private helps to keep our user's data private and secure. Not only is it good practice, it's part of the obligation we have in serving the public. Code that doesn't contain these secrets can be shared and reused by others.
 
-There are lots of examples of world class security products that are open source. Talk with your department's [ITSA](http://www.asd.gov.au/publications/Information_Security_Manual_2016_Controls.pdf) (Information Technology Security Advisor) for specific advice.
+There are lots of examples of world class security products that are open source. Talk with your department's [ITSA](https://www.asd.gov.au/infosec/ism/index.htm) (Information Technology Security Advisor) for specific advice.
 
 Many private sector organisations close their code to maintain control of their brand and their user experience, in government, we don’t have those issues.
 
