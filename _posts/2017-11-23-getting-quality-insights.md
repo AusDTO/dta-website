@@ -4,12 +4,13 @@ category: [blog]
 tag: 'digital transformation'
 author: Jo Hill
 author-excerpt: "Jo Hill is a service designer and user researcher at the DTA."
-thumbnail: /images/blog-thumbnails/DTA-smart-cities-THUMB.png
-hero-image: /images/blog-banners/DTA-smart-cities-HERO.png
-twitter-image: /images/blog-twitter/Tiles - TDIF consultation - Twitter.png
+thumbnail: /images/blog-thumbnails/mygov-thumb.png
+hero-image: /images/blog-banners/mygov-hero.png
+twitter-image: /images/blog-twitter/mygov-twitter.png
+facebook-image: /images/blog-facebook/mygov-facebook.png
 searchexcerpt: "Why a good cuppa can give us the insights we need to understand how people experience government. In this blog, we look at user research on one of the federal government’s largest and busiest digital gateways, myGov."
 ---
-![A tile with the words Digital Marketplace supports smart cities.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+![A user tests a website while a researcher looks on.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 After the last round of improvements to myGov in May 2017, I spent four weeks talking to people about how they use the government’s gateway to health, tax and welfare services.
 
@@ -61,7 +62,7 @@ One person told us they would go out to use a public computer for a bunch of ser
 
 On the other hand, we also saw people become flustered as they tried to complete their task. This confirmed that there are more opportunities to make the service simple and easy to use.  
 
-In digital services, the process of testing and improvement never ends and so the work on myGov continues. 
+In digital services, the process of testing and improvement never ends and so the work on myGov continues.
 
 _Individual stories have been adapted to protect personal information. Read our most popular blog on [user research](https://www.dta.gov.au/blog/i-want-a-pony/) and why we say no to [surveys and focus groups](https://www.dta.gov.au/blog/surveys-and-focus-groups/). You can also read about how we’ve [partnered with the Department of Human Services](https://www.dta.gov.au/blog/parterning-to-deliver-better-government-services/) for successive improvements to myGov._
 
