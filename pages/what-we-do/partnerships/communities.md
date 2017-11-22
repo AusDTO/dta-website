@@ -18,7 +18,7 @@ We continue to [expand and update our guidance](https://www.dta.gov.au/standard/
 
 This is a community for people who write, edit or manage content in any part of the Australian government (including state and local government). Members can contribute ideas to the [Content Guide](https://guides.service.gov.au/content-guide/).
 
-[Join the content design community](https://docs.google.com/a/digital.gov.au/forms/d/1FDc92Hb2VXa0DBf03CCOXK2ih5SfF7aNFrFscj7W09s/viewform?edit_requested=true) (you need a ‘gov.au’ email address)
+[Join the content design community](mailto:content@digital.gov.au) (you need a ‘gov.au’ email address)
 
 ## Service design community
 
