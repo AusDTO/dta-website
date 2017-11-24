@@ -3,7 +3,7 @@ title: "Getting quality insights from user research on large scale projects"
 category: [blog]
 tag: 'digital transformation'
 author: Jo Hill
-author-excerpt: "Jo Hill is a service designer and user researcher at the DTA."
+author-excerpt: "Jo Hill is a Service Designer and User Researcher at the DTA."
 thumbnail: /images/blog-thumbnails/mygov-thumb.png
 hero-image: /images/blog-banners/mygov-hero.png
 twitter-image: /images/blog-twitter/mygov-twitter.png
@@ -20,7 +20,7 @@ The thing is government often has numbers-based data. myGov knows how its users 
 
 In the case of myGov, we came up with a plan to meet a really diverse group of people and learn from their experiences.
 
-Rather than ask people to come to a government office, we went to them. With a colleague from the Department of Human Services we hit the road, travelling well over 2,000 kilometres to regional, rural and city locations in four states. We spoke to people of all ages, stages of life and from different cultural and linguistic backgrounds. We also talked to government service teams  that use myGov to access Medicare, Centrelink, the Tax Office and other services.
+Rather than ask people to come to a government office, we went to them. With a colleague from the Department of Human Services we hit the road, travelling well over 2,000 kilometres to regional, rural and city locations in four states. We spoke to people of all ages, stages of life and different cultural and linguistic backgrounds. We also talked to government service teams  that use myGov to access Medicare, Centrelink, the Tax Office and other services.
 
 We were there to work out if upgrades to myGov, including to its navigation and design, had changed things for users. Had they made things easier?
 
@@ -36,7 +36,7 @@ The people we talk to in this way open up every corner of their lives so we expe
 
 Real life interviews with a broad group of users can make all the difference to how you go about designing and delivering digital services.
 
-For this myGov research we worked with the multicultural team in the Department of Human Services to come up with a diversity matrix —-- a tool to list the range of experiences out there and match them against the users we speak to.
+For this myGov research we worked with the multicultural team in the Department of Human Services to come up with a diversity matrix —- a tool to list the range of experiences out there and match them against the users we speak to.
 
 As a result, we talked to people with lots of different perspectives including business owners and people with different levels of employment. We spoke to older people and retirees on pensions, people with mental and physical health conditions, families with different make ups and care situations, people on welfare, people that live in public housing and more.
 
