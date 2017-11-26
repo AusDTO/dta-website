@@ -15,7 +15,8 @@
   <meta name="twitter:site" content="@{{ site.twitter }}" />
 
 {% if page.title %}
-  <title>{{ page.title }} | DTA | Australian Government</title>
+  <title>{{ page.title }} {% if page.assessment-stage %}{{ page.assessment-stage | downcase }} assessment{% endif %} | DTA | Australian Government</title>
+
   <meta property="og:title" content="{{ page.title | xml_escape }}" />
   <meta name="twitter:title" content="{{ page.title | xml_escape }}" />
 {% else %}
