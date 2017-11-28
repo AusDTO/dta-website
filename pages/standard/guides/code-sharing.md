@@ -23,12 +23,6 @@ There are a number of polices that require Australian Government agencies to con
 
 Agencies will need to consider cross-agency and whole-of-government re-use, not just intra-agency re-use. They will also need to ensure they have the appropriate governance structures in place for any shared solutions. The [ICT Customisation and Bespoke Development Policy (PDF 26 KB)](http://www.finance.gov.au/sites/default/files/ICT_Customisation_and_Bespoke_Development_Policy_0.pdf) provides governance principles for cross-agency solution sharing.
 
-Agencies have the ability to publish, discover and consume common capabilities though [GovShare](https://www.govshare.gov.au/). GovShare is an online resource that allows government entities to:
-
-*   publish, discover and access a range of artefacts, such as policies, frameworks, standards and open source software used by Australian Government and state and territory entities
-*   explore ICT services used by Australian Government agencies
-*   contribute to online discussions using the forum. 
-
 Sharing source code supports the development of government off the shelf (GOTS) solutions.
 
 GOTS solutions are those developed by a national or international government agency, or a commercial entity at the agency’s direction, with the eventual implementation in more than one agency. The government agency that initiated the development shares the product with other agencies within a defined arrangement. For example, through a memorandum of understanding. GOTS solutions include solution components, interfaces, and modules (for example, hardware, software, technology, or computer products).
