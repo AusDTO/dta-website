@@ -1,4 +1,6 @@
 ---
+layout: guide
+breadcrumb: APIs
 title: Application Programming Interfaces (APIs)
 permalink: /standard/design-guides/api/
 lede: Developing services that people can reuse.
@@ -18,7 +20,7 @@ APIs allow the public to use government data in new ways, to do new and useful t
 
 By making government data publicly accessible via APIs, it is easier for individuals, businesses and community organisations to find and realise these ‘value adds’.
 
-APIs also make government services reusable by other government products, greatly reducing the overall cost and complexity of introducing new services. 
+APIs also make government services reusable by other government products, greatly reducing the overall cost and complexity of introducing new services.
 
 ## How do I?
 
