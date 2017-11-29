@@ -18,7 +18,7 @@ A [discovery](/standard/service-design-and-delivery-process/) (research) phase i
 
 For more information please contact [stylemanual@digital.gov.au](mailto:stylemanual@digital.gov.au)
 
-You can also find information about writing for the web on our Content Guide.
+You can also find information about writing for the web on our [Content Guide](https://guides.service.gov.au/content-guide/).
 
 ## Finding the 6th edition
 The 6th edition of the _Style manual_ (published in 2002 by John Wiley & Sons, Australia Ltd) is available through retail book outlets.
