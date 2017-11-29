@@ -4,7 +4,7 @@ title: "Style manual – for authors, editors and printers"
 permalink: /what-we-do/policies-and-programs/style-manual/
 localnav: what-we-do
 breadcrumb: "Style manual"
-lede: The <em>Style manual for authors, editors and printers (Style manual)</em> was first published in 1966 by the Commonwealth Government Printing Office. It gives guidance and recommendations for preparing information for publication.
+lede: The <em>Style manual for authors, editors and printers</em> (Style manual) was first published in 1966 by the Commonwealth Government Printing Office. It gives guidance and recommendations for preparing information for publication.
 searchexcerpt: The Style manual for authors, editors and printers (Style manual) was first published in 1966 by the Commonwealth Government Printing Office. It gives guidance and recommendations for preparing information for publication.
 ---
 
