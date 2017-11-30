@@ -3,7 +3,7 @@ title: "Getting quality insights from user research on large scale projects"
 category: [blog]
 tag: 'digital transformation'
 author: Jo Hill
-author-excerpt: "Jo Hill is a Service Designer and user researcher at the DTA."
+author-excerpt: "Jo Hill is a Service Designer and User Researcher at the DTA."
 thumbnail: /images/blog-thumbnails/mygov-thumb.png
 hero-image: /images/blog-banners/mygov-hero.png
 twitter-image: /images/blog-twitter/mygov-twitter.png
