@@ -2,7 +2,7 @@
 title: Buying ICT products for government
 layout: basic
 permalink: /what-we-do/policies-and-programs/ict-procurement/buying/
-searchexerpt: Find out how to buy ICT product and services through coordinated procurement arrangements. 
+searchexerpt: Find out how to buy ICT product and services through coordinated procurement arrangements.
 lede: Buying ICT products and services for your department or agency is made easier through ICT coordinated procurement arrangements. These are set up to save your agency time and money.
 ---
 
@@ -30,7 +30,7 @@ lede: Buying ICT products and services for your department or agency is made eas
       </a>
     </li>
   </ul>
-</nav> 
+</nav>
 
 ## How to buy ICT products and services
 
@@ -43,15 +43,16 @@ If you are a [non-corporate Commonwealth entity](http://www.finance.gov.au/sites
 - [Mobile phones and phone plans](http://finance.gov.au/policy-guides-procurement/australian-government-telecommunications-arrangements/telecommunications-panels/#Mobile_Panel)
 - [Data centre space and services](http://finance.gov.au/tags/data-centres/)
 - [Microsoft software licences](http://finance.gov.au/policy-guides-procurement/mvsa/)
+- [SAP products and services](/what-we-do/policies-and-programs/ict-procurement/sap-arrangement/)
 
-If you want to buy cloud services such as subscription software, cloud-based platforms, cloud storage and supporting services you can use the [Cloud Services Panel](https://www.finance.gov.au/policy-guides-procurement/cloud-services-panel/) --- it is not mandatory. 
+If you want to buy cloud services such as subscription software, cloud-based platforms, cloud storage and supporting services you can use the [Cloud Services Panel](https://www.finance.gov.au/policy-guides-procurement/cloud-services-panel/) --- it is not mandatory.
 
 
-If you’re looking for specialist digital service or purpose-built software you can use the [Digital Marketplace](https://marketplace.service.gov.au/). 
+If you’re looking for specialist digital service or purpose-built software you can use the [Digital Marketplace](https://marketplace.service.gov.au/).
 
 ### Corporate Commonwealth entities or State and Territory governments
 
-If you are a Corporate Commonwealth entity or from a State or Territory government, you can use most coordinated procurement arrangements and the [Digital Marketplace](https://marketplace.service.gov.au/). 
+If you are a Corporate Commonwealth entity or from a State or Territory government, you can use most coordinated procurement arrangements and the [Digital Marketplace](https://marketplace.service.gov.au/).
 
 Microsoft software licences are available through coordinated procurement for federal non-corporate Commonwealth and corporate Commonwealth entities only.
 
@@ -82,13 +83,13 @@ The panels that we manage are:
 
 ### Volume sourcing arrangements
 
-Volume sourcing arrangements let the government combine its purchasing power to get better prices and terms and conditions. This approach is used for commonly used products and services such as [Microsoft](http://finance.gov.au/policy-guides-procurement/mvsa/) licensing. 
+Volume sourcing arrangements let the government combine its purchasing power to get better prices and terms and conditions. This approach is used for commonly used products and services such as [Microsoft](http://finance.gov.au/policy-guides-procurement/mvsa/) licensing.
 
-We are working on setting up new sourcing arrangements to help you save money on other products and services. More information will be provided on the [updates](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-procurement/updates/) page as these arrangements are settled. 
+We are working on setting up new sourcing arrangements to help you save money on other products and services. More information will be provided on the [updates](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-procurement/updates/) page as these arrangements are settled.
 
 ## Digital Marketplace
 
-The Digital Marketplace is a digital environment to make procurement of digital outcomes and specialists easier. There are currently over 500 approved sellers from around Australia. 
+The Digital Marketplace is a digital environment to make procurement of digital outcomes and specialists easier. There are currently over 500 approved sellers from around Australia.
 
 [Learn more about the Digital Marketplace](https://marketplace.service.gov.au/)
 
@@ -100,6 +101,6 @@ We can help you to:
 - manage and sign contracts for some services
 - use the Digital Marketplace
 
-We will share news and updates on our [updates](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-procurement/updates/) page. 
+We will share news and updates on our [updates](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-procurement/updates/) page.
 
 If you need further help, send us an email at [ictprocurement@dta.gov.au](mailto:ictprocurement@dta.gov.au)
