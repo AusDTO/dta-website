@@ -12,7 +12,7 @@ We are proposing the creation of a hardware marketplace to help you buy the hard
 
 The proposed hardware marketplace will allow government entities to buy ICT hardware to support internal business processes. It will include things like storage, network equipment, and technical and logistical services. We’re planning to have some products and services available from June 2018 with more added over time.
 
-Download the [discussion paper (PDF991kb)]({{ site.url }}{{ site.baseurl }}/files/ict-procurement/17-0059_Hardware-Marketplace_WCAG3.pdf) for more details about how the hardware marketplace might work.
+Download the [discussion paper (PDF 991kb)]({{ site.url }}{{ site.baseurl }}/files/ict-procurement/17-0059_Hardware-Marketplace_WCAG3.pdf) for more details about how the hardware marketplace might work.
 
 ## What do you think?
 We’re collecting feedback from our users to make sure this will meet their needs. If you’re a buyer within government or seller who wants to sell ICT hardware to government we’d like to hear from you.
