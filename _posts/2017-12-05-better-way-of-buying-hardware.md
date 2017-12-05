@@ -8,8 +8,6 @@ localnav: what-we-do
 
 At the DTA, we’re always looking for ways to improve the experience of our services for our users. Right now we’re looking at how we can make it easier for government agencies to buy ICT hardware.
  
-We are proposing the creation of a hardware marketplace to help you buy the hardware you need, when you need it.
-
 The proposed hardware marketplace will allow government entities to buy ICT hardware to support internal business processes. It will include things like storage, network equipment, and technical and logistical services. We’re planning to have some products and services available from June 2018 with more added over time.
 
 Download the [discussion paper (PDF 991kb)]({{ site.url }}{{ site.baseurl }}/files/ict-procurement/17-0059_Hardware-Marketplace_WCAG3.pdf) for more details about how the hardware marketplace might work.
