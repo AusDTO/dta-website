@@ -4,10 +4,10 @@ category: [blog]
 tag: 'digital transformation'
 author: Eleanor Ashton
 author-excerpt: "Eleanor Ashton does the blog and social media channels for the DTA."
-thumbnail: /images/blog-thumbnails/ninjas-thumb.png
-hero-image: /images/blog-banners/ninjas-hero.png
-twitter-image: /images/blog-twitter/ninjas-twitter.png
-facebook-image: /images/blog-facebook/ninjas-facebook.png
+thumbnail: /images/blog-thumbnails/capability-leads-thumb.jpg
+hero-image: /images/blog-banners/capability-leads-hero.jpg
+twitter-image: /images/blog-twitter/capability-leads-twitter.jpg
+facebook-image: /images/blog-facebook/capability-leads-facebook.jpg
 searchexcerpt: "These specialists guide our work, create communities, and share good practice. "
 ---
 ![Our capability leads from left to right including Meera Pankhania, Mariam Ibraheim, Gary Broadbent, Ruth Ellison, Vanessa Roarty and Libby Varcoe.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
@@ -28,7 +28,9 @@ The tools of their trade are: our content and service design groups; events incl
 
 ## Meet DTA’s new ninjas
 
-[!Our capability leads from left to right including Meera Pankhania, Mariam Ibraheim, Gary Broadbent, Ruth Ellison, Vanessa Roarty and Libby Varcoe.](/images/blog-content/ninjas-group.)
+![Our capability leads from left to right including Meera Pankhania, Mariam Ibraheim, Gary Broadbent, Ruth Ellison, Vanessa Roarty and Libby Varcoe.](/images/blog-content/capability-leads.jpg)
+
+*Caption: Our capability leads from left to right including Meera Pankhania, Mariam Ibraheim, Gary Broadbent, Ruth Ellison, Vanessa Roarty and Libby Varcoe.*
 
 ## Building capability in the public service
 
@@ -38,7 +40,7 @@ Follow her on [LinkedIn](https://www.linkedin.com/in/vanessa-roarty-10442494/)
 
 Last seen on GovInnovate’s panel about user-centred design on 11 October.
 
-Next appearing at our [joint showcase](https://www.eventbrite.com.au/o/digital-transformation-agency-8025584572) with the [Australian Public Service Commission](http://www.apsc.gov.au/) for digital and HR specialists in government on the morning of Friday 15 December. [Register(https://www.eventbrite.com.au/o/digital-transformation-agency-8025584572)] to come along.
+Next appearing at our [joint showcase](https://www.eventbrite.com.au/o/digital-transformation-agency-8025584572) with the [Australian Public Service Commission](http://www.apsc.gov.au/) for digital and HR specialists in government on the morning of Friday 15 December. [Register](https://www.eventbrite.com.au/o/digital-transformation-agency-8025584572)] to come along.
 
 ## Service design
 
@@ -92,4 +94,4 @@ Next appearing at a DTA-hosted [shareback by the Department of Industry, Innovat
 
 ## Stay in touch
 
-You can follow the DTA on [Twitter](https://twitter.com/DTA) and [LinkedIn](https://www.linkedin.com/company/10051735/admin/updates/) to see what our capability ninjas are up to and get involved. [Sign up to our blog](https://www.dta.gov.au/signup/) to see us work in the open. Bookmark our [Eventbrite](https://www.eventbrite.com.au/o/digital-transformation-agency-8025584572) to see new events as they are added. In the comments, let us know what topics you would like to explore at meetups. If your agency would like to do a shareback for government or there is a major event where you think our leads should speak, you can email [capability-leads@digital.gov.au](mailto:capability-leads@digital.gov.au). 
+You can follow the DTA on [Twitter](https://twitter.com/DTA) and [LinkedIn](https://www.linkedin.com/company/10051735/admin/updates/) to see what our capability ninjas are up to and get involved. [Sign up to our blog](https://www.dta.gov.au/signup/) to see us work in the open. Bookmark our [Eventbrite](https://www.eventbrite.com.au/o/digital-transformation-agency-8025584572) to see new events as they are added. In the comments, let us know what topics you would like to explore at meetups. If your agency would like to do a shareback for government or there is a major event where you think our leads should speak, you can email [capability-leads@digital.gov.au](mailto:capability-leads@digital.gov.au).
