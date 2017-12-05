@@ -24,7 +24,7 @@ This is a community for people who write, edit or manage content in any part of 
 
 This is a community for people who are involved in service design in any part of the Australian government (including state and local government).
 
-[Join the service design community](https://docs.google.com/a/digital.gov.au/forms/d/e/1FAIpQLSew8K2LIZNFI8k1r9a3p6gQuIkuJ8b-7Yl99HI0W_gTZRgjkg/viewform?c=0&w=1)
+[Join the service design community](https://docs.google.com/a/digital.gov.au/forms/d/e/1FAIpQLSew8K2LIZNFI8k1r9a3p6gQuIkuJ8b-7Yl99HI0W_gTZRgjkg/viewform?c=0&w=1) (you need a 'gov.au' email address)
 
 ## P3M community
 
