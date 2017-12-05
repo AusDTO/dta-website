@@ -28,7 +28,7 @@ The tools of their trade are: our content and service design groups; events incl
 
 ## Meet DTA’s new ninjas
 
-![Our capability leads from left to right including Meera Pankhania, Mariam Ibraheim, Gary Broadbent, Ruth Ellison, Vanessa Roarty and Libby Varcoe.](/images/blog-content/capability-leads.jpg)
+![Our capability leads from left to right including Meera Pankhania, Mariam Ibraheim, Gary Broadbent, Ruth Ellison, Vanessa Roarty and Libby Varcoe.]({{ site.url }}{{ site.baseurl }}/images/blog-content/capability-leads.jpg)
 
 *Caption: Our capability leads from left to right including Meera Pankhania, Mariam Ibraheim, Gary Broadbent, Ruth Ellison, Vanessa Roarty and Libby Varcoe.*
 
