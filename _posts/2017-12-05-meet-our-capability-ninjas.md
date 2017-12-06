@@ -10,7 +10,10 @@ twitter-image: /images/blog-twitter/capability-leads-twitter.jpg
 facebook-image: /images/blog-facebook/capability-leads-facebook.jpg
 searchexcerpt: "These specialists guide our work, create communities, and share good practice. "
 ---
-![Our capability leads from left to right including Meera Pankhania, Mariam Ibraheim, Gary Broadbent, Ruth Ellison, Vanessa Roarty and Libby Varcoe.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="Our capability leads from left to right including Meera Pankhania, Mariam Ibraheim, Gary Broadbent, Ruth Ellison, Vanessa Roarty and Libby Varcoe.">
+  <figcaption><p><strong>Caption: Our capability leads from left to right including Meera Pankhania, Mariam Ibraheim, Gary Broadbent, Ruth Ellison, Vanessa Roarty and Libby Varcoe.</strong></p></figcaption>
+</figure>
 
 Capability, noun, the power or ability to do something.
 
@@ -23,10 +26,6 @@ Today is World Ninja Day. While it may have been created by a [burger company](h
 Specialising in service design, product management, content, interaction design and user research, our ninjas will help us help you. They connect, nurture, and champion our people as they work across different products at the DTA and further afield. They also guide our work, create communities and share good practice.
 
 The tools of their trade are: our content and service design groups; events including meetups, drop in clinics, sharebacks and conferences; and good old face time of the non-app kind.
-
-![Our capability leads from left to right including Meera Pankhania, Mariam Ibraheim, Gary Broadbent, Ruth Ellison, Vanessa Roarty and Libby Varcoe.]({{ site.url }}{{ site.baseurl }}/images/blog-content/capability-leads.jpg)
-
-*Caption: Our capability leads from left to right including Meera Pankhania, Mariam Ibraheim, Gary Broadbent, Ruth Ellison, Vanessa Roarty and Libby Varcoe.*
 
 ## Building capability in the public service
 
