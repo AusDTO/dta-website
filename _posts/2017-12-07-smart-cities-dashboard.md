@@ -8,7 +8,7 @@ thumbnail: /images/blog-thumbnails/smart-cities-dashboard-thumb.png
 hero-image: /images/blog-banners/smart-cities-dashboard-hero.png
 twitter-image: /images/blog-twitter/smart-cities-dashboard-twitter.png
 facebook-image: /images/blog-facebook/smart-cities-dashboard-facebook.png
-searchexcerpt: Today we’ve released a new dashboard that tracks the performance of Australia’s largest cities. Product Manager, Mariam Ibraheim shares the story of how the dashboard was developed from paper prototype to working alpha.
+searchexcerpt: Today we’ve released a new dashboard that tracks the performance of Australia’s largest cities. Product Manager, Mariam Ibraheim shares the story of how it was developed from paper prototype to working alpha.
 lede: "We’ve released a new dashboard that tracks the performance of Australia’s largest cities. Product Manager, Mariam Ibraheim, shares the story of how it was developed."
 ---
 <figure>
@@ -19,11 +19,11 @@ The dashboard team has been hard at work designing and building a way to display
 
 Drawing on our expertise in user-centred design, we worked with the Department of the Prime Minister and Cabinet to bring to life around 50 data sets from across 21 cities and one region.
 
-The [National Cities Performance Framework Dashboard](http://smart-cities.dashboard.gov.au/) tracks the similarities and differences between our cities on measures like livability, planning, housing, education and employment — and will help government understand which cities are performing well and which cities need more support.
+The [National Cities Performance Framework Dashboard](http://smart-cities.dashboard.gov.au/) tracks the similarities and differences between our cities on measures like livability, planning, housing, education and employment &mdash; and will help government understand which cities are performing well and which cities need more support.
 
 The dashboard is simple to use, accessible and provides open and transparent information. Users are able to explore data about a specific city or compare how cities perform on a like for like basis.
 
-We had a tight timeframe to build the first iteration of this dashboard. A multidisciplinary team of digital and data visualisation experts —- developers, a user researcher, interaction designer, business analyst, data visualisation expert and a product manager —- released a working alpha in just over two months.
+We had a tight timeframe to build the first iteration of this dashboard. A multidisciplinary team of digital and data visualisation experts &mdash; developers, a user researcher, interaction designer, business analyst, data visualisation expert and a product manager &mdash; released a working alpha in just over two months.
 
 ## Starting with user needs
 
