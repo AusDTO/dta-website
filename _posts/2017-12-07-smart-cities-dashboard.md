@@ -29,7 +29,7 @@ We had a tight timeframe to build the first iteration of this dashboard. A multi
 
 As always, we started this process by looking at what users of this dashboard would actually need.
 
-Although we have already built a number of [dashboards](http://dashboard.gov.au) here at the DTA, finding a solution that allowed users to interact with statistical information about our cities in a simple and meaningful way was a new challenge for us. There’s no point in visualising a whole lot of indicators if no-one can understand or make use of them.
+Although we have already built a number of [dashboards](http://dashboard.gov.au) here at the DTA, finding a solution that allowed users to interact with statistical information about our cities in a simple and meaningful way was a new challenge for us. There’s no point in visualising a whole lot of indicators if noone can understand or make use of them.
 
 Taking a truly user centred approach to product development is one of the key strengths of our [Service Design and Delivery process](/standard/service-design-and-delivery-process/). We made sure that we were testing with users at each step, to learn what worked and didn’t work, and made continuous improvements to the dashboard along the way.
 
@@ -39,11 +39,11 @@ While the data on the dashboard was collected to inform government policy it has
 
 So how did we make it easy for users to understand this large amount of data? How did we make it plain english enough for member of general public to understand, as well as being meaningful to those users who are intimately familiar with the technical details of the data indicators?
 
-Through our research we learned that there was a strong user need to have a single access for information and statistics about our cities.They told us they wanted to see how their city was performing, but also how it compared to other cities.
+Through our research we learned that there was a strong user need to have a single access for information and statistics about our cities. They told us they wanted to see how their city was performing, but also how it compared to other cities.
 
 So that was the brief that we followed, and we set off to create paper prototypes and quickly iterate from this starting point.
 
-When we started to put the prototype in front of users, we heard immediate feedback like “why is this important to me” and “I would be more interested in you showing me where services are in my city”. But as users continued to explore the prototype, they became more engaged in the information and the data being visualised and were able to better connect the dots and tell a story about their city’s performance.
+When we began to put the prototype in front of users, we heard immediate feedback like “why is this important to me” and “I would be more interested in you showing me where services are in my city”. But as users continued to explore the prototype, they became more engaged in the information and the data being visualised and were able to better connect the dots and tell a story about their city’s performance.
 
 ## Thinking about accessibility
 
@@ -55,7 +55,7 @@ The other thing that became really obvious to us was that the dashboard could ha
 
 During our accessibility testing, we spoke to a vision impaired user who found the experience of interacting with the dashboard good. But the biggest takeaway from this interview is that the dashboard can also be used to help vision impaired children learn how to use assistive technologies.
 
-We love hearing stories like this, it helps us to make sure we are continuing to iterate on our dashboard. In fact this is important for all of our dashboard products — to ensure that all users not only have better access to information, but have a meaningful experience at the same time.
+We love hearing stories like this. It helps us to make sure we are continuing to iterate on our dashboard. In fact this is important for all of our dashboards &mdash; ensuring that all users not only have better access to information, but have a meaningful experience at the same time.
 
 ## What’s next?
 
