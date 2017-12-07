@@ -8,7 +8,7 @@ thumbnail: /images/blog-thumbnails/smart-cities-dashboard-thumb.png
 hero-image: /images/blog-banners/smart-cities-dashboard-hero.png
 twitter-image: /images/blog-twitter/smart-cities-dashboard-twitter.png
 facebook-image: /images/blog-facebook/smart-cities-dashboard-facebook.png
-searchexcerpt: Today we’ve released a new dashboard that tracks the performance of Australia’s largest cities. The dashboard’s Product Manager, Mariam Ibraheim shares the story of how the dashboard was developed from paper prototype to working alpha.
+searchexcerpt: Today we’ve released a new dashboard that tracks the performance of Australia’s largest cities. Product Manager, Mariam Ibraheim shares the story of how the dashboard was developed from paper prototype to working alpha.
 lede: "We’ve released a new dashboard that tracks the performance of Australia’s largest cities. Product Manager, Mariam Ibraheim, shares the story of how it was developed."
 ---
 <figure>
