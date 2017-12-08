@@ -12,7 +12,7 @@ searchexcerpt: We’ve released a new dashboard that tracks the performance of A
 lede: "We’ve released a new dashboard that tracks the performance of Australia’s largest cities. Product Manager, Mariam Ibraheim, shares the story of how it was developed."
 ---
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="Tracking Australia's largest cities."><br />
+  <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="Tracking Australia's largest cities"><br />
 </figure>
 
 The dashboard team has been hard at work designing and building a way to display key information and statistics about the largest cities in Australia.
@@ -37,15 +37,17 @@ While the data on the dashboard was collected to inform government policy it has
 
 ## Taking on the challenge
 
-So how did we make it easy for users to understand this large amount of data? How did we make it plain english enough for the general public to understand, as well as being meaningful to those users who are intimately familiar with the technical details of the data indicators?
+So how did we make it easy for users to understand this large amount of data? 
 
 Through our research we learned that there was a strong user need to have a single access for information and statistics about our cities. They told us they wanted to see how their city was performing, but also how it compared to other cities.
 
 So that was the brief that we followed, and we set off to create paper prototypes and quickly iterate from this starting point.
 
-When we began to put the prototype in front of users, we heard immediate feedback like “why is this important to me” and “I would be more interested in you showing me where services are in my city”. But as users continued to explore the prototype, they became more engaged in the information and the data being visualised and were able to better connect the dots and tell a story about their city’s performance.
+When we began to put the prototype in front of users, we heard immediate feedback like 'why is this important to me' and 'I would be more interested in you showing me where services are in my city'. But as users continued to explore the prototype, they became more engaged in the information and the data being visualised and were able to better connect the dots and tell a story about their city’s performance.
 
 ## Thinking about accessibility
+
+>In time, there will be more information about the smart cities, and that’s going to be really useful for people like myself. The smart cities idea has the capacity to really make huge changes for people with a disability.
 
 Our Digital Service Standard not only puts the focus on users and their needs, it also puts a real emphasis on accessibility. For us that means that it was really important to build a dashboard that is [accessible](/standard/9-make-it-accessible/). This means building something that works for everyone, not just the majority of users.
 
