@@ -29,11 +29,11 @@ We had a tight timeframe to build the first iteration of this dashboard. A multi
 
 As always, we started this process by looking at what users of this dashboard would actually need.
 
-Although we have already built a number of [dashboards](http://dashboard.gov.au) here at the DTA, finding a solution that allowed users to interact with statistical information about our cities in a simple and meaningful way was a new challenge for us. There’s no point in visualising a whole lot of indicators if noone can understand or make use of them.
+Although we have already built a number of [dashboards](http://dashboard.gov.au) here at the DTA, finding a solution that allowed users to interact with statistical information about our cities in a simple and meaningful way was a new challenge for us. There’s no point in visualising a whole lot of indicators if no one can understand or make use of them.
 
 Taking a truly user centred approach to product development is one of the key strengths of our [Service Design and Delivery process](/standard/service-design-and-delivery-process/). We made sure that we were testing with users at each step, to learn what worked and didn’t work, and made continuous improvements to the dashboard along the way.
 
-While the data on the dashboard was collected to inform government policy it has a lot of potential for use by researchers, journalists, industry groups and the public. So that’s who we spoke to as we moved through discovery and into alpha.
+While the data on the dashboard was collected to inform government policy, it has a lot of potential for use by researchers, journalists, industry groups and the public. So that’s who we spoke to as we moved through discovery and into alpha.
 
 ## Taking on the challenge
 
