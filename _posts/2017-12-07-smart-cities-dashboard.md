@@ -8,7 +8,7 @@ thumbnail: /images/blog-thumbnails/smart-cities-dashboard-thumb.png
 hero-image: /images/blog-banners/smart-cities-dashboard-hero.png
 twitter-image: /images/blog-twitter/smart-cities-dashboard-twitter.png
 facebook-image: /images/blog-facebook/smart-cities-dashboard-facebook.png
-searchexcerpt: Today we’ve released a new dashboard that tracks the performance of Australia’s largest cities. Product Manager, Mariam Ibraheim shares the story of how it was developed from paper prototype to working alpha.
+searchexcerpt: We’ve released a new dashboard that tracks the performance of Australia’s largest cities. Product Manager, Mariam Ibraheim, shares the story of how it was developed.
 lede: "We’ve released a new dashboard that tracks the performance of Australia’s largest cities. Product Manager, Mariam Ibraheim, shares the story of how it was developed."
 ---
 <figure>
@@ -37,7 +37,7 @@ While the data on the dashboard was collected to inform government policy it has
 
 ## Taking on the challenge
 
-So how did we make it easy for users to understand this large amount of data? How did we make it plain english enough for member of general public to understand, as well as being meaningful to those users who are intimately familiar with the technical details of the data indicators?
+So how did we make it easy for users to understand this large amount of data? How did we make it plain english enough for the general public to understand, as well as being meaningful to those users who are intimately familiar with the technical details of the data indicators?
 
 Through our research we learned that there was a strong user need to have a single access for information and statistics about our cities. They told us they wanted to see how their city was performing, but also how it compared to other cities.
 
@@ -67,3 +67,4 @@ Find out more:
 - [An update on the DTA’s performance dashboard](/news/dashboard-progress/)
 - [How the performance dashboard tracks its own performance](/blog/dashboard-practising-what-we-preach/)
 - [The government’s approach to cities](https://pmc.gov.au/cities)
+- [Assistant Minister Angus Taylor’s media release](https://ministers.pmc.gov.au/taylor/2017/launch-national-cities-performance-framework)
