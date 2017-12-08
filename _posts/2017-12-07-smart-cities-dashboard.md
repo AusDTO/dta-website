@@ -19,7 +19,7 @@ The dashboard team has been hard at work designing and building a way to display
 
 Drawing on our expertise in user-centred design, we worked with the Department of the Prime Minister and Cabinet to bring to life around 50 data sets from across 21 cities and one region.
 
-The [National Cities Performance Framework Dashboard](http://smart-cities.dashboard.gov.au/) tracks the similarities and differences between our cities on measures like livability, planning, housing, education and employment &mdash; and will help government understand which cities are performing well and which cities need more support.
+The [National Cities Performance Framework Dashboard](http://smart-cities.dashboard.gov.au/) tracks the similarities and differences between our cities on measures like planning, housing, education and employment &mdash; and will help government understand which cities are performing well and which cities need more support.
 
 The dashboard is simple to use, accessible and provides open and transparent information. Users are able to explore data about a specific city or compare how cities perform on a like for like basis.
 
