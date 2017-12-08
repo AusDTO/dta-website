@@ -39,7 +39,7 @@ While the data on the dashboard was collected to inform government policy, it ha
 
 So how did we make it easy for users to understand this large amount of data? 
 
-Through our research we learned that there was a strong user need to have a single access for information and statistics about our cities. They told us they wanted to see how their city was performing, but also how it compared to other cities.
+Through our research we learned that there was a strong user need to have a single point for information and statistics about our cities. They told us they wanted to see how their city was performing, but also how it compared to other cities.
 
 So that was the brief that we followed, and we set off to create paper prototypes and quickly iterate from this starting point.
 
