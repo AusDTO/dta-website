@@ -9,7 +9,7 @@ redirect_from:
 searchexcerpt: You can contact us about events, speaking opportunities or send requests directly to one of our teams.
 ---
 
-To help you get a response as soon as possible, please send your enquiry to [info@digital.gov.au](mailto:info@digital.gov.au) or the most appropriate contact listed on this page.
+To help you get a response as soon as possible, please send your enquiry to [info@dta.gov.au](mailto:info@dta.gov.au) or the most appropriate contact listed on this page.
 
 <p class="callout">
 If you’re from a government agency and the topic you’re interested in isn’t listed here, your first point of contact should be your agency’s nominated Digital Transformation Coordinator (DTC).
