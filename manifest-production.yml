@@ -7,10 +7,7 @@ instances: 1
 buildpack: staticfile_buildpack
 no-hostname: true
 domains:
- - www.digital.gov.au
- - www.dta.gov.au
- - prod-pcf-pcf-elb-1876193122.ap-southeast-2.elb.amazonaws.com
+  - www.dta.gov.au
 applications:
 - name: dta-site-blue
 - name: dta-site-green
-
