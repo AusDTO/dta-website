@@ -2,17 +2,18 @@
 layout: annual-report
 title: "4. Financial statements"
 breadcrumb: Financial statements
-permalink: /who-we-are/corporate/annual-report/2015-16/4-financial-statements/
+redirect_from: /who-we-are/corporate/annual-report/2015-16/4-financial-statements/
+permalink: /who-we-are/corporate/annual-report-15-16/4-financial-statements/
 localnav: annual-report-2015-16
 page_group:
   title: Annual Report 2015–16
   nav:
     previous:
       title: 3. Report on organisational performance
-      href: /who-we-are/corporate/annual-report/2015-16/3-organisational-performance/
+      href: /who-we-are/corporate/annual-report-15-16/3-organisational-performance/
     next:
       title: 5. References
-      href: /who-we-are/corporate/annual-report/2015-16/references/
+      href: /who-we-are/corporate/annual-report-15-16/5-references/
 ---
 
 <nav class="index-links">
@@ -20,7 +21,7 @@ page_group:
   <ul>
     <li><a href="#independent-auditors-report">Independent auditor’s report</a></li>
     <li><a href="#statement-by-the-chief-executive-officer-and-chief-financial-officer">Statement by the Chief Executive Officer and Chief Financial Officer</a></li>
-    <li><a href="#statement-of-comprehensive-income">Statement of comprehensive income</a></li> 
+    <li><a href="#statement-of-comprehensive-income">Statement of comprehensive income</a></li>
     <li><a href="#statement-of-financial-position">Statement of financial position</a></li>
     <li><a href="#statement-of-changes-in-equity">Statement of changes in equity</a></li>
     <li><a href="#cash-flow-statement">Cash flow statement</a></li>
@@ -30,7 +31,7 @@ page_group:
 
 {% include hx.html lvl=2 text="Independent auditor’s report" hide-back-to-top=1%}
 
-[Read the full text version of the independent auditor's report](/who-we-are/corporate/annual-report/2015-16/4-financial-statements/auditors-report/)
+[Read the full text version of the independent auditor's report](/who-we-are/corporate/annual-report-15-16/4-financial-statements/auditors-report/)
 
 ![Auditor's Report Page 1. Use above link for the full text version.]({% asset_path DTO_Audit_Opinion %})
 
@@ -45,7 +46,7 @@ In our opinion, at the date of this statement, there are reasonable grounds to b
 <ul class="list-vertical">
   <li><br>
   <figure markdown="1">
-  
+
 ![Paul Shettler's Signature]({% asset_path paul-signature %})
 
 </figure>
@@ -56,10 +57,10 @@ In our opinion, at the date of this statement, there are reasonable grounds to b
 </article>
 </li>
 <li>
-<figure markdown="1"> 
-  
+<figure markdown="1">
+
 ![Lisa Leverton's Signature]({% asset_path Lisa_signature %})
-  
+
 </figure>
 <article markdown="1">  
 **Lisa Leverton**<br>Chief Financial Officer<br>15 September 2016
@@ -420,7 +421,7 @@ for the period ended 30 June 2016
 <div class="horizontal-scroll-table-container">
   <table class="content-table financial" summary="Digital Transformation Office
   Statement of changes in equity
-  
+
   for the period ended 30 June 2016">
     <colgroup>
     <col />
@@ -571,7 +572,7 @@ The above statement should be read in conjunction with the accompanying notes.
 <div class="horizontal-scroll-table-container">
   <table class="content-table financial" summary="Digital Transformation Office
   Statement of changes in equity
-  
+
   for the period ended 30 June 2016">
     <colgroup>
     <col />
@@ -690,7 +691,7 @@ The FRR require that distributions to owners be debited to contributed equity un
 
 Departmental contributed equity for 2015–16 was $1.266 million (57%) higher than the estimate published in the 2015–16 Portfolio Budget Statements. This is attributable to $1.500 million of Departmental Capital Budgets received in Appropriation Act 3 2015–16 and $1.992 million of assets assumed as a result of machinery of Government, offset by the return of $2.226 million equity funding following a section 51 quarantine.
 
-Departmental retained earnings for 2015–16 were $2.203 million higher than the estimate published in the 
+Departmental retained earnings for 2015–16 were $2.203 million higher than the estimate published in the
 2015–16 Portfolio Budget Statements. This is mainly attributable to additional Revenue from Government received in additional estimates ($1.370 million) and current year funding for the transfer of function from the Department of Finance ($0.514 million).
 
 The above statement should be read in conjunction with the accompanying notes.
@@ -702,7 +703,7 @@ for the period ended 30 June 2016
 <div class="horizontal-scroll-table-container">
   <table class="content-table financial" summary="Digital Transformation Office
   Cash flow statement
-  
+
   for the period ended 30 June 2016">
     <colgroup>
     <col />
@@ -948,7 +949,7 @@ The financial statements have been prepared in accordance with:
 <div class="notes indented">
   <div markdown="1">
    a. *Public Governance, Performance and Accountability (Financial Reporting) Rule 2015 (FRR)* for reporting periods ending on or after 1 July 2015; and
-   
+
    b. Australian Accounting Standards and Interpretations issued by the Australian Accounting Standards Board (AASB) that apply for the reporting period.
   </div>
 </div>
@@ -980,7 +981,7 @@ There are no known events occurring after the reporting period that could impact
 
 {% include hx.html lvl=4 text="Revenue from Government" %}
 
-Amounts appropriated for departmental appropriations for the year (adjusted for any formal additions 
+Amounts appropriated for departmental appropriations for the year (adjusted for any formal additions
 and reductions) are recognised as Revenue from Government when DTO gains control of the appropriation, except for certain amounts that relate to activities that are reciprocal in nature, in which case revenue is recognised only when it has been earned. Appropriations receivable are recognised at their nominal amounts.
 
 {% include hx.html lvl=3 text="1. Departmental Financial Performance" %}
@@ -1054,7 +1055,7 @@ Accounting policies for employee related expenses is contained in the People and
 <div class="horizontal-scroll-table-container">
   <table class="content-table financial" summary="Digital Transformation Office
   Notes to and forming part of the financial statements
-  
+
   for the period ended 30 June 2016">
     <colgroup>
     <col />
@@ -1569,7 +1570,7 @@ A write-down of $957,000 was recognised in 2016 for Leasehold Improvements for t
 An item of property, plant and equipment is derecognised upon disposal or when no further future economic benefits are expected from its use or disposal.
   </div>
  </div>
-{% include hx.html lvl=5 text="Prepayments" %} 
+{% include hx.html lvl=5 text="Prepayments" %}
 
 <div class="horizontal-scroll-table-container">
   <table class="content-table financial" summary="Note 2.2B: Prepayments">

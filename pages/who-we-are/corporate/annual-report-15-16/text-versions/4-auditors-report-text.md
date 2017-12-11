@@ -1,7 +1,7 @@
 ---
 title: Full text description of the independent auditor's report
 layout: annual-report
-permalink: /who-we-are/corporate/annual-report/2015-16/4-financial-statements/auditors-report/
+redirect_from: /who-we-are/corporate/annual-report/2015-16/4-financial-statements/auditors-report/
 localnav: annual-report-2015-16
 gov-speak: true
 searchexcerpt: Full text description of the Annual Report 2015–16 indepenent auditor's report.
@@ -9,7 +9,7 @@ page_group:
   title: Annual Report 2015–16
 ---
 
-[&larr; Back to Annual Report 2015–16 financial statements](/who-we-are/corporate/annual-report/2015-16/4-financial-statements/#independent-auditors-report)
+[&larr; Back to Annual Report 2015–16 financial statements](/who-we-are/corporate/annual-report-15-16/4-financial-statements/#independent-auditors-report)
 
 **To the Prime Minister**
 
@@ -57,4 +57,4 @@ Australian National Audit Office
  Canberra<br>
  16 September 2016
 
-[&larr; Back to Annual Report 2015–16 financial statements](/who-we-are/corporate/annual-report/2015-16/4-financial-statements/#independent-auditors-report)
+[&larr; Back to Annual Report 2015–16 financial statements](/who-we-are/corporate/annual-report-15-16/4-financial-statements/#independent-auditors-report)

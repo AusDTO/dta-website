@@ -1,13 +1,13 @@
 ---
 title: Full text description of the letter of transmittal
 layout: annual-report
-permalink: /who-we-are/corporate/annual-report/2015-16/cover-letter/letter-of-transmittal/
+redirect_from: /who-we-are/corporate/annual-report/2015-16/cover-letter/letter-of-transmittal/
 localnav: annual-report-2015-16
 gov-speak: true
 searchexcerpt: Full text description of the Annual Report 2015–16 cover letter of transmittal.
 ---
 
-[&larr; Back to Annual Report 2015–16 cover letter](/who-we-are/corporate/annual-report/2015-16/cover-letter/#letter-of-transmittal)
+[&larr; Back to Annual Report 2015–16 cover letter](/who-we-are/corporate/annual-report-15-16/cover-letter/#letter-of-transmittal)
 
 The Hon Angus Taylor MP<br>
 Assistant Minister for Cities and Digital Transformation<br>
@@ -31,4 +31,4 @@ Chief Executive Officer
 
 21  October 2016
 
-[&larr; Back to Annual Report 2015–16 cover letter](/who-we-are/corporate/annual-report/2015-16/cover-letter/#letter-of-transmittal)
+[&larr; Back to Annual Report 2015–16 cover letter](/who-we-are/corporate/annual-report-15-16/cover-letter/#letter-of-transmittal)
