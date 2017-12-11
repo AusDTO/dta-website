@@ -37,7 +37,7 @@ While the data on the dashboard was collected to inform government policy, it ha
 
 ## Taking on the challenge
 
-So how did we make it easy for users to understand this large amount of data? 
+So how did we make it easy for users to understand this large amount of data?
 
 Through our research we learned that there was a strong user need to have a single point for information and statistics about our cities. They told us they wanted to see how their city was performing, but also how it compared to other cities.
 
@@ -55,7 +55,7 @@ To do this, we put the dashboard in front of real users who use assistive techno
 
 The other thing that became really obvious to us was that the dashboard could have a real impact on people’s lives. The power of bringing rich information and statistics together in a way that was accessible, meant that people had greater access to information that was previously hard to find or is not made available to them in an accessible way.
 
-During our accessibility testing, we spoke to a vision impaired user who found the experience of interacting with the dashboard good. But the biggest takeaway from this interview is that the dashboard can also be used to help vision impaired children learn how to use assistive technologies.
+During our accessibility testing, we spoke to a vision impaired user who found the experience of interacting with the dashboard good. He even thought  the dashboard would be great for school children to use, as it gives them easy to digest and reliable information about cities around Australia.
 
 We love hearing stories like this. It helps us to make sure we are continuing to iterate on our dashboard. In fact this is important for all of our dashboards &mdash; ensuring that all users not only have better access to information, but have a meaningful experience at the same time.
 
