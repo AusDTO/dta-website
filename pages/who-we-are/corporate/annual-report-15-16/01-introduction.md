@@ -181,7 +181,7 @@ The DTO does not administer any legislation.
 
 The structure of the agency at 30 June 2016 is shown in Figure 1.
 
-[Read the full text version of Figure 1 the DTO organisational structure]({{site.baseurl}}/who-we-are/corporate/annual-report-15-16/1-introduction/organisational-structure/).
+[Read the full text version of Figure 1 the DTO organisational structure](/who-we-are/corporate/annual-report-15-16/1-introduction/organisational-structure/).
 
 <figure>
   <img src="{% asset_path org-chart %}" alt="Figure 1 DTO organisational chart, see above for link to full text description">

@@ -2,9 +2,10 @@
 title: Full text description of the independent auditor's report
 layout: annual-report
 redirect_from: /who-we-are/corporate/annual-report/2015-16/4-financial-statements/auditors-report/
+permalink: /who-we-are/corporate/annual-report-15-16/4-financial-statements/auditors-report/
 localnav: annual-report-2015-16
 gov-speak: true
-searchexcerpt: Full text description of the Annual Report 2015–16 indepenent auditor's report.
+searchexcerpt: Full text description of the Annual Report 2015–16 independent auditor's report.
 page_group:
   title: Annual Report 2015–16
 ---
@@ -22,7 +23,7 @@ I have audited the accompanying annual financial statements of the Digital Trans
     <li>Cash Flow Statement; and</li>
     <li>Notes comprising significant accounting policies and other explanatory information.</li>
   </ul>
-  
+
 <em>**Opinion**</em>
 
 In my opinion, the financial statements of the Digital Transformation Office:
@@ -30,10 +31,10 @@ In my opinion, the financial statements of the Digital Transformation Office:
   <ol type="a">
     <li>comply   with   Australian   Accounting   Standards   and   the   <em>Public Governance, Performance and Accountability (Financial Reporting) Rule 2015</em>; and</li>
     <li>present fairly the financial position of the Digital Transformation Office as at 30 June 2016 and its financial performance and cash flows for the year then ended.</li>
-  </ol> 
-  
+  </ol>
+
 <em>**Accountable Authority’s Responsibility for the Financial Statements**</em>
-  
+
 The Chief Executive Officer of the Digital Transformation Office is responsible under the <em>Public Governance, Performance and Accountability Act 2013</em> for the preparation and fair presentation of annual financial statements that comply with Australian Accounting Standards and the rules made under that Act and is also responsible for such internal control as the Chief Executive Officer determines is necessary to enable the preparation and fair presentation of financial statements that are free from material misstatement, whether due to fraud or error.
 
 <em>**Auditor’s Responsibility**</em>
@@ -52,7 +53,7 @@ Australian National Audit Office
 
   John Jones<br>
   Executive Director
-   
+
  Delegate of the Auditor-General<br>
  Canberra<br>
  16 September 2016

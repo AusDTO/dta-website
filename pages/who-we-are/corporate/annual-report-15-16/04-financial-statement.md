@@ -31,7 +31,7 @@ page_group:
 
 {% include hx.html lvl=2 text="Independent auditor’s report" hide-back-to-top=1%}
 
-[Read the full text version of the independent auditor's report](/who-we-are/corporate/annual-report-15-16/4-financial-statements/auditors-report/)
+[Read the full text version of the independent auditor's report](/who-we-are/corporate/annual-report-15-16/4-financial-statements/#auditors-report)
 
 ![Auditor's Report Page 1. Use above link for the full text version.]({% asset_path DTO_Audit_Opinion %})
 

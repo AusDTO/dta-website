@@ -29,4 +29,4 @@ Please find below a full HTML version of the Digital Transformation Office Annua
 5. [References](/who-we-are/corporate/annual-report-15-16/5-references/)
 
 ### PDF version of the Digital Transformation Office Annual Report 2015–16
-[Annual Report 2015–16 (PDF, 90 pages, 1.9MB)]({{ site.url }}{{ site.baseurl }}/files/dto-annual-report-2015-16.pdf)
+[Annual Report 2015–16 (PDF, 90 pages, 1.9MB)]({{ site.url }}{{ site.baseurl }}/files/annual-reports/dto-annual-report-2015-16.pdf)

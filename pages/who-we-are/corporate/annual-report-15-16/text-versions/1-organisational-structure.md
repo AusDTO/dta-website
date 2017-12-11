@@ -1,7 +1,8 @@
 ---
-title: Full text description of Figure 1 the DTO organisational structure 
+title: Full text description of Figure 1 the DTO organisational structure
 layout: annual-report
 redirect_from: /who-we-are/corporate/annual-report/2015-16/1-introduction/organisational-structure/
+permalink: /who-we-are/corporate/annual-report-15-16/1-introduction/organisational-structure/
 searchexcerpt: "Full text description of the Annual Report 2015–16 DTO organisational structure"
 localnav: annual-report-2015-16
 gov-speak: true
