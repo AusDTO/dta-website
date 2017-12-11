@@ -25,14 +25,14 @@ We have also commissioned a series of independent privacy impact assessments to 
 
 ## Collaborating across government and the private sector
 
-This is a complex project and requires a strong legal and organisational framework, so we’re doing a lot of work with other government departments and private sector organisations to make sure we get everything right. 
+This is a complex project and requires a strong legal and organisational framework, so we’re doing a lot of work with other government departments and private sector organisations to make sure we get everything right.
 
-We have recently partnered with Australia Post, to explore how we might integrate Australia Post’s Digital iD into the Govpass program. 
+We have recently partnered with Australia Post, to explore how we might integrate Australia Post’s Digital iD into the Govpass program.
 
-We will work closely with Australia Post to develop standards, processes and policies that will lay the foundations for a federated digital identity system. 
+We will work closely with Australia Post to develop standards, processes and policies that will lay the foundations for a federated digital identity system.
 
-The partnership will focus on building identity solutions that improve people’s access to government services online and in person. 
- 
+The partnership will focus on building identity solutions that improve people’s access to government services online and in person.
+
 ## When will the new changes be available?
 
 We’ll continue to test the new technology and work with our stakeholders over the coming year to get an agreed and consistent framework in place.
@@ -47,6 +47,3 @@ You can see more in our latest blogs:
 
 - [Govpass — Privacy by design](https://www.dta.gov.au/blog/govpass-privacy-by-design/)
 - [Making online access simple and secure](https://www.dta.gov.au/blog/govpass/)
-
-
-You can now [have your say on the draft Trusted Digital Identity Framework](https://engage.digital.gov.au/). Consultation will be open until 8 December 2017.
