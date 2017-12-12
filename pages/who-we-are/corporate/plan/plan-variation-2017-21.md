@@ -129,7 +129,7 @@ We are committed to improving the user experience of government services by work
 
 We have five priorities to help us achieve our purpose. Our deliverables map to these priorities.
 
-{% include hx.html lvl=4 text="Develop a digital transformation roadmap"  hide-back-to-top=1 %}
+#### Develop a digital transformation roadmap
 
 The roadmap will allow the government to identify and fund the digital transformation initiatives that will have the greatest impact on user experiences. Most digital services are designed to address the needs of a single portfolio or agency, but for many people, they will have to contact many different agencies to get one thing done. By tracking user journeys across government, we can assess what digital initiatives to invest in to improve users experience of government.
 
@@ -139,7 +139,7 @@ Deliverables:
 *   Digital transformation roadmap
 *   Digital content and rationalisation strategy
 
-See performance metrics (link)
+[See performance metrics](#develop-a-digital-transformation-roadmap-table)
 
 #### Deliver and improve digital platforms
 
@@ -154,7 +154,7 @@ Deliverables:
 *   Performance Dashboard
 *   data.gov.au and NationalMap
 
-See performance metrics (link)
+[See performance metrics](#deliver-and-improve-digital-platforms-table)
 
 #### Oversee and advise on ICT and digital investment
 
@@ -174,7 +174,7 @@ Deliverables:
 *   Review critical infrastructure risks
 *   Review internet gateway reduction program
 
-See performance metrics (link)
+[See performance metrics](#oversee-and-advise-on-ict-and-digital-investment-table)
 
 #### Transform ICT procurement
 
@@ -186,7 +186,7 @@ Deliverables:
 *   ICT procurement transformation review
 *   Digital Marketplace
 
-See performance metrics (link)
+[See performance metrics](#transform-ict-procurement-table)
 
 #### Build Australian Public Service ICT and digital capability
 
@@ -199,7 +199,7 @@ Deliverables:
 *   Establish the Co-Lab program
 *   ICT skills program
 
-See performance metrics (link)
+[See performance metrics](#build-australian-public-service-ict-and-digital-capability-table)
 
 {% include hx.html lvl=2 text="Deliverables and performance measurement" %}
 
@@ -211,8 +211,9 @@ The performance criteria in this Corporate Plan and the portfolio budget stateme
 
 Appendix A maps our portfolio budget statement outcomes and programs to our purpose and activities.
 
-### Develop a digital transformation roadmap
+{% include hx.html lvl=3 text="Develop a digital transformation roadmap" hide-back-to-top=1 id="develop-a-digital-transformation-roadmap-table" %}
 
+<div class="horizontal-scroll-table-container">
 <table class="content-table">
   <thead>
     <tr style="vertical-align: top;">
@@ -254,11 +255,11 @@ Appendix A maps our portfolio budget statement outcomes and programs to our purp
       </td>
     </tr>
   </tbody>
-</table>
+</table></div>
 
-### Deliver and improve digital platforms
+{% include hx.html lvl=3 text="Deliver and improve digital platforms" hide-back-to-top=1 id="deliver-and-improve-digital-platforms-table"%}
 
-<table class="content-table">
+<div class="horizontal-scroll-table-container"><table class="content-table">
   <thead>
     <tr style="vertical-align: top;">
       <th colspan="1" rowspan="1">Success measures</th>
@@ -345,11 +346,11 @@ Appendix A maps our portfolio budget statement outcomes and programs to our purp
       </td>
     </tr>
   </tbody>
-</table>
+</table></div>
 
-### Oversee and advise on ICT and digital investment
+{% include hx.html lvl=3 text="Oversee and advise on ICT and digital investment" hide-back-to-top=1 id="oversee-and-advise-on-ict-and-digital-investment-table" %}
 
-<table class="content-table">
+<div class="horizontal-scroll-table-container"><table class="content-table">
   <thead>
     <tr style="vertical-align: top;">
       <td colspan="1" rowspan="1">Success measures</td>
@@ -407,11 +408,11 @@ Appendix A maps our portfolio budget statement outcomes and programs to our purp
       </td>
     </tr>
   </tbody>
-</table>
+</table></div>
 
-### Transform ICT procurement
+{% include hx.html lvl=3 text="Transform ICT procurement" hide-back-to-top=1 id="transform-ict-procurement-table" %}
 
-<table class="content-table">
+<div class="horizontal-scroll-table-container"><table class="content-table">
   <thead>
     <tr style="vertical-align: top;">
       <th colspan="1" rowspan="1">Success measures</th>
@@ -440,11 +441,11 @@ Appendix A maps our portfolio budget statement outcomes and programs to our purp
       </td>
     </tr>
   </tbody>
-</table>
+</table></div>
 
-### Build Australian Public Service ICT and digital capability
+{% include hx.html lvl=3 text="Build Australian Public Service ICT and digital capability" hide-back-to-top=1 id="build-australian-public-service-ict-and-digital-capability-table" %}
 
-<table class="content-table">
+<div class="horizontal-scroll-table-container"><table class="content-table">
   <thead>
     <tr style="vertical-align: top;">
       <th colspan="1" rowspan="1">Success measures</th>
@@ -493,7 +494,7 @@ Appendix A maps our portfolio budget statement outcomes and programs to our purp
       </td>
     </tr>
   </tbody>
-</table>
+</table></div>
 
 {% include hx.html lvl=2 text="Growing our capabilities" %}
 
