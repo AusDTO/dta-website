@@ -5,7 +5,7 @@ permalink: /who-we-are/corporate/plan/
 redirect_from: /corporate-plan/
 gov-speak: true
 localnav: who-we-are
-searchexcerpt: "Over the next four years we will work with departments and agencies, not independently of them, to develop solutions together, which can then be shared across the rest of government."
+searchexcerpt: Our corporate plan gives an overview of our priorities, milestones and success measures over 4 years."
 ---
 
 <div class="corporate-plan-container" markdown="1">
@@ -209,7 +209,7 @@ We have identified where baseline data will be collected in 2017–18 to enable 
 
 The performance criteria in this Corporate Plan and the portfolio budget statements will be reported on through our annual performance statement. We will also track our performance internally.
 
-Appendix A maps our portfolio budget statement outcomes and programs to our purpose and activities.
+[Appendix A](#appendix-a-mapping-of-the-departments-portfolio-budget-statements-2017-2018-to-corporate-plan-2017-18) maps our portfolio budget statement outcomes and programs to our purpose and activities.
 
 {% include hx.html lvl=3 text="Develop a digital transformation roadmap" hide-back-to-top=1 id="develop-a-digital-transformation-roadmap-table" %}
 
@@ -217,10 +217,10 @@ Appendix A maps our portfolio budget statement outcomes and programs to our purp
 <table class="content-table">
   <thead>
     <tr style="vertical-align: top;">
-      <th colspan="1" rowspan="1">Success measures</th>
-      <th colspan="1" rowspan="1">Targets for 2017-18</th>
-      <th colspan="1" rowspan="1">Examples of evidence</th>
-      <th colspan="1" rowspan="1">Targets for 2018-19 and beyond</th>
+      <th scope="col" colspan="1" rowspan="1">Success measures</th>
+      <th scope="col" colspan="1" rowspan="1">Targets for 2017-18</th>
+      <th scope="col" colspan="1" rowspan="1">Examples of evidence</th>
+      <th scope="col" colspan="1" rowspan="1">Targets for 2018-19 and beyond</th>
     </tr>
   </thead>
   <tbody>
@@ -262,10 +262,10 @@ Appendix A maps our portfolio budget statement outcomes and programs to our purp
 <div class="horizontal-scroll-table-container"><table class="content-table">
   <thead>
     <tr style="vertical-align: top;">
-      <th colspan="1" rowspan="1">Success measures</th>
-      <th colspan="1" rowspan="1">Targets for 2017-18</th>
-      <th colspan="1" rowspan="1">Examples of evidence</th>
-      <th colspan="1" rowspan="1">Targets for 2018-19 and beyond</th>
+      <th scope="col" colspan="1" rowspan="1">Success measures</th>
+      <th scope="col" colspan="1" rowspan="1">Targets for 2017-18</th>
+      <th scope="col" colspan="1" rowspan="1">Examples of evidence</th>
+      <th scope="col" colspan="1" rowspan="1">Targets for 2018-19 and beyond</th>
     </tr>
   </thead>
   <tbody>
@@ -350,13 +350,14 @@ Appendix A maps our portfolio budget statement outcomes and programs to our purp
 
 {% include hx.html lvl=3 text="Oversee and advise on ICT and digital investment" hide-back-to-top=1 id="oversee-and-advise-on-ict-and-digital-investment-table" %}
 
-<div class="horizontal-scroll-table-container"><table class="content-table">
+<div class="horizontal-scroll-table-container">
+<table class="content-table">
   <thead>
     <tr style="vertical-align: top;">
-      <td colspan="1" rowspan="1">Success measures</td>
-      <td colspan="1" rowspan="1">Targets for 2017-18</td>
-      <td colspan="1" rowspan="1">Examples of evidence</td>
-      <td colspan="1" rowspan="1">Targets for 2018-19 and beyond</td>
+      <th scope="col" colspan="1" rowspan="1">Success measures</td>
+      <th scope="col" colspan="1" rowspan="1">Targets for 2017-18</td>
+      <th scope="col" colspan="1" rowspan="1">Examples of evidence</td>
+      <th scope="col" colspan="1" rowspan="1">Targets for 2018-19 and beyond</td>
     </tr>
   </thead>
   <tbody>
@@ -412,13 +413,14 @@ Appendix A maps our portfolio budget statement outcomes and programs to our purp
 
 {% include hx.html lvl=3 text="Transform ICT procurement" hide-back-to-top=1 id="transform-ict-procurement-table" %}
 
-<div class="horizontal-scroll-table-container"><table class="content-table">
+<div class="horizontal-scroll-table-container">
+<table class="content-table">
   <thead>
     <tr style="vertical-align: top;">
-      <th colspan="1" rowspan="1">Success measures</th>
-      <th colspan="1" rowspan="1">Targets for 2017-18</th>
-      <th colspan="1" rowspan="1">Examples of evidence</th>
-      <th colspan="1" rowspan="1">Targets for 2018-19 and beyond</th>
+      <th scope="col" colspan="1" rowspan="1">Success measures</th>
+      <th scope="col" colspan="1" rowspan="1">Targets for 2017-18</th>
+      <th scope="col" colspan="1" rowspan="1">Examples of evidence</th>
+      <th scope="col" colspan="1" rowspan="1">Targets for 2018-19 and beyond</th>
     </tr>
   </thead>
   <tbody>
@@ -445,13 +447,14 @@ Appendix A maps our portfolio budget statement outcomes and programs to our purp
 
 {% include hx.html lvl=3 text="Build Australian Public Service ICT and digital capability" hide-back-to-top=1 id="build-australian-public-service-ict-and-digital-capability-table" %}
 
-<div class="horizontal-scroll-table-container"><table class="content-table">
+<div class="horizontal-scroll-table-container">
+<table class="content-table">
   <thead>
     <tr style="vertical-align: top;">
-      <th colspan="1" rowspan="1">Success measures</th>
-      <th colspan="1" rowspan="1">Targets for 2017-18</th>
-      <th colspan="1" rowspan="1">Examples of evidence</th>
-      <th colspan="1" rowspan="1">Targets for 2018-19 and beyond</th>
+      <th scope="col" colspan="1" rowspan="1">Success measures</th>
+      <th scope="col" colspan="1" rowspan="1">Targets for 2017-18</th>
+      <th scope="col" colspan="1" rowspan="1">Examples of evidence</th>
+      <th scope="col" colspan="1" rowspan="1">Targets for 2018-19 and beyond</th>
     </tr>
   </thead>
   <tbody>
@@ -494,7 +497,8 @@ Appendix A maps our portfolio budget statement outcomes and programs to our purp
       </td>
     </tr>
   </tbody>
-</table></div>
+</table>
+</div>
 
 {% include hx.html lvl=2 text="Growing our capabilities" %}
 
@@ -587,3 +591,95 @@ The DTA has key controls in place to ensure compliance with the PGPA framework. 
 *   Accountable Authority Instructions (AAIs) — an overview of financial management principles and requirements
 *   training for staff delivered on a regular basis
 *   a formal compliance quality assurance program comprised of internal audits, and compliance review activities to test compliance with the financial management framework.
+
+{% include hx.html lvl=2 text="Appendix A: Mapping of the Department's Portfolio Budget Statements 2017-2018 to Corporate Plan 2017-18" %}
+<div class="horizontal-scroll-table-container">
+<table class="content-table">
+    <thead>
+      <tr>
+        <th scope="col" colspan="2" rowspan="1">DTA Corporate Plan</th>
+        <th scope="col" colspan="3" rowspan="1">Portfolio Budget Statements</th>
+      </tr>
+      <tr>
+        <th scope="col" colspan="1" rowspan="1">Purpose</th>
+        <th scope="col" colspan="1" rowspan="1">Strategic Priorities</th>
+        <th scope="col" colspan="1" rowspan="1">Delivery</th>
+        <th scope="col" colspan="1" rowspan="1">Program 1.1</th>
+        <th scope="col" colspan="1" rowspan="1">Outcome</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td colspan="1" rowspan="5">
+        <p>Accelerate the digital transformation of Government by encouraging investment in digital services, assisting to transform the user experience for individuals and&nbsp;business, and improving the return on ICT and digital investment.</p>
+      </td>
+      <td colspan="1" rowspan="1">
+        <p>Develop a digital transformation roadmap</p>
+      </td>
+      <td colspan="1" rowspan="1">
+        <p>Supporting agency digital delivery of high volume services so that these services are simpler, clearer and faster for users</p>
+      </td>
+      <td colspan="1" rowspan="5">
+        <p>Support agency delivery of high volume services, build and contribute to whole of government platforms and increase capability of the public service to deliver digital transformation </p>
+      </td>
+      <td colspan="1" rowspan="5">
+        <p>Outcome 1: &nbsp;</p>
+        <p>To improve the user experience for all Australians accessing</p>
+        <p>government information and services by leading the design, development and</p>
+        <p>continual enhancement of whole-of-government service delivery policies and</p>
+        <p>standards, platforms and joined-up services.</p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="1">
+        <p>Deliver and improve shared digital platforms</p>
+      </td>
+      <td colspan="1" rowspan="1">
+        <p>Delivery of whole-of-government &nbsp;common platforms</p>
+        <p>Supporting delivery of government-wide initiatives to join-up services</p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="1">
+        <p>Oversee and advise on ICT and digital investment</p>
+      </td>
+      <td colspan="1" rowspan="1">
+        <p>Providing advice to government and Commonwealth entities on ICT investment, delivery and implementation of ICT policies </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="1">
+        <p>Build Australian Public Service ICT and digital capability</p>
+      </td>
+      <td colspan="1" rowspan="1">
+        <p>Establishing communities, developing best practices, and building a digital culture</p>
+        <p>Creating policy and standards to support consistent service transformation across government agencies</p>
+        <p>Building digital leadership and capability across government agencies</p>
+        <p>Delivering high quality ICT Entry Level Programs to entities.&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="1">
+        <p>Transform ICT and digital procurement</p>
+      </td>
+      <td colspan="1" rowspan="1">
+        <p>Developing and managing WoAG procurement arrangements for entities </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+ entities.&nbsp;</p>
+        </td>
+      </tr>
+      <tr style="vertical-align: top;">
+        <td colspan="1" rowspan="1">
+          <p>Transform ICT and digital procurement</p>
+        </td>
+        <td colspan="1" rowspan="1">
+          <p>Developing and managing WoAG procurement arrangements for entities </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+  </div>
