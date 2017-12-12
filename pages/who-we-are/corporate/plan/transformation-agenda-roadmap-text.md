@@ -9,7 +9,7 @@ exclude_from_search: true
 
 ![Thumbnail of the Government Digital Transformation Roadmap]({{site.baseurl}}/images/transformation-agenda/roadmap-thumbnail.png)
 
-[&larr; Back to corporate plan](/who-we-are/corporate/plan/#the-digital-transformation-roadmap)
+[&larr; Back to corporate plan](/who-we-are/corporate/plan/#develop-a-digital-transformation-roadmap)
 
 ## Digital Transformation Agenda
 
@@ -144,7 +144,7 @@ During quarter 3 2018 work will have started on:
 The following elements of the Program Management Strategy:
 * Actively shaping program design
 
-Beyond quarter 3 2018 work will continue on: 
+Beyond quarter 3 2018 work will continue on:
 
 The following Digital Transformation Agenda elements:
 * Consolidated sector/domain transformation plans
@@ -158,4 +158,4 @@ The following elements of the Program Management Strategy:
 
 <hr />
 
-[&larr; Back to corporate plan](/who-we-are/corporate/plan/#the-digital-transformation-roadmap)
+[&larr; Back to corporate plan](/who-we-are/corporate/plan/#develop-a-digital-transformation-roadmap)
