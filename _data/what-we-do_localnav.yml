@@ -38,6 +38,8 @@
           url: "/what-we-do/platforms/marketplace/"
         - title: "Govpass"
           url: "/what-we-do/platforms/govpass/"
+        - title: "myGov"
+          url: "/what-we-do/platforms/mygov/"
         - title: "Performance dashboard"
           url: "/what-we-do/platforms/performance/"
     - title: "Budget measures"
