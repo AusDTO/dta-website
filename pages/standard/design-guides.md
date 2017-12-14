@@ -5,7 +5,9 @@ permalink: /standard/design-guides/
 breadcrumb: Design guides
 lede: Guidance to help you meet the Digital Service Standard.
 weight: 50
-redirect_from: /design-guides/
+redirect_from: 
+  - /design-guides/
+  - /standard/design-guides/gov-au-guides/
 ---
 
 We are releasing new guidance for Australian Government teams.
