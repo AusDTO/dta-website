@@ -128,21 +128,21 @@ The branch can now be worked on in the [public repository](https://github.com/Au
 
 ### staging
 
-* **api**: https://api.system.staging.digital.gov.au
+* **api**: https://api.system.y.cld.gov.au
 * **org**: dta
 * **space**: website
 * **circle user**: dtacircleci
 
 ### production
 
-* **api**: https://api.system.platform.digital.gov.au
+* **api**: https://api.system.b.cld.gov.au
 * **org**: dta
 * **space**: website
 * **circle user**: dtacircleci
-* has a cloudfront distribution under the parent DTO AWS account
-* cloudfront is logging to an S3 bucket in the parent DTO AWS account
+* has a cloudfront distribution under the parent DTA AWS account
+* cloudfront is logging to an S3 bucket in the parent DTA AWS account
   * `dta-site-cdn-logs`
-* uses AWS Route53 for dns under the parent DTO AWS account
+* uses Finance for dns
 
 ## Setting up CircleCI
 
