@@ -5,7 +5,9 @@ memory: 64M
 disk_quota: 1G
 instances: 1
 buildpack: staticfile_buildpack
-host: dta-website
+routes:
+  - route: www.dta.gov.au
+  - route: dta-website.apps.b.cld.gov.au
 applications:
 - name: dta-site-blue
 - name: dta-site-green
