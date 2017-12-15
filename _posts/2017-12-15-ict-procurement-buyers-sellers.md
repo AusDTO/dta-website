@@ -1,5 +1,5 @@
 ---
-title: "Continuing the conversation: becoming better buyers of ICT"
+title: "Continuing the conversation &mdash; becoming better buyers of ICT"
 category: [blog]
 tag: 'digital transformation'
 author: Anselm Cox
