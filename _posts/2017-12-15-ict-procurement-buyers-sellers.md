@@ -11,7 +11,7 @@ lede: "Find out about the steps we’re taking to make improvements to ICT procu
 ---
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="A hand drawn diagram of the agile process. Experiments, technology and ideas all go in to create prototypes. Using an agile, iterative process we can transform how we deliver projects."><br />
-  <figcaption><p><em>Caption: The buyers group in action</em></p></figcaption>
+  <figcaption><p><em>Caption: A sketch artist’s interpretation of the sellers group conversation</em></p></figcaption>
 </figure>
 
 ## We’ll keep conversations two way
@@ -49,13 +49,6 @@ CEOs feel government are not open to talking to businesses for fear of preferenc
 There is a lot of work to be done in this space, but we’re looking at tools and systems we can use quick smart to let the industry put forward unsolicited, innovative ideas.
 
 One solution we’d like to pursue is pitch events. [GovPitch](https://www.pmc.gov.au/news-centre/cyber-security/govpitch-harnessing-home-grown-cyber-security-innovation) held earlier this year saw the Commonwealth’s most senior public servants listening to six cyber security companies from the marketplace. Our sellers group says there is value and interest in this kind of exercise and we’ll be using GovPitch as inspiration for others like it. We have started conversations with government agencies about hosting events in 2018.
-
-<figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/blog-content/ict-procurement-buyers-sellers-content-agile.png" alt="A hand drawn diagram of the agile process. Experiments, technology and ideas all go in to create prototypes. Using an agile, iterative process we can transform how we deliver projects.">
-  <ficaption>
-    <p><em>Caption: A sketch artist’s interpretation of the sellers group conversation</em></p>
-  </ficaption>
-</figure>
 
 The other part of the innovation picture is walking our talk when it comes to being agile. Rather than going to market for lengthy contracts with all the benefits at the tail end, we need to go throughout alpha, beta and live stages. Those phases get us a headstart on testing a product during build and coming out the other end with the right system.
 
