@@ -35,8 +35,8 @@ You can find more information about FOI on the website for the [Office of the Au
 Under [section 8 of the *Freedom of Information Act 1982*](https://www.legislation.gov.au/Details/C2017C00102/Html/Text#_Toc477343347), we must publish certain information on our website. This is called the Information Publication Scheme. We have sorted the information into categories that other government departments use, for consistency and ease of access.
 
 * [Information Publication Scheme Agency Plan](/who-we-are/corporate/freedom-of-information/information-publications-scheme-agency-plan/)
-* [Who we are](/who-we-are/)
-  * [Enterprise Agreement (PDF, 36 pages, 13.3MB)](/files/dto-enterprise-agreement-signed.pdf)
+* [Who we are](/who-we-are/)<br />
+  The DTA are currently operating under the DTA Determination 2017. Please contact the DTA People Branch on [hr@dta.gov.au](mailto:hr@dta.gov.au) if you have any queries.
 * [What we do](/what-we-do/)
   * [Functions of the DTO (PDF, 1 page, 537kb)](/files/dto-order-establishing.pdf)
 * [Our reports to Parliament](/who-we-are/corporate/freedom-of-information/our-reports-to-parliament/)
