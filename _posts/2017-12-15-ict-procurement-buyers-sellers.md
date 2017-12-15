@@ -14,7 +14,7 @@ lede: "Find out about the steps we’re taking to make improvements to ICT procu
   <figcaption><p><em>Caption: A sketch artist’s interpretation of the sellers group conversation</em></p></figcaption>
 </figure>
 
-## We’ll keep conversations two way
+## We’ll keep conversations two-way
 
 It turns out government buyers and ICT sellers all want the same thing — for it to be easier to buy and sell ICT with government. We are just looking at it from different perspectives, making it seem like we’re after different things.
 
@@ -22,7 +22,7 @@ The government’s ICT [procurement reform taskforce](/what-we-do/policies-and-p
 
 As a first step, we convened small groups of buyers and sellers over the last couple of months. Our CEO Gavin Slater held our first sellers group at the end of October with a dozen leaders from ICT businesses of different shapes and sizes. This week we hosted the first buyers group with a dozen executives from public service agencies in all three tiers of government.
 
-For both forums we asked the groups to help identify areas where we can make a difference to how we buy and sell. We got some good actions, which we’ll be following through on and have outlined below.
+For both forums we asked the groups to help identify areas where we can make a difference to how we buy and sell. They gave us some good actions, which we’ll be following through on and have outlined below.
 
 ## Make panels better
 
@@ -40,7 +40,7 @@ Industry and government know we need to move away from hiring people to ask the 
 
 For sellers, this is about letting the industry — the subject matter experts — provide us with their expertise. Engaging for outcomes rather than individuals means business gets a holistic view of the problem and a better chance of building the right solution. And government avoids pre-prescribing a solution which is not fit-for-purpose.
 
-For government, going to market for outcomes is a way to avoid competing against ourselves for a finite pool of experts. Next year we’ll be throwing ourselves into giving agency buyers more support to shift how they describe opportunities and procure goods and services.
+For government, going to market for outcomes is a way to avoid competing against ourselves for a limited pool of experts. Next year we’ll be throwing ourselves into giving agency buyers more support to shift how they describe opportunities and procure goods and services.
 
 ## Let the innovation in
 
