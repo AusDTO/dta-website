@@ -36,7 +36,7 @@ Under [section 8 of the *Freedom of Information Act 1982*](https://www.legislati
 
 * [Information Publication Scheme Agency Plan](/who-we-are/corporate/freedom-of-information/information-publications-scheme-agency-plan/)
 * [Who we are](/who-we-are/)<br />
-  The DTA are currently operating under the DTA Determination 2017. Please contact the DTA People Branch on [hr@dta.gov.au](hr@dta.gov.au) if you have any queries.
+  The DTA are currently operating under the DTA Determination 2017. Please contact the DTA People Branch on [hr@dta.gov.au](mailto:hr@dta.gov.au) if you have any queries.
 * [What we do](/what-we-do/)
   * [Functions of the DTO (PDF, 1 page, 537kb)](/files/dto-order-establishing.pdf)
 * [Our reports to Parliament](/who-we-are/corporate/freedom-of-information/our-reports-to-parliament/)
