@@ -28,11 +28,11 @@ searchexcerpt: Our corporate plan gives an overview of our priorities, milestone
 
 In 2016, the Australian Government set out its digital transformation agenda. The agenda is focused on delivering better and more accessible digital services to individuals and businesses.
 
-Responsibility for realising the digital transformation agenda is owned by all agencies who are accountable for delivering services to individuals and businesses. For digital transformation across government to work, we need successful coordination and collaboration between the DTA and other agencies.
+Responsibility for realising the digital transformation agenda is owned by all agencies who are accountable for delivering services to individuals and businesses. For digital transformation across government to work, we need successful coordination and collaboration between the Digital Transformation Agency (DTA) and other agencies.
 
 I am committed to a DTA that performs effectively and meets the expectations of government, government agencies, industry stakeholders and the public. I have established a performance reporting framework to make sure that we are able to identify and address performance issues, and meet the requirements of the [Public Governance Performance and Accountability Act](https://www.legislation.gov.au/Details/C2013A00123) (PGPA Act).
 
-As the accountable authority for the Digital Transformation Agency (DTA), I am pleased to present a variation to our [2017–18 Corporate Plan](/who-we-are/corporate/plan/). This varied Corporate Plan covers the period 2017–18 to 2020–21, as required under paragraph 35 (1)(b) of the PGPA Act.
+As the accountable authority for the DTA, I am pleased to present a variation to our [2017–18 Corporate Plan](/who-we-are/corporate/plan/). This varied Corporate Plan covers the period 2017–18 to 2020–21, as required under paragraph 35 (1)(b) of the PGPA Act.
 
 Gavin Slater\\
 Chief Executive Officer
@@ -53,7 +53,7 @@ These expectations are increasing as a gap in quality between government and non
 
 ### Return on investment
 
-On 23 August 2017, Assistant Minister for Cities and Digital Transformation, Angus Taylor, welcomed the ICT Procurement Taskforce Report and announced a series of reforms in response to the report’s recommendations. To implement these recommendations, we are working across agencies to transform how government manages its ICT procurement.
+In August 2017, the ICT Procurement Taskforce Report was released. To implement these recommendations, we are working across agencies to transform how government manages its ICT procurement by implementing a series of reforms.
 
 The government’s spend on ICT is substantial — spending about $6 billion on ICT goods and services every year. A more coordinated and collaborative approach to investment can deliver efficiencies and value for money — with opportunities to build platforms that can be reused across government. Coordination and strategic oversight will improve risk identification, mitigation and ensure products deliver real benefits to users.
 
@@ -328,7 +328,7 @@ The performance criteria in this Corporate Plan and the portfolio budget stateme
         <p>Onboarding toolkit to streamline process for agencies to onboard</p>
       </td>
       <td colspan="1" rowspan="1">
-        <p>Increased number of member services listed on myGov.</p>
+        <p>Increased number of member services listed on myGov</p>
       </td>
     </tr>
     <tr style="vertical-align: top;">
@@ -342,7 +342,7 @@ The performance criteria in this Corporate Plan and the portfolio budget stateme
         <p>Initial performance reports provided to myGov members services and the myGov board</p>
       </td>
       <td colspan="1" rowspan="1">
-        <p>Finalise, implement and report through the myGov performance framework to measure whether myGov is delivering expected outcomes for users and member services.</p>
+        <p>Finalise, implement and report through the myGov performance framework to measure whether myGov is delivering expected outcomes for users and member services</p>
       </td>
     </tr>
   </tbody>
@@ -372,7 +372,7 @@ The performance criteria in this Corporate Plan and the portfolio budget stateme
       <td colspan="1" rowspan="1">
         <p>Count of projects reviewed in 2017-18</p>
         <p>Briefs provided to government summarising advice on proposed delivery approaches</p>
-        <p>Develop an investment management framework against which outcomes and benefits can be measured and reported.</p>
+        <p>Develop an investment management framework against which outcomes and benefits can be measured and reported</p>
       </td>
       <td colspan="1" rowspan="1">
         <p>DTA advice informs proposed delivery approaches and investment decisions and generates substantive transformational change of the government</p>
@@ -489,7 +489,7 @@ The performance criteria in this Corporate Plan and the portfolio budget stateme
     </tr>
     <tr style="vertical-align: top;">
       <td colspan="1" rowspan="1">
-        <p>5.1.3 Improve the knowledge of senior APS staff on digital skills and how to work with digital APS staff.</p>
+        <p>5.1.3 Improve the knowledge of senior APS staff on digital skills and how to work with digital APS staff</p>
       </td>
       <td colspan="1" rowspan="1">
         <p>Case study prepared on the work undertaken, and the outcomes achieved, in developing products and tools to improve the digital leadership of senior APS staff</p>
