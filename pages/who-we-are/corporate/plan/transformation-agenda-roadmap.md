@@ -10,6 +10,6 @@ exclude_from_search: true
 <a name="image"></a>
 <img src="{% asset_path roadmap %}" alt="The Digital Transformation Roadmap Gantt chart">
 
-[&larr; Back to corporate plan](/who-we-are/corporate/plan/#the-digital-transformation-roadmap)
+[&larr; Back to corporate plan](/who-we-are/corporate/plan/#develop-a-digital-transformation-roadmap)
 
 [Read the full text version of this roadmap]({{site.baseurl}}/who-we-are/corporate/plan/roadmap-text/).
