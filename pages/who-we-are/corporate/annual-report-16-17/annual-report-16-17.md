@@ -13,12 +13,12 @@ searchexcerpt: "This annual report covers the performance, accountability and fi
 
 This annual report covers the performance, accountability and financial reporting of the Digital Transformation Agency (DTA) for the financial year ending on 30 June 2017.
 
-The report was drafted in line with the Public Governance, Performance and Accountability Rule 2014 and the Department of Finance [*Resource Management Guide No. 135: Annual reports for non-corporate Commonwealth entities*](http://www.finance.gov.au/sites/default/files/RMG-135_Annual_reports_for_non-corporates.pdf), May 2017.
-
-<p class="callout" markdown="1">
-Please find below a PDF version of the Digital Transformation Agency Annual Report 2016–17. If you are having trouble accessing the content of this publication please contact [web.team@digital.gov.au](mailto:web.team@digital.gov.au)
-</p>
+The report was drafted in line with the Public Governance, Performance and Accountability Rule 2014 and the Department of Finance [*Resource Management Guide No. 135: Annual reports for non-corporate Commonwealth entities*](http://www.finance.gov.au/sites/default/files/RMG-135-Annual-report-non-corp-requirements-Oct-2016.pdf), July 2016.
 
 ### PDF version of the Digital Transformation Office Annual Report 2016–17
 
 [Annual Report 2016–17 (PDF, 132 pages, 1.9MB)]({{ site.url }}{{ site.baseurl }}/files/annual-reports/dta-annual-report-2016-17.pdf)
+
+If you are having any trouble accessing the content, please contact [web.team@digital.gov.au](mailto:web.team@digital.gov.au)
+
+A full HTML version of the report will be available in January 2018.
