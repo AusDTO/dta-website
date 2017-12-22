@@ -2,17 +2,18 @@
 layout: annual-report
 title: "1. Introduction and overview"
 breadcrumb: Introduction and overview
-permalink: /who-we-are/corporate/annual-report/2015-16/1-introduction/
+redirect_from: /who-we-are/corporate/annual-report/2015-16/1-introduction/
 localnav: annual-report-2015-16
+permalink: /who-we-are/corporate/annual-report-15-16/1-introduction/
 page_group:
   title: Annual Report 2015–16
   nav:
     previous:
       title: Cover and letter of transmittal
-      href: /who-we-are/corporate/annual-report/2015-16/cover-letter/
+      href: /who-we-are/corporate/annual-report-15-16/cover-letter/
     next:
       title: 2. Report on program performance
-      href: /who-we-are/corporate/annual-report/2015-16/2-program-performance/
+      href: /who-we-are/corporate/annual-report-15-16/2-program-performance/
 ---
 
 <nav class="index-links">
@@ -55,18 +56,18 @@ Australia has the opportunity to become a world leader in the provision of digit
 {% include hx.html lvl=4 text="Using agile methodologies" hide-back-to-top=1 %}
 
 Agile methodologies are at the heart of the DTO’s service delivery. This is an approach to software development that allows digital teams to respond to unpredictability through staged and iterative platform development.
-  
+
 Solutions are found on the go, through collaborative effort and user feedback. This approach enables teams to start small and learn fast. Critically, it reduces the risk of service failure.
-  
+
 DTO’s service design and delivery process has four stages:
 
    1. **Discovery:** This stage involves mapping the broader service landscape, researching the real needs and problems faced by users, and understanding the policy intent and technology constraints.
    2. **Alpha:** During alpha, the team tests out a hypothesis by building prototypes in code, exploring different ways to meet the needs of users. User research is conducted to learn which of the approaches works best, and the solution continues to be iterated as more is learned.
    3. **Beta:** Using the successful prototype from stage 2, a Minimum Viable Product is built as an accessible and secure service. Members of the public trial the beta version alongside the existing service, and their feedback is used to improve the service.
    4. **Live:** The team and processes are put in place to continue operating and improving the service. Old services are phased out, and existing non-digital channels are consolidated.
-  
+
 Each stage of the process is strategically crafted to ensure feasibility and system capacity. The system is designed to allow users to engage in the process to give greater transparency to government processes and service provision.
-  
+
 To date, this staged approach has enabled the DTO to successfully map out issues pertaining to service delivery and to continue to develop the infrastructure required to assist government agencies and services as they undergo transformation.
 
 </div>
@@ -180,7 +181,7 @@ The DTO does not administer any legislation.
 
 The structure of the agency at 30 June 2016 is shown in Figure 1.
 
-[Read the full text version of Figure 1 the DTO organisational structure]({{site.baseurl}}/who-we-are/corporate/annual-report/2015-16/1-introduction/organisational-structure/).
+[Read the full text version of Figure 1 the DTO organisational structure](/who-we-are/corporate/annual-report-15-16/1-introduction/organisational-structure/).
 
 <figure>
   <img src="{% asset_path org-chart %}" alt="Figure 1 DTO organisational chart, see above for link to full text description">
@@ -196,10 +197,10 @@ The structure of the agency at 30 June 2016 is shown in Figure 1.
 
 </figure>
 <article markdown="1">
-    
+
 **Chief Executive Officer**<br>
 **Paul Shetler**
-  
+
 Paul was appointed as the inaugural Chief Executive Officer (CEO) of the DTO in July 2015.
 
 Hailing from the United Kingdom, the technologist and entrepreneur has 20 years of international experience working in financial and digital services, including the role of Chief Digital Officer of the United Kingdom Ministry of Justice from 2014 to 2015. Bringing to the table extensive knowledge of managing start­ups and corporate ventures, he is now tasked with making government services simpler, clearer, faster and more humane.
@@ -208,7 +209,7 @@ Before Paul took up his appointment, David Hazlehurst acted as the Interim CEO o
 
 </article>
 </li>
-  
+
 <li>
 <figure markdown="1">
 
@@ -232,17 +233,17 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
 
 </figure>
 <article markdown="1">
-     
+
 **Head of Business Operations/Chief Operating Officer**<br>
 **Deborah Lewis**
-   
+
 Deborah is responsible for the financial operations of the DTO, including risk, compliance, human resources, procurement, IT and support for the CEO.
 
 Deborah has a strong public sector background, having led divisions with hundreds of staff to embed significant culture and business change agendas. She has held positions across service delivery, policy and program, and corporate functions, in entities such as Austrade and the departments of Immigration; Climate Change and Energy Efficiency; and Resources, Energy and Tourism.
 
 </article>
 </li>
-  
+
 <li>
 <figure markdown="1">
 
@@ -250,10 +251,10 @@ Deborah has a strong public sector background, having led divisions with hundred
 
 </figure>
 <article markdown="1">
-    
+
 **Head of Delivery**<br>
 **Dan Pulham**
-  
+
 Dan joined the DTO in April 2016 having previously spent nine years at Telstra, the last five of those as a founding member of Telstra Digital.
 
 During his time at Telstra Digital, Dan led a transformation program to rebuild Telstra’s MyAccount, delivered the Consumer Identity platform, and ran the portfolio process which managed change into Telstra’s MyAccount, E-Commerce, 24/7 and Identity platforms.
@@ -267,7 +268,7 @@ During his time at Telstra Digital, Dan led a transformation program to rebuild 
 
 </figure>
 <article markdown="1">
-     
+
 **Head of Digital Partnerships**<br>
 **Jose Del Rio**
 
@@ -275,7 +276,7 @@ Jose started the taskforce that led to the creation of the DTO. He has held a nu
 
 </article>
 </li>
-  
+
 <li>
 <figure markdown="1">
 
@@ -283,7 +284,7 @@ Jose started the taskforce that led to the creation of the DTO. He has held a nu
 
 </figure>
 <article markdown="1">
-    
+
 **Head of Identity**<br>
 **Rachel Dixon**
 
@@ -301,7 +302,7 @@ Rachel has held executive positions at Suncorp, Viocorp, thePlatform for Media, 
 
 </figure>
 <article markdown="1">
-     
+
 **Head of Strategy and Engagement**<br>
 **Maria MacNamara**
 
@@ -316,7 +317,7 @@ Prior to joining the DTO, Maria was responsible for marketing and business devel
 
 </figure>
 <article markdown="1">
-     
+
 **Head of Digital Marketplace**<br>
 **Catherine Thompson**
 
@@ -334,7 +335,7 @@ Most recently Head of Delivery for pioneering virtual reality start-up Zero Late
 
 </figure>
 <article markdown="1">
-     
+
 **Head of GOV.AU**<br>
 **Radi Kovacevic (acting)**
 

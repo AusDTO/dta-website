@@ -2,17 +2,18 @@
 layout: annual-report
 title: "3. Report on organisational performance"
 breadcrumb: Report on organisational performance
-permalink: /who-we-are/corporate/annual-report/2015-16/3-organisational-performance/
+redirect_from: /who-we-are/corporate/annual-report/2015-16/3-organisational-performance/
+permalink: /who-we-are/corporate/annual-report-15-16/3-organisational-performance/
 localnav: annual-report-2015-16
 page_group:
   title: Annual Report 2015–16
   nav:
     previous:
       title: 2. Report on program performance
-      href: /who-we-are/corporate/annual-report/2015-16/2-program-performance/
+      href: /who-we-are/corporate/annual-report-15-16/2-program-performance/
     next:
       title: 4. Financial statements
-      href: /who-we-are/corporate/annual-report/2015-16/4-financial-statements/
+      href: /who-we-are/corporate/annual-report-15-16/4-financial-statements/
 ---
 
 <nav class="index-links">
@@ -20,7 +21,7 @@ page_group:
   <ul>
     <li><a href="#corporate-governance">Corporate governance</a></li>
     <li><a href="#external-scrutiny">External scrutiny</a></li>
-    <li><a href="#freedom-of-information">Freedom of information</a></li> 
+    <li><a href="#freedom-of-information">Freedom of information</a></li>
     <li><a href="#management-of-human-resources">Management of human resources</a></li>
     <li><a href="#work-health-and-safety">Work health and safety</a></li>
     <li><a href="#purchasing-and-procurement">Purchasing and procurement</a></li>
@@ -431,7 +432,7 @@ The DTO Determination 2015/01 is supplemented by the Australian Public Service E
         <dt>EL</dt>
         <dd>Executive Level</dd>
      </dl>
-    
+
 <div markdown="1">
 
 1 Individual arrangements established in line with individualised section 24(1) agreements.<br>
