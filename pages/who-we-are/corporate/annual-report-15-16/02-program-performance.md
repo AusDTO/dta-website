@@ -2,17 +2,18 @@
 layout: annual-report
 title: "2. Report on program performance"
 breadcrumb: Report on program performance
-permalink: /who-we-are/corporate/annual-report/2015-16/2-program-performance/
+redirect_from: /who-we-are/corporate/annual-report/2015-16/2-program-performance/
 localnav: annual-report-2015-16
+permalink: /who-we-are/corporate/annual-report-15-16/2-program-performance/
 page_group:
   title: Annual Report 2015–16
   nav:
     previous:
       title: 1. Introduction and overview
-      href: /who-we-are/corporate/annual-report/2015-16/1-introduction/
+      href: /who-we-are/corporate/annual-report-15-16/1-introduction/
     next:
       title: 3. Report on organisational performance
-      href: /who-we-are/corporate/annual-report/2015-16/3-organisational-performance/
+      href: /who-we-are/corporate/annual-report-15-16/3-organisational-performance/
 ---
 
 <nav class="index-links">
@@ -34,9 +35,9 @@ Chief Executive Officer**
 
 {% include hx.html lvl=3 text="Purpose" %}
 
-The DTO’s purpose is to facilitate the digital transformation of Australian Government services through innovative and collaborative development of service delivery policies and standards, platforms and joined-up services. 
+The DTO’s purpose is to facilitate the digital transformation of Australian Government services through innovative and collaborative development of service delivery policies and standards, platforms and joined-up services.
 
-As the DTO did not have a corporate plan in 2015–16, the DTO’s purpose for the reporting period has been aligned with its portfolio outcome: 
+As the DTO did not have a corporate plan in 2015–16, the DTO’s purpose for the reporting period has been aligned with its portfolio outcome:
 
 <div class="indented" markdown ="1">
 Outcome 1: To improve the user experience for all Australians accessing government information and services by leading the design, development and continual enhancement of whole-of-government service delivery policies and standards, platforms and joined-up services.
@@ -92,7 +93,7 @@ The platform has been tested with teams in the DTO delivery hubs. The Department
 
 The DTO has created the Performance Dashboard, a platform to assist government entities to publicly measure the performance of services against the metrics defined by criterion 11 of the Digital Service Standard. The platform will increase the visibility of how well government services are performing and drive the continued improvement of services for users.
 
-In May 2016, a working [alpha version](https://www.dashboard.gov.au/) was released with performance data for myGov. 
+In May 2016, a working [alpha version](https://www.dashboard.gov.au/) was released with performance data for myGov.
 
 ##### *Digital authentication and verification*
 
@@ -309,7 +310,7 @@ Tables 2 and 3 summarise the agency’s total resources and total expenses for t
 
 1. Appropriation Act (No.1) 2015–16 and Appropriation Act (No.3) 2015–16.
 2. Includes an amount of $1.500 million in 2015–16 for the Departmental Capital Budget. For accounting purposes this amount has been designated as ‘contribution by owners’.
-    
+
 <div class="horizontal-scroll-table-container">
 <table class="content-table financial" summary="Expenses for Outcome 1">
 <caption><strong>Table 3 </strong>Expenses for Outcome 1 </caption>
