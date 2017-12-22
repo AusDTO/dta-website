@@ -1,14 +1,15 @@
 ---
 layout: annual-report
 title: "Cover and letter of transmittal"
-permalink: /who-we-are/corporate/annual-report/2015-16/cover-letter/
+permalink: /who-we-are/corporate/annual-report-15-16/cover-letter/
+redirect_from: /who-we-are/corporate/annual-report/2015-16/cover-letter/
 localnav: annual-report-2015-16
 page_group:
   title: Annual Report 2015–16
   nav:
     next:
       title: 1. Introduction and overview
-      href: /who-we-are/corporate/annual-report/2015-16/1-introduction/
+      href: /who-we-are/corporate/annual-report-15-16/1-introduction/
 ---
 
 Digital Transformation Office
@@ -20,7 +21,7 @@ Digital Transformation Office PO Box 457<br>
 CANBERRA ACT 2601<br>
 Website: www.dto.gov.au
 
-View the [PDF version](/annual-report/2015-16) of the DTO Annual Report 2015–16.
+View the [PDF version (90 pages, 1.9MB)]({{ site.url }}{{ site.baseurl }}/files/annual-reports/dto-annual-report-2015-16.pdf) of the DTO Annual Report 2015–16.
 
 ISSN 2206-9879 (Print)<br>
 ISSN 2206-9887 (Online)
@@ -41,6 +42,6 @@ Printing by New Millennium Print
 
 {% include hx.html lvl=2 text="Letter of transmittal" %}
 
-[Read the full text version of the letter of transmittal](/who-we-are/corporate/annual-report/2015-16/cover-letter/letter-of-transmittal/).
+[Read the full text version of the letter of transmittal](/who-we-are/corporate/annual-report-15-16/cover-letter/letter-of-transmittal/).
 
 ![Scanned letter of transmittal. Use above link for the full text version.]({% asset_path LOT_-_Word %})
