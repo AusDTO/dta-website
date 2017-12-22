@@ -15,7 +15,7 @@ This annual report covers the performance, accountability and financial reportin
 
 The report was drafted in line with the Public Governance, Performance and Accountability Rule 2014 and the Department of Finance [*Resource Management Guide No. 135: Annual reports for non-corporate Commonwealth entities*](http://www.finance.gov.au/sites/default/files/RMG-135-Annual-report-non-corp-requirements-Oct-2016.pdf), July 2016.
 
-### PDF version of the Digital Transformation Office Annual Report 2016–17
+### PDF version of the Digital Transformation Agency Annual Report 2016–17
 
 [Annual Report 2016–17 (PDF, 132 pages, 1.9MB)]({{ site.url }}{{ site.baseurl }}/files/annual-reports/dta-annual-report-2016-17.pdf)
 
