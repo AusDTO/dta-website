@@ -20,5 +20,3 @@ The report was drafted in line with the Public Governance, Performance and Accou
 [Annual Report 2016–17 (PDF, 132 pages, 1.9MB)]({{ site.url }}{{ site.baseurl }}/files/annual-reports/dta-annual-report-2016-17-wcag.pdf)
 
 If you are having any trouble accessing the content, please contact [web.team@digital.gov.au](mailto:web.team@digital.gov.au)
-
-A full HTML version of the report will be available in January 2018.
