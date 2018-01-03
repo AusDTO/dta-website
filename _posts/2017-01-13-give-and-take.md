@@ -19,7 +19,7 @@ So it feels good to be able to give something back: the Digital Marketplace UK i
 [From the UK Digital Marketplace blog](https://digitalmarketplace.blog.gov.uk/2016/12/20/the-digital-marketplace-vision-part-6/):
 
 > Now this is where things start getting even more exciting; the DTA recently developed something that we’re very interested in, so we’ve used their code and quickly started prototyping.
->
+
 > This component will enable buyers to create online call-off contracts and statements of work (SOWs), using the [Open Contracting Data Standard](https://digitalmarketplace.blog.gov.uk/2016/07/12/working-with-the-standards-hub-to-make-public-procurement-and-contracting-data-more-open/) (OCDS), which can be easily published to [Contracts Finder](https://www.gov.uk/contracts-finder).
 
 ## Making it open makes it better
