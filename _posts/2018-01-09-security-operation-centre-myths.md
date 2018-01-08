@@ -11,7 +11,6 @@ lede: "Want to buy or build a security operations centre? We put a photon torped
 ---
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="An illustration of a cyber security advisor monitoring multiple screens displaying live data."><br />
-  <figcaption><p><em>Caption: Know your business, understand your systems and avoid a huge upfront investment</em></p></figcaption>
 </figure>
 
 I’m convinced many people think a modern security operations centre needs to look like the bridge of the Starship Enterprise, styled like the set of Blade Runner, and staffed with hackers in hoodies. Has theatre distorted our view of how we start one up and what it needs to achieve?
