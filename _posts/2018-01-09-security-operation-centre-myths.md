@@ -1,5 +1,5 @@
 ---
-title: "Shields up! and other modern security operation centre (SOC) myths"
+title: "Shields up! And other modern security operation centre (SOC) myths"
 category: [blog]
 tag: 'technology'
 author: Clem Colman
