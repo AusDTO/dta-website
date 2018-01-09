@@ -11,8 +11,8 @@ facebook-image: /images/blog-facebook/capability-leads-facebook.jpg
 searchexcerpt: "These specialists guide our work, create communities, and share good practice. "
 ---
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="Our capability leads from left to right including Meera Pankhania, Mariam Ibraheim, Gary Broadbent, Ruth Ellison, Vanessa Roarty and Libby Varcoe.">
-  <figcaption><p><strong>Caption: Our capability leads from left to right including Meera Pankhania, Mariam Ibraheim, Gary Broadbent, Ruth Ellison, Vanessa Roarty and Libby Varcoe.</strong></p></figcaption>
+  <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}">
+  <figcaption><p><em>Caption: Our capability leads from left to right including Meera Pankhania, Mariam Ibraheim, Gary Broadbent, Ruth Ellison, Vanessa Roarty and Libby Varcoe.</em></p></figcaption>
 </figure>
 
 Capability, noun, the power or ability to do something.
