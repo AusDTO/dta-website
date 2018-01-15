@@ -32,6 +32,9 @@ We publish assessment reports to increase the transparency of government and hel
     <li>
       <a href="#beta-assessments"><span class="is-visuallyhidden">Show only </span>Beta assessments</a>
     </li>
+    <li>
+      <a href="#live-assessments"><span class="is-visuallyhidden">Show only </span>Live assessments</a>
+    </li>
   </ul>
 
   <!-- Tab panes -->
@@ -60,6 +63,11 @@ We publish assessment reports to increase the transparency of government and hel
     <div role="tabpanel" class="tab-pane" id="beta-assessments">
       <h2 class="assessment-list-header"><span class="inner">Beta stage assessment reports</span></h2>
       {% include assessment-reports/assessment-reports-list-beta.html %}
+    </div>
+
+    <div role="tabpanel" class="tab-pane" id="live-assessments">
+      <h2 class="assessment-list-header"><span class="inner">Live stage assessment reports</span></h2>
+      {% include assessment-reports/assessment-reports-list-live.html %}
     </div>
   </div>
 </div>

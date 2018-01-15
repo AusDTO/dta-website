@@ -1,7 +1,7 @@
 <ul class="assessment-report-list">
 	{% assign reports = site.assessment-reports | sort:"date"  %}
 	{% for report in reports reversed %}
-	  {% if report.assessment-stage == 'Alpha' %}
+	  {% if report.assessment-stage == 'Live' %}
 		<li>
   		<a href="{{report.url}}">{{report.title}}</a>
   		<span class="{{report.assessment-stage | downcase}}">{{report.assessment-stage}}</span>

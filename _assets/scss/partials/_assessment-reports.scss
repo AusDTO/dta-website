@@ -58,7 +58,7 @@ ul {
       padding-bottom: 20px;
       border-bottom: 1px solid $dta-light-grey;
     }
-    .Beta, .Alpha, .Live {
+    .beta, .alpha, .live {
       float: left;
       margin-right: 13px;
       min-width: 65px;
@@ -73,11 +73,14 @@ ul {
         padding: 2px 5px;
       }
     }
-    .Beta {
+    .beta {
       background-color: $beta;
     }
-    .Alpha {
+    .alpha {
       background-color: $alpha;
+    }
+    .live {
+      background-color: $live;
     }
     a {
       font-weight: 600;
