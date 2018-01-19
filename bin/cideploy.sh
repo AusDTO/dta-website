@@ -40,7 +40,7 @@ main() {
       cf auth $CF_USER $CF_PASSWORD
       cf target -o $CF_ORG
       cf target -s $CF_SPACE
-      cf zero-downtime-push dta-website -f manifest-production.yml --show-app-log
+      cf zero-downtime-push dta-website -f manifest-production.yml
       ;;
     develop)
       checkrepo
@@ -49,7 +49,7 @@ main() {
       cf auth $CF_USER $CF_PASSWORD
       cf target -o $CF_ORG
       cf target -s $CF_SPACE
-      cf zero-downtime-push dta-website -f manifest-develop.yml --show-app-log
+      cf zero-downtime-push dta-website -f manifest-develop.yml
       ;;
     ${DEPLOY_BRANCHES})
       basicauth
@@ -57,7 +57,7 @@ main() {
       cf auth $CF_USER $CF_PASSWORD
       cf target -o $CF_ORG
       cf target -s $CF_SPACE
-      cf zero-downtime-push "$CF_PUSH_APPNAME" -f manifest.yml --show-app-log
+      cf zero-downtime-push "$CF_PUSH_APPNAME" -f manifest.yml
       ;;
     *)
       echo "I will not deploy this branch"
