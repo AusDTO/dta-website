@@ -14,7 +14,7 @@ lede: "We share some insights on colour and contrast for data-based information,
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="Our custom accessible colour palette incorporating Google Material Design.">
   <figcaption>
-    <p><em>Caption: our custom accessible colour palette incorporating Google Material Design</em></p>
+    <p><em>Caption: Our custom accessible colour palette incorporating Google Material Design</em></p>
   </figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ A key part of our work is using colour to help people understand information. Ch
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/blog-content/colour-and-contrast-housing-tenure.png" alt="A chart as seen by someone with no colour condition.">
   <figcaption>
-    <p><em>Caption: the chart as seen by someone with no colour condition.</em></p>
+    <p><em>Caption: The chart as seen by someone with no colour condition.</em></p>
   </figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Google material design allowed us to use an extensive colour range which is stil
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/blog-content/colour-and-contrast-smartcities-custom-palette.png" alt="The Smart City custom palette combined with Google Material Design. It shows a matrix of colours with lightness increasing from left to right and hue changing from top to bottom.">
   <figcaption>
-    <p><em>Caption: The Smart City custom palette combined with Google Material Design.</em></p>
+    <p><em>Caption: The Smart cities dashboard custom palette combined with Google Material Design.</em></p>
   </figcaption>
 </figure>
 
