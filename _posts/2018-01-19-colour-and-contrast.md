@@ -20,13 +20,13 @@ lede: "We share some insights on colour and contrast for data-based information,
 
 At the DTA we design to [13 criteria](/standard/) for simple, clear and fast government services. [Criteria 9](/standard/9-make-it-accessible/) is all about making things easier for users, regardless of their circumstances.
 
-While developing our most recent performance dashboard (for [Australia’s largest cities](/blog/smart-cities-dashboard/)), we learnt quite a bit about accessibility in colour and contrast, some of which I’ve shared below.
+While developing our most recent performance dashboard (for [Australia’s largest cities](/blog/smart-cities-dashboard/)), we learnt quite a bit about accessibility in colour and contrast, and I have shared some of these insights below.
 
 A major group of people who use our dashboard are older Australians.
 
 With more than 1 in 7 people [aged 65 and over](https://www.acma.gov.au/theACMA/engage-blogs/engage-blogs/Research-snapshots/Digital-lives-of-older-Australians), they are a growing segment of Australia’s population and expected to double in the next 50 years. Half of them are also thought to have low-vision and it’s an issue not limited to their age group. Many people over 40 years old can’t read small text without glasses or bifocals. That’s a natural condition called [presbyopia](http://www.allaboutvision.com/conditions/presbyopia.htm) and just one of [7 known colour conditions](https://nei.nih.gov/health/color_blindness/facts_about).
 
-So how did these conditions affect our choice of colour and contrast in the [Smart Cities dashboard](https://smart-cities.dashboard.gov.au/all-cities/overview)?
+So how did these conditions affect our choice of colour and contrast for the [Smart Cities dashboard](https://smart-cities.dashboard.gov.au/all-cities/overview)?
 
 ## 1. Colour
 
@@ -66,9 +66,9 @@ It’s harder to find the right palette if you need to use lots of different col
   </figcaption>
 </figure>
 
-Applying a pattern helps resolve colour issues by adding another layer of visual distinction. Especially useful for multicoloured charts.
+Applying a pattern helps resolve colour issues by adding another layer of visual distinction. This is especially useful for multicoloured charts.
 
-To build these charts and apply these patterns, we used the accessibility module in High Charts.
+To build these charts and apply these patterns, we used the accessibility module in [Highcharts](https://www.highcharts.com/).
 
 ## 2. Contrast
 
@@ -105,7 +105,7 @@ We extended the palette to to include a 20, 40, 60, 80 and 90 shade. Also an add
 
 By using a palette like this we can assure to the right levels of contrast to meet the needs of people with colour conditions and simplify the design by using subtitle tones to help communicate the essential data information.
 
-The design awareness with both colour and contrast follows the 7 Principles of universal design. The purpose of the Principles to guide the design of environments, products and communications for all people. It directly applies to:
+The design awareness with both colour and contrast follows the 7 Principles of universal design. The principles guide the design of environments, products and communications for all people. We have applied:
 
 - Principle 1: Equitable Use
 - Principle 2 Flexibility in Use
@@ -132,7 +132,7 @@ Create a bold interface that brings the user into the experience.
 
 ### Use colour
 
-Colour is the key component. It’s bold, graphic and intentional.
+Colour is a key component of accessible design. Be bold, graphic and intentional.
 
 ### Think about the context
 
@@ -156,4 +156,4 @@ Individual visual elements and colours are great, but how do they work in the bi
 
 If you want to know more about accessible design, have a look at our blog about [going beyond the guidelines](/blog/Accessibility-going-beyond-the-guidelines/).
 
-If you have any questions about the cities dashboard, leave a message below or contact [dashboard@digital.gov.au](mailto:dashboard@digital.gov.au).
+If you have any questions about the smart cities dashboard, leave a message below or contact [dashboard@digital.gov.au](mailto:dashboard@digital.gov.au).
