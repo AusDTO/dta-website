@@ -77,7 +77,7 @@
       vertical-align: top;
     }
 
-    //The default agent sheet styles `<th>` as bold, however for an accessibile table, `<th>` can appear throughout
+    // The default agent sheet styles `<th>` as bold, however for an accessibile table, `<th>` can appear throughout
     //`<tbody>`. For the annual report we override this, and instead use `<strong>` where necessary.
     //Possibly this should be overridden globally in ui-kit.
     thead th {
@@ -96,6 +96,33 @@
         text-align: right;
         &:first-child {
           text-align: initial;
+        }
+      }
+      &.fy-2016-17 {
+        td, th {
+          border: none;
+        }
+      }
+      .bold {
+        font-weight: bold;
+      }
+      .italic {
+        font-style: italic;
+      }
+      .table-right-aligned {
+        text-align: right;
+      }
+      .table-left-indent {
+        text-indent: 2rem;
+      }
+      .table-border-top {
+        td, th {
+          border-top: 1px solid $light-grey;
+        }
+      }
+      .table-border-bottom {
+        td, th {
+          border-bottom: 1px solid $light-grey;
         }
       }
     }
