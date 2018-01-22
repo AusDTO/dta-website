@@ -1,6 +1,6 @@
 ---
 layout: annual-report
-title: "4. financial fy-2016-17"
+title: "4. Financials"
 breadcrumb: Financial
 redirect_from: /who-we-are/corporate/annual-report/2016-17/4-financial/
 permalink: /who-we-are/corporate/annual-report-16-17/4-financial/
@@ -55,118 +55,118 @@ page_group:
       <col />
     </colgroup>
     <thead>
-      <tr class="right-align">
+      <tr class="table-right-aligned">
         <td />
         <th>
-          <p>Actual available appropriation for<br />2016–17<br />$’000<br />(a)</p>
+          <p class="table-right-aligned">Actual available appropriation for<br />2016–17<br />$’000<br />(a)</p>
         </th>
         <th>
-          <p>Payments<br />made for<br />2016–17<br />$’000<br />(b)</p>
+          <p class="table-right-aligned">Payments<br />made for<br />2016–17<br />$’000<br />(b)</p>
         </th>
         <th>
-          <p>Remaining balance<br />2016–17<br />$’000<br />(a) - (b)</p>
+          <p class="table-right-aligned">Remaining balance<br />2016–17<br />$’000<br />(a) - (b)</p>
         </th>
       </tr>
     </thead>
     <tbody>
-      <tr>
+      <tr class="table-border-bottom">
         <th colspan="4">
           <p>Ordinary annual services<sup>1</sup>
           </p>
         </th>
       </tr>
-      <tr>
+      <tr class="table-border-bottom">
         <th>
           <p>Prior year departmental appropriation</p>
         </th>
-        <td class="right-align">
-          <p>9,411</p>
+        <td>
+          <p class="table-right-aligned">9,411</p>
         </td>
-        <td class="right-align">
-          <p>9,411</p>
+        <td>
+          <p class="table-right-aligned">9,411</p>
         </td>
-        <td class="right-align">
-          <p>-</p>
+        <td>
+          <p class="table-right-aligned">-</p>
         </td>
       </tr>
-      <tr>
+      <tr class="table-border-bottom">
         <th>
           <p>Departmental appropriation<sup>2</sup>
           </p>
         </th>
-        <td class="right-align">
-          <p>45,217</p>
+        <td>
+          <p class="table-right-aligned">45,217</p>
         </td>
-        <td class="right-align">
-          <p>29,493</p>
+        <td>
+          <p class="table-right-aligned">29,493</p>
         </td>
-        <td class="right-align">
-          <p>15,724</p>
+        <td>
+          <p class="table-right-aligned">15,724</p>
         </td>
       </tr>
-      <tr>
+      <tr class="table-border-bottom">
         <th>
           <p>s. 74 retained revenue receipts</p>
         </th>
-        <td class="right-align">
-          <p>15,414</p>
+        <td>
+          <p class="table-right-aligned">15,414</p>
         </td>
-        <td class="right-align">
-          <p>15,414</p>
+        <td>
+          <p class="table-right-aligned">15,414</p>
         </td>
-        <td class="right-align">
-          <p>-</p>
+        <td>
+          <p class="table-right-aligned">-</p>
         </td>
       </tr>
-      <tr>
+      <tr class="table-border-bottom">
         <th>
           <p>s. 75 transfers</p>
         </th>
-        <td class="right-align">
-          <p>3,075</p>
+        <td>
+          <p class="table-right-aligned">3,075</p>
         </td>
-        <td class="right-align">
-          <p>3,075</p>
+        <td>
+          <p class="table-right-aligned">3,075</p>
         </td>
-        <td class="right-align">
-          <p>-</p>
-        </td>
-      </tr>
-      <tr class="total-row">
-        <th>
-          <p>Total</p>
-        </th>
-        <td class="right-align">
-          <p>73,117</p>
-        </td>
-        <td class="right-align">
-          <p>57,393</p>
-        </td>
-        <td class="right-align">
-          <p>15,724</p>
+        <td>
+          <p class="table-right-aligned">-</p>
         </td>
       </tr>
-      <tr class="total-row">
+      <tr class="table-border-bottom">
         <th>
-          <p>Total ordinary annual services</p>
+          <p class="bold">Total</p>
         </th>
-        <td class="right-align">
-          <p>73,117</p>
+        <td>
+          <p class="table-right-aligned bold">73,117</p>
         </td>
-        <td class="right-align">
-          <p>57,393</p>
+        <td>
+          <p class="table-right-aligned bold">57,393</p>
+        </td>
+        <td>
+          <p class="table-right-aligned bold">15,724</p>
+        </td>
+      </tr>
+      <tr class="table-border-bottom">
+        <th>
+          <p class="bold">Total ordinary annual services</p>
+        </th>
+        <td>
+          <p class="table-right-aligned bold">73,117</p>
+        </td>
+        <td>
+          <p class="table-right-aligned bold">57,393</p>
         </td>
         <td />
       </tr>
-      <tr class="total-row">
+      <tr class="table-border-bottom">
         <th>
-          <p>Total net resourcing for DTA</p>
+          <p class="bold">Total net resourcing for DTA</p>
         </th>
-        <td class="right-align">
-          <p>73,117</p>
+        <td>
+          <p class="table-right-aligned bold">73,117</p>
         </td>
-        <td class="right-align">
-          <p>57,393</p>
+        <td>
+          <p class="table-right-aligned bold">57,393</p>
         </td>
         <td />
       </tr>
@@ -194,23 +194,23 @@ page_group:
       <col />
     </colgroup>
     <thead>
-      <tr class="right-align">
+      <tr>
         <td />
         <th>
-          <p>Budget1<br />2016–17<br />$’000<br />(a)</p>
+          <p class="table-right-aligned bold">Budget<sup>1</sup><br />2016–17<br />$’000<br />(a)</p>
         </th>
         <th>
-          <p>Actual expenses 2016–17<br />$’000<br />(b)</p>
+          <p class="table-right-aligned bold">Actual expenses 2016–17<br />$’000<br />(b)</p>
         </th>
         <th>
-          <p>Variation<br />2016–17<br />$’000<br />(a) - (b)</p>
+          <p class="table-right-aligned bold">Variation<br />2016–17<br />$’000<br />(a) - (b)</p>
         </th>
       </tr>
     </thead>
     <tbody>
       <tr class="table-border-bottom">
         <th colspan="4">
-          <p>Program 1.1: The Digital Transformation Agency</p>
+          <p class="bold">Program 1.1: The Digital Transformation Agency</p>
         </th>
       </tr>
       <tr class="table-border-bottom">
@@ -223,77 +223,77 @@ page_group:
           <p>Departmental appropriation<sup>2</sup>
           </p>
         </th>
-        <td class="right-align">
-          <p>67,646</p>
+        <td>
+          <p class="table-right-aligned">67,646</p>
         </td>
-        <td class="right-align">
-          <p>56,190</p>
+        <td>
+          <p class="table-right-aligned">56,190</p>
         </td>
-        <td class="right-align">
-          <p>11,456</p>
+        <td>
+          <p class="table-right-aligned">11,456</p>
         </td>
       </tr>
       <tr class="table-border-bottom">
         <td>
           <p>Expenses not requiring appropriation in the budget year</p>
         </td>
-        <td class="right-align">
-          <p>393</p>
+        <td>
+          <p class="table-right-aligned">393</p>
         </td>
-        <td class="right-align">
-          <p>1,729</p>
+        <td>
+          <p class="table-right-aligned">1,729</p>
         </td>
-        <td class="right-align">
-          <p>(1,336)</p>
-        </td>
-      </tr>
-      <tr class="total-row">
-        <th>
-          <p>Total for program 1.1</p>
-        </th>
-        <td class="right-align">
-          <p>68,039</p>
-        </td>
-        <td class="right-align">
-          <p>57,919</p>
-        </td>
-        <td class="right-align">
-          <p>10,120</p>
+        <td>
+          <p class="table-right-aligned">(1,336)</p>
         </td>
       </tr>
-      <tr class="total-row">
+      <tr class="table-border-bottom">
         <th>
-          <p>Total expenses for Outcome 1</p>
+          <p class="bold">Total for program 1.1</p>
         </th>
-        <td class="right-align">
-          <p>68,039</p>
+        <td>
+          <p class="table-right-aligned bold">68,039</p>
         </td>
-        <td class="right-align">
-          <p>57,919</p>
+        <td>
+          <p class="table-right-aligned bold">57,919</p>
         </td>
-        <td class="right-align">
-          <p>10,120</p>
+        <td>
+          <p class="table-right-aligned bold">10,120</p>
+        </td>
+      </tr>
+      <tr class="table-border-bottom">
+        <th>
+          <p class="bold">Total expenses for Outcome 1</p>
+        </th>
+        <td>
+          <p class="table-right-aligned bold">68,039</p>
+        </td>
+        <td>
+          <p class="table-right-aligned bold">57,919</p>
+        </td>
+        <td>
+          <p class="table-right-aligned bold">10,120</p>
         </td>
       </tr>
       <tr class="total-row">
         <td />
-        <td class="right-align">
-          <p>2015-16</p>
+        <td>
+          <p class="table-right-aligned bold">2015-16</p>
         </td>
-        <td class="right-align">
-          <p>2016–17</p>
+        <td>
+          <p class="table-right-aligned bold">2016–17</p>
         </td>
         <td />
       </tr>
-      <tr class="total-row">
+      <tr class="table-border-top table-border-bottom">
         <th>
-          <p>Average staffing level (number)</p>
+          <p class="bold">Average staffing level (number)</p>
         </th>
-        <td class="right-align">
-          <p>37</p>
+        <td>
+          <p class="table-right-aligned">37</p>
         </td>
-        <td class="right-align">
-          <p>109</p>
+        <td>
+          <p class="table-right-aligned">109</p>
         </td>
         <td />
       </tr>
@@ -347,7 +347,7 @@ page_group:
 <p>During 2016–17, DTA did not undertake any advertising campaigns. DTA did make payments for market research services as shown below.</p>
 
 <div class="horizontal-scroll-table-container">
-  <table id="payments-for-market-research" class="content-table" summary="Payments for market research. Listed in this table are the payments the DTA made in 2016-17 to various research firms.">
+  <table id="payments-for-market-research" class="content-table financial fy-2016-17" summary="Payments for market research. Listed in this table are the payments the DTA made in 2016-17 to various research firms.">
     <colgroup>
       <col />
       <col />
@@ -361,9 +361,8 @@ page_group:
         <th>
           <p>Service Provided</p>
         </th>
-        <th class="right-align">
-          <p>2017–18</p>
-          <p>Payments<br />made in $<br />(incl. GST)</p>
+        <th>
+          <p class="table-right-aligned">2017–18<br />Payments<br />made in $<br />(incl. GST)</p>
         </th>
       </tr>
     </thead>
@@ -375,8 +374,8 @@ page_group:
         <td>
           <p>User Research and testing sessions</p>
         </td>
-        <td class="right-align">
-          <p>28,824</p>
+        <td>
+          <p class="table-right-aligned">28,824</p>
         </td>
       </tr>
       <tr>
@@ -386,8 +385,8 @@ page_group:
         <td>
           <p>Immersion workshops, stakeholder research and communications review</p>
         </td>
-        <td class="right-align">
-          <p>50,320</p>
+        <td>
+          <p class="table-right-aligned">50,320</p>
         </td>
       </tr>
       <tr>
@@ -397,8 +396,8 @@ page_group:
         <td>
           <p>Retrospective Social listening analysis report</p>
         </td>
-        <td class="right-align">
-          <p>15,000</p>
+        <td>
+          <p class="table-right-aligned">15,000</p>
         </td>
       </tr>
       <tr>
@@ -408,8 +407,8 @@ page_group:
         <td>
           <p>User Research and testing sessions</p>
         </td>
-        <td class="right-align">
-          <p>31,358</p>
+        <td>
+          <p class="table-right-aligned">31,358</p>
         </td>
       </tr>
       <tr>
@@ -419,8 +418,8 @@ page_group:
         <td>
           <p>Healthcare User Research</p>
         </td>
-        <td class="right-align">
-          <p>42,914</p>
+        <td>
+          <p class="table-right-aligned">42,914</p>
         </td>
       </tr>
       <tr>
@@ -430,8 +429,8 @@ page_group:
         <td>
           <p>User Research and testing sessions</p>
         </td>
-        <td class="right-align">
-          <p>41,250</p>
+        <td>
+          <p class="table-right-aligned">41,250</p>
         </td>
       </tr>
       <tr>
@@ -441,8 +440,8 @@ page_group:
         <td>
           <p>User Research and testing sessions</p>
         </td>
-        <td class="right-align">
-          <p>21,660</p>
+        <td>
+          <p class="table-right-aligned">21,660</p>
         </td>
       </tr>
       <tr>
@@ -452,8 +451,8 @@ page_group:
         <td>
           <p>User Research and testing sessions</p>
         </td>
-        <td class="right-align">
-          <p>99,088</p>
+        <td>
+          <p class="table-right-aligned">99,088</p>
         </td>
       </tr>
     </tbody>
@@ -500,23 +499,23 @@ page_group:
       <tr>
         <th />
         <th>
-          <p>Notes</p>
+          <p class="body">Notes</p>
         </th>
         <th>
-          <p class="table-right-align bold">2017<br />$’000</p>
+          <p class="table-right-aligned bold">2017<br />$’000</p>
         </th>
         <th>
-          <p>2016<br />$’000</p>
+          <p class="table-right-aligned body">2016<br />$’000</p>
         </th>
         <th>
-          <p>Original<br />Budget<br />$’000</p>
+          <p class="table-right-aligned body">Original<br />Budget<br />$’000</p>
         </th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <th colspan="5">
-          <p class="table-all-caps">NET COST OF SERVICES</p>
+          <p class="table-all-caps">Net cost of services</p>
         </th>
       </tr>
       <tr>
@@ -532,13 +531,13 @@ page_group:
           <p>1.1A</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-align bold">17,207</p>
+          <p class="table-right-aligned bold">17,207</p>
         </td>
         <td>
-          <p>6,633</p>
+          <p class="table-right-aligned body">6,633</p>
         </td>
         <td>
-          <p>10,487</p>
+          <p class="table-right-aligned body">10,487</p>
         </td>
       </tr>
       <tr>
@@ -549,13 +548,13 @@ page_group:
           <p>1.1B</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-align bold">39,560</p>
+          <p class="table-right-aligned bold">39,560</p>
         </td>
         <td>
-          <p>20,423</p>
+          <p class="table-right-aligned body">20,423</p>
         </td>
         <td>
-          <p>24,404</p>
+          <p class="table-right-aligned body">24,404</p>
         </td>
       </tr>
       <tr>
@@ -566,13 +565,13 @@ page_group:
           <p>2.2A</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-align bold">1,138</p>
+          <p class="table-right-aligned bold">1,138</p>
         </td>
         <td>
-          <p>848</p>
+          <p class="table-right-aligned body">848</p>
         </td>
         <td>
-          <p>208</p>
+          <p class="table-right-aligned body">208</p>
         </td>
       </tr>
       <tr>
@@ -583,13 +582,13 @@ page_group:
           <p>2.2A</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-align bold">3</p>
+          <p class="table-right-aligned bold">3</p>
         </td>
         <td>
-          <p>957</p>
+          <p class="table-right-aligned body">957</p>
         </td>
         <td>
-          <p>-</p>
+          <p class="table-right-aligned body">-</p>
         </td>
       </tr>
       <tr>
@@ -600,7 +599,7 @@ page_group:
           <p>2.4A</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-align bold">11</p>
+          <p class="table-right-aligned bold">11</p>
         </td>
         <td>
           <p>-</p>
@@ -614,13 +613,13 @@ page_group:
           <p class="bold italic">Total expenses</p>
         </th>
         <td>
-          <p class="table-right-aligned table-right-align bold">57,919</p>
+          <p class="table-right-aligned bold">57,919</p>
         </td>
         <td>
-          <p>28,861</p>
+          <p class="table-right-aligned body">28,861</p>
         </td>
         <td>
-          <p>35,099</p>
+          <p class="table-right-aligned body">35,099</p>
         </td>
       </tr>
       <tr>
@@ -636,13 +635,13 @@ page_group:
           <p>1.2A</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-align bold">10,000</p>
+          <p class="table-right-aligned bold">10,000</p>
         </td>
         <td>
-          <p>-</p>
+          <p class="table-right-aligned body">-</p>
         </td>
         <td>
-          <p>-</p>
+          <p class="table-right-aligned body">-</p>
         </td>
       </tr>
       <tr>
@@ -651,13 +650,13 @@ page_group:
         </th>
         <td />
         <td>
-          <p class="table-right-aligned table-right-align bold">5,431</p>
+          <p class="table-right-aligned bold">5,431</p>
         </td>
         <td>
-          <p>-</p>
+          <p class="table-right-aligned body">-</p>
         </td>
         <td>
-          <p>-</p>
+          <p class="table-right-aligned body">-</p>
         </td>
       </tr>
       <tr>
@@ -668,13 +667,13 @@ page_group:
           <p>1.2B</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-align bold">577</p>
+          <p class="table-right-aligned bold">577</p>
         </td>
         <td>
-          <p>261</p>
+          <p class="table-right-aligned body">261</p>
         </td>
         <td>
-          <p>185</p>
+          <p class="table-right-aligned body">185</p>
         </td>
       </tr>
       <tr class="table-border-top table-border-bottom">
@@ -682,13 +681,13 @@ page_group:
           <p class="bold italic">Total own-source revenue</p>
         </th>
         <td>
-          <p class="table-right-aligned table-right-align bold">16,008</p>
+          <p class="table-right-aligned bold">16,008</p>
         </td>
         <td>
-          <p>261</p>
+          <p class="table-right-aligned body">261</p>
         </td>
         <td>
-          <p>185</p>
+          <p class="table-right-aligned body">185</p>
         </td>
       </tr>
       <tr>
@@ -697,13 +696,13 @@ page_group:
         </th>
         <td />
         <td>
-          <p class="table-right-aligned table-right-align bold">41,911</p>
+          <p class="table-right-aligned bold">41,911</p>
         </td>
         <td>
-          <p>28,600</p>
+          <p class="table-right-aligned body">28,600</p>
         </td>
         <td>
-          <p>34,914</p>
+          <p class="table-right-aligned body">34,914</p>
         </td>
       </tr>
       <tr>
@@ -712,13 +711,13 @@ page_group:
         </th>
         <td />
         <td>
-          <p class="table-right-aligned table-right-align bold">48,292</p>
+          <p class="table-right-aligned bold">48,292</p>
         </td>
         <td>
-          <p>30,525</p>
+          <p class="table-right-aligned body">30,525</p>
         </td>
         <td>
-          <p>34,706</p>
+          <p class="table-right-aligned body">34,706</p>
         </td>
       </tr>
       <tr>
@@ -727,18 +726,18 @@ page_group:
         </th>
         <td />
         <td>
-          <p class="table-right-aligned table-right-align bold">6,381</p>
+          <p class="table-right-aligned bold">6,381</p>
         </td>
         <td>
-          <p>1,925</p>
+          <p class="table-right-aligned body">1,925</p>
         </td>
         <td>
-          <p>(208)</p>
+          <p class="table-right-aligned body">(208)</p>
         </td>
       </tr>
       <tr>
         <th colspan="5">
-          <p class="table-all-caps">OTHER COMPREHENSIVE INCOME</p>
+          <p class="table-all-caps">Other comprehensive income</p>
         </th>
       </tr>
       <tr>
@@ -767,13 +766,13 @@ page_group:
         </th>
         <td />
         <td>
-          <p class="table-right-aligned table-right-align bold">6,620</p>
+          <p class="table-right-aligned bold">6,620</p>
         </td>
         <td>
-          <p>1,925</p>
+          <p class="table-right-aligned body">1,925</p>
         </td>
         <td>
-          <p>(208)</p>
+          <p class="table-right-aligned body">(208)</p>
         </td>
       </tr>
     </tbody>
@@ -804,23 +803,23 @@ page_group:
       <tr>
         <th />
         <th>
-          <p>Notes</p>
+          <p class="body">Notes</p>
         </th>
         <th>
-          <p class="table-right-align bold">2017<br />$’000</p>
+          <p class="table-right-aligned bold">2017<br />$’000</p>
         </th>
         <th>
-          <p>2016<br />$’000</p>
+          <p class="table-right-aligned body">2016<br />$’000</p>
         </th>
         <th>
-          <p>Original<br />Budget<br />$’000</p>
+          <p class="table-right-aligned body">Original<br />Budget<br />$’000</p>
         </th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <th colspan="5">
-          <p class="table-all-caps">ASSETS</p>
+          <p class="table-all-caps">Assets</p>
         </th>
       </tr>
       <tr>
@@ -834,13 +833,13 @@ page_group:
         </th>
         <td />
         <td>
-          <p class="table-right-aligned table-right-aligned bold">557</p>
+          <p class="table-right-aligned bold">557</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">145</p>
+          <p class="table-right-aligned body">145</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">250</p>
+          <p class="table-right-aligned body">250</p>
         </td>
       </tr>
       <tr>
@@ -851,13 +850,13 @@ page_group:
           <p>2.1A</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">21,129</p>
+          <p class="table-right-aligned bold">21,129</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">10,451</p>
+          <p class="table-right-aligned body">10,451</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">621</p>
+          <p class="table-right-aligned body">621</p>
         </td>
       </tr>
       <tr class="table-border-top table-border-bottom">
@@ -866,13 +865,13 @@ page_group:
         </th>
         <td />
         <td>
-          <p class="table-right-aligned table-right-aligned bold">21,686</p>
+          <p class="table-right-aligned bold">21,686</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">10,596</p>
+          <p class="table-right-aligned body">10,596</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">871</p>
+          <p class="table-right-aligned body">871</p>
         </td>
       </tr>
       <tr>
@@ -888,13 +887,13 @@ page_group:
           <p>2.2A</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">2,063</p>
+          <p class="table-right-aligned bold">2,063</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">1,461</p>
+          <p class="table-right-aligned body">1,461</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">-</p>
+          <p class="table-right-aligned body">-</p>
         </td>
       </tr>
       <tr>
@@ -905,13 +904,13 @@ page_group:
           <p>2.2A</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">647</p>
+          <p class="table-right-aligned bold">647</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">572</p>
+          <p class="table-right-aligned body">572</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">1,179</p>
+          <p class="table-right-aligned body">1,179</p>
         </td>
       </tr>
       <tr>
@@ -922,13 +921,13 @@ page_group:
           <p>2.2A</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">-</p>
+          <p class="table-right-aligned bold">-</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">364</p>
+          <p class="table-right-aligned body">364</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">-</p>
+          <p class="table-right-aligned body">-</p>
         </td>
       </tr>
       <tr>
@@ -937,13 +936,13 @@ page_group:
         </th>
         <td />
         <td>
-          <p class="table-right-aligned table-right-aligned bold">595</p>
+          <p class="table-right-aligned bold">595</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">348</p>
+          <p class="table-right-aligned body">348</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">202</p>
+          <p class="table-right-aligned body">202</p>
         </td>
       </tr>
       <tr class="table-border-bottom table-border-top">
@@ -952,13 +951,13 @@ page_group:
         </th>
         <td />
         <td>
-          <p class="table-right-aligned table-right-aligned bold">3,305</p>
+          <p class="table-right-aligned bold">3,305</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">2,745</p>
+          <p class="table-right-aligned body">2,745</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">1,381</p>
+          <p class="table-right-aligned body">1,381</p>
         </td>
       </tr>
       <tr class="table-border-bottom">
@@ -967,18 +966,18 @@ page_group:
         </th>
         <td />
         <td>
-          <p class="table-right-aligned table-right-aligned bold">24,991</p>
+          <p class="table-right-aligned bold">24,991</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">13,341</p>
+          <p class="table-right-aligned body">13,341</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">2,252</p>
+          <p class="table-right-aligned body">2,252</p>
         </td>
       </tr>
       <tr>
         <th colspan="5">
-          <p class="table-all-caps">LIABILITIES</p>
+          <p class="table-all-caps">Liabilities</p>
         </th>
       </tr>
       <tr>
@@ -994,13 +993,13 @@ page_group:
           <p>2.3A</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">4,896</p>
+          <p class="table-right-aligned bold">4,896</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">5,926</p>
+          <p class="table-right-aligned body">5,926</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">410</p>
+          <p class="table-right-aligned body">410</p>
         </td>
       </tr>
       <tr>
@@ -1011,13 +1010,13 @@ page_group:
           <p>2.3B</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">1,196</p>
+          <p class="table-right-aligned bold">1,196</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">210</p>
+          <p class="table-right-aligned body">210</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">-</p>
+          <p class="table-right-aligned body">-</p>
         </td>
       </tr>
       <tr class="table-border-top table-border-bottom">
@@ -1026,13 +1025,13 @@ page_group:
         </th>
         <td />
         <td>
-          <p class="table-right-aligned table-right-aligned bold">6,092</p>
+          <p class="table-right-aligned bold">6,092</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">6,136</p>
+          <p class="table-right-aligned body">6,136</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">410</p>
+          <p class="table-right-aligned body">410</p>
         </td>
       </tr>
       <tr>
@@ -1048,13 +1047,13 @@ page_group:
           <p>4.1A</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">6,313</p>
+          <p class="table-right-aligned bold">6,313</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">1,463</p>
+          <p class="table-right-aligned body">1,463</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">1,257</p>
+          <p class="table-right-aligned body">1,257</p>
         </td>
       </tr>
       <tr>
@@ -1065,13 +1064,13 @@ page_group:
           <p>2.4A</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">549</p>
+          <p class="table-right-aligned bold">549</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">325</p>
+          <p class="table-right-aligned body">325</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">-</p>
+          <p class="table-right-aligned body">-</p>
         </td>
       </tr>
       <tr class="table-border-top table-border-bottom">
@@ -1080,13 +1079,13 @@ page_group:
         </th>
         <td />
         <td>
-          <p class="table-right-aligned table-right-aligned bold">6,862</p>
+          <p class="table-right-aligned bold">6,862</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">1,788</p>
+          <p class="table-right-aligned body">1,788</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">1,257</p>
+          <p class="table-right-aligned body">1,257</p>
         </td>
       </tr>
       <tr class="table-border-bottom">
@@ -1095,13 +1094,13 @@ page_group:
         </th>
         <td />
         <td>
-          <p class="table-right-aligned table-right-aligned bold">12,954</p>
+          <p class="table-right-aligned bold">12,954</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">7,924</p>
+          <p class="table-right-aligned body">7,924</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">1,667</p>
+          <p class="table-right-aligned body">1,667</p>
         </td>
       </tr>
       <tr class="table-border-bottom">
@@ -1110,18 +1109,18 @@ page_group:
         </th>
         <td />
         <td>
-          <p class="table-right-aligned table-right-aligned bold">12,037</p>
+          <p class="table-right-aligned bold">12,037</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">5,417</p>
+          <p class="table-right-aligned body">5,417</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">585</p>
+          <p class="table-right-aligned body">585</p>
         </td>
       </tr>
       <tr>
         <th colspan="5">
-          <p class="table-all-caps">EQUITY</p>
+          <p class="table-all-caps">Equity</p>
         </th>
       </tr>
       <tr>
@@ -1130,13 +1129,13 @@ page_group:
         </th>
         <td />
         <td>
-          <p class="table-right-aligned table-right-aligned bold">3,492</p>
+          <p class="table-right-aligned bold">3,492</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">3,492</p>
+          <p class="table-right-aligned body">3,492</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">906</p>
+          <p class="table-right-aligned body">906</p>
         </td>
       </tr>
       <tr>
@@ -1145,13 +1144,13 @@ page_group:
         </th>
         <td />
         <td>
-          <p class="table-right-aligned table-right-aligned bold">239</p>
+          <p class="table-right-aligned bold">239</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">-</p>
+          <p class="table-right-aligned body">-</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">-</p>
+          <p class="table-right-aligned body">-</p>
         </td>
       </tr>
       <tr>
@@ -1160,13 +1159,13 @@ page_group:
         </th>
         <td />
         <td>
-          <p class="table-right-aligned table-right-aligned bold">8,306</p>
+          <p class="table-right-aligned bold">8,306</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">1,925</p>
+          <p class="table-right-aligned body">1,925</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">(321)</p>
+          <p class="table-right-aligned body">(321)</p>
         </td>
       </tr>
       <tr class="table-border-top table-border-bottom">
@@ -1175,13 +1174,13 @@ page_group:
         </th>
         <td />
         <td>
-          <p class="table-right-aligned table-right-aligned bold">12,037</p>
+          <p class="table-right-aligned bold">12,037</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">5,417</p>
+          <p class="table-right-aligned body">5,417</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned body">585</p>
+          <p class="table-right-aligned body">585</p>
         </td>
       </tr>
     </tbody>
@@ -1224,7 +1223,7 @@ page_group:
     <tbody>
       <tr>
         <th colspan="4">
-          <p class="table-all-caps">TOTAL EQUITY - OPENING BALANCE</p>
+          <p class="table-all-caps">Total equity - opening balance</p>
         </th>
       </tr>
       <tr>
@@ -1237,7 +1236,7 @@ page_group:
           <p class="table-left-indent">Contributed equity</p>
         </th>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">3,492</p>
+          <p class="table-right-aligned bold">3,492</p>
         </td>
         <td>
           <p class="table-right-aligned">-</p>
@@ -1251,7 +1250,7 @@ page_group:
           <p class="table-left-indent">Asset revaluation reserve</p>
         </th>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">-</p>
+          <p class="table-right-aligned bold">-</p>
         </td>
         <td>
           <p class="table-right-aligned">-</p>
@@ -1265,7 +1264,7 @@ page_group:
           <p class="table-left-indent">Retained earnings</p>
         </th>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">1,925</p>
+          <p class="table-right-aligned bold">1,925</p>
         </td>
         <td>
           <p class="table-right-aligned">-</p>
@@ -1279,7 +1278,7 @@ page_group:
           <p class="bold italic">Adjusted opening balance</p>
         </th>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">5,417</p>
+          <p class="table-right-aligned bold">5,417</p>
         </td>
         <td>
           <p class="table-right-aligned">-</p>
@@ -1303,7 +1302,7 @@ page_group:
           <p class="table-left-indent">Surplus/(Deficit) for the period</p>
         </th>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">6,381</p>
+          <p class="table-right-aligned bold">6,381</p>
         </td>
         <td>
           <p class="table-right-aligned">1,925</p>
@@ -1322,7 +1321,7 @@ page_group:
           <p class="table-left-indent">Other comprehensive income</p>
         </th>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">239</p>
+          <p class="table-right-aligned bold">239</p>
         </td>
         <td>
           <p class="table-right-aligned">-</p>
@@ -1336,7 +1335,7 @@ page_group:
           <p class="bold italic">Total comprehensive income</p>
         </th>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">6,620</p>
+          <p class="table-right-aligned bold">6,620</p>
         </td>
         <td>
           <p class="table-right-aligned">1,925</p>
@@ -1373,7 +1372,7 @@ page_group:
           <p class="table-left-indent">Return of Appropriation (equity injection)</p>
         </th>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">-</p>
+          <p class="table-right-aligned bold">-</p>
         </td>
         <td>
           <p class="table-right-aligned">(2,226)</p>
@@ -1395,7 +1394,7 @@ page_group:
           <p class="table-left-indent">Restructuring<sup>1</sup></p>
         </th>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">-</p>
+          <p class="table-right-aligned bold">-</p>
         </td>
         <td>
           <p class="table-right-aligned">1,992</p>
@@ -1409,7 +1408,7 @@ page_group:
           <p class="table-left-indent">Appropriation (equity injection)</p>
         </th>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">-</p>
+          <p class="table-right-aligned bold">-</p>
         </td>
         <td>
           <p class="table-right-aligned">2,226</p>
@@ -1423,7 +1422,7 @@ page_group:
           <p class="table-left-indent">Departmental Capital Budget (DCB)</p>
         </th>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">-</p>
+          <p class="table-right-aligned bold">-</p>
         </td>
         <td>
           <p class="table-right-aligned">1,500</p>
@@ -1437,7 +1436,7 @@ page_group:
           <p class="bold italic">Total transactions with owners</p>
         </th>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">-</p>
+          <p class="table-right-aligned bold">-</p>
         </td>
         <td>
           <p class="table-right-aligned">3,492</p>
@@ -1456,7 +1455,7 @@ page_group:
           <p class="table-left-indent">Contributed equity</p>
         </th>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">3,492</p>
+          <p class="table-right-aligned bold">3,492</p>
         </td>
         <td>
           <p class="table-right-aligned">3,492</p>
@@ -1470,7 +1469,7 @@ page_group:
           <p class="table-left-indent">Asset revaluation reserve</p>
         </th>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">239</p>
+          <p class="table-right-aligned bold">239</p>
         </td>
         <td>
           <p class="table-right-aligned">-</p>
@@ -1484,7 +1483,7 @@ page_group:
           <p class="table-left-indent">Retained earnings</p>
         </th>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">8,306</p>
+          <p class="table-right-aligned bold">8,306</p>
         </td>
         <td>
           <p class="table-right-aligned">1,925</p>
@@ -1498,7 +1497,7 @@ page_group:
           <p class="bold italic">Closing balance as at 30 June</p>
         </td>
         <td>
-          <p class="table-right-aligned table-right-aligned bold">12,037</p>
+          <p class="table-right-aligned bold">12,037</p>
         </td>
         <td>
           <p class="table-right-aligned">5,417</p>
@@ -1546,7 +1545,7 @@ page_group:
       <tr>
         <td />
         <th>
-          <p>Notes</p>
+          <p class="body">Notes</p>
         </th>
         <th>
           <p class="table-right-aligned bold">2017<br />$’000</p>
@@ -1563,7 +1562,7 @@ page_group:
     <tbody>
       <tr>
         <th colspan="5">
-          <p class="table-all-caps">OPERATING ACTIVITIES</p>
+          <p class="table-all-caps">Operating activities</p>
         </th>
       </tr>
       <tr>
@@ -1713,7 +1712,7 @@ page_group:
       </tr>
       <tr>
         <th colspan="5">
-          <p class="table-all-caps">INVESTING ACTIVITIES</p>
+          <p class="table-all-caps">Investing activities</p>
         </th>
       </tr>
       <tr>
@@ -1888,49 +1887,55 @@ page_group:
 
 <p><em>for the period ended 30 June 2017</em></p>
 
-<ol>
-  <li style="list-style-type: none;"><a href="#overview">Overview</a></li>
-  <li value="1"><a href="#1-financial-performance">Financial performance</a>
-    <ol>
-      <li><a href="#1-1-expenses">Expenses</a></li>
-      <li><a href="#1-2-own-source-revenue-and-gains">Own-Source Revenue and Gains</a></li>
-    </ol>
-  </li>
-  <li><a href="#2-financial-position">Financial Position</a>
-    <ol>
-      <li><a href="#2-1-financial-assets">Financial Assets</a></li>
-      <li><a href="#2-2-non-financial-assets">Non-Financial Assets</a></li>
-      <li><a href="#2-3-payables">Payables</a></li>
-      <li><a href="#2-4-other-provisions">Other Provisions</a></li>
-    </ol>
-  </li>
-  <li><a href="#3-funding">Funding</a>
-    <ol>
-      <li><a href="#3-1-appropriations">Appropriations</a></li>
-    </ol>
-  </li>
-  <li><a href="#4-people-and-relationships">People and Relationships</a>
-    <ol>
-      <li><a href="#4-1-employee-provisions">Employee provisions</a></li>
-      <li><a href="#4-2-key-management-personnel-remuneration">Key Management Personnel Remuneration</a></li>
-      <li><a href="#4-3-related-party-disclosures">Related Party Disclosures</a></li>
-    </ol>
-  </li>
-  <li><a href="#5-managing-uncertainties">Managing Uncertainties</a>
-    <ol>
-      <li><a href="#5-1-contingent-asset-and-liabilities">Contingent Asset and Liabilities</a></li>
-      <li><a href="#5-2-financial-instruments">Financial Instruments</a></li>
-    </ol>
-  </li>
-  <li><a href="#6-other-information">Other Information</a>
-    <ol>
-      <li><a href="#6-1-restructuring">Restructuring</a></li>
-      <li><a href="#6-2-budgetary-explanation-of-major-variances">Budgetary Explanation of Major Variances</a></li>
-    </ol>
-  </li>
-</ol>
+<nav id="menu-notes">
+  <ol>
+    <li style="list-style-type: none;"><a href="#overview">Overview</a></li>
+    <li value="1"><a href="#1-financial-performance">Financial performance</a>
+      <ol>
+        <li><a href="#1-1-expenses">Expenses</a></li>
+        <li><a href="#1-2-own-source-revenue-and-gains">Own-Source Revenue and Gains</a></li>
+      </ol>
+    </li>
+    <li><a href="#2-financial-position">Financial Position</a>
+      <ol>
+        <li><a href="#2-1-financial-assets">Financial Assets</a></li>
+        <li><a href="#2-2-non-financial-assets">Non-Financial Assets</a></li>
+        <li><a href="#2-3-payables">Payables</a></li>
+        <li><a href="#2-4-other-provisions">Other Provisions</a></li>
+      </ol>
+    </li>
+    <li><a href="#3-funding">Funding</a>
+      <ol>
+        <li><a href="#3-1-appropriations">Appropriations</a></li>
+      </ol>
+    </li>
+    <li><a href="#4-people-and-relationships">People and Relationships</a>
+      <ol>
+        <li><a href="#4-1-employee-provisions">Employee provisions</a></li>
+        <li><a href="#4-2-key-management-personnel-remuneration">Key Management Personnel Remuneration</a></li>
+        <li><a href="#4-3-related-party-disclosures">Related Party Disclosures</a></li>
+      </ol>
+    </li>
+    <li><a href="#5-managing-uncertainties">Managing Uncertainties</a>
+      <ol>
+        <li><a href="#5-1-contingent-asset-and-liabilities">Contingent Asset and Liabilities</a></li>
+        <li><a href="#5-2-financial-instruments">Financial Instruments</a></li>
+      </ol>
+    </li>
+    <li><a href="#6-other-information">Other Information</a>
+      <ol>
+        <li><a href="#6-1-restructuring">Restructuring</a></li>
+        <li><a href="#6-2-budgetary-explanation-of-major-variances">Budgetary Explanation of Major Variances</a></li>
+      </ol>
+    </li>
+  </ol>
+</nav>
 
-{% include hx.html lvl="3" text="Overview" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="3" hide-back-to-top=1 text="Overview" %}
 
 <p>Basis of preparation of the financial statements</p>
 <p>The financial statements are general purpose financial statements and are required by section 42 of the <em>Public Governance, Performance and Accountability Act 2013.</em></p>
@@ -1950,11 +1955,19 @@ page_group:
 <h4>Revenue from Government</h4>
 <p>Amounts appropriated for departmental ordinary annual services for the year (adjusted for any formal additions and reductions) are recognised as Revenue from Government when DTA gains control of the appropriation, except for certain amounts that relate to activities that are reciprocal in nature, in which case revenue is recognised only when it has been earned. Appropriations receivable are recognised at their nominal amounts.</p>
 
-{% include hx.html lvl="3" text="1. Financial Performance" id="1-financial-performance"%}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="3" hide-back-to-top=1 text="1. Financial Performance" id="1-financial-performance"%}
 
 <p>This section analyses the financial performance of the Digital Transformation Agency for the year ended 30 June 2017.</p>
 
-{% include hx.html lvl="4" text="1.1 Expenses" id="1-1-expenses" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="4" hide-back-to-top=1 text="1.1 Expenses" id="1-1-expenses" %}
 
 <div class="horizontal-scroll-table-container">
   <table id="table-expenses-1-1A" class="content-table financial fy-2016-17" summary="Table of expenses: note 1.1A">
@@ -1967,10 +1980,10 @@ page_group:
       <tr>
         <th />
         <th>
-          <p class="bold">2017<br />$’000</p>
+          <p class="table-right-aligned bold">2017<br />$’000</p>
         </th>
         <th>
-          <p class="table-right-aligned">2016<br /> $’000</p>
+          <p class="table-right-aligned body">2016<br /> $’000</p>
         </th>
       </tr>
     </thead>
@@ -1998,7 +2011,7 @@ page_group:
       </tr>
       <tr>
         <th>
-          <p class="table-indent-left">Defined contribution plans</p>
+          <p class="table-left-indent">Defined contribution plans</p>
         </th>
         <td>
           <p class="table-right-aligned bold">1,247</p>
@@ -2009,7 +2022,7 @@ page_group:
       </tr>
       <tr>
         <th>
-          <p class="table-indent-left">Defined benefit plans</p>
+          <p class="table-left-indent">Defined benefit plans</p>
         </th>
         <td>
           <p class="table-right-aligned bold">887</p>
@@ -2086,7 +2099,7 @@ page_group:
       </tr>
       <tr>
         <th>
-          <p class="table-indent-left">Consultants, contractors and legal</p>
+          <p class="table-left-indent">Consultants, contractors and legal</p>
         </th>
         <td>
           <p class="table-right-aligned bold">24,725</p>
@@ -2097,7 +2110,7 @@ page_group:
       </tr>
       <tr>
         <th>
-          <p class="table-indent-left">Information technology and communication</p>
+          <p class="table-left-indent">Information technology and communication</p>
         </th>
         <td>
           <p class="table-right-aligned bold">3,421</p>
@@ -2108,7 +2121,7 @@ page_group:
       </tr>
       <tr>
         <th>
-          <p class="table-indent-left">Payments to other government agencies<sup>1</sup>
+          <p class="table-left-indent">Payments to other government agencies<sup>1</sup>
           </p>
         </th>
         <td>
@@ -2120,7 +2133,7 @@ page_group:
       </tr>
       <tr>
         <th>
-          <p class="table-indent-left">Secondments</p>
+          <p class="table-left-indent">Secondments</p>
         </th>
         <td>
           <p class="table-right-aligned bold">2,331</p>
@@ -2131,7 +2144,7 @@ page_group:
       </tr>
       <tr>
         <th>
-          <p class="table-indent-left">Training, recruitment and other staff costs</p>
+          <p class="table-left-indent">Training, recruitment and other staff costs</p>
         </th>
         <td>
           <p class="table-right-aligned bold">1,471</p>
@@ -2142,7 +2155,7 @@ page_group:
       </tr>
       <tr>
         <th>
-          <p class="table-indent-left">Travel</p>
+          <p class="table-left-indent">Travel</p>
         </th>
         <td>
           <p class="table-right-aligned bold">1,366</p>
@@ -2153,7 +2166,7 @@ page_group:
       </tr>
       <tr>
         <th>
-          <p class="table-indent-left">Other</p>
+          <p class="table-left-indent">Other</p>
         </th>
         <td>
           <p class="table-right-aligned bold">1,526</p>
@@ -2213,7 +2226,7 @@ page_group:
       </tr>
       <tr>
         <th>
-          <p class="table-indent-left">Operating lease rentals</p>
+          <p class="table-left-indent">Operating lease rentals</p>
         </th>
         <td>
           <p class="table-right-aligned bold">1,665</p>
@@ -2224,7 +2237,7 @@ page_group:
       </tr>
       <tr>
         <th>
-          <p class="table-indent-left">Workers compensation expenses</p>
+          <p class="table-left-indent">Workers compensation expenses</p>
         </th>
         <td>
           <p class="table-right-aligned bold">53</p>
@@ -2267,7 +2280,7 @@ page_group:
       </tr>
       <tr>
         <th>
-          <p class="table-indent-left">Within 1 year</p>
+          <p class="table-left-indent">Within 1 year</p>
         </th>
         <td>
           <p class="table-right-aligned bold">2,134</p>
@@ -2278,7 +2291,7 @@ page_group:
       </tr>
       <tr>
         <th>
-          <p class="table-indent-left">Between 1 to 5 years</p>
+          <p class="table-left-indent">Between 1 to 5 years</p>
         </th>
         <td>
           <p class="table-right-aligned bold">2,391</p>
@@ -2317,7 +2330,11 @@ page_group:
 <h5>Accounting Policy</h5>
 <p>Operating lease payments are expensed on a straight-line basis which is representative of the pattern of benefits derived from the leased assets.</p>
 
-{% include hx.html lvl="4" text="1.2 Own-Source Revenue and Gains" id="1-2-own-source-revenue-and-gains"%}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="4" hide-back-to-top=1 text="1.2 Own-Source Revenue and Gains" id="1-2-own-source-revenue-and-gains"%}
 
 <div class="horizontal-scroll-table-container">
   <table id="table-own-source-revenue-and-gains-1-2A" class="content-table financial fy-2016-17" summary="Table of own-source revenue and gains: note 1.2A.">
@@ -2447,13 +2464,21 @@ page_group:
 <h5>Accounting Policy</h5>
 <p>Resources received free of charge are recognised as revenue when, and only when, a fair value can be reliably determined and the services would have been purchased if they had not been donated. Use of those resources is recognised as an expense. Resources received free of charge are recorded as either revenue or gains depending on their nature.</p>
 
-{% include hx.html lvl="3" text="2. Financial Position" id="2-financial-position" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="3" hide-back-to-top=1 text="2. Financial Position" id="2-financial-position" %}
 
 <p>This section analyses the Digital Transformation Agency’s assets used to generate financial performance and the operating liabilities incurred as a result.</p>
 <p>Leasehold improvements and plant and equipment are carried at fair value in accordance with AASB 13 <em>Fair Value Measurement</em>. The remaining assets and liabilities disclosed in the statement of financial position do not apply the fair value hierarchy.</p>
 <p>Employee related information is disclosed in the People and Relationships section.</p>
 
-{% include hx.html lvl="4" text="2.1 Financial Assets" id="2-1-financial-assets" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="4" hide-back-to-top=1 text="2.1 Financial Assets" id="2-1-financial-assets" %}
 
 <div class="horizontal-scroll-table-container">
   <table id="table-financial-assets" class="content-table financial fy-2016-17" summary="Table of financial assets.">
@@ -2600,7 +2625,11 @@ page_group:
 <h6>Loans and Receivables</h6>
 <p>Trade receivables, loans and other receivables that have fixed or determinable payments and that are not quoted in an active market are classified as ‘loans and receivables’. Loans and receivables are measured at amortised cost using the effective interest method less impairment.</p>
 
-{% include hx.html lvl="4" text="2.2 Non-Financial Assets" id="2-2-non-financial-assets" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="4" hide-back-to-top=1 text="2.2 Non-Financial Assets" id="2-2-non-financial-assets" %}
 
 <h5>Note 2.2A: Reconciliation of the Opening and Closing Balances of Property, Plant and Equipment and Intangibles</h5>
 <p>Reconciliation of the opening and closing balances of property, plant and equipment and intangibles for 2017.</p>
@@ -3002,7 +3031,11 @@ page_group:
 <p>A write-down of $3,000 was recognised in 2017 (2016: $957,000) for the write-off of plant and equipment assets as a result of the annual asset stocktake process.</p>
 
 
-{% include hx.html lvl="4" text="2.3 Payables" id="2-3-payables" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="4" hide-back-to-top=1 text="2.3 Payables" id="2-3-payables" %}
 
 <div class="horizontal-scroll-table-container">
   <table id="table-payables-2-3A" class="content-table financial fy-2016-17" summary="Table of payables: note 2.3A.">
@@ -3150,7 +3183,11 @@ page_group:
   </table>
 </div>
 
-{% include hx.html lvl="4" text="2.4 Other Provisions" id="2-4-other-provisions" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="4" hide-back-to-top=1 text="2.4 Other Provisions" id="2-4-other-provisions" %}
 
 <div class="horizontal-scroll-table-container">
   <table id="table-others-provisions" class="content-table financial fy-2016-17" summary="Table of other provisions.">
@@ -3181,7 +3218,7 @@ page_group:
           <p>As at 1 July 2016</p>
         </th>
         <td>
-          <p class="table-right-align bold">325</p>
+          <p class="table-right-aligned bold">325</p>
         </td>
         <td>
           <p>-</p>
@@ -3192,7 +3229,7 @@ page_group:
           <p class="table-left-indent">Additional provisions made</p>
         </th>
         <td>
-          <p class="table-right-align bold">213</p>
+          <p class="table-right-aligned bold">213</p>
         </td>
         <td>
           <p>325</p>
@@ -3203,7 +3240,7 @@ page_group:
           <p class="table-left-indent">Unwinding of discount or change in discount rate</p>
         </th>
         <td>
-          <p class="table-right-align bold">11</p>
+          <p class="table-right-aligned bold">11</p>
         </td>
         <td>
           <p>-</p>
@@ -3214,7 +3251,7 @@ page_group:
           <p class="bold italic">Total as at 30 June 2017</p>
         </th>
         <td>
-          <p class="table-right-align bold">549</p>
+          <p class="table-right-aligned bold">549</p>
         </td>
         <td>
           <p>325</p>
@@ -3228,11 +3265,19 @@ page_group:
 <h5>Accounting Policy</h5>
 <p>Provision for the restoration of leased premises (make good) is based on future obligations relating to the underlying assets. The provision is disclosed at the present value of the obligation utilising the appropriate Government bond rate.</p>
 
-{% include hx.html lvl="3" text="3. Funding" id="3-funding" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="3" hide-back-to-top=1 text="3. Funding" id="3-funding" %}
 
 <p>This section identifies the DTA’s funding structure.</p>
 
-{% include hx.html lvl="4" text="3.1 Appropriations" id="3-1-appropriations" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="4" hide-back-to-top=1 text="3.1 Appropriations" id="3-1-appropriations" %}
 
 <p>Note 3.1A: Annual Appropriations (‘Recoverable GST exclusive’)</p>
 
@@ -3683,11 +3728,19 @@ page_group:
   </table>
 </div>
 
-{% include hx.html lvl="3" text="4. People and Relationships" id="4-people-and-relationships" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="3" hide-back-to-top=1 text="4. People and Relationships" id="4-people-and-relationships" %}
 
 <p>This section describes a range of employment and post-employment benefits provided to our people and our relationships with other key people.</p>
 
-{% include hx.html lvl="4" text="4.1 Employee Provisions" id="4-1-employee-provisions" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="4" hide-back-to-top=1 text="4.1 Employee Provisions" id="4-1-employee-provisions" %}
 
 <div class="horizontal-scroll-table-container">
   <table id="table-employee-provisions" class="content-table financial fy-2016-17" summary="Table of employee provisions.">
@@ -3750,7 +3803,11 @@ page_group:
 <p>The liability for defined benefits is recognised in the financial statements of the Australian Government and is settled<br />by the Australian Government in due course. This liability is reported in the Department of Finance’s administered schedules and notes.</p>
 <p>The DTA makes employer contributions to the employees’ superannuation scheme. For Commonwealth defined benefits schemes, these rates are determined by an actuary to be sufficient to meet the current cost to the Government. The DTA accounts for the contributions as if they were contributions to defined contribution plans.</p>
 
-{% include hx.html lvl="4" text="4.2 Key Management Personnel Remuneration" id="4-2-key-management-personnel-remuneration" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="4" hide-back-to-top=1 text="4.2 Key Management Personnel Remuneration" id="4-2-key-management-personnel-remuneration" %}
 
 <h4>Note 4.2A: Key Management Personnel Remuneration</h4>
 <p>Key management personnel are those persons having authority and responsibility for planning, directing and controlling the activities of the entity, directly or indirectly, including any director (whether executive or otherwise) of that entity. Key management personnel (KMP) remuneration is reported in the table below:</p>
@@ -3843,7 +3900,11 @@ page_group:
   </table>
 </div>
 
-{% include hx.html lvl="4" text="4.3 Related Party Disclosures" id="4-3-related-party-disclosures" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="4" hide-back-to-top=1 text="4.3 Related Party Disclosures" id="4-3-related-party-disclosures" %}
 
 <h5>Related party relationships:</h5>
 <p>The DTA is an Australian Government controlled entity. Related parties to the DTA are Key Management Personnel including the Portfolio Ministers and other Australian Government entities.</p>
@@ -3859,18 +3920,30 @@ page_group:
 </ul>
 <p>Giving consideration to relationships with related entities, and transactions entered into during the reporting period by the DTA, it has been determined that there are no related party transactions to be separately disclosed.</p>
 
-{% include hx.html lvl="3" text="5. Managing Uncertainties" id="5-managing-uncertainties" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="3" hide-back-to-top=1 text="5. Managing Uncertainties" id="5-managing-uncertainties" %}
 
 <p>This section analyses how the DTA manages financial risks within its operating environment.</p>
 
-{% include hx.html lvl="4" text="5.1 Contingent Asset and Liabilities" id="5-1-contingent-asset-and-liabilities" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="4" hide-back-to-top=1 text="5.1 Contingent Asset and Liabilities" id="5-1-contingent-asset-and-liabilities" %}
 
 <p>The DTA is not aware of any material departmental quantifiable or unquantifiable contingent assets or liabilities as at the signing date that would require disclosure in the financial statements.</p>
 
 <h5>Accounting Policy</h5>
 <p>Contingent liabilities and contingent assets are not recognised in the Statement of Financial Position but are reported in the relevant schedules and notes. They may arise from uncertainty as to the existence of a liability or asset, or represent an asset or liability in respect of which the amount cannot be reliably measured. Contingent assets are disclosed when settlement is probable but not virtually certain and contingent liabilities are disclosed when settlement is greater than remote.</p>
 
-{% include hx.html lvl="4" text="5.2 Financial Instruments" id="5-2-financial-instruments" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="4" hide-back-to-top=1 text="5.2 Financial Instruments" id="5-2-financial-instruments" %}
 
 <div class="horizontal-scroll-table-container">
   <table id="table-financial-instruments" class="content-table financial fy-2016-17" summary="Table of financial instruments.">
@@ -4026,8 +4099,16 @@ page_group:
 <h6>Financial Liabilities</h6>
 <p>Financial liabilities are classified as either financial liabilities at fair value through profit or loss or other financial liabilities. Financial liabilities are recognised and derecognised upon ‘trade date’. Supplier and other payables are recognised at amortised cost. Liabilities are recognised to the extent that the goods or services have been received (and irrespective of having been invoiced).</p>
 
-{% include hx.html lvl="3" text="6. Other Information" id="6-other-information" %}
-{% include hx.html lvl="4" text="6.1 Restructuring" hide-back-to-top=1 id="6-1-restructuring" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="3" hide-back-to-top=1 text="6. Other Information" id="6-other-information" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="4" hide-back-to-top=1 text="6.1 Restructuring" id="6-1-restructuring" %}
 
 <h5>Note 6.1A: Restructuring</h5>
 <p>Net assets received from or relinquished to another Australian Government entity under a restructuring of administrative arrangements are adjusted at their book value directly against contributed equity.</p>
@@ -4049,7 +4130,7 @@ page_group:
           <p class="table-right-aligned bold">2017</p>
         </th>
         <th colspan="2">
-          <p>2016</p>
+          <p class="table-right-aligned bold">2016</p>
         </th>
       </tr>
       <tr>
@@ -4329,7 +4410,11 @@ page_group:
   </table>
 </div>
 
-{% include hx.html lvl="4" text="6.2 Budgetary Explanation of Major Variances" id="6-2-budgetary-explanation-of-major-variances" %}
+<div class="back-to-top-link">
+  <a href="#menu-notes">Back to menu &uarr;</a>
+</div>
+
+{% include hx.html lvl="4" hide-back-to-top=1 text="6.2 Budgetary Explanation of Major Variances" id="6-2-budgetary-explanation-of-major-variances" %}
 
 <h5>Note 6.2A: Budgetary Reporting</h5>
 <p>The DTA’s financial statements report the original budget as published in the Department of Prime Minister and Cabinet 2016–17 Portfolio Budget Statements.</p>
@@ -4353,7 +4438,7 @@ page_group:
       </tr>
     </thead>
     <tbody>
-      <tr>
+      <tr class="border-bottom">
         <th colspan="2">
           <p class="bold italic">Statement of Comprehensive Income</p>
         </th>
@@ -4386,7 +4471,7 @@ page_group:
           <p>Revenue from Government</p>
         </td>
       </tr>
-      <tr class="table-border-top">
+      <tr class="table-border-top table-border-bottom">
         <th colspan="2">
           <p class="bold italic">Statement of Financial Position</p>
         </th>
@@ -4399,7 +4484,7 @@ page_group:
           <p>All</p>
         </td>
       </tr>
-      <tr class="table-border-top">
+      <tr class="table-border-top table-border-bottom">
         <th colspan="2">
           <p class="bold italic">Statement of Cash Flows</p>
         </th>

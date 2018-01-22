@@ -100,11 +100,26 @@
       }
       &.fy-2016-17 {
         td, th {
+          vertical-align: top;
           border: none;
+          text-align: inherit;
+          &:first-child {
+            text-align: inherit;
+          }
+        }
+        p {
+          margin-bottom: 0;
+          max-width: 100%;
+        }
+        li {
+          max-width: 100%;
         }
       }
       .bold {
         font-weight: bold;
+      }
+      .body {
+        font-weight: normal;
       }
       .italic {
         font-style: italic;
@@ -113,7 +128,7 @@
         text-align: right;
       }
       .table-left-indent {
-        text-indent: 2rem;
+        padding-left: 1rem;
       }
       .table-border-top {
         td, th {
@@ -124,6 +139,9 @@
         td, th {
           border-bottom: 1px solid $light-grey;
         }
+      }
+      .table-all-caps {
+        text-transform: uppercase;
       }
     }
   }
