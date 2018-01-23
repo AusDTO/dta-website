@@ -76,17 +76,23 @@ page_group:
 <p>This approach allows teams to respond to unpredictability by working in short ‘iterative’ and ‘incremental’ stages.</p>
 
 <div class="service-design">
-  <h4 class="discovery">Discovery</h4>
-  <p>Start mapping the broader service landscape, researching the real needs and problems faced by your users, and understanding the policy intent and technology constraints.</p>
+  <div class="discovery">
+    <h4>Discovery</h4>
+    <p>Start mapping the broader service landscape, researching the real needs and problems faced by your users, and understanding the policy intent and technology constraints.</p>
+  </div>
 
-  <h4 class="alpha">Alpha</h4>
-  <p>Test out your hypotheses by building prototypes in code to explore different ways you might be able to meet your users’ needs. Explore multiple ideas. Do user research to learn which approach works best and iterate your solution as you learn more.</p>
-
-  <h4 class="beta">Beta</h4>
-  <p>Define a minimum viable product from the successful prototype in Alpha. Build this as an accessible and secure service. Allow the public to trial the beta alongside the existing service. Use their feedback to improve the service.</p>
-
-  <h4 class="live">Live</h4>
-  <p>Put the team and processes in place to continue operating and improving the service. Phase out the old services, and consolidate existing.</p>
+  <div class="alpha">
+    <h4>Alpha</h4>
+    <p>Test out your hypotheses by building prototypes in code to explore different ways you might be able to meet your users’ needs. Explore multiple ideas. Do user research to learn which approach works best and iterate your solution as you learn more.</p>
+  </div>
+  <div class="beta">
+    <h4>Beta</h4>
+    <p>Define a minimum viable product from the successful prototype in Alpha. Build this as an accessible and secure service. Allow the public to trial the beta alongside the existing service. Use their feedback to improve the service.</p>
+  </div>
+  <div class="live">
+    <h4>Live</h4>
+    <p>Put the team and processes in place to continue operating and improving the service. Phase out the old services, and consolidate existing.</p>
+  </div>
 </div>
 
 {% include hx.html lvl=2 text="Whole-of-government transformation" %}
@@ -231,4 +237,4 @@ page_group:
 
 {% include hx.html lvl=3 text="Agency performance statement" %}
 
-<p>The agency performance statement is at <a href="/pages/who-we-are/corporate/annual-report-16-17/appendices#b-agency-performance-statement">Appendix B</a>.</p>
+<p>The agency performance statement is at <a href="/who-we-are/corporate/annual-report-16-17/5-appendices/#b-agency-performance-statement">Appendix B</a>.</p>

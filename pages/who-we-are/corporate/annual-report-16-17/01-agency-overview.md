@@ -104,7 +104,7 @@ page_group:
 
 <h3>27 October 2016: Orders to rename agency signed</h3>
 
-<p>The order to rename the Digital Transformation Office and specify functions for the Digital Transformation Agency was signed by the Governor-General and came into effect. (<a href="/pages/who-we-are/corporate/annual-report-16-17/appendices#a-order-to-establish-the-dta">Appendix A)</a></p>
+<p>The order to rename the Digital Transformation Office and specify functions for the Digital Transformation Agency was signed by the Governor-General and came into effect. (<a href="/who-we-are/corporate/annual-report-16-17/5-appendices/#a-order-to-establish-the-dta">Appendix A)</a></p>
 
 <h3>15 December 2016: Machinery-of-government change one</h3>
 

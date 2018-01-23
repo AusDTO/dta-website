@@ -22,10 +22,10 @@ Please find below a full HTML version of the Digital Transformation Office Annua
 [Cover and letter of transmittal](/who-we-are/corporate/annual-report-16-17/cover-letter/)
 
 1. [Introduction and overview](/who-we-are/corporate/annual-report-16-17/1-agency-overview/)
-2. [Report on program performance](/who-we-are/corporate/annual-report-16-17/2-program-performance/)
-3. [Report on organisational performance](/who-we-are/corporate/annual-report-16-17/3-organisational-performance/)
-4. [Financial statements](/who-we-are/corporate/annual-report-16-17/4-financial/)
-5. [References](/who-we-are/corporate/annual-report-16-17/5-references/)
+2. [Agency performance](/who-we-are/corporate/annual-report-16-17/2-agency-performance/)
+3. [Management and accountability](/who-we-are/corporate/annual-report-16-17/3-management-and-accountability/)
+4. [Financials](/who-we-are/corporate/annual-report-16-17/4-financial/)
+5. [Appendices](/who-we-are/corporate/annual-report-16-17/5-appendices/)
 
 ### PDF version of the Digital Transformation Agency Annual Report 2016&mdash;17
 

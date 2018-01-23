@@ -48,6 +48,37 @@
     }
   }
 
+  $phases: (
+    "discovery": $discovery,
+    "alpha": $alpha,
+    "beta": $beta,
+    "live": $live,
+  );
+
+  .service-design {
+    p {
+      margin-left: calc(1.8rem - 5px);
+      padding-left: 2rem;
+      border-left: 4px dashed;
+      margin-bottom: 0;
+    }
+    h4 {
+      padding-left: 4rem;
+      line-height: 4rem;
+      margin: 0;
+    }
+    @each $phase, $colour in $phases {
+      .#{$phase} {
+        h4 {
+          background: url('/images/annual-reports/2016-17/circle-#{$phase}.png') no-repeat left center;
+        }
+        p {
+          border-left-color: $colour;
+        }
+      }
+    }
+  }
+
   .financial-notes-index {
     p {
       padding-left: ($base-spacing * 2.2);
