@@ -80,4 +80,4 @@ I’m not suggesting cyber security strategists abandon preventative controls. H
 
 ## Follow-up
 
-See Clem’s follow-up blog on [building a credible detection and response capability](/blog/security-operation-centre-myths/).
+See Clem’s follow-up blog on [building a credible detection and response capability]({{ site.baseurl }}/blog/security-operation-centre-myths/).
