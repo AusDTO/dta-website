@@ -30,7 +30,7 @@ The fact cyber security managers don’t have enough budget to do everything the
 
 ## The bad guys like easy wins too
 
-If, for whatever reason, your organisation becomes a target for a cyber adversary they will develop an attack plan which disarms or bypasses as many of your defences as possible. To take this threat seriously is to understand you are dealing with a thinking human being who will seek to target your organisation where it is weakest. As Chinese military strategist and philosopher Sun Tzu  put it 'You may advance and be absolutely irresistible, if you make for the enemy's weak points'. 
+If, for whatever reason, your organisation becomes a target for a cyber adversary they will develop an attack plan which disarms or bypasses as many of your defences as possible. To take this threat seriously is to understand you are dealing with a thinking human being who will seek to target your organisation where it is weakest. As Chinese military strategist and philosopher Sun Tzu  put it 'You may advance and be absolutely irresistible, if you make for the enemy's weak points'.
 
 Watching some of the best penetration (pen) testers work, they are frighteningly good at rendering most of your security investment irrelevant by carefully choosing their tactics and targeting weak spots.
 
@@ -44,13 +44,13 @@ The idea prevention is better than a cure appears to be the product of three key
 2. Preventative controls are based on learned experience making them the best response.
 3. It is possible to predict the paths an adversary will use to attack and block them off.
 
-I suspect our belief in prevention is founded in its everyday application to environmental risks (e.g. medicine, health and safety), where it is very effective. However,  slippery floors don’t willfully try to trip people up. 
+I suspect our belief in prevention is founded in its everyday application to environmental risks (e.g. medicine, health and safety), where it is very effective. However,  slippery floors don’t willfully try to trip people up.
 
 Points two and three from above both assume we understand the attack surface and can devise preventative controls to close every opportunity. This thinking largely holds true in well controlled environments such as aviation security where change is slow and the problem space well defined. But, even there you can often bypass controls with new tactics as we saw during the attack on the World Trade Centres in New York on 11 September 2001.
 
 ## The fortress is gone
 
-In the cyber domain the attack surface is already big and our appetite for innovation means it continues to grow. And while getting cyber security built in at the start will head off many problems, we are still left with a blind spot from believing we can predict the paths an adversary will use to attack. 
+In the cyber domain the attack surface is already big and our appetite for innovation means it continues to grow. And while getting cyber security built in at the start will head off many problems, we are still left with a blind spot from believing we can predict the paths an adversary will use to attack.
 
 The problem is the cyber security sector can’t even keep up with vulnerabilities discovered in existing technologies, let alone predict the vulnerabilities new technologies and innovation will bring. Our industry is chasing a moving target and I worry it is getting further and further away.
 
@@ -58,15 +58,15 @@ Finally, my experience is preventative controls can be brittle. They are strong 
 
 ## No deterrent
 
-If prevention has its limits then what other options do we have? 
+If prevention has its limits then what other options do we have?
 
-Usually deterrence plays an important part in regulating and controlling behaviour in adversarial situations. However, deterrence can’t be effective when you don’t know who is responsible, and it takes only modest effort for an adversary to conceal their location from all but the most well resourced ‘targets’. 
+Usually deterrence plays an important part in regulating and controlling behaviour in adversarial situations. However, deterrence can’t be effective when you don’t know who is responsible, and it takes only modest effort for an adversary to conceal their location from all but the most well resourced ‘targets’.
 
-Deterrence is also not very effective if an attacker suspects their activity will go unnoticed. And sovereign issues and laws restrict the actions governments can take to deter an attacker placing another limit on its effectiveness. 
+Deterrence is also not very effective if an attacker suspects their activity will go unnoticed. And sovereign issues and laws restrict the actions governments can take to deter an attacker placing another limit on its effectiveness.
 
 ## Be flexible and fast
 
-A credible detection and response capability compensates well for many of the shortcomings of preventative controls. 
+A credible detection and response capability compensates well for many of the shortcomings of preventative controls.
 
 Where preventative controls can be slow to adapt to changing tactics, detection and response controls are flexible and agile. Where preventative controls tend to provide feedback to adversaries about whether or not their attacks are succeeding, detection and response capabilities can operate quietly betraying little about how they work, what they look for, what they know and how they plan to respond.
 
@@ -77,3 +77,7 @@ Building a credible detection and response capability is something I’ll discus
 ## Takeaway
 
 I’m not suggesting cyber security strategists abandon preventative controls. However, I become more and more convinced we have the emphasis in the wrong place and need to pivot more of our resources to building better detection and response capabilities.
+
+## Follow-up
+
+See Clem’s follow-up blog on [building a credible detection and response capability]({{ site.baseurl }}/blog/security-operation-centre-myths/).
