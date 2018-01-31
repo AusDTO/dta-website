@@ -2,8 +2,8 @@
 title: SAP and Concur whole of government arrangement
 layout: basic
 permalink: /what-we-do/policies-and-programs/ict-procurement/sap-arrangement/
-searchexerpt: The SAP arrangement aims to make it easier for agencies to purchase SAP products and services.
-lede: The SAP arrangement aims to make it easier for agencies to purchase SAP products and services.
+searchexerpt: The SAP and Concur arrangements aim to make it easier for agencies to purchase SAP and Concur products and services.
+lede: The SAP and Concur arrangements aim to make it easier for agencies to purchase SAP and Concur products and services.
 ---
 
 
