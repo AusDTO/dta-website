@@ -26,9 +26,7 @@ At the end of the course, you will have an improved understanding of:
 ### Agency-led training
 You can deliver this course within your agency and customise it for your staff. The DTA can provide ‘train-the-trainer’ sessions for agencies upon request.
 
-Enter your email to get access to the training materials.
-
-{% include training-materials-form.html %}
+[Get the training materials](https:www.dta.gov.au/standard/training-materials-for-getting-started-with-the-digital-service-standard-mst/)
 
 We will occasionally send you updates about this training when they are released. Information collected will be held in accordance with our [privacy policy](/privacy-statement/).
 
