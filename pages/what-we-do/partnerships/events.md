@@ -24,3 +24,7 @@ You can attend our training or teach it to others with our agency-led training p
 At these events you will hear from industry experts, DTA staff and other APS leaders. You’ll get an opportunity to meet your peers, ask questions and share experiences.
 
 You can find all our upcoming Co-Lab events on our [Eventbrite page](https://www.eventbrite.com.au/o/digital-transformation-agency-8025584572). 
+
+## Get in touch
+
+If you have any questions about our events you can email [co-lab@digital.gov.au](mailto:co-lab@digital.gov.au). 
