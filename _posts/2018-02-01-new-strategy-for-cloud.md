@@ -6,7 +6,7 @@ thumbnail: /images/blog-thumbnails/new-strategy-for-cloud-thumbnail.png
 hero-image: /images/blog-banners/new-strategy-for-cloud-hero.png
 facebook-image: /images/blog-facebook/new-strategy-for-cloud-facebook.png
 twitter-image: /images/blog-twitter/new-strategy-for-cloud-twitter.png
-searchexcerpt: "The government's new cloud strategy has just been <a href='/what-we-do/policies-and-programs/secure-cloud/'>released</a>. It replaces a cloud computing policy and focuses on what will make it easier for government agencies to use cloud services"
+searchexcerpt: "The government's new cloud strategy has just been <a href='/what-we-do/policies-and-programs/secure-cloud/'>released</a>. It replaces a cloud computing policy and focuses on what will make it easier for government agencies to use cloud services."
 ---
 
 <figure>
@@ -17,13 +17,13 @@ searchexcerpt: "The government's new cloud strategy has just been <a href='/what
 
 ## What is cloud?
 
-The word ‘cloud’ is used a lot when talking about technology these days. But what exactly is it and why do we want government to use it?
+The word ‘cloud’ is used a lot when talking about technology. But what exactly is it and why do we want government to use it?
 
 According to the [National Institute of Standards and Technology](https://www.nist.gov/programs-projects/nist-cloud-computing-program-nccp) *"cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g. networks, servers, storage, applications and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction."*
 
-We look at cloud as how you get the technology platforms you need to run a digital service in a modern and flexible way. Depending on what service you use, cloud can take care of your data centre, racks, servers, network cabling, operating systems, and sometimes the platforms, databases and software too.
+The DTA looks at cloud as how you get the technology platforms you need to run a digital service in a modern and flexible way. Depending on what service you use, cloud can take care of your data centre, racks, servers, network cabling, operating systems, and sometimes the platforms, databases and software too.
 
-In government we generally buy and run our own hardware and software, owning the technology and taking responsibility for its maintenance. Even when we ask a business to manage this on our behalf, we still end up owning or paying for the technology. In the cloud, we can buy what we want, when we need it, rather than owning it ourselves. This means we pay for a service only when we are using it.
+In government we generally buy and run our own hardware and software, owning the technology and taking responsibility for its maintenance. Even when we ask a business to manage this on our behalf, we still end up owning or paying for the technology. With cloud services, we can buy what we want, when we need it, rather than owning it ourselves. This means we pay for a service only when we are using it.
 
 ## Why does government need a cloud strategy?
 
@@ -31,11 +31,11 @@ Cloud has been around for more than a decade and we have had cloud-first policie
 
 - Faster service delivery. By using cloud we don’t have to wait for someone to build and install a new service or hardware. Instead the cloud is ready to go when we need it.
 - Paying only for what we use. We can buy what we need when we need it and don’t have to pay for managing hardware when it's inactive.
-- Easy maintenance. In cloud the provider has the staff who do all the management tasks on our behalf. They update and maintain the cloud environment and give us access to up to date technology.  
+- Easy maintenance. With cloud services the provider has the staff who do all the management tasks on our behalf. They update and maintain the cloud environment and give us access to up to date technology.  
 - Flexibility. It’s easier to try new things when you don’t have a large upfront investment in technology platforms.
 - Focussing on people, not technology. With a provider managing the hardware and the ability to automate certain functions, we have more time to improve services and focus on user needs.
 
-Each government agency will choose the right service for them depending on how it adds value, meets needs, and delivers the outcome. Also recognising in some cases that may not be cloud.
+Each government agency will choose the right service for them depending on how it adds value and delivers the outcome they need &mdash; recognising that in some cases that may not be cloud.
 
 ## What does the strategy recommend?
 
@@ -45,7 +45,7 @@ The strategy outlines a number of ways to help build understanding of cloud and 
 
 ### Agency-led transformation
 
-The needs and operating environments of agencies are different so it would be no use to outline one specific cloud solution. Instead, we’ve introduced a number of principles for choosing a cloud model that can adapt to different circumstances, encourage take up, and improve efficiency and consistency across government services.
+The needs and operating environments of agencies are different. It would be not be helpful to outline one specific cloud solution. Instead, we’ve introduced a number of principles for choosing a cloud model that can adapt to different circumstances, encourage take up, and improve efficiency and consistency across government services.
 
 ### Balancing security and opportunity
 
@@ -53,7 +53,7 @@ Making sure government and citizen information is safe and well managed is a pri
 
 ### Meeting government needs
 
-There are other things cloud needs to deliver on. Government has a lot of rules to follow such as protecting privacy and keeping good records. With many different cloud services available, it can be hard to know if a solution is the right one. For example, government needs to make sure we can always get our data back and it’s vital we know how our chosen service will do that. Because cloud providers can achieve that in many different ways, we are developing a common framework all agencies can use to assess and record cloud services information.
+There are other things cloud needs to deliver on. Government has a lot of rules to follow such as protecting privacy and keeping good records. Because cloud providers can achieve that in many different ways, we are developing a common framework all agencies can use to assess and record cloud services information.
 
 ### Being accountable
 
