@@ -3,24 +3,39 @@ layout: basic
 title: "Secure cloud"
 permalink: /what-we-do/policies-and-programs/secure-cloud/
 localnav: what-we-do
-searchexcerpt: "The current government cloud computing policy encourages agencies to use cloud technology where possible."
+searchexcerpt: "Using cloud technology can reduce costs, lift productivity and deliver better services."
+lede: "Using cloud technology can reduce costs, lift productivity and deliver better services. We want to make it easier for government to invest in cloud technologies."
 ---
 
-Using cloud technology can reduce costs, lift productivity and deliver better services.
+## Secure cloud strategy
+In 2017 we worked closely across government and industry to develop the Secure Cloud Strategy.
 
-A [review of the 2016 eCensus](http://parlinfo.aph.gov.au/parlInfo/download/publications/tabledpapers/a41f4f25-a08e-49a7-9b5f-d2c8af94f5c5/upload_pdf/Review%20of%20the%202016%20eCensus%20-%20final%20report.pdf){:target="_blank"} highlighted that cloud computing offers significant security benefits and should be considered as a service option for government.
+The strategy replaces the [Australian Government Cloud Computing Policy](https://www.finance.gov.au/archive/cloud/) that was released in 2014. The new strategy focuses on helping government agencies use cloud more easily.
 
-The DTA is looking into ways to make it easier for government to invest in cloud technologies.
+You can download the full strategy and read the overview below.
 
-## Cloud policy
+## Strategy overview
 
-The current [Australian Government Cloud Computing Policy](/files/Australian Government Cloud Computing Policy 3.0-WCAG.pdf){:target="_blank"} requires agencies to use cloud solutions where possible --- when they are fit for purpose, offer the best value for money and adequately manage risk. The policy document outlines the goals and actions of the policy, the Australian Government’s definition of cloud computing, and related policies, standards and guidance.
+Cloud technology and services can increase the speed of delivering new platforms, allow for continuous improvement and provide easier access to services. It can reduce the effort required for maintenance, allowing agencies to refocus that effort into improving service delivery.
 
-The DTA will be working in partnership with government agencies and with commercial providers to develop a Secure Cloud Strategy that will replace the 2014 policy, and make it easier for government to start using cloud technologies.
+The Secure Cloud Strategy has been developed to guide agencies beyond current business restrictions and move towards a more agile method of service improvement. It provides the framework for sustainable change within government so that all agencies can make use of what cloud has to offer.
 
-The strategy will look at the challenges and options available for agencies moving to cloud solutions. We’re currently in the discovery phase of the project. It is expected the strategy will be finalised in late 2017.
+The strategy focuses on preparing agencies for the shift to cloud, and supporting them through the transition. The key initiatives of the strategy are:
+- Agencies develop their own cloud strategies to suit their own needs.
+- 7 principles to guide agencies in the development of their own strategies.
+- Move towards an appropriate, layered certification model.
+- Align cloud services procurement to the recommendations from the ICT procurement review.
+- Clarify cloud system requirements with a common assessment framework.
+- Develop contracts that clarify responsibilities and accountabilities of cloud providers in their unique operating environment.
+- Develop a platform to share knowledge and expertise of cloud products and services.
+- Build cloud skills and expertise within the Australian Public Service (APS) through existing and new programs.
+- Explore and develop shared platforms that can be used by multiple services and reduce duplication.
 
-For more information about the Cloud Computing Policy and the Secure Cloud Strategy you can email [secure.cloud@digital.gov.au](mailto:secure.cloud@digital.gov.au)
+These initiatives will be led by the DTA and our in-house expertise. This will include delivering guidance and support and developing a best-practice community to build the skills and confidence of the APS.
+
+[Download the full Secure Cloud Strategy (.pdf, 768KB)]({{ site.baseurl }}/files/cloud-strategy/secure-cloud-strategy.pdf)
+
+For more information about the Secure Cloud Strategy you can email [secure.cloud@digital.gov.au](mailto:secure.cloud@digital.gov.au)
 
 <hr style="margin-top: 4em;" />
 
