@@ -19,7 +19,7 @@ You can stay up to date with ICT procurement news and requests for feedback on o
 
 Click straight through to our ICT procurement panels:
 
-- [Cloud Services Panel](http://www.finance.gov.au/policy-guides-procurement/cloud-services-panel/) SON2914302
+- [Cloud Services Panel](https://www.finance.gov.au/sites/default/files/cloud-services-panel-fact-sheet.pdf) SON2914302
 - [Data Centre Panel](http://www.finance.gov.au/tags/data-centres/) SON2402841
 - [ICT Hardware Panel](http://www.finance.gov.au/policy-guides-procurement/whole-of-government-ict-hardware-panel/) SON3295723
 - [Mobile Panel](http://www.finance.gov.au/policy-guides-procurement/australian-government-telecommunications-arrangements/telecommunications-panels/#Mobile_Panel) SON2589631

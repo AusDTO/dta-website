@@ -26,12 +26,7 @@ At the end of the course, you will have an improved understanding of:
 ### Agency-led training
 You can deliver this course within your agency and customise it for your staff. The DTA can provide ‘train-the-trainer’ sessions for agencies upon request.
 
-Enter your email to get access to the training materials.
-
-{% include training-materials-form.html %}
-
-We will occasionally send you updates about this training when they are released. Information collected will be held in accordance with our [privacy policy](/privacy-statement/).
-
+[Get the training materials]({{ site.baseurl }}/standard/training-materials-for-getting-started-with-the-digital-service-standard-mst/)
 
 ### Register for training sessions at the DTA
 
@@ -43,7 +38,7 @@ If you cannot attend the listed dates, you can [register your interest](mailto:s
 
 ## Assessing against the Digital Service Standard
 
-This training is for government employees who will assess service teams against the Digital Service Standard. Attending this training is one step in the process of [becoming an accredited assessor](https://www.dta.gov.au/standard/meeting-standard/becoming-an-assessor).
+This training is for government employees who will assess service teams against the Digital Service Standard. Attending this training is one step in the process of [becoming an accredited assessor]({{ site.baseurl }}/standard/meeting-standard/becoming-an-assessor).
 
 ### Who is it for?
 
@@ -51,7 +46,7 @@ This training is for people who already have a basic knowledge of the Digital Se
 
 You should have experience working on digital services that meet the Standard, or at a minimum, have extensive experience in a relevant subject matter (such as user research, agile delivery, product management, technology development or similar). You are someone who thinks like a coach or mentor, rather than an auditor.
 
-This training alone does not provide accreditation as an assessor but is a [required step in the accreditation](https://www.dta.gov.au/standard/meeting-standard/becoming-an-assessor) process. Participants for this course should be selected and nominated through their agency.
+This training alone does not provide accreditation as an assessor but is a [required step in the accreditation]({{ site.baseurl }}/standard/meeting-standard/becoming-an-assessor) process. Participants for this course should be selected and nominated through their agency.
 
 Places for the course are strictly limited. Priority will be given to government employees who have been nominated or assigned to assess a service within their agency.
 
