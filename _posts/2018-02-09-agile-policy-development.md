@@ -24,7 +24,7 @@ I was a little nervous when I joined the DTA to build a whole of government [clo
 
 I started my career as a mainframe programmer and waterfall project management was ingrained in me early on. It is a process I am familiar with and while I’ve seen agile methods become a more and more common approach to how we build and deliver products, I hadn’t seen it fully embedded in the way we deliver other activities. Was it a good approach to use for development of a strategy?
 
-### The intent and mindset is what matters
+## The intent and mindset is what matters
 
 I had assumed agile was about delivering an online service, app or another type of digital product but I’ve developed a new perspective on that. A strategy *is* a product. There are people who use it and those users have needs. Combining design thinking and an agile approach helped me focus on those and [deliver](/standard/service-design-and-delivery-process/) against them.
 
