@@ -8,19 +8,19 @@ thumbnail: /images/blog-thumbnails/agile-policy-development-thumbnail.png
 hero-image: /images/blog-banners/agile-policy-development-hero.png
 facebook-image: /images/blog-facebook/agile-policy-development-facebook.png
 twitter-image: /images/blog-twitter/agile-policy-development-twitter.png
-searchexcerpt: Following the release of our whole of government policy for secure cloud, we look at how it was developed. And whether policy design can be iterative.
-lede: "Following the release of our whole of government policy for secure cloud, we look at how it was developed. And whether policy design can be iterative."
+searchexcerpt: Following the release of our whole-of-government policy for secure cloud, we look at how it was developed. And whether policy design can be iterative.
+lede: "Following the release of our whole-of-government policy for secure cloud, we look at how it was developed. And whether policy design can be iterative."
 ---
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="A group of people standing in front of a white board covered in post-it notes.">
   <figcaption>
-    <p><em>Caption: Colleagues from across government get involved in planning our new whole of government strategy for secure cloud</em></p>
+    <p><em>Caption: Colleagues from across government get involved in planning our new whole-of-government strategy for secure cloud</em></p>
   </figcaption>
 </figure>
 
 ## Agile strategy &mdash; does it work?
 
-I was a little nervous when I joined the DTA to build a whole of government [cloud strategy](/news/new-strategy-for-cloud/) &mdash; not because of the strategy itself but because I was to deliver it using an [agile approach](/standard/3-agile-and-user-centred/).
+I was a little nervous when I joined the DTA to build a whole-of-government [cloud strategy](/news/new-strategy-for-cloud/) &mdash; not because of the strategy itself but because I was to deliver it using an [agile approach](/standard/3-agile-and-user-centred/).
 
 I started my career as a mainframe programmer and waterfall project management was ingrained in me early on. It is a process I am familiar with and while I’ve seen agile methods become a more and more common approach to how we build and deliver products, I hadn’t seen it fully embedded in the way we deliver other activities. Was it a good approach to use for development of a strategy?
 
@@ -52,7 +52,7 @@ Another good lesson for me was to keep checking the product was still meeting pe
 
 ## The result
 
-Any whole of government initiative can be difficult. One size has never fit all and trying to have an impact across government will always need to balance what is needed against what is feasible and practical.   
+Any whole-of-government initiative can be difficult. One size has never fit all and trying to have an impact across government will always need to balance what is needed against what is feasible and practical.   
 
 This is where using a [service design delivery process](/standard/service-design-and-delivery-process/) gave me the right approach to solve the problem. Discovery helped me understand what users really needed and what was important to them. Alpha kept it on track, checking those needs were still being met, the things being proposed were achievable and I was solving real problems. Each stage added to my confidence the strategy represents a broader view across government.
 
