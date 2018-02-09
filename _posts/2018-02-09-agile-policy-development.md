@@ -14,7 +14,7 @@ lede: "Following the release of our whole of government policy for secure cloud,
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="A group of people standing in front of a white board covered in post-it notes.">
   <figcaption>
-    <p><em>Caption: Colleagues from across government look through post-it notes on a meeting room wall during the planning of our new whole of government strategy for secure cloud</em></p>
+    <p><em>Caption: Colleagues from across government get involved in planning our new whole of government strategy for secure cloud</em></p>
   </figcaption>
 </figure>
 
