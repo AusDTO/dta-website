@@ -220,7 +220,7 @@ page_group:
 
 <figure>
   <img src="/images/annual-reports/2016-17/itc-cadet-program.jpg" alt="The ICT Entry level program participants on the step of CIT. A large group of students stand on steps with Interim CEo Nerida O'Loughlin." />
-  <p><em>Caption: Nerida O’Loughlin with the ICT entry-level graduates of 2016</em></p>
+  <p><em>Caption: Nerida O’Loughlin with the ICT entry-level cadets of 2016</em></p>
 </figure>
 
 <figure>

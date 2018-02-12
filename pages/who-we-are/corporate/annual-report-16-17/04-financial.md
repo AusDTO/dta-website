@@ -174,9 +174,9 @@ page_group:
     <tfoot>
       <tr>
         <td colspan="4">
-          <ul>
-            <li>1 Appropriation Act (No.1) 2016–17 and Appropriation Act (No.3) 2016–17.</li>
-          </ul>
+          <ol>
+            <li>Appropriation Act (No.1) 2016–17 and Appropriation Act (No.3) 2016–17.</li>
+          </ol>
         </td>
       </tr>
     </tfoot>
@@ -301,10 +301,10 @@ page_group:
     <tfoot>
       <tr>
         <td colspan="4">
-          <ul>
+          <ol>
             <li>Full-year budget, including any subsequent adjustment made to the 2016–17 Budget at Additional Estimates.</li>
             <li>Departmental appropriation combines ordinary annual services (Appropriation Act Nos 1 and 3) and retained revenue receipts under section 74 of the Public Governance, Performance and Accountability Act 2013.</li>
-          </ul>
+          </ol>
         </td>
       </tr>
     </tfoot>
@@ -362,7 +362,7 @@ page_group:
           <p>Service Provided</p>
         </th>
         <th>
-          <p class="table-right-aligned">2017–18<br />Payments<br />made in $<br />(incl. GST)</p>
+          <p class="table-right-aligned">2016–17<br />Payments<br />made in $<br />(incl. GST)</p>
         </th>
       </tr>
     </thead>
@@ -477,10 +477,14 @@ page_group:
 
 <p>In our opinion, the attached financial statements for the year ended 30 June 2017 comply with subsection 42(2) of the Public Governance, Performance and Accountability Act 2013 (PGPA Act), and are based on properly maintained financial records as per subsection 41(2) of the PGPA Act.</p>
 <p>In our opinion, at the date of this statement, there are reasonable grounds to believe that the Digital Transformation Agency will be able to pay its debts as and when they fall due.</p>
-<img src="/images/annual-reports/2016-17/gavin-slater-signature.png" alt="Gavin Slater Chief Excecutive Officer's signature" />
-<p>Gavin Slater<br />Chief Executive Officer<br />18 September 2017</p>
-<img src="/images/annual-reports/2016-17/sarah-johnston-signature.png" alt="Sarah Johnston Acting Chief Finance Officer's signature" />
-<p>Sarah Johnston<br />Acting Chief Finance Officer<br />18 September 2017</p>
+<div class="signature left">
+  <img src="/images/annual-reports/2016-17/gavin-slater-signature.png" alt="Gavin Slater Chief Excecutive Officer's signature" />
+  <p><strong>Gavin Slater</strong><br />Chief Executive Officer<br />18 September 2017</p>
+</div>
+<div class="signature right">
+  <img src="/images/annual-reports/2016-17/sarah-johnston-signature.png" alt="Sarah Johnston Acting Chief Finance Officer's signature" />
+  <p><strong>Sarah Johnston</strong><br />Acting Chief Finance Officer<br />18 September 2017</p>
+</div>
 
 {% include hx.html lvl=3 text="Digital Transformation Agency<br />Statement of Comprehensive Income" %}
 
@@ -1513,20 +1517,19 @@ page_group:
           <ol>
             <li>In 2017 a restructure with Department of Finance for the transfer to DTA of whole of government ICT and ICT procurement policy and services functions occurred with a nil impact on the DTA’s equity balance, see note 6.1.</li>
           </ol>
+          <h4>Accounting Policy</h4>
+          <h5>Equity injections</h5>
+          <p>Amounts appropriated which are designated as ‘equity injections’ for a year (less any formal reductions) and Departmental Capital Budgets (DCBs) are recognised directly in contributed equity in that year.</p>
+          <h5>Restructuring of Administrative Arrangements</h5>
+          <p>Net assets received from or relinquished to another Government entity under a restructuring of administrative arrangements are adjusted at their book value directly against contributed equity.</p>
+          <h5>Other Distributions to Owners</h5>
+          <p>The <em>Public Governance, Performance and Accountability (Financial Reporting) Rule 2015</em> (FRR) requires that distributions to owners be debited to contributed equity unless it is in the nature of a dividend.</p>
+          <p>The above statement should be read in conjunction with the accompanying notes.</p>
         </td>
       </tr>
     </tfoot>
   </table>
 </div>
-
-<h4>Accounting Policy</h4>
-<h5>Equity injections</h5>
-<p>Amounts appropriated which are designated as ‘equity injections’ for a year (less any formal reductions) and Departmental Capital Budgets (DCBs) are recognised directly in contributed equity in that year.</p>
-<h5>Restructuring of Administrative Arrangements</h5>
-<p>Net assets received from or relinquished to another Government entity under a restructuring of administrative arrangements are adjusted at their book value directly against contributed equity.</p>
-<h5>Other Distributions to Owners</h5>
-<p>The <em>Public Governance, Performance and Accountability (Financial Reporting) Rule 2015</em> (FRR) requires that distributions to owners be debited to contributed equity unless it is in the nature of a dividend.</p>
-<p>The above statement should be read in conjunction with the accompanying notes.</p>
 
 {% include hx.html lvl=3 text="Digital Transformation Agency<br />Cash Flow Statement" %}
 
@@ -2076,11 +2079,14 @@ page_group:
         </td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="3"><h4>Accounting Policy</h4>
+        <p>Accounting policies for employee related expenses is contained in the People and Relationships section.</p></td>
+      </tr>
+    </tfoot>
   </table>
 </div>
-
-<h4>Accounting Policy</h4>
-<p>Accounting policies for employee related expenses is contained in the People and Relationships section.</p>
 
 <div class="horizontal-scroll-table-container">
   <table id="table-expenses-1-1B" class="content-table financial fy-2016-17" summary="Table of expenses: note 1.1B">
@@ -2318,17 +2324,16 @@ page_group:
           <ol>
             <li>Relates to collaboration with other government agencies on digital capability design.</li>
           </ol>
+          <p>Note: Commitments are GST inclusive where relevant.</p>
+          <h5>Operating lease commitment - leases for office accommodation</h5>
+          <p>Office accommodation lease payments are subject to periodic increases in accordance with the rent review provisions in the lease agreements. The three leases entered into by the DTA all have renewal options which vary from 1 to 5 years.</p>
+          <h5>Accounting Policy</h5>
+          <p>Operating lease payments are expensed on a straight-line basis which is representative of the pattern of benefits derived from the leased assets.</p>
         </td>
       </tr>
     </tfoot>
   </table>
 </div>
-
-<p>Note: Commitments are GST inclusive where relevant.</p>
-<h5>Operating lease commitment - leases for office accommodation</h5>
-<p>Office accommodation lease payments are subject to periodic increases in accordance with the rent review provisions in the lease agreements. The three leases entered into by the DTA all have renewal options which vary from 1 to 5 years.</p>
-<h5>Accounting Policy</h5>
-<p>Operating lease payments are expensed on a straight-line basis which is representative of the pattern of benefits derived from the leased assets.</p>
 
 <div class="back-to-top-link">
   <a href="#menu-notes">Back to menu &uarr;</a>
@@ -2458,11 +2463,17 @@ page_group:
         </td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="3">
+          <h5>Accounting Policy</h5>
+          <p>Resources received free of charge are recognised as revenue when, and only when, a fair value can be reliably determined and the services would have been purchased if they had not been donated. Use of those resources is recognised as an expense. Resources received free of charge are recorded as either revenue or gains depending on their nature.</p>
+        </td>
+      </tr>
+    </tfoot>
   </table>
 </div>
 
-<h5>Accounting Policy</h5>
-<p>Resources received free of charge are recognised as revenue when, and only when, a fair value can be reliably determined and the services would have been purchased if they had not been donated. Use of those resources is recognised as an expense. Resources received free of charge are recorded as either revenue or gains depending on their nature.</p>
 
 <div class="back-to-top-link">
   <a href="#menu-notes">Back to menu &uarr;</a>
@@ -2615,15 +2626,15 @@ page_group:
         <td colspan="3">
           <p>Credit terms for goods and services were within 30 days (2016: 30 days).</p>
           <p>Receivables have been assessed for impairment at the end of each reporting period. No allowance has been made<br />as at 30 June 2017 (2016: nil).</p>
+          <h5>Accounting Policy</h5>
+          <h6>Loans and Receivables</h6>
+          <p>Trade receivables, loans and other receivables that have fixed or determinable payments and that are not quoted in an active market are classified as ‘loans and receivables’. Loans and receivables are measured at amortised cost using the effective interest method less impairment.</p>
         </td>
       </tr>
     </tfoot>
   </table>
 </div>
 
-<h5>Accounting Policy</h5>
-<h6>Loans and Receivables</h6>
-<p>Trade receivables, loans and other receivables that have fixed or determinable payments and that are not quoted in an active market are classified as ‘loans and receivables’. Loans and receivables are measured at amortised cost using the effective interest method less impairment.</p>
 
 <div class="back-to-top-link">
   <a href="#menu-notes">Back to menu &uarr;</a>
@@ -2631,11 +2642,12 @@ page_group:
 
 {% include hx.html lvl="4" hide-back-to-top=1 text="2.2 Non-Financial Assets" id="2-2-non-financial-assets" %}
 
-<h5>Note 2.2A: Reconciliation of the Opening and Closing Balances of Property, Plant and Equipment and Intangibles</h5>
-<p>Reconciliation of the opening and closing balances of property, plant and equipment and intangibles for 2017.</p>
-
 <div class="horizontal-scroll-table-container">
   <table id="table-non-financial-assets" class="content-table financial fy-2016-17" summary="Table of non-financial assets.">
+    <caption>
+      <p><strong>Note 2.2A: Reconciliation of the Opening and Closing Balances of Property, Plant and Equipment and Intangibles</strong></p>
+      <p>Reconciliation of the opening and closing balances of property, plant and equipment and intangibles for 2017.</p>
+    </caption>
     <colgroup>
       <col />
       <col />
@@ -2890,145 +2902,144 @@ page_group:
       <tr>
         <td colspan="5">
           <p>No significant items of property, plant and equipment are expected to be sold or disposed of within the next 12 months.</p>
+          <h5>Accounting policy</h5>
+          <h6>Asset recognition threshold</h6>
+          <p>Property, plant and equipment is the generic term that covers leasehold improvements and plant and equipment. Purchases of property, plant and equipment and intangibles are recognised initially at cost in the Statement of Financial Position, except for purchases costing less than $2,000, which are expensed in the year of acquisition.</p>
+          <p>The initial cost of an asset includes an estimate of the cost of dismantling and removing the item and restoring the site on which it is located. This is particularly relevant to ‘make good’ provisions in property leases taken up by the DTA where there exists an obligation to restore the asset to its original condition. These costs are included in the value of the DTA’s leasehold improvements with a corresponding provision for the ‘make good’ recognised.</p>
+          <h6>Intangibles</h6>
+          <p>The DTA’s intangibles comprise internally developed software for internal use. These assets are carried at cost less accumulated amortisation and accumulated impairment losses. Software is amortised on a straight-line basis over an anticipated useful life of 2 to 3 years.</p>
+          <h6>Revaluations</h6>
+          <p>Following initial recognition at cost, property, plant and equipment are carried at fair value less subsequent accumulated depreciation and accumulated impairment losses. Valuations are conducted with sufficient frequency to ensure that the carrying amounts of assets did not differ materially from the assets’ fair values as at the reporting date, generally this will be on a three year cycle unless a significant event occurs that would impact the fair value of assets.</p>
+          <p>Fair values for each class of asset are determined as shown below:</p>
+
+          <div class="horizontal-scroll-table-container">
+            <table id="table-fair-values" class="content-table financial fy-2016-17" summary="This table shows the fair values for each class of asset.">
+              <colgroup>
+                <col />
+                <col />
+                <col />
+                <col />
+              </colgroup>
+              <thead>
+                <tr>
+                  <th>
+                    <p class="italic">Asset Class</p>
+                  </th>
+                  <th>
+                    <p class="italic">
+                      Fair value measurement
+                    </p>
+                  </th>
+                  <th>
+                    <p class="table-right-aligned italic bold">2017<br />$’000</p>
+                  </th>
+                  <th>
+                    <p class="table-right-aligned italic">2016<br />$’000</p>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>
+                    <p>Leasehold improvements</p>
+                  </th>
+                  <td>
+                    <p>Depreciated replacement cost</p>
+                  </td>
+                  <td>
+                    <p class="table-right-aligned bold">2,063</p>
+                  </td>
+                  <td>
+                    <p class="table-right-aligned body">1,461</p>
+                  </td>
+                </tr>
+                <tr>
+                  <th>
+                    <p>Plant and equipment – Desktop hardware</p>
+                  </th>
+                  <td>
+                    <p>Market selling price</p>
+                  </td>
+                  <td>
+                    <p class="table-right-aligned bold">71</p>
+                  </td>
+                  <td>
+                    <p class="table-right-aligned body">-</p>
+                  </td>
+                </tr>
+                <tr>
+                  <th>
+                    <p>Plant and equipment – other categories</p>
+                  </th>
+                  <td>
+                    <p>Depreciated replacement cost</p>
+                  </td>
+                  <td>
+                    <p class="table-right-aligned bold">576</p>
+                  </td>
+                  <td>
+                    <p class="table-right-aligned body">572</p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <p>In 2017 a valuation of property, plant and equipment assets was undertaken by International Valuation &amp; Property Services (IVPS). The fair value of these asset classes were adjusted by the values provided by IVPS resulting in a revaluation reserve of $239,000.</p>
+          <h5>Depreciation</h5>
+          <p>Depreciable property, plant and equipment assets are written-off to their estimated residual values over their estimated useful lives to the DTA using, in all cases, the straight-line method of depreciation. Depreciation rates (useful lives), residual values and methods are reviewed at each reporting date and necessary adjustments are recognised in the current, or current and future reporting periods, as appropriate.</p>
+          <p>Depreciation rates applying to each class of depreciable asset are based on the following useful lives:</p>
+          <div class="horizontal-scroll-table-container">
+            <table id="table-depreciation" class="content-table financial fy-2016-17" summary="This table shows the useful lives the depreciation rates applying to each class of depreciable asset are based on.">
+              <colgroup>
+                <col />
+                <col />
+                <col />
+              </colgroup>
+              <thead>
+                <tr>
+                  <td />
+                  <th>
+                    <p>2017</p>
+                  </th>
+                  <th>
+                    <p>2016</p>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>
+                    <p>Leasehold improvements</p>
+                  </th>
+                  <td>
+                    <p>Lease term</p>
+                  </td>
+                  <td>
+                    <p>Lease term</p>
+                  </td>
+                </tr>
+                <tr>
+                  <th>
+                    <p>Plant and equipment</p>
+                  </th>
+                  <td>
+                    <p>3 to 10 years</p>
+                  </td>
+                  <td>
+                    <p>2 to 10 years</p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <h5>Impairment</h5>
+          <p>All assets were assessed for impairment during 2017. Where indications of impairment exist, the asset’s recoverable amount is estimated and an impairment adjustment made if the asset’s recoverable amount is less than its carrying amount.</p>
+          <p>A write-down of $3,000 was recognised in 2017 (2016: $957,000) for the write-off of plant and equipment assets as a result of the annual asset stocktake process.</p>
         </td>
       </tr>
     </tfoot>
   </table>
 </div>
-
-<h5>Accounting policy</h5>
-<h6>Asset recognition threshold</h6>
-<p>Property, plant and equipment is the generic term that covers leasehold improvements and plant and equipment. Purchases of property, plant and equipment and intangibles are recognised initially at cost in the Statement of Financial Position, except for purchases costing less than $2,000, which are expensed in the year of acquisition.</p>
-<p>The initial cost of an asset includes an estimate of the cost of dismantling and removing the item and restoring the site on which it is located. This is particularly relevant to ‘make good’ provisions in property leases taken up by the DTA where there exists an obligation to restore the asset to its original condition. These costs are included in the value of the DTA’s leasehold improvements with a corresponding provision for the ‘make good’ recognised.</p>
-<h6>Intangibles</h6>
-<p>The DTA’s intangibles comprise internally developed software for internal use. These assets are carried at cost less accumulated amortisation and accumulated impairment losses. Software is amortised on a straight-line basis over an anticipated useful life of 2 to 3 years.</p>
-<h6>Revaluations</h6>
-<p>Following initial recognition at cost, property, plant and equipment are carried at fair value less subsequent accumulated depreciation and accumulated impairment losses. Valuations are conducted with sufficient frequency to ensure that the carrying amounts of assets did not differ materially from the assets’ fair values as at the reporting date, generally this will be on a three year cycle unless a significant event occurs that would impact the fair value of assets.</p>
-<p>Fair values for each class of asset are determined as shown below:</p>
-
-<div class="horizontal-scroll-table-container">
-  <table id="table-fair-values" class="content-table financial fy-2016-17" summary="This table shows the fair values for each class of asset.">
-    <colgroup>
-      <col />
-      <col />
-      <col />
-      <col />
-    </colgroup>
-    <thead>
-      <tr>
-        <th>
-          <p class="italic">Asset Class</p>
-        </th>
-        <th>
-          <p class="italic">
-            Fair value measurement
-          </p>
-        </th>
-        <th>
-          <p class="table-right-aligned italic bold">2017<br />$’000</p>
-        </th>
-        <th>
-          <p class="table-right-aligned italic">2016<br />$’000</p>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th>
-          <p>Leasehold improvements</p>
-        </th>
-        <td>
-          <p>Depreciated replacement cost</p>
-        </td>
-        <td>
-          <p class="table-right-aligned bold">2,063</p>
-        </td>
-        <td>
-          <p class="table-right-aligned body">1,461</p>
-        </td>
-      </tr>
-      <tr>
-        <th>
-          <p>Plant and equipment – Desktop hardware</p>
-        </th>
-        <td>
-          <p>Market selling price</p>
-        </td>
-        <td>
-          <p class="table-right-aligned bold">71</p>
-        </td>
-        <td>
-          <p class="table-right-aligned body">-</p>
-        </td>
-      </tr>
-      <tr>
-        <th>
-          <p>Plant and equipment – other categories</p>
-        </th>
-        <td>
-          <p>Depreciated replacement cost</p>
-        </td>
-        <td>
-          <p class="table-right-aligned bold">576</p>
-        </td>
-        <td>
-          <p class="table-right-aligned body">572</p>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<p>In 2017 a valuation of property, plant and equipment assets was undertaken by International Valuation &amp; Property Services (IVPS). The fair value of these asset classes were adjusted by the values provided by IVPS resulting in a revaluation reserve of $239,000.</p>
-<h5>Depreciation</h5>
-<p>Depreciable property, plant and equipment assets are written-off to their estimated residual values over their estimated useful lives to the DTA using, in all cases, the straight-line method of depreciation. Depreciation rates (useful lives), residual values and methods are reviewed at each reporting date and necessary adjustments are recognised in the current, or current and future reporting periods, as appropriate.</p>
-<p>Depreciation rates applying to each class of depreciable asset are based on the following useful lives:</p>
-<div class="horizontal-scroll-table-container">
-  <table id="table-depreciation" class="content-table financial fy-2016-17" summary="This table shows the useful lives the depreciation rates applying to each class of depreciable asset are based on.">
-    <colgroup>
-      <col />
-      <col />
-      <col />
-    </colgroup>
-    <thead>
-      <tr>
-        <td />
-        <th>
-          <p>2017</p>
-        </th>
-        <th>
-          <p>2016</p>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th>
-          <p>Leasehold improvements</p>
-        </th>
-        <td>
-          <p>Lease term</p>
-        </td>
-        <td>
-          <p>Lease term</p>
-        </td>
-      </tr>
-      <tr>
-        <th>
-          <p>Plant and equipment</p>
-        </th>
-        <td>
-          <p>3 to 10 years</p>
-        </td>
-        <td>
-          <p>2 to 10 years</p>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<h5>Impairment</h5>
-<p>All assets were assessed for impairment during 2017. Where indications of impairment exist, the asset’s recoverable amount is estimated and an impairment adjustment made if the asset’s recoverable amount is less than its carrying amount.</p>
-<p>A write-down of $3,000 was recognised in 2017 (2016: $957,000) for the write-off of plant and equipment assets as a result of the annual asset stocktake process.</p>
 
 
 <div class="back-to-top-link">
@@ -3084,9 +3095,15 @@ page_group:
         </td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="3">
+          <p>Settlement is usually made within 30 days.</p>
+        </td>
+      </tr>
+    </tfoot>
   </table>
 </div>
-<p>Settlement is usually made within 30 days.</p>
 <div class="horizontal-scroll-table-container">
   <table id="table-payables-2-3B" class="content-table financial fy-2016-17" summary="able of payables: note 2.3B.">
     <colgroup>
@@ -3258,12 +3275,17 @@ page_group:
         </td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="3">
+          <p>The DTA has entered into three lease arrangements (one under a Memorandum of Understanding agreement) for the leasing of premises. These arrangements have provisions requiring the DTA to restore the premises to the original condition at the conclusion of the lease.</p>
+          <h5>Accounting Policy</h5>
+          <p>Provision for the restoration of leased premises (make good) is based on future obligations relating to the underlying assets. The provision is disclosed at the present value of the obligation utilising the appropriate Government bond rate.</p>
+        </td>
+      </tr>
+    </tfoot>
   </table>
 </div>
-
-<p>The DTA has entered into three lease arrangements (one under a Memorandum of Understanding agreement) for the leasing of premises. These arrangements have provisions requiring the DTA to restore the premises to the original condition at the conclusion of the lease.</p>
-<h5>Accounting Policy</h5>
-<p>Provision for the restoration of leased premises (make good) is based on future obligations relating to the underlying assets. The provision is disclosed at the present value of the obligation utilising the appropriate Government bond rate.</p>
 
 <div class="back-to-top-link">
   <a href="#menu-notes">Back to menu &uarr;</a>
@@ -3283,6 +3305,7 @@ page_group:
 
 <div class="horizontal-scroll-table-container">
   <table id="table-annual-appropriations-3-1A" class="content-table financial fy-2016-17" summary="Table of annual appropriations: note 3.1A.">
+    <caption><p><strong>Annual appropriations for 2017</strong></p></caption>
     <colgroup>
       <col />
       <col />
@@ -3293,11 +3316,6 @@ page_group:
       <col />
     </colgroup>
     <thead>
-      <tr>
-        <th colspan="7">
-          <p>Annual appropriations for 2017</p>
-        </th>
-      </tr>
       <tr>
         <td />
         <th>
@@ -3420,6 +3438,7 @@ page_group:
 
 <div class="horizontal-scroll-table-container">
   <table id="table-annual-appropriations-3-1B" class="content-table financial fy-2016-17" summary="Table of annual appropriations: note 3.1A.">
+    <caption><p><strong>Annual appropriations for 2016</strong></p></caption>
     <colgroup>
       <col />
       <col />
@@ -3431,12 +3450,7 @@ page_group:
     </colgroup>
     <thead>
       <tr>
-        <th colspan="7">
-          <p>Annual appropriations for 2016</p>
-        </th>
-      </tr>
-      <tr>
-        <td />
+        <th />
         <th>
           <p class="bold italic">Appropriation Act</p>
         </th>
@@ -3607,10 +3621,9 @@ page_group:
   </table>
 </div>
 
-<h5>Note 3.1B: Unspent Annual Appropriations (‘Recoverable GST exclusive’)</h5>
-
 <div class="horizontal-scroll-table-container">
   <table id="table-unspent-annual-appropriations" class="content-table financial fy-2016-17" summary="Table of unspent annual appropriations ('Recoverable GST exclusive'): note 3.1B.">
+    <caption><p><strong>Note 3.1B: Unspent Annual Appropriations (‘Recoverable GST exclusive’)</strong></p></caption>
     <colgroup>
       <col />
       <col />
@@ -3789,19 +3802,24 @@ page_group:
         </td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="3">
+          <h5>Accounting Policy</h5>
+          <p>Liabilities for ‘short-term employee benefits’ and termination benefits due within twelve months of the end of reporting period are measured at their nominal amounts.</p>
+          <h6>Leave</h6>
+          <p>The liability for employee benefits includes provision for annual leave and long service leave. The leave liabilities are calculated on the basis of employees’ remuneration at the estimated salary rates that will be applied at the time the leave is taken, including the DTA’s employer superannuation contribution rates to the extent that the leave is likely to be taken during service rather than paid out on termination. The provision is disclosed at the present value of the obligation using the short hand method that utilises the appropriate Government bond rate.</p>
+          <p>No provision has been made for sick leave as all sick leave is non-vesting and the average sick leave taken in future years by employees of the DTA is estimated to be less than the annual entitlement for sick leave.</p>
+          <h6>Superannuation</h6>
+          <p>The DTA’s staff are members of the Commonwealth Superannuation Scheme (CSS), the Public Sector Superannuation Scheme (PSS), the PSS accumulation plan (PSSap) or another fund of their choice.</p>
+          <p>The CSS and PSS are defined benefit schemes for the Australian Government. The PSSap is a defined contribution scheme.</p>
+          <p>The liability for defined benefits is recognised in the financial statements of the Australian Government and is settled<br />by the Australian Government in due course. This liability is reported in the Department of Finance’s administered schedules and notes.</p>
+          <p>The DTA makes employer contributions to the employees’ superannuation scheme. For Commonwealth defined benefits schemes, these rates are determined by an actuary to be sufficient to meet the current cost to the Government. The DTA accounts for the contributions as if they were contributions to defined contribution plans.</p>
+        </td>
+      </tr>
+    </tfoot>
   </table>
 </div>
-
-<h5>Accounting Policy</h5>
-<p>Liabilities for ‘short-term employee benefits’ and termination benefits due within twelve months of the end of reporting period are measured at their nominal amounts.</p>
-<h6>Leave</h6>
-<p>The liability for employee benefits includes provision for annual leave and long service leave. The leave liabilities are calculated on the basis of employees’ remuneration at the estimated salary rates that will be applied at the time the leave is taken, including the DTA’s employer superannuation contribution rates to the extent that the leave is likely to be taken during service rather than paid out on termination. The provision is disclosed at the present value of the obligation using the short hand method that utilises the appropriate Government bond rate.</p>
-<p>No provision has been made for sick leave as all sick leave is non-vesting and the average sick leave taken in future years by employees of the DTA is estimated to be less than the annual entitlement for sick leave.</p>
-<h6>Superannuation</h6>
-<p>The DTA’s staff are members of the Commonwealth Superannuation Scheme (CSS), the Public Sector Superannuation Scheme (PSS), the PSS accumulation plan (PSSap) or another fund of their choice.</p>
-<p>The CSS and PSS are defined benefit schemes for the Australian Government. The PSSap is a defined contribution scheme.</p>
-<p>The liability for defined benefits is recognised in the financial statements of the Australian Government and is settled<br />by the Australian Government in due course. This liability is reported in the Department of Finance’s administered schedules and notes.</p>
-<p>The DTA makes employer contributions to the employees’ superannuation scheme. For Commonwealth defined benefits schemes, these rates are determined by an actuary to be sufficient to meet the current cost to the Government. The DTA accounts for the contributions as if they were contributions to defined contribution plans.</p>
 
 <div class="back-to-top-link">
   <a href="#menu-notes">Back to menu &uarr;</a>
@@ -4083,21 +4101,27 @@ page_group:
         </td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="3">
+          <h5>Note 5.2B: Net Gains or Losses on Financial Assets and Liabilities</h5>
+          <p>The DTA has no gains or losses on financial instruments.</p>
+          <h5>Accounting Policy</h5>
+          <h6>Financial assets</h6>
+          <p>The DTA classifies its financial assets in the following categories:</p>
+          <ol>
+            <li>held-to-maturity investments; and</li>
+            <li>loans and receivables.</li>
+          </ol>
+          <p>The classification depends on the nature and purpose of the financial assets and is determined at the time of initial recognition. Financial assets are recognised and derecognised upon trade date.</p>
+          <h6>Financial Liabilities</h6>
+          <p>Financial liabilities are classified as either financial liabilities at fair value through profit or loss or other financial liabilities. Financial liabilities are recognised and derecognised upon ‘trade date’. Supplier and other payables are recognised at amortised cost. Liabilities are recognised to the extent that the goods or services have been received (and irrespective of having been invoiced).</p>
+        </td>
+      </tr>
+    </tfoot>
   </table>
 </div>
 
-<h5>Note 5.2B: Net Gains or Losses on Financial Assets and Liabilities</h5>
-<p>The DTA has no gains or losses on financial instruments.</p>
-<h5>Accounting Policy</h5>
-<h6>Financial assets</h6>
-<p>The DTA classifies its financial assets in the following categories:</p>
-<ol>
-  <li>held-to-maturity investments; and</li>
-  <li>loans and receivables.</li>
-</ol>
-<p>The classification depends on the nature and purpose of the financial assets and is determined at the time of initial recognition. Financial assets are recognised and derecognised upon trade date.</p>
-<h6>Financial Liabilities</h6>
-<p>Financial liabilities are classified as either financial liabilities at fair value through profit or loss or other financial liabilities. Financial liabilities are recognised and derecognised upon ‘trade date’. Supplier and other payables are recognised at amortised cost. Liabilities are recognised to the extent that the goods or services have been received (and irrespective of having been invoiced).</p>
 
 <div class="back-to-top-link">
   <a href="#menu-notes">Back to menu &uarr;</a>
@@ -4429,7 +4453,7 @@ page_group:
     </colgroup>
     <thead>
       <tr class="table-border-top table-border-bottom">
-        <th>
+        <th width="70%">
           <p>Explanations of major variances</p>
         </th>
         <th>

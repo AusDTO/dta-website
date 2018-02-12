@@ -79,6 +79,60 @@
     }
   }
 
+  .personnel-list {
+    display: inline-block;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    .personnel {
+      flex: 1 0 25%;
+      margin-right: 1rem;
+    }
+    .ceos {
+      display: inline-block;
+      display: flex;
+      flex-wrap: wrap;
+      min-width: 100%;
+      .personnel {
+        flex-basis: 30%;
+        min-width: 30%;
+        max-width: 30%;
+      }
+    }
+  }
+
+  .signature {
+    width: 45%;
+    margin-right: 5%;
+    &.left {
+      float: left;
+    }
+    &.right {
+      float: right;
+    }
+    img {
+      height: 60px;
+      width: auto;
+    }
+  }
+
+  #publications {
+    margin-left: 0;
+    padding-left: 0;
+    > li {
+      list-style: none;
+      margin-left: 0;
+      font-weight: bold;
+      li {
+        list-style: disc;
+        font-weight: normal;
+        li {
+          list-style: circle;
+        }
+      }
+    }
+  }
+
   .financial-notes-index {
     p {
       padding-left: ($base-spacing * 2.2);
@@ -173,6 +227,10 @@
       }
       .table-all-caps {
         text-transform: uppercase;
+        font-weight: bold;
+      }
+      tfoot tr td  * {
+        font-size: 0.9rem;
       }
     }
   }

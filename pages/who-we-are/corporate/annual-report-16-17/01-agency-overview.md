@@ -74,7 +74,7 @@ page_group:
 
 <p>Gavin Slater</p>
 
-<p>Chief Executive Officer</p>
+<p><strong>Chief Executive Officer</strong></p>
 
 {% include hx.html lvl=2 text="Evolution of the DTA" %}
 
@@ -136,48 +136,48 @@ page_group:
 {% include hx.html lvl=2 text="Leadership team" %}
 
 <h3>Chief Executive Officers 2016–17</h3>
+<div class="personnel-list">
+  <div class="ceos">
+    <div class="personnel">
+      <img src="/images/annual-reports/2016-17/gavin-slater.jpg" alt="Photo of Gavin Slater">
+      <p><strong>Gavin Slater</strong></p>
+      <p>Chief Executive Officer</p>
+      <p>Commenced role at the Digital Transformation Agency on 1 May 2017</p>
+    </div>
+    <div class="personnel">
+      <p><strong>Nerida O’Loughlin</strong></p>
+      <p>Interim Chief Executive Officer</p>
+      <p>Digital Transformation Agency<br />24 October 2016&mdash;30 April 2017</p>
+    </div>
 
-<div class="personnel" style="clear: both;">
-  <img src="/images/annual-reports/2016-17/gavin-slater.jpg" alt="Photo of Gavin Slater" style="float: left; margin-right: 1rem; margin-bottom: 1rem;">
-  <h4>Gavin Slater</h4>
-  <p>Chief Executive Officer</p>
-  <p>Commenced role at the Digital Transformation Agency on 1 May 2017</p>
+    <div class="personnel">
+      <p><strong>Paul Shetler</strong></p>
+      <p>Chief Executive Officer</p>
+      <p>Digital Transformation Office<br />1 July 2015&mdash;22 October 2016</p>
+    </div>
+  </div>
+
+  <div class="personnel">
+    <img src="/images/annual-reports/2016-17/radi-kovacevic.png" alt="Photo of Radi Kovacevic">
+    <p><strong>Radi Kovacevic</strong></p>
+    <p>Enabling Services</p>
+  </div>
+
+  <div class="personnel">
+    <img src="/images/annual-reports/2016-17/genine-johnson.jpg" alt="Photo of Genine Johnson">
+    <p><strong>Genine Johnson</strong></p>
+    <p>Strategy and Communications</p>
+  </div>
+
+  <div class="personnel">
+    <img src="/images/annual-reports/2016-17/jose-del-rio.jpg" alt="Photo of Jose Del Rio">
+    <p><strong>Jose Del Rio</strong></p>
+    <p>Policy, Partnerships and Capability</p>
+  </div>
+
+  <div class="personnel">
+    <img src="/images/annual-reports/2016-17/peter-alexander.jpg" alt="Photo of Peter Alexander">
+    <p><strong>Peter Alexander</strong></p>
+    <p>ICT Procurement, Delivery and Assurance</p>
+  </div>
 </div>
-
-<div class="personnel" style="clear: both;">
-  <h4>Nerida O’Loughlin</h4>
-  <p>Interim Chief Executive Officer</p>
-  <p>Digital Transformation Agency<br />24 October 2016&mdash;30 April 2017</p>
-</div>
-
-<div class="personnel" style="clear: both;">
-  <h4>Paul Shetler</h4>
-  <p>Chief Executive Officer</p>
-  <p>Digital Transformation Office<br />1 July 2015&mdash;22 October 2016</p>
-</div>
-
-<div class="personnel" style="clear: both;">
-  <img src="/images/annual-reports/2016-17/radi-kovacevic.png" alt="Photo of Radi Kovacevic" style="float: left; margin-right: 1rem; margin-bottom: 1rem;">
-  <h3>Radi Kovacevic</h3>
-  <p>Enabling Services</p>
-</div>
-
-<div class="personnel" style="clear: both;">
-  <img src="/images/annual-reports/2016-17/genine-johnson.jpg" alt="Photo of Genine Johnson" style="float: left; margin-right: 1rem; margin-bottom: 1rem;">
-  <h3>Genine Johnson</h3>
-  <p>Strategy and Communications</p>
-</div>
-
-<div class="personnel" style="clear: both;">
-  <img src="/images/annual-reports/2016-17/jose-del-rio.jpg" alt="Photo of Jose Del Rio" style="float: left; margin-right: 1rem; margin-bottom: 1rem;">
-  <h3>Jose Del Rio</h3>
-  <p>Policy, Partnerships and Capability</p>
-</div>
-
-<div class="personnel" style="clear: both;">
-  <img src="/images/annual-reports/2016-17/peter-alexander.jpg" alt="Photo of Peter Alexander" style="float: left; margin-right: 1rem; margin-bottom: 1rem;">
-  <h3>Peter Alexander</h3>
-  <p>ICT Procurement, Delivery and Assurance</p>
-</div>
-
-<div class="clear" style="clear: both;"></div>

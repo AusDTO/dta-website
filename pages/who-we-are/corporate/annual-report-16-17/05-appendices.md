@@ -496,7 +496,7 @@ page_group:
 
 <h3>List of content published on the DTA website [2016–17 Financial Year]</h3>
 
-<ul>
+<ul id="publications">
   <li>July 2016
     <ul>
       <li>15 July
@@ -887,7 +887,7 @@ page_group:
     </colgroup>
     <thead>
       <tr>
-        <th>
+        <th width="70%">
           <p>Requirement</p>
         </th>
         <th>

@@ -161,19 +161,19 @@ page_group:
     </colgroup>
     <thead>
       <tr>
-        <td />
-        <td colspan="2">
+        <th colspan="2"/>
+        <th colspan="2">
           <p>Type</p>
-        </td>
-        <td colspan="2">
+        </th>
+        <th colspan="2">
           <p>Status</p>
-        </td>
-        <td colspan="2">
+        </th>
+        <th colspan="2">
           <p>Location</p>
-        </td>
-        <td colspan="3">
+        </th>
+        <th colspan="3">
           <p>Gender</p>
-        </td>
+        </th>
       </tr>
       <tr>
         <td />
