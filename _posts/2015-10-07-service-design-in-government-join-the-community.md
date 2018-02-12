@@ -16,6 +16,6 @@ To that end, we’ve set up a little mailing list and we’d love to invite anyo
 
 We hope to share questions, conversations and resources about service design and the disciplines that contribute to service design. We might also organise the occasional meet-up or video conference, to help us get to know colleagues around government and start to build rigour and consistency in the way that we work, together.
 
-If you’d like to join the community, [you can sign up here](http://goo.gl/forms/5Yqe7he9qx). You’ll need a government email address or otherwise, leave a note to explain how you’re working on government services. If you can’t access the website to join the community, you can drop me an email at <leisa.reichelt@digital.gov.au> and I’ll add you to the list.
+If you’d like to join the community, [you can sign up here](/what-we-do/partnerships/communities/). You’ll need a government email address or otherwise, leave a note to explain how you’re working on government services. If you can’t access the website to join the community, you can drop me an email at <leisa.reichelt@digital.gov.au> and I’ll add you to the list.
 
 Looking forward to meeting you all and comparing notes!
