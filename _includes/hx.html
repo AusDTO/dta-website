@@ -26,9 +26,13 @@ example usage:
 
   {% capture hashes %}{% for i in (1..include.lvl) %}#{% endfor %}{% endcapture %}
   {% assign heading_md = hashes | append: ' ' | append: include.text %}
+  {% comment %}{% heading_md %}{% endcomment %}
   {% assign heading_html = heading_md | markdownify %}
+  {% comment %}{% heading_html %}{% endcomment %}
   {% assign heading_split = heading_html | split: '"' %}
+  {% comment %}{% heading_split %}{% endcomment %}
   {% assign heading_id = heading_split[1] %}
+  {% comment %}{% heading_id %}{% endcomment %}
 {% endif %}
 
 {% unless include.hide-back-to-top %}
