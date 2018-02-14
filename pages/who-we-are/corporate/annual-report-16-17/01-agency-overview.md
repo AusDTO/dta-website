@@ -122,16 +122,12 @@ page_group:
 
 <p>Organisational structure as at 30 June, 2017.</p>
 
-<h3>Chief Executive Officer:</h3>
-<p>Gavin Slater</p>
-<h3>Enabling Services</h3>
-<p>Radi Kovacevic</p>
-<h3>Strategy and Communications</h3>
-<p>Genine Johnson</p>
-<h3>Policy, Partnerships and Capability</h3>
-<p>Jose Del Rio</p>
-<h3>ICT Procurement, Delivery and Assurance</h3>
-<p>Peter Alexander</p>
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/annual-reports/2016-17/dta-organisation-chart.png" alt="Organisation structure of the DTA executive as at June 30, 2017. Chief Executive Officer Gavin Slater, Enabling Services Radi Kovacevic, Stretegy and Communications Genine Johnson, Policy, Partnerships and Capability Jose del Rio, ICT Procurement, Delivery and Assurance Peter Alexander">
+  <figcaption>
+    <p><strong>Caption: organisational structure as at 30 June, 2017.</strong></p>
+  </figcaption>
+</figure>
 
 {% include hx.html lvl=2 text="Leadership team" %}
 
