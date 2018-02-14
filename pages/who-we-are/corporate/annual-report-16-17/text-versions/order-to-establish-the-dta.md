@@ -8,7 +8,7 @@ gov-speak: true
 searchexcerpt: Full text description of the order to establish the DTA.
 ---
 
-[&larr; Back to Annual Report 2016–17 appendices](/who-we-are/corporate/annual-report-16-17/05-appendices#a-order-to-establish-the-dta)
+[&larr; Back to Annual Report 2016–17 appendices](/who-we-are/corporate/annual-report-16-17/5-appendices#a-order-to-establish-the-dta)
 
 <p><strong>COMMONWEALTH OF AUSTRALIA</strong></p>
 <p><em>Public Service Act 1999</em></p>
@@ -16,7 +16,7 @@ searchexcerpt: Full text description of the order to establish the DTA.
 <p>I, General the Honourable Sir Peter Cosgrove AK MC (Ret’d), Governor-General of the Commonwealth of Australia, acting with the advice of the Federal Executive Council and under section 65 of the Public Service Act 1999, amend the Order to establish the Digital Transformation Office as an Executive Agency made on 12 March 2015 and amended on 21 September 2015, by omitting paragraphs (b) and (e) of that Order and substituting the following paragraphs:</p>
 <ol>
   <li style="list-style-type: (b)">allocate the name Digital Transformation Agency to the Executive Agency;</li>
-  <li style="list-style-type: (e)"">specify that the functions of the Digital Transformation Agency be as follows:
+  <li style="list-style-type: (e)">specify that the functions of the Digital Transformation Agency be as follows:
     <ol style="list-style-type: lower-roman">
       <li>to provide strategic and policy leadership on whole-of-government and shared information and communications technology (ICT) and digital service delivery, including ICT procurement policy;</li>
       <li>to design, develop, coordinate, deliver and monitor policies, standards, services and delivery platforms for whole-of-government and shared ICT and digital service delivery;</li>
@@ -27,13 +27,12 @@ searchexcerpt: Full text description of the order to establish the DTA.
     </ol>
   </li>
 </ol>
-<p></p>
 <p>Dated 27 October 2016</p>
 <p>(signed Peter Cosgrove)</p>
 <p>Governor-General</p>
 <p>By His Excellency’s Command</p>
 <p>(signed Malcolm Turnbull)</p>
-<p></p>
-<p>Prime Minister Government Notices Gazette C2016G01423 28/10/2016"
+<p>Prime Minister</p>
+<p>Government Notices Gazette C2016G01423 28/10/2016</p>
 
-[&larr; Back to Annual Report 2016–17 appendices](/who-we-are/corporate/annual-report-16-17/05-appendices#a-order-to-establish-the-dta)
+[&larr; Back to Annual Report 2016–17 appendices](/who-we-are/corporate/annual-report-16-17/5-appendices#a-order-to-establish-the-dta)
