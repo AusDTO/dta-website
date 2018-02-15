@@ -48,6 +48,110 @@
     }
   }
 
+  $phases: (
+    "discovery": $discovery,
+    "alpha": $alpha,
+    "beta": $beta,
+    "live": $live,
+  );
+
+  .service-design {
+    position: relative;
+    p {
+      margin-left: calc(1.8rem - 5px);
+      padding-left: 2rem;
+      border-left: 4px dashed;
+      margin-bottom: 0;
+    }
+    h4 {
+      padding-left: 4rem;
+      line-height: 4rem;
+      margin: 0;
+    }
+    @each $phase, $colour in $phases {
+      .#{$phase} {
+        h4 {
+          background: url('/images/annual-reports/2016-17/circle-#{$phase}.png') no-repeat left center;
+        }
+        p {
+          border-left-color: $colour;
+        }
+      }
+    }
+    .live {
+      p:after {
+        content: '';
+        background-image: url('/images/annual-reports/2016-17/arrow-head.png');
+        background-color: white;
+        background-repeat: no-repeat;
+        background-position: left bottom;
+        display: block;
+        width: 50px;
+        height: 10px;
+        position: absolute;
+        left: 0;
+        @include media($mobile) {
+          left: 1px;
+        }
+        bottom: 0;
+      }
+    }
+  }
+
+  .personnel-list {
+    display: inline-block;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    .personnel {
+      flex: 1 0 25%;
+      margin-right: 1rem;
+    }
+    .ceos {
+      display: inline-block;
+      display: flex;
+      flex-wrap: wrap;
+      min-width: 100%;
+      .personnel {
+        flex-basis: 30%;
+        min-width: 30%;
+        max-width: 30%;
+      }
+    }
+  }
+
+  .signature {
+    width: 45%;
+    margin-right: 5%;
+    &.left {
+      float: left;
+    }
+    &.right {
+      float: right;
+    }
+    img {
+      height: 60px;
+      width: auto;
+    }
+  }
+
+  #publications {
+    margin-left: 0;
+    padding-left: 0;
+    > li {
+      list-style: none;
+      margin-left: 0;
+      font-weight: bold;
+      li {
+        list-style: disc;
+        font-weight: normal;
+        li {
+          list-style: circle;
+        }
+      }
+    }
+  }
+
   .financial-notes-index {
     p {
       padding-left: ($base-spacing * 2.2);
@@ -77,7 +181,7 @@
       vertical-align: top;
     }
 
-    //The default agent sheet styles `<th>` as bold, however for an accessibile table, `<th>` can appear throughout
+    // The default agent sheet styles `<th>` as bold, however for an accessibile table, `<th>` can appear throughout
     //`<tbody>`. For the annual report we override this, and instead use `<strong>` where necessary.
     //Possibly this should be overridden globally in ui-kit.
     thead th {
@@ -97,6 +201,55 @@
         &:first-child {
           text-align: initial;
         }
+      }
+      &.fy-2016-17 {
+        td, th {
+          vertical-align: top;
+          border: none;
+          text-align: inherit;
+          &:first-child {
+            text-align: inherit;
+          }
+        }
+        p {
+          margin-bottom: 0;
+          max-width: 100%;
+        }
+        li {
+          max-width: 100%;
+        }
+      }
+      .bold {
+        font-weight: bold;
+      }
+      .body {
+        font-weight: normal;
+      }
+      .italic {
+        font-style: italic;
+      }
+      .table-right-aligned {
+        text-align: right;
+      }
+      .table-left-indent {
+        padding-left: 1rem;
+      }
+      .table-border-top {
+        td, th {
+          border-top: 1px solid $light-grey;
+        }
+      }
+      .table-border-bottom {
+        td, th {
+          border-bottom: 1px solid $light-grey;
+        }
+      }
+      .table-all-caps {
+        text-transform: uppercase;
+        font-weight: bold;
+      }
+      tfoot tr td  * {
+        font-size: 0.9rem;
       }
     }
   }

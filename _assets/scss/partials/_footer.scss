@@ -1,3 +1,8 @@
+footer[role='contentinfo'] .footer-logo img {
+  height: 100px;
+  width: auto;
+}
+
 .footer-top {
   .blog-subscribe {
     @include media($tablet) {
