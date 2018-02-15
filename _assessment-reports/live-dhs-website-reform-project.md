@@ -33,11 +33,9 @@ The website has adopted a user interface based on sharing code, designs and appr
 
 This report only considers the adoption of the new interface design on humanservices.gov.au because this is the only component of the project ready to progress to Live at this stage.
 
-The website user interface has met criteria 1 to 13 of the Digital Service Standard.
-
 ## Areas of good performance
 
-This report recommends the service proceed from Beta to Live.
+The website user interface has met criteria 1 to 13 of the Digital Service Standard. This report recommends the service proceed from Beta to Live.
 
 The team were able to demonstrate their ability to keep improving the user interface once it goes live, based on user feedback, analytics and ongoing user research.
 
@@ -72,7 +70,9 @@ The team has continued to mature their knowledge and skills in utilising the con
 - developing system relationship documents,
 - assembling instructions and scripts for managing the open source content management framework,
 - customising the system to enable auto deployment, and
-- being invited by other government departments to share their experience. The team has also secured ongoing funding for establishing automated browser testing.
+- being invited by other government departments to share their experience.
+
+The team has also secured ongoing funding for establishing automated browser testing.
 
 ### Criterion 5: make it secure
 
@@ -90,7 +90,7 @@ The team has shown how they tested each Beta release on a diverse range of devic
 
 The team has built the user interface on an open platform developed by the Department of Finance and recommended for adoption by all government agencies. The team has worked to align the user interface as much as possible to the DTA user interface toolkit, which is an open source set of tools that was developed by the DTA to allow a consistent online experience for users.
 
-The team has actively sought to improve consistency of the users’ experience across government by sharing relevant research, technology, design feedback and recommendations with the DTA and other government agencies.
+The team has actively sought to improve consistency of the users’ experience across government by sharing relevant research, technology, design feedback and recommendations with the DTA and other government agencies.  
 
 ### Criterion 8: make source code open
 
@@ -106,13 +106,15 @@ The team has shown how their service meets accessibility requirements, successfu
 
 The team has shown evidence of continued user testing of the website. Additionally, the team has conducted User Acceptance Testing internally, which included test plans for each component of the website, as well as detailed acceptance criteria.
 
- The team has shown that they have considered different scenarios, through developing a release and implementation plan that includes a roll-back option. The roll-back option has been tested multiple times and can be completed quickly, without disrupting other services.
+The team has shown that they have considered different scenarios, through developing a release and implementation plan that includes a roll-back option. The roll-back option has been tested multiple times and can be completed quickly, without disrupting other services.
 
 The team has also shown that the Beta site has a high speed performance. This is demonstrated by the results of testing conducted to find out how quickly the site responds when accessed from various browsers.
 
 The team has shown how they are establishing automatic testing for processes and platform performance. The team has re-negotiated an arrangement to allow multiple sites to be setup in govCMS for different types of testing.
 
+
 ### Criterion 11: measure performance
+
 The team has acknowledged that this is the first information service of its kind to be assessed against the Digital Service Standard. This is because the service focusses on the user interface and navigation elements of the website rather than the content itself. Given the type of service, the team has only published two out of the four minimum metrics on the DTA Performance Dashboard to date: customer satisfaction and cost per transaction. The team will continue to work closely with the DTA to determine how digital take up and completion rate can be measured for this kind of service.
 
 Through in page polling, the team has been able to show an improvement in customer satisfaction when comparing the existing website with the Beta website.
@@ -123,7 +125,7 @@ The team has continued to work with customer facing areas to ensure they are rea
 
 The team has developed support materials for staff and users to help them understand the website changes. For staff, they have developed a learning and development product and information sheet that can also be shared with users. For users, the team has developed a ‘Website design changes’ guide that will be accessible from every page of the website. The guide compares the old site with the new look and feel for each component of the user interface, for example log on, homepage and icons.
 
-The team has shown how the layout of the Contact Us page on the website has been improved to make it easier for users to find another channel if they need to.
+The team has shown how the layout of the Contact Us page on the website has been improved to make it easier for users to find another channel if they need to.  
 
 ### Criterion 13: encourage everyone to use the digital service
 
