@@ -3,7 +3,7 @@
 	{% for report in reports reversed %}
 		<li>
   		<a href="{{report.url}}">{{report.title}}</a>
-  		<span class="{{report.assessment-stage}}">{{report.assessment-stage}}</span>
+  		<span class="{{report.assessment-stage | downcase}}">{{report.assessment-stage}}</span>
   		<span class="assessed-by">{% if report.self-assessment == true %}Agency assessed{% else %}DTA assessed{% endif %}</span> -
   		<span class="date">{{report.date | date: '%e %B %Y'}}</span>
 		</li>
