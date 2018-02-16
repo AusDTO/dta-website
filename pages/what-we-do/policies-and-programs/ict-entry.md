@@ -3,6 +3,7 @@ title: ICT entry-level programs
 layout: basic
 permalink: /what-we-do/policies-and-programs/ict-entry/
 localnav: what-we-do
+redirect_from: /digital-entry-level/
 searchexcerpt: "Our entry-level programs provide a great opportunity for those interested in developing their ICT skills whilst working as part of a supportive workforce that nurtures professional expertise and opportunities for skills development."
 ---
 
@@ -35,13 +36,13 @@ searchexcerpt: "Our entry-level programs provide a great opportunity for those i
       </a>
     </li>
   </ul>
-</nav> 
+</nav>
 
 ## Introduction to digital careers
 
 Are you wondering what Information and Communications Technology (ICT) job opportunities exist for you to begin your career in the Australian Public Service?
 
-Our entry-level programs provide a great opportunity for those interested in developing their ICT skills whilst working as part of a supportive workforce that nurtures professional expertise and opportunities for skills development. 
+Our entry-level programs provide a great opportunity for those interested in developing their ICT skills whilst working as part of a supportive workforce that nurtures professional expertise and opportunities for skills development.
 
 ICT Apprentices, Cadets and Graduates will experience:
 
@@ -98,7 +99,7 @@ In addition, you will participate in training activities that will provide you w
 Agencies participating on the Program in 2018 include:
 
 - Bureau of Meteorology (Melbourne)
-- Commonwealth Director of Public Prosecutions (Sydney and Melbourne) 
+- Commonwealth Director of Public Prosecutions (Sydney and Melbourne)
 - Department of Agriculture (Canberra)
 - Department of Defence - Australian Signals Directorate (Canberra)
 - Department of Human Services (Canberra)
