@@ -27,10 +27,12 @@ $dta-red: #d7002f;
 
 //development phase colours
 //not to be used for text. Only to be used as background with white text - minumium 20px and bold
-$discovery: #912b87;
-$alpha: #c52a72;
-$beta: #cf4a10;
-$live: #859949;
+
+$discovery: rgb(145, 43, 135);
+$alpha: rgb(201, 25, 120);
+$beta: rgb(238, 101, 35);
+$live: rgb(50, 165, 86);
+
 
 
 // Imports UI-Kit: https://github.com/AusDTO/gov-au-ui-kit
