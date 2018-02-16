@@ -14,6 +14,4 @@ As of October 2017, cloud.gov.au has 47 apps in production, and 272 apps in deve
 
 DTA services running on cloud.gov.au include the [Digital Marketplace](/what-we-do/platforms/marketplace/), the [Performance Dashboard](/what-we-do/platforms/performance/), and the australia.gov.au [Media Release Service](https://media.australia.gov.au).
 
-We [publish real time performance statistics](http://status.cloud.gov.au) of both the cloud.gov.au platform itself, and the apps running on cloud.gov.au.
-
 If you are interested in building new digital services on cloud.gov.au, please [get in contact with us](mailto:support@cloud.gov.au).
