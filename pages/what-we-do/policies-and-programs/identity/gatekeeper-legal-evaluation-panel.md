@@ -1,14 +1,11 @@
 ---
-layout: guide
+layout: basic
 title: Gatekeeper Legal Evaluation Panel
-permalink: /standard/design-guides/authentication-frameworks/gatekeeper-legal-evaluation-panel/
+permalink: /what-we-do/policies-and-programs/identity/gatekeeper-legal-evaluation-panel/
+redirect_from: /standard/design-guides/authentication-frameworks/gatekeeper-legal-evaluation-panel/
 breadcrumb: Gatekeeper Legal Evaluation Panel
-type: subguide
-localnav: authentification-frameworks
-topic_group:
-- Website design and development
-topic:
-- Security
+localnav: what-we-do
+searchexcerpt: The role of the members of the Gatekeeper Legal Evaluation Panel is to evaluate the legal documents for organisations applying for Gatekeeper Accreditation and Service Providers amending previously approved legal documents submit, as part of their documentation suite.
 ---
 
 The role of the members of the Gatekeeper Legal Evaluation Panel is to evaluate the legal documents for organisations applying for Gatekeeper Accreditation and Service Providers amending previously approved legal documents submit, as part of their documentation suite.
@@ -63,14 +60,14 @@ Email: [georgina.adams@blakedawson.com](mailto:georgina.adams@blakedawson.com)
 **Contact:** Bernard J O'Shea, Partner <br>
 Level 15, 485 Bourke Street <br>
 Melbourne VIC 3000 <br>
-Phone: (03) 8686 6573 <br> 
+Phone: (03) 8686 6573 <br>
 Fax: (03) 8686 6505 <br>
 Email: [bernard.oshea@nortonrose.com](mailto:bernard.oshea@nortonrose.com)
 
 ### Minter Ellison Lawyers
 
 **Contact:** Debra Tippett <br>
-GPO Box 369 <br> 
+GPO Box 369 <br>
 Canberra ACT 2601 <br>
 Phone: (02) 6225 3027 <br>
 Fax: (02) 62251000 <br>
@@ -78,14 +75,14 @@ Email: [debra.tippett@minterellison.com](mailto:debra.tippett@minterellison.com)
 
 ### DLA Piper
 
-**Contact:** Caroline Atkins, Partner <br> 
-DLA Piper <br> 
-55 Wentworth Avenue <br> 
-KINGSTON ACT 2603 <br> 
+**Contact:** Caroline Atkins, Partner <br>
+DLA Piper <br>
+55 Wentworth Avenue <br>
+KINGSTON ACT 2603 <br>
 Phone: (02) 6201 8789 <br>
-Fax: (02) 6230 7848 <br> 
+Fax: (02) 6230 7848 <br>
 Email: [caroline.atkins@dlapiper.com](mailto:caroline.atkins@dlapiper.com)
 
 **Gatekeeper** is a registered trademark.
 
-Contact for information on this page: [Gatekeeper Team](mailto:authentication@dta.gov.au) 
+Contact for information on this page: [Gatekeeper Team](mailto:authentication@dta.gov.au)
