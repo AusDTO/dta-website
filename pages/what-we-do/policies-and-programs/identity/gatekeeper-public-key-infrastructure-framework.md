@@ -1,16 +1,13 @@
 ---
-layout: guide
+layout: basic
 title: Gatekeeper Public Key Infrastructure Framework
-permalink: /standard/design-guides/authentication-frameworks/gatekeeper-public-key-infrastructure-framework/
+permalink: /what-we-do/policies-and-programs/identity/gatekeeper-public-key-infrastructure-framework/
 breadcrumb: Gatekeeper Public Key Infrastructure Framework
-type: subguide
-localnav: authentification-frameworks
+localnav: what-we-do
 lede: Managing the technology that supports authentication
-redirect_from: /design-guides/subguides/gatekeeper-public-key-infrastructure-framework
-topic_group:
-- Website design and development
-topic:
-- Security
+redirect_from:
+- /design-guides/subguides/gatekeeper-public-key-infrastructure-framework
+- /standard/design-guides/authentication-frameworks/gatekeeper-public-key-infrastructure-framework/
 searchexcerpt: "The Gatekeeper Public Key Infrastructure (PKI) Framework governs the use of digital keys and certificates by the Australian Government to assure the identity of subscribers to authentication services."
 ---
 The Gatekeeper Public Key Infrastructure (PKI) Framework governs the use of digital keys and certificates by the Australian Government to assure the identity of subscribers to authentication services. Subscribers can include individual users, organisations and non-human devices, such as applications and computers.
@@ -40,7 +37,7 @@ Gatekeeper documents:
 
 ## Gatekeeper legal evaluation panel
  The role of the members of the [Gatekeeper legal evaluation panel](/standard/design-guides/authentication-frameworks/gatekeeper-legal-evaluation-panel/) is to evaluate the legal documents for organisations applying for Gatekeeper Accreditation and Service Providers amending previously approved legal documents submit, as part of their documentation suite.
- 
+
 ## Gatekeeper accredited service providers
 
 The following services have been granted accreditation by the Gatekeeper Competent Authority.

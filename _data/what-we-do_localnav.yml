@@ -6,6 +6,8 @@
       grandchildren:
         - title: "Content strategy"
           url: "/what-we-do/policies-and-programs/content-strategy/"
+        - title: "Digital identity"
+          url: "/what-we-do/policies-and-programs/identity/"
         - title: "Digital Investment Management Office"
           url: "/what-we-do/policies-and-programs/digital-investment-management-office/"
         - title: "Digital Service Standard"
