@@ -36,67 +36,67 @@ Two future components will be added to the TDIF. These will set the standard to 
 
 This document provides a high-level overview of the TDIF. It outlines the relationship between the 10 documents included in the framework, and the definition of key terms.
 
-[Download the overview and glossary (PDF 630KB)]({{ site.url }}{{ site.baseurl }}/files/identity/tdif-overview-and-glossary.pdf)
+[Download the overview and glossary (PDF 630KB)](/files/identity/tdif-overview-and-glossary.pdf)
 
 ### Accreditation Process
 
 This document defines the requirements to be met by government agencies and
 organisations in order to achieve TDIF accreditation for their identity service.
 
-[Download the accreditation process (PDF 609KB)]({{ site.url }}{{ site.baseurl }}/files/identity/tdif-accreditation-process.pdf)
+[Download the accreditation process (PDF 609KB)](/files/identity/tdif-accreditation-process.pdf)
 
 ### Authentication Credential Requirements
 
 This document sets out the authentication and credential requirements that government agencies and organisations need to meet to be accredited as Credential Service Providers under the TDIF.
 
-[Download the authentication credential requirements (PDF 116KB)]({{ site.url }}{{ site.baseurl }}/files/identity/tdif-authentication-credential-requirements.pdf)
+[Download the authentication credential requirements (PDF 116KB)](/files/identity/tdif-authentication-credential-requirements.pdf)
 
 ### Fraud Control Requirements
 This document sets out the TDIF fraud control requirements that government agencies and organisations need to meet in order to be accredited under the TDIF.
 
-[Download the fraud control requirements (PDF 342KB)]({{ site.url }}{{ site.baseurl }}/files/identity/tdif-fraud-control-requirements.pdf)
+[Download the fraud control requirements (PDF 342KB)](/files/identity/tdif-fraud-control-requirements.pdf)
 
 ### Identity Proofing Requirements
 
 This document sets out the identity proofing requirements that government agencies and organisations need to meet to be accredited as Identity Service Providers under the TDIF.  
 
-[Download the identity proofing requirements (PDF 536KB)]({{ site.url }}{{ site.baseurl }}/files/identity/tdif-identity-proofing-requirements.pdf)
+[Download the identity proofing requirements (PDF 536KB)](/files/identity/tdif-identity-proofing-requirements.pdf)
 
 ### Privacy Requirements
 
 This document sets out the TDIF privacy requirements  that government agencies and organisations need to meet in order to be accredited under the TDIF. These requirements incorporate the Privacy Act 1988 and the Australian Privacy Principles, state-based privacy legislation and privacy best practice.
 
-[Download the privacy requirements (PDF 340KB)]({{ site.url }}{{ site.baseurl }}/files/identity/tdif-privacy-requirements.pdf)
+[Download the privacy requirements (PDF 340KB)](/files/identity/tdif-privacy-requirements.pdf)
 
 ### Protective Security Requirements
 
 This document sets out the TDIF protective security requirements that government agencies and organisations need to implement in order to be accredited under the TDIF.
 
-[Download the protective security requirements (PDF 451KB)]({{ site.url }}{{ site.baseurl }}/files/identity/tdif-protective-security-requirements.pdf)
+[Download the protective security requirements (PDF 451KB)](/files/identity/tdif-protective-security-requirements.pdf)
 
 ### Risk Management Requirements
 
 This document sets out the TDIF risk management requirements that government agencies and organisations need to meet in order to be accredited under the TDIF.  This document  also explains an approach to risk management that agencies and organisations can use to meet the requirements.
 
-[Download the risk management requirements (PDF 594KB)]({{ site.url }}{{ site.baseurl }}/files/identity/tdif-risk-management-requirements.pdf)
+[Download the risk management requirements (PDF 594KB)](/files/identity/tdif-risk-management-requirements.pdf)
 
 ### Usability and Accessibility Requirements
 
 This document defines the usability and accessibility requirements that government agencies and organisations need to meet in order to be accredited under the TDIF. These requirements ensure that identity services are simple and easy to use.
 
-[Download the usability and accessibility requirements (PDF 281KB)]({{ site.url }}{{ site.baseurl }}/files/identity/tdif-usability-and-accessibility-requirements.pdf)
+[Download the usability and accessibility requirements (PDF 281KB)](/files/identity/tdif-usability-and-accessibility-requirements.pdf)
 
 ### Protective Security Reviews
 
 This document outlines the protective security reviews that will be performed on an identity service as part of the TDIF accreditation process.
 
-[Download the protective security reviews (PDF 348KB)]({{ site.url }}{{ site.baseurl }}/files/identity/tdif-protective-security-reviews.pdf)
+[Download the protective security reviews (PDF 348KB)](/files/identity/tdif-protective-security-reviews.pdf)
 
 ### Community and industry feedback
 
 The DTA developed the TDIF in conjunction with other government agencies and key private sector bodies. We published the draft framework for public comment in November 2017. This document provides a summary of changes made to the TDIF based on the community and industry comments.
 
-[Download the feedback summary (PDF 304KB)]({{ site.url }}{{ site.baseurl }}/files/identity/tdif-stakeholder-and-community-feedback.pdf)
+[Download the feedback summary (PDF 304KB)](/files/identity/tdif-stakeholder-and-community-feedback.pdf)
 
 ## Other identity policies
 
