@@ -35,9 +35,7 @@ The partnership will focus on building identity solutions that improve people’
 
 ## When will the new changes be available?
 
-We’ll continue to test the new technology and work with our stakeholders over the coming year to get an agreed and consistent framework in place.
-
-By mid-2017, we expect to be testing the product with selected users, and by 2018, we expect to have the products available for users to test on a limited number of government services.
+Over the coming year we will be working with other agencies to test [the framework](/what-we-do/policies-and-programs/identity/).  
 
 The short term improvements will offer users a simpler and easier process of proving who they are to access a range of basic online government services.
 
