@@ -21,8 +21,8 @@ We encourage Corporate Commonwealth entities (CCEs), subject to the *PGPA Act 20
 ## Policy details
 
 The policy came into effect on 23 August 2017 and covers:
-- the term - how long a contract lasts
--  the value - how much a contract is worth
+- the term &mdash; how long a contract lasts
+- the value &mdash; how much a contract is worth
 
 ### Capped term
 
@@ -56,7 +56,7 @@ If you want to change the scope of an existing contract, please email us so we c
 
 ## Where this policy applies automatically
 
-If you have entered a contract under the whole-of-government ICT coordinated procurement arrangement, the contract is deemed to comply with this policy. 
+If you have entered a contract under the whole-of-government ICT coordinated procurement arrangement, the contract is deemed to comply with this policy.
 
 ## Exemptions to this policy
 
