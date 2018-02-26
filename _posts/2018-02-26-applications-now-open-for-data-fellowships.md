@@ -7,7 +7,7 @@ thumbnail: /images/blog-thumbnails/data-fellowship-thumb.png
 twitter-image: /images/blog-twitter/data-fellowship-twitter.png
 facebook-image: /images/blog-facebook/data-fellowship-facebook.png
 searchexcerpt: Applications now open for the data fellowship program that will give talented Australian Public Service staff an opportunity to develop advanced data skills.
-lede: We are giving talented Australian Public Service staff an opportunity to develop advanced data skills through our data fellowship program. Applications open 26 February and close 23 March 2018.
+lede: Applications are now open for the data fellowship program, giving talented people in the Australian Public Service an opportunity to develop their skills.
 ---
 
 <figure>
@@ -43,12 +43,12 @@ The DTA and Data61 will consult with your agency to determine an appropriate sta
 In your application, you will need to submit:
 
 - the name of your data champion or senior executive
-- he name of your current supervisor
+- the name of your current supervisor
 - your preferred placement start date and location
 - details of your data related project proposal and technical skillset
 - your up-to-date resume.
 
-You can preview the form before you complete it.
+You can [preview the form](https://ausdta.recruiterbox.com/jobs/edeec697706c4192bfc505896bae4ed3) before you complete it.
 
 ## Cost
 
