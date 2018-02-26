@@ -6,8 +6,7 @@ hero-image: /images/blog-banners/data-fellowship-hero.png
 thumbnail: /images/blog-thumbnails/data-fellowship-thumb.png
 twitter-image: /images/blog-twitter/data-fellowship-twitter.png
 facebook-image: /images/blog-facebook/data-fellowship-facebook.png
-searchexcerpt: Applications now open for the data fellowship program that will give talented Australian Public Service staff an opportunity to develop advanced data skills.
-lede: The data fellowship program will give talented Australian Public Service staff an opportunity to develop advanced data skills.
+searchexcerpt: The data fellowship program will give talented Australian Public Service staff an opportunity to develop advanced data skills.
 ---
 
 <figure>
