@@ -48,17 +48,17 @@ Over the past 6 months, the DTA has had more than 1,000 engagements.
 
 We worked with 39 federal and 6 state government agencies to develop our [Secure Cloud Strategy](/news/new-strategy-for-cloud/).
 
-We have supported 35 agencies to develop and champion women working in technology through our Women in IT Executive Mentoring and Coaching Program.
+We have supported 35 agencies to develop and champion women working in technology through our [Women in IT](/what-we-do/policies-and-programs/women-in-it/) Executive Mentoring and Coaching Program.
 
-We are collaborating with the Queensland and ACT governments to identify opportunities to grow the Digital Marketplace and increase the opportunities for governments and sellers, particularly small and medium enterprises.
+We are collaborating with the Queensland and ACT governments to identify opportunities to grow the [Digital Marketplace](https://marketplace.service.gov.au/) and increase the opportunities for governments and sellers, particularly small and medium enterprises.
 
-Our digital identity program to date has involved more than 20 agencies and organisations, including federal, state and territory government, privacy groups and financial institutions.
+Our [digital identity program](/news/digital-identity-a-step-closer/) to date has involved more than 20 agencies and organisations, including federal, state and territory government, privacy groups and financial institutions.
 
-Public service staff from 64 agencies have attended our DTA-hosted capability events and seminars to increase digital awareness and uplift digital skills.
+Public service staff from 64 agencies have attended our DTA-hosted capability [investment review and seminars](https://www.eventbrite.com.au/o/digital-transformation-agency-8025584572) to increase digital awareness and uplift digital skills.
 
 We are currently working with 8 agencies to bring greater consistency to the look and feel of government services and to support rapid prototyping of new services.
 
-We are engaging with more than 20 agencies through our Digital Investment Review work, which is designed to help set up major ICT projects for best success. We are “actively engaged” on 17 individual projects due to their complexity, the significant amount of money invested in them, or their strategic importance.
+We are engaging with more than 20 agencies through our [Digital Investment Review](/news/digital-investment-review/) work, which is designed to help set up major ICT projects for best success. We are “actively engaged” on 17 individual projects due to their complexity, the significant amount of money invested in them, or their strategic importance.
 
 Since starting this work in May, we have provided advice to government on 47 new and major ICT initiatives put forward by agencies.
 
@@ -66,15 +66,15 @@ In addition to our growing engagement activities, we are also focused on our own
 
 Over the past six months, we have delivered significant pieces of work and achieved important milestones.
 
-Last week, we completed and published the first component of the Trusted Digital Identity Framework. This sets out the rules and standards for a nationally-consistent approach to a digital identity program.
+Last week, we completed and published the first component of the [Trusted Digital Identity Framework](/news/digital-identity-a-step-closer/). This sets out the rules and standards for a nationally-consistent approach to a digital identity program.
 
-The framework sits alongside the cloud-based technology platform that we are using to build and test prototypes. We are now moving to the beta version of the platform &mdash; the intention of the next phase is to take it live. This will allow people to set up a digital identity online and apply for a tax file number.
+The framework sits alongside the [open source technology platform](/blog/creating-a-govpass-digital-identity/) that we are using to build and test prototypes. We are now moving to the beta version of the platform &mdash; the intention of the next phase is to take it live. This will allow people to set up a digital identity online and apply for a tax file number.
 
-We recently released a whole-of-government Secure Cloud Strategy, which aims to increase agency take-up of cloud services and address some of the barriers preventing adoption.
+We recently released a whole-of-government [Secure Cloud Strategy](/news/new-strategy-for-cloud/), which aims to increase agency take-up of cloud services and address some of the barriers preventing adoption.
 
-We have built an open source cloud “Platform as a Service” and have shared this with agencies so they can use the platform for their applications rather than needing to invest in their own infrastructure.
+We have built an [open source cloud](/what-we-do/platforms/cloud/) “Platform as a Service” and have shared this with agencies so they can use the platform for their applications rather than needing to invest in their own infrastructure.
 
-We’ve built and delivered a live dashboard for the Department of the Prime Minister and Cabinet’s Smart Cities program &mdash; this recently took out an innovation award.
+We’ve built and delivered a [live dashboard](/blog/smart-cities-dashboard/) for the Department of the Prime Minister and Cabinet’s Smart Cities program &mdash; this recently took out an innovation award.
 
 We’ve completed user research and developed a prototype for the DTA’s new agency website that will be the go-to digital shopfront for government agencies, private sector companies and individuals to access the many best practice toolkits and guides the DTA has developed.
 
@@ -84,7 +84,7 @@ With our building capability work, we’ve partnered with the Australian Public 
 
 As part of this, a pilot with the Department of Human Services is underway. They are engaging an external training provider to train their staff in user research, applying the user research training standards we’ve developed.
 
-We’ve brought in fresh digital talent to the public service this year with our ICT entry level graduate program, having just placed 140 graduates, cadets and apprentices across 16 agencies.
+We’ve brought in fresh digital talent to the public service this year with our [ICT entry](/what-we-do/policies-and-programs/ict-entry/) level graduate program, having just placed 140 graduates, cadets and apprentices across 16 agencies.
 
 In recent months, we negotiated a whole-of-government coordinated procurement agreement with SAP Australia and a whole-of-government agreement with Concur Holdings.
 
