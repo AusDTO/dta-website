@@ -88,12 +88,6 @@ We’ve brought in fresh digital talent to the public service this year with our
 
 In recent months, we negotiated a whole-of-government coordinated procurement agreement with SAP Australia and a whole-of-government agreement with Concur Holdings.
 
-We’ve consulted with government and industry on a new Hardware Marketplace, which we anticipate having up and running by June.
-
-Uptake of our Cloud Services Panel has increased by 33% since January 2017. It has 183 suppliers, with 502 cloud services available to government buyers.
-
-A total of 137 contracts have been entered into under this arrangement with a value of $47 million &mdash; 94 of these contracts have been with small and medium enterprises, which represents 60% of the value.
-
 We recently established within the DTA a cross-agency task force comprising 7 agencies to develop the new framework to guide decision making on ICT procurement policy.
 
 Finally, we are pleased to be in the process of signing off a memorandum of understanding with the Australian Information and Industry Association, aimed at strengthening our engagement and collaboration with the industry sector on key pieces of work, in particular the ICT procurement reforms and digital identity program.
