@@ -106,7 +106,7 @@ At one stage, our team was altogether in the same office. So we printed the find
   </figcaption>
 </figure>
 
-This was a dynamic way for the team to get across a large amount of detail. It was easy to see the breadth of the data we had, the types of comments and people could judge for themselves if the summary or finding was a reasonable. This made the research transparent which is vital.
+This was a dynamic way for the team to get across a large amount of detail. It was easy to see the breadth of the data we had, the types of comments and people could judge for themselves if the summary or finding was reasonable. This made the research transparent which is vital.
 
 We have carried on doing this throughout the project. So we now have a visual story map of the project covering all the key points such as who the users are, what outcomes they are seeking, what their key tasks are and so on.
 
