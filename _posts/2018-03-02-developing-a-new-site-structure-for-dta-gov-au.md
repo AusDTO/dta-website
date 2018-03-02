@@ -15,15 +15,11 @@ lede: "In developing a new site structure for dta.gov.au, we wanted to walk the 
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="Version 1.0 of the new information architecture with the following menu items: Contact Us, Jobs, News and blogs, Help and advice, Our projects and About us.">
 </figure>
 
-## Understanding the problem
+Our DTA website started out as an interim site and minimum viable product. But over the past year, our agency has grown and our needs and work have changed.
 
-Over the past year we have received anecdotal feedback that people can’t find what they want on our website. And, due to changes in our agency, the existing content and menu structure had grown organically.
+Through our discovery work, we  also learnt that 54% of visitors to our website were having problems finding what they wanted — so it was time for a revamp, especially to our menu and site structure, which had outgrown its original design.
 
-We also found conflicting information and advice, and that some important items of content were being lost in the website structure.
-
-This triggered us to look more closely at what was happening.
-
-During the discovery stage of the project we found that that 54% of visitors to our website were having problems finding what they wanted &mdash; so things needed to change.
+We conducted extensive user research and experimented with ways to make the findings come to life.
 
 ## Doing some research
 
