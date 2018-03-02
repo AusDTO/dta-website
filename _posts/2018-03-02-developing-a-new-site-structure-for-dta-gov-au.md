@@ -9,13 +9,11 @@ hero-image: /images/blog-banners/developing-a-new-site-structure-for-dta-gov-au-
 facebook-image: /images/blog-facebook/developing-a-new-site-structure-for-dta-gov-au-linkedin.png
 twitter-image: /images/blog-twitter/developing-a-new-site-structure-for-dta-gov-au-twitter.png
 searchexcerpt: In developing a new site structure for dta.gov.au, we wanted to walk the talk. So we conducted extensive user research and experimented with ways to make the research findings come to life.
-lede: "In developing a new site structure for dta.gov.au, we wanted to walk the talk. So we conducted extensive user research and experimented with ways to make the research findings come to life."
+lede: "Our DTA website started out as an interim site and minimum viable product. But over the past year, our agency has grown and our needs and work have changed."
 ---
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="Version 1.0 of the new information architecture with the following menu items: Contact Us, Jobs, News and blogs, Help and advice, Our projects and About us.">
 </figure>
-
-Our DTA website started out as an interim site and minimum viable product. But over the past year, our agency has grown and our needs and work have changed.
 
 Through our discovery work, we  also learnt that 54% of visitors to our website were having problems finding what they wanted — so it was time for a revamp, especially to our menu and site structure, which had outgrown its original design.
 
