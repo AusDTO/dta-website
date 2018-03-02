@@ -120,4 +120,4 @@ Visualising our research and findings helps us own the findings as a team. It al
 
 ## Keep updated
 
-We’ll be sharing more insights from our website work on our blog. You can [sign up to](/signup/) our mailing list to stay updated on our progress.
+We’ll be sharing more insights from our website work on our blog. You can [sign up to our mailing list](/signup/) to stay updated on our progress.
