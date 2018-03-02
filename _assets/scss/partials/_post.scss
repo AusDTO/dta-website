@@ -62,6 +62,12 @@
     border-radius: $tiny-border-radius;
     box-shadow: 0 0 8px $light-grey;
   }
+  figure {
+    margin-bottom: 1rem;
+    figcaption {
+      margin-top: 1rem;
+    }
+  }
   &.dta-download,
   &.dta-playback {
     @include media($desktop) {
