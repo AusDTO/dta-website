@@ -122,4 +122,4 @@ The process usually takes around 4 months from when applications close.
 
 If you have any questions about starting a digital career with the Australian Government, you can email [entrylevel@digital.gov.au](mailto:entrylevel@digital.gov.au) or call (02) 6120 8701.
 
-Or you can [follow us on facebook](https://www.facebook.com/digitalentrylevel/) for all program updates.  
+Or you can [follow us on Facebook](https://www.facebook.com/digitalentrylevel/) for all program updates.  
