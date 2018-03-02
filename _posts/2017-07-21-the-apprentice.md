@@ -17,9 +17,9 @@ searchexcerpt: "[Applications for the 2018 ICT Apprenticeship and Cadetship Prog
 
 The apprenticeship and cadetship programs are aimed at students completing year 12, currently studying an undergraduate degree, or looking for a change in careers. They both require no formal IT qualifications or experience --- just passion and drive for all things ICT. The programs also offer a great level of support while you study.
 
-As an [apprentice](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-entry/#australian-government-ict-apprenticeship-program), you’ll work four days a week while completing a Certificate IV or a Diploma in IT. You’ll gain experience across a range of ICT related areas, including programming, web development and systems analysis and design. 
+As an [apprentice](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-entry/), you’ll work four days a week while completing a Certificate IV or a Diploma in IT. You’ll gain experience across a range of ICT related areas, including programming, web development and systems analysis and design.
 
-If you’re a current university student and have completed your first year (or equivalent) of an undergraduate degree in ICT, or an undergraduate degree with an ICT major, the [cadetship](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-entry/#australian-government-ict-apprenticeship-program) program is for you. You’ll work part-time and receive plenty of support while you study.
+If you’re a current university student and have completed your first year (or equivalent) of an undergraduate degree in ICT, or an undergraduate degree with an ICT major, the [cadetship](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-entry/) program is for you. You’ll work part-time and receive plenty of support while you study.
 
 We also offer a graduate program that is open to anyone who has completed an ICT degree within the last seven years. You’ll work full time and be supported to complete a Graduate Certificate in Government Informatics.
 
@@ -31,7 +31,7 @@ Her journey towards a career in ICT has not followed a straight path. After star
 
 While working mainly in hospitality, Naomi was teaching herself to code using online courses. Despite developing a passion for IT, working in the area was not something Naomi ever expected to do as she hadn’t completed any formal qualifications.
 
-Fast forward 10 years and Naomi was thinking about heading home when her sister shared an advertisement for the apprentice program. The program looked like a great way to work towards a qualification to complement her growing interest in ICT. Because the apprenticeship program doesn’t require a specific qualification, Naomi felt confident in applying. 
+Fast forward 10 years and Naomi was thinking about heading home when her sister shared an advertisement for the apprentice program. The program looked like a great way to work towards a qualification to complement her growing interest in ICT. Because the apprenticeship program doesn’t require a specific qualification, Naomi felt confident in applying.
 
 >I thought this was a great opportunity...they’re paying you to learn which is pretty amazing.
 
@@ -43,7 +43,7 @@ Applicants are usually required to come to Canberra for their second interview a
 
 >The speed dating was a great experience...even though I’d already worked out which agency was my favourite!
 
-Naomi was one of 45 successful applicants for the apprentice program who started in 2016. She picked herself up and moved to Canberra—not quite as far as Germany, but still a big move. 
+Naomi was one of 45 successful applicants for the apprentice program who started in 2016. She picked herself up and moved to Canberra—not quite as far as Germany, but still a big move.
 
 Although the majority of cadet, apprentice and graduate positions are located in Canberra, positions can also be available in Sydney, Adelaide and Melbourne and Brisbane, depending on the needs of government agencies in those cities. In 2018, both apprentices and cadets are needed in Canberra, Adelaide and Sydney with apprentice positions also available in Melbourne.
 
@@ -51,7 +51,7 @@ Now Naomi is studying for a Certificate IV in ICT at the Canberra Institute of T
 
 The benefit of the cadet, apprentice and graduate program is the opportunity to move around an agency, learning different skills in different areas, and finding that area of most interest, whether it be data science, web design, frontend and backend developing or cybersecurity.
 
-Something we hear from apprentices and cadets is that the public service is not what they anticipated. It is more creative and exciting than they expected, with the opportunity to work in a variety of areas and build up diverse skills. 
+Something we hear from apprentices and cadets is that the public service is not what they anticipated. It is more creative and exciting than they expected, with the opportunity to work in a variety of areas and build up diverse skills.
 
 Naomi is supported to work on her own projects, but also finds her colleagues are ready and willing to share their own knowledge.
 
