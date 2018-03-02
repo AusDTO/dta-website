@@ -108,15 +108,15 @@ At one stage, our team was altogether in the same office. So we printed the find
 
 This was a dynamic way for the team to get across a large amount of detail. It was easy to see the breadth of the data we had, the types of comments and people could judge for themselves if the summary or finding was a reasonable. This made the research transparent which is vital.
 
-We carried on doing this throughout the project. So we now have a visual story map of the project covering all the key points such as who the users are, what outcomes they are seeking, what their key tasks are and so on.
+We have carried on doing this throughout the project. So we now have a visual story map of the project covering all the key points such as who the users are, what outcomes they are seeking, what their key tasks are and so on.
 
 This forms a narrative around the project and the supporting research. It’s a powerful way of communicating within the team and to others outside the team. It’s much more engaging than a slide deck or document, because it allows the reader to validate for themselves that the findings are valid based on the evidence &mdash; so in that way it is more participatory and helps the team collectively own the research and the findings.
 
 ## Turning the research into features
 
-Our user research was the backbone of our website redevelopment project. We could progress because we had an ongoing cycle of research, design, test. When we struck difficulties or setbacks, we could go back to the research to validate our assumptions and look for insights.
+Our user research is the backbone of our website redevelopment project. We are able to progress because we have an ongoing cycle of research, design, test. When we have difficulties or setbacks, we go back to the research to validate our assumptions and look for insights.
 
-Visualising our research and findings helped us own the findings as a team. It also allowed us to effectively communicate with other stakeholders.
+Visualising our research and findings helps us own the findings as a team. It also allows us to effectively communicate with other stakeholders.
 
 ## Keep updated
 
