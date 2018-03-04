@@ -8,7 +8,7 @@ thumbnail: /images/blog-thumbnails/developing-a-new-site-structure-for-dta-gov-a
 hero-image: /images/blog-banners/developing-a-new-site-structure-for-dta-gov-au-hero.png
 facebook-image: /images/blog-facebook/developing-a-new-site-structure-for-dta-gov-au-linkedin.png
 twitter-image: /images/blog-twitter/developing-a-new-site-structure-for-dta-gov-au-twitter.png
-searchexcerpt: In developing a new site structure for dta.gov.au, we wanted to walk the talk. So we conducted extensive user research and experimented with ways to make the research findings come to life.
+searchexcerpt: Our DTA website started out as an interim site and minimum viable product. But over the past year, our agency has grown and our needs and work have changed.
 lede: "Our DTA website started out as an interim site and minimum viable product. But over the past year, our agency has grown and our needs and work have changed."
 ---
 <figure>
