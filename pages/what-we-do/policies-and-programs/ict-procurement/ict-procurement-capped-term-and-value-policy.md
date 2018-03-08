@@ -43,3 +43,5 @@ Entities’ contractual commitments must be consistent with paragraphs 10.30 and
 ## Contact
 
 If you have any questions regarding this policy, please send an email to [ictprocurement@dta.gov.au](mailto:ictprocurement@dta.gov.au)
+
+Or read our [policy guidance for ICT contract capped term and value policy](/what-we-do/policies-and-programs/ict-procurement/ict-capped-term-value-policy-guidance/)
