@@ -4,6 +4,7 @@ layout: basic
 permalink: /what-we-do/policies-and-programs/ict-procurement/microsoft/
 searchexerpt: The Microsoft Volume Sourcing Arrangement 3 makes it easier for government agencies to buy Microsoft software and services.
 lede: The Microsoft Volume Sourcing Arrangement 3 makes it easier for government agencies to buy Microsoft software and services.
+localnav: what-we-do
 ---
 
 <nav class="index-links">
