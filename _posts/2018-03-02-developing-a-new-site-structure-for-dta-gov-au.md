@@ -95,7 +95,7 @@ At one stage, our team was altogether in the same office. So we printed the find
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/blog-content/developing-a-new-site-structure-for-dta-gov-au-content-5.png" alt="Virtual post-it notes and symbols grouped around a diagram of the current website to map out what users think of it.">
   <figcaption>
-    <p><em>Caption: We used affinity mapping to organise the raw data. We then summarised the findings in a visual manner and out it on a wall for everyone to see.
+    <p><em>Caption: We used affinity mapping to organise the raw data. We then summarised the findings in a visual manner and put it on a wall for everyone to see.
 </em></p>
   </figcaption>
 </figure>
