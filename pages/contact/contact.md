@@ -64,7 +64,7 @@ For enquiries about Australian Government ICT procurement, please send an email 
 
 ## australia.gov.au
 
-For content related enquires on [australia.gov.au](australia.gov.au), please email [ausgov@digital.gov.au](mailto:ausgov@digital.gov.au).
+For content related enquires on [australia.gov.au](https://www.australia.gov.au/), please email [ausgov@digital.gov.au](mailto:ausgov@digital.gov.au).
 
 ## Our mailing address
 
