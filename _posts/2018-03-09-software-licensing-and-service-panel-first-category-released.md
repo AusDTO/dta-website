@@ -8,8 +8,6 @@ searchexcerpt: "The first category of the new Software Licensing and Services pa
 localnav: what-we-do
 ---
 
-The first category of the new Software Licensing and Services panel has been released.
-
 Following a tender process which closed on 14 September 2017, Data#3 have been selected as the provider of Microsoft licensing solutions, the first category to go live.
 
 More categories will be added to the new panel over time, as a number of other panels are phased out, or not renewed as they expire.
