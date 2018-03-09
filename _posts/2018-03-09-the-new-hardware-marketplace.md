@@ -65,7 +65,7 @@ And it means sellers can offer their services in one place, making it much easie
 
 ## Next steps
 
-We want to hear more from industry and government about the proposed design of the Hardware Marketplace. We’ve just published a request for information through AusTender which includes a draft Head Agreement and Statement of Requirements.
+We want to hear more from industry and government about the proposed design of the Hardware Marketplace. We’ve just published a [request for information](https://www.tenders.gov.au/?event=public.atm.show&ATMUUID=5734464B-E58D-6D24-B83F30A4D732E947) through AusTender which includes a draft Head Agreement and Statement of Requirements.
 
 We want to hear from all potential buyers and sellers, including those who may not apply for the initial categories on the Hardware Marketplace. This is important because once the request for tender is released, the Head Agreement will be the same for all future categories.
 
