@@ -11,6 +11,9 @@ searchexcerpt: We’ve signed an agreement with the peak industry body for the i
 
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="Gavin Slater, CEO of the DTA and Rob Fitzpatrick, CEO of the AIIA signing the MoU.">
+  <figcaption>
+    <p><em>Caption: Gavin Slater, CEO of the Digital Transformation Agency and Rob Fitzpatrick, CEO of the Australian Information Industry Association sign the memorandum of understanding.</em></p>
+  </figcaption>
 </figure>
 
 In digital transformation, you can’t do it alone. This change requires all of us — government, industry, and the best and brightest minds across the economy — to deliver better results for the individuals and business that have to use government services to get things done.
@@ -24,5 +27,3 @@ In a statement welcoming the new agreement, our Chief Executive Officer Gavin Sl
 “The information and technology industry has much to offer government and by engaging early in the design and development of projects and programs, we have an opportunity to build in industry best practice, encourage innovation and make it easier to do business with government.”
 
 [Read the DTA and AIIA memorandum of understanding (PDF, 162KB)](/files/dta-aiia-mou.pdf)
-
-If you have any questions about this agreement or are in an Australian Government organisation whose digital teams seek to work with the ICT industry, drop us an email and tell us what you’re up to at [media@digital.gov.au](mailto:media@digital.gov.au)
