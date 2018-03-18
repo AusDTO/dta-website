@@ -1,5 +1,5 @@
 ---
-title: Digital Graduates Program
+title: Digital Graduate Program
 layout: basic
 permalink: /what-we-do/policies-and-programs/starting-a-digital-career/graduate/
 localnav: what-we-do
@@ -50,27 +50,20 @@ You may be eligible for relocation assistance if you need to move to another cit
 
 ## Who you’ll be working for
 
-Participating agencies vary each year. A complete list of participating agencies are published when applications open. Past graduates have worked with the following agencies:
+The following agencies are participating in the Program this year. This is a live list and agencies may be added up until applications close on 6 April.  Keep checking back for updates!
 
-- Attorney-General's Department
-- Australian Bureau of Statistics
-- Australian Criminal Intelligence Commission
-- Australian Financial Security Authority
-- Australian Transaction Reports and Analysis Centre
-- Bureau of Meteorology
-- Commonwealth Superannuation Corporation
-- Geoscience Australia
-- IP Australia
-- Department of Communications and the Arts
+- Australian Federal Police
+- Australian Transaction Reports and Analysis Centre (Sydney)
+- Bureau of Meteorology (Melbourne)
+- Civil Aviation Safety Authority
 - Department of Defence
+- Department of Environment and Energy
 - Department of Finance
-- Department of Foreign Affairs and Trade
 - Department of Health
-- Department of Home Affairs
-- Department of Parliamentary Services
 - Department of Prime Minister and Cabinet
 - Department of Social Services
-- Department of Veterans' Affairs
+- Digital Transformation Agency
+- IP Australia
 
 ## Benefits
 
