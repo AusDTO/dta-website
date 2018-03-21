@@ -60,6 +60,7 @@ The following agencies are participating in the Program this year. This is a liv
 - Department of Environment and Energy
 - Department of Finance
 - Department of Health
+- Department of Home Affairs (Brisbane)
 - Department of Prime Minister and Cabinet
 - Department of Social Services
 - Digital Transformation Agency
