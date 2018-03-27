@@ -69,7 +69,7 @@ We want to hear more from industry and government about the proposed design of t
 
 We want to hear from all potential buyers and sellers, including those who may not apply for the initial categories on the Hardware Marketplace. This is important because once the request for tender is released, the Head Agreement will be the same for all future categories.
 
-Feedback needs to be submitted by 5pm on Sunday 1 April.
+Feedback needs to be submitted by 12pm on Monday 9 April.
 
 We then expect to release the request for tender later in April.
 
