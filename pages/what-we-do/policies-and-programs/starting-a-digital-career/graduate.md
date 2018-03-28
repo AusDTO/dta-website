@@ -88,7 +88,7 @@ You will also get to network with other graduates and develop professional relat
 
 ## How to apply
 
-Applications for the 2019 program open 5 March 2018.
+Applications for the 2019 program are open now and will close 6 April 2018.
 
 When applications are open, the application form will be available in the [jobs section of our website](https://www.dta.gov.au/who-we-are/corporate/jobs/).
 
