@@ -1,13 +1,13 @@
 ---
-title: "Guest blog - IP Australia’s award-winning trade mark search tool"
+title: "Guest blog &mdash; IP Australia’s award-winning search tool"
 category: [blog]
 tag: 'digital transformation'
 author: Rob Wills
 author-excerpt: "Rob is product owner for search and discovery tools at IP Australia."
-thumbnail: /images/blog-thumbnails/guest-blog-ip-australias-award-winning-trade-mark-search-tool-thumbnail.png
-hero-image: /images/blog-banners/guest-blog-ip-australias-award-winning-trade-mark-search-tool-hero.png
-facebook-image: /images/blog-facebook/guest-blog-ip-australias-award-winning-trade-mark-search-tool-linkedin.png
-twitter-image: /images/blog-twitter/guest-blog-ip-australias-award-winning-trade-mark-search-tool-twitter.png
+thumbnail: /images/blog-thumbnails/guest-blog-ip-australias-award-winning-search-tool-thumbnail.png
+hero-image: /images/blog-banners/guest-blog-ip-australias-award-winning-search-tool-hero.png
+facebook-image: /images/blog-facebook/guest-blog-ip-australias-award-winning-search-tool-linkedin.png
+twitter-image: /images/blog-twitter/guest-blog-ip-australias-award-winning-search-tool-twitter.png
 searchexcerpt: Trade marks help us protect our brands, but making sure a trade mark isn’t too similar to others can be challenging. Product manager Rob Wills walks us through IP Australia’s live trade mark search service.
 lede: "Trade marks help us protect our brands, but making sure a trade mark isn’t too similar to others can be challenging. Product manager Rob Wills walks us through IP Australia’s live trade mark search service."
 ---
@@ -18,9 +18,9 @@ lede: "Trade marks help us protect our brands, but making sure a trade mark isn�
     </figcaption>
 </figure>
 
-In November 2017, led by our Director General, Patricia Kelly, we stepped on stage to accept an award. A motley group —a small team from Australia’s [intellectual property agency](https://www.ipaustralia.gov.au/) and an [Aussie start up](https://trademark.vision/) — had just won the Prime Minister’s silver award for “[excellence in public sector management](https://www.act.ipaa.org.au/pms%20-awards-winners2017)”.
+In November 2017, led by our Director General, Patricia Kelly, we stepped on stage to accept an award. A motley group — a small team from Australia’s [intellectual property agency](https://www.ipaustralia.gov.au/) and an [Aussie start up](https://trademark.vision/) — had just won the Prime Minister’s silver award for “[excellence in public sector management](https://www.act.ipaa.org.au/pms%20-awards-winners2017)”.
 
-The award and the [live assessment](https://www.dta.gov.au/standard/assessments/) we’ve passed since was for [Australian Trade Mark Search](https://search.ipaustralia.gov.au/trademarks/search/quick), our online search tool for trade marks which used [Australia’s digital service standard](https://www.dta.gov.au/standard/) as its guide.
+The award and the [live assessment](https://www.dta.gov.au/standard/assessments/) we’ve passed since was for [Australian Trade Mark Search](https://search.ipaustralia.gov.au/trademarks/search/quick), our online search tool for trade marks, which used [Australia’s digital service standard](https://www.dta.gov.au/standard/) as its guide.
 
 ## Overhauling our trade mark search tool – “Don’t mess it up!”
 
@@ -48,7 +48,7 @@ We had never been able to make systems available to end-users while they were be
 
 ## What we delivered
 
-Australia’s new trade mark search was launched in February 2017.
+Australia’s new trade mark search tool was launched in February 2017.
 
 Based on the vastly different needs for the expert and non-expert users, we built two distinct modes:
 
