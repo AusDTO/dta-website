@@ -29,7 +29,7 @@ A draft framework has been developed by a multi-agency exemplar team, which aims
 ## What we did
 
 <figure>
-  <img src="/images/blog-content/ict-procurement-framework-open-for-feedback-content-1.png" alt="Five icons of a calendar, a group of three people, a government building, two people having a conversation over a table and a stack of post-it notes. Captions under each icon read, four weeks, eight procurement experts, seven Commonwealth agencies, 411 user engagements and 1031 post-it notes.">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/blog-content/ict-procurement-framework-open-for-feedback-content-1.png" alt="Five icons of a calendar, a group of three people, a government building, two people having a conversation over a table and a stack of post-it notes. Captions under each icon read, four weeks, eight procurement experts, seven Commonwealth agencies, 411 user engagements and 1031 post-it notes.">
 </figure>
 
 The exemplar team worked out of the DTA offices in Canberra. It was made up of procurement experts from seven Australian Government agencies who came together to develop, prototype and test the ICT Procurement Framework.
