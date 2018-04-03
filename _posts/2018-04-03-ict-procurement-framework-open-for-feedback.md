@@ -86,7 +86,7 @@ We found there is support for and value in like-minded people talking, sharing a
 
 ### There is a sense that procurement is very restricted
 
-There are a number of myths to bust for agencies to understand their choices when buying goods and services. Agencies are often not making the most out of the flexibility already built into the Commonwealth Procurement Rules (CPRs). User research highlighted that internal Accountable Authority Instructions (AAIs) and operational processes are seen as restricting procurement practices, but this understanding is often outdated.
+There are a number of myths to bust for agencies to understand their choices when buying goods and services. Agencies are often not making the most out of the flexibility already built into the Commonwealth Procurement Rules. User research highlighted that internal Accountable Authority Instructions (AAIs) and operational processes are seen as restricting procurement practices, but this understanding is often outdated.
 
 ### ICT Procurement isn’t understood as a specialist field by agencies
 
@@ -107,7 +107,7 @@ This is the draft framework. It demonstrates the principles, policies and guidan
         <td>Be outcomes focussed</td>
         <td>Use open standards and cloud first</td>
         <td>Minimise cybersecurity risks</td>
-        <td>Not duplicate the building of platforms built by other agencies.</td>
+        <td>Not duplicate the building of platforms built by other agencies</td>
       </tr>
     </tbody>
   </table>
@@ -181,11 +181,13 @@ This is a review of the existing ICT Capped Term and Value Policy to determine i
 Our user research revealed the significant role guidance will have in changing behaviour and delivering the principles and desired outcomes. The framework includes a range of guidance to make the ICT procurement process consistent, easier and more efficient. This includes:
 
 ### Information: A central repository for ICT Procurement information, such as:
+
 - departmental guides
 - guides to support procurement teams engaging with business
 - myth busting
 
 ### Tools to make ICT Procurement easy, such as:
+
 - model contracts
 - centralised registers
 - platforms, panels, AusTender
@@ -193,7 +195,8 @@ Our user research revealed the significant role guidance will have in changing b
 - an annual benchmark on prices
 - decision tree: finding the right procurement approach
 
-### Forums for ICT Procurement professionals to stay in touch across agencies.
+### Forums for ICT Procurement professionals to stay in touch across agencies:
+
 - This would include a range of virtual and physical forums such as an ICT Procurement Bulletin and potential new seller and government buyers groups.
 
 ## Reporting
@@ -228,7 +231,7 @@ Please send your responses to [ictprocurement@dta.gov.au](mailto:ictprocurement@
         <td>Be outcomes focussed</td>
         <td>Use open standards and cloud first</td>
         <td>Minimise cybersecurity risks</td>
-        <td>Not duplicate the building of platforms built by other agencies.</td>
+        <td>Not duplicate the building of platforms built by other agencies</td>
       </tr>
     </tbody>
   </table>
