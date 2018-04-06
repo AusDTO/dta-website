@@ -63,5 +63,33 @@ We may have deleted some parts of the documents, under the exemptions in the FOI
     <td>05/10/2016</td>
     <td>Documents related to the draft Trusted Digital Identity Framework. To access this information, please send a request in writing to <a href="mailto:foi@digital.gov.au">foi@digital.gov.au</a>.</td>
   </tr>
+  <tr>
+    <td>155</td>
+    <td>17/11/17</td>
+    <td>Documents related to the announcement of a partnership with Australia Post. To access this information, please send a request in writing to <a href="mailto:foi@digital.gov.au">foi@digital.gov.au</a>.</td>
+  </tr><tr>
+    <td>156</td>
+    <td>27/06/17</td>
+    <td>Documents mentioning the inappropriate use of Slack. To access this information, please send a request in writing to <a href="mailto:foi@digital.gov.au">foi@digital.gov.au</a>.</td>
+  </tr><tr>
+    <td>157</td>
+    <td>26/07/17</td>
+    <td>Documents related to the dissemination and implementation of the Commonwealth Style Guide. To access this information, please send a request in writing to <a href="mailto:foi@digital.gov.au">foi@digital.gov.au</a>.</td>
+  </tr>
+  <tr>
+    <td>158</td>
+    <td>04/01/18</td>
+    <td>Request for the incoming brief provided to the incoming minister, the Hon. Michael Keenan MP. To access this information, please send a request in writing to <a href="mailto:foi@digital.gov.au">foi@digital.gov.au</a>.</td>
+  </tr>
+  <tr>
+    <td>159</td>
+    <td>10/08/17</td>
+    <td>Documents related to metadata information requests by the Attorney General. To access this information, please send a request in writing to <a href="mailto:foi@digital.gov.au">foi@digital.gov.au</a>.</td>
+  </tr>
+  <tr>
+    <td>160</td>
+    <td>10/01/18</td>
+    <td>Information regarding clearance of information on Ned Kelly published on <a href="http://australia.gov.au">australia.gov.au</a> website. To access this information, please send a request in writing to <a href="mailto:foi@digital.gov.au">foi@digital.gov.au</a>.</td>
+  </tr>
 </tbody>
 </table>
