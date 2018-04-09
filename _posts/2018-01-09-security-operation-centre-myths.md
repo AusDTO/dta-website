@@ -1,107 +1,84 @@
 ---
-title: "Shields up! And other modern security operation centre (SOC) myths"
+title: "Buckle up, browser changes ahead"
 category: [blog]
 tag: 'technology'
-author: Clem Colman
-author-excerpt: "Clem Colman is a cyber security adviser at the DTA."
-thumbnail: /images/blog-thumbnails/SOC_thumb.png
-hero-image: /images/blog-banners/SOC_hero.png
-searchexcerpt: Want to buy or build a security operations centre? We put a photon torpedo through the myths and give some tips on getting started.
-lede: "Want to buy or build a security operations centre? We put a photon torpedo through the myths and give some tips on getting started. "
+author: Adam Eijdenberg
+author-excerpt: "Adam is a site reliability engineer with our cloud.gov.au platform"
+thumbnail: /images/blog-thumbnails/buckle-up-browser-changes-ahead-thumbnail.png
+hero-image: /images/blog-banners/buckle-up-browser-changes-ahead-hero.png
+facebook-image: /images/blog-facebook/buckle-up-browser-changes-ahead-facebook.png
+searchexcerpt: Soon a popular browser will warn your website visitors if there is no secure connection backed by a valid certificate. It’s an easy fix — here’s what we did.
+lede: "Soon a popular browser will warn your website visitors if there is no secure connection backed by a valid certificate. It’s an easy fix — here’s what we did."
 ---
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="An illustration of a cyber security advisor monitoring multiple screens displaying live data."><br />
+  <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="A browser indicating an insecure web connection."><br />
 </figure>
 
-I’m convinced many people think a modern security operations centre needs to look like the bridge of the Starship Enterprise, styled like the set of Blade Runner, and staffed with hackers in hoodies. Has theatre distorted our view of how we start one up and what it needs to achieve?
+With the release of a new [Google Chrome](https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html) update in July 2018, all websites that don’t use an HTTPS connection will have the words “not secure” next to the web address. Other major browsers are expected to follow.
 
-In cyber security, the reality is a credible incident detection capability only needs to start with 3 things:
-<ol>
-<li>a small team of people right for the task</li>
-<li>their mandate to work with other parts of the business</li>
-<li>a set of facilities for processing information.</li>
-</ol>
+Recently we took a look at how our teams were managing security certificates. At the DTA we use a common platform — [cloud.gov.au](https://cloud.gov.au) — to support over [150 applications](https://cloud.gov.au/insights/) being built, tested or run by government agencies. All of them support secure HTTPS connections and actively redirect HTTP requests to the secure equivalent.
 
-<h2>Knowledge is key</h2>
+We got to thinking could we get better at how we launch sites, and issue and renew website security certificates? Having done our research, we decided on a free, open, automated and non-profit certificate authority known as [Let’s Encrypt](https://letsencrypt.org/) for all sites. Our scan of [certificate logs](https://data.gov.au/dataset/certificate-transparency) shows we’re not alone with many Commonwealth, state and territory agencies also using it.
 
-Chinese military strategist and philosopher Sun Tzu said, “If you know the enemy and know yourself you need not fear the result of a hundred battles.”  
+## How did we make the choice?
 
-Once you get a team of smart and technically capable people, their first step is to identify your critical business processes and assets, understand the systems that underpin those functions and their dependencies, assess existing tools and information and get a handle on how an online attacker might try to achieve their ends.  
+### User experience
 
-If you’re starting from scratch, this can seem a lot of work. Use your understanding of the business’ most critical assets to prioritise what you study, and bring some of your organisation’s technical veterans into the team so their corporate experience can kickstart your knowledge base.
+First up, all certificate authorities have to meet the same [requirements](https://cabforum.org/baseline-requirements-documents/). No matter which certificate authority we choose, there is no difference in how people experience a site.
 
-<h2>Identify your scenarios</h2>
+Certificate authorities typically offer 3 products:
+1. Domain validated (DV) certificates can be issued to any individual who demonstrates technical control over a site.
+2. Organisation validated (OV) certificates give the same user experience as a DV certificate, with the organisation’s details included in the certificate itself.
+3. Extended validation (EV) certificates need more documentation from the requester and cannot be automated.
 
-In a security operations centre, detection capabilities are underpinned by scenario-based thinking. Scenario-based thinking is a process of devising a potential attack, identifying the activity that would accompany it and determining which systems may have the opportunity and capability to detect that activity.
+Despite the often hefty price tag of an OV certificate, the user experience is identical to a DV certificate across the major browsers.
 
-Scenario thinking needs us to put ourselves in the mind of our adversary. For example, most agencies’ cyber security teams will track failed logins. But the careful and patient adversary your team needs to look for is not going to announce their presence by doing the digital equivalent of pounding on the door.
+EV certificates can see a change in some browsers with a green “butter bar” in the web address naming the organisation. There are mixed opinions whether people notice any difference. But the deal breaker for us is that issuance of EV certificates cannot be automated.
 
-In many respects successful logins are more interesting. Particularly where users are accessing things they haven’t before and have no obvious reason to. For example, a service account logging into a virtual private network.
+This left us with a choice between OV and DV certificates. Since both provide the same user experience, we decided the lower-priced DV certificates were the way to go.
 
-Organisations often see similar scenarios so it’s worth reaching out to others who have done the work. However, your exact mix of detection mechanisms will depend on different factors, including network topology, product mix, encryption practices, network monitoring infrastructure, accessibility of logs and even the competence of different in-house technical teams.
+### Automation
 
-<h2>Target what you need</h2>
+Automatic issuing and renewal is an important criteria for us given we practice infrastructure as code techniques and manage many sites. We found a protocol we can use to automate how certificates are verified and issued which is the Internet Engineering Task Force’s draft Automatic Certificate Management Environment ([ACME](https://tools.ietf.org/html/draft-ietf-acme-acme-10)).
 
-Building a detection capability using scenarios will help avoid one dangerous trap.
+At the time of writing Let’s Encrypt is the only service that supports this relatively new protocol and we hope others will follow.
 
-The problem starts with a conversation like this:
-'Do we know what information we need from these logs?'
-'Not sure, let’s import them all and we’ll work it out.'
+We are now able to issue new certificates within minutes for site launches and renewals have worked well for us over the last 5 months. To keep on top of things we have a daily job in our implementation that checks for certificates due to expire within 32 days and automatically renews them. We have separate black box monitoring to alert us to certificates that expire in less than 30 days.
 
-Cheap storage is responsible for many problems. Whether it’s the accumulation of photos that aren’t keepers or data logs, it’s all the same. Not filtering information creates extra work down the line.  
+### Easy to use
 
-If the team starts focusing on collecting all the logs then your security operations centre becomes an infrastructure project. Often this is a mortal wound, albeit one which may take some time to reveal itself.
+Our delivery teams shouldn’t need to be certificate experts. We want to handle this at platform level. There are many libraries and tools that support the ACME protocol. We were able to install an ACME client in our stack so that certificates are automatically provisioned, renewed, tested, deployed and served by our platform. That allows the teams hosted on our platform to focus on building their applications.
 
-Targeting the information you need will get you better outputs for a lower cost. It will also keep the growth of supporting infrastructure in check.
+### Compatible
 
-<h2>Eliminate the good</h2>
+The Let’s Encrypt root certificate has been cross-signed by a root that is in all of the major operating systems. That ensures certificates are trusted by the browsers most people use.
 
-One strategy for sorting through enormous amounts of data is to invert the search by identifying the activity that’s good and getting rid of it.
+### Value for money
 
-The more effective you are at cutting out the good stuff, the easier it is to identify the interesting activity which needs greater scrutiny.
+There are more than 200 certificate authorities trusted by modern browsers which come at a range of prices. Let’s Encrypt is a free certificate authority by the non-profit Internet Security Research Group.
 
-There are good security operations centres that use this technique as their primary filter before they feed data into their management system or full packet capture capabilities.
+## What else have we learnt?
 
-<h2>Choose your security products</h2>
+### Use the staging endpoint to make testing easier
 
-You don’t need security information and event management (SIEM) software to start building your detection capability but, for efficiency’s sake, you will want one eventually.
+Let’s Encrypt has rate limits in place which is something to be mindful of during testing. We came across this a few times during development and testing with some servers wanting a new certificate on each restart. The service gives us a staging endpoint to help.
 
-When you do, the temptation to go after the latest killer features is strong. Remember, whatever you choose will become tightly integrated with your security processes. The rate of churn in leading security products is high so buying based on the latest features may leave you with a technical orphan down the line.
+### There is no lock in with vendors
 
-For this purchase your normal architectural principles have to apply. For example, the strength of the vendor, the community behind the product, alignment with your existing stack and skill sets, availability of skills in the market, understanding of licensing models, flexibility, ability to grow capacity, and others. The main point is you’ll be more future-proof with a relatively flexible and open product that has an existing pool of skilled people to support it.
+There is no technical reason why we can’t hold multiple certificates from multiple vendors for the same site. In future it’s easy for us to switch to another provider if it’s more suitable.
 
-<h2>Reality check</h2>
+### Domain names and certificates are public
 
-Before long, identifying new scenarios and building a corresponding detection capability will be business as usual. But there are other things you should consider to improve the effectiveness of your detection capabilities.  
+As a result of the [Certificate Transparency](https://www.certificate-transparency.org/) project launched by Google in 2013, an increasing number of certificate authorities publicly log new certificates. This includes Let’s Encrypt who were an early adopter. As an example you can see all the [certificates issued for dta.gov.au](https://crt.sh/?q=www.dta.gov.au)
 
-Putting your detection capabilities to the test will be one of the most important steps you can take. By using pen testing, or even better, rolling ‘red on blue’ exercises, detection capabilities can be tested and improved.
+As part of our work to understand government systems, we built a [small application](https://github.com/govau/certwatch) to scan for certificates involving gov.au domains from the public logs operated by Google and others. To help others, we have published the dataset on [data.gov.au](https://data.gov.au/dataset/certificate-transparency)
 
-Red on blue exercises are a really effective approach to incrementally improve the security of your network. This is when pen testers (red) attempt to breach network security while defenders (blue) prevent, detect, contain and remediate. This is best done on production so changes made by defenders during the exercise make a difference to the network.
+### Automation reduces the need for wildcard certificates
 
-<h2>Save money and let people sleep</h2>
+We still have a handful of wildcard certificates for some internal facing components but automated provisioning has reduced the need for them. For those endpoints we use Amazon Certificate Manager. It  is available to us to use with an automated workflow, at no additional cost and integrates well with our existing load balancers. Since we started using their service, Let’s Encrypt have [announced](https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579) they support automatic provisioning of wildcard certificates.
 
-Intrusion prevention and antivirus systems will inform you of attacks they block in real time.  But they rarely need to be looked into immediately as the system generally deals with the threat.
+### There are other options
 
-Where an adversary has already penetrated your network, they are far more likely to be detected by a scenario-based detection approach. Often known as hunting, this happens after the initial compromise and may not detect unusual activity until days or weeks after an intrusion.
+There are other certificate authorities organisations may like to use. While your options are largely equal in the eyes of users, the important thing is to get the functionality you need, aim for automation to avoid downtime and make sure you get value for money. 
 
-From a management perspective, the most important thing you can give your staff is time. Time to develop detection capabilities, test scenarios, and explore your systems to understand the information they offer. ‘Business hours’ time is cheaper and more effective than 24 x 7. It also offers better work life balance to help retain good people.
-
-Have your technical security team on call, but use automated alerting and upskilling of your network operations centre (NOC) team to deal with low priority issues after hours.
-
-<h2>It’s about learning and persisting</h2>
-
-Knowledge of your own environment is also hard to buy. Even the best managed service provider needs plenty of time and input to learn your landscape and give you capabilities which are fit for purpose.  
-
-But knowledge can be built over time. The key is to make a start and maintain commitment, even when your organisation's priorities move elsewhere.
-
-<h2>Takeaway</h2>
-
-If all this sounds familiar, so it should. Building your incident detection and response capability starts with the 3Ps — people, process and product. By prioritising what you want to protect and using the scenario-based model, you can build your capability organically without a big upfront investment.
-
-<hr>
-
-This blog is the second part of a series on cyber security. The first, published November, considers [whether we have the balance right between prevention and cure](/blog/cure-is-better-than-prevention/), concluding cyber security strategists may need to pivot to put more emphasis on detection and response.   
-
-The DTA’s Cyber Security Unit is working on a white paper for building security operation centres for federal government and works with agencies to improve cyber security posture through review, collaboration and innovation.
-
-Thanks to members of the DTA’s Cyber Security Unit, James Thompson and Stephen Bradshaw, for their contributions to this post.
+For any agencies who would like to test or run applications on our cloud.gov.au platform, read more about it and drop us a line at [support@cloud.gov.au](mailto:support@cloud.gov.au) to find out more. You can also join our regular cloud showcase to hear what colleagues are up to across the federal government by emailing [secure.cloud@digital.gov.au](mailto:secure.cloud@digital.gov.au)  
