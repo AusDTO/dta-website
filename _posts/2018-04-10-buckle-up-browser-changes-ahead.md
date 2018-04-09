@@ -14,7 +14,7 @@ lede: "Soon a popular browser will warn your website visitors if there is no sec
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="A browser indicating an insecure web connection."><br />
 </figure>
 
-With the release of a new [Google Chrome](https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html) update in July 2018, all websites that don’t use an HTTPS connection will have the words “not secure” next to the web address. Other major browsers are expected to follow.
+With the release of a new [Google Chrome](https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html) update in July 2018, all websites that don’t use an HTTPS connection will have the words 'not secure' next to the web address. Other major browsers are expected to follow.
 
 Recently we took a look at how our teams were managing security certificates. At the DTA we use a common platform — [cloud.gov.au](https://cloud.gov.au) — to support over [150 applications](https://cloud.gov.au/insights/) being built, tested or run by government agencies. All of them support secure HTTPS connections and actively redirect HTTP requests to the secure equivalent.
 
@@ -33,7 +33,7 @@ Certificate authorities typically offer 3 products:
 
 Despite the often hefty price tag of an OV certificate, the user experience is identical to a DV certificate across the major browsers.
 
-EV certificates can see a change in some browsers with a green “butter bar” in the web address naming the organisation. There are mixed opinions whether people notice any difference. But the deal breaker for us is that issuance of EV certificates cannot be automated.
+EV certificates can see a change in some browsers with a green 'butter bar' in the web address naming the organisation. There are mixed opinions whether people notice any difference. But the deal breaker for us is that issuance of EV certificates cannot be automated.
 
 This left us with a choice between OV and DV certificates. Since both provide the same user experience, we decided the lower-priced DV certificates were the way to go.
 
@@ -81,4 +81,4 @@ We still have a handful of wildcard certificates for some internal facing compon
 
 There are other certificate authorities organisations may like to use. While your options are largely equal in the eyes of users, the important thing is to get the functionality you need, aim for automation to avoid downtime and make sure you get value for money.
 
-For any agencies who would like to test or run applications on our cloud.gov.au platform, read more about it and drop us a line at [support@cloud.gov.au](mailto:support@cloud.gov.au) to find out more. You can also join our regular cloud showcase to hear what colleagues are up to across the federal government by emailing [secure.cloud@digital.gov.au](mailto:secure.cloud@digital.gov.au)  
+For any agencies who would like to test or run applications on our [cloud.gov.au](https://cloud.gov.au/) platform, read more about it and drop us a line at [support@cloud.gov.au](mailto:support@cloud.gov.au) to find out more. You can also join our regular cloud showcase to hear what colleagues are up to across the federal government by emailing [secure.cloud@digital.gov.au](mailto:secure.cloud@digital.gov.au)  
