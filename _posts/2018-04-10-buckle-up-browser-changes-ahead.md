@@ -39,7 +39,7 @@ This left us with a choice between OV and DV certificates. Since both provide th
 
 ### Automation
 
-Automatic issuing and renewal is an important criteria for us given we practice infrastructure as code techniques and manage many sites. We found a protocol we can use to automate how certificates are verified and issued which is the Internet Engineering Task Force’s draft Automatic Certificate Management Environment ([ACME](https://tools.ietf.org/html/draft-ietf-acme-acme-10)).
+Automatic issuing and renewal is an important criteria for us given we practise infrastructure as code techniques and manage many sites. We found a protocol we can use to automate how certificates are verified and issued which is the Internet Engineering Task Force’s draft Automatic Certificate Management Environment ([ACME](https://tools.ietf.org/html/draft-ietf-acme-acme-10)).
 
 At the time of writing Let’s Encrypt is the only service that supports this relatively new protocol and we hope others will follow.
 
