@@ -12,9 +12,7 @@ lede: The Digital Cadetship Program gives you an opportunity to practise and dev
 
 The digital cadetship program is for Australian citizens who are currently studying an undergraduate degree in a digital or technology related field.
 
-If you’ve completed 1st year (or equivalent) of your degree you can apply for the digital cadetship program.
-
-If you are currently studying one of the [listed degrees](/what-we-do/policies-and-programs/starting-a-digital-career/listed-degrees/) then you should consider applying.
+If you are currently studying one of the [listed degrees](/what-we-do/policies-and-programs/starting-a-digital-career/listed-degrees/) then you should consider applying. You’ll need to have completed at least 12 months of your degree by 2019.
 
 Double and honours degrees in these fields are also accepted.
 
