@@ -6,16 +6,17 @@ thumbnail: /images/blog-thumbnails/measuring-and-understanding-online-behaviour-
 hero-image: /images/blog-banners/measuring-and-understanding-online-behaviour-hero.png
 facebook-image: /images/blog-facebook/measuring-and-understanding-online-behaviour-linkedin.png
 twitter-image: /images/blog-twitter/measuring-and-understanding-online-behaviour-twitter.png
-searchexcerpt: Australian government can get discounted rates and free monthly training through our whole-of-government arrangement with Google Analytics’ 360 suite.
-lede: "Australian government can get discounted rates and free monthly training through our whole-of-government arrangement with Google Analytics’ 360 suite."
+searchexcerpt: We are now offering Australian public servants free monthly training and their agencies discounted rates on Google Analytics’ 360 suite.
+lede: "We are now offering Australian public servants free monthly training and their agencies discounted rates on Google Analytics’ 360 suite."
 ---
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="A presenter demonstrates the use of Google Analytics 360 in front of an audience. On a screen is a picture of a hedge maze."><br />
+  <figcaption><p><em>Caption: a recent training session with Data Runs Deep</em></p></figcaption>
 </figure>
 
 With 250,000 people visiting the DTA website since it launched in 2016, analytics help us [measure the performance](https://www.dta.gov.au/standard/11-measure-performance/) of our digital services and gain insight on how people experience the site.
 
-To help other agencies measure their own impact online, we are now offering Australian public servants free half or full day training on Google Analytics’ 360 suite every month. We are also able to give their agencies discounted rates for the product.
+To help other agencies measure their own impact online, we offer free training and discounted rates for Google Analytics 360.
 
 ## Why paid rather than free?
 
