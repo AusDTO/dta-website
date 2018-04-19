@@ -54,7 +54,6 @@ The following agencies are participating in the Program this year. This is a liv
 
 - Australian Federal Police
 - Australian Transaction Reports and Analysis Centre (Sydney)
-- Bureau of Meteorology (Melbourne)
 - Civil Aviation Safety Authority
 - Department of Defence
 - Department of Environment and Energy
@@ -64,7 +63,7 @@ The following agencies are participating in the Program this year. This is a liv
 - Department of Prime Minister and Cabinet
 - Department of Social Services
 - Digital Transformation Agency
-- IP Australia
+
 
 ## Benefits
 
@@ -88,7 +87,7 @@ You will also get to network with other graduates and develop professional relat
 
 ## How to apply
 
-Applications for the 2019 program are open now and will close 6 April 2018.
+Applications for the 2019 program are now closed. Applications for 2020 program will open in March 2019
 
 When applications are open, the application form will be available in the [jobs section of our website](https://www.dta.gov.au/who-we-are/corporate/jobs/).
 
