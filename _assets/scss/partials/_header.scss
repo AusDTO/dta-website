@@ -1,5 +1,26 @@
 
 header[role='banner'] {
+  .page-header {
+    padding-top: 0;
+  }
+  .page-header--beta-banner__wrapper {
+    background-color: #313131;
+    color: #66B4DD;
+    padding: 0.8em 0;
+    p {
+      margin: 0;
+    }
+    a {
+      color: #66B4DD;
+      border: none;
+      text-decoration: underline;
+      &:hover {
+        text-decoration: none;
+        background-color: transparent;
+        color: #66B4DD;
+      }
+    }
+  }
   .page-header__logo {
     width: 523px;
     height: 130px;
