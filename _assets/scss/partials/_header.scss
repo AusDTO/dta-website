@@ -5,19 +5,19 @@ header[role='banner'] {
   }
   .page-header--beta-banner__wrapper {
     background-color: #313131;
-    color: #66B4DD;
+    color: #5bcbe3;
     padding: 0.8em 0;
     p {
       margin: 0;
     }
     a {
-      color: #66B4DD;
+      color: #5bcbe3;
       border: none;
       text-decoration: underline;
       &:hover {
         text-decoration: none;
         background-color: transparent;
-        color: #66B4DD;
+        color: #5bcbe3;
       }
     }
   }
