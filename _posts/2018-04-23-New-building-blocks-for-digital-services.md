@@ -52,7 +52,7 @@ These are also supported by the [Content Guide](https://guides.service.gov.au/co
 
 ## Become part of the conversation
 
-There are large [communities of practice](https://beta.dta.gov.au/help-and-advice/communities-practice) with hundreds of members involved in developing and maintaining these tools and resources. If you haven’t already, we encourage you to join them.
+There are large [communities of practice](https://beta.dta.gov.au/help-and-advice/communities-practice) with hundreds of members supporting and using these tools and resources. If you haven’t already, we encourage you to join them.
 
 We also need your feedback on these tools to shape future versions. These resources are living. As government and digital practitioners keep learning, there will always be new components to add, updates to make and insights to share.  
 
