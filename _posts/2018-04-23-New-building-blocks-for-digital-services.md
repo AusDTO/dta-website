@@ -2,10 +2,10 @@
 title: "New building blocks for digital services"
 category: [news]
 tag: 'dta news'
-thumbnail: /images/blog-thumbnails/New-building-blocks-for-digital-services_thumbnail.png
-hero-image: /images/blog-banners/New-building-blocks-for-digital-services_herov2.png
-facebook-image: /images/blog-faebook/New-building-blocks-for-digital-services_facebookv2.png
-twitter-image: /images/blog-twitter/New-building-blocks-for-digital-services_Twitterv2.png
+thumbnail: /images/blog-thumbnails/new-building-blocks-for-digital-services_thumbnailv3.png
+hero-image: /images/blog-banners/new-building-blocks-for-digital-services_herov3.png
+facebook-image: /images/blog-facebook/new-building-blocks-for-digital-services_facebookv3.png
+twitter-image: /images/blog-twitter/new-building-blocks-for-digital-services_twitterv3.png
 searchexcerpt: We’ve released three products today to help government deliver better online services and experiences.
 
 ---
