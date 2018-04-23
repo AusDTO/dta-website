@@ -14,7 +14,7 @@ searchexcerpt: We’ve released three products today to help government deliver 
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="A series of three screens, showing three layouts for a product on a tablet, monitor and on paper: Dta website on screen one, Design Systems on screen two and Digital Service Standard on paper">
 </figure>
 
-With the release of a redesigned dta.gov.au shopfront into beta, we’re making it easier for everyone to get [help and advice](https://beta.dta.gov.au/help-and-advice).
+With the release of a [redesigned dta.gov.au](https://beta.dta.gov.au/) shopfront into beta, we’re making it easier for everyone to get [help and advice](https://beta.dta.gov.au/help-and-advice).
 
 We’ve put a lot of work into this redesign, using the guidance it showcases including the new [Australian Government Design System](https://designsystem.gov.au/) and refreshed [Digital Guides](https://guides.service.gov.au/).
 
