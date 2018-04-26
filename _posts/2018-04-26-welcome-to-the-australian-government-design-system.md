@@ -67,7 +67,7 @@ For this system, we’ve looked closely at the draft criteria for the internatio
   <figcaption>
     <p>
       <em>
-      Image on the left and middle shows the <a href="https://designsystem.gov.au/components/buttons/accessibility/"> buttons</a>, with different colour impairments deuteranopia and grayscale. The image on the right shows is an example of how they can be navigated by a keyboard.
+      Image on the left and middle shows the <a href="https://designsystem.gov.au/components/buttons/accessibility/"> buttons</a>, with different colour impairments deuteranopia and grayscale. The image on the right shows an example of how they can be navigated by a keyboard.
       </em>
     </p>
   </figcaption>
