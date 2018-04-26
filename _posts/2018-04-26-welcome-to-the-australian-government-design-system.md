@@ -7,6 +7,7 @@ author-excerpt: "Patrick De Young is the product manager in the design system te
 thumbnail: /images/blog-thumbnails/design-system-blog-thumbnail.png
 hero-image: /images/blog-banners/design-system-blog-hero.png
 facebook-image: /images/blog-facebook/design-system-blog-facebook.png
+twitter-image: /images/blog-twitter/design-system-blog-twitter.png
 searchexcerpt: This new, open source and accessible design system will speed up and bring consistency to government websites and services.
 ---
 <figure>
@@ -26,13 +27,14 @@ This work follows two years of improvements to the UI-Kit and six months of deve
 
 ## What is a design system?
 Design systems as an idea have existed for decades and taken many forms. In the past, a designer or developer would flip open a large book which showed the way typeface, headers, spacing, colours, logos and other design elements were to be used in different situations.
+
 Now that we’re designing and delivering services digitally, a design system also needs code, web interface patterns and other elements to work online.
 International organisations and governments are also using this approach. Google has [Material Design](http://material.io/), the United States has built their [U.S. Web Design System](https://designsystem.digital.gov/) and Westpac has [GEL](https://gel.westpacgroup.com.au/).
 
 These systems give us common foundations we can use to speed up design and development, be consistent, prototype and test new features, deliver good online experiences at scale and make fast improvements to the services people need.
 
 
-## Pick and Mix
+## Pick and mix
 
 The Australian Government Design System includes a new colour palette which uses light and dark themes, standardised font sizes and spacing functions for consistency. It also offers a collection of 24 tested [components](https://designsystem.gov.au/components/) with accessibility baked in which can be picked up and added to any site or service.  
 
