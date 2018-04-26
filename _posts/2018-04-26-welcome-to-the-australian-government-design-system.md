@@ -10,7 +10,7 @@ facebook-image: /images/blog-facebook/design-system-blog-facebook.png
 searchexcerpt: This new, open source and accessible design system will speed up and bring consistency to government websites and services.
 ---
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/blog-banners/design-system-blog-hero.png " alt="Header of the Design system website with a beta tag, the government crest, a tag line reading uniting teams that create digital services, through inclusive design, open-source code and shared insights, and the menu along the bottom. "/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/blog-banners/design-system-blog-hero.png" alt="Header of the Design system website with a beta tag, the government crest, a tag line reading uniting teams that create digital services, through inclusive design, open-source code and shared insights, and the menu along the bottom. "/>
   <figcaption>
     <p>
       <em>
