@@ -31,3 +31,11 @@ This is a community for people who are involved in service design in any part of
 This is a community who share, learn, and promote good portfolio, program, and project management (P3M) practices.
 
 [Join the P3M community](https://docs.google.com/a/digital.gov.au/forms/d/1H-xj-FAB8xW9ML-hn9z5i7ql9ai07C--cLzPOqiXIs0/viewform?edit_requested=true)
+
+## Cloud community
+
+This community is for people working with cloud in the Australian Public Service – anyone from engineers and architects to procurement experts and management.
+
+New members are welcome to join.
+
+[Join the cloud community](mailto:secure.cloud@digital.gov.au)
