@@ -38,23 +38,23 @@ We help government agencies build digital skills in the following ways.
 
 {% include hx.html lvl=2 text="Online help and guidance" %}
 
-We provide guides and tools to help government teams set up, run and maintain a digital service.
+We provide [guides and tools](https://guides.service.gov.au/) to help government teams set up, run and maintain a digital service.
 
 {% include hx.html lvl=2 text="Digital Service Standard training" %}
 
 Digital Service Standard training
 
-We offer free training to help government teams understand and meet the Digital Service Standard.
+We offer [free training](https://www.eventbrite.com.au/o/digital-transformation-agency-8025584572) to help government teams understand and meet the [Digital Service Standard](https://www.dta.gov.au/standard).
 
 {% include hx.html lvl=2 text="Entry-level digital programs" %}
 
-We provide entry-level programs across the Australian Public Service for people starting their digital or technical careers.
+We provide [entry-level programs](https://www.dta.gov.au/what-we-do/policies-and-programs/starting-a-digital-career/) across the Australian Public Service for people starting their digital or technical careers.
 
 The programs provide apprentice, cadet and graduate roles in government agencies.
 
 {% include hx.html lvl=2 text="Coaching and mentoring for women" %}
 
-We organise the Women in IT coaching and mentoring programs. These help women develop leadership skills and increase their numbers in digital roles in government.
+We organise the [Women in IT](https://www.dta.gov.au/what-we-do/policies-and-programs/women-in-it/) coaching and mentoring programs. These help women develop leadership skills and increase their numbers in digital roles in government.
 
 {% include hx.html lvl=2 text="Building Digital Capability program" %}
 
@@ -76,12 +76,16 @@ As part of this work we mentor and coach people working in government. We provid
 
 {% include hx.html lvl=2 text="Workshops, meet-ups and events" %}
 
-We run regular workshops and meet-ups at our Canberra and Sydney offices for people working in government. We do this to help agencies develop internal skills to improve government services.
+We run regular [workshops and meet-ups](https://www.eventbrite.com.au/o/digital-transformation-agency-8025584572) at our Canberra and Sydney offices for people working in government. We do this to help agencies develop internal skills to improve government services.
 
 We also host guest speakers and hold pop-up events in areas such as user research, service design, interaction design, content design and so on.
 
 {% include hx.html lvl=2 text="Digital communities of practice" %}
 
-We organise communities of practice that bring together people working in government to share ideas, show their work, solve problems and explore best practice.
+We organise [communities of practice](https://www.dta.gov.au/what-we-do/partnerships/communities/) that bring together people working in government to share ideas, show their work, solve problems and explore best practice.
 
 We have communities of practice for service design, user research, project management and content design.
+
+{% include hx.html lvl=2 text="Get in touch" %}
+
+If you have any questions you can send an email to [info@dta.gov.au](mailto:info@dta.gov.au) or call [0427 136 791](tel:0427136791). 
