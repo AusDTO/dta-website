@@ -1,7 +1,7 @@
 ---
 title: Building digital skills across government
 layout: basic
-permalink: /what-we-do/policies-and-programs/building-digital-skills
+permalink: /what-we-do/policies-and-programs/building-digital-skills/
 lede: "Demand is rising for government workers with digital expertise. We’re helping the Australian Public Service respond to this demand."
 localnav: what-we-do
 searchexcerpt: "Demand is rising for government workers with digital expertise. We’re helping the Australian Public Service respond to this demand."
