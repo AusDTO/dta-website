@@ -28,7 +28,7 @@ There are a couple of checkpoints to make sure that we’re on track to meet the
 
 We built our current site in 2016 as an interim site. We were busy delivering other projects and helping other agencies with theirs, so our own corporate site became a bit overlooked. It didn’t get the love and attention it deserved.
 
-This was an exciting opportunity that it gave us focus and dedicated resources to spend time understanding our users and designing improvements.
+This was an exciting opportunity that gave us focus and dedicated resources to spend time understanding our users and designing improvements.
 
 ## Discovering our users
 
