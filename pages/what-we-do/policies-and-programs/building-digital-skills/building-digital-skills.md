@@ -42,8 +42,6 @@ We provide [guides and tools](https://guides.service.gov.au/) to help government
 
 {% include hx.html lvl=2 text="Digital Service Standard training" %}
 
-Digital Service Standard training
-
 We offer [free training](https://www.eventbrite.com.au/o/digital-transformation-agency-8025584572) to help government teams understand and meet the [Digital Service Standard](https://www.dta.gov.au/standard).
 
 {% include hx.html lvl=2 text="Entry-level digital programs" %}
@@ -88,4 +86,4 @@ We have communities of practice for service design, user research, project manag
 
 {% include hx.html lvl=2 text="Get in touch" %}
 
-If you have any questions you can send an email to [info@dta.gov.au](mailto:info@dta.gov.au) or call [0427 136 791](tel:0427136791). 
+If you have any questions you can send an email to [info@dta.gov.au](mailto:info@dta.gov.au) or call [0427 136 791](tel:0427136791).
