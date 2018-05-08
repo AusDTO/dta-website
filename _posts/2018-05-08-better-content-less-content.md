@@ -12,7 +12,7 @@ searchexcerpt: Producing and maintaining content can be expensive and complicate
 
 ---
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="A user navigating the home page of the DTA beta website on a laptop computer."/><br />
+  <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="A text tile with the words Do the hard work to make it simple and the DTA logo in the bottom right corner."/><br />
 </figure>
 
 Information designed around the people who use it can be the quickest win for improving a service. But how this content fits into the bigger picture, gets maintained,  removed and signed-off, can also make or break it. We did some research last year into [the opportunities for government content](https://beta.dta.gov.au/blogs/creating-good-content) which is worth reading.
