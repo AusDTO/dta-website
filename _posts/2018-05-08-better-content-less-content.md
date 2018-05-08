@@ -40,8 +40,6 @@ A content strategy sets the foundation for how we create, structure and govern i
 
 ## The high cost of getting content wrong
 
-The high cost of getting content wrong
-
 [Research shows](http://globalreviews.com/GR_KPMG_GovtIndexReport.pdf) that 50% of the people using government services have difficulty finding information online. Of those, 24% resort to making a telephone call.
 
 And this comes with a price. [A 2015 study](https://www2.deloitte.com/content/dam/Deloitte/au/Documents/Economics/deloitte-au-economics-digital-government-transformation-230715.pdf) shows the average cost of a telephone call is $6.60. This compares to 40c for an online transaction (and $12.79 for a postal transaction and $16.90 for a face-to face visit).
@@ -59,7 +57,7 @@ This guidance is for decision makers and the people who produce the content — 
 
 ## A fantastic cross-government team effort
 
-Special thanks to our content specialist co-leads from the Departments of Agriculture, Attorney General, Eduction, Employment, Health, Human Services, Finance, Industry, Home Affairs and Prime Minister and Cabinet. As well as our colleagues in the Australian Bureau of Statistics, Australian Tax Office, National Archives and our wonderful working group who gave their time to attend workshops, showcases, provide feedback and test the content. This guidance wouldn’t exist without you.
+Special thanks to our content specialist co-leads from the Departments of Agriculture, Attorney General, Education, Employment, Health, Human Services, Finance, Industry, Home Affairs and Prime Minister and Cabinet. As well as our colleagues in the Australian Bureau of Statistics, Australian Tax Office, National Archives and our wonderful working group who gave their time to attend workshops, showcases, provide feedback and test the content. This guidance wouldn’t exist without you.
 
 ## Get started today
 
