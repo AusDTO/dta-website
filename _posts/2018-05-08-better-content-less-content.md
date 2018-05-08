@@ -3,7 +3,7 @@ title: "Better content, less content"
 category: [blog]
 tag: 'digital transformation'
 author: Libby Varcoe
-author-excerpt: "Libby Varcoe is a content director at the DTA. Find her @libbyvarcoe." 
+author-excerpt: "Libby Varcoe is a content director at the DTA. Find her @libbyvarcoe on Twitter."
 thumbnail: /images/blog-thumbnails/better-content-less-content_thumbnail.png
 hero-image: /images/blog-banners/better-content-less-content_hero.png
 facebook-image: /images/blog-facebook/better-content-less-content_facebook.png
@@ -19,7 +19,7 @@ Information designed around the people who use it can be the quickest win for im
 
 ## Content strategy for government
 
-To help government teams create information that’s [designed around what people need to know](), [improve complicated sign-off processes](https://guides.service.gov.au/content-strategy/define-user-content-needs/) and find more [cost-effective ways to handle content](https://guides.service.gov.au/content-strategy/set-goals-measure-success/), we worked with some of the top digital content specialists in the Australian Public Service to [create content strategy guidance](https://guides.service.gov.au/content-strategy/) for all Australian Government agencies.
+To help government teams create information that’s [designed around what people need to know](https://guides.service.gov.au/content-strategy/define-user-content-needs/), [improve complicated sign-off processes](https://guides.service.gov.au/content-strategy/set-up-governance/apply-content-governance-model/) and find more [cost-effective ways to handle content](https://guides.service.gov.au/content-strategy/set-goals-measure-success/), we worked with some of the top digital content specialists in the Australian Public Service to [create content strategy guidance](https://guides.service.gov.au/content-strategy/) for all Australian Government agencies.
 
 This work is based on research and input from over 40 government organisations and includes tested approaches to the common issues we all struggle with — from [removing content](https://guides.service.gov.au/content-strategy/remove-content/create-removal-plan/) to [using metrics to improve things and gain support](https://guides.service.gov.au/content-strategy/start-content-strategy/show-problem-evidence/). It’s practical, insightful and strategic. And it’s yours.  
 
@@ -59,8 +59,8 @@ This guidance is for decision makers and the people who produce the content — 
 
 ## A fantastic cross-government team effort
 
-Special thanks to our content specialist co-leads from the Departments of Agriculture, Attorney General’s, Employment, Health, Human Services, Finance, Industry, Home Affairs and Prime Minister and Cabinet. As well as our colleagues in the Australian Bureau of Statistics, Australian Tax Office, National Archives and our wonderful working group who gave their time to attend showcases, provide feedback and test the content. This guidance wouldn’t exist without you.
+Special thanks to our content specialist co-leads from the Departments of Agriculture, Attorney General, Eduction, Employment, Health, Human Services, Finance, Industry, Home Affairs and Prime Minister and Cabinet. As well as our colleagues in the Australian Bureau of Statistics, Australian Tax Office, National Archives and our wonderful working group who gave their time to attend workshops, showcases, provide feedback and test the content. This guidance wouldn’t exist without you.
 
 ## Get started today
 
-Use the new [content strategy guidance](https://guides.service.gov.au/content-strategy/) to put your strategy together. You can build out your strategy by working through each section or dip into sections that match your priorities. New guidance will be added regularly over the next few months and you can join our [content community](https://www.dta.gov.au/what-we-do/partnerships/communities/) to get a heads up when it is published.
+Use the new [content strategy guidance](https://guides.service.gov.au/content-strategy/) to put your strategy together. You can build out your strategy by working through each section or dip into sections that match your priorities. New guidance will be added regularly over the next few months and you can join our [content community](https://beta.dta.gov.au/help-and-advice/communities-practice) to get a heads up when it is published.
