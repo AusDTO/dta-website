@@ -18,32 +18,8 @@ This builds on work across government to improve information and services for us
 
 ![Content strategy team member presenting to monthly working group.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
-*Caption: Our monthly working group forum involves representatives from all levels of government.*
+*Caption: Our working group forum involves representatives from all levels of government.*
 
 ### Now available
 
-The content strategy guidance is being delivered in phases, using agile delivery methods. The following modules (beta) are now available. More guidance will be released soon.
-
-### [Governing content](https://guides.service.gov.au/governing-content/)
-
-Guidance to help your agency align the goals of your content strategy and meet government requirements for quality content.
-
-### [Content auditing](https://guides.service.gov.au/content-strategy/content-auditing/)
-
-With millions of gov.au web pages, we need to reduce the clutter. A content audit is where we begin.
-
-### [Removing content](https://guides.service.gov.au/content-strategy/removing-content/)
-
-Remove unwanted and out-of-date content.
-
-### [Getting buy-in](https://guides.service.gov.au/content-strategy/getting-buy-in/)
-
-Get support from the top level of your organisation to improve content and workflow.
-
-### [Creating user-centred content](https://guides.service.gov.au/creating-user-centred-content/)
-
-Create content that your users will find valuable and easy to use.
-
-## Want to be part of this content strategy guidance?
-
-Government teams who would like to join the working group can email [content.workgroup@digital.gov.au](mailto:content.workgroup@digital.gov.au)
+The content strategy guidance is being delivered in phases, using agile delivery methods. Many modules (beta) are [already available](https://guides.service.gov.au/content-strategy/). More guidance will be released soon.
