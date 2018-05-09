@@ -38,4 +38,4 @@ This community is for people working with cloud in the Australian Public Service
 
 New members are welcome to join.
 
-[Join the cloud community](mailto:secure.cloud@digital.gov.au)
+[Join the cloud community](https://goo.gl/forms/CnyjPkbVkEc6O6EI3)
