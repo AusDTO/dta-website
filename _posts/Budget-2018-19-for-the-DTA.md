@@ -1,5 +1,5 @@
 ---
-title: "2018-19 Budget for the DTA"
+title: "Budget 2018-19 for the DTA"
 category: [news]
 tag: 'dta news'
 thumbnail: /images/blog-thumbnails/2018-19-Budget-measures_thumb.png
@@ -9,7 +9,6 @@ twitter-image: /images/blog-twitter/2018-19-Budget-measures_twitter.png
 lede: The government is investing in digital identity and blockchain to help make services simple and easy to use.
 searchexcerpt: The 2018–19 Budget will invest in key platforms and technology to improve people’s experience of government services online, including digital identity and blockchain. Information on how the government’s 2018-19 Budget relates to Australia’s digital transformation.
 
-
 ---
 
 <figure>
@@ -18,11 +17,11 @@ searchexcerpt: The 2018–19 Budget will invest in key platforms and technology 
 
 The 2018–19 Budget will invest in key platforms and technology to improve people’s experience of government services online.
 
-$92.4 million will be invested in the next phase of the work to build Govpass, our [digital identity system](https://beta.dta.gov.au/our-projects/digital-identity).
+$92.4 million will be invested in the next phase of work to build Govpass, our [digital identity system](https://beta.dta.gov.au/our-projects/digital-identity).
 
 Govpass will provide a simple, safe and secure choice for people to verify who they are and access government services online, reducing the need to visit a shopfront.
 
-Over the next financial year, up to 8 high volume government services will be piloted using a digital identity, giving more than 500,000 people the opportunity to test the system.
+Over the next financial year, up to 8 high-volume government services will be piloted using a digital identity, giving more than 500,000 people the opportunity to test the system.
 
 The first government services to be trialled with the digital identity system are applying for a tax file number and registering a business from October 2018.
 
@@ -32,9 +31,9 @@ A number of Commonwealth agencies will work together to roll out digital identit
 - the Australian Taxation Office will be the Commonwealth’s identity provider to verify people are who they say they are
 - the Department of Human Services will operate the exchange — a technology gateway between accredited identity providers and the services people use.
 
-The government is also exploring innovative ways to deliver reliable and secure deliver government services, using modern technology such as blockchain.
+The government is also exploring innovative ways to deliver reliable and secure  government services, using modern technology such as blockchain.
 
-$700,000 is being invested to investigate the benefits of using blockchain for government benefits.
+$700,000 is being invested to investigate the benefits of using blockchain for government services.
 
 
 This work will be done in 2 stages:
