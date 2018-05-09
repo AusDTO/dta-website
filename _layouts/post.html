@@ -43,7 +43,17 @@ breadcrumb_type: post
       {% endif %}
     </div>
   </header>
-
+{% if page.lede %}
+  {% if dtaplayback %}
+    <div class="abstract dta-playback">
+      {{ page.lede | markdownify }}
+    </div>
+  {% else %}
+    <div class="abstract">
+      {{ page.lede | markdownify }}
+    </div>
+  {% endif %}
+{% else %}
   {% if dtaplayback %}
     <div class="abstract dta-playback">
       {{ page.searchexcerpt | markdownify }}
@@ -53,6 +63,8 @@ breadcrumb_type: post
       {{ page.searchexcerpt | markdownify }}
     </div>
   {% endif %}
+{% endif %}
+
   {% if dtaplayback %}
     <section class="post-body dta-playback">
   {% else %}
