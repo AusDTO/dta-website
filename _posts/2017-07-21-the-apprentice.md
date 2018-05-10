@@ -65,4 +65,4 @@ Naomi will complete her apprenticeship in December and plans to stay with her cu
 
 >Go for it! It’s a really good opportunity for people who have a passion for IT but don’t yet have qualifications. It’s certainly an industry to get into. It is a part of everyone’s lives now.
 
-Keep an eye out on our [DTA Facebook page](https://www.facebook.com/DigitalTransformationAgency/) over the next couple of weeks to see other apprentices and cadets talk about their experiences. You can also follow the [ICT Entry Level Program Facebook page](https://www.facebook.com/ictentrylevel/) for updates about the program including online Q&A sessions.
+Keep an eye out on our [DTA Facebook page](https://www.facebook.com/DigitalTransformationAgency/) over the next couple of weeks to see other apprentices and cadets talk about their experiences. You can also follow the [ICT Entry Level Program Facebook page](https://https://www.facebook.com/digitalentrylevel/) for updates about the program including online Q&A sessions.
