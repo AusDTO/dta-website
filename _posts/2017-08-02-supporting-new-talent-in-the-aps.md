@@ -60,4 +60,4 @@ Find out more about our [ICT entry-level programs](https://www.dta.gov.au/what-w
 - Apprenticeship program --- [applications close on Friday 4 August](https://www.dta.gov.au/who-we-are/corporate/jobs/)
 - Cadetship program --- [applications close Friday 11 August](https://www.dta.gov.au/who-we-are/corporate/jobs/)
 
-Check out our [facebook page](https://www.facebook.com/digitalentrylevel//) for all up-to-date information about the ICT entry-level programs. You can ask us any questions or participate in live Q&A sessions. 
+Check out our [facebook page](https://www.facebook.com/digitalentrylevel/) for all up-to-date information about the ICT entry-level programs. You can ask us any questions or participate in live Q&A sessions. 
