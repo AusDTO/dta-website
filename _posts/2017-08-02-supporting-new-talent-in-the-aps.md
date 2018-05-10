@@ -15,11 +15,11 @@ searchexcerpt: "Over the past 10 years the Australian Government’s ICT entry-l
 
 ## Getting to know the program participants
 
-As a career development support officer (support officer), I provide support and assistance for approximately 45 participants across our [ICT entry-level programs](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-entry/). Every participant has a dedicated support officer from their first day, helping them gain the most from their experience. 
+As a career development support officer (support officer), I provide support and assistance for approximately 45 participants across our [ICT entry-level programs](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-entry/). Every participant has a dedicated support officer from their first day, helping them gain the most from their experience.
 
 I meet with them fortnightly and then monthly for the duration of the program, which can be up to three years. I spend time getting to know each participant --- usually face-to-face over a coffee. Although the support officers are based in Canberra, we also travel to visit our interstate participants, as well as catching up on the phone monthly.
 
-These meetings are valuable as they give the participant an opportunity to raise any concerns or pressing issues relating to their work, study and life generally. 
+These meetings are valuable as they give the participant an opportunity to raise any concerns or pressing issues relating to their work, study and life generally.
 
 ## Diverse participants
 
@@ -27,25 +27,25 @@ We have an extremely diverse group of participants on our programs. From Year 12
 
 ## What’s the program like?
 
-The graduate program runs for one year and the apprenticeship and cadetship programs run between one and three years. 
+The graduate program runs for one year and the apprenticeship and cadetship programs run between one and three years.
 
-A major advantage of each program is obtaining a qualification while gaining knowledge through practical work experience at their agency. 
+A major advantage of each program is obtaining a qualification while gaining knowledge through practical work experience at their agency.
 
-Our participants work in one of around 20 different government agencies in areas such as cyber security, networking and web development to name a few. 
+Our participants work in one of around 20 different government agencies in areas such as cyber security, networking and web development to name a few.
 
-As well as gaining employment through a government agency, participants also have the benefit of their employer covering their qualification fees or, in the case of cadets, providing an allowance for each successfully completed unit at university. 
+As well as gaining employment through a government agency, participants also have the benefit of their employer covering their qualification fees or, in the case of cadets, providing an allowance for each successfully completed unit at university.
 
 ## Career support throughout the program
 
 Many of our participants complete their program with little or no issues. However, life events happen and some experience difficulties in their personal life, with their study or in the workplace. It is our role as support officers to help them get back on track.
 
-The types of support offered by a career development support officer can vary greatly, from assisting someone who has relocated to a new city to somebody struggling with maintaining a work/life balance. 
+The types of support offered by a career development support officer can vary greatly, from assisting someone who has relocated to a new city to somebody struggling with maintaining a work/life balance.
 
-For those starting a new life in Canberra, we can provide information regarding transport links, places to live, what to do in town and general ‘settling in’ assistance. 
+For those starting a new life in Canberra, we can provide information regarding transport links, places to live, what to do in town and general ‘settling in’ assistance.
 
-Our support can also be extremely involved. In cases where a participant may have difficulty with their study, we are the conduit between the tertiary institution, the employer and the individual. We can help to resolve issues that will result in a win for all involved. This might include organising tutoring, additional study time or other support services at their tertiary institution. 
+Our support can also be extremely involved. In cases where a participant may have difficulty with their study, we are the conduit between the tertiary institution, the employer and the individual. We can help to resolve issues that will result in a win for all involved. This might include organising tutoring, additional study time or other support services at their tertiary institution.
 
-When an individual needs help or is having difficulties, we meet more frequently until the matter is resolved. 
+When an individual needs help or is having difficulties, we meet more frequently until the matter is resolved.
 
 ## Professional development and employment
 
@@ -55,9 +55,9 @@ I am absolutely passionate about our programs and proud to represent all of my p
 
 ## Get involved in the program
 
-Find out more about our [ICT entry-level programs](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-entry/). There are up to 200 positions to be filled in 2018 and applications are now open. 
+Find out more about our [ICT entry-level programs](https://www.dta.gov.au/what-we-do/policies-and-programs/ict-entry/). There are up to 200 positions to be filled in 2018 and applications are now open.
 
 - Apprenticeship program --- [applications close on Friday 4 August](https://www.dta.gov.au/who-we-are/corporate/jobs/)
-- Cadetship program --- [applications close Friday 11 August](https://www.dta.gov.au/who-we-are/corporate/jobs/) 
+- Cadetship program --- [applications close Friday 11 August](https://www.dta.gov.au/who-we-are/corporate/jobs/)
 
-Check out our [facebook page](https://www.facebook.com/ictentrylevel/) for all up-to-date information about the ICT entry-level programs. You can ask us any questions or participate in live Q&A sessions. 
+Check out our [facebook page](https://www.facebook.com/digitalentrylevel//) for all up-to-date information about the ICT entry-level programs. You can ask us any questions or participate in live Q&A sessions. 
