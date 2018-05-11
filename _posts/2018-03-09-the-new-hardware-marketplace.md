@@ -18,6 +18,12 @@ twitter-image: /images/blog-twitter/the-new-hardware-marketplace-twitter.png
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="The new hardware marketplace">
 </figure>
 
+<p class="callout">
+  Update: The Request for Tender for the Hardware Marketplace, Category 1, Enterprise Storage was released on the <a href="https://www.tenders.gov.au/?event=public.atm.show&ATMUUID=D75B7B44-FCB4-56EA-711D21E391D4A268">AusTender website</a>
+on 10/5/2018. Thank you to those who gave us feedback.
+</p>
+
+
 Government agencies often buy ICT products through sellers on panels. These panels offer negotiated prices and terms and conditions, so government agencies are able to get the best value for money.
 
 But they have their drawbacks. Panels are sometimes only opened to new providers every couple of years. We’ve heard from smaller businesses that they are locked out of panels, and the time and resources needed to respond to tenders sometimes stops them from applying.
