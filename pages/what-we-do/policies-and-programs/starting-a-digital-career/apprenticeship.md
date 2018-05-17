@@ -37,43 +37,27 @@ Government agencies have many different digital and technical roles. These roles
 
 ## Locations
 
-Apprenticeship locations vary each year based on requirements. A complete list of available locations are published when applications open. Past apprentices have worked in the following cities:
+Apprenticeship locations for 2019 will be available in the following cities:
 
 - Canberra
-- Sydney
 - Melbourne
 - Brisbane
 - Adelaide
 - Perth
-- Townsville
 
 You may be eligible for relocation assistance if you need to move to another city for an apprenticeship.
 
 ## Who you’ll be working for
 
-Participating agencies vary each year. A complete list of participating agencies are published when applications open. Past apprentices have worked with the following agencies:
+The following agencies will participate in the 2019 apprenticeship program:
 
-- Attorney-General's Department
-- Australian Electoral Commission
 - Australian Federal Police
-- Australian Taxation Office
-- Bureau of Meteorology
-- Commonwealth Director of Public Prosecutions
-- Geoscience Australia
-- IP Australia
-- National Library of Australia
-- Department of Agriculture and Water Resources
 - Department of Defence
 - Department of Finance
-- Department of Foreign Affairs and Trade
-- Department of Health
 - Department of Home Affairs
 - Department of Human Services
-- Department of Infrastructure, Regional Development and Cities
 - Department of Jobs and Small Business
-- Department of the Senate
-- Department of Veterans' Affairs
-- The Treasury
+- Digital Transformation Agency
 
 ## Benefits
 
@@ -101,7 +85,7 @@ You will also get to network with other apprentices and develop professional rel
 
 ## How to apply
 
-Applications for the 2019 program open 21 May 2018.
+Applications for the 2019 program are open from 21 May to 2 July 2018.
 
 When applications are open, the application form will be available in the jobs section of our website.
 
