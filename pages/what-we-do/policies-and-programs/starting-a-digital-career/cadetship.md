@@ -39,41 +39,23 @@ Government agencies have many different digital and technical roles. These roles
 
 ## Locations
 
-Cadetship locations vary each year based on requirements. A complete list of available locations are published when applications open. Past cadets have worked in the following cities:
+Cadetship locations for 2019 will be available in the following cities:
 
 - Canberra
-- Sydney
-- Melbourne
 - Brisbane
 - Adelaide
-- Perth
 
-You may be eligible for relocation assistance if you need to move to another city for an apprenticeship.
+You may be eligible for relocation assistance if you need to move to another city for a cadetship.
 
 ## Who you’ll be working for
 
-Participating agencies vary each year. A complete list of participating agencies are published when applications open. Past cadets have worked with the following agencies:
+The following agencies will participate in the 2019 cadetship program:
 
-- Attorney-General’s Department
-- Australian Bureau of Statistics
 - Australian Competition and Consumer Commission
-- Australian Federal Police
-- Australian Government Solicitor
-- Australian Securities and Investments Commission
-- Australian Taxation Office
 - Department of Defence
-- Department of Finance
-- Department of Foreign Affairs and Trade
-- Department of Health
 - Department of Home Affairs
 - Department of Human Services
-- Department of Social Services
-- Department of the Environment and Energy
-- Department of Veterans' Affairs
-- Fair Work Ombudsman
-- Family Court of Australia
-- The Treasury
-- Therapeutic Goods Administration
+- Digital Transformation Agency
 
 ## Benefits
 
@@ -99,7 +81,7 @@ You will also get to network with other cadets and develop professional relation
 
 ## How to apply
 
-Applications for the 2019 program open 21 May 2018.
+Applications for the 2019 program are open from 21 May to 2 July 2018.
 
 When applications are open, the application form will be available in the [jobs section of our website](https://www.dta.gov.au/who-we-are/corporate/jobs/).
 
