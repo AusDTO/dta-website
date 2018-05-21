@@ -52,6 +52,7 @@ You may be eligible for relocation assistance if you need to move to another cit
 The following agencies will participate in the 2019 cadetship program:
 
 - Australian Competition and Consumer Commission
+- Australian Signals Directorate
 - Department of Defence
 - Department of Home Affairs
 - Department of Human Services
