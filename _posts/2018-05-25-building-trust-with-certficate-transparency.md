@@ -12,7 +12,7 @@ searchexcerpt: Since the end of April 2018, most website security certificates a
 
 ---
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="A text tile with the words Do the hard work to make it simple and the DTA logo in the bottom right corner."/><br />
+  <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="Sketch of a certificate on a laptop screen"/><br />
 </figure>
 
 The push for website security certificate issuance to be transparent has been led by browsers — particularly Google Chrome — who recently [announced](https://groups.google.com/a/chromium.org/forum/#!topic/ct-policy/wHILiYf31DE) that all security certificates need to be submitted to 2 or more [transparency logs](https://www.certificate-transparency.org/known-logs) to be considered secure. This change affects all certificates issued after 30 April 2018.
