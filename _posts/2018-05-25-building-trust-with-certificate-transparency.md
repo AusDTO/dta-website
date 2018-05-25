@@ -8,8 +8,7 @@ thumbnail: /images/blog-thumbnails/building-trust-with-certficate-transparency_t
 hero-image: /images/blog-banners/building-trust-with-certficate-transparency_hero.png
 facebook-image: /images/blog-facebook/building-trust-with-certficate-transparency_facebook.png
 twitter-image: /images/blog-twitter/building-trust-with-certficate-transparency_twitter.png
-searchexcerpt: Most website security certificates need to submit to 2 or more transparency logs to be considered valid after 30 April 2018. Certificate transparency has implications for internet security, your website and the integrity of the logs themselves. 
-
+searchexcerpt: Since the end of April 2018, most website security certificates are now being published to public logs. Why is this happening and what does it mean for your site?
 redirect_from: /blog/building-trust-with-certficate-transparency/
 
 ---
@@ -17,7 +16,9 @@ redirect_from: /blog/building-trust-with-certficate-transparency/
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="Sketch of a certificate on a laptop screen"/><br />
 </figure>
 
-The push for website security certificate issuance to be transparent has been led by browsers — particularly Google Chrome — who recently [announced](https://groups.google.com/a/chromium.org/forum/#!topic/ct-policy/wHILiYf31DE) that all security certificates need to be submitted to 2 or more [transparency logs](https://www.certificate-transparency.org/known-logs) to be considered secure. This change affects all certificates issued after 30 April 2018.
+The push for website security certificate issuance to be transparent has been led by browsers — particularly Google Chrome — who recently [announced](https://groups.google.com/a/chromium.org/forum/#!topic/ct-policy/wHILiYf31DE) that all security certificates need to be submitted to 2 or more [transparency logs](https://www.certificate-transparency.org/known-logs) to be considered secure. 
+
+This change affects all certificates issued after 30 April 2018.
 
 
 ## Why is this happening?
@@ -32,7 +33,9 @@ Notable incidents include the [DigiNotar](https://threatpost.com/final-report-di
 
 In the end, issuing certificates to the wrong person makes [man-in-the-middle](https://www.globalsign.com/en/blog/what-is-a-man-in-the-middle-attack/) attacks possible, where parties can eavesdrop or potentially tamper with communications between users and the sites they visit.
 
-In the past, certificates were only sent to the party requesting them, which made detecting mis-issued certificates largely a matter of luck with some help from the now [superseded HTTP public key pinning](https://www.theregister.co.uk/2017/10/30/google_hpkp/). In 2013 several Google engineers [proposed a change](https://tools.ietf.org/html/rfc6962) to the certificate issuance process that required a new certificate be written to several publicly verifiable append-only log servers in order for a browser to consider it valid.
+In the past, certificates were only sent to the party requesting them, which made detecting mis-issued certificates largely a matter of luck with some help from the now [superseded HTTP public key pinning](https://www.theregister.co.uk/2017/10/30/google_hpkp/). 
+
+In 2013 several Google engineers [proposed a change](https://tools.ietf.org/html/rfc6962) to the certificate issuance process that required a new certificate be written to several publicly verifiable append-only log servers in order for a browser to consider it valid.
 
 Called certificate transparency, this means that any interested party, particularly site operators, can examine the set of log servers to see all certificates and check if any are being issued without their authorisation.
 
