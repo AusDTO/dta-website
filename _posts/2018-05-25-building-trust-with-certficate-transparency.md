@@ -37,7 +37,7 @@ While certificate transparency gives us the ability to keep a check on what’s 
 
 Any new certificates issued after 30 April 2018 must be submitted to 2 or more certificate transparency logs in order to be considered valid. In practice, the majority of certificate authorities have already changed their issuance processes to do this for you. Most are including the necessary proof of submission (called signed certificate timestamps) as an embedded extension within the certificate returned to you. This means you don’t need to make any changes to your configuration or software when you install the new certificate in your server stack.
 
-For more information on what a signed certificate timestamp is, and how to ensure they are present in a certificate, see [this blog post](https://letsencrypt.org/2018/04/04/sct-encoding.html) from a member of the Let’s Encrypt engineering team. If your certificate authority isn’t doing this for you, you have the option of looking for another provider. Read more about [website security](https://beta.dta.gov.au/blogs/buckle-browser-changes-ahead) certificates and how we use them in my last blog.
+For more information on what a signed certificate timestamp is, and how to ensure they are present in a certificate, see [this blog post](https://letsencrypt.org/2018/04/04/sct-encoding.html) from a member of the Let’s Encrypt engineering team. If your certificate authority isn’t doing this for you, you have the option of looking for another provider. Read more about [website security certificates](https://beta.dta.gov.au/blogs/buckle-browser-changes-ahead) and how we use them in my last blog.
 
 ## What should I do if I need to run a HTTPS proxy?
 
