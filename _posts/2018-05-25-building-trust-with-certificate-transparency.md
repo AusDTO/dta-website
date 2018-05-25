@@ -9,6 +9,7 @@ hero-image: /images/blog-banners/building-trust-with-certficate-transparency_her
 facebook-image: /images/blog-facebook/building-trust-with-certficate-transparency_facebook.png
 twitter-image: /images/blog-twitter/building-trust-with-certficate-transparency_twitter.png
 searchexcerpt: Since the end of April 2018, most website security certificates are now being published to public logs. Why is this happening and what does it mean for your site?
+redirect_from: /blog/building-trust-with-certficate-transparency/
 
 ---
 <figure>
