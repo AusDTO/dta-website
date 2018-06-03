@@ -38,33 +38,33 @@ Our offices are at:
 
 ## Digital Marketplace
 
-If you have any questions about the Digital Marketplace, or if you would like to register your interest in being a seller, please email [marketplace@digital.gov.au](mailto:marketplace@digital.gov.au).
+If you have any questions about the Digital Marketplace, or if you would like to register your interest in being a seller, please email [marketplace@digital.gov.au](mailto:marketplace@digital.gov.au)
 
 ## Events and media
 
 If you'd like someone from the DTA to speak at an event, [send us a speaking request](/contact/events/). Please make sure to complete all the questions.
 
-If you are a journalist and have a media enquiry, please send an email to [media@digital.gov.au](mailto:media@digital.gov.au).
+If you are a journalist and have a media enquiry, please send an email to [media@digital.gov.au](mailto:media@digital.gov.au)
 
 ## Digital Service Standard
 
-For enquiries about the Digital Service Standard and service assessments, please send an email to [standard@digital.gov.au](mailto:standard@digital.gov.au).
+For enquiries about the Digital Service Standard and service assessments, please send an email to [standard@digital.gov.au](mailto:standard@digital.gov.au)
 
 ## Identity
 
-For enquiries about the Identity program, please send an email to [identity@digital.gov.au](mailto:identity@digital.gov.au).
+For enquiries about the Identity program, please send an email to [identity@digital.gov.au](mailto:identity@digital.gov.au)
 
 ## Performance Dashboard
 
-For enquiries about the Performance Dashboard, please send an email to [performance-dashboard@digital.gov.au](mailto:performance-dashboard@digital.gov.au).
+For enquiries about the Performance Dashboard, please send an email to [performance-dashboard@digital.gov.au](mailto:performance-dashboard@digital.gov.au)
 
 ## ICT procurement
 
-For enquiries about Australian Government ICT procurement, please send an email to [ictprocurement@dta.gov.au](mailto:ictprocurement@dta.gov.au).
+For enquiries about Australian Government ICT procurement, please send an email to [ictprocurement@dta.gov.au](mailto:ictprocurement@dta.gov.au)
 
 ## australia.gov.au
 
-For content related enquires on [australia.gov.au](https://www.australia.gov.au/), please email [ausgov@digital.gov.au](mailto:ausgov@digital.gov.au).
+For content related enquires on [australia.gov.au](https://www.australia.gov.au/), please email [ausgov@digital.gov.au](mailto:ausgov@digital.gov.au)
 
 ## Our mailing address
 
