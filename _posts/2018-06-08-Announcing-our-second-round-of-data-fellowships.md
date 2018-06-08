@@ -36,7 +36,8 @@ Here are our seven new data fellows and the projects they’re working on betwee
 
 <img class="align-left" src="/images/blog-content/DataFellowship2_1-ToddCampbell.png" />
 
-#### Todd Campbell — [Australian Prudential Regulation Authority](http://www.apra.gov.au/Pages/default.aspx)
+#### Todd Campbell 
+[Australian Prudential Regulation Authority](http://www.apra.gov.au/Pages/default.aspx)
 
 Todd is looking at how to use text analytics to help identify insights and risks in prudential supervisory reviews of insurance companies’ financial condition reports. He’s also looking at identifying efficiencies and compiling an overview of the industry to assist supervisors.
 
@@ -68,7 +69,8 @@ His 16 years’ of professional experience include implementing operational proj
 
 <img class="align-left" src="/images/blog-content/DataFellowship2_7-PatrickDrakeBrockman.png" />
 
-#### Patrick Drake-Brockman — [Digital Transformation Agency](https://beta.dta.gov.au/)
+#### Patrick Drake-Brockman 
+[Digital Transformation Agency](https://beta.dta.gov.au/)
 
 Patrick’s project will provide data about the way government agencies buy products and services and the sellers they buy from.
 
@@ -84,7 +86,8 @@ He’s spent 19 years in the Australian Government in roles including ministeria
 <img class="align-left" src="/images/blog-content/DataFellowship2_2-GabriellaDuddy.png" />
 
 
-#### Gabriella Duddy — [Clean Energy Regulator](http://www.cleanenergyregulator.gov.au/)
+#### Gabriella Duddy 
+[Clean Energy Regulator](http://www.cleanenergyregulator.gov.au/)
 
 Gabriella is using machine learning to help the Clean Energy Regulator (CER) detect non-compliance in its regulatory schemes.
 
@@ -100,7 +103,8 @@ She’s in her final semester of a Master of Energy Change at the Australian Nat
 <img class="align-left" src="/images/blog-content/DataFellowship2_3-DipangarKundu.png" />
 
 
-#### Dipangkar Kundu — [Department of Agriculture and Water Resources](http://www.agriculture.gov.au/)
+#### Dipangkar Kundu 
+[Department of Agriculture and Water Resources](http://www.agriculture.gov.au/)
 
 Dipangkar is developing an empirical model for identifying and targeting potential non-compliance biosecurity risks at Australian airports.
 
@@ -116,7 +120,8 @@ He has a PhD in computational hydrology from the University of Sydney.
 <img class="align-left" src="/images/blog-content/DataFellowship2_4-DanielMerkas.png" />
 
 
-#### Daniel Merkas — [Australian Bureau of Statistics](http://www.abs.gov.au/)
+#### Daniel Merkas 
+[Australian Bureau of Statistics](http://www.abs.gov.au/)
 
 Daniel is developing machine-learning models to improve the quality and efficiency of the address register held by the Australian Bureau of Statistics.
 
@@ -132,7 +137,8 @@ Daniel is a statistician in the bureau’s address register unit and is studying
 <img class="align-left" src="/images/blog-content/DataFellowship2_5-JackXu.png" />
 
 
-#### Jack Xu — [Department of Human Services](https://www.humanservices.gov.au/)
+#### Jack Xu 
+[Department of Human Services](https://www.humanservices.gov.au/)
 
 Jack is building a simulation model that will replicate the day-to-day telephone activities of the Department of Human Services.
 
