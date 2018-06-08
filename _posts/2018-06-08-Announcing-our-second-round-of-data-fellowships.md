@@ -52,7 +52,8 @@ The goal of the lab is to test modern analytics approaches that could provide ne
 
 <img class="align-left" src="/images/blog-content/DataFellowship2_6-RakheshDevadas.png" />
 
-#### Rakhesh Devadas — [Australian Bureau of Agricultural and Resource Economics and Sciences](http://www.agriculture.gov.au/abares) (Department of Agriculture and Water Resources)
+#### Rakhesh Devadas
+[Australian Bureau of Agricultural and Resource Economics and Sciences](http://www.agriculture.gov.au/abares) (Department of Agriculture and Water Resources)
 
 Rakhesh is developing techniques to automate the way agricultural land uses are mapped at a national scale.
 
