@@ -16,7 +16,7 @@ searchexcerpt: We’ve chosen 7 more data specialists for the DTA’s 3-month da
   <figcaption>
     <p>
       <em>
-      Caption: Our Seven latest data fellows. Top row left to right: Todd Campbell, Gabriella Duddy, Dipangar Kundu, Daniel Merkas. Bottom row left to right: Jack Xu, Rakhesh Devadas, Patrick Drake-Brockman
+      Caption: Our seven latest data fellows. Top row left to right: Todd Campbell, Gabriella Duddy, Dipangar Kundu, Daniel Merkas. Bottom row left to right: Jack Xu, Rakhesh Devadas, Patrick Drake-Brockman
       </em>
     </p>
   </figcaption>
