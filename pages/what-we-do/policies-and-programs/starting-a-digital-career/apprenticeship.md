@@ -88,7 +88,7 @@ You will also get to network with other apprentices and develop professional rel
 
 Applications for the 2019 program are open from 21 May to 2 July 2018.
 
-When applications are open, the application form will be available in the jobs section of our website.
+When applications are open, the application form will be available in the [jobs section of our website](https://www.dta.gov.au/who-we-are/corporate/jobs/).
 
 You will need these documents:
 
