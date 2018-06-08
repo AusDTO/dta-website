@@ -22,7 +22,7 @@ searchexcerpt: We’ve chosen 7 more data specialists for the DTA’s 3-month da
   </figcaption>
 </figure>
 
-We’re pleased to announce our second round of data fellows for 2017–18. We’ve picked seven talented people to take part in three-month placements under our [Data Fellowship Program](Data Fellowship Program).
+We’re pleased to announce our second round of data fellows for 2017–18. We’ve picked seven talented people to take part in three-month placements under our [Data Fellowship Program](https://beta.dta.gov.au/node/320).
 
 We’ve awarded the fellowships to high-performing data specialists in the Australian Public Service. During their placements they work with the [CSIRO](https://www.csiro.au/)’s data-innovation group [Data61](https://www.data61.csiro.au/en/Who-we-are) and will develop solutions for data-related problems or opportunities.
 
