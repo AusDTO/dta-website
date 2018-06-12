@@ -2,9 +2,9 @@
 title: "Next steps for our new procurement framework"
 category: [news]
 tag: 'dta news'
-thumbnail: /images/blog-thumbnails/digital-sourcing-framework_thumb.png
-facebook-image: /images/blog-facebook/digital-sourcing-framework_facebook.png
-twitter-image: /images/blog-twitter/digital-sourcing-framework_twitter.png
+thumbnail: /images/blog-thumbnails/next-steps-for-our-new-procurement-framework_thumb.png
+facebook-image: /images/blog-facebook/next-steps-for-our-new-procurement-framework_facebook.png
+twitter-image: /images/blog-twitter/next-steps-for-our-new-procurement-framework_twitter.png
 lede: Today we are releasing a Digital Sourcing Framework after a period of public consultation, to guide policy and decision making.
 searchexcerpt:
 
@@ -13,7 +13,7 @@ searchexcerpt:
 ## Next steps for our new procurement
 
 The digital sourcing framework is at the centre of a series of reforms to make ICT procurement a simpler and faster process for everyone involved.
-
+s
 The draft framework was developed by an exemplar team made up of representatives from seven different government departments. During their research they spoke with companies who sell to government as well as those in government who manage procurement to understand the barriers and difficulties with current policies and processes.
 
 ## What you told us
