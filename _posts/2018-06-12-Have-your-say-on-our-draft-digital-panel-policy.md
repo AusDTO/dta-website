@@ -2,9 +2,9 @@
 title: "Have your say on our draft digital panel policy"
 category: [news]
 tag: 'dta news'
-thumbnail: /images/blog-thumbnails/Panels-policy-consultation_thumb.png
-facebook-image: /images/blog-facebook/Panels-policy-consultation_facebook.png
-twitter-image: /images/blog-twitter/Panels-policy-consultation_twitter.png
+thumbnail: /images/blog-thumbnails/have-your-say-on-our-draft-digital-panel-policy_thumb.png
+facebook-image: /images/blog-facebook/have-your-say-on-our-draft-digital-panel-policy_facebook.png
+twitter-image: /images/blog-twitter/have-your-say-on-our-draft-digital-panel-policy_twitter.png
 lede: We’re seeking feedback on a draft policy about using panels to source digital products and services.
 searchexcerpt:
 
