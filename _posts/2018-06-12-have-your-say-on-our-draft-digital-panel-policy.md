@@ -29,4 +29,4 @@ The new draft Digital Panel Policy aims to:
 
 We want to hear from anyone who works with digital (including ICT) panels. That’s both people from government agencies and from industry, especially those that sell digital to government, or want to in the future.
 
-Read the draft policy principles and provide your feedback by 12 July 2018.
+Read the [draft policy](https://beta.dta.gov.au/node/332) principles and provide your [feedback](https://engage.digital.gov.au/) by 12 July 2018.
