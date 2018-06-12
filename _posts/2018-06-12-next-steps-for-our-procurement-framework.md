@@ -13,7 +13,7 @@ searchexcerpt:
 ## Next steps for our new procurement
 
 The digital sourcing framework is at the centre of a series of reforms to make ICT procurement a simpler and faster process for everyone involved.
-s
+
 The draft framework was developed by an exemplar team made up of representatives from seven different government departments. During their research they spoke with companies who sell to government as well as those in government who manage procurement to understand the barriers and difficulties with current policies and processes.
 
 ## What you told us
