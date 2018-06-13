@@ -6,7 +6,7 @@ thumbnail: /images/blog-thumbnails/new-procurement-framework_thumb.png
 facebook-image: /images/blog-facebook/new-procurement-framework_facebook.png
 twitter-image: /images/blog-twitter/new-procurement-framework_twitter.png
 lede: Today we are releasing a Digital Sourcing Framework after a period of public consultation, to guide policy and decision making.
-searchexcerpt:Today we are releasing a Digital Sourcing Framework after a period of public consultation, to guide policy and decision making.
+searchexcerpt: Today we are releasing a Digital Sourcing Framework after a period of public consultation, to guide policy and decision making.
 
 ---
 
