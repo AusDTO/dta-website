@@ -32,7 +32,7 @@ Responsibility for realising the digital transformation agenda is owned by all a
 
 I am committed to a DTA that performs effectively and meets the expectations of government, government agencies, industry stakeholders and the public. I have established a performance reporting framework to make sure that we are able to identify and address performance issues, and meet the requirements of the [Public Governance Performance and Accountability Act](https://www.legislation.gov.au/Details/C2013A00123) (PGPA Act).
 
-As the accountable authority for the DTA, I am pleased to present a variation to our [2017–18 Corporate Plan](/who-we-are/corporate/plan/). This varied Corporate Plan covers the period 2017–18 to 2020–21, as required under paragraph 35 (1)(b) of the PGPA Act.
+As the accountable authority for the DTA, I am pleased to present a variation to our [2017–18 Corporate Plan](/who-we-are/corporate/plan-2017-20/). This varied Corporate Plan covers the period 2017–18 to 2020–21, as required under paragraph 35 (1)(b) of the PGPA Act.
 
 Gavin Slater\\
 Chief Executive Officer
