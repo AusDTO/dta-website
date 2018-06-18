@@ -1,5 +1,5 @@
 ---
-title: "A new template for digital sourcing"
+title: "A new category for the software panel"
 category: [news]
 tag: 'dta news'
 thumbnail: /images/blog-thumbnails/feedback-software-panels_thumb.png
