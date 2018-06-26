@@ -42,10 +42,8 @@ New members are welcome to join.
 
 ## Open data community
 
-This community is for people who do any of the following:
-- work with public data in the Australian Public Service
-- carry out publicly funded research
-- develop, innovate or carry out research using Australia’s public datasets
+This community is for people who work with public data in the Australian Public Service or who carry out publicly funded research.
 
+It’s also for people who develop, innovate or carry out research using Australia’s public datasets.
 
 [Join the open data community](https://community.digital.gov.au/c/open-data)
