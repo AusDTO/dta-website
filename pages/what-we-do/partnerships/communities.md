@@ -39,3 +39,13 @@ This community is for people working with cloud in the Australian Public Service
 New members are welcome to join.
 
 [Join the cloud community](https://goo.gl/forms/CnyjPkbVkEc6O6EI3)
+
+## Open data community
+
+This community is for people who do any of the following:
+- work with public data in the Australian Public Service
+- carry out publicly funded research
+- develop, innovate or carry out research using Australia’s public datasets
+
+
+[Join the open data community](https://community.digital.gov.au/c/open-data)
