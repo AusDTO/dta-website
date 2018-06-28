@@ -5,9 +5,9 @@ permalink: /privacy-statement/
 breadcrumb: Privacy Statement
 lede: This privacy policy tells you how we collect and use information.
 ---
-We respect and protect the privacy of our users. 
+We respect and protect the privacy of our users.
 
-The term 'personal information' in this privacy policy means any information from which your identity is apparent or can be reasonably ascertained. 
+The term 'personal information' in this privacy policy means any information from which your identity is apparent or can be reasonably ascertained.
 
 We do not automatically collect personal information about you when you visit this online service. You can use this service without telling us who you are or revealing other personal information. If you fill out our feedback form, you do not need to identify yourself or use your real name.
 
@@ -31,7 +31,7 @@ At no cost you can:
 
 To protect your privacy and the privacy of others, we will need evidence of your identity before we can grant you access to information about you or change it.
 
-You can [request information by email](mailto:foi.reply@digital.gov.au), or send your request or complaint to GPO Box 457, Canberra, ACT 2601. 
+You can [request information by email](mailto:foi.reply@digital.gov.au), or send your request or complaint to GPO Box 457, Canberra, ACT 2601.
 
 We undertake to respond within 30 days. If the request or complaint will take longer to resolve, we will provide you with a date by which we expect to respond.
 
@@ -61,15 +61,15 @@ The DTA will only use this information to:
 * measure email campaign performance
 * improve the features for specific segments of customers
 * evaluate your use of our website
-* compile reports on website activity for website operators, and 
-* provide other services relating to website activity and internet usage. 
+* compile reports on website activity for website operators, and
+* provide other services relating to website activity and internet usage.
 
 MailChimp may transfer this information to third parties where required to do so by law, or where such third parties process the information on MailChimps's behalf. MailChimp collects information about when you visit the website, when you use the services, your browser type and version, your operating system, and other similar information.
 
 MailChimp is based in the United States of America (USA) and the information collected about your use of the website (including your IP address) will be transmitted to and stored by MailChimp on servers located outside Australia. We are required to inform you that by subscribing to our eNewsletter:
 
 * You consent to your personal information being collected, used, disclosed and stored as set out in [Mail Chimp’s Privacy Policy](http://mailchimp.com/legal/privacy/) and agree to abide by [Mail Chimp’s Terms of Use](http://mailchimp.com/legal/terms/).
-* You understand and acknowledge that this service utilises a MailChimp platform, which is located in the United States of America (USA) and relevant legislation of the USA will apply. 
+* You understand and acknowledge that this service utilises a MailChimp platform, which is located in the United States of America (USA) and relevant legislation of the USA will apply.
 * Australian Privacy Principle 8.1 contained in Schedule 1 of the [Privacy Act](http://mailchimp.com/legal/terms/) will not apply.
 * You understand and acknowledge that MailChimp is not subject to the Privacy Act 1988 (Cth) and you will not be able to seek redress under the Privacy Act 1988 (Cth) but will need to seek redress under the laws of the USA.
 
@@ -83,3 +83,32 @@ The DTA website is bound by the [Privacy Act 1988](https://www.legislation.gov.a
 
 We also follow the [Guidelines for Federal and ACT government websites](https://www.oaic.gov.au/agencies-and-organisations/guides/) issued by the Office of the Australian Information Commissioner.
 
+## Privacy Impact Assessments
+
+A Privacy Impact Assessment (PIA) is a systematic assessment of a project that identifies the impact that the project might have on the privacy of individuals, and sets out recommendations for managing, minimising, or eliminating that impact.
+
+While PIAs assess a project’s risk of non-compliance with privacy legislation and identify controls to mitigate the risk, a PIA is much more than a simple compliance check. It should ‘tell the full story’ of a project from a privacy perspective, going beyond compliance to also consider the broader privacy implications and risks, including whether the planned uses of personal information in the project will be acceptable to the community. PIAs are key to building community trust and have a range of other benefits, such as demystifying the project and its objectives
+
+From 1 July 2018, the Australian Government Agencies Privacy Code require agencies to conduct a PIA for all high privacy risk projects. A high privacy risk project is one that involves a new or changed way of handling personal information that is likely to have a significant impact on the privacy of individuals.
+
+A register of PIAs completed by the DTA can be found below.
+
+<table class="content-table responsive-table" summary="This table displays a list of Privacy Impact Assessments completed by the DTA. It shows the title, the summary, the date and the author.">
+  <caption>Register of Privacy Impact Assessments (PIAs)</caption>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Summary</th>
+      <th>Date</th>
+      <th>Author</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Initial Privacy Impact Assessment (PIA) for the Trusted Digital Identity Framework (TDIF)&nbsp;Alpha</td>
+      <td>The purpose of this PIA is to assist in identifying and managing privacy issues that are raised by the broad concept and design of the overall Trusted Digital Identity Framework (TDIF) and some of its components. The key components are: 1. The proposed development of mandatory standards, policies and agreements for all TDIF participants; 2. The proposed development of an Identity Exchange; and 3. The proposed development of a Commonwealth Identity Provider (IdP)</td>
+      <td>05&nbsp;December&nbsp;2016</td>
+      <td>Galexia</td>
+    </tr>
+  </tbody>
+</table>
