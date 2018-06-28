@@ -93,22 +93,24 @@ From 1 July 2018, the Australian Government Agencies Privacy Code require agenci
 
 A register of PIAs completed by the DTA can be found below.
 
-<table class="content-table responsive-table" summary="This table displays a list of Privacy Impact Assessments completed by the DTA. It shows the title, the summary, the date and the author.">
-  <caption>Register of Privacy Impact Assessments (PIAs)</caption>
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>Summary</th>
-      <th>Date</th>
-      <th>Author</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+<div class="horizontal-scroll-table-container">
+  <table class="content-table" summary="This table displays a list of Privacy Impact Assessments completed by the DTA. It shows the title, the summary, the date and the author.">
+    <caption>Register of Privacy Impact Assessments (PIAs)</caption>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Summary</th>
+        <th>Date</th>
+        <th>Author</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
       <td>Initial Privacy Impact Assessment (PIA) for the Trusted Digital Identity Framework (TDIF)&nbsp;Alpha</td>
-      <td>The purpose of this PIA is to assist in identifying and managing privacy issues that are raised by the broad concept and design of the overall Trusted Digital Identity Framework (TDIF) and some of its components. The key components are: 1. The proposed development of mandatory standards, policies and agreements for all TDIF participants; 2. The proposed development of an Identity Exchange; and 3. The proposed development of a Commonwealth Identity Provider (IdP)</td>
-      <td>05&nbsp;December&nbsp;2016</td>
-      <td>Galexia</td>
-    </tr>
-  </tbody>
-</table>
+        <td>The purpose of this PIA is to assist in identifying and managing privacy issues that are raised by the broad concept and design of the overall Trusted Digital Identity Framework (TDIF) and some of its components. The key components are: 1. The proposed development of mandatory standards, policies and agreements for all TDIF participants; 2. The proposed development of an Identity Exchange; and 3. The proposed development of a Commonwealth Identity Provider (IdP)</td>
+        <td>05&nbsp;December&nbsp;2016</td>
+        <td>Galexia</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
