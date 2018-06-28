@@ -1,6 +1,10 @@
 /**
 For tables which suit a CSS responsive table approach. Collapses the table below the tablet breakpoint.
  */
+
+ table tr td {
+   vertical-align: top;
+ }
 .responsive-table {
   @include media($mobile-only) {
     //Force table to not be like a table anymore
