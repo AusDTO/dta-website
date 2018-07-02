@@ -3,11 +3,15 @@ layout: basic
 title: Leadership
 permalink: /who-we-are/leadership/
 localnav: who-we-are
-searchexcerpt: "Gavin Slater was appointed as CEO of the Digital Transformation Agency of the Australian Government on 1 May 2017. Gavin has spent 30 years in the private sector working in the Financial Services sector. "
+searchexcerpt: "Randall Brugeaud was appointed Chief Executive Officer of the Digital Transformation Agency on 1 July 2018." 
 ---
 
-## Gavin Slater -- Chief Executive Officer
+## Randall Brugeaud -- Chief Executive Officer
 
-Gavin Slater was appointed as CEO of the Digital Transformation Agency of the Australian Government on 1 May 2017. Gavin has spent 30 years in the private sector working in the Financial Services sector. More recently he was a member, for a period of 7 years, of the Group Executive Team of National Australia Bank --- a top 5 ASX listed multinational company. During this time he was also a Director of the Bank of New Zealand for a period of 5 years.
+Before his appointment, Randall spent almost 30 years working in a range of public and private sector roles, with a focus on transformation.
 
-He has a proven track record in delivering large scale transformation in response to digital disruption and changing customer preferences.
+His public sector experience has spanned large, medium and small organisations and his private sector experience includes more than a decade working with the Boston Consulting Group and a private IT consulting firm, which he founded and operated.
+
+Most recently Randall was Deputy Australian Statistician and Chief Operating Officer at the Australian Bureau of Statistics and before that, Chief Information Officer at the former Department of Immigration and Border Protection.
+
+Randall holds a Master of Business Administration, a Graduate Diploma in Applied Computing and a Bachelor of Education degree. He is also a Senior Executive Fellow of the Harvard Kennedy School.

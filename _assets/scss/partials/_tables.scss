@@ -83,3 +83,19 @@ div.horizontal-scroll-table-container {
     }
   }
 }
+
+// 'Our people' table needs some extra styling.
+
+table.our-people {
+  tr.heading {
+    position:absolute;
+    left:-10000px;
+    top:auto;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+  }
+  h3 {
+    margin-top: 0;
+  }
+}
