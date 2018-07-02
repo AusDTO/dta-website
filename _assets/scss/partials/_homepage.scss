@@ -76,6 +76,9 @@
       @include media($tablet) {
         @include span-columns(6 of 12);
       }
+      .list-horizontal > li figure {
+        flex: 0 0 auto;
+      }
     }
 
     .social-media {
