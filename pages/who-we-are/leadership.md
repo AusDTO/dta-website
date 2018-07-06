@@ -1,12 +1,13 @@
 ---
 layout: basic
-title: Leadership
+title: About DTA CEO Randall Brugeaud
 permalink: /who-we-are/leadership/
 localnav: who-we-are
-searchexcerpt: "Randall Brugeaud was appointed Chief Executive Officer of the Digital Transformation Agency on 1 July 2018." 
+searchexcerpt: "Randall Brugeaud was appointed Chief Executive Officer of the Digital Transformation Agency on 1 July 2018."
+lede: "Randall Brugeaud was appointed Chief Executive Officer of the Digital Transformation Agency on 1 July 2018."
 ---
 
-## Randall Brugeaud -- Chief Executive Officer
+<img class="align-left" src="/images/leadership-group/Randall_100x100.png" />
 
 Before his appointment, Randall spent almost 30 years working in a range of public and private sector roles, with a focus on transformation.
 
