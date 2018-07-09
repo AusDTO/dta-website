@@ -50,11 +50,11 @@ jobs:
     - restore_cache:
         keys:
         # This branch if available
-        - v1-dep-{{ .Branch }}-
+        - v2-dep-{{ .Branch }}-
         # Default branch if not
-        - v1-dep-develop-
+        - v2-dep-develop-
         # Any branch if there are none on the default branch - this should be unnecessary if you have your default branch configured correctly
-        - v1-dep-
+        - v2-dep-
     # This is based on your 1.0 configuration file or project settings
     - run: bin/ciprepare.sh
     # Save dependency cache
