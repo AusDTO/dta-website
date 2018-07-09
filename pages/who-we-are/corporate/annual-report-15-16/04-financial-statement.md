@@ -33,9 +33,9 @@ page_group:
 
 [Read the full text version of the independent auditor's report](/who-we-are/corporate/annual-report-15-16/4-financial-statements/auditors-report/)
 
-![Auditor's Report Page 1. Use above link for the full text version.]({% asset_path DTO_Audit_Opinion %})
+{% asset DTO_Audit_Opinion alt="Auditor's Report Page 1. Use above link for the full text version." %}
 
-![Auditor's Report Page 2. Use above link for the full text version.]({% asset_path DTO_Audit_Opinion1 %})
+{% asset DTO_Audit_Opinion1 alt="Auditor's Report Page 2. Use above link for the full text version." %}
 
 {% include hx.html lvl=2 text="Statement by the Chief Executive Officer and Chief Financial Officer" %}
 
@@ -47,7 +47,7 @@ In our opinion, at the date of this statement, there are reasonable grounds to b
   <li><br>
   <figure markdown="1">
 
-![Paul Shettler's Signature]({% asset_path paul-signature %})
+{% asset paul-signature alt="Paul Shettler's Signature" %}
 
 </figure>
 <article markdown="1">
@@ -59,7 +59,7 @@ In our opinion, at the date of this statement, there are reasonable grounds to b
 <li>
 <figure markdown="1">
 
-![Lisa Leverton's Signature]({% asset_path Lisa_signature %})
+{% asset Lisa_signature alt="Lisa Leverton's Signature" %}
 
 </figure>
 <article markdown="1">  

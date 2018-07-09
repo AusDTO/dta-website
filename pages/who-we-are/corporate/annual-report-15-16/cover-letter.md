@@ -30,7 +30,7 @@ ISSN 2206-9887 (Online)
 
 With the exception of the Commonwealth Coat of Arms, all material presented in this document is provided under a Creative Commons Attribution 3.0 Australia licence.
 
-![Creative Commons Logo]({% asset_path cc-logo-big %})
+{% asset cc-logo-big alt="Creative Commons Logo"%}
 
 The details of the [relevant licence conditions](https://creativecommons.org/licenses/by/3.0/au) are available on the [Creative Commons website](https://creativecommons.org), as is the [full legal code](https://creativecommons.org/licenses/by/3.0/au/legalcode) for the licence.
 
@@ -44,4 +44,4 @@ Printing by New Millennium Print
 
 [Read the full text version of the letter of transmittal](/who-we-are/corporate/annual-report-15-16/cover-letter/letter-of-transmittal/).
 
-![Scanned letter of transmittal. Use above link for the full text version.]({% asset_path LOT_-_Word %})
+{% asset LOT_-_Word alt="Scanned letter of transmittal. Use above link for the full text version."%}

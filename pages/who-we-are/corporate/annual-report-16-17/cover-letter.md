@@ -29,7 +29,7 @@ page_group:
 <p>© Digital Transformation Agency 2017</p>
 <p>With the exception of the Commonwealth Coat of Arms and where otherwise noted, all material presented in this document is provided under a Creative Commons Attribution 3.0 Australia licence.</p>
 
-![Creative Commons Logo]({% asset_path cc-logo-big %})
+{% asset cc-logo-big alt="Creative Commons Logo" %}
 
 <p>The details of the relevant licence conditions are available on the <a href="http://creativecommons.org/licenses/by/3.0/au">Creative Commons website</a>, as is the <a href="http://creativecommons.org/licenses/by/3.0/au/legalcode">full legal code for the licence</a>.</p>
 <p>This document must be attributed as the Digital Transformation Agency Annual Report 2016–17.</p>
