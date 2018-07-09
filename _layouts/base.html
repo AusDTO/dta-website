@@ -29,12 +29,12 @@
     {% include footer.html %}
 
     <!--[if lt IE 9]>
-    <script type="text/javascript" src="{% asset_path main-ie8.js %}"></script>
+    {% asset main-ie8.js %}
     <![endif]-->
 
-    <script type="text/javascript" src="{% asset_path ui-kit.js %}"></script>
+    {% asset ui-kit.js %}
 
-    <script async type="text/javascript" src="{% asset_path main.js %}"></script>
+    {% asset main.js %}
 
     {% include linkedin-tag.html %}
 

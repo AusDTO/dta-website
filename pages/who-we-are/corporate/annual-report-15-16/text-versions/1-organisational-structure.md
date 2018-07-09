@@ -26,7 +26,7 @@ Underneath the Chief Executive Officer are the following:
 - Head of GOV.AU Radi Kovacevic (acting)
 
 <figure>
-  <img src="{% asset_path org-chart %}" alt="DTO organisation chart, see above for the full text description">
+  {% asset org-chart alt="DTO organisation chart, see above for the full text description" %}
   <figcaption><strong>Figure 1</strong> Structure at 30 June 2016</figcaption>
 </figure>
 

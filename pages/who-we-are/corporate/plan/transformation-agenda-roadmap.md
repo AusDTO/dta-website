@@ -8,7 +8,7 @@ exclude_from_search: true
 # Government Digital Transformation Roadmap
 
 <a name="image"></a>
-<img src="{% asset_path roadmap %}" alt="The Digital Transformation Roadmap Gantt chart">
+{% asset roadmap alt="The Digital Transformation Roadmap Gantt chart" %}
 
 [&larr; Back to corporate plan](/who-we-are/corporate/plan/#develop-a-digital-transformation-roadmap)
 
