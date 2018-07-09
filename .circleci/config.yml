@@ -9,13 +9,13 @@
 version: 2
 jobs:
   build:
-    working_directory: ~/repo
+    working_directory: ~/dta-website
     docker:
       - image: circleci/ruby:2.3.3
     # CircleCI 2.0 does not support environment variables that refer to each other the same way as 1.0 did.
     # If any of these refer to each other, rewrite them so that they don't or see https://circleci.com/docs/2.0/env-vars/#interpolating-environment-variables-to-set-other-environment-variables .
     environment:
-      BUNDLE_PATH: ~/repo/vendor/bundle
+      BUNDLE_PATH: ~/dta-website/vendor/bundle
       CIRCLE_ARTIFACTS: /tmp/circleci-artifacts
       CIRCLE_TEST_REPORTS: /tmp/circleci-test-results
     parallelism: 1
