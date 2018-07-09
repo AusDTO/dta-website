@@ -9,6 +9,8 @@ permalink: "/:categories/:title/"
 timezone: Australia/Canberra
 twitter: DTA
 tag_dir: /tags # for tags pages created by jekyll-archives
+sass:
+  add_charset: true
 
 # Because there is no way to instantiate an empty array, and we need to merge two filtered
 # collections together -- this is used on the News page layout and feed.xml.

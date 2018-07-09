@@ -42,8 +42,6 @@ Markup: templates/text-input-single-line.html
 Style guide: Forms.1 Text input
 */
 
-@charset "UTF-8";
-
 %base-input {
   width: 100%;
   outline-offset: 0;
@@ -344,7 +342,7 @@ Markup: templates/hint-text.html
 
 Only ask for the information you absolutely need. Don't mark mandatory fields with asterisks.
 
-If you have to ask for optional information mark the field labels with ‘(optional)’.
+If you have to ask for optional information mark the field labels with '(optional)'.
 
 Style guide: Forms.5 Accessibility
 */
