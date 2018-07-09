@@ -9,13 +9,13 @@
 version: 2
 jobs:
   build:
-    working_directory: ~/AusDTO/dta-website
+    working_directory: ~/repo
     docker:
-      - image: circleci/ruby:2.5
+      - image: circleci/ruby:2.3.3
     # CircleCI 2.0 does not support environment variables that refer to each other the same way as 1.0 did.
     # If any of these refer to each other, rewrite them so that they don't or see https://circleci.com/docs/2.0/env-vars/#interpolating-environment-variables-to-set-other-environment-variables .
     environment:
-      BUNDLE_PATH: ~/AusDTO/dta-website/vendor/bundle
+      BUNDLE_PATH: ~/repo/vendor/bundle
       CIRCLE_ARTIFACTS: /tmp/circleci-artifacts
       CIRCLE_TEST_REPORTS: /tmp/circleci-test-results
     parallelism: 1
@@ -42,8 +42,8 @@ jobs:
     - run: mkdir -p $CIRCLE_ARTIFACTS $CIRCLE_TEST_REPORTS
     # This is based on your 1.0 configuration file or project settings
     - run:
-        working_directory: ~/AusDTO/dta-website
-        command: rm -f AusDTO/dta-website/.rvmrc; echo 2.3.3 > AusDTO/dta-website/.ruby-version; rvm use 2.3.3 --default
+        working_directory: ~/repo
+        command: rm -f .rvmrc; echo 2.3.3 > .ruby-version; rvm use 2.3.3 --default
     # Dependencies
     #   This would typically go in either a build or a build-and-test job when using workflows
     # Restore the dependency cache
