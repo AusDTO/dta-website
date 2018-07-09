@@ -5,7 +5,7 @@ gem 'jekyll', '3.5.1'
 gem 'kramdown', '1.12.0'
 gem 'jekyll-assets', '3.0.9'
 gem 'nokogiri', '~>1.8.2'
-gem 'jekyll-redirect-from', '0.12.1'
+gem 'jekyll-redirect-from', '0.14.0'
 gem 'jekyll-sitemap', '1.1.1'
 gem 'jekyll-archives', '2.1.1'
 
