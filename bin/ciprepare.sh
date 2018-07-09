@@ -13,7 +13,7 @@ set -x
 source "$(dirname "$0")/buildrc"
 
 # install all the needed ruby gems
-gem install --conservative bundler
+gem install --conservative bundler -v 1.16.0
 bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
 
 # install the cloud foundry cli tool if required
