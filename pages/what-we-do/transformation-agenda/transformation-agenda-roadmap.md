@@ -8,7 +8,7 @@ searchexcerpt: The Government Digital Transformation Roadmap.
 # Government Digital Transformation Roadmap
 
 <a name="image"></a>
-<img src="{% asset_path roadmap %}" alt="The Digital Transformation Roadmap Gantt chart">
+{% asset roadmap alt="The Digital Transformation Roadmap Gantt chart" %}
 
 [< Back to digital transformation agenda](/what-we-do/transformation-agenda/#government-digital-transformation-roadmap)
 

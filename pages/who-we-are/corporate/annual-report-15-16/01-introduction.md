@@ -184,7 +184,7 @@ The structure of the agency at 30 June 2016 is shown in Figure 1.
 [Read the full text version of Figure 1 the DTO organisational structure](/who-we-are/corporate/annual-report-15-16/1-introduction/organisational-structure/).
 
 <figure>
-  <img src="{% asset_path org-chart %}" alt="Figure 1 DTO organisational chart, see above for link to full text description">
+  {% asset org-chart alt="Figure 1 DTO organisational chart, see above for link to full text description" %}
   <figcaption><strong>Figure 1</strong> Structure at 30 June 2016</figcaption>
 </figure>
 
@@ -193,7 +193,7 @@ The structure of the agency at 30 June 2016 is shown in Figure 1.
 <ul class="list-vertical">
   <li>
     <figure markdown="1">
-![Paul Shettler]({% asset_path DTO-Paul-130916-67 %})
+{% asset DTO-Paul-130916-67 alt="Paul Shettler" %}
 
 </figure>
 <article markdown="1">
@@ -213,7 +213,7 @@ Before Paul took up his appointment, David Hazlehurst acted as the Interim CEO o
 <li>
 <figure markdown="1">
 
-![Dan Searle]({% asset_path Dan-Searle-1-edit %})
+{% asset Dan-Searle-1-edit alt="Dan Searle" %}
 
 </figure>
 <article markdown="1">
@@ -229,7 +229,7 @@ Daniel holds an Executive MBA from Cass Business School. His previous roles incl
 </li>
 <li>
 <figure markdown="1">
-![Deborah Lewis]({% asset_path DTO-Staff-Deb-2-edit %})
+{% asset DTO-Staff-Deb-2-edit alt="Deborah Lewis" %}
 
 </figure>
 <article markdown="1">
@@ -247,7 +247,7 @@ Deborah has a strong public sector background, having led divisions with hundred
 <li>
 <figure markdown="1">
 
-![Dan Pulham]({% asset_path DTO090916-3 %})
+{% asset DTO090916-3 alt="Dan Pulham" %}
 
 </figure>
 <article markdown="1">
@@ -264,7 +264,7 @@ During his time at Telstra Digital, Dan led a transformation program to rebuild 
 <li>
 <figure markdown="1">
 
-![Jose Del Rio]({% asset_path DTO-Jose-130916-29 %})
+{% asset DTO-Jose-130916-29 alt="Jose Del Rio" %}
 
 </figure>
 <article markdown="1">
@@ -280,7 +280,7 @@ Jose started the taskforce that led to the creation of the DTO. He has held a nu
 <li>
 <figure markdown="1">
 
-![Rachel Dixon]({% asset_path DTO-Rachel-130916-25 %})
+{% asset DTO-Rachel-130916-25 alt="Rachel Dixon" %}
 
 </figure>
 <article markdown="1">
@@ -298,7 +298,7 @@ Rachel has held executive positions at Suncorp, Viocorp, thePlatform for Media, 
 <li>
 <figure markdown="1">
 
-![Maria MacNamara]({% asset_path DTO-Maria-130916-56-mod-v2 %})
+{% asset DTO-Maria-130916-56-mod-v2 alt="Maria MacNamara" %}
 
 </figure>
 <article markdown="1">
@@ -313,7 +313,7 @@ Prior to joining the DTO, Maria was responsible for marketing and business devel
 <li>
 <figure markdown="1">
 
-![Catherine Thomson]({% asset_path DTO130916-8 %})
+{% asset DTO130916-8 alt="Catherine Thomson" %}
 
 </figure>
 <article markdown="1">
@@ -331,7 +331,7 @@ Most recently Head of Delivery for pioneering virtual reality start-up Zero Late
 <li>
 <figure markdown="1">
 
-![Radi Kovacevic]({% asset_path DTO-Radi %})
+{% asset DTO-Radi alt="Radi Kovacevic" %}
 
 </figure>
 <article markdown="1">

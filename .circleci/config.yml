@@ -1,0 +1,61 @@
+version: 2
+jobs:
+  build:
+    working_directory: ~/dta-website
+    docker:
+      - image: circleci/ruby:2.3.3
+    environment:
+      BUNDLE_PATH: ~/dta-website/vendor/bundle
+      CIRCLE_ARTIFACTS: /tmp/circleci-artifacts
+      CIRCLE_TEST_REPORTS: /tmp/circleci-test-results
+    parallelism: 1
+    shell: /bin/bash --login
+    steps:
+    # Machine Setup
+    - checkout
+    - setup_remote_docker:
+        docker_layer_caching: true
+    # Prepare for artifact and test results collection
+    - run: mkdir -p $CIRCLE_ARTIFACTS $CIRCLE_TEST_REPORTS
+    # Dependencies
+    # Restore the dependency cache
+    - restore_cache:
+        keys:
+        # This branch if available
+        - v2-dep-{{ .Branch }}-
+        # Default branch if not
+        - v2-dep-develop-
+        # Any branch if there are none on the default branch - this should be unnecessary if you have your default branch configured correctly
+        - v2-dep-
+    # Set up the system for deployment.
+    - run: bin/ciprepare.sh
+    # Save dependency cache
+    - save_cache:
+        key: v1-dep-{{ .Branch }}-{{ epoch }}
+        paths:
+        - vendor/bundle
+        - ~/virtualenvs
+        - ~/.m2
+        - ~/.ivy2
+        - ~/.bundle
+        - ~/.go_workspace
+        - ~/.gradle
+        - ~/.cache/bower
+    # Build out the site.
+    - run: bin/cibuild.sh
+    # Run the tests.
+    - run: bin/citest.sh
+    # Deployment
+    # Only the develop and master branches will deploy.
+    - run: bin/cideploy.sh
+    # Teardown
+    # Save test results
+    - store_test_results:
+        path: /tmp/circleci-test-results
+    # Save artifacts
+    - store_artifacts:
+        path: /tmp/circleci-artifacts
+    - store_artifacts:
+        path: _site
+    - store_artifacts:
+        path: /tmp/circleci-test-results
