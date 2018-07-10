@@ -76,7 +76,7 @@ Spacing
 
 The framework sets spacing variables in ems relative to the base font's leading. This ensures horizontal and vertical rhythm through pages.
 
-<p class="callout">Spacing will change in relation to the font size of the elements that use them. So don’t apply a <code>font-size</code> to a container element (eg a <code>footer</code>).</p>
+<p class="callout">Spacing will change in relation to the font size of the elements that use them. So don't apply a <code>font-size</code> to a container element (eg a <code>footer</code>).</p>
 
 The base font's leading (`line-height`) is set using the variable `$base-leading` (`$base-leading: 1.6`).
 
@@ -841,7 +841,7 @@ blockquote {
 
 q {
   // Investigate: switching to html entities?
-  quotes: '“' '”' '‘' '’' '“' '”' '‘' '’';
+  quotes: '&ldquo;' '&rdquo;' '&lsquo;' '&rsquo;' '&ldquo;' '&rdquo;' '&lsquo;' '&rsquo;';
 }
 
 cite {
