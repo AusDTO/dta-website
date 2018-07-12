@@ -16,6 +16,6 @@ A coordinated approach to digital sourcing will make it easier for agencies to b
 
 [Read the guidance](https://beta.dta.gov.au/help-and-advice/ict-procurement/tools-sourcing-digital-products-and-services/ict-panels-and-arrangements/buying-ibm-products-and-services) we have developed for agencies.
 
-<!-- Read the media release on the new agreement. -->
+Read the [media release](https://ministers.pmc.gov.au/keenan/2018/big-benefits-government-new-ibm-deal) on the new agreement.
 
 Agencies with questions about the new arrangement can email [ICTprocurement@dta.gov.au](mailto:ICTprocurement@dta.gov.au) for more information.
