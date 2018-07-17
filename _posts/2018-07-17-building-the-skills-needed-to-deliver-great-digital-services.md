@@ -13,8 +13,6 @@ searchexcerpt: Digital transformation is about people — the people who use the
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="People around a meeting room table look at screens containing blocks of information."/><br />
 </figure>
 
-Digital transformation is about people — the people who use the services we provide, the specialists who build and improve them, the managers that encourage and shape that work, and the executive and support functions who enable them to deliver.
-
 There are many people in government who are passionate about improving services, making people’s lives better, thinking and operating differently and putting people first.  
 
 But these skilled digital professionals are still facing many obstacles and we’ve been talking to them to understand what they need to make change happen.
@@ -45,7 +43,7 @@ No matter what stage people are at in their career, these will support organisat
 
 They include the following:
 
-1. [a digital leadership program](https://www.apsc.gov.au/leading-digital-transformation-0) for senior decision makers. This has been developed and tested with a group of senior executives from 20 organisations. Dates for 2018–19 will be released late this month.
+1. [a digital leadership program](https://www.apsc.gov.au/leading-digital-transformation-0) for senior decision makers. This has been developed and tested with a group of senior executives from 20 organisations. Dates for 2018–19 will be released in the near future.
 
 2. learning modules describing the digital skills and capabilities we need to train up our people. Developed with 50 specialists, 11 draft [learning design standards](https://www.apsc.gov.au/learning-standards) have been out for comment. The first 4 will be released this month with the others going live within the next couple of months.
 
