@@ -13,8 +13,6 @@ searchexcerpt: Digital transformation is about people — the people who use the
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="People around a meeting room table look at screens containing blocks of information."/><br />
 </figure>
 
-Digital transformation is about people — the people who use the services we provide, the specialists who build and improve them, the managers that encourage and shape that work, and the executive and support functions who enable them to deliver.
-
 There are many people in government who are passionate about improving services, making people’s lives better, thinking and operating differently and putting people first.  
 
 But these skilled digital professionals are still facing many obstacles and we’ve been talking to them to understand what they need to make change happen.
