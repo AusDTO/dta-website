@@ -45,7 +45,7 @@ No matter what stage people are at in their career, these will support organisat
 
 They include the following:
 
-1. [a digital leadership program](https://www.apsc.gov.au/leading-digital-transformation-0) for senior decision makers. This has been developed and tested with a group of senior executives from 20 organisations. Dates for 2018–19 will be released late this month.
+1. [a digital leadership program](https://www.apsc.gov.au/leading-digital-transformation-0) for senior decision makers. This has been developed and tested with a group of senior executives from 20 organisations. Dates for 2018–19 will be released in the near future.
 
 2. learning modules describing the digital skills and capabilities we need to train up our people. Developed with 50 specialists, 11 draft [learning design standards](https://www.apsc.gov.au/learning-standards) have been out for comment. The first 4 will be released this month with the others going live within the next couple of months.
 
