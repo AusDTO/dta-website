@@ -15,12 +15,12 @@ lede: The DTA is committed to improving gender diversity in senior IT roles with
       </a>
     </li>
     <li>
-      <a href="#Executive mentoring program (EL2)">
+      <a href="#Executive-mentoring-program">
         Executive mentoring program (EL2)
       </a>
     </li>
     <li>
-      <a href="#Coaching program (EL1)">
+      <a href="#Coaching-program">
         Coaching program (EL1)
       </a>
     </li>
@@ -42,7 +42,7 @@ lede: The DTA is committed to improving gender diversity in senior IT roles with
 
 <p>The program is made up of a number of different streams for women (and those who identify as female) at different stages in their careers.</p>
 
-<h2 id="Executive mentoring program (EL2)">Executive mentoring program (EL2)</h2>
+<h2 id="Executive-mentoring-program">Executive mentoring program (EL2)</h2>
 <p>The Women in IT executive mentoring program is for talented EL2 women who are looking to progress their career within IT.</p>
 
 <p>In this program mentees are matched with a mentor from another department or agency for 12 months. The mentor is typically a Chief Information Officer (CIO).</p>
@@ -64,7 +64,7 @@ lede: The DTA is committed to improving gender diversity in senior IT roles with
 
 <p>The program will take place in Canberra. Mentors and mentees from interstate are welcome to take part.</p>
 
-<h2 id="Coaching program (EL1)">Coaching program (EL1)</h2>
+<h2 id="Coaching-program">Coaching program (EL1)</h2>
 <p>The Women in IT coaching program is for talented Executive Level 1 (EL1) women who want to gain leadership skills in their field.</p>
 <p>This 12-month program provides high-quality executive coaching in small groups.</p>
 <p>The program includes:</p>
