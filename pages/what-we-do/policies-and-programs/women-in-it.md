@@ -86,7 +86,7 @@ lede: The DTA is committed to improving gender diversity in senior IT roles with
 <h4>Nominations and cost</h4>
 <p>Nominations for the next intake for this program will open in October 2018.</p>
 <p>Cost: $5000 to $6600 per participant (including GST but excluding travel). The cost will depend on the final number of participants and their location.</p>
-<p>he program will take place in Canberra as well as in other cities (Sydney, Melbourne, Adelaide or Brisbane) depending on interest. Sessions outside Canberra will only run if there are 8 or more participants in that location.</p>
+<p>The program will take place in Canberra as well as in other cities (Sydney, Melbourne, Adelaide or Brisbane) depending on interest. Sessions outside Canberra will only run if there are 8 or more participants in that location.</p>
 <p>Please note that participants outside Canberra may need to attend a small number of events in Canberra. Agencies would need to provide funding for this travel.</p>
 <h3>APS 5&ndash;6 career development</h3>
 <p>We are currently exploring options for a new program for APS 5 and 6 women. This program will support women working in technical IT roles to transition into management.</p>
