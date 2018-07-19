@@ -15,8 +15,13 @@ lede: The DTA is committed to improving gender diversity in senior IT roles with
       </a>
     </li>
     <li>
-      <a href="#Nominations">
-        Nominations
+      <a href="#Executive-mentoring-program">
+        Executive mentoring program (EL2)
+      </a>
+    </li>
+    <li>
+      <a href="#Coaching-program">
+        Coaching program (EL1)
       </a>
     </li>
     <li>
@@ -37,59 +42,54 @@ lede: The DTA is committed to improving gender diversity in senior IT roles with
 
 <p>The program is made up of a number of different streams for women (and those who identify as female) at different stages in their careers.</p>
 
-<h3>Executive mentoring program</h3>
+<h2 id="Executive-mentoring-program">Executive mentoring program (EL2)</h2>
+
 <p>The Women in IT executive mentoring program is for talented EL2 women who are looking to progress their career within IT.</p>
 
-<p>In this program, mentees are matched with a mentor (typically a CIO) from another department or agency for 12 months. The program involves:</p>
+<p>In this program mentees are matched with a mentor from another department or agency for 12 months. The mentor is typically a Chief Information Officer (CIO).</p>
+
+<p>The program involves:</p>
 <ul>
 <li>face-to-face mentoring</li>
 <li>inter-departmental learning</li>
 <li>facilitated group sessions</li>
-<li>networking</li>
+<li>cross-government networking</li>
 </ul>
-<p>Agencies and departments are asked to nominate a mentor (typically a CIO) and an EL2 mentee.</p>
-<p>The program begins in April/May each year and runs for 12 months. More information will be provided on this program early 2018.</p>
+<p>Agencies and departments are asked to nominate a mentor. Once mentor nominations conclude, we will seek mentee nominations from each participating organisation.</p>
+<h4>Nominations and cost</h4>
+<p>Nominations for this program are open from 17 July to 9 August 2018.</p>
 
-<h3>EL1 coaching program</h3>
-<p>The Women in IT coaching program is for talented EL1 women who are looking to gain leadership skills within their field.</p>
-<p>This 12 month program provides high quality executive coaching in small groups to help women develop and nurture their leadership skills. It includes:</p>
+<p>At this stage, we’re only seeking nominations for mentors. CIOs can nominate themselves or HR managers can nominate CIOs by emailing <a href="mailto:womeninIT@digital.gov.au?Subject=Women%20in%20IT" target="_top">womeninIT@digital.gov.au</a>.</p>
+
+<p>The program costs $2750 per mentee (including GST but excluding travel). There is no charge for a mentor’s involvement.</p>
+
+<p>The program will take place in Canberra. Mentors and mentees from interstate are welcome to take part.</p>
+
+<h2 id="Coaching-program">Coaching program (EL1)</h2>
+<p>The Women in IT coaching program is for talented Executive Level 1 (EL1) women who want to gain leadership skills in their field.</p>
+<p>This 12-month program provides high-quality executive coaching in small groups.</p>
+<p>The program includes:</p>
 <ul>
 <li>10 facilitated training sessions (3 hours each)</li>
 <li>small group coaching</li>
-<li>CIO, SES and EL2 guest speakers</li>
+<li>CIO, Senior Executive Service (SES) and EL2 guest speakers</li>
 <li>networking opportunities</li>
 </ul>
 <p>The course covers the following leadership skills and topics:</p>
-<ol>
+<ul>
 <li>Who am I as a leader?</li>
 <li>Where am I going?</li>
 <li>How will I get there?</li>
-</ol>
-<p>You can <a href="/files/DTA_women-in-IT-coaching-course-outline.pdf" download>download the course outline</a> for more information.</p>
-<p>CIOs or agencies will be asked to nominate talented EL1 women from their department or agency to participate in this program.</p>
-<p>Nominations for this program are now closed.</p>
-<p>Cost: $5,000.00‑$6,600.00 (GST inclusive) per participant excluding travel. The costs will depend on the final number of participants, and their location.</p>
-<p>The program will be delivered in Canberra as well as in other cities (Sydney, Melbourne, Adelaide or Brisbane) depending on interest. Sessions outside of Canberra will only be run if there are 8 or more participants in that location. Please note that participants outside of Canberra may be required to attend a small number of events in Canberra. Funding for this travel would need to be provided by the agency.</p>
+</ul>
+<p>You can read more about the <a href="https://beta.dta.gov.au/node/493">coaching program format and content</a>.</p>
+<p>CIOs or agencies will be asked to nominate talented EL1 women from their department or agency to take part in this program.</p>
+<h4>Nominations and cost</h4>
+<p>Nominations for the next intake for this program will open in October 2018.</p>
+<p>Cost: $5000 to $6600 per participant (including GST but excluding travel). The cost will depend on the final number of participants and their location.</p>
+<p>The program will take place in Canberra as well as in other cities (Sydney, Melbourne, Adelaide or Brisbane) depending on interest. Sessions outside Canberra will only run if there are 8 or more participants in that location.</p>
+<p>Please note that participants outside Canberra may need to attend a small number of events in Canberra. Agencies would need to provide funding for this travel.</p>
 <h3>APS 5&ndash;6 career development</h3>
 <p>We are currently exploring options for a new program for APS 5 and 6 women. This program will support women working in technical IT roles to transition into management.</p>
-
-<h2 id="Nominations">Nominations</h2>
-<h3>As an agency or department</h3>
-<p>To nominate a staff member for any of the Women in IT programs, email through the participant&rsquo;s details to <a href="mailto:womeninIT@digital.gov.au?Subject=Women%20in%20IT" target="_top">womeninIT@digital.gov.au</a> &mdash; during the nomination period.</p>
-<p>Please include the name of the program and the following participant details:</p>
-<ul>
-<li>name</li>
-<li>job title</li>
-<li>email address</li>
-<li>phone number</li>
-<li>location</li>
-</ul>
-<p>Nominees will be sent a booking form to be completed by their line manager. Participation in the course is only confirmed once the booking form has been received by the DTA.</p>
-
-<h3>As an APS staff member</h3>
-<p>If you would like to participate in one of the Women in IT programs, please contact your CIO or HR team. Your agency or department will need to submit the nomination on your behalf.</p>
-<p>Once we have received your nomination (from your organisation) we will send you a booking form. This form should be completed by your line manager and returned as soon as possible. Your participation is only confirmed after we have received your booking form.</p>
-<p>If you have any questions about the process you can contact <a href="mailto:womeninIT@digital.gov.au?Subject=Women%20in%20IT" target="_top">womeninIT@digital.gov.au</a></p>
 
 <h2 id="History-and-funding">History and funding</h2>
 <p>The Women in IT programs were founded by Dell Australia and New Zealand in 2005 and were launched for government in 2007 &mdash; in collaboration with the Department of Finance.</p>
