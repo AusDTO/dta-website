@@ -59,7 +59,7 @@ lede: The DTA is committed to improving gender diversity in senior IT roles with
 <h4>Nominations and cost</h4>
 <p>Nominations for this program are open from 17 July to 9 August 2018.</p>
 
-<p>At this stage, we’re only seeking nominations for mentors. CIOs can nominate themselves or HR managers can nominate CIOs by emailing <a href=mailto:"womeninIT@digital.gov.au">womeninIT@digital.gov.au</a>.</p>
+<p>At this stage, we’re only seeking nominations for mentors. CIOs can nominate themselves or HR managers can nominate CIOs by emailing <a href="mailto:womeninIT@digital.gov.au?Subject=Women%20in%20IT" target="_top">womeninIT@digital.gov.au</a>.</p>
 
 <p>The program costs $2750 per mentee (including GST but excluding travel). There is no charge for a mentor’s involvement.</p>
 
