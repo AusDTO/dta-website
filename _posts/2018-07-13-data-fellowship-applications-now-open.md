@@ -14,7 +14,7 @@ We select high-performing people to step outside their day jobs and create proto
 
 ## Who is it for?
 
-Only employees of Australian Government agencies can apply for data fellowships.
+Only Australian Public Service employees within Commonwealth entities can apply for this round of data fellowships.
 
 They should be interested in building data skills within their agency and be happy to share their knowledge and expertise with colleagues.
 
