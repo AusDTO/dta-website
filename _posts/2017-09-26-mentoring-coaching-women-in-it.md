@@ -33,11 +33,5 @@ I love working in IT and I love working at the DTA. It is great to be able to su
 For all the young (or not so young) women thinking about working in IT &mdash; I say do it. It is an extremely rewarding career.
 
 For women already working in IT in the APS &mdash; it’s time to take charge of your career. Take every opportunity you get. Tap into everything that you can to help you grow in your career. The Women in IT program is a huge advantage and can help you take that next step.
-<h2>Nominations open for Women in IT coaching program</h2>
-Nominations are now open for the <a href="https://www.dta.gov.au/what-we-do/policies-and-programs/women-in-it/">Women in IT EL1 coaching program</a>. This program aims to support talented EL1 women, working in IT, to develop leadership skills and progress their career in the APS.
-
-Nominations close Monday 2 October, 2017.
-
-Nominations for the Women in IT executive mentoring program will be open in early 2018.
 
 If you have any questions about the programs, please send them to <a href="mailto:womeninIT@digital.gov.au">womeninIT@digital.gov.au</a>
