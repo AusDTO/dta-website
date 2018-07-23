@@ -2,6 +2,8 @@
 layout: basic
 title: "Secure cloud"
 permalink: /what-we-do/policies-and-programs/secure-cloud/
+redirect_from:
+- /secure-cloud/
 localnav: what-we-do
 searchexcerpt: "Using cloud technology can reduce costs, lift productivity and deliver better services."
 lede: "Using cloud technology can reduce costs, lift productivity and deliver better services. We want to make it easier for government to invest in cloud technologies."
