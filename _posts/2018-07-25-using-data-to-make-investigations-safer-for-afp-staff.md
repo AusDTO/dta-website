@@ -13,6 +13,8 @@ searchexcerpt: Investigating crimes that have electronic evidence means looking 
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="Diagram showing the image classification process."/><br />
 </figure>
 
+Image concept courtesy of [Venkatesh Tata](https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8).
+
 For the investigators of the Australian Federal Police (AFP) this can mean looking at thousands of photographs so that the content can be identified and categorised. This includes child exploitation and extremist materials.
 
 It’s difficult work and can take a serious toll on AFP staff.
