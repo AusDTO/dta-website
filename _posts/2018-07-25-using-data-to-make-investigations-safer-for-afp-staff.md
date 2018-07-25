@@ -4,8 +4,8 @@ category: [blog]
 tag: 'digital transformation'
 author: Janis Dalins
 author-excerpt: "Federal Agent Janis Dalins is a Senior Digital Forensic Examiner at the Australian Federal Police."
-thumbnail: /images/blog-thumbnails/afp-guest-blog_thumb.jpg
-hero-image: /images/blog-banners/afp-guest-blog_hero.jpg
+thumbnail: /images/blog-thumbnails/afp-guest-blog_thumb.png
+hero-image: /images/blog-banners/afp-guest-blog_hero.png
 searchexcerpt: Investigating crimes that have electronic evidence means looking through lots of data, including images.
 
 ---
