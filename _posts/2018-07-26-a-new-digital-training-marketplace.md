@@ -10,7 +10,7 @@ The new Digital Training Marketplace will make it easier for agencies to find th
 
 The Digital Training Marketplace is supported by new Learning Design Standards that have been developed with the Australian Public Service Commission and experts across government. These will help agencies and training providers ensure training is engaging and high quality.
 
-The following standards are now available:
+The following [standards](https://govau.github.io/learning-design-standards/) are now available:
 
 - agile delivery
 - content design
