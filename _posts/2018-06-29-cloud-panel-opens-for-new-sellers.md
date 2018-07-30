@@ -8,7 +8,7 @@ lede: The Australian Government’s Cloud Services Panel is opening for sellers 
 
 ---
 
-The [refresh of the panel](https://www.tenders.gov.au/?event%3Dpublic.atm.show%26ATMUUID%3DE454A1A0-EFAE-ABBF-110721A8F49C868B&sa=D&ust=1530256812247000&usg=AFQjCNFDO53DU-3tMPZD_ONN5ctyGIwUOg) gives new suppliers the chance to join. It also means we have the opportunity to expand the scope of the panel to meet the needs of government agencies and new offerings from industry.
+The [refresh of the panel](https://www.tenders.gov.au/?event=public.atm.show&ATMUUID=E454A1A0-EFAE-ABBF-110721A8F49C868B) gives new suppliers the chance to join. It also means we have the opportunity to expand the scope of the panel to meet the needs of government agencies and new offerings from industry.
 
 ## What is the Cloud Service Panel?
 
@@ -26,4 +26,4 @@ Government can access the Cloud Services Panel through the DTA’s procurement p
 
 This is the third time the panel has opened for new sellers. From 2019 the panel will open every three months, using online submissions and agile evaluation methods to make joining the panel simpler and faster.
 
-The Cloud Services Panel will be open for submissions from 29 June to 30 July.
+The Cloud Services Panel will be open for submissions from 29 June to 13 August 2018.
