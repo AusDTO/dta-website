@@ -27,74 +27,83 @@ The two tables below show the total cash remuneration for senior executives and 
       <tr>
         <td>$200,001 to $225,000</td>
         <td>2</td>
-        <td>$52,246</td>
-        <td>$9,023</td>
-        <td>$11,747</td>
+        <td>$169,269</td>
+        <td>$23,432.55</td>
         <td>$0</td>
-        <td>$73,016</td>
+        <td>$0</td>
+        <td>$192,701.55</td>
       </tr>
       <tr>
         <td>$225,001 to $250,000</td>
-        <td>2</td>
-        <td>$44,833</td>
-        <td>$3,948</td>
-        <td>$6,517</td>
+        <td>6</td>
+        <td>$146,718.17</td>
+        <td>$27,839.90</td>
+        <td>$16,380</td>
         <td>$0</td>
-        <td>$55,298</td>
+        <td>$190,938.07</td>
       </tr>
       <tr>
         <td>$250,001 to $275,000</td>
-        <td>7</td>
-        <td>$170,988</td>
-        <td>$24,270</td>
+        <td>3</td>
+        <td>$72,607.33</td>
+        <td>$9,764.06</td>
         <td>$0</td>
         <td>$0</td>
-        <td>$195,258</td>
+        <td>$82,371.39</td>
       </tr>
       <tr>
         <td>$275,001 to $300,000</td>
         <td>1</td>
-        <td>$45,650</td>
-        <td>$7,327</td>
+        <td>$85,718</td>
+        <td>$17,353.85</td>
         <td>$0</td>
         <td>$0</td>
-        <td>$52,977</td>
+        <td>$103,071.85</td>
       </tr>
       <tr>
-        <td>$325,001 to $350,000</td>
+        <td>$300,001 to $325,000</td>
         <td>1</td>
-        <td>$218,575</td>
-        <td>$43,276</td>
+        <td>$197,067</td>
+        <td>$31,102.74</td>
         <td>$0</td>
         <td>$0</td>
-        <td>$261,851</td>
+        <td>$228,169.74</td>
       </tr>
       <tr>
-        <td>$350,001 to $400,00</td>
-        <td>1</td>
-        <td>$332,024</td>
-        <td>$50,790</td>
+        <td>$325,001 to $350,00</td>
+        <td>2</td>
+        <td>$151,707.50</td>
+        <td>$28,355.00</td>
         <td>$0</td>
         <td>$0</td>
-        <td>$382,814</td>
+        <td>$180,062.50</td>
       </tr>
       <tr>
         <td>$450,001 to $500,000</td>
-        <td>2</td>
-        <td>$282,294</td>
-        <td>$32,704</td>
-        <td>$14,170</td>
+        <td>1</td>
+        <td>$152,533</td>
+        <td>$25,413.65</td>
         <td>$0</td>
-        <td>$329,168</td>
+        <td>$0</td>
+        <td>$177,946.65</td>
       </tr>
       <tr>
-        <td>$650,001 to $700,000</td>
+        <td>$525,001 to $600,000</td>
         <td>1</td>
-        <td>$103,796</td>
-        <td>$5,669</td>
-        <td>$5,687</td>
+        <td>$65,089</td>
+        <td>$9,265.88</td>
         <td>$0</td>
-        <td>$115,152</td>
+        <td>$0</td>
+        <td>$74,354.88</td>
+      </tr>
+      <tr>
+        <td>$625,001 to $650,000</td>
+        <td>1</td>
+        <td>$637,932</td>
+        <td>$20,048.86</td>
+        <td>$34,389.68</td>
+        <td>$0</td>
+        <td>$692,370.54</td>
       </tr>
     </tbody>
     <tfoot>
@@ -140,12 +149,12 @@ The two tables below show the total cash remuneration for senior executives and 
     <tbody>
       <tr>
         <td>$200,001 to $225,000</td>
-        <td>1</td>
-        <td>$156,497</td>
-        <td>$29,516</td>
-        <td>$24,920</td>
+        <td>5</td>
+        <td>$219,010.74</td>
+        <td>$26,943.46</td>
         <td>$0</td>
-        <td>$210,933</td>
+        <td>$0</td>
+        <td>$245,954.20</td>
       </tr>
     </tbody>
     <tfoot>
