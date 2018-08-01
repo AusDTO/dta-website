@@ -6,7 +6,7 @@ author: Marita Baier-Gorman and Stephen Cannings
 author-excerpt: "Marita is the Community Engagement Lead and Stephen is the Content Writer for the DTA’s Digital Product and Services Team."
 thumbnail: /images/blog-thumbnails/Flash-blog_thumb.png
 hero-image: /images/blog-banners/Flash-blog_hero.png
-searchexcerpt: Adobe announces this week that Flash layer will be phased out by 2020.
+searchexcerpt: Adobe announces this week that Flash player will be phased out by 2020.
 
 ---
 <figure>
@@ -15,7 +15,7 @@ searchexcerpt: Adobe announces this week that Flash layer will be phased out by 
 
 Another browser plugin bites the dust. The once commonplace Adobe Flash Player will be phased out by 2020. [Adobe's announcement](https://theblog.adobe.com/adobe-flash-update/) marks the end of an era for the plugin that played a significant role in bringing video, gaming and animation to the web.
 
-While not a surprise for those familiar with HTML5 and open standards, the announcement does give adequate notice to the many educational, gaming and government websites that currently, or until recently, used Flash. For example the [ABC recently updated from Flash to HTML5 this year](https://iviewsupport.abc.net.au/article/103-iview-update) from ABC iView, in response to user feedback.
+While not a surprise for those familiar with HTML5 and open standards, the announcement does give adequate notice to the many educational, gaming and government websites that currently, or until recently, used Flash. For example the [ABC recently updated from Flash to HTML5 this year](https://iviewsupport.abc.net.au/article/103-iview-update) for ABC iView, in response to user feedback.
 
 So how has the web reacted to this announcement?
 
