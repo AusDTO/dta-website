@@ -3,7 +3,7 @@ title: "Gone in a (2 year) Flash"
 category: [blog]
 tag: 'digital transformation'
 author: Marita Baier-Gorman and Stephen Cannings
-author-excerpt: "Marita is the Community Engagement Lead and Stephen is the Content Writer for the DTA’s Digital Product and Services Team."
+author-excerpt: "Marita is the Community Engagement Lead and Stephen is the Content Designer for the DTA’s Digital Product and Services Team."
 thumbnail: /images/blog-thumbnails/Flash-blog_thumb.png
 hero-image: /images/blog-banners/Flash-blog_hero.png
 searchexcerpt: Adobe announces this week that Flash player will be phased out by 2020.
