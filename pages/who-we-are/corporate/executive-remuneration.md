@@ -79,7 +79,7 @@ The two tables below show the total cash remuneration for senior executives and 
         <td>$180,062.50</td>
       </tr>
       <tr>
-        <td>$450,001 to $500,000</td>
+        <td>$450,001 to $475,000</td>
         <td>1</td>
         <td>$152,533</td>
         <td>$25,413.65</td>
@@ -88,7 +88,7 @@ The two tables below show the total cash remuneration for senior executives and 
         <td>$177,946.65</td>
       </tr>
       <tr>
-        <td>$525,001 to $600,000</td>
+        <td>$525,001 to $550,000</td>
         <td>1</td>
         <td>$65,089</td>
         <td>$9,265.88</td>
