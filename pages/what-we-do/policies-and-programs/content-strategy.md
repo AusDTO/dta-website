@@ -16,10 +16,8 @@ The DTA has come together with 40  government agencies to co-create this guidanc
 
 This builds on work across government to improve information and services for users. It is part of DTA’s vision to make it easier to interact with government.
 
+The [content strategy guidance](https://guides.service.gov.au/content-strategy/) is available for your use.
+
 ![Content strategy team member presenting to monthly working group.]({{ site.url }}{{ site.baseurl }}{{ page.hero-image }})
 
 *Caption: Our working group forum involves representatives from all levels of government.*
-
-### Now available
-
-The content strategy guidance is being delivered in phases, using agile delivery methods. Many modules (beta) are [already available](https://guides.service.gov.au/content-strategy/). More guidance will be released soon.
