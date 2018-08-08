@@ -1,7 +1,8 @@
 ---
 title: DTA organisation structure
-layout: base
+layout: basic
 permalink: /who-we-are/organisation-structure/
+localnav: who-we-are
 searchexcerpt: "Organisation structure of the Digital Transformation Agency at 9 August 2018."
 ---
 
