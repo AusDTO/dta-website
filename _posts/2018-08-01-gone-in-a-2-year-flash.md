@@ -1,5 +1,5 @@
 ---
-title: "Gone in a (2 year) Flash"
+title: "Adobe retiring Flash in 2020"
 category: [blog]
 tag: 'digital transformation'
 author: Marita Baier-Gorman and Stephen Cannings
