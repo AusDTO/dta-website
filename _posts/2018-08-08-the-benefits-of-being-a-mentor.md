@@ -13,7 +13,7 @@ searchexcerpt: The Women in IT executive mentoring (WITEM) program supports exec
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="Randall talking to a mentee in an office."/><br />
 </figure>
 
-I've been involved in formal and informal mentoring over many years. I mentor both women and men, but [WITEM](https://beta.dta.gov.au/help-and-advice/learning-and-development/women-it-coaching-and-mentoring) is designed specifically for Women in IT. Inclusion and equal opportunity are very important to me and I’ve been involved in a range of disability and reconciliation programs as well. These include the establishment of the Dandelion program at the Department of Immigration and Border Protection (now Home Affairs) and time as the Senior Reconciliation Champion at the Australian Bureau of Statistics.
+I've been involved in formal and informal mentoring over many years. I mentor both women and men, but [WITEM](https://beta.dta.gov.au/help-and-advice/learning-and-development/women-it-coaching-and-mentoring) is designed specifically for women in IT. Inclusion and equal opportunity are very important to me and I’ve been involved in a range of disability and reconciliation programs as well. These include the establishment of the Dandelion program at the Department of Immigration and Border Protection (now Home Affairs) and time as the Senior Reconciliation Champion at the Australian Bureau of Statistics.
 
 My wife and I have three daughters, so my desire to be involved in WITEM is very personal. My eldest daughter studied IT while she was in college and ended up topping her year at the end of Grade 12. Even though she had a father who had worked in the industry for many years and she had clear aptitude and potential, she ended up studying a non-technical degree at university because she couldn’t see a place for herself in IT.
 
@@ -43,9 +43,7 @@ Mentor/mentee relationships often extend well beyond formal programs such as WIT
 
 New mentors can sometimes spend too much time sharing their personal experiences with their mentees. Although this can be very interesting, it’s not the best approach. In my experience, it’s far more important for a mentor to listen and understand before sharing their experience or offering advice. You’re not there for you, you’re there for the mentee. As the saying goes, we have two ears and one mouth and we should use them in those proportions!
 
-The ICT community is quite small, particularly in Canberra, so people often know one another quite well. What this means is you invariably have conversations with your mentees about people you know or have worked with. In one particular WITEM year, my mentee worked for a manager I knew very well. While her experience was far from positive, I had to maintain my independence by not getting personally involved. While I could provide advice, it was important that my mentee navigated her way through this herself.
-
-My final tip relates to the mentor/mentee fit. Although the matching process is very good, it’s important to let the program coordinators know if the relationship isn’t working. I haven’t needed to make a switch, but I know quite a few people who have. In one case it was do to philosophical differences, in another it was relevance of skills and work experience. My advice is to give it a go, but don’t persevere if the relationship isn’t working.
+My next tip relates to the mentor/mentee fit. Although the matching process is very good, it’s important to let the program coordinators know if the relationship isn’t working. I haven’t needed to make a switch, but I know a few people who have. In one case it was due to philosophical differences, in another it was relevance of skills and work experience. My advice is to give it a go, but don’t persevere if the relationship isn’t working.
 
 ## The benefits of being a mentor
 
