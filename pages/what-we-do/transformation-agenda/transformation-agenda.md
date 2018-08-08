@@ -126,6 +126,8 @@ Key Performance Indicators will be developed and made publicly available for ini
 
 ## Government Digital Transformation Roadmap
 
+Consistent with our commitment in this roadmap, we’ve delivered consolidated sector/domain transformation plans. These plans have been developed as [roadmaps for businesses and individuals](https://beta.dta.gov.au/our-projects/digital-transformation-roadmaps) and describe changes to user experiences over time.
+
 <div class="roadmap">
     <a href="{{site.baseurl}}/what-we-do/transformation-agenda/roadmap/#image">
       {% asset roadmap id="roadmap-image" alt="Open image of the Digital Transformation Roadmap Gantt chart in a new window" %}
