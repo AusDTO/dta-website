@@ -6,7 +6,7 @@ localnav: who-we-are
 searchexcerpt: "Organisation structure of the Digital Transformation Agency at 9 August 2018."
 ---
 
-<p><img alt="Organisation structure for the Digital Transformation Agency at at 9 August 2018"  src="https://dta-www-drupal-20180130215411153400000001.s3.ap-southeast-2.amazonaws.com/s3fs-public/images/Our%20people/DTA_Orgchart_2018-AugustV6.png" /></p>
+<p><img alt="Organisation structure for the Digital Transformation Agency at at 9 August 2018" data-entity-type="" data-entity-uuid="" src="https://dta-www-drupal-20180130215411153400000001.s3.ap-southeast-2.amazonaws.com/s3fs-public/images/Our%20people/DTA_Orgchart_2018-AugustV7.png" /></p>
 
 <p>The organisation structure of the Digital Transformation Agency is:</p>
 
@@ -17,31 +17,32 @@ searchexcerpt: "Organisation structure of the Digital Transformation Agency at 
 		<li>Office of the CEO
 		<ul>
 			<li>Kathleen McGovern, Chief of Staff</li>
-			<li>Alyssa Broomby, Executive Assistant/Executive Officer</li>
+			<li>Alyssa Broomby, Executive Officer</li>
 		</ul>
 		</li>
 	</ul>
 	</li>
-	<li><strong>Digital Strategy and capability</strong><br />
+	<li><strong>Digital strategy and capability</strong><br />
 	Anthony Vlasic, Chief Strategy Officer
 	<ul>
 		<li>Digital strategy</li>
 		<li>Strategic sourcing</li>
 		<li>Panel sourcing</li>
 		<li>Source centre of excellence</li>
+		<li>Capability uplift</li>
 	</ul>
 	</li>
-	<li><strong>Digital Delivery</strong><br />
+	<li><strong>Digital delivery</strong><br />
 	Peter Alexander, Chief Digital Officer
 	<ul>
 		<li>myGov</li>
 		<li>Identity</li>
-		<li>Platforms and hosting strategy</li>
+		<li>Platforms and Hosting strategy</li>
 		<li>Digital products and services</li>
 	</ul>
 	</li>
 	<li><strong>Portfolio management and investment advisory</strong><br />
-	Susan Monkley, Chief Portfolio Officer (seconded from Department of Human Services)
+	Susan Monkley, Chief Portfolio Officer (seconded from DHS)
 	<ul>
 		<li>Portfolio Management Office</li>
 		<li>Investment advisory office</li>
