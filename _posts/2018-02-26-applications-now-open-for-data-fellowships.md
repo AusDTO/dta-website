@@ -129,4 +129,4 @@ Tariq used ASIC data to develop techniques for detecting harmful trading. These 
 Richard created a process and platform for analysing GPS data from road freight vehicles. This provided insights into congested areas of the road network, rest patterns of truck drivers, and changes in road freight activity.
 
 ### Get in touch
-For more information about the data fellowship program or past projects please email [datafellowship@dta.gov.au](mailto:datafellowship@dta.gov.au) or call 02 6120 8423.
+For more information about the data fellowship program or past projects please email [datafellowship@dta.gov.au](mailto:datafellowship@dta.gov.au)

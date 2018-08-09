@@ -1,10 +1,21 @@
 - title: "Who we are"
   url: "/who-we-are/"
   children:
-    - title: "Leadership"
-      url: "/who-we-are/leadership/"
     - title: "Organisation structure"
       url: "/who-we-are/organisation-structure/"
+    - title: "Leadership"
+      url: "/who-we-are/leadership/"
+      grandchildren:
+        - title: "CEO Randall Brugeaud"
+          url: "/who-we-are/leadership/ceo-randall-brugeaud/"
+        - title: "Anthony Vlasic"
+          url: "/who-we-are/leadership/anthony-vlasic/"
+        - title: "Peter Alexander"
+          url: "/who-we-are/leadership/peter-alexander/"
+        - title: "Susan Monkley"
+          url: "/who-we-are/leadership/susan-monkley/"
+        - title: "George-Philip (GP) de Wet"
+          url: "/who-we-are/leadership/gp-de-wet/"
     - title: "How we engage"
       url: "/who-we-are/how-we-engage/"
     - title: "Corporate information"
@@ -26,4 +37,3 @@
           url: "/who-we-are/corporate/public-interest-disclosure/"
         - title: "Senate inquiry submission"
           url: "/who-we-are/corporate/senate-inquiry-submission/"
-          
