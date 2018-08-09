@@ -6,7 +6,7 @@ localnav: who-we-are
 searchexcerpt: "Organisation structure of the Digital Transformation Agency at 9 August 2018."
 ---
 
-<p><img alt="Organisation structure for the Digital Transformation Agency at at 9 August 2018" data-entity-type="" data-entity-uuid="" src="https://dta-www-drupal-20180130215411153400000001.s3.ap-southeast-2.amazonaws.com/s3fs-public/images/Our%20people/DTA_Orgchart_2018-AugustV7.png" /></p>
+<p><img alt="Organisation structure for the Digital Transformation Agency at at 9 August 2018" data-entity-type="" data-entity-uuid="" src="https://dta-www-drupal-20180130215411153400000001.s3.ap-southeast-2.amazonaws.com/s3fs-public/images/Our%20people/DTA_Orgchart_2018-Augustv8.png" /></p>
 
 <p>The organisation structure of the Digital Transformation Agency is:</p>
 
@@ -28,7 +28,7 @@ searchexcerpt: "Organisation structure of the Digital Transformation Agency at 
 		<li>Digital strategy</li>
 		<li>Strategic sourcing</li>
 		<li>Panel sourcing</li>
-		<li>Source centre of excellence</li>
+		<li>Sourcing&nbsp;centre of excellence</li>
 		<li>Capability uplift</li>
 	</ul>
 	</li>
@@ -42,7 +42,7 @@ searchexcerpt: "Organisation structure of the Digital Transformation Agency at 
 	</ul>
 	</li>
 	<li><strong>Portfolio management and investment advisory</strong><br />
-	Susan Monkley, Chief Portfolio Officer (seconded from DHS)
+	Susan Monkley, Chief Portfolio Officer (seconded from DHS until Oct)
 	<ul>
 		<li>Portfolio Management Office</li>
 		<li>Investment advisory office</li>
