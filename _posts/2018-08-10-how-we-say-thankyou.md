@@ -15,7 +15,7 @@ searchexcerpt: We recently added a side navigation component in the Australian G
 
 ## Listen to your users
 
-We heard from our users that they’re concerned about ownership and recognition of shared work. We want the design system to be a community orientated open-source product. To encourage developers and designers to engage in the community, we accept contributions from anyone willing to donate their time.
+We heard from our users that they’re concerned about ownership and recognition of shared work. We want the [design system](https://designsystem.gov.au/) to be a community orientated open-source product. To encourage developers and designers to engage in the community, we accept contributions from anyone willing to donate their time.
 
 Our users often told us that they have a strong sense of pride in their work and they appreciate when people recognise their efforts. During usability testing, many of the participants made positive comments about the "contributors" section. They saw it as a way of showing gratitude for their time and effort. When asked if it would influence their decision to contribute back to the design system, some suggested it would encourage them to take part in the community.
 
