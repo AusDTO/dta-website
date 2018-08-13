@@ -14,10 +14,10 @@ Increased fairness means better access to opportunities for more companies, rega
 
 During the research, we heard 4 key areas of concern:
 
-- Ease of access – some sellers believed that those who already hold contracts with government may benefit from insights others suppliers would not.
-- Prescriptive requirements – government requirements are often overly prescriptive which could stifle the breadth of ideas and solutions being presented.
-- Better feedback – government agencies did not always provide sufficient feedback for businesses to help improve their offering the next time they pitch to government.
-- Streamlined procurement – sellers indicated the cost of doing business with government, lengthy procurement processes, complex contracts and panel arrangements being not clearly understood as burdens. This was the case particularly for smaller sellers.
+- Ease of access &mdash; some sellers believed that those who already hold contracts with government may benefit from insights others suppliers would not.
+- Prescriptive requirements &mdash; government requirements are often overly prescriptive which could stifle the breadth of ideas and solutions being presented.
+- Better feedback &mdash; government agencies did not always provide sufficient feedback for businesses to help improve their offering the next time they pitch to government.
+- Streamlined procurement &mdash; sellers indicated the cost of doing business with government, lengthy procurement processes, complex contracts and panel arrangements being not clearly understood as burdens. This was the case particularly for smaller sellers.
 
 ## What is the DTA doing to address these concerns?
 
