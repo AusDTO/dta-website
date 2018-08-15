@@ -57,9 +57,7 @@ lede: The DTA is committed to improving gender diversity in senior IT roles with
 </ul>
 <p>Agencies and departments are asked to nominate a mentor. Once mentor nominations conclude, we will seek mentee nominations from each participating organisation.</p>
 <h4>Nominations and cost</h4>
-<p>Nominations for this program are open from 17 July to 9 August 2018.</p>
-
-<p>At this stage, we’re only seeking nominations for mentors. CIOs can nominate themselves or HR managers can nominate CIOs by emailing <a href="mailto:womeninIT@digital.gov.au?Subject=Women%20in%20IT" target="_top">womeninIT@digital.gov.au</a>.</p>
+<p>Nominations for the 2018/19 program closed in August 2018. We will update this page when nominations are open for the 2019/20 program.</p>
 
 <p>The program costs $2750 per mentee (including GST but excluding travel). There is no charge for a mentor’s involvement.</p>
 
@@ -82,14 +80,12 @@ lede: The DTA is committed to improving gender diversity in senior IT roles with
 <li>How will I get there?</li>
 </ul>
 <p>You can read more about the <a href="https://beta.dta.gov.au/node/493">coaching program format and content</a>.</p>
-<p>CIOs or agencies will be asked to nominate talented EL1 women from their department or agency to take part in this program.</p>
+
 <h4>Nominations and cost</h4>
-<p>Nominations for the next intake for this program will open in October 2018.</p>
-<p>Cost: $5000 to $6600 per participant (including GST but excluding travel). The cost will depend on the final number of participants and their location.</p>
+<p>Nominations for the next intake for this program will open on 23 August 2018.</p>
+<p>The program costs $5000 to $6600 per participant (including GST but excluding travel). The cost will depend on the final number of participants and their location.</p>
 <p>The program will take place in Canberra as well as in other cities (Sydney, Melbourne, Adelaide or Brisbane) depending on interest. Sessions outside Canberra will only run if there are 8 or more participants in that location.</p>
 <p>Please note that participants outside Canberra may need to attend a small number of events in Canberra. Agencies would need to provide funding for this travel.</p>
-<h3>APS 5&ndash;6 career development</h3>
-<p>We are currently exploring options for a new program for APS 5 and 6 women. This program will support women working in technical IT roles to transition into management.</p>
 
 <h2 id="History-and-funding">History and funding</h2>
 <p>The Women in IT programs were founded by Dell Australia and New Zealand in 2005 and were launched for government in 2007 &mdash; in collaboration with the Department of Finance.</p>
