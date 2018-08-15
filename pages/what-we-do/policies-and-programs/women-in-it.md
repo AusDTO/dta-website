@@ -55,7 +55,7 @@ lede: The DTA is committed to improving gender diversity in senior IT roles with
 <li>facilitated group sessions</li>
 <li>cross-government networking</li>
 </ul>
-<p>Agencies and departments are asked to nominate a mentor. Once mentor nominations conclude, we will seek mentee nominations from each participating organisation.</p>
+
 <h4>Nominations and cost</h4>
 <p>Nominations for the 2018/19 program closed in August 2018. We will update this page when nominations are open for the 2019/20 program.</p>
 
