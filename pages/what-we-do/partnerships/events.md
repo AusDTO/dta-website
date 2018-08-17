@@ -3,11 +3,9 @@ title: Innovation hub and events
 layout: basic
 permalink: /what-we-do/partnerships/events/
 localnav: what-we-do
-searchexcerpt: "We regularly hold events and training sessions to help you build skills and learn from industry leaders."
-lede: "We regularly hold events and training sessions to help you build skills and learn from industry leaders."
+searchexcerpt: "co-Lab is a dedicated innovation hub at the DTA’s Sydney office designed to accelerate cross-agency collaboration."
+lede: "co-Lab is a dedicated innovation hub at the DTA’s Sydney office designed to accelerate cross-agency collaboration."
 ---
-
-co-Lab is a dedicated innovation hub in the DTA’s Sydney office designed to accelerate the delivery of cross-government collaboration to deliver human-centred services.
 
 The co-Lab team, led by DTA digital specialists across content design and strategy, service design, user research, accessibility and agile delivery, partners with other government teams to design and deliver better digital services.
 
