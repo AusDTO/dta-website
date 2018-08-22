@@ -3,7 +3,7 @@ title: "Exploring WCAG 2.1 for Australian government services"
 category: [blog]
 tag: 'digital transformation'
 author: Brigitta Norton
-author-excerpt: "Bri Norton is the Head of Accessibility and Inclusivity at DTA."
+author-excerpt: "Brigitta Norton is the Head of Accessibility and Inclusivity at DTA."
 thumbnail: /images/blog-thumbnails/exploring-wcag-2-1-for-australian-government-services-thumb.png
 hero-image: /images/blog-banners/exploring-wcag-2-1-for-australian-government-services-hero.png
 searchexcerpt: The Digital Transformation Agency’s approach and advice for preparing to implement the updated WCAG 2.1 guidelines.
