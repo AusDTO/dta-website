@@ -84,7 +84,7 @@ lede: The DTA is committed to improving gender diversity in senior IT roles with
 <h4>Nominations and cost</h4>
 <p>Nominations for the 2018/19 program are open until 27 September 2018.</p>
 
-Download and complete the [participant registration form](/files/coaching-registration-form.docx).
+Download and complete the [participant registration form](https://dta-www-drupal-20180130215411153400000001.s3.ap-southeast-2.amazonaws.com/s3fs-public/files/women-in-it/coaching-registration-form.docx).
 
 <p>The program costs $5000 to $6600 per participant (including GST but excluding travel). The cost will depend on the final number of participants and their location.</p>
 <p>The program will take place in Canberra as well as in other cities (Sydney, Melbourne, Adelaide or Brisbane) depending on interest. Sessions outside Canberra will only run if there are 8 or more participants in that location.</p>
