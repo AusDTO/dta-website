@@ -9,8 +9,6 @@ exclude_from_search: true
 
 ![Thumbnail of the Government Digital Transformation Roadmap]({{site.baseurl}}/images/transformation-agenda/roadmap-thumbnail.png)
 
-[&larr; Back to corporate plan](/who-we-are/corporate/plan/#develop-a-digital-transformation-roadmap)
-
 ## Digital Transformation Agenda
 
 The digital transformation agenda provides the vehicle for government to promote the delivery of digital transformation and its contribution to achieving the vision.
@@ -155,7 +153,3 @@ The following elements of the WofG Platform Strategy:
 
 The following elements of the Program Management Strategy:
 * Actively shaping program design
-
-<hr />
-
-[&larr; Back to corporate plan](/who-we-are/corporate/plan/#develop-a-digital-transformation-roadmap)
