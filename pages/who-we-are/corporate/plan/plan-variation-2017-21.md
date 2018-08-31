@@ -1,8 +1,7 @@
 ---
 layout: basic
 title: "Corporate plan 2017⁠–⁠21"
-permalink: /who-we-are/corporate/plan/
-redirect_from: /corporate-plan/
+permalink: /who-we-are/corporate/plan-2017-21/
 gov-speak: true
 localnav: who-we-are
 searchexcerpt: Our corporate plan gives an overview of our priorities, milestones and success measures over 4 years."

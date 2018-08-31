@@ -34,5 +34,43 @@
       background-color: initial;
     }
   }
+ table {
+   &.corporate-plan {
+     .risk {
+       font-weight: bold;
+       &.risk__red {
+         background-color: #EB0000;
+         color: #ffffff;
+       }
+       &.risk__orange {
+         background-color: #FDBF2D;
+       }
+       &.risk__yellow {
+         background-color: #FFFD38;
+       }
+       &.risk__green {
+         background-color: #96CF59;
+       }
+     }
 
+   }
+   &#pbs-map {
+     thead {
+       > tr:first-child {
+         border-bottom: 1px solid $light-grey;
+       }
+     }
+     tr {
+       &:hover {
+         background-color: transparent;
+       }
+     }
+     th, td {
+       border-right: 1px solid $light-grey;
+       &:last-child {
+         border-right: none;
+       }
+     }
+   }
+ }
 }
