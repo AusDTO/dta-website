@@ -36,7 +36,7 @@ lede: "Our people are what makes digital transformation possible. "
 			<td>
 			<h3><a href="/who-we-are/leadership/anthony-vlasic/">Anthony Vlasic</a></h3>
 
-			<p>Chief Procurement Officer</p>
+			<p>Chief Strategy Officer</p>
 			</td>
 		</tr>
 		<tr>
