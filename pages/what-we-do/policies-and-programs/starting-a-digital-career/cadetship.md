@@ -72,13 +72,13 @@ You’ll work a minimum of 2 days per week around your university classes while 
 
 ## Support and coaching
 
-You will have support from your supervisor and a dedicated career coach to give you the best chance of success.
+You will have support from your supervisor and a dedicated career liaison to give you the best chance of success.
 
 Your supervisor will provide guidance and feedback on day-to-day work and help you understand how your work is contributing to the agency’s goals.
 
-Your career coach (career development and support officer) will help you with your studies and job skills. They will help guide your professional development towards a successful and rewarding career.
+Your career liaison will help you with your studies and job skills. They will help guide your professional development towards a successful and rewarding career.
 
-You will also get to network with other cadets and develop professional relationships that will support you throughout your career.   
+You will also get to network with other cadets and develop professional relationships that will support you throughout your career. 
 
 ## How to apply
 
