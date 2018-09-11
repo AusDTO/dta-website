@@ -27,7 +27,7 @@ The Digital Marketplace was initially opened to a limited number of product cate
 
 As an organisation committed to understanding the needs of users, the DTA has significantly improved the platform over time, leveraging the feedback of hundreds of buyers and sellers.
 
-“The success of the Digital Marketplace has been driven by the buyers and sellers who have helped us to establish a new way for government and business to work together on digital innovation,” said Dr Anthony Vlasic, Chief Strategy Officer at the DTA.“And it continues to evolve in an agile way, informed by the needs of people and businesses. Ongoing research and feedback is pivotal to how we work to continuously improve the service, ensuring the platform is simple, clear and fast for both buyers and sellers.”
+“The success of the Digital Marketplace has been driven by the buyers and sellers who have helped us to establish a new way for government and business to work together on digital innovation,” said Dr Anthony Vlasic, Chief Strategy Officer at the DTA. “And it continues to evolve in an agile way, informed by the needs of people and businesses. Ongoing research and feedback is pivotal to how we work to continuously improve the service, ensuring the platform is simple, clear and fast for both buyers and sellers.”
 
 Want to find out more? [Explore current opportunities](https://marketplace.service.gov.au/2/opportunities?status=live&openTo=all), or contact the team at [marketplace@digital.gov.au](mailto:marketplace@digital.gov.au)
 
