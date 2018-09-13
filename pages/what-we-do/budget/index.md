@@ -14,7 +14,7 @@ We have received funding for a number of our programs and products, as well as i
 
 Our [Digital Investment Management Office](https://www.dta.gov.au/what-we-do/policies-and-programs/digital-investment-management-office/) will receive a boost of $1.5 million over three years to continue its work to oversee, review and report on new and existing ICT and digital projects.
 
-$15.2 million will go towards the second stage of the government’s [Govpass program](https://www.dta.gov.au/what-we-do/platforms/govpass/), including a platform that will allow Australians to identify themselves easily and safely when using government online services.
+$15.2 million will go towards the second stage of the government’s [GovPass program](https://www.dta.gov.au/what-we-do/platforms/govpass/), including a platform that will allow Australians to identify themselves easily and safely when using government online services.
 
 $10.7 million will be invested over the next four years to establish and deliver a new cyber security function that will add to our expanded remit to provide government with improved oversight of major ICT investmentment and projects, and to provide advice to departments and agencies.
 

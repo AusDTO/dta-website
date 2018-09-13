@@ -1,14 +1,14 @@
 ---
 layout: basic
-title: "Govpass"
-lede: "The DTA’s Govpass project aims to make the process of proving who you are to government services online simple, safe and secure."
+title: "GovPass"
+lede: "The DTA’s GovPass project aims to make the process of proving who you are to government services online simple, safe and secure."
 permalink: /what-we-do/platforms/govpass/
 redirect_from: /what-we-do/platforms/identity/
 localnav: what-we-do
-searchexcerpt: "The DTA’s Govpass project aims to make the process of proving who you are to government services online simple, safe and secure."
+searchexcerpt: "The DTA’s GovPass project aims to make the process of proving who you are to government services online simple, safe and secure."
 ---
 
-Currently in its beta stage of development, Govpass will offer users quick and simple options to prove who they are.
+Currently in its beta stage of development, GovPass will offer users quick and simple options to prove who they are.
 
 Users will be able to prove themselves by having an accredited organisation vouch for them, such as a government agency, or in the future, even their own bank.
 
@@ -27,7 +27,7 @@ We have also commissioned a series of independent privacy impact assessments to 
 
 This is a complex project and requires a strong legal and organisational framework, so we’re doing a lot of work with other government departments and private sector organisations to make sure we get everything right.
 
-We have recently partnered with Australia Post, to explore how we might integrate Australia Post’s Digital iD into the Govpass program.
+We have recently partnered with Australia Post, to explore how we might integrate Australia Post’s Digital iD into the GovPass program.
 
 We will work closely with Australia Post to develop standards, processes and policies that will lay the foundations for a federated digital identity system.
 
@@ -43,5 +43,5 @@ Longer term improvements will allow users to do more complex online transactions
 
 You can see more in our latest blogs:
 
-- [Govpass — Privacy by design](https://www.dta.gov.au/blog/govpass-privacy-by-design/)
+- [GovPass — Privacy by design](https://www.dta.gov.au/blog/govpass-privacy-by-design/)
 - [Making online access simple and secure](https://www.dta.gov.au/blog/govpass/)

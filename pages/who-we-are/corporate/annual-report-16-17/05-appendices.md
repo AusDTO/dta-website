@@ -758,7 +758,7 @@ page_group:
       </li>
       <li>17 May
         <ul>
-          <li><em><a href="https://www.dta.gov.au/blog/govpass-privacy-by-design/">Govpass — Privacy by design</a></em>, Jacob Suidgeest</li>
+          <li><em><a href="https://www.dta.gov.au/blog/govpass-privacy-by-design/">GovPass — Privacy by design</a></em>, Jacob Suidgeest</li>
         </ul>
       </li>
       <li>18 May

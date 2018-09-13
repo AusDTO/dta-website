@@ -126,9 +126,9 @@ We are working in close partnership with agencies to design, build and deliver n
 
 This avoids duplication, is more cost effective and allows better integration of services across government --- which ultimately, means better services for users.
 
-*Govpass*
+*GovPass*
 
-An example of this is our Govpass platform, which aims to make it easier for users to prove who they are when using all government online services.
+An example of this is our GovPass platform, which aims to make it easier for users to prove who they are when using all government online services.
 
 This will address the criticism from users that proving themselves to government is overly complicated and needs to be done every time they want to interact with a different government service.
 

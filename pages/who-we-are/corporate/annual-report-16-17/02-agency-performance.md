@@ -185,13 +185,13 @@ page_group:
 
 {% include hx.html lvl=3 text="Digital identity" %}
 
-<p>During 2016–17 the DTA continued work on a national digital identity solution. This program of work, Govpass, aims to improve the user experience of identity verification when dealing with government services.</p>
+<p>During 2016–17 the DTA continued work on a national digital identity solution. This program of work, GovPass, aims to improve the user experience of identity verification when dealing with government services.</p>
 
 <p>In the initial stages of the program, user research was conducted with more than 500 members of the public, as well as with privacy groups and government agencies.</p>
 
-<p>Govpass will deliver a framework, rules and guidelines for the operation and management of a secure digital identity solution in Australia.</p>
+<p>GovPass will deliver a framework, rules and guidelines for the operation and management of a secure digital identity solution in Australia.</p>
 
-<p>The Digital Identity Governance Committee was set up to oversee the Govpass project.</p>
+<p>The Digital Identity Governance Committee was set up to oversee the GovPass project.</p>
 
 {% include hx.html lvl=3 text="Performance Dashboard" %}
 

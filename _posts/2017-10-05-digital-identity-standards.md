@@ -6,7 +6,7 @@ thumbnail: /images/blog-thumbnails/TDIF-Thumb.png
 twitter-image: /images/blog-twitter/TDIF-Twitter.png
 ---
 
-The Digital Transformation Agency’s Govpass digital identity project will make the process of proving who you are to government services online simple, safe and secure. 
+The Digital Transformation Agency’s GovPass digital identity project will make the process of proving who you are to government services online simple, safe and secure. 
 
 The project includes the design and delivery of a technical platform as well as a framework of standards --- the Trusted Digital Identity Framework.
 
@@ -16,6 +16,6 @@ The DTA has been consulting closely with key stakeholders, including government,
 
 Read Assistant Minister Angus Taylor’s [media release](https://ministers.pmc.gov.au/taylor/2017/national-standards-support-government-digital-id){:target="_blank"}.
 
-Find out more about the [Govpass digital identity project](https://www.dta.gov.au/what-we-do/platforms/govpass/).
+Find out more about the [GovPass digital identity project](https://www.dta.gov.au/what-we-do/platforms/govpass/).
 
-Read our blogs for an [overview of Govpass](https://www.dta.gov.au/blog/govpass/) and [how it's designed with privacy in mind](https://www.dta.gov.au/blog/govpass-privacy-by-design/).
+Read our blogs for an [overview of GovPass](https://www.dta.gov.au/blog/govpass/) and [how it's designed with privacy in mind](https://www.dta.gov.au/blog/govpass-privacy-by-design/).

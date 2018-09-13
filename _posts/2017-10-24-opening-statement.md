@@ -31,7 +31,7 @@ And finally, we undertake ongoing monitoring of the ICT portfolio. We provide ad
 
 I would now like to touch on some of the key whole-of-government priorities we are working on.
 
-Last week we released a private beta of the Govpass technology platform, which is a critical initiative that will give people the option to create a digital identity so they can more easily access government online services.
+Last week we released a private beta of the GovPass technology platform, which is a critical initiative that will give people the option to create a digital identity so they can more easily access government online services.
 
 We are currently trialling the technology and we anticipate testing it more broadly next year.
 
