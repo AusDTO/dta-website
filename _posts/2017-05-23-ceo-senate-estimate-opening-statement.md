@@ -26,7 +26,7 @@ This completes the establishment of the new DTA with the expanded set of roles a
 
 The government has also announced in the 2017-18 budget, that it will invest an additional $70.1 million over four years to drive the second stage of the digital transformation agenda.
 
-This will support our work on shared government platforms, a new cybersecurity function, digital capability building across the public service and continued work on Govpass --- our digital identity program.
+This will support our work on shared government platforms, a new cybersecurity function, digital capability building across the public service and continued work on GovPass --- our digital identity program.
 
 This gives the DTA the funding and remit to deliver on the government’s digital transformation ambitions.
 
@@ -52,7 +52,7 @@ In terms of the DTA’s delivery work, the Digital Marketplace is continuing to 
 
 And small-to-medium enterprises are benefiting, having picked up 82 percent of the $15.3 million worth of contracts, to date.
 
-We’re continuing to work with government agencies and private sector organisations on our Govpass program. 
+We’re continuing to work with government agencies and private sector organisations on our GovPass program. 
 
 Our next phase of work on this project includes testing the technology we’ve been developing with selected users, and continuing to consult with our government and private sector stakeholders, including on privacy matters.
 
