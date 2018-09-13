@@ -8,9 +8,9 @@ twitter-image: /images/blog-twitter/tiles-tdif-consultation-twitter.png
 
 The DTA is looking for your [feedback](https://engage.digital.gov.au/) on our draft Trusted Digital Identity Framework.
 
-The framework outlines the important rules and standards for the government’s digital identity program, Govpass.
+The framework outlines the important rules and standards for the government’s digital identity program, GovPass.
 
-Govpass will make it easier for people to access government services by being able to prove their identity online. The program includes the development of a [technology platform](https://www.dta.gov.au/blog/creating-a-govpass-digital-identity/) as well as the Trusted Digital Identity Framework.
+GovPass will make it easier for people to access government services by being able to prove their identity online. The program includes the development of a [technology platform](https://www.dta.gov.au/blog/creating-a-govpass-digital-identity/) as well as the Trusted Digital Identity Framework.
 
 We have been working with privacy and industry groups as well as government agencies to help shape the draft framework. While we’re continuing to consider the feedback received to date, we want to know what you think.  
 
@@ -22,8 +22,8 @@ You can provide [feedback](https://engage.digital.gov.au/) online until Friday 8
 
 Read more about our work on digital identity in our blogs:
 
-- [Creating a Govpass digital identity](https://www.dta.gov.au/blog/creating-a-govpass-digital-identity/)
+- [Creating a GovPass digital identity](https://www.dta.gov.au/blog/creating-a-govpass-digital-identity/)
 - [New national digital identity standards](https://www.dta.gov.au/news/digital-identity-standards/)
-- [Govpass --- privacy by design](https://www.dta.gov.au/blog/govpass-privacy-by-design/)
+- [GovPass --- privacy by design](https://www.dta.gov.au/blog/govpass-privacy-by-design/)
 
 Read Assistant Minister Taylor’s [media release](https://ministers.pmc.gov.au/taylor/2017/feedback-sought-national-standards-digital-identity).  

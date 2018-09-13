@@ -3,7 +3,7 @@ layout: basic
 title: "Platforms"
 permalink: /what-we-do/platforms/
 localnav: what-we-do
-searchexcerpt: "Find information on common solutions developed by DTA, such as Cloud, Digital Marketplace, Performance Dashboard and Govpass."
+searchexcerpt: "Find information on common solutions developed by DTA, such as Cloud, Digital Marketplace, Performance Dashboard and GovPass."
 ---
 
 <ul class="list-small">
@@ -15,7 +15,7 @@ searchexcerpt: "Find information on common solutions developed by DTA, such as C
     <a href="{{site.baseurl}}/what-we-do/platforms/marketplace/">Digital marketplace</a>
   </li>
   <li>
-    <a href="{{site.baseurl}}/what-we-do/platforms/govpass/">Govpass</a>
+    <a href="{{site.baseurl}}/what-we-do/platforms/govpass/">GovPass</a>
   </li>
   <li>
     <a href="{{site.baseurl}}/what-we-do/platforms/performance/">Performance dashboard</a>

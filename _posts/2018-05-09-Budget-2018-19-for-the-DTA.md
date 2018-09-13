@@ -17,9 +17,9 @@ searchexcerpt: The 2018–19 Budget will invest in key platforms and technology 
 
 The 2018–19 Budget will invest in key platforms and technology to improve people’s experience of government services online.
 
-$92.4 million will be invested in the next phase of work to build Govpass, our [digital identity system](https://beta.dta.gov.au/our-projects/digital-identity).
+$92.4 million will be invested in the next phase of work to build GovPass, our [digital identity system](https://beta.dta.gov.au/our-projects/digital-identity).
 
-Govpass will provide a simple, safe and secure choice for people to verify who they are and access government services online, reducing the need to visit a shopfront.
+GovPass will provide a simple, safe and secure choice for people to verify who they are and access government services online, reducing the need to visit a shopfront.
 
 Over the next financial year, up to 8 high-volume government services will be piloted using a digital identity, giving more than 500,000 people the opportunity to test the system.
 
