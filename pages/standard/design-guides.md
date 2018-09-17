@@ -5,7 +5,7 @@ permalink: /standard/design-guides/
 breadcrumb: Design guides
 lede: Guidance to help you meet the Digital Service Standard.
 weight: 50
-redirect_from: 
+redirect_from:
   - /design-guides/
   - /standard/design-guides/gov-au-guides/
 ---
@@ -24,12 +24,8 @@ Please [give feedback on guidance](https://www.surveymonkey.com/r/XFWJ5TC).
 
 ### Content guidance
 
-- [Content Guide](https://guides.service.gov.au/content-guide/)  — helps Australian Government teams structure content, write in plain English and create accessible content for all users.
-- [Getting buy-in](https://guides.service.gov.au/content-strategy/getting-buy-in/) — how to get support from the top level in your organisation to improve content and workflow.
-- [Content auditing](https://guides.service.gov.au/content-strategy/content-auditing/) — help on how to get a clear understanding of your content and how useful it is.
-- [Removing content](https://guides.service.gov.au/content-strategy/removing-content/) — how to remove content to help users find what they need.
-- [Creating user‑centred content](https://guides.service.gov.au/creating-user-centred-content/) — help on understanding the needs of users, and designing and testing content.
-- [Governing content](https://guides.service.gov.au/governing-content/) — help on aligning the goals of your content strategy for everyone involved.
+- [Content Guide](https://guides.service.gov.au/content-guide/) — helps Australian Government teams structure content, write in plain English and create accessible content for all users.
+- [Content Strategy](https://guides.service.gov.au/content-strategy/) — helps teams create clear information structures for websites and set up governance for content creation.
 
 ## General guidance
 
