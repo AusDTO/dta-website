@@ -1,7 +1,7 @@
 ---
 title: Join the identity federation
 layout: basic
-permalink: /what-we-do/policies-and-programs/identity/join-the-identity-federation
+permalink: /what-we-do/policies-and-programs/identity/join-the-identity-federation/
 localnav: what-we-do
 searchexcerpt: "We’re working with government agencies, the private sector and the public to design and implement a digital identity solution for the Australia."
 lede: To make sure we’re keeping people and their data safe, Australia’s digital identity program is being built as a federation.
@@ -13,7 +13,7 @@ lede: To make sure we’re keeping people and their data safe, Australia’s dig
 
 <p dir="ltr">Identity providers must also be formally accredited against the TDIF by the Oversight Authority. The Oversight Authority is a key part of the identity federation governance model. It is responsible for maintaining fairness across the federation and making sure services are following the same high standards of usability, accessibility and security.</p>
 
-Read about [accreditation and onboarding](www.dta.gov.au/what-we-do/policies-and-programs/identity/join-the-identity-federation/accreditation-and-onboarding).
+Read about [accreditation and onboarding](/what-we-do/policies-and-programs/identity/join-the-identity-federation/accreditation-and-onboarding/).
 
 ## Get in touch
 

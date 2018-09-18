@@ -1,7 +1,7 @@
 ---
 title: Trusted Digital Identity Framework
 layout: basic
-permalink: /what-we-do/policies-and-programs/identity/join-the-identity-federation/accreditation-and-onboarding/trusted-digital-identity-framework
+permalink: /what-we-do/policies-and-programs/identity/join-the-identity-federation/accreditation-and-onboarding/trusted-digital-identity-framework/
 localnav: what-we-do
 searchexcerpt: "The Trusted Digital Identity Framework (TDIF) provides a standard for digital identity in Australia."
 lede: Providing a standard for digital identity in Australia

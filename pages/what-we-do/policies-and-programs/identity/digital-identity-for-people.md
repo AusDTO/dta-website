@@ -1,7 +1,7 @@
 ---
 title: Digital identity for people
 layout: basic
-permalink: /what-we-do/policies-and-programs/identity/digital-identity-for-people
+permalink: /what-we-do/policies-and-programs/identity/digital-identity-for-people/
 localnav: what-we-do
 searchexcerpt: "We’re working with government agencies, the private sector and the public to design and implement a digital identity solution for the Australia."
 lede: The Australian Government digital identity provider is called myGovID.

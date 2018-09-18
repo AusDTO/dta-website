@@ -1,68 +1,30 @@
 ---
 title: Glossary
 layout: basic
-permalink: /what-we-do/policies-and-programs/identity/glossary
+permalink: /what-we-do/policies-and-programs/identity/glossary/
 localnav: what-we-do
 searchexcerpt: "We’re working with government agencies, the private sector and the public to design and implement a digital identity solution for the Australia."
 lede: Helping users interact with government safely and securely.
 ---
 <nav class="index-links">
-
-      <h2>On this page</h2>
-
-
-      <ul class="none au-link-list">
-
-      <li>
-      <a href="#attributes">Attributes</a>
-          </li>
-      <li>
-      <a href="#attribute-provider">Attribute provider</a>
-          </li>
-      <li>
-      <a href="#digital-identity">Digital identity</a>
-          </li>
-      <li>
-      <a href="#digital-service">Digital service</a>
-          </li>
-      <li>
-      <a href="#document-verification-service">Document Verification Service</a>
-          </li>
-      <li>
-      <a href="#face-verification-service">Face Verification Service</a>
-          </li>
-      <li>
-      <a href="#govpass">GovPass</a>
-          </li>
-      <li>
-      <a href="#identity-document">Identity document</a>
-          </li>
-      <li>
-      <a href="#identity-exchange">Identity exchange</a>
-          </li>
-      <li>
-      <a href="#identity-federation">Identity federation</a>
-          </li>
-      <li>
-      <a href="#identity-proofing">Identity proofing</a>
-          </li>
-      <li>
-      <a href="#identity-provider">Identity provider</a>
-          </li>
-      <li>
-      <a href="#mygovid">myGovID</a>
-          </li>
-      <li>
-      <a href="#trusted-digital-identity-framework">Trusted Digital Identity Framework</a>
-          </li>
-
-      </ul>
-
-
+  <h2>On this page</h2>
+  <ul class="none au-link-list">
+    <li><a href="#attributes">Attributes</a></li>
+    <li><a href="#attribute-provider">Attribute provider</a></li>
+    <li><a href="#digital-identity">Digital identity</a></li>
+    <li><a href="#digital-service">Digital service</a></li>
+    <li><a href="#document-verification-service">Document Verification Service</a></li>
+    <li><a href="#face-verification-service">Face Verification Service</a></li>
+    <li><a href="#govpass">GovPass</a></li>
+    <li><a href="#identity-document">Identity document</a></li>
+    <li><a href="#identity-exchange">Identity exchange</a></li>
+    <li><a href="#identity-federation">Identity federation</a></li>
+    <li><a href="#identity-proofing">Identity proofing</a></li>
+    <li><a href="#identity-provider">Identity provider</a></li>
+    <li><a href="#mygovid">myGovID</a></li>
+    <li><a href="#trusted-digital-identity-framework">Trusted Digital Identity Framework</a></li>
+  </ul>
 </nav>
-
-
-
 
 <a href="#content" class="back-to-top">Back to top</a>
 

@@ -33,13 +33,13 @@ lede: The DTA is delivering a digital identity program which will allow users of
 
 <ul class="list-small">
   <li>
-    <a href="{{site.baseurl}}/what-we-do/policies-and-programs/identity/glossary">Glossary</a>
+    <a href="{{site.baseurl}}/what-we-do/policies-and-programs/identity/glossary/">Glossary</a>
   </li>
   <li>
-    <a href="{{site.baseurl}}/what-we-do/policies-and-programs/identity/digital-identity-for-people">Digital identity for people</a>
+    <a href="{{site.baseurl}}/what-we-do/policies-and-programs/identity/digital-identity-for-people/">Digital identity for people</a>
   </li>
   <li>
-    <a href="{{site.baseurl}}/what-we-do/policies-and-programs/identity/join-the-identity-federation">Join the identity federation</a>
+    <a href="{{site.baseurl}}/what-we-do/policies-and-programs/identity/join-the-identity-federation/">Join the identity federation</a>
   </li>
   </ul>
 

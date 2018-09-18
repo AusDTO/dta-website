@@ -10,6 +10,13 @@
           url: "/what-we-do/policies-and-programs/content-strategy/"
         - title: "Digital identity"
           url: "/what-we-do/policies-and-programs/identity/"
+          grandchildren:
+          - title: "Glossary"
+            url: "/what-we-do/policies-and-programs/identity/glossary/"
+          - title: "Digital identity for people"
+            url: "/what-we-do/policies-and-programs/identity/digital-identity-for-people/"
+          - title: "Join the identity federation"
+            url: "/what-we-do/policies-and-programs/identity/join-the-identity-federation/"
         - title: "Digital Investment Management Office"
           url: "/what-we-do/policies-and-programs/digital-investment-management-office/"
         - title: "Digital Service Standard"
