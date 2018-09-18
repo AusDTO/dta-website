@@ -4,6 +4,7 @@ title: "GovPass"
 lede: "The DTA’s GovPass project aims to make the process of proving who you are to government services online simple, safe and secure."
 permalink: /what-we-do/platforms/govpass/
 redirect_from: /what-we-do/platforms/identity/
+redirect_to: /what-we-do/policies-and-programs/identity/
 localnav: what-we-do
 searchexcerpt: "The DTA’s GovPass project aims to make the process of proving who you are to government services online simple, safe and secure."
 ---

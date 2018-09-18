@@ -1,28 +1,11 @@
 ---
-title: Digital identity
+title: Trusted Digital Identity Framework
 layout: basic
-permalink: /what-we-do/policies-and-programs/identity/
+permalink: /what-we-do/policies-and-programs/identity/join-the-identity-federation/accreditation-and-onboarding/trusted-digital-identity-framework/
 localnav: what-we-do
-redirect_from:
-- /digital-identity/
-- /standard/design-guides/authentication-frameworks/
-- /standard/design-guides/authentication-frameworks/national-e-authentication-framework/
-- /standard/design-guides/authentication-frameworks/third-party-identity-services-assurance-framework/
-- /design-guides/subguides/third-party-identity-services-assurance-framework
-- /standard/design-guides/identity-assurance/
-searchexcerpt: "We’re working with government agencies, the private sector and the public to design and implement a digital identity solution for the Australia."
-lede: Helping users interact with government safely and securely.
+searchexcerpt: "The Trusted Digital Identity Framework (TDIF) provides a standard for digital identity in Australia."
+lede: Providing a standard for digital identity in Australia
 ---
-
-At the DTA we’re working with government agencies, the private sector and the public to design and implement a digital identity solution for Australia.
-
-We believe that it should be safe and easy for everyone to prove who they are. This means giving people a secure option to verify their identity online rather than needing to visit an office or shopfront.
-
-To give people a consistent and reliable experience, government needs to work closely with stakeholders under common standards and using common tools.
-
-To achieve this, we are developing a standard for establishing digital identity. We are also assisting agencies to implement a technical solution that meets the standard.
-
-## Trusted Digital Identity Framework
 
 The Trusted Digital Identity Framework (TDIF) provides a standard for digital identity in Australia. It aims to make sure all users have a safe and secure way to connect with government services online.
 
