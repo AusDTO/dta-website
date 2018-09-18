@@ -25,6 +25,12 @@ lede: Identity providers must be accredited against the Trusted Digital Identity
 
 <p dir="ltr">If your organisation is interested in connecting your service to the exchange, you can email <a href="mailto:identity@dta.gov.au">identity@dta.gov.au</a></p>
 
+<ul class="list-small">
+  <li>
+    <a href="{{site.baseurl}}/what-we-do/policies-and-programs/identity/join-the-identity-federation/accreditation-and-onboarding/trusted-digital-identity-framework/">Trusted Digital Identity Framework</a>
+  </li>
+  </ul>
+
 ## Get in touch
 
 If you have any questions you can get in touch with us at [identity@dta.gov.au](mailto:identity@dta.gov.au)
