@@ -2,7 +2,7 @@
 title: "Trust framework milestone"
 category: [news]
 tag: 'dta news'
-thumbnail: /images/blog-thumbnails/TDIF_Sept_Thumb.jpg
+thumbnail: /images/blog-thumbnails/TDIF_Sept_Thumb.png
 searchexcerpt: The Trusted Digital Identity Framework sets out the rules and standards that will build a nationally consistent approach to digital identity in Australia
 
 ---
