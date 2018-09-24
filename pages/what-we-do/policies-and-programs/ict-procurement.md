@@ -9,7 +9,7 @@ redirect_from:
 - /ict-procurement/
 ---
 
-<p class= "callout"> The ICT Procurement Taskforce reviewed how government purchases ICT products and services. The final report was released on 23 August 2017. Read <a href="/what-we-do/policies-and-programs/ict-procurement/ict-procurement-review/">the report and the government’s response to the recommendations</a>.</p>
+<p class= "callout">Our beta site has all of our <a href="https://beta.dta.gov.au/help-and-advice/ict-procurement/tools-sourcing-digital-products-and-services/">latest information about ICT procurement</a>.</p>
 
 The DTA sets up and manages coordinated [ICT procurement arrangements](/what-we-do/policies-and-programs/ict-procurement/buying/) that help agencies when buying commonly used ICT products and services.
 
