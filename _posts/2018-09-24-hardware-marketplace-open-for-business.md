@@ -25,4 +25,4 @@ Government buyers can use the Hardware Marketplace to buy storage products and s
 
 Most of these can be bought outright, as a ‘capability as a service’ solution, or as a managed service providing support, maintenance and other services.
 
-Thank you to the buyers and sellers who provided feedback throughout the Hardware Marketplace’s development process. If you’d like to participate in our approach to market for our next 2 categories, Network Cabling Services and Network Equipment, [register on AusTender](https://www.tenders.gov.au/?event=public.registereduser.new). For more information, contact us at [ICTProcurement@dta.gov.au](ICTProcurement@dta.gov.au)
+Thank you to the buyers and sellers who provided feedback throughout the Hardware Marketplace’s development process. If you’d like to participate in our approach to market for our next 2 categories, Network Cabling Services and Network Equipment, [register on AusTender](https://www.tenders.gov.au/?event=public.registereduser.new). For more information, contact us at [ICTProcurement@dta.gov.au](mailto:ICTProcurement@dta.gov.au)
