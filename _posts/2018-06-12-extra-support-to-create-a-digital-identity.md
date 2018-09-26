@@ -11,6 +11,8 @@ searchexcerpt: We’ve released the second part of the rules to create a digital
 
 ---
 
+<p class="callout">The digital identity program is evolving. Read our (recent information)[https://beta.dta.gov.au/our-projects/digital-identity] on this topic.</p>
+
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="Sketched identity documents">
 </figure>

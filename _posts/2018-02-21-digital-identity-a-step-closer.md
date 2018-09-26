@@ -8,6 +8,8 @@ twitter-image: /images/blog-twitter/digital-identity-another-step-closer-twitter
 facebook-image: /images/blog-facebook/digital-identity-another-step-closer-facebook.png
 ---
 
+<p class="callout">The digital identity program is evolving. Read our (recent information)[https://beta.dta.gov.au/our-projects/digital-identity] on this topic.</p>
+
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}{{ page.hero-image }}" alt="Digital ID another step closer.">
   <br />
