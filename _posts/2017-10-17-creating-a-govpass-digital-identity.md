@@ -8,7 +8,7 @@ thumbnail: /images/blog-thumbnails/Govpass_thumb (1).png
 searchexcerpt: "We have been building a solution which will allow you to create a digital identity to use with government services."
 ---
 
-<p class="callout">The digital identity program is evolving. Read our (recent information)[https://beta.dta.gov.au/our-projects/digital-identity] on this topic.</p>
+<p class="callout">The digital identity program is evolving. Read our <a href="https://beta.dta.gov.au/our-projects/digital-identity">recent information</a> on this topic.</p>
 
 At the moment, even if you can do part of the process online, you still need to take 100 points of ID to a government service centre to have your identity checked in person.
 

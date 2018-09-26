@@ -6,7 +6,7 @@ thumbnail: /images/blog-thumbnails/Tiles - TDIF consultation - thumbnail 2.png
 twitter-image: /images/blog-twitter/tiles-tdif-consultation-twitter.png
 ---
 
-<p class="callout">The digital identity program is evolving. Read our (recent information)[https://beta.dta.gov.au/our-projects/digital-identity] on this topic.</p>
+<p class="callout">The digital identity program is evolving. Read our <a href="https://beta.dta.gov.au/our-projects/digital-identity">recent information</a> on this topic.</p>
 
 The DTA is looking for your [feedback](https://engage.digital.gov.au/) on our draft Trusted Digital Identity Framework.
 

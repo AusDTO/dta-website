@@ -8,9 +8,9 @@ thumbnail: /images/blog-thumbnails/Privacy-by-design.png
 searchexcerpt: "DTA is proud to be a partner in this year’s Privacy Awareness Week. Privacy is a core component of GovPass. Jacob Suidgeest, our privacy adviser, explains how the program is putting users’ privacy first."
 ---
 
-<p class="callout">The digital identity program is evolving. Read our (recent information)[https://beta.dta.gov.au/our-projects/digital-identity] on this topic.</p>
+<p class="callout">The digital identity program is evolving. Read our <a href="https://beta.dta.gov.au/our-projects/digital-identity">recent information</a> on this topic.</p>
 
-[GovPass](https://www.dta.gov.au/blog/govpass/) will make it easier for people to prove who they are when using government services online. People have told us that to use GovPass, they need to trust that their personal information is protected and that they have control over where it is going. So we have sought to ‘build’ privacy into the design of GovPass. 
+[GovPass](https://www.dta.gov.au/blog/govpass/) will make it easier for people to prove who they are when using government services online. People have told us that to use GovPass, they need to trust that their personal information is protected and that they have control over where it is going. So we have sought to ‘build’ privacy into the design of GovPass.
 
 ## What is privacy by design?
 
