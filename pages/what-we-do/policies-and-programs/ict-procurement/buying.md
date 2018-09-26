@@ -75,7 +75,7 @@ Sellers on a panel are appointed to a panel to supply goods or services if they 
 The panels that we manage are:
 
 - [Telecommunications Services Panel](http://www.finance.gov.au/policy-guides-procurement/australian-government-telecommunications-arrangements/telecommunications-panels/)
-- ['ICT Hardware and the Hardware Marketplace](https://beta.dta.gov.au/help-and-advice/ict-procurement/tools-sourcing-digital-products-and-services/ict-panels-and-arrangements/buying-ict-hardware)
+- [ICT Hardware and the Hardware Marketplace](https://beta.dta.gov.au/help-and-advice/ict-procurement/tools-sourcing-digital-products-and-services/ict-panels-and-arrangements/buying-ict-hardware)
 - [Mobile Panel](http://www.finance.gov.au/policy-guides-procurement/australian-government-telecommunications-arrangements/telecommunications-panels/#Mobile_Panel)
 - [Data Centre Panels](http://www.finance.gov.au/tags/data-centres/)
 - [Cloud Services Panel](http://www.finance.gov.au/policy-guides-procurement/cloud-services-panel/)
