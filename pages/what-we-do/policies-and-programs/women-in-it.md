@@ -40,7 +40,7 @@ lede: The DTA is committed to improving gender diversity in senior IT roles with
 <h2 id="What-are-the-Women-in-IT-programs">What are the Women in IT programs?</h2>
 <p>The Women in IT programs support the career progression of women currently working in Information Technology (IT) in the Australian Public Service (APS). The goal is to attract and retain talented women with IT skills within the APS, and to increase the gender diversity of senior IT employees. </p>
 
-<p>The program is made up of a number of different streams for women (and those who identify as female) at different stages in their careers.</p>
+<p>The program is made up of a number of different streams for women (and those who identify as female or are genderless) at different stages in their careers.</p>
 
 <h2 id="Executive-mentoring-program">Executive mentoring program (EL2)</h2>
 
