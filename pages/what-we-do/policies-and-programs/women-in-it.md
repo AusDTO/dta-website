@@ -82,7 +82,7 @@ lede: The DTA is committed to improving gender diversity in senior IT roles with
 <p>You can read more about the <a href="https://beta.dta.gov.au/node/493">coaching program format and content</a>.</p>
 
 <h4>Nominations and cost</h4>
-<p>Nominations for the 2018/19 program are open until 27 September 2018.</p>
+<p>Nominations for the 2018/19 program are open until 19 October 2018.</p>
 
 Download and complete the [participant registration form](https://dta-www-drupal-20180130215411153400000001.s3.ap-southeast-2.amazonaws.com/s3fs-public/files/women-in-it/coaching-registration-form.docx).
 
