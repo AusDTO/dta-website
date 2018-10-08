@@ -45,4 +45,4 @@ I’m so excited for what the future holds, the coaching program has been invalu
 
 ---
 
-Registrations for the 2018/19 coaching program are open until 27 September 2018. EL1 women can read more about the program and register through the [Women in IT page](https://beta.dta.gov.au/help-and-advice/learning-and-development/women-it-coaching-and-mentoring).
+Registrations for the 2018/19 coaching program are open until 19 October 2018. EL1 women can read more about the program and register through the [Women in IT page](https://beta.dta.gov.au/help-and-advice/learning-and-development/women-it-coaching-and-mentoring).
