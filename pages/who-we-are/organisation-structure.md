@@ -43,7 +43,7 @@ lede: "Organisation structure of the Digital Transformation Agency at 9 August
 	</ul>
 	</li>
 	<li><strong>Portfolio management and investment advisory</strong><br />
-	Susan Monkley, Chief Portfolio Officer (seconded from DHS until Oct)
+	Vacant, Chief Portfolio Officer
 	<ul>
 		<li>Portfolio Management Office</li>
 		<li>Investment advisory office</li>
