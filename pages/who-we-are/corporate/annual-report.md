@@ -12,9 +12,10 @@ searchexcerpt: "The DTA publishes an Annual Report covering the performance, acc
 ## Current Annual Report
 
 This annual report covers the performance, accountability and financial reporting of the Digital Transformation Agency (DTA) for the financial year ending on 30 June 2017.
-- [Digital Transformation Agency Annual Report 2016-17](/who-we-are/corporate/annual-report-16-17/)
+- [Digital Transformation Agency Annual Report 2016-18](https://beta.dta.gov.au/about-us/reporting-and-plans/annual-reports/annual-report-2017-18)
 
 ## Previous Annual reports
+- [Digital Transformation Agency Annual Report 2016-17](/who-we-are/corporate/annual-report-16-17/)
 
 ### Digital Transformation Office Annual Report 2015-16
 - [Full HTML version of the DTO Annual Report 2015-16](/who-we-are/corporate/annual-report-15-16/cover-letter/).
