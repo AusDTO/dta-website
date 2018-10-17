@@ -45,7 +45,7 @@ lede: myGovID — your key to easier access to government services
 
 <p dir="ltr">Here is a glimpse of what this could look like for you.</p>
 
-<iframe allowfullscreen="" src="https://youtu.be/M9dkkHI6mOA" frameborder="0" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M9dkkHI6mOA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Get in touch
 
