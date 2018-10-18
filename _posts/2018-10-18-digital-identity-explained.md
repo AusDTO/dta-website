@@ -67,7 +67,9 @@ Creating a digital identity is entirely your choice. If you prefer, you will sti
 Over time, we plan to include other approved and accredited providers, such as state or territory governments or private sector organisations. This will allow you to choose how you create and prove your identity online.
 
 It will also be your choice to share your information – or not – with the services you are accessing.
-What next
+
+## What next
+
 We know that a digital identity needs to be secure and easy to use. That is why we are starting with a series of small pilot programs, rolling out in the months ahead.
 
 A total of eight pilot programs will be completed by mid-2019. The first pilot will enable Australians to apply for a TFN online.
