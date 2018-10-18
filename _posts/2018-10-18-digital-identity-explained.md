@@ -80,7 +80,8 @@ We know some of you will wonder why you can’t get a digital identity right now
 
 Running the pilot programs will enable us to ensure that the service is secure, reliable and meets your expectations.
 
-What the future looks like
+## What the future looks like
+
 In the future, Australians will have the opportunity to access simple, clear and fast public services online with their digital identity.
 
 Here is a glimpse of what this could look like for you.
