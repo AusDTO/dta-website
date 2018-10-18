@@ -72,7 +72,7 @@ We know that a digital identity needs to be secure and easy to use. That is why 
 
 A total of eight pilot programs will be completed by mid-2019. The first pilot will enable Australians to apply for a TFN online.
 
-myGovID will make it possible for this entire process to be done online, reducing the waiting time for a TFN from a months to just minutes.
+myGovID will make it possible for this entire process to be done online, reducing the waiting time for a TFN from a month to just minutes.
 
 We know some of you will wonder why you can’t get a digital identity right now. The simple answer is that we want to make sure we get it right.
 
