@@ -28,7 +28,7 @@ We will be launching a pilot program later this month, which will enable a group
 
 The first digital identity provider for government is known as myGovID.
 
-MyGovID is a simple and safe digital identity solution that will make it possible to prove who you are online. This means more services can be accessed without needing to visit a government shopfront.
+myGovID is a simple and safe digital identity solution that will make it possible to prove who you are online. This means more services can be accessed without needing to visit a government shopfront.
 
 This will also replace the multiple logins people have for different government agencies and services. Having a secure digital identity will make getting things done with government easier and faster.
 
