@@ -13,10 +13,10 @@ I’ve been DTA CEO for almost four months now. While it’s clearly challenging
 The DTA continues to focus on improving the way Australians access government services; to make them simple, clear and fast.
 
 The DTA delivers a broad range of services, but we are progressively increasing our focus on delivery. Our four strategic priorities for 2018–19 are:
-To deliver a whole of government Digital Transformation Strategy and Roadmap
-To deliver a digital capability improvement program, including procurement reform
-To deliver whole-of-government digital platforms, including digital identity
-And to deliver investment advice, and whole-of-government portfolio oversight on ICT and digital investments.
+- to deliver a whole of government Digital Transformation Strategy and Roadmap
+- to deliver a digital capability improvement program, including procurement reform
+- to deliver whole-of-government digital platforms, including digital identity
+- and to deliver investment advice, and whole-of-government portfolio oversight on ICT and digital investments.
 
 I’ll provide a brief update on our progress against each of these priorities.
 
