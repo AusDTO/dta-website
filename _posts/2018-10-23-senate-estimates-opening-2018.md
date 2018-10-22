@@ -2,7 +2,7 @@
 title: "Senate Estimates opening statement October 2018"
 category: [news]
 tag: 'dta news'
-thumbnail: /images/blog-thumbnails/randall_estimates_thumb.png
+thumbnail: /images/blog-thumbnails/randall-estimates-thumb.png
 searchexcerpt: This opening statement was tabled by our Chief Executive Officer Randall Brugeaud on 23 October 2018.
 
 ---
