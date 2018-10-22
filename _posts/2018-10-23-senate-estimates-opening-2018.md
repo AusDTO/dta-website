@@ -16,7 +16,7 @@ The DTA delivers a broad range of services, but we are progressively increasing 
 - to deliver a whole of government Digital Transformation Strategy and Roadmap
 - to deliver a digital capability improvement program, including procurement reform
 - to deliver whole-of-government digital platforms, including digital identity
-- and to deliver investment advice, and whole-of-government portfolio oversight on ICT and digital investments.
+- to deliver investment advice, and whole-of-government portfolio oversight on ICT and digital investments.
 
 I’ll provide a brief update on our progress against each of these priorities.
 
