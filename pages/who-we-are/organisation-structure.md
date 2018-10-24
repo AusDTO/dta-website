@@ -7,7 +7,7 @@ searchexcerpt: "Organisation structure of the Digital Transformation Agency at 
 lede: "Organisation structure of the Digital Transformation Agency at October 2018."
 ---
 
-<p><img alt="Organisation structure for the Digital Transformation Agency at at October 2018" data-entity-type="" data-entity-uuid="" src="/images/staff/DTA_Orgchart_2018-October_v.09.png /></p>
+<p><img alt="Organisation structure for the Digital Transformation Agency at at October 2018" data-entity-type="" data-entity-uuid="" src="/images/staff/DTA_Orgchart_2018-October_v.0.9.png /></p>
 
 <p>The organisation structure of the Digital Transformation Agency is:</p>
 
