@@ -10,7 +10,8 @@ The Australian Government has established a moratorium that stops Commonwealth (
 If you are the project owner for a service delivery product, it is your responsibility to assess whether the moratorium applies to your proposed investment. You can talk to your Digital Transformation Coordinator or the Digital Transformation Agency ([dimo@dta.gov.au](mailto:dimo@dta.gov.au)) for help with this.
 
 ## Scope
-The moratorium applies to investments in service delivery capability made by Australian Government non-corporate Commonwealth entities under *[section 11(b) of the Public Governance, Performance and Accountability Act 2013](https://www.legislation.gov.au/Details/C2016C00414/Html/Text#_Toc450312934)*.
+The moratorium applies to investments in service delivery capability made by Australian Government non-corporate Commonwealth entities under *[section 11(b) of the Public Governance, Performance and Accountability Act 2013](https://www.legislation.gov.au/Details/C2016C00414/Html/Text#_Toc450312934)*. Unless an exemption is applied,
+the moratorium covers any investment where the department or agency will be responsible for, partly own, operate or fund the service.
 
 The moratorium does not apply to services owned by state, territory or local governments.
 
