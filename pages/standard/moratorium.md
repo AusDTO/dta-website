@@ -10,11 +10,12 @@ The Australian Government has established a moratorium that stops Commonwealth (
 If you are the project owner for a service delivery product, it is your responsibility to assess whether the moratorium applies to your proposed investment. You can talk to your Digital Transformation Coordinator or the Digital Transformation Agency ([dimo@dta.gov.au](mailto:dimo@dta.gov.au)) for help with this.
 
 ## Scope
-The moratorium applies to investments in service delivery capability made by Australian Government non-corporate Commonwealth entities under *[section 11(b) of the Public Governance, Performance and Accountability Act 2013](https://www.legislation.gov.au/Details/C2016C00414/Html/Text#_Toc450312934)*.
+The moratorium applies to investments in service delivery capability made by Australian Government non-corporate Commonwealth entities under *[section 11(b) of the Public Governance, Performance and Accountability Act 2013](https://www.legislation.gov.au/Details/C2016C00414/Html/Text#_Toc450312934)*. Unless an exemption is applied,
+the moratorium covers any investment where the department or agency will be responsible for, partly own, operate or fund the service.
 
 The moratorium does not apply to services owned by state, territory or local governments.
 
-Information and transactional services [within the scope of the Digital Service Standard](/standard/scope-of-standard/) (the Standard) are covered by the moratorium. However, if you can demonstrate that you are working to meet, or have met, the Standard you will receive an [automatic exemption](#automatic-exemption).
+Information and transactional services [within the scope of the Digital Service Standard](/standard/scope-of-standard/) (the Standard) are covered by the moratorium. However, if you can show that you are working to meet, or have met, the Standard you will receive an [automatic exemption](#automatic-exemption).
 
 Unless you have an exemption, you **cannot** make new investments in:
 
@@ -43,7 +44,7 @@ Some service delivery investments are exempt from the moratorium.
 
 You need to notify your agency’s Digital Transformation Coordinator if your service is automatically exempt. The Digital Transformation Coordinator must then advise the Digital Transformation Agency. The Digital Transformation Agency will confirm whether an automatic exemption applies.
 
-You can also **apply for an exemption**. You should contact the Digital Transformation Agency ([dimo@dta.gov.au](mailto:dimo@dta.gov.au)) to work with your agency. Your minister can then write to the Assistant Minister for Cities and Digital Transformation to request exemption.
+You can also apply for an exemption. Complete the [Service Investment Moratorium Request Form]({{site.baseurl}}/files/Moratorium-Request-template.docx) and send it back to us. You can also apply for an exemption by agreement of ministers. Your minister can write to the Minister for Human Services and Digital Transformation to request exemption. Get in touch with us to find out how to go about this.
 
 Some investments that **may be granted exemption** include:
 
