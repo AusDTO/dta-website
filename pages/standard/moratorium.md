@@ -15,7 +15,7 @@ the moratorium covers any investment where the department or agency will be resp
 
 The moratorium does not apply to services owned by state, territory or local governments.
 
-Information and transactional services [within the scope of the Digital Service Standard](/standard/scope-of-standard/) (the Standard) are covered by the moratorium. However, if you can demonstrate that you are working to meet, or have met, the Standard you will receive an [automatic exemption](#automatic-exemption).
+Information and transactional services [within the scope of the Digital Service Standard](/standard/scope-of-standard/) (the Standard) are covered by the moratorium. However, if you can show that you are working to meet, or have met, the Standard you will receive an [automatic exemption](#automatic-exemption).
 
 Unless you have an exemption, you **cannot** make new investments in:
 
