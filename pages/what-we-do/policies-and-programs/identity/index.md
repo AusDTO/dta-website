@@ -24,7 +24,7 @@ lede: The DTA is delivering a digital identity program which will allow users of
 	<li>a set of rules and standards which make sure the system is secure and accessible, called the <a href="/what-we-do/policies-and-programs/identity/join-the-identity-federation/accreditation-and-onboarding/trusted-digital-identity-framework">Trusted Digital Identity Framework</a></li>
 	<li>digital identity providers, including the Commonwealth identity provider, myGovID, run by the Australian Taxation Office</li>
 	<li>the identity exchange, which acts as a gateway between the government service and the digital identity providers, run by the Department of Human Services</li>
-	<li>the government services that use myGovID as proof of identity to access a service</li>
+	<li>the digital services that rely on the digital identity program to confirm that someone is authorised to access their service</li>
 </ul>
 
 <p dir="ltr">These parts work together to deliver a secure digital identity program which protects the privacy of those who use it.</p>
