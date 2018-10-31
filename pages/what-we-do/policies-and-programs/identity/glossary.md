@@ -4,8 +4,10 @@ layout: basic
 permalink: /what-we-do/policies-and-programs/identity/glossary/
 localnav: what-we-do
 searchexcerpt: "We’re working with government agencies, the private sector and the public to design and implement a digital identity solution for the Australia."
-lede: Helping users interact with government safely and securely.
+lede: There’s a lot of specialised language in the digital identity program so we’ve put together a list of terms that we get asked about a lot.
 ---
+If you’re interested in learning more, you can also download the [Trusted Digital Identity Framework](https://dta-www-drupal-20180130215411153400000001.s3.ap-southeast-2.amazonaws.com/s3fs-public/files/digital-identity/tdif-overview-and-glossary.pdf) glossary which contains terms that are specific to the framework.
+
 <nav class="index-links">
   <h2>On this page</h2>
   <ul class="none au-link-list">
@@ -72,7 +74,7 @@ lede: Helping users interact with government safely and securely.
 
 <h2 id="govpass">GovPass</h2>
 
-<p>GovPass is the name for the digital identity program of work being delivered. This includes everything from the policy and processes to the technology and systems.&nbsp;</p>
+<p>GovPass is the name for the digital identity program of work being delivered. This includes everything from the policy and processes to the technology and systems.</p>
 
 
 <a href="#content" class="back-to-top">Back to top</a>
@@ -120,7 +122,7 @@ lede: Helping users interact with government safely and securely.
 <h2 dir="ltr" id="identity-proofing">Identity proofing</h2>
 
 <p dir="ltr">Identity proofing describes the process of collecting and verifying information about a person to confirm their identity. Different online services need different levels of identity proofing. There are 4 levels of identity proofing that apply to different services.</p>
-<p dir="ltr">For example, if you want to pay rates, you can stay anonymous. If you want to get a unique student identifier, you may need an identity document. If you want to apply for a Tax File Number, you may need an identity document and a photo of yourself. If you want to apply for a passport, you may need an identity document, a photo of yourself and an in-person check.</p>
+<p dir="ltr">For example, if you want to pay rates, you can stay anonymous. If you want to get a Unique Student Identifier, you will need two identity documents. If you want to apply for Youth Allowance, you will need three identity documents including a photo of yourself. If you want to apply for a passport, you will need identity documents, a photo of yourself and an in-person check.</p>
 
 
 <a href="#content" class="back-to-top">Back to top</a>
@@ -134,14 +136,14 @@ lede: Helping users interact with government safely and securely.
 
 <h2 dir="ltr" id="mygovid">myGovID</h2>
 
-<p dir="ltr">myGovID is the Commonwealth Government-run identity provider. Setting up a myGovID account will be like a 100 point identity check, but done online, rather than in person in a government service centre. Once it is set up, a myGovID can be used over and over again as a form of identity to access different government service. This system is managed by the Australian Taxation Office.</p>
+<p dir="ltr">myGovID is the Commonwealth Government-run identity provider. Setting up a myGovID account will be like a 100 point identity check, but done online, rather than in person in a government service centre. Once it is set up, a myGovID can be used over and over again as a form of identity to access different government services. This system is managed by the Australian Taxation Office.</p>
 
 
 <a href="#content" class="back-to-top">Back to top</a>
 
 <h2 dir="ltr" id="trusted-digital-identity-framework">Trusted Digital Identity Framework</h2>
 
-<p dir="ltr">The Trusted Digital Identity Framework (TDIF) sets out the rules and standards everyone in the identity federation needs to follow. It also contains guidance for following these rules.</p>
+<p dir="ltr">The [Trusted Digital Identity Framework (TDIF)](https://beta.dta.gov.au/our-projects/digital-identity/join-identity-federation/accreditation-and-onboarding/trusted-digital-identity-framework) sets out the rules and standards everyone in the identity federation needs to follow. It also contains guidance for following these rules.</p>
 
 <a href="#content" class="back-to-top">Back to top</a>
 
