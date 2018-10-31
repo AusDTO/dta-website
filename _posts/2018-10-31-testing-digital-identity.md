@@ -2,7 +2,7 @@
 title: "Testing digital identity"
 category: [news]
 tag: 'dta news'
-thumbnail: images/blog-thumbnails/Testing_digi_IDDTA_blog_thumb.png
+thumbnail: /images/blog-thumbnails/Testing_digi_IDDTA_blog_thumb.png
 searchexcerpt: The Australian Government has started testing myGovID with real people and services.
 
 ---
