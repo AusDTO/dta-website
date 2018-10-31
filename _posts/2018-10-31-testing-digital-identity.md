@@ -15,6 +15,7 @@ Today, we announced the start of the first pilot program. myGovID will be tested
 The current process for applying for a TFN involves completing a form, printing it and then taking it with your identity documents to a post office. The myGovID pilot brings this entire process online, reducing the waiting time for a TFN from up to a month to just minutes.
 
 Participants in the pilot will be the first people to set up a myGovID, and to use it for a real service.
+
 More pilots with different government services will follow over the coming months, allowing more people and businesses to get a myGovID and test the program.  
 
 Watch our [video to get a simple overview of how people will experience myGovID](https://youtu.be/_rZoBGapcIg).
