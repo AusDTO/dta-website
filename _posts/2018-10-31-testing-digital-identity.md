@@ -20,6 +20,7 @@ More pilots with different government services will follow over the coming month
 
 Watch our video to get a simple overview of how people will experience myGovID.
 
+<details open data-label="content-accordion-1-example" aria-expanded="false">
 <summary><h3>Read transcript</h3></summary>
 <div class="accordion-panel" markdown="1">
 
@@ -65,13 +66,11 @@ Narrator: myGovID will be available more widely next year. Right now, a series o
 
 On screen: Illustration of initial woman on couch using mobile phone reappears. Icons of a baby, stethoscope, graduation hat, and car float out of her laptop representing having a baby, health, study and car registration services. Final screen appears reading ‘myGovID: makes accessing online government services simple, safe and secure’.
 
-Narrator: Over time, myGovID will be connected to more and more online government services so you can get more done when you want, and where you wan
+Narrator: Over time, myGovID will be connected to more and more online government services so you can get more done when you want, and where you want.
 
 </div>
+</details>
 
 <div class="embed-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/_rZoBGapcIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<details open data-label="content-accordion-1-example" aria-expanded="false">
-
-</details>
