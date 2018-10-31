@@ -22,7 +22,7 @@ Any public-facing, online service that requires the user to prove who they are c
 
 Until mid-2019 we are rolling out a series of pilot programs that will allow us to continue to test and evaluate myGovID and the broader digital identity system. Following the completion of this testing more services will be onboarded.
 
-If your organisation is interested in connecting your service to the exchange, you can email [identity@dta.gov.au](identity@dta.gov.au)
+If your organisation is interested in connecting your service to the exchange, you can email [identity@dta.gov.au](mailto:identity@dta.gov.au)
 
 ## Get in touch
 
