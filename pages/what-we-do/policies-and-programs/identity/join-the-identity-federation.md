@@ -7,11 +7,12 @@ searchexcerpt: "We’re working with government agencies, the private sector and
 lede: To make sure we’re keeping people and their data safe, Australia’s digital identity program is being built as a federation.
 ---
 
-<p dir="ltr">The identity federation is a trusted ecosystem of organisations. All participants in the federation will work together to deliver a secure and consistent experience for those using the digital identity system.</p>
+The identity federation is a trusted ecosystem of organisations. All participants in the federation will work together to deliver a secure and consistent experience for those using the digital identity system.
 
-<p dir="ltr">All participants in the identity federation must follow the rules and standards set out in the <a href="/what-we-do/policies-and-programs/identity/join-the-identity-federation/accreditation-and-onboarding/trusted-digital-identity-framework/">Trusted Digital Identity Framework</a> (TDIF). The framework ensures all providers and users of the digital identity system are held to the same high standards of security, privacy and usability.</p>
+All participants in the identity federation must follow the rules and standards set out in the Trusted Digital Identity Framework (TDIF). The TDIF ensures all providers and users of the digital identity system are held to the same high standards of security, privacy and usability.
 
-<p dir="ltr">Identity providers must also be formally accredited against the TDIF by the Oversight Authority. The Oversight Authority is a key part of the identity federation governance model. It is responsible for maintaining fairness across the federation and making sure services are following the same high standards of usability, accessibility and security.</p>
+Identity providers must also be formally accredited against the TDIF by the Oversight Authority. The Oversight Authority is a key part of the identity federation governance model. It is responsible for maintaining fairness across the federation and making sure services are following the rules outlined under the TDIF.
+
 
 Read about [accreditation and onboarding](/what-we-do/policies-and-programs/identity/join-the-identity-federation/accreditation-and-onboarding/).
 
