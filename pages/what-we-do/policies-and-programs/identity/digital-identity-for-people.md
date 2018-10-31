@@ -4,7 +4,7 @@ layout: basic
 permalink: /what-we-do/policies-and-programs/identity/digital-identity-for-people/
 localnav: what-we-do
 searchexcerpt: "myGovID — the Commonwealth Government’s digital identity provider."
-lede: The Australian Government digital identity provider is called myGovID.
+lede: myGovID — the Commonwealth Government’s digital identity provider
 ---
 
 In the future, Australians will be given the opportunity to use a digital identity, selected from a range of different providers, to access government services online.
