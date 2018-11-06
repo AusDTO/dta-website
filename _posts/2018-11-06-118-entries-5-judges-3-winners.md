@@ -45,7 +45,7 @@ The rationale of the teams to put themselves in as many challenges as possible m
 
 ## The dilemma
 
-The judge’s dilemma was to make hard selections when there are so many worthy entries. A couple of themes emerged. We saw a lot of solutions to help prevent bankruptcy, and which locations in Australia most needed Tax Office shopfronts. There were also a lot of game-based entries, where a mobile app encouraged users to look for landmarks around their local area and update datasets in real time. It was great to see crowd-sourced data deliver such quality solutions.
+The judges' dilemma was to make hard selections when there are so many worthy entries. A couple of themes emerged. We saw a lot of solutions to help prevent bankruptcy, and which locations in Australia most needed Tax Office shopfronts. There were also a lot of game-based entries, where a mobile app encouraged users to look for landmarks around their local area and update datasets in real time. It was great to see crowd-sourced data deliver such quality solutions.
 
 We look forward to celebrating the incredible ingenuity of GovHack 2018 at the upcoming award ceremony. Good luck!
 
