@@ -22,9 +22,11 @@ This year, we wanted to do something different, and inspire competitors to take 
 ## Our two challenges:
 
 **Mix and mashup bounty award**
+
 The best use of two or more data sets which seem to be completely unrelated to each other, but can be brought together to inform great solutions. 	
 
 **Help government decide with data award**
+
 Government bodies at local, state and national levels make many decisions each day. How can available data help them make evidence-based, informed decisions to deliver better services?
 
 By the end of the weekend, we had received 118 entries for our two challenges.
