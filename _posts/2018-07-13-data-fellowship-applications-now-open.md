@@ -32,7 +32,7 @@ Find out what other [projects people have worked on](https://beta.dta.gov.au/hel
 
 ## How to apply
 
-You can [apply online](https://ausdta.recruiterbox.com/jobs/924ea37f1d28487db58624a9b286adff).
+You can [apply online](https://ausdta.recruiterbox.com/jobs/774bd746e1db46b796fcb7eea5fc9c7a).
 
 You’ll need to make sure you:
 - have approval from your agency’s [data champion](https://data.gov.au/dataset/list-of-data-champions) or a senior executive (SES Band 1 equivalent or above)
