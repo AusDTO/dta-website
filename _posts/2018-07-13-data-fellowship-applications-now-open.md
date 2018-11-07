@@ -3,7 +3,7 @@ title: "Data fellowship applications now open"
 category: [news]
 tag: 'dta news'
 thumbnail: /images/blog-thumbnails/Data-application-thumb.png
-searchexcerpt: Applications for the next round of fellowships open 5 November and close 26 November 2018.
+searchexcerpt: Applications for the next round of fellowships open 5 November and close 28 November 2018.
 
 ---
 ## What is a data fellowship?
