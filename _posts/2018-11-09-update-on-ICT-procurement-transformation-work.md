@@ -34,18 +34,18 @@ One of the biggest achievements so far has been releasing a new [Digital Sourcin
 
 In the past 12 months we have also delivered a number of initiatives across the 10 recommendations, including:
 
-- Completing three whole-of-government supplier agreements to lower cost, increase flexibility and reduce risk for the Australian government.
-- Upgrading the Digital Marketplace so that it is now one of the government’s top five largest multi-supplier ICT panels by volume, with almost three quarters of all contracts going to small and medium sized enterprises.
-- Launching the hardware and software marketplaces to rationalise the digital panel sourcing process.
-- Commencing simplification of the standard IT contract template suite to make it easier to do business.
-- Completing the Secure Cloud Strategy, while developing several other strategies such as the Digital Transformation Strategy.
+- Completing three whole-of-government supplier agreements to lower cost, increase flexibility and reduce risk for the Australian government
+- Upgrading the Digital Marketplace so that it is now one of the government’s top five largest multi-supplier ICT panels by volume, with almost three quarters of all contracts going to small and medium sized enterprises
+- Launching the hardware and software marketplaces to rationalise the digital panel sourcing process
+- Commencing simplification of the standard IT contract template suite to make it easier to do business
+- Completing the Secure Cloud Strategy, while developing several other strategies such as the Digital Transformation Strategy
 
 ## Our lessons learned have been just as important, including:
 
-- Be clear about the principles. The ICT Procurement Taskforce report has a number of principles to guide the path forward. We utilise these to help set our direction and priorities.
-- One size does not fit all. It is important to understand how and why buyers purchase in order to influence that process.
-- Consult a diverse set of perspectives. We introduced an exemplar process that seeks input in a time-boxed manner. It has been very effective at gaining a wide set of views to develop the content.
-- Widespread change is required to ensure enduring impact. It is not as easy as just pulling one lever to have an impact, it requires multiple changes across the value chain.
+- Be clear about the principles. The ICT Procurement Taskforce report has a number of principles to guide the path forward. We utilise these to help set our direction and priorities
+- One size does not fit all. It is important to understand how and why buyers purchase in order to influence that process
+- Consult a diverse set of perspectives. We introduced an exemplar process that seeks input in a time-boxed manner. It has been very effective at gaining a wide set of views to develop the content
+- Widespread change is required to ensure enduring impact. It is not as easy as just pulling one lever to have an impact, it requires multiple changes across the value chain
 
 ## The future is about being ‘open for business’
 
