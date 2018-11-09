@@ -2,7 +2,7 @@
 title: "An update on our ICT procurement transformation work"
 category: [blog]
 tag: 'digital transformation'
-author: Marita Baier-Gorman
+author: Anthony Vlasic
 thumbnail: /images/blog-thumbnails/Ant-ICT-procurement-thumb.png
 hero-image: /images/blog-banners/Ant-ICT-procurement-hero.png
 searchexcerpt: Our Chief Strategy Officer, Dr Anthony Vlasic gives an update on how we're transforming ICT procurement across government.
