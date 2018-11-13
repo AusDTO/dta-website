@@ -43,7 +43,7 @@ lede: "Organisation structure of the Digital Transformation Agency at November 
 	</ul>
 	</li>
 	<li><strong>Portfolio management and investment advisory</strong><br />
-	Joanna Hutchinson, Chief Portfolio Officer
+	Joanne Hutchinson, Chief Portfolio Officer
 	<ul>
 		<li>Portfolio Management Office</li>
 		<li>Investment advisory office</li>
