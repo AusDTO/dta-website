@@ -4,10 +4,10 @@ layout: basic
 permalink: /who-we-are/organisation-structure/
 localnav: who-we-are
 searchexcerpt: "Organisation structure of the Digital Transformation Agency at October 2018."
-lede: "Organisation structure of the Digital Transformation Agency at October 2018."
+lede: "Organisation structure of the Digital Transformation Agency at November 2018."
 ---
 
-<p><img alt="Organisation structure for the Digital Transformation Agency at at October 2018" data-entity-type="" data-entity-uuid="" src="https://dta-www-drupal-20180130215411153400000001.s3.ap-southeast-2.amazonaws.com/s3fs-public/images/Our%20people/DTA_Orgchart_2018-Augustv8.png" /></p>
+<p><img alt="Organisation structure of the Digital Transformation Agency at November 2018" data-entity-type="" data-entity-uuid="" src="https://dta-www-drupal-20180130215411153400000001.s3.ap-southeast-2.amazonaws.com/s3fs-public/images/Our%20people/DTA_Orgchart_2018-October_v10.0.png" /></p>
 
 <p>The organisation structure of the Digital Transformation Agency is:</p>
 
@@ -43,7 +43,7 @@ lede: "Organisation structure of the Digital Transformation Agency at October 2
 	</ul>
 	</li>
 	<li><strong>Portfolio management and investment advisory</strong><br />
-	Vacant, Chief Portfolio Officer
+	Joanna Hutchinson, Chief Portfolio Officer
 	<ul>
 		<li>Portfolio Management Office</li>
 		<li>Investment advisory office</li>
