@@ -24,6 +24,7 @@ If you’re interested in learning more, you can also download the [Trusted Digi
     <li><a href="#identity-proofing">Identity proofing</a></li>
     <li><a href="#identity-provider">Identity provider</a></li>
     <li><a href="#mygovid">myGovID</a></li>
+    <li><a href="#mygov">myGov</a></li>
     <li><a href="#trusted-digital-identity-framework">Trusted Digital Identity Framework</a></li>
   </ul>
 </nav>
@@ -124,13 +125,11 @@ If you’re interested in learning more, you can also download the [Trusted Digi
 <p dir="ltr">Identity proofing describes the process of collecting and verifying information about a person to confirm their identity. Different online services need different levels of identity proofing. There are 4 levels of identity proofing that apply to different services.</p>
 <p dir="ltr">For example, if you want to pay rates, you can stay anonymous. If you want to get a Unique Student Identifier, you will need two identity documents. If you want to apply for Youth Allowance, you will need three identity documents including a photo of yourself. If you want to apply for a passport, you will need identity documents, a photo of yourself and an in-person check.</p>
 
-
 <a href="#content" class="back-to-top">Back to top</a>
 
 <h2 dir="ltr" id="identity-provider">Identity provider</h2>
 
 <p dir="ltr">People can use an identity provider to prove their identity online. There is one Commonwealth Government run identity provider — myGovID. This is managed by the Australian Taxation Office. We expect other businesses and government agencies to become identity providers in the future to allow people to choose how they prove who they are online.</p>
-
 
 <a href="#content" class="back-to-top">Back to top</a>
 
@@ -138,6 +137,11 @@ If you’re interested in learning more, you can also download the [Trusted Digi
 
 <p dir="ltr">myGovID is the Commonwealth Government-run identity provider. Setting up a myGovID account will be like a 100 point identity check, but done online, rather than in person in a government service centre. Once it is set up, a myGovID can be used over and over again as a form of identity to access different government services. This system is managed by the Australian Taxation Office.</p>
 
+<a href="#content" class="back-to-top">Back to top</a>
+
+<h2 dir="ltr" id="mygov">myGov</h2>
+
+<p dir="ltr">myGov is a secure online portal managed by the Department of Human Services. A myGov account gives users a single place to access government services with one login and one password.</p>
 
 <a href="#content" class="back-to-top">Back to top</a>
 
