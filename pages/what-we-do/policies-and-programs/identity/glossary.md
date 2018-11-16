@@ -25,6 +25,7 @@ If you’re interested in learning more, you can also download the [Trusted Digi
     <li><a href="#identity-provider">Identity provider</a></li>
     <li><a href="#mygovid">myGovID</a></li>
     <li><a href="#mygov">myGov</a></li>
+    <li><a href="#pia">Privacy Impact Assessment</a></li>
     <li><a href="#trusted-digital-identity-framework">Trusted Digital Identity Framework</a></li>
   </ul>
 </nav>
@@ -142,6 +143,12 @@ If you’re interested in learning more, you can also download the [Trusted Digi
 <h2 dir="ltr" id="mygov">myGov</h2>
 
 <p dir="ltr">myGov is a secure online portal managed by the Department of Human Services. A myGov account gives users a single place to access government services with one login and one password.</p>
+
+<a href="#content" class="back-to-top">Back to top</a>
+
+<h2 dir="ltr" id="pia">Privacy Impact Assessment</h2>
+
+<p dir="ltr">A Privacy Impact Assessment (PIA) assesses a project’s risk of non-compliance with privacy legislation. It should tell the ‘full story’ of a project from a privacy perspective, going beyond compliance to also look at broader impacts and risks. This includes whether the planned uses of personal information in the project will be acceptable to the community.</p>
 
 <a href="#content" class="back-to-top">Back to top</a>
 
