@@ -5,5 +5,4 @@ memory: 64M
 disk_quota: 1G
 buildpack: staticfile_buildpack
 routes:
-  - route: www.dta.gov.au
-  - route: dta-website.apps.b.cld.gov.au
+  - route: dta-website-archive.apps.b.cld.gov.au
