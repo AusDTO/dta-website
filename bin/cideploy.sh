@@ -40,7 +40,7 @@ main() {
       cf auth $CF_USER $CF_PASSWORD_PROD
       cf target -o $CF_ORG
       cf target -s $CF_SPACE
-      cf zero-downtime-push dta-website -f manifest-production.yml
+      cf zero-downtime-push dta-website-classic -f manifest-production.yml
       ;;
     develop)
       checkrepo
@@ -49,7 +49,7 @@ main() {
       cf auth $CF_USER $CF_PASSWORD_STAGING
       cf target -o $CF_ORG
       cf target -s $CF_SPACE
-      cf zero-downtime-push dta-website -f manifest-develop.yml
+      cf zero-downtime-push dta-website-classic -f manifest-develop.yml
       ;;
     ${DEPLOY_BRANCHES})
       basicauth

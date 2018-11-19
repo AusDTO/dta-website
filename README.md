@@ -4,6 +4,8 @@
 [![Stories in Ready](https://badge.waffle.io/AusDTO/dta-website.png?label=ready&title=Ready)](https://waffle.io/AusDTO/dta-website)
 [![Code Climate](https://codeclimate.com/github/AusDTO/dta-website/badges/gpa.svg)](https://codeclimate.com/github/AusDTO/dta-website)
 
+This website was archived Nov 2018. To make sure you're getting the most up-to-date information about DTA, [see our current site](https://www.dta.gov.au).
+
 ## Technology
 
 www.dta.gov.au is a [Jekyll website](http://jekyllrb.com/).
