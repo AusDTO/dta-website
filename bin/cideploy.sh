@@ -37,7 +37,7 @@ main() {
       mv _site/nginx-production.conf _site/nginx.conf
       mv _site/robots-production.txt _site/robots.txt
       cf api $CF_PROD_API
-      cf auth $CF_USER $CF_PASSWORD
+      cf auth $CF_USER $CF_PASSWORD_PROD
       cf target -o $CF_ORG
       cf target -s $CF_SPACE
       cf zero-downtime-push dta-website -f manifest-production.yml
@@ -46,7 +46,7 @@ main() {
       checkrepo
       basicauth
       cf api $CF_STAGING_API
-      cf auth $CF_USER $CF_PASSWORD
+      cf auth $CF_USER $CF_PASSWORD_STAGING
       cf target -o $CF_ORG
       cf target -s $CF_SPACE
       cf zero-downtime-push dta-website -f manifest-develop.yml
@@ -54,7 +54,7 @@ main() {
     ${DEPLOY_BRANCHES})
       basicauth
       cf api $CF_STAGING_API
-      cf auth $CF_USER $CF_PASSWORD
+      cf auth $CF_USER $CF_PASSWORD_STAGING
       cf target -o $CF_ORG
       cf target -s $CF_SPACE
       cf zero-downtime-push "$CF_PUSH_APPNAME" -f manifest.yml
