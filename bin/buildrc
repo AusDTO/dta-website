@@ -20,7 +20,7 @@ readonly CF_PUSH_APPNAME="${CIRCLE_PROJECT_REPONAME}-`basename \"${GITBRANCH}\"`
 export DTA_SITE_BASEURL=""
 case "${GITBRANCH}" in
   master)
-    export DTA_SITE_URL="https://www.dta.gov.au"
+    export DTA_SITE_URL="https://${CIRCLE_PROJECT_REPONAME}.apps.b.cld.gov.au"
     ;;
   develop)
     export DTA_SITE_URL="https://${CIRCLE_PROJECT_REPONAME}.apps.y.cld.gov.au"
